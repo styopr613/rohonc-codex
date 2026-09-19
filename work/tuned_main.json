@@ -1,0 +1,46 @@
+{
+ "grille": {
+  "cfg": {
+   "rows": 452,
+   "tables": 6,
+   "stride": 1,
+   "p_jump": 0.22496047163844618
+  },
+  "train_score": 1.4233738955858724,
+  "budget": 200,
+  "evaluated": 200
+ },
+ "llull": {
+  "cfg": {
+   "disks": 3,
+   "faces": 16,
+   "p_advance": 0.752129742072701,
+   "p_blank": 0.2637883554364372
+  },
+  "train_score": 2.5625536859296796,
+  "budget": 200,
+  "evaluated": 200
+ },
+ "abbrev": {
+  "cfg": {
+   "p_suspend": 0.7666518061114297,
+   "p_contract": 0.03994528674185427,
+   "p_sign": 0.8909044039167648,
+   "p_nasal": 0.7051287760462857,
+   "allographs": 1
+  },
+  "train_score": 4.817156752630165,
+  "budget": 200,
+  "evaluated": 200
+ },
+ "selfcite": {
+  "cfg": {
+   "method.canFollow": "none",
+   "method.morph": "slim",
+   "method.sourceChooser": "page"
+  },
+  "train_score": 1.3427056494261032,
+  "budget": 200,
+  "evaluated": 20
+ }
+}

@@ -1,0 +1,6 @@
+.venv/
+refs/
+data/
+work/scitext/
+__pycache__/
+*.pyc

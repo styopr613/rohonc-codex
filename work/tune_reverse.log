@@ -1,0 +1,5 @@
+  grille           best 1.253x on TRAIN  {'rows': 657, 'tables': 4, 'stride': 2, 'p_jump': 0.7805751035806194}
+  llull            best 2.261x on TRAIN  {'disks': 3, 'faces': 35, 'p_advance': 0.4999868596542567, 'p_blank': 0.055358783572340496}
+  abbrev           best 4.136x on TRAIN  {'p_suspend': 0.021884590150454186, 'p_contract': 0.022247241924415406, 'p_sign': 0.7000933432084494, 'p_nasal': 0.06946389916169493, 'allographs': 1}
+
+wrote /home/ubuntu/voynich/work/tuned_reverse.json
