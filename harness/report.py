@@ -14,7 +14,7 @@ import profile as prof
 
 WORK = os.path.join(corpus.ROOT, "work")
 
-ORDER = ["noise_floor", "fivecomp", "fivecomp_scribe", "manual",
+ORDER = ["noise_floor", "fivecomp", "fivecomp_scribe", "fivecomp_lines", "manual",
          "naibbe_latin", "naibbe_italian", "naibbe_wb", "naibbe_wb_italian",
          "naibbe_word", "grille", "grille_bigtable", "selfcite", "llull",
          "abbrev", "gibberish", "natlang_italian", "natlang_latin",

@@ -70,6 +70,39 @@ def apply(doc, h, rng):
     return out
 
 
+def line_start_pool(train, frac=0.35):
+    """The words a scribe reaches for when starting a line, from TRAIN only.
+
+    Not a claim about meaning. A procedure that begins each line from a
+    different place -- the first column of a table, the top of a page, a
+    separate stock of openers -- produces a distinct line-opening vocabulary
+    without anything being said. This exists to find out whether the entry-like
+    line structure of listtest.py can be had for free by such a rule, the way
+    the page decoration above turned out to be free.
+    """
+    c = Counter()
+    for p in train:
+        for ln in p.lines[1:]:
+            if ln:
+                c[ln[0]] += 1
+    keep = int(len(c) * frac) or 1
+    top = [w for w, _ in c.most_common(keep)]
+    wts = [c[w] for w in top]
+    return top, wts
+
+
+def apply_line_starts(doc, pool, wts, rng, p_apply):
+    out = []
+    for p in doc:
+        lines = [list(l) for l in p.lines]
+        for ln in lines[1:]:
+            if ln and rng.random() < p_apply:
+                ln[0] = rng.choices(pool, weights=wts)[0]
+        out.append(corpus.Para(folio=p.folio, lines=lines, section=p.section,
+                               lang=p.lang, hand=p.hand))
+    return out
+
+
 @register("fivecomp_scribe", kind="self",
           label="five-component model + a scribe's page habits",
           note="TEST: does ordinary page decoration close the line/paragraph gap for free?")
@@ -80,4 +113,21 @@ def generate(spec, train, seed=0, cfg=None):
     notes = dict(notes)
     notes["habits"] = {"flourish": round(h["flourish"], 4),
                        "capital": round(h["capital"], 4)}
+    return doc, notes
+
+
+@register("fivecomp_lines", kind="self",
+          label="five-component model + page habits + a line-opening rule",
+          note="TEST: can a line-start rule buy the entry-like line structure for free?")
+def generate_lines(spec, train, seed=0, cfg=None):
+    doc, notes = fivecomp_generate(spec, train, seed=seed)
+    h = habits(train)
+    rng = random.Random(seed + 31)
+    doc = apply(doc, h, rng)
+    pool, wts = line_start_pool(train)
+    doc = apply_line_starts(doc, pool, wts, rng, p_apply=1.0)
+    notes = dict(notes)
+    notes["habits"] = {"flourish": round(h["flourish"], 4),
+                       "capital": round(h["capital"], 4),
+                       "line_start_pool": len(pool)}
     return doc, notes

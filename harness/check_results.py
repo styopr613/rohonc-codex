@@ -148,6 +148,20 @@ def main():
     claim("v101 within-line MI", pv["within"][0], 0.2321, 0.01)
     claim("v101 across-break MI", pv["across"][0], 0.0112, 0.005)
 
+    # 4.2.3 the list test -- recomputed live
+    import listtest as LT
+    import random as _r
+    o, osd = LT.opening_by_length(whole, _r.Random(408))
+    ps, pssd = LT.position_structure_by_length(whole, _r.Random(408))
+    claim("manuscript opening distinct | length", o, 0.1930, 0.01)
+    claim("manuscript position structure | length", ps, 0.0585, 0.01)
+    for drop, want in ((0, 0.0428), (1, 0.0128), (2, 0.0017)):
+        v, vsd, _ = LT._edge_strip(whole, drop, _r.Random(408))
+        claim(f"edge-strip drop={drop}", v, want, 0.002)
+    v101b = corpus.load(os.path.join(corpus.DATA, "GC2a-n.txt"))
+    v, vsd, _ = LT._edge_strip(v101b, 2, _r.Random(408))
+    claim("edge-strip drop=2, v101", v, 0.0016, 0.002)
+
     # gate: ruler agreement claim in section 2
     worst = 0.0
     for (b, m), want in [(("text", "h2 (char)"), 1.842), (("struct", "len>=8 %"), 8.3)]:

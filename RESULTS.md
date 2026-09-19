@@ -8,8 +8,8 @@ noise rather than explanation.
 
 **This is a ranking with caveats, not a verdict.** Nothing here reads the
 manuscript, and no result below is a decipherment. Read §7 before quoting §3,
-and §6 for the three conclusions this document has already had to withdraw —
-including, in §4.2.2, the one it found most interesting.
+and §6 for the four conclusions this document has already had to withdraw —
+including, in §4.2.2 and §4.2.3, the two it found most interesting.
 
 Built 2026-09-19 on Rachel. Private working repository; see §9.
 
@@ -42,10 +42,12 @@ control and no self-citation baseline.
 
 So: one ruler, every process, the same protocol. The unglamorous unification.
 
-The single most useful thing it produced was not a ranking. It was §4.2.2: the
-manuscript's word-to-word structure is real, and it stops dead at the right-hand
-margin, where a real language's does not. Whatever made this text worked one
-line at a time.
+The single most useful thing it produced was not a ranking. It was §4.2.2 and
+§4.2.3 together: the manuscript's word-to-word structure is real, it stops dead
+at the right-hand margin where a real language's does not, and inside the line
+it sits entirely in the first and last couple of words. Whatever made this text
+worked one line at a time, with a way of starting a line and a way of ending
+one, and nothing in between.
 
 ## 2. What was built
 
@@ -111,6 +113,7 @@ conclusion in §4 depends on any of them.
 | `noise_floor` | manuscript, other half | 2.0% | 0.16x | 0.35x | 0.12x (0.13) |
 | `fivecomp` | five-component model (fingerprint) | 3.3% | 0.29x | 2.96x | 0.25x (0.29) |
 | `fivecomp_scribe` | five-component model + a scribe's page habits | 4.4% | 0.37x | 1.43x | 0.37x (0.31) |
+| `fivecomp_lines` | five-component model + page habits + a line-opening rule | 4.5% | 0.31x | 1.31x | 0.30x (0.33) |
 | `manual` | hand-executable manual (fingerprint) | 9.0% | 1.15x | 2.99x | 0.61x (0.65) |
 | `naibbe_latin` | Naibbe verbose cipher over latin | 15.6% | 1.24x | 3.24x | 1.07x (0.86) |
 | `naibbe_italian` | Naibbe verbose cipher over italian | 15.4% | 1.19x | 3.30x | 0.87x (0.73) |
@@ -140,6 +143,7 @@ conclusion in §4 depends on any of them.
 | `noise_floor` | 1.85 | 3.86 | 0.273 | 5.20 | -0.919 | 0.068 |
 | `fivecomp` | 1.86 | 3.85 | 0.251 | 5.16 | -0.918 | 0.065 |
 | `fivecomp_scribe` | 1.87 | 3.87 | 0.261 | 5.17 | -0.908 | 0.064 |
+| `fivecomp_lines` | 1.84 | 3.86 | 0.239 | 5.12 | -0.900 | 0.048 |
 | `manual` | 1.91 | 3.79 | 0.232 | 5.20 | -0.728 | 0.049 |
 | `naibbe_latin` | 1.78 | 3.87 | 0.271 | 5.23 | -0.954 | 0.005 |
 | `naibbe_italian` | 1.79 | 3.86 | 0.262 | 5.20 | -0.973 | 0.004 |
@@ -370,6 +374,88 @@ for exact word repeats. This is a much stronger version: not merely that words
 rarely repeat across a line boundary, but that **no character-level dependence
 of any kind survives the boundary**, while remaining strong within it.
 
+### 4.2.3 Is it a list, then? No. The structure sits at the edges of the line
+
+§4.2.2 ruled out flowing prose but not meaning, because plenty of meaningful
+writing is line-bounded: a recipe book, an inventory, a herbal with one plant
+per line. So the next question is narrower. Given that the line is the unit,
+does a line behave like an **entry** -- a self-contained item with its own
+shape -- or like a **chunk**, an arbitrary run of text one line long?
+
+Two measurements, each against a prose control (Italian on the manuscript's own
+line budgets, where line breaks are arbitrary by construction) and a positive
+control (a synthetic list: a headword from a small inventory, then body words).
+Both hold word length fixed, because the scribe fitted words to the space left
+and onset class correlates with length. Paragraph-opening lines are excluded
+throughout; they are already known to carry a gallows capital.
+
+| | opening distinct \| length | sigma | position structure \| length | sigma |
+|---|---:|---:|---:|---:|
+| **the manuscript** | **0.1930** | 250 | **0.0585** | 44 |
+| register (synthetic list) | 0.1986 | 120 | 0.0433 | 13 |
+| five-component model | 0.0259 | 14 | 0.0075 | 4.7 |
+| prose (Italian, same layout) | 0.0026 | 1.2 | −0.0017 | −1.2 |
+| table-and-grille | 0.0019 | 0.7 | −0.0011 | −0.6 |
+| Naibbe cipher | 0.0029 | 1.5 | −0.0002 | −0.1 |
+
+On the face of it the manuscript looks like a list and nothing like prose. Its
+line openings are as distinct as a deliberately constructed register's, and its
+position structure is *stronger* than one. Prose sits at zero on both.
+
+It is not decoration doing it. A gallows glyph opens 8.9 % of continuation
+lines against 8.3 % of mid-line words — no difference at all. What separates a
+line opening is vocabulary: `d-` twice as common as mid-line, `y-` five times,
+`s-` five times, while `ch-` is suppressed fivefold and `k-` fourfold. The
+commonest line openers are `daiin saiin dain sol sor sain`; the commonest
+mid-line words are `daiin chedy ol aiin chol shedy`. Genuinely different sets.
+
+**Then both halves of it came apart.**
+
+*The distinctive opening is free.* Adding one rule to the best generator —
+begin each continuation line from a separate stock of opener words, drawn from
+the training half — takes opening distinctness from 0.0259 to **0.1890**
+against the manuscript's 0.1930. A procedure that starts each line somewhere
+different, from the first column of a table or the top of a page, produces this
+without anything being said. Nothing can be inferred from it.
+
+*The internal structure is only edges.* An entry has a shape across its whole
+length; strip a word or two off each end and most of it should survive. Strip
+the manuscript's lines instead:
+
+| words dropped from each end | EVA | sigma | v101 | sigma |
+|---:|---:|---:|---:|---:|
+| 0 | 0.0428 | 60.7 | 0.0383 | 41.0 |
+| 1 | 0.0128 | 15.6 | 0.0117 | 8.5 |
+| **2** | **0.0017** | **0.9** | **0.0016** | **1.1** |
+| 3 | −0.0017 | −1.0 | −0.0025 | −1.0 |
+
+Two words off each end and there is nothing left. The deep middle of a
+Voynich line has no position structure whatever, in either transliteration.
+The synthetic list behaves the same way, because its whole shape was its
+headword; a real entry template would not.
+
+**So the answer is no.** The manuscript is not prose, because nothing survives
+a line break. It is not a list either, because a line has no internal shape
+beyond its first and last couple of words. What it is, on this evidence, is
+**lines with distinctive openings, distinctive endings, and an unstructured
+middle** — which is what a line-filling procedure with a start rule and an end
+flourish produces, and which every one of those rules turned out to be
+obtainable for free.
+
+Taken together with §4.3, three rules now cover the whole line-and-paragraph
+block: a flourish at the line end, a gallows capital at the paragraph start,
+and a stock of line openers. The `fivecomp_lines` row carries all three. It
+moves the line block from 2.96 to **1.31** floor units on the main split and
+**0.95** on the reversed one -- inside the manuscript's own sampling spread --
+while the cost on the fingerprint's 42 metrics is 0.29 to 0.31, which is
+nothing.
+
+The methodological point is now the recurring one in this document. Three
+times a property looked unexplained, and three times a rule of two or three
+lines, calibrated on the training half and fitted to nothing, supplied it.
+**A metric that no process was built to match is not evidence until somebody
+tries to match it.**
+
 ### 4.3 The line and paragraph block, and how much of it is just decoration
 
 <!--TABLE:LINE-->
@@ -379,6 +465,7 @@ of any kind survives the boundary**, while remaining strong within it.
 | `noise_floor` | 67.18 | 74.63 | 0.36 | 1.86 | 0.27 | 0.13 |
 | `fivecomp` | 10.51 | 2.40 | 0.45 | 1.06 | -0.01 | 0.06 |
 | `fivecomp_scribe` | 47.90 | 63.20 | 0.39 | 1.19 | -0.01 | 0.06 |
+| `fivecomp_lines` | 50.28 | 78.12 | 0.17 | 1.20 | -0.01 | 0.05 |
 | `manual` | 6.75 | 0.35 | 0.80 | 1.75 | 0.02 | 0.03 |
 | `naibbe_latin` | 15.93 | 0.20 | 0.18 | 1.27 | 0.05 | -0.03 |
 | `naibbe_italian` | 17.27 | 0.49 | 0.06 | 1.15 | 0.05 | -0.04 |
@@ -534,6 +621,144 @@ might do.
 Five worst metrics, in floor units, held-out half.
 
 <!--TABLE:WORST-->
+**`fivecomp` — five-component model (fingerprint)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 2.395 | 73.336 | 10.0x |
+| line | m line-final % | 10.511 | 66.966 | 4.7x |
+| line | para vocab coherence | 1.063 | 2.610 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`fivecomp_scribe` — five-component model + a scribe's page habits**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | para/line-initial gallows % | 32.592 | 21.997 | 2.5x |
+| line | m line-final % | 47.902 | 66.966 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | para vocab coherence | 1.189 | 2.610 | 1.7x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`naibbe_latin` — Naibbe verbose cipher over latin**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 0.204 | 73.336 | 10.2x |
+| struct | hapax share of types % | 54.661 | 71.586 | 7.2x |
+| struct | adjacent identical words % | 0.160 | 0.870 | 5.3x |
+| line | m line-final % | 15.933 | 66.966 | 4.3x |
+| line | word-len autocorr | -0.033 | 0.113 | 4.1x |
+
+**`naibbe_wb_italian` — Naibbe, word breaks kept (Italian)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | -0.041 | 73.336 | 10.1x |
+| struct | hapax share of types % | 51.768 | 71.586 | 8.0x |
+| line | word-len autocorr | -0.063 | 0.113 | 5.0x |
+| line | m line-final % | 13.873 | 66.966 | 4.4x |
+| struct | adjacent identical words % | 0.238 | 0.870 | 4.3x |
+
+**`grille_bigtable` — table-and-grille, large table**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | len<=2 % | 16.980 | 7.240 | 14.7x |
+| text | top-5 finals % | 72.404 | 91.640 | 10.1x |
+| line | gallows para-start lift | 0.003 | 73.336 | 10.0x |
+| struct | hapax share of types % | 52.037 | 71.586 | 8.4x |
+| text | mean word len | 4.588 | 5.173 | 6.4x |
+
+**`abbrev` — Latin scribal abbreviation**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 58.070 | 91.640 | 17.5x |
+| struct | len<=2 % | 18.195 | 7.240 | 16.3x |
+| struct | H pos4 from end | 4.062 | 3.364 | 14.8x |
+| text | h1 (char) | 4.221 | 3.863 | 13.1x |
+| text | top-5 onsets % | 46.630 | 70.175 | 10.8x |
+
+**`gibberish` — human gibberish (42 volunteers)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 44.093 | 91.640 | 24.9x |
+| struct | H pos4 from end | 4.380 | 3.364 | 21.4x |
+| text | h1 (char) | 4.399 | 3.863 | 19.7x |
+| struct | H pos2 from end | 4.369 | 2.893 | 19.4x |
+| text | top-5 onsets % | 32.665 | 70.175 | 17.3x |
+**`fivecomp` — five-component model (fingerprint)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 2.395 | 73.336 | 10.0x |
+| line | m line-final % | 10.511 | 66.966 | 4.7x |
+| line | para vocab coherence | 1.063 | 2.610 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`fivecomp_scribe` — five-component model + a scribe's page habits**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | para/line-initial gallows % | 32.592 | 21.997 | 2.5x |
+| line | m line-final % | 47.902 | 66.966 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | para vocab coherence | 1.189 | 2.610 | 1.7x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`naibbe_latin` — Naibbe verbose cipher over latin**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 0.204 | 73.336 | 10.2x |
+| struct | hapax share of types % | 54.661 | 71.586 | 7.2x |
+| struct | adjacent identical words % | 0.160 | 0.870 | 5.3x |
+| line | m line-final % | 15.933 | 66.966 | 4.3x |
+| line | word-len autocorr | -0.033 | 0.113 | 4.1x |
+
+**`naibbe_wb_italian` — Naibbe, word breaks kept (Italian)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | -0.041 | 73.336 | 10.1x |
+| struct | hapax share of types % | 51.768 | 71.586 | 8.0x |
+| line | word-len autocorr | -0.063 | 0.113 | 5.0x |
+| line | m line-final % | 13.873 | 66.966 | 4.4x |
+| struct | adjacent identical words % | 0.238 | 0.870 | 4.3x |
+
+**`grille_bigtable` — table-and-grille, large table**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | len<=2 % | 16.980 | 7.240 | 14.7x |
+| text | top-5 finals % | 72.404 | 91.640 | 10.1x |
+| line | gallows para-start lift | 0.003 | 73.336 | 10.0x |
+| struct | hapax share of types % | 52.037 | 71.586 | 8.4x |
+| text | mean word len | 4.588 | 5.173 | 6.4x |
+
+**`abbrev` — Latin scribal abbreviation**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 58.070 | 91.640 | 17.5x |
+| struct | len<=2 % | 18.195 | 7.240 | 16.3x |
+| struct | H pos4 from end | 4.062 | 3.364 | 14.8x |
+| text | h1 (char) | 4.221 | 3.863 | 13.1x |
+| text | top-5 onsets % | 46.630 | 70.175 | 10.8x |
+
+**`gibberish` — human gibberish (42 volunteers)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 44.093 | 91.640 | 24.9x |
+| struct | H pos4 from end | 4.380 | 3.364 | 21.4x |
+| text | h1 (char) | 4.399 | 3.863 | 19.7x |
+| struct | H pos2 from end | 4.369 | 2.893 | 19.4x |
+| text | top-5 onsets % | 32.665 | 70.175 | 17.3x |
 **`fivecomp` — five-component model (fingerprint)**
 
 | block | metric | it produced | the manuscript | floor units |
@@ -943,8 +1168,13 @@ Five worst metrics, in floor units, held-out half.
 Recorded because a result that was corrected mid-flight is more useful to the
 next person than a clean-looking table.
 
-**Three of this document's own conclusions have now been overturned by tests it
-recommended.** Both are rewritten above rather than quietly amended, and both
+**Four of this document's own conclusions have now been overturned by tests it
+recommended.** The fourth is §4.2.3: having ruled out prose, this document
+proposed that a line might be a meaningful entry, and the measurements at first
+said so loudly -- line openings as distinct as a real list's, position structure
+stronger than one. One rule supplied the openings for free, and stripping two
+words off each end of a line erased everything else. The pattern is now
+impossible to miss and is stated at the end of §4.2.3. Both are rewritten above rather than quietly amended, and both
 are the reason those tests were worth running.
 
 The first version blamed the cipher's loss of cross-word dependence on its

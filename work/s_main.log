@@ -1,0 +1,28 @@
+tuned configs: abbrev, grille, llull, selfcite
+split: main | train 17205 tokens, held-out 16436 tokens
+layout spec: 375 paragraphs, 2027 lines
+
+  noise_floor            fp42    2.0%  line    32.9%  | floor: fp42   0.16x  line   0.35x  median  0.12x   (0.8s)
+  natlang_latin          fp42   51.1%  line    73.2%  | floor: fp42   4.78x  line   3.17x  median  4.13x   (1.0s)
+  natlang_italian        fp42   45.3%  line   105.0%  | floor: fp42   5.56x  line   3.75x  median  3.64x   (1.1s)
+  natlang_hebrew         fp42   52.4%  line   102.4%  | floor: fp42   6.60x  line   3.93x  median  4.23x   (1.5s)
+  subst                  fp42   49.3%  line    72.8%  | floor: fp42   4.71x  line   3.15x  median  3.96x   (1.0s)
+  subst_homophonic       fp42   97.7%  line    87.0%  | floor: fp42  12.87x  line   3.24x  median  6.05x   (1.4s)
+  fivecomp               fp42    3.3%  line   114.7%  | floor: fp42   0.29x  line   2.96x  median  0.25x   (21.4s)
+  selfcite               fp42   18.6%  line   113.3%  | floor: fp42   2.38x  line   2.93x  median  1.64x   (2.5s)
+  manual                 fp42    9.0%  line   112.0%  | floor: fp42   1.15x  line   2.99x  median  0.61x   (8.0s)
+Total ambiguity retries: 0
+  naibbe_latin           fp42   15.6%  line    90.5%  | floor: fp42   1.24x  line   3.24x  median  1.07x   (3.6s)
+  naibbe_italian         fp42   15.4%  line    95.2%  | floor: fp42   1.19x  line   3.30x  median  0.87x   (1.6s)
+  naibbe_wb              fp42   19.6%  line   101.6%  | floor: fp42   1.47x  line   3.32x  median  1.40x   (3.3s)
+  naibbe_word            fp42  186.9%  line    87.9%  | floor: fp42  10.77x  line   3.21x  median  1.73x   (3.0s)
+  naibbe_wb_italian      fp42   19.6%  line   107.9%  | floor: fp42   1.40x  line   3.43x  median  1.25x   (1.6s)
+  grille                 fp42   34.8%  line    59.7%  | floor: fp42   3.34x  line   2.48x  median  1.47x   (0.9s)
+  grille_bigtable        fp42   23.0%  line    73.3%  | floor: fp42   2.68x  line   2.83x  median  1.58x   (1.0s)
+  llull                  fp42   51.6%  line   131.3%  | floor: fp42   5.18x  line   4.04x  median  3.24x   (0.7s)
+  abbrev                 fp42   50.1%  line    81.1%  | floor: fp42   5.66x  line   3.22x  median  4.61x   (1.5s)
+  gibberish              fp42   65.7%  line   111.9%  | floor: fp42   7.79x  line   2.75x  median  5.06x   (0.6s)
+  fivecomp_scribe        fp42    4.4%  line    90.1%  | floor: fp42   0.37x  line   1.43x  median  0.37x   (22.1s)
+  fivecomp_lines         fp42    4.5%  line    59.0%  | floor: fp42   0.31x  line   1.31x  median  0.30x   (22.3s)
+
+wrote /home/ubuntu/voynich/work/results_main.json

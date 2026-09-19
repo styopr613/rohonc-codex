@@ -1563,7 +1563,7 @@
     "line": 1.6900971496572343,
     "overall": 0.2533307125610179
    },
-   "seconds": 21.6
+   "seconds": 21.4
   },
   "selfcite": {
    "label": "self-citation (Timm & Schinner)",
@@ -1983,7 +1983,7 @@
     "line": 1.7665181321150825,
     "overall": 0.6119434831301499
    },
-   "seconds": 8.1
+   "seconds": 8.0
   },
   "naibbe_latin": {
    "label": "Naibbe verbose cipher over latin",
@@ -2190,7 +2190,7 @@
     "line": 1.9836229767946971,
     "overall": 1.0700179830997907
    },
-   "seconds": 3.7
+   "seconds": 3.6
   },
   "naibbe_italian": {
    "label": "Naibbe verbose cipher over italian",
@@ -4309,7 +4309,217 @@
     "line": 1.4555508231463108,
     "overall": 0.3684749737955463
    },
-   "seconds": 22.4
+   "seconds": 22.1
+  },
+  "fivecomp_lines": {
+   "label": "five-component model + page habits + a line-opening rule",
+   "kind": "self",
+   "note": "TEST: can a line-start rule buy the entry-like line structure for free?",
+   "notes": {
+    "config": "FROZEN_CONFIG.json",
+    "habits": {
+     "flourish": 0.6835,
+     "capital": 0.8447,
+     "line_start_pool": 292
+    }
+   },
+   "tuned": null,
+   "tokens": 18882,
+   "values": {
+    "text": {
+     "h1 (char)": 3.8613789016265883,
+     "h2 (char)": 1.844070407970309,
+     "H(word)": 10.062018757191932,
+     "TTR": 0.23911661900222433,
+     "hapax %": 16.39127211100519,
+     "mean word len": 5.123344984641458,
+     "sd word len": 1.8200726407139294,
+     "H init": 3.412198537731795,
+     "H final": 3.000318350963531,
+     "len dist TV": 0.0,
+     "top-5 onsets %": 68.63150090032836,
+     "top-5 finals %": 92.53786675140346,
+     "final-y %": 40.91727571231861,
+     "top-10 word share %": 12.074992055926279,
+     "cross-word MI": 0.048006572018451696
+    },
+    "struct": {
+     "line chars mean": 44.84886416318962,
+     "line chars sd": 14.381173137313162,
+     "words per line mean": 8.753824756606397,
+     "lines": 2157,
+     "para/line-initial gallows %": 20.259619842373667,
+     "all gallows %": 11.089926914521767,
+     "onset ent ropy": 3.4950190238432173,
+     "qo- onset %": 15.231437347738588,
+     "ch- onset %": 15.310878084948628,
+     "y- onset %": 5.640292341912933,
+     "top10 (first,last) pairs %": 48.68657981146065,
+     "distinct (first,last) pairs": 185,
+     "zipf slope (top500)": -0.8998255576791029,
+     "hapax share of types %": 68.54928017718716,
+     "adjacent identical words %": 0.7785604576028812,
+     "repeated word-pair %": 15.369948625602458,
+     "H pos1 from start": 3.2264470964454137,
+     "H pos1 from end": 2.404444554535515,
+     "H pos2 from start": 3.2897766157682704,
+     "H pos2 from end": 2.89425209429156,
+     "H pos3 from start": 3.5254525346064955,
+     "H pos3 from end": 3.30640612357931,
+     "H pos4 from start": 3.607117904107002,
+     "H pos4 from end": 3.396170631447741,
+     "len>=8 %": 8.06588285139286,
+     "len>=10 %": 1.456413515517424,
+     "len<=2 %": 7.2132189386717505
+    },
+    "line": {
+     "cross-line repeat %": 0.16835016835016836,
+     "m line-final %": 50.27624309392265,
+     "gallows para-start lift": 78.12210998877666,
+     "para vocab coherence": 1.1970369229373687,
+     "word-section MI (bits)": -0.011859664556247207,
+     "Currier A/B jaccard": 0.231216457960644,
+     "word-len autocorr": 0.04549720171642737,
+     "triple repeats /10k": 1.0592098294672174
+    }
+   },
+   "errors": {
+    "text": {
+     "h1 (char)": 0.06446933327586453,
+     "h2 (char)": 0.5634985696174993,
+     "H(word)": 0.5391791151526154,
+     "TTR": 10.463800842885462,
+     "hapax %": 14.550748421830065,
+     "mean word len": 0.57451600160055,
+     "sd word len": 1.2398208010034066,
+     "H init": 0.755050436612442,
+     "H final": 0.3526173129999161,
+     "len dist TV": 1.9467318968645813,
+     "top-5 onsets %": 2.333644356797074,
+     "top-5 finals %": 0.7791295165159261,
+     "final-y %": 1.1036956844640755,
+     "top-10 word share %": 6.426846021663503,
+     "cross-word MI": 26.935009129070437
+    },
+    "struct": {
+     "line chars mean": 5.960877017640516,
+     "line chars sd": 9.666713302621577,
+     "words per line mean": 6.577098988092903,
+     "lines": 3.1800955676388205,
+     "para/line-initial gallows %": 4.180353141525662,
+     "all gallows %": 7.849069185823647,
+     "onset ent ropy": 0.2813755373160342,
+     "qo- onset %": 0.7913144797852039,
+     "ch- onset %": 4.919576920888755,
+     "y- onset %": 30.447562115841446,
+     "top10 (first,last) pairs %": 3.6953342633624726,
+     "distinct (first,last) pairs": 2.4955436720142603,
+     "zipf slope (top500)": 0.3054908662799714,
+     "hapax share of types %": 4.558482579241839,
+     "adjacent identical words %": 7.8670632461780805,
+     "repeated word-pair %": 3.9627964900036994,
+     "H pos1 from start": 0.83990562008785,
+     "H pos1 from end": 1.5140033341019914,
+     "H pos2 from start": 0.82625468063421,
+     "H pos2 from end": 0.34697232470122036,
+     "H pos3 from start": 1.3589585362855392,
+     "H pos3 from end": 1.0057225320160832,
+     "H pos4 from start": 0.14509771525885337,
+     "H pos4 from end": 1.0816050061067979,
+     "len>=8 %": 2.86230625103763,
+     "len>=10 %": 13.420602861296265,
+     "len<=2 %": 2.0982932122721083
+    },
+    "line": {
+     "cross-line repeat %": 107.84733769973343,
+     "m line-final %": 29.795275961413154,
+     "gallows para-start lift": 8.456695355294379,
+     "para vocab coherence": 44.8145335515889,
+     "word-section MI (bits)": 102.32003071783919,
+     "Currier A/B jaccard": 69.20720183818877,
+     "word-len autocorr": 62.39792114492229,
+     "triple repeats /10k": 46.927250929574
+    }
+   },
+   "floor_errors": {
+    "text": {
+     "h1 (char)": 0.09130354470540873,
+     "h2 (char)": 0.07980878829834209,
+     "H(word)": 0.05520894255265846,
+     "TTR": 0.20090764872998879,
+     "hapax %": 0.272625032110688,
+     "mean word len": 0.31226006035857307,
+     "sd word len": 0.1566334752687944,
+     "H init": 0.3137228010552134,
+     "H final": 0.11053777908289504,
+     "len dist TV": 0.33189693498203254,
+     "top-5 onsets %": 0.7534105369810451,
+     "top-5 finals %": 0.37323195147498334,
+     "final-y %": 0.11264281333576831,
+     "top-10 word share %": 0.27401084157092065,
+     "cross-word MI": 0.6382916395932147
+    },
+    "struct": {
+     "line chars mean": 0.42585531125909587,
+     "line chars sd": 0.4220371017883891,
+     "words per line mean": 0.49819869727498434,
+     "lines": 0.03843090402230187,
+     "para/line-initial gallows %": 0.20745481374074967,
+     "all gallows %": 0.2713395501064883,
+     "onset ent ropy": 0.08960363788925703,
+     "qo- onset %": 0.030248217647080466,
+     "ch- onset %": 0.297164192321018,
+     "y- onset %": 0.7348160500018431,
+     "top10 (first,last) pairs %": 0.4677134891644013,
+     "distinct (first,last) pairs": 0.06746987951807229,
+     "zipf slope (top500)": 0.06537937932164622,
+     "hapax share of types %": 1.4070090717693322,
+     "adjacent identical words %": 0.507339536716891,
+     "repeated word-pair %": 0.07637312579823902,
+     "H pos1 from start": 0.2933928782206951,
+     "H pos1 from end": 0.24723742072161684,
+     "H pos2 from start": 0.31909568552418366,
+     "H pos2 from end": 0.13195875997555248,
+     "H pos3 from start": 0.4957604535112206,
+     "H pos3 from end": 0.2520143381014633,
+     "H pos4 from start": 0.04042295152421434,
+     "H pos4 from end": 0.7657610027194156,
+     "len>=8 %": 0.15581505543560348,
+     "len>=10 %": 0.2810108331591184,
+     "len<=2 %": 0.22717492372688253
+    },
+    "line": {
+     "cross-line repeat %": 0.3965564200205485,
+     "m line-final %": 1.6888575326021626,
+     "gallows para-start lift": 0.8537283701844017,
+     "para vocab coherence": 1.5658475254268813,
+     "word-section MI (bits)": 1.7962348648254123,
+     "Currier A/B jaccard": 1.358631430311226,
+     "word-len autocorr": 2.034920903822636,
+     "triple repeats /10k": 0.750846770490937
+    }
+   },
+   "means": {
+    "text": 4.5752504960235605,
+    "struct": 4.5273507202982755,
+    "line": 58.970780899819275,
+    "overall": 13.25266948173922,
+    "fingerprint44": 4.544457783057306
+   },
+   "floor_means": {
+    "text": 0.27176618600670177,
+    "struct": 0.32652138003554654,
+    "line": 1.3057029772105255,
+    "overall": 0.4667638773748898,
+    "fingerprint44": 0.3069659535966734
+   },
+   "floor_medians": {
+    "text": 0.272625032110688,
+    "struct": 0.2713395501064883,
+    "line": 1.4622394778690535,
+    "overall": 0.29527853527085657
+   },
+   "seconds": 22.3
   }
  }
 }
