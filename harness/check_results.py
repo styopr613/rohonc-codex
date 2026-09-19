@@ -132,6 +132,22 @@ def main():
           res["processes"]["fivecomp_scribe"]["floor_errors"]["struct"]["para/line-initial gallows %"],
           2.50, 0.03)
 
+    # 4.2.2 reach and pen tests -- recomputed live, not read from JSON
+    import reach as R
+    whole = corpus.load()
+    tr, te = corpus.split(whole)
+    pt = R.pen_test(whole)
+    claim("manuscript within-line MI (whole book)", pt["within"][0], 0.1794, 0.01)
+    claim("manuscript across-break MI (whole book)", pt["across"][0], 0.0058, 0.002)
+    claim("manuscript across-break sd", pt["across"][1], 0.0080, 0.002)
+    r = R.reach(te, [1, 2, 3])
+    claim("manuscript reach lag 1", r[1][0], 0.1606, 0.005)
+    claim("manuscript reach lag 2", r[2][0], 0.0063, 0.002)
+    v101 = corpus.load(os.path.join(corpus.DATA, "GC2a-n.txt"))
+    pv = R.pen_test(v101)
+    claim("v101 within-line MI", pv["within"][0], 0.2321, 0.01)
+    claim("v101 across-break MI", pv["across"][0], 0.0112, 0.005)
+
     # gate: ruler agreement claim in section 2
     worst = 0.0
     for (b, m), want in [(("text", "h2 (char)"), 1.842), (("struct", "len>=8 %"), 8.3)]:

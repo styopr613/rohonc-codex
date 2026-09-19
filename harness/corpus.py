@@ -39,7 +39,16 @@ class Para:
 
 
 def folio_num(f):
-    return int(re.match(r"f?(\d+)", f).group(1))
+    """Leaf number, or None for a folio whose name carries no number.
+
+    The v101 transliteration includes the Rosettes foldout as `fRos`, which has
+    no leaf number and therefore no parity. It is excluded from both halves of
+    the split rather than being forced into one; `split()` reports how many
+    paragraphs that costs. The EVA file used for the main results has no such
+    folio, so the main split is unaffected.
+    """
+    m = re.match(r"f?(\d+)", f or "")
+    return int(m.group(1)) if m else None
 
 
 def load(path=PRIMARY):
@@ -97,9 +106,15 @@ def split(doc, reverse=False):
     the fingerprint repo. reverse=True swaps them; both are always reported, so
     that a configuration chosen on one split is arbitrated by the other.
     """
-    even = [p for p in doc if folio_num(p.folio) % 2 == 0]
-    odd = [p for p in doc if folio_num(p.folio) % 2 == 1]
+    numbered = [(p, folio_num(p.folio)) for p in doc]
+    even = [p for p, n in numbered if n is not None and n % 2 == 0]
+    odd = [p for p, n in numbered if n is not None and n % 2 == 1]
     return (odd, even) if reverse else (even, odd)
+
+
+def unnumbered(doc):
+    """Paragraphs excluded from the split for having no leaf number."""
+    return [p for p in doc if folio_num(p.folio) is None]
 
 
 def plain(doc):

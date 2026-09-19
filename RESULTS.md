@@ -8,7 +8,8 @@ noise rather than explanation.
 
 **This is a ranking with caveats, not a verdict.** Nothing here reads the
 manuscript, and no result below is a decipherment. Read §7 before quoting §3,
-and §6 for the two conclusions this document has already had to withdraw.
+and §6 for the three conclusions this document has already had to withdraw —
+including, in §4.2.2, the one it found most interesting.
 
 Built 2026-09-19 on Rachel. Private working repository; see §9.
 
@@ -40,6 +41,11 @@ Llull machine, but on a 16-property scale with no held-out split, no language
 control and no self-citation baseline.
 
 So: one ruler, every process, the same protocol. The unglamorous unification.
+
+The single most useful thing it produced was not a ranking. It was §4.2.2: the
+manuscript's word-to-word structure is real, and it stops dead at the right-hand
+margin, where a real language's does not. Whatever made this text worked one
+line at a time.
 
 ## 2. What was built
 
@@ -200,8 +206,10 @@ word and the start of the next — Currier's old observation that words ending i
 | grille, large table | 0.005 |
 | Llull machine | 0.001 |
 
-This is the sharpest discriminator in the table, and it cuts against the
-cipher rather than for it.
+This is the sharpest discriminator between the cipher and everything else, and
+it cuts against the cipher. **But see §4.2.2 before reading anything further
+into it**: the dependence turns out to be bounded by the line, which changes
+what it can be evidence for.
 
 Read the natural-language rows carefully before drawing the moral, because they
 do not agree with each other. Italian gives 0.056 and Latin 0.016. The metric is
@@ -260,6 +268,107 @@ the text occurring exactly once. Verbose encoding and realistic word length
 cannot both hold unless ciphertext words are much shorter than plaintext words,
 which is precisely why Greshko respaced in the first place. His design choice
 was not careless; it was forced.
+
+### 4.2.2 The line is the unit, and the word structure stops at the margin
+
+§4.2 called the manuscript's cross-word dependence the loose thread in this
+project: present at 0.068 bits, stronger than either reference language, and
+reproduced by no meaning-free process except the one whose author built it in.
+It was tempting to read that as the text behaving like a language.
+
+Two tests were run to check that reading before anyone leaned on it. The first
+asks how far the dependence reaches. The second asks whether it is about words
+at all, or about how a quill moves between shapes. Both are surrogate-corrected:
+the control shuffles the order of one element of each pair, which preserves both
+marginals exactly and destroys only the association, so the shuffled value *is*
+the estimator's bias at that sample size.
+
+**Reach: the dependence dies immediately, and so does a real language's.**
+
+Surrogate-corrected mutual information in bits, by how many words apart:
+
+| | lag 1 | lag 2 | lag 3 | lag 4 | lag 5 |
+|---|---:|---:|---:|---:|---:|
+| the manuscript | 0.1606 | 0.0063 | 0.0064 | 0.0016 | 0.0033 |
+| its own other half | 0.1625 | 0.0078 | 0.0030 | 0.0029 | 0.0031 |
+| plain Italian | 0.1563 | 0.0082 | 0.0011 | 0.0025 | −0.0010 |
+| five-component model | 0.1457 | −0.0001 | −0.0011 | −0.0013 | 0.0004 |
+| Naibbe over Latin | 0.0043 | 0.0007 | 0.0011 | 0.0008 | 0.0023 |
+
+The control's spread is about 0.001, so anything under roughly 0.002 is zero.
+
+This test does not discriminate, and saying so is the point of running it. The
+manuscript's dependence collapses by a factor of twenty-five after one word —
+but **so does plain Italian's**. Character-level dependence between word
+boundaries is a local effect in a real language too. The measure is too crude to
+see grammar, so "does it reach like language?" cannot be answered this way. The
+test was proposed in an earlier version of this document as the decisive one.
+It is not.
+
+**The pen test: the dependence vanishes at a line break, and a language's does
+not.**
+
+This one does discriminate, and the result is the clearest in the project.
+Adjacent word pairs inside a line, against pairs straddling a line break:
+
+| | within a line | across a line break | sigma |
+|---|---:|---:|---:|
+| **the manuscript** (whole book) | **0.1794** | **0.0058 ± 0.0080** | **0.7** |
+| the manuscript, held-out half | 0.1826 | −0.0001 ± 0.0127 | 0.0 |
+| the manuscript, training half | 0.1777 | 0.0270 ± 0.0211 | 1.3 |
+| **plain Italian** | **0.1576** | **0.1464 ± 0.0206** | **7.1** |
+| five-component model | 0.1509 | 0.0177 ± 0.0135 | 1.3 |
+| self-citation | 0.0201 | −0.0119 ± 0.0153 | −0.8 |
+| Naibbe over Latin | 0.0052 | 0.0009 ± 0.0221 | 0.0 |
+
+A real language does not care where the line ends. Italian keeps 93 % of its
+cross-word dependence across a line break, at 7.1 sigma. **The manuscript keeps
+none of it.** The effect is strong inside a line and statistically zero across
+the margin, on the whole book and on each half separately.
+
+This is a null result, so it is only worth anything if the test could have seen
+the effect had it been there. It could: Italian, at the same sample size, shows
+it at 7.1 sigma. The power is there and the signal is not.
+
+**It is not a transcription artefact.** Repeated on v101, an independent
+transliteration by a different reader in which one glyph is exactly one
+character and the shapes are grouped differently:
+
+| | lag 1 | lag 2 | within a line | across a line break |
+|---|---:|---:|---:|---:|
+| EVA (Takahashi) | 0.1606 | 0.0063 | 0.1826 | −0.0001 |
+| v101 (Currier) | 0.2060 | 0.0167 | 0.2321 | 0.0112 |
+
+Same shape, slightly stronger. Two readers who disagree about what the glyphs
+are agree about this.
+
+**What it means, and what this document now withdraws.**
+
+The word-level structure is real, but it is bounded by the line. Whatever
+produced this text worked a line at a time, and what happened at the end of one
+line carried nothing into the next.
+
+That is very hard to square with language. Sentences do not stop at the right
+margin. It is easy to square with a process that fills lines: a scribe reading
+from a table, a grille laid over a page, a procedure that generates text to fit
+a measured space. The five-component model shows the same pattern — 0.1509
+inside a line, 0.0177 across — because it too composes by the line.
+
+So the reading offered in §4.2, that the manuscript's word structure is
+"higher than either natural language and unexplained by the mechanical
+theories", is **withdrawn in its suggestive form**. The number is still correct.
+Its interpretation was not. The dependence is confined to the line, and a
+line-bound process explains it without any message.
+
+This is the sharpest evidence in the whole table for the meaning-free side of
+the argument, and it was produced by testing this project's own most
+interesting claim rather than defending it.
+
+A narrower statement survives, and it is worth keeping. Currier observed in 1976
+that lines behave as self-contained units, and `voynich-toolkit` confirmed it
+for exact word repeats. This is a much stronger version: not merely that words
+rarely repeat across a line boundary, but that **no character-level dependence
+of any kind survives the boundary**, while remaining strong within it.
 
 ### 4.3 The line and paragraph block, and how much of it is just decoration
 
@@ -425,6 +534,75 @@ might do.
 Five worst metrics, in floor units, held-out half.
 
 <!--TABLE:WORST-->
+**`fivecomp` — five-component model (fingerprint)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 2.395 | 73.336 | 10.0x |
+| line | m line-final % | 10.511 | 66.966 | 4.7x |
+| line | para vocab coherence | 1.063 | 2.610 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`fivecomp_scribe` — five-component model + a scribe's page habits**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | para/line-initial gallows % | 32.592 | 21.997 | 2.5x |
+| line | m line-final % | 47.902 | 66.966 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | para vocab coherence | 1.189 | 2.610 | 1.7x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`naibbe_latin` — Naibbe verbose cipher over latin**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 0.204 | 73.336 | 10.2x |
+| struct | hapax share of types % | 54.661 | 71.586 | 7.2x |
+| struct | adjacent identical words % | 0.160 | 0.870 | 5.3x |
+| line | m line-final % | 15.933 | 66.966 | 4.3x |
+| line | word-len autocorr | -0.033 | 0.113 | 4.1x |
+
+**`naibbe_wb_italian` — Naibbe, word breaks kept (Italian)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | -0.041 | 73.336 | 10.1x |
+| struct | hapax share of types % | 51.768 | 71.586 | 8.0x |
+| line | word-len autocorr | -0.063 | 0.113 | 5.0x |
+| line | m line-final % | 13.873 | 66.966 | 4.4x |
+| struct | adjacent identical words % | 0.238 | 0.870 | 4.3x |
+
+**`grille_bigtable` — table-and-grille, large table**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | len<=2 % | 16.980 | 7.240 | 14.7x |
+| text | top-5 finals % | 72.404 | 91.640 | 10.1x |
+| line | gallows para-start lift | 0.003 | 73.336 | 10.0x |
+| struct | hapax share of types % | 52.037 | 71.586 | 8.4x |
+| text | mean word len | 4.588 | 5.173 | 6.4x |
+
+**`abbrev` — Latin scribal abbreviation**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 58.070 | 91.640 | 17.5x |
+| struct | len<=2 % | 18.195 | 7.240 | 16.3x |
+| struct | H pos4 from end | 4.062 | 3.364 | 14.8x |
+| text | h1 (char) | 4.221 | 3.863 | 13.1x |
+| text | top-5 onsets % | 46.630 | 70.175 | 10.8x |
+
+**`gibberish` — human gibberish (42 volunteers)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 44.093 | 91.640 | 24.9x |
+| struct | H pos4 from end | 4.380 | 3.364 | 21.4x |
+| text | h1 (char) | 4.399 | 3.863 | 19.7x |
+| struct | H pos2 from end | 4.369 | 2.893 | 19.4x |
+| text | top-5 onsets % | 32.665 | 70.175 | 17.3x |
 **`fivecomp` — five-component model (fingerprint)**
 
 | block | metric | it produced | the manuscript | floor units |
@@ -765,7 +943,7 @@ Five worst metrics, in floor units, held-out half.
 Recorded because a result that was corrected mid-flight is more useful to the
 next person than a clean-looking table.
 
-**Two of this document's own conclusions were overturned by tests it
+**Three of this document's own conclusions have now been overturned by tests it
 recommended.** Both are rewritten above rather than quietly amended, and both
 are the reason those tests were worth running.
 
@@ -776,6 +954,16 @@ either way, and unchanged even on an Italian plaintext that starts with 0.056.
 The cause is the homophony, not the respacing. The replacement claim in §4.2.1
 is stronger than the one it replaces, but the original was wrong and was stated
 with more confidence than the evidence carried.
+
+The second was the reach test, proposed as the decisive way to tell a habit
+from grammar. It is not decisive: the manuscript's cross-word dependence dies
+after one word, and so does plain Italian's, so the measure cannot see the
+difference it was proposed to see. The test that did discriminate was the other
+one — and it went against this document's most interesting claim. The
+dependence is bounded by the line and vanishes completely at a line break,
+where a real language keeps 93 % of it. §4.2.2 has the numbers and withdraws
+the suggestive reading of §4.2. That is the third correction, it is the largest,
+and it is the one that most changes what the project concludes.
 
 The first version also claimed that no process reproduces the line and
 paragraph properties, and left the impression that this was a deep failure of

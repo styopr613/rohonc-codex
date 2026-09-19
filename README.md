@@ -54,10 +54,10 @@ implementation, a missing noise-floor row, a non-deterministic rerun.
 
 ## The one-line summary
 
-On the metrics the field argues about, the leading meaning-free generator is
-already inside the manuscript's own sampling noise, and so is a verbose cipher
-over real Latin. On the line and paragraph properties nobody has been scoring,
-neither of them is any better than plain Latin.
+The manuscript's word-to-word structure stops dead at the right-hand margin,
+where a real language's does not. Whatever made this text worked one line at a
+time. On the letter statistics everyone argues about, a meaning-free generator
+and a verbose cipher over real Latin both already match it.
 
 ## Credit
 
