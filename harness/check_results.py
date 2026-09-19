@@ -102,6 +102,36 @@ def main():
     claim("gibberish TTR", val(res, "text", "TTR", "gibberish"), 0.68, 0.01)
     claim("held-out tokens", res["ref_tokens"], 16436, 0.0001)
 
+    # 4.2.1 the failed repair
+    for proc, want in [("naibbe_wb_italian", 0.004), ("naibbe_italian", 0.004),
+                       ("naibbe_wb", 0.005), ("naibbe_word", 0.007)]:
+        claim(f"cross-word MI {proc}", val(res, "text", "cross-word MI", proc),
+              want, tol=0.0015)
+    claim("naibbe_word mean word length",
+          val(res, "text", "mean word len", "naibbe_word"), 18.39, 0.01)
+    claim("naibbe_word TTR", val(res, "text", "TTR", "naibbe_word"), 0.905, 0.01)
+    claim("naibbe_wb_italian h2", val(res, "text", "h2 (char)", "naibbe_wb_italian"), 1.69)
+
+    # 4.3 the decoration test
+    claim("fivecomp_scribe m line-final %",
+          val(res, "line", "m line-final %", "fivecomp_scribe"), 47.90, 0.05)
+    claim("fivecomp_scribe gallows lift",
+          val(res, "line", "gallows para-start lift", "fivecomp_scribe"), 63.20, 0.05)
+    claim("fivecomp_scribe line block floor units",
+          res["processes"]["fivecomp_scribe"]["floor_means"]["line"], 1.43, 0.02)
+    claim("fivecomp line block floor units",
+          res["processes"]["fivecomp"]["floor_means"]["line"], 2.96, 0.02)
+    claim("fivecomp_scribe fp42 floor units",
+          res["processes"]["fivecomp_scribe"]["floor_means"]["fingerprint44"], 0.37, 0.03)
+    claim("fivecomp fp42 floor units",
+          res["processes"]["fivecomp"]["floor_means"]["fingerprint44"], 0.29, 0.03)
+    claim("cost of decoration, line-initial gallows before",
+          res["processes"]["fivecomp"]["floor_errors"]["struct"]["para/line-initial gallows %"],
+          0.12, 0.05)
+    claim("cost of decoration, line-initial gallows after",
+          res["processes"]["fivecomp_scribe"]["floor_errors"]["struct"]["para/line-initial gallows %"],
+          2.50, 0.03)
+
     # gate: ruler agreement claim in section 2
     worst = 0.0
     for (b, m), want in [(("text", "h2 (char)"), 1.842), (("struct", "len>=8 %"), 8.3)]:

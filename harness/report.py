@@ -14,10 +14,11 @@ import profile as prof
 
 WORK = os.path.join(corpus.ROOT, "work")
 
-ORDER = ["noise_floor", "fivecomp", "manual", "naibbe_latin", "naibbe_italian",
-         "grille", "grille_bigtable", "selfcite", "llull", "abbrev",
-         "gibberish", "natlang_italian", "natlang_latin", "natlang_hebrew",
-         "subst", "subst_homophonic"]
+ORDER = ["noise_floor", "fivecomp", "fivecomp_scribe", "manual",
+         "naibbe_latin", "naibbe_italian", "naibbe_wb", "naibbe_wb_italian",
+         "naibbe_word", "grille", "grille_bigtable", "selfcite", "llull",
+         "abbrev", "gibberish", "natlang_italian", "natlang_latin",
+         "natlang_hebrew", "subst", "subst_homophonic"]
 
 # the metrics the write-up argues from
 HEADLINE = [("text", "h2 (char)", "h2", "{:.2f}"),
@@ -120,7 +121,8 @@ def main():
         print("\n<!-- LINE -->")
         md_line(res)
         print("\n<!-- WORST -->")
-        md_worst(res, ["fivecomp", "naibbe_latin", "grille_bigtable", "abbrev",
+        md_worst(res, ["fivecomp", "fivecomp_scribe", "naibbe_latin",
+                       "naibbe_wb_italian", "grille_bigtable", "abbrev",
                        "gibberish"])
         return
     print(f"split: {res['split']}, held-out {res['ref_tokens']} tokens\n")

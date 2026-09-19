@@ -1,6 +1,6 @@
 # Voynich hypothesis-ranking harness
 
-One metric vector, one held-out protocol, ten candidate processes and five
+One metric vector, one held-out protocol, fourteen candidate processes and five
 controls for the Voynich manuscript's text, and a row that says how much of the
 difference is sampling noise.
 
