@@ -191,3 +191,25 @@ A local `git init` inside `/home/ubuntu/voynich/harness` is fine for history. Ke
 citation list in RESULTS.md current so publishing is a copy, not a rewrite. If the table
 turns up something interesting, we publish our code; the honest framing then is "an
 extension of voynich-fingerprint's protocol to the hypothesis classes it did not score".
+
+---
+
+## 7. Status: BUILT 2026-09-19
+
+All nine steps done. `RESULTS.md` is the deliverable; this file is now history.
+
+Gate 1 (the one the plan said to stop on) passed: `freeze_and_verify.py --verify`
+reports 0.00 % drift on our copy of the data, and `refstats.py` reproduces every
+published corpus entropy figure exactly, so the ruler is sound.
+
+Two departures from the plan, both deliberate:
+
+- **Floor units.** The plan scored in mean absolute percentage error only. APE is
+  unusable on metrics whose true value is near zero, so a second scale was added:
+  every metric in units of how far two halves of the same book sit apart. The
+  ranking is read on that scale; APE is kept beside it for comparability.
+- **A `grille_bigtable` row.** Added after the first tuning run showed the
+  published "grille fails on vocabulary" verdict is an artefact of a 40-row table.
+
+The roster grew from the planned 11 to 16 rows (three natural languages, two
+Naibbe plaintexts, two grille configurations, two substitution controls).
