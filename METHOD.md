@@ -83,6 +83,23 @@ last three "Translate" commits; read their diffs to see what a batch is.
      free while kiss and priest were taken. Fixed to a fixed point; if the
      free list ever offers a word whose base form is taken, that is the bug
      to look for.
+   - **The King James book names do not survive a regex.** The first version
+     of ktleft named each book by pattern-matching the Gutenberg heading,
+     which merged 1 and 2 Kings, merged the gospel of John with the three
+     epistles of John, lost Samuel altogether and filed Revelation under
+     "Divine". A note reading "Kings 19:6" then fetched 2 Kings 19, Rabshakeh
+     and the king of Assyria, for a page about Elijah and the cake baken on
+     the coals -- and the shared-word intersection duly offered *rabshakeh*
+     as a candidate for two folios that never mention him. Books are assigned
+     by canonical position now, advancing at each "1:1", and a bare name
+     means the first book of that name. The check is cheap: 66 books and
+     31,102 verses, which is the King James exactly.
+   - **A verse does not start at the start of a line.** The same first
+     version only recognised "N:M" at the beginning of a line, and the King
+     James wraps, so every verse swallowed the opening of the next one and
+     every pool carried a neighbouring verse's words. Genesis 2:7 came back
+     with *planted* and *eastward* in it, which are 2:8. Split on the marker
+     wherever it falls.
 
 2. **Every turn does two things at once:** translate the next six folios in
    page order, and read the signs those pages make readable. Translating
