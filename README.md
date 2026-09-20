@@ -12,6 +12,7 @@ it can decide.
 
 | path | what it is |
 |---|---|
+| `CONCLUSION.md` | the plain-English conclusion, one page, no numbers |
 | `RESULTS.md` | the write-up. Tables generated from the data, prose figures checked against it |
 | `VOYNICH_PLAN.md` | the plan, including the prior-work survey that decided the scope |
 | `PREDICTION_abbrev.md` | prediction for the abbreviation model, written before the code. Not edited afterwards |

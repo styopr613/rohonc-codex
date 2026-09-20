@@ -31,8 +31,8 @@ def names():
 
 
 MODULES = ("noise_floor", "natlang", "subst", "fivecomp", "selfcite", "manual",
-           "naibbe", "naibbe_wb", "grille", "llull", "abbrev", "gibberish",
-           "decorate")
+           "naibbe", "naibbe_wb", "verbose_det", "grille", "llull", "abbrev", "gibberish",
+           "decorate", "linereset")
 
 
 def load_all(strict=False):

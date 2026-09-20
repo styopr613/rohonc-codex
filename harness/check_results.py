@@ -162,6 +162,19 @@ def main():
     v, vsd, _ = LT._edge_strip(v101b, 2, _r.Random(408))
     claim("edge-strip drop=2, v101", v, 0.0016, 0.002)
 
+    # 4.2.4 spelling similarity -- recomputed live
+    import similarity as SIM
+    import random as _r2
+    (mw, cw, sw_, nw), (ma, ca, sa_, na) = SIM.measure(whole, _r2.Random(408))
+    claim("manuscript within-line edit distance", mw, 0.7621, 0.002)
+    claim("manuscript within-line sigma", sw_, 7.9, 0.15)
+    claim("manuscript across-break edit distance", ma, 0.8166, 0.002)
+    claim("manuscript across-break sigma", sa_, -19.1, 0.15)
+    v101c = corpus.load(os.path.join(corpus.DATA, "GC2a-n.txt"))
+    (_, _, sw2, _), (_, _, sa2, _) = SIM.measure(v101c, _r2.Random(408))
+    claim("v101 within-line sigma", sw2, 6.9, 0.15)
+    claim("v101 across-break sigma", sa2, -14.9, 0.15)
+
     # gate: ruler agreement claim in section 2
     worst = 0.0
     for (b, m), want in [(("text", "h2 (char)"), 1.842), (("struct", "len>=8 %"), 8.3)]:

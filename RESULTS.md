@@ -1,6 +1,9 @@
 # One ruler, every process
 
 A hypothesis-ranking harness for the Voynich manuscript (Beinecke MS 408).
+
+The plain-English summary of what it all adds up to is in
+[`CONCLUSION.md`](CONCLUSION.md). This file has the numbers.
 Twenty rows on one metric vector under one held-out protocol: fourteen
 candidate processes, five controls whose behaviour is known in advance, and the
 manuscript's own other half, which says how much of the difference is sampling
@@ -8,8 +11,8 @@ noise rather than explanation.
 
 **This is a ranking with caveats, not a verdict.** Nothing here reads the
 manuscript, and no result below is a decipherment. Read §7 before quoting §3,
-and §6 for the four conclusions this document has already had to withdraw —
-including, in §4.2.2 and §4.2.3, the two it found most interesting.
+and §6 for the five conclusions this document has already had to withdraw —
+including, in §4.2.2 to §4.2.4, the three it found most interesting.
 
 Built 2026-09-19 on Rachel. Private working repository; see §9.
 
@@ -120,6 +123,8 @@ conclusion in §4 depends on any of them.
 | `naibbe_wb` | Naibbe, word breaks kept (Latin) | 19.6% | 1.47x | 3.32x | 1.40x (1.08) |
 | `naibbe_wb_italian` | Naibbe, word breaks kept (Italian) | 19.6% | 1.40x | 3.43x | 1.25x (1.07) |
 | `naibbe_word` | Naibbe, one word per word (Latin) | 186.9% | 10.77x | 3.21x | 1.73x (1.75) |
+| `verbose_det` | verbose cipher, no homophony (Latin) | 53.1% | 4.64x | 4.57x | 4.00x (3.78) |
+| `verbose_det_italian` | verbose cipher, no homophony (Italian) | 51.0% | 4.36x | 5.03x | 3.21x (3.31) |
 | `grille` | table-and-grille (Rugg) | 34.8% | 3.34x | 2.48x | 1.47x (1.42) |
 | `grille_bigtable` | table-and-grille, large table | 23.0% | 2.68x | 2.83x | 1.58x (1.51) |
 | `selfcite` | self-citation (Timm & Schinner) | 18.6% | 2.38x | 2.93x | 1.64x (1.18) |
@@ -131,6 +136,7 @@ conclusion in §4 depends on any of them.
 | `natlang_hebrew` | plain hebrew, invented alphabet | 52.4% | 6.60x | 3.93x | 4.23x (3.98) |
 | `subst` | substitution cipher over Latin | 49.3% | 4.71x | 3.15x | 3.96x (4.11) |
 | `subst_homophonic` | homophonic cipher over Latin (k=3) | 97.7% | 12.87x | 3.24x | 6.05x (5.34) |
+| `linereset` | self-citation with a line reset | 12.1% | 0.91x | 2.86x | 0.57x (0.44) |
 
 ## 4. What the numbers say
 
@@ -150,6 +156,8 @@ conclusion in §4 depends on any of them.
 | `naibbe_wb` | 1.69 | 3.86 | 0.223 | 5.15 | -1.041 | 0.005 |
 | `naibbe_wb_italian` | 1.69 | 3.86 | 0.208 | 5.08 | -1.077 | 0.004 |
 | `naibbe_word` | 2.19 | 3.86 | 0.905 | 18.39 | -0.530 | 0.007 |
+| `verbose_det` | 1.11 | 3.77 | 0.018 | 5.00 | -1.522 | 0.012 |
+| `verbose_det_italian` | 1.11 | 3.77 | 0.017 | 4.97 | -1.500 | 0.009 |
 | `grille` | 2.02 | 3.84 | 0.079 | 4.60 | -0.642 | 0.017 |
 | `grille_bigtable` | 2.10 | 3.84 | 0.269 | 4.59 | -0.799 | 0.005 |
 | `selfcite` | 2.31 | 3.84 | 0.335 | 5.21 | -0.706 | 0.010 |
@@ -161,6 +169,7 @@ conclusion in §4 depends on any of them.
 | `natlang_hebrew` | 3.80 | 4.27 | 0.349 | 3.74 | -0.833 | 0.024 |
 | `subst` | 3.19 | 3.97 | 0.351 | 5.33 | -0.934 | 0.016 |
 | `subst_homophonic` | 4.74 | 5.56 | 0.746 | 5.33 | -0.762 | 0.037 |
+| `linereset` | 1.79 | 3.87 | 0.189 | 5.00 | -0.900 | 0.063 |
 
 Conditional character entropy is the manuscript's most famous anomaly: 1.84
 bits against 3.12 for the closest natural language in the reference set. Two
@@ -456,6 +465,80 @@ lines, calibrated on the training half and fitted to nothing, supplied it.
 **A metric that no process was built to match is not evidence until somebody
 tries to match it.**
 
+### 4.2.4 Self-citation, tested by ablation, and a picture of mine that failed
+
+§4.2.2 and §4.2.3 left one thing unexplained: strong word-level dependence
+inside a line, none at all across a line break. The obvious candidate was Timm
+& Schinner's self-citation — the scribe copies a word he has just written and
+changes it slightly — with one addition: that he resets at the margin and does
+not look back at how the previous line ended.
+
+**First, the spelling test.** If words are copies, they should *look* like
+copies. Mean normalised edit distance between neighbouring words, against a
+control that shuffles word order inside the paragraph while holding every line
+length fixed:
+
+| | within a line | sigma below chance | across a line break | sigma |
+|---|---:|---:|---:|---:|
+| **the manuscript** (EVA) | 0.7621 | **7.9** | 0.8166 | **−19.1** |
+| the manuscript (v101) | 0.8013 | 6.9 | 0.8312 | −14.9 |
+| self-citation (Timm) | 0.7458 | 14.2 | 0.8010 | −5.3 |
+| five-component model | 0.7921 | 9.6 | 0.7945 | 1.6 |
+| prose (Italian, same layout) | 0.8973 | −9.9 | 0.8848 | 0.2 |
+| table-and-grille | 0.8424 | −0.2 | 0.8349 | 2.3 |
+
+Half the prediction held and half of it was wrong in a more interesting way.
+Words really are more alike than chance inside a line, at 7.9 sigma, and
+Italian is the other way round — in a real language neighbouring words are
+*less* alike than chance, because grammar puts different kinds of word next to
+each other. But across a line break the manuscript does not fall to chance. It
+goes to **−19.1 sigma**: the word ending a line and the word starting the next
+are markedly *more different* than two words picked at random from the same
+paragraph. That is not a reset. It is two mutually unlike pools, one for ending
+a line and one for starting one.
+
+**Then the generator, and the ablation that killed the picture.** The
+`linereset` row implements the loop: open from a stock of line-openers, write
+each next word by copying and mutating the last, fit the final word to the
+space and flourish it, restart at the margin. Sweeping the copy rate from the
+value that seemed right down to zero:
+
+| copy rate | h2 | TTR | within-line MI | spelling sigma |
+|---:|---:|---:|---:|---:|
+| *the manuscript* | *1.85* | *0.222* | *0.179* | *7.9* |
+| 0.72 | 2.82 | 0.545 | 0.050 | 278.2 |
+| 0.45 | 2.55 | 0.447 | 0.064 | 219.4 |
+| 0.25 | 2.26 | 0.340 | 0.108 | 44.2 |
+| 0.10 | 1.98 | 0.247 | 0.159 | 32.5 |
+| **0.00** | **1.79** | **0.189** | **0.175** | **6.3** |
+
+**Every measure improves monotonically as the copying is removed, and is best
+when there is none of it at all** — including the spelling similarity that the
+copying was introduced to explain. With the mechanism switched off entirely the
+model reaches 0.91 floor units on the fingerprint's 42 metrics and 0.57 median,
+against Timm's own generator at 2.13 and 1.65.
+
+So the picture is wrong, and the reason is worth stating because it is a
+confusion two of us made. Copy-and-mutate preserves the *beginning* of a word.
+The manuscript's dependence runs from the **end** of one word to the
+**beginning** of the next — Currier's old observation that words ending in `y`
+precede words beginning `qo-`. Those are different phenomena. Copying cannot
+produce a constraint between one word's ending and the next word's opening,
+because it never touches the relationship between the two.
+
+What is left, with copying removed, is a strikingly plain process: draw each
+word from a distribution conditioned on the last character of the one before
+it, begin each line from a stock of openers, flourish the ending, fit to the
+space. No copying, no memory beyond one character, no message. That is
+essentially the mechanism the five-component model already uses, and this is an
+independent confirmation of it arrived at by deleting everything else.
+
+**The self-citation hypothesis does not survive this well.** Its generator
+reaches 0.020 bits of within-line dependence against the manuscript's 0.179,
+and a model that removes its central mechanism reaches 0.175. Copying is not
+what produces the manuscript's word structure, and on this evidence it does not
+help.
+
 ### 4.3 The line and paragraph block, and how much of it is just decoration
 
 <!--TABLE:LINE-->
@@ -472,6 +555,8 @@ tries to match it.**
 | `naibbe_wb` | 15.87 | -0.60 | 0.18 | 1.09 | 0.04 | -0.04 |
 | `naibbe_wb_italian` | 13.87 | -0.04 | 0.48 | 1.09 | 0.03 | -0.06 |
 | `naibbe_word` | 13.49 | 2.50 | 0.00 | 0.00 | 0.15 | -0.01 |
+| `verbose_det` | 4.55 | 0.79 | 1.03 | 1.17 | 0.00 | -0.04 |
+| `verbose_det_italian` | 23.53 | -1.88 | 1.33 | 1.14 | -0.00 | -0.09 |
 | `grille` | 13.87 | -0.65 | 0.42 | 1.39 | 0.22 | 0.07 |
 | `grille_bigtable` | 16.09 | 0.00 | 0.24 | 1.39 | 0.07 | 0.03 |
 | `selfcite` | 14.57 | -5.81 | 0.42 | 1.02 | 0.08 | 0.06 |
@@ -483,6 +568,7 @@ tries to match it.**
 | `natlang_hebrew` | 0.00 | 0.00 | 0.18 | 1.33 | 0.06 | -0.24 |
 | `subst` | 8.70 | -2.54 | 0.12 | 1.08 | 0.06 | -0.03 |
 | `subst_homophonic` | 0.00 | -0.22 | 0.00 | 0.86 | 0.12 | -0.03 |
+| `linereset` | 40.98 | -0.02 | 0.24 | 1.04 | 0.02 | 0.03 |
 
 Two properties are not reproduced by any published process in the table:
 
@@ -621,6 +707,75 @@ might do.
 Five worst metrics, in floor units, held-out half.
 
 <!--TABLE:WORST-->
+**`fivecomp` — five-component model (fingerprint)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 2.395 | 73.336 | 10.0x |
+| line | m line-final % | 10.511 | 66.966 | 4.7x |
+| line | para vocab coherence | 1.063 | 2.610 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`fivecomp_scribe` — five-component model + a scribe's page habits**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | para/line-initial gallows % | 32.592 | 21.997 | 2.5x |
+| line | m line-final % | 47.902 | 66.966 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | para vocab coherence | 1.189 | 2.610 | 1.7x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`naibbe_latin` — Naibbe verbose cipher over latin**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 0.204 | 73.336 | 10.2x |
+| struct | hapax share of types % | 54.661 | 71.586 | 7.2x |
+| struct | adjacent identical words % | 0.160 | 0.870 | 5.3x |
+| line | m line-final % | 15.933 | 66.966 | 4.3x |
+| line | word-len autocorr | -0.033 | 0.113 | 4.1x |
+
+**`naibbe_wb_italian` — Naibbe, word breaks kept (Italian)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | -0.041 | 73.336 | 10.1x |
+| struct | hapax share of types % | 51.768 | 71.586 | 8.0x |
+| line | word-len autocorr | -0.063 | 0.113 | 5.0x |
+| line | m line-final % | 13.873 | 66.966 | 4.4x |
+| struct | adjacent identical words % | 0.238 | 0.870 | 4.3x |
+
+**`grille_bigtable` — table-and-grille, large table**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | len<=2 % | 16.980 | 7.240 | 14.7x |
+| text | top-5 finals % | 72.404 | 91.640 | 10.1x |
+| line | gallows para-start lift | 0.003 | 73.336 | 10.0x |
+| struct | hapax share of types % | 52.037 | 71.586 | 8.4x |
+| text | mean word len | 4.588 | 5.173 | 6.4x |
+
+**`abbrev` — Latin scribal abbreviation**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 58.070 | 91.640 | 17.5x |
+| struct | len<=2 % | 18.195 | 7.240 | 16.3x |
+| struct | H pos4 from end | 4.062 | 3.364 | 14.8x |
+| text | h1 (char) | 4.221 | 3.863 | 13.1x |
+| text | top-5 onsets % | 46.630 | 70.175 | 10.8x |
+
+**`gibberish` — human gibberish (42 volunteers)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 44.093 | 91.640 | 24.9x |
+| struct | H pos4 from end | 4.380 | 3.364 | 21.4x |
+| text | h1 (char) | 4.399 | 3.863 | 19.7x |
+| struct | H pos2 from end | 4.369 | 2.893 | 19.4x |
+| text | top-5 onsets % | 32.665 | 70.175 | 17.3x |
 **`fivecomp` — five-component model (fingerprint)**
 
 | block | metric | it produced | the manuscript | floor units |
@@ -1168,8 +1323,14 @@ Five worst metrics, in floor units, held-out half.
 Recorded because a result that was corrected mid-flight is more useful to the
 next person than a clean-looking table.
 
-**Four of this document's own conclusions have now been overturned by tests it
-recommended.** The fourth is §4.2.3: having ruled out prose, this document
+**Five of this document's own conclusions have now been overturned by tests it
+recommended.** The fifth, §4.2.4, is the one whose failure was most useful. This
+document proposed that the within-line word dependence came from a scribe
+copying the word he had just written, with a reset at the margin. Built and
+swept, the copying makes every measure worse, monotonically, and the model is
+best with none of it. Copy-and-mutate preserves the start of a word; the
+manuscript's constraint runs from one word's end to the next word's start.
+They are different phenomena and this document conflated them. The fourth is §4.2.3: having ruled out prose, this document
 proposed that a line might be a meaningful entry, and the measurements at first
 said so loudly -- line openings as distinct as a real list's, position structure
 stronger than one. One rule supplied the openings for free, and stripping two
