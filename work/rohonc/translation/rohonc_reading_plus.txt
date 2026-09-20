@@ -1978,7 +1978,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  somebody [?] <preposition_of_genitive>-somebody righteous(ly)-good-have_mercy-say-love-do, and
  6  grab Lord-<suffix_of_divine_name> +<subject_marker> this-Lord righteous(ly) [?] and Lord-<suffix_of_divine_name> each,_every
  7  somebody exist grab [?] exist from Lord-<suffix_of_divine_name> [?] somebody
- 8  firstborn exist be_damned to-exist-~exist [?] [?] [?]
+ 8  firstborn exist be_damned to-exist-~exist [?] on-+Lazarus [?]
  9  be_damned [?] [?] [?] and nine [?]
 
 
@@ -2083,7 +2083,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  understand ?likewise
  7  +three Lord-Lord-Lord father
  8  son spirit one God and this exist one
- 9  [?] evening [?] sun on-go_out and then-exist
+ 9  [?] evening +in_the_middle sun on-go_out and then-exist
 10  find one little son-Lord-<suffix_of_divine_name> on-shore this
 11  [?]-daily,_of_that_day sit son-Lord-<suffix_of_divine_name> little [?] and | <preposition_of_genitive>
 12  son-Lord-<suffix_of_divine_name> [?] one pit [?] and | <preposition_of_genitive>
@@ -2828,13 +2828,13 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  foresee Lord-Jézus ?he_is on-many [?] suffering | on
  6  ?coming Lord +third ?sorrow write speak | on
  7  +Palm_Sunday then-exist sit see on-in_turn-chapter-in_turn
- 8  Jerusalem not_only ?sorrow Lord-Jézus to-house and to-+building literal [?]
+ 8  Jerusalem not_only ?sorrow Lord-Jézus to-house and to-+building literal +in_the_middle
  9  in_turn-chapter-in_turn a) ?sorrow Lord-Jézus to-<preposition_of_genitive>-Lord create ?he_who
 10  create-Lord to-Lord [?] because foresee Lord-Jézus then-exist +<subject_marker>
 
 
 === 111v ===
- 1  +say people go each,_every [?] and then-exist on-execute Lord
+ 1  +say people go each,_every +scattered and then-exist on-execute Lord
  2  Christ +one-ten-+one-ten and two-two-year time grab Lord-<suffix_of_divine_name>
  3  can Roman on-head and on-head | and-exist
  4  exist-+name exist +Vespasian and Titus_<Roman_emperor> and this exist
@@ -2856,17 +2856,17 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  7  [?] head and +say nine hundred to-thirty denarius
  8  and head +<subject_marker> more grab ?but_rather exist.
  9  Judas and +say vend in_turn-two-two ?sorrow write
-10  speak on-many Tuesday then-chapter [?] on-burial_chamber among-Lord not_only ?sorrow
+10  speak on-many Tuesday then-chapter +Lazarus on-burial_chamber among-Lord not_only ?sorrow
 
 
 === 112v ===
- 1  eye Lord-Jézus | +but_rather most_high sad(ly) because [?] [?] [?] among
- 2  out(ward) on-burial_chamber because +three_days exist [?] inside burial_chamber and [?]
+ 1  eye Lord-Jézus | +but_rather most_high sad(ly) because +Lazarus [?] [?] among
+ 2  out(ward) on-burial_chamber because +three_days exist +Lazarus inside burial_chamber and +Lazarus
  3  [?] [?] out(ward) among-Lord +fifth ?sorrow write
  4  speak on-many Friday then-chapter Christ +crucified because [?]
  5  [?] somebody die-Lord not_only ?sorrow eye Lord-Jézus +but_rather most_high sad(ly)
  6  sad(ly) to people [?] inside-Lord [?] believe because foresee | Lord
- 7  Jézus [?]-+<subject_marker> +say people go each,_every [?] because-exist
+ 7  Jézus [?]-+<subject_marker> +say people go each,_every +scattered because-exist
  8  +say [?] heaven Jerusalem end this learn holy-gospel
  9  because on-judge-year [?]-angel divide angel evil
 10  how? one +rejoiced [?] one [?]-+say
@@ -2893,8 +2893,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  <preposition_of_genitive>-soul-son father-<suffix_of_divine_name> and go soul-son far inside | town
  4  exist and leave soul-son inside land and | begin-soul
  5  son from each,_every prodigalize leave soul-son this land because | begin-soul
- 6  son [?] and then-exist many-year leave soul-son this | in_turn
- 7  exist-exist and leave [?] this and soul-son
+ 6  son +lived_riotously and then-exist many-year leave soul-son this | in_turn
+ 7  exist-exist and leave +be_hungry this and soul-son
  8  ?how_shall_we understand because [?] | rich-eye-say-hear-love-have_mercy
  9  believe-righteous(ly)-+five-sense-[?]
 10  father-<suffix_of_divine_name> and go soul-son one pigman and
@@ -4053,7 +4053,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  and begin-+say shout-to [?] and go-Lord
  5  this-Lord want-Lord +say from-high <preposition_of_genitive>-+say ~rich [?]
  6  prepare and-Lord [?] Lord-Jézus | inside-and
- 7  [?] <preposition_of_genitive>-Lord town and this town | and
+ 7  +in_the_middle-inside <preposition_of_genitive>-Lord town and this town | and
  8  ?was_named exist [?] and grab
  9  to-Lord +three apostle Peter and Paul and
 
@@ -4762,7 +4762,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  through +the_Red_Sea to-one to-mount inside Sunday
  4  +the_Lord exist go-Lord on-suffer inside Jerusalem then-exist-Lord inside thirty
  5  half +three_days inside Monday +the_Lord many miracle preach-Lord in_turn
- 6  Tuesday +the_Lord [?] on-burial_chamber stand_up resurrect-Lord in_turn [?]
+ 6  Tuesday +the_Lord +Lazarus on-burial_chamber stand_up resurrect-Lord in_turn [?]
  7  [?] exist Judas [?] to-thirty silver
  8  in_turn wound dinner-to do,-Lord and capture-Lord in_turn
  9  Friday +cross-[?] and [?] +bound_up in_turn inside Saturday hell
@@ -5681,7 +5681,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  [?] remit ~begin-year [?] this out(ward) one
  5  holy-Philip-year [?] Monday inside <name_of_a_time_unit_or_calendar_date> [?]
  6  +until ~begin-year in_turn [?] ~begin-year one in_turn [?]
- 7  [?] [?] Lord have_mercy in_turn [?] one [?] in_turn [?]
+ 7  [?] [?] Lord have_mercy in_turn [?] one [?] in_turn +in_the_middle
  8  somebody [?] ?more_than_these this say [?] [?] [?]
  9  Friday [?] [?] [?] this out(ward) two Sunday [?]
 10  Sunday +three in_turn-two-two +<subject_marker> Sunday +three Lord | father

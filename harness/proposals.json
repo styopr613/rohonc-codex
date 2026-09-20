@@ -1343,5 +1343,41 @@
   "tier": "A",
   "n": 1,
   "evidence": "K&T's army/multitude (271520ae0271520ae0) is cited by them at 110r05, this word's only line; 670 for 520 in the second glyph. 'for there shall come upon this Jerusalem [an army]' 110r:5 = Luke 19:43, 'thine enemies shall cast a trench about thee'"
+ },
+ "540060060131520": {
+  "gloss": "Lazarus",
+  "tier": "A",
+  "n": 3,
+  "evidence": "K&T's Lazarus (540060131520) lists its variant spellings by line and cites 112r10, 112v02 twice and 190r06: exactly this word's three occurrences. 'on Holy Tuesday, then [Lazarus] at the tomb' 112r:10, where their call sign is glossed by them '(the Lord) called out Lazarus from the tomb'; 'three days was [Lazarus] in the tomb' 112v:2; 'Tuesday, the Lord raised [Lazarus] from the tomb' 190r:6 = John 11:39-44"
+ },
+ "540060060131540": {
+  "gloss": "Lazarus",
+  "tier": "A",
+  "n": 1,
+  "evidence": "the same name in a second spelling, which K&T's Lazarus entry cites at 079r08 and 112v01, this word's line: 'the eye of the Lord Jesus, but rather greatly sad, because [Lazarus] ... out of the tomb' 112v:1 = John 11:35, Jesus wept"
+ },
+ "5470606700602c1": {
+  "gloss": "be hungry",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's hunger expression (5470606350602c1) is glossed by them 'expr. 111v08 die with hunger; 113v07 be hungry' and cites 113v07, this word's only line; 670 for 635 in the middle. 'and there was left ... and the son began to [be hungry]' 113v:7 = Luke 15:14"
+ },
+ "520060793822": {
+  "gloss": "lived riotously",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's thief/rogue entry (520060793) carries a second sense they gloss 'II. ? 113v06 live dissolutely' and cite at 113v06, this word's only line: 'the son wasted all, the son [lived riotously] in that land' 113v:5-6 = Luke 15:13, wasted his substance with riotous living"
+ },
+ "67098a": {
+  "gloss": "scattered",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's 670989 '?? scatter, spread' is cited by them at 111v01 and 112v07: exactly this word's two occurrences. 'the people shall go, all [scattered]' 111v:1 and 112v:7, of the Jews after the fall of Jerusalem = Luke 21:24"
+ },
+ "a13": {
+  "gloss": "in the middle",
+  "tier": "B",
+  "n": 3,
+  "evidence": "K&T's middle (a10a13) cites a spelling at 111r08, this word's line. At 084r:9 it stands in their own 'morning, evening, noon' expression, which they cite at that line, so the midday sense holds there. At 111r:8 and 222v:7 it is their word and the sentence around it does not read"
  }
 }

@@ -7917,3 +7917,236 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Roman, the destroying, and the "there shall not be left one stone upon
 > another" of Matthew 24:2, which is also written across a line break.
 > *Palm Sunday* on line 11 is theirs too. The reading ends there.
+
+## 111r — the five sorrows of the Son of God
+
+**1**  All the writings speak of five sorrows of the Son of God. The first sorrow
+`each,_every write speak +five ?sorrow son God first ?sorrow`
+
+**2**  of the Son of God: then the Lord God destroyed five, in turn;
+`son God then-exist destroy Lord-<divine> +five in_turn-chapter-in_turn`
+
+**3**  and not only sorrow of the Lord's eye, but rather greatly sad. The second sorrow, the writing
+`and not_only ?sorrow Lord eye ?but_rather most_high sad(ly) two ?sorrow write`
+
+**4**  speaks of the coming to the city of Bethlehem, because
+`speak on-?coming Bethlehem +city because`
+
+**5**  the Lord Jesus foresaw that he is, upon many, […] suffering | upon
+`foresee Lord-Jézus ?he_is on-many [?] suffering | on`
+
+**6**  the coming of the Lord. The third sorrow, the writing speaks | of
+`?coming Lord +third ?sorrow write speak | on`
+
+**7**  Palm Sunday: then he sat and saw, in turn,
+`+Palm_Sunday then-exist sit see on-in_turn-chapter-in_turn`
+
+**8**  Jerusalem; not only the sorrow of the Lord Jesus for the house and for the building, literally, in the middle;
+`Jerusalem not_only ?sorrow Lord-Jézus to-house and to-+building literal +in_the_middle`
+
+**9**  in turn, the sorrow of the Lord Jesus for his own creature, who
+`in_turn-chapter-in_turn a) ?sorrow Lord-Jézus to-<of>-Lord create ?he_who`
+
+**10**  the Lord created for himself, […] because the Lord Jesus foresaw then
+`create-Lord to-Lord [?] because foresee Lord-Jézus then-exist +<subj>`
+
+> The five weepings of Christ, a standing list in medieval preaching: at the
+> Nativity, over Jerusalem on Palm Sunday, at the grave of Lazarus, on the
+> cross. The codex gives all five across 111r-112v, numbering them. Palm
+> Sunday on line 7 is Király & Tokai's own sign, cited by them at this line.
+
+## 111v — Jerusalem falls, and a mother eats her son
+
+**1**  the people shall go, all scattered. And then, at the execution of the Lord
+`+say people go each,_every +scattered and then-exist on-execute Lord`
+
+**2**  Christ: ten and ten, and four years; then took the Lord God
+`Christ +one-ten-+one-ten and two-two-year time grab Lord-<divine>`
+
+**3**  power, the Roman, at their head; and at their head | there was
+`can Roman on-head and on-head | and-exist`
+
+**4**  by name Vespasian, and Titus; and these were
+`exist-+name exist +Vespasian and Titus and this exist`
+
+**5**  father and son; and then the two, father and son, destroyed Jerusalem, all Jerusalem, […]
+`from-father son and then-exist two-father-son +destroyed Jerusalem each,_every Jerusalem [?]`
+
+**6**  even to the ground; and stone upon stone shall not be left. And | two,
+`until ground and stone on-stone +shall_not_be_left and | two`
+
+**7**  father and son, much misery upon them, did the son, the two, the father;
+`father-son many misery on-+say do,-son-two-father`
+
+**8**  because one said: of hunger they die. In turn the second said: how shall we,
+`because one +say hunger die in_turn-two +say ?how_shall_we-+say`
+
+**9**  of hunger? […] In turn, of my son eat. The third said,
+`hunger [?] a) <of>-+say son eat +third +say`
+
+**10**  they said, and they said, out, […] and […] head.
+`+say and-+say out(ward) [?]-+say and [?] head`
+
+> Lines 1-6 are the Roman siege, with both emperors named and the "stone upon
+> stone" of Matthew 24:2 written across a line break. Lines 8-9 are the
+> mother who ate her own child in the famine, from Josephus by way of the
+> Golden Legend and the *Siege of Jerusalem* that every preacher carried.
+> The count on line 2 is ten and ten and four; the tradition puts the fall
+> forty-two years after the Passion, so the reading of the numeral does not
+> match the tradition and is left as it stands.
+
+## 112r — thirty Jews for one penny, because Judas sold for thirty
+
+**1**  among them taken captive, all of them, the cross, executed, but […] and
+`among +say capture each,_every +say +cross execute ?but_rather-[?] and`
+
+**2**  there is a head […] […] a head; and they could
+`exist head [?] [?] head and +say can`
+
+**3**  a head […] find; and there they were,
+`head [?] on-find on-exist-+say-+<subj>`
+
+**4**  executed, a head […] sold, a head
+`execute head [?]-+<subj> vend head`
+
+**5**  thirty for one denarius; and they, | from
+`on-thirty to-one denarius and-+say +<subj> | from`
+
+**6**  […] a head let go; in turn, until, in turn, went
+`[?] head remit in_turn-chapter-in_turn ~until in_turn-chapter-in_turn go`
+
+**7**  […] a head; and they, nine hundred for thirty denarii;
+`[?] head and +say nine hundred to-thirty denarius`
+
+**8**  and the head, more, they took; but it is.
+`and head +<subj> more grab ?but_rather exist.`
+
+**9**  Judas, and they sold. The fourth sorrow, the writing
+`Judas and +say vend in_turn-two-two ?sorrow write`
+
+**10**  speaks of Holy Tuesday: then Lazarus at the tomb, of the Lord; not only sorrow,
+`speak on-many Tuesday then-chapter +Lazarus on-burial_chamber among-Lord not_only ?sorrow`
+
+> The legend that Titus sold thirty Jews for one penny because Judas sold
+> Christ for thirty pence. It is in the Golden Legend's account of the
+> destruction of Jerusalem, and line 9 names Judas and the selling in the
+> same breath. Király & Tokai's denarius sign stands on lines 5 and 7, and
+> their Holy Tuesday on line 10.
+
+## 112v — the fourth and fifth sorrows: Lazarus, and Good Friday
+
+**1**  the eye of the Lord Jesus, | but rather greatly sad, because Lazarus […] […] among,
+`eye Lord-Jézus | +but_rather most_high sad(ly) because +Lazarus [?] [?] among`
+
+**2**  out, at the tomb; because three days was Lazarus in the tomb; and Lazarus
+`out(ward) on-burial_chamber because +three_days exist +Lazarus inside burial_chamber and +Lazarus`
+
+**3**  […] […] out, of the Lord. The fifth sorrow, the writing
+`[?] [?] out(ward) among-Lord +fifth ?sorrow write`
+
+**4**  speaks of Good Friday: then Christ crucified, because […]
+`speak on-many Friday then-chapter Christ +crucified because [?]`
+
+**5**  […] man, the Lord died; not only sorrow of the eye of the Lord Jesus, but rather greatly sad,
+`[?] somebody die-Lord not_only ?sorrow eye Lord-Jézus +but_rather most_high sad(ly)`
+
+**6**  sad for the people […] in the Lord […] believe; because foresaw | the Lord
+`sad(ly) to people [?] inside-Lord [?] believe because foresee | Lord`
+
+**7**  Jesus […] that the people shall go, all scattered; because there is
+`Jézus [?]-+<subj> +say people go each,_every +scattered because-exist`
+
+**8**  […] the heavenly Jerusalem. The end of this teaching, the holy gospel.
+`+say [?] heaven Jerusalem end this learn holy-gospel`
+
+**9**  For on the day of judgment […] the angel divideth, the angel, the evil:
+`because on-judge-year [?]-angel divide angel evil`
+
+**10**  how? one rejoiced […]; one […]
+`how? one +rejoiced [?] one [?]-+say`
+
+> John 11:35, "Jesus wept", is the fourth sorrow, and Good Friday the fifth.
+> Lazarus is named four times across these two folios in two spellings, both
+> Király & Tokai's, cited by them at these very lines. Two words stand
+> beside Lazarus on lines 1 and 3 that their apparatus cites here for a sign
+> they gloss doubtfully as "recovery or health"; which of the two they meant
+> cannot be told, so both are left unread.
+
+## 113r — the division at the judgment, and the opening of the Prodigal Son
+
+**1**  die; this is: in two divided, the firstborn rejoiced, let go;
+`die +this_is on-two divide firstborn +rejoiced remit`
+
+**2**  in turn this younger rejoiced, let go, this; and the man divideth
+`in_turn this younger +rejoiced remit this and somebody divide`
+
+**3**  on the day of judgment: one gate to the evil; in turn the second taketh within
+`on-judge-year one gate on-~evil in_turn-two grab inside`
+
+**4**  the kingdom of heaven, but the Lord; there are many […] joy.
+`heaven land ?but_rather-Lord exist many [?] joy`
+
+**5**  Begins this holy gospel,
+`begins this holy-gospel`
+
+**6**  the writing, the holy gospel,
+`write holy-gospel`
+
+**7**  written by holy Matthew, in the first chapter
+`write holy-Matthew inside +one chapter`
+
+**8**  of his writing. Then
+`<of>-write time`
+
+**9**  said the Lord Jesus to his apostles
+`say Lord-Jézus apostle <of>-Lord`
+
+**10**  and the Jewish people: there was
+`and Jew(ish) people exist`
+
+**11**  one holy Lord God; and then the Lord God had two sons,
+`one ~rich Lord-<divine> and then-exist have Lord-<divine> two son`
+
+**12**  the angel, the soul; and this younger son of the soul then asked for the soul's
+`angel soul and this younger soul-son then-exist soul ask_(for)`
+
+> Line 7 says Matthew, first chapter, and what follows is the Prodigal Son,
+> Luke 15:11. It is recorded as off. The parable is told allegorically from
+> the first line: the two sons are named the angel and the soul.
+
+## 113v — the younger son takes his portion and wastes it
+
+**1**  portion of the soul's son, of the Father; and then the son of the soul had much wealth,
+`divide_into_parts <of>-soul-son father-<divine> and then-exist soul-son exist many ~rich`
+
+**2**  took it of the Father; because the son of the soul rightly […] took of the Father this,
+`grab father-<divine> because soul-son righteous(ly) [?] grab father-<divine> this`
+
+**3**  of the soul's son, of the Father. And the son of the soul went far, into a | city
+`<of>-soul-son father-<divine> and go soul-son far inside | town`
+
+**4**  there was; and the son of the soul stayed in that land, and | began the soul's
+`exist and leave soul-son inside land and | begin-soul`
+
+**5**  son to waste it all; the son of the soul stayed in that land, because | began the soul's
+`son from each,_every prodigalize leave soul-son this land because | begin-soul`
+
+**6**  son to live riotously; and then, many years, the son of the soul stayed there. | In turn
+`son +lived_riotously and then-exist many-year leave soul-son this | in_turn`
+
+**7**  it was; and there was left; he began to be hungry, this; and the son of the soul
+`exist-exist and leave +be_hungry this and soul-son`
+
+**8**  how shall he understand? for the […] son: the holy eye, speech, hearing, love, mercy,
+`?how_shall_we understand because [?] rich-eye-say-hear-love-have_mercy`
+
+**9**  faith, righteousness: the five senses […]
+`faith-true-+five-sense-[?]`
+
+**10**  of the Father. And the son of the soul went to a swineherd, and
+`father-<divine> and go soul-son one pigman and`
+
+> Luke 15:12-15. *Lived riotously* and *be hungry* are both Király &
+> Tokai's, each cited by them at exactly these lines. Lines 8-9 give the
+> standard allegory: the substance the son wastes is the five senses, listed
+> one by one and then named as five in a single compound sign.

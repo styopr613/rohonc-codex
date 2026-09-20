@@ -986,13 +986,19 @@ follows. Seven were checked by hand:
                                     things that ye see         Luke 10:23   OK
     109v  Luke, ninth chapter       the mount of Olives, the weeping over
                                     Jerusalem, the temple      Luke 19:29   OFF
+    113r  Matthew, first chapter    a certain man had two sons, and the
+                                    younger wasted his substance
+                                                               Luke 15:11   OFF
 
-Ten of twelve land on the right chapter of the right evangelist. The eighth
+Ten of thirteen land on the right chapter of the right evangelist. The eighth
 is off by one, and the twelfth is off by ten: 109v says Luke chapter nine
 over a page that tells Luke 19. Its first line does match Luke 9:51, *he
 stedfastly set his face to go to Jerusalem*, so the compiler may have opened
 there and run on, but that is a guess and the citation is recorded as a miss.
-Both misses are recorded as off rather than explained away. **A
+The thirteenth is off in the book as well as the chapter: 113r says Matthew,
+first chapter, over the Prodigal Son, which is Luke 15. All three misses are
+recorded as off rather than explained away, and the hit rate has fallen as
+more were checked: it was eight of nine, it is now ten of thirteen. **A
 compiler who invents a script does not have to get the chapter numbers right,
 and this one mostly does.**
 
@@ -1022,7 +1028,7 @@ is offered as such.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 206
+With the rendering on the page it became possible to read it, and 212
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
@@ -1108,16 +1114,16 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 222 signs are read
+in the book and keep it only if it survives all of them. 228 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
-decisive occurrences, graded A, B, C or D. 70 are tier A, twenty of them
+decisive occurrences, graded A, B, C or D. 75 are tier A, twenty of them
 stroke numerals entered whole by their composition rule. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **59.4%**.
+lines where every word is read from 23.8% to **59.6%**.
 
 **Their apparatus reads more than their headwords.** Every entry in Kiraly
 and Tokai's dictionary cites folio and line for its examples and for each
