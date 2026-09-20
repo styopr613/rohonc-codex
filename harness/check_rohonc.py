@@ -201,7 +201,14 @@ def main():
         check(f"gate 5: {lab} {want}%", len(g) == 2 and g[1] == want, str(g))
     check("gate 5 FAIL and the 4% flaw recorded",
           "FAIL" in kdi and "top five 8%, top ten" in flat and "4%" in flat)
-    check("eight attempts stated", "eight ways" in flat and "bar was never moved" in flat)
+    check("nine attempts stated", "nine ways" in flat and "bar was never moved" in flat)
+    kt = out("kttopical.txt")
+    check("topical filter: 47 codes, two at 100%",
+          "47 undefined codes" in kt and "100%" in kt
+          and "47 undefined codes" in flat and "100% of 33 and of 31" in flat)
+    check("ninth rejection recorded",
+          "six of its" in flat and "twenty-seven occurrences" in flat
+          and "ten virgins" in flat)
     kc = out("ktceiling.txt")
     # the band row is "1  2885  2885  9.58%": the label is consumed, so the
     # numbers that come back are types, tokens, percent -- three, not four

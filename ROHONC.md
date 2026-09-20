@@ -324,11 +324,11 @@ Defining the top 50 undefined codes would lift coverage from 62.1% to 73.1%;
 the top 100 to 76.0%; the top 200 to 79.1%; the top 500 to 84.1%. That is a
 work plan, and it is owed to the authors.
 
-## Extending the dictionary: eight attempts, and a ceiling
+## Extending the dictionary: nine attempts, a ceiling, and a filter
 
 Four words in ten have no gloss and another five in ten have several. Working
 out the undefined codes is the part of the problem nobody has done. It was
-tried eight ways, each against a bar set before the run, and each failed. The
+tried nine ways, each against a bar set before the run, and each failed. The
 bar was never moved. Two evaluation bugs were fixed and the runs repeated;
 neither fix changed a verdict. Five of the six were mechanical. The sixth was
 not, and did best.
@@ -434,6 +434,27 @@ cycles on the single most testable code in the book, there is still no answer,
 and 127 of that code's appearances sit beside one other undefined code -- a
 collocation that is itself a finding and not a meaning.
 
+**Targeting, and a ninth rejection.** Gate 2 above failed partly on method
+and partly on aim: it treated every undefined code alike, and a function word
+spread evenly through the book has no neighbourhood to be enriched in.
+`kttopical.py` separates them by how far a code's distribution departs from the
+book's own across twenty-folio bands. Of the 47 undefined codes occurring 25 or
+more times, the two most concentrated sit *entirely* within folios 140–159 —
+100% of 33 and of 31 occurrences — while the flattest have no band holding more
+than 15%.
+
+That is a real filter, and it surfaced a real hypothesis. Folios 144–148 are
+densely about virgins, maidens, women, servants, prayer, fasting and
+forgiveness, with a formula repeating four times that reads as "the kingdom of
+heaven", and one line placing the target between that formula and "virgin".
+Read as "like" — *the kingdom of heaven is likened unto* — it fits six of its
+twenty-seven occurrences and breaks on the rest, appearing twice in a single
+line on three separate folios. **Rejected.**
+
+What survives is a finding about the codex rather than a code: that stretch is
+about virgins, maidens and the kingdom of heaven, which is consistent with the
+parable of the ten virgins and does not depend on any code being solved.
+
 **The ceiling.** The eighth line of attack, reading the illustrations, is how
 Tokai found his entry points, and the scans make it available: folios map to
 scan pages (a pencilled "42" on the left leaf of scan page 43 fixes it), and
@@ -525,6 +546,7 @@ repository staff; with it, this would probably be feasible.
     python ktreject.py        # the seventh, rejection scored distributionally
     python ktceiling.py       # the ceiling on self-verification
     python ktsolve.py 3       # frame evidence for the top undefined codes
+    python kttopical.py       # which undefined codes are worth attacking
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 

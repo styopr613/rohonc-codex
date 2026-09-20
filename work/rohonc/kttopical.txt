@@ -1,0 +1,39 @@
+47 undefined codes with 25+ occurrences
+
+MOST CONCENTRATED (content words, worth attacking)
+   KL     n   peak band  % there
+ 2.54    33  140-159      100%
+ 2.54    31  140-159      100%
+ 1.72    32  120-139       56%
+ 1.47    35    0-19        71%
+ 1.45    50  140-159       66%
+ 1.29    25  160-179       64%
+ 1.27    25   40-59        64%
+ 1.23    30  180-199       63%
+
+FLATTEST (grammatical, not reachable this way)
+ 0.11    94   20-39        16%
+ 0.10   303   60-79        20%
+ 0.07   338    0-19        14%
+ 0.05   468    0-19        15%
+ 0.04   219  140-159       13%
+
+what folios 140-159 are about, by readable vocabulary:
+    114  <2nd person singular personal pronoun>/<3rd person singula
+    110  <place-value delimiter in numerals>/also/and/but/eleven/th
+     63  human/man/somebody/we
+     45  <auxiliary>/<copula>/exist/“there is”
+     44  and
+     41  in/inside/into/within
+     36  boy/son
+     33  Lord/divine person/husband/lord
+     29  give/grab/take
+     28  away/from/from there/the
+     28  say/speech
+     25  (some)one/a/first/not one/one
+     23  other/second/the others, the rest/two
+     17  all, whole/each, every/they all/wholly, completely
+     17  carry/come/go/go out/go to/lead/send/send forward
+     17  <a female person>/sheep
+     16  book/scripture/write
+     16  speak/talk
