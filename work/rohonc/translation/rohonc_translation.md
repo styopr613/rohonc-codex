@@ -6746,3 +6746,227 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 
 > John 6:55, *my flesh is meat indeed, and my blood is drink indeed*, which
 > line 7 gives in both halves.
+
+## 096v — I am the living bread which came down from heaven
+
+**1**  your fathers did eat in […] because that is the bread
+`you father eat inside [?] because that_is +bread`
+
+**2**  of life; he who goes, the Lord, the Lord's bread; in turn he left the eternal town
+`living +he_who go-Lord +bread-Lord in_turn leave ?from_the_eternal | town`
+
+**3**  from that day, upon this world; and the man who eats this bread
+`from-+day on-this ?world and somebody exist this +bread eat`
+
+**4**  from him, the man shall live for ever, amen
+`from somebody exist living chapter-oh chapter-oh amen`
+
+**5**  and this Lord, this […] because the Lord, this Lord goes
+`and this-Lord this [?] because-Lord this-Lord | go`
+
+**6**  the Lord from his Father, upon this world; and this Lord
+`Lord from <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> on-this ?world and this-Lord`
+
+**7**  to his Father, the living Lord; and the man who in the Lord
+`to-<preposition_of_genitive>-Lord from-father living-Lord and somebody exist Lord.`
+
+**8**  believes, from him the man lives to the Lord, for
+`believe from somebody exist to-Lord living chapter-oh`
+
+**9**  ever […] and the man who is
+`chapter-oh [?] and somebody exist`
+
+**10**  within the Lord's law of love, carried by the Lord, stays; and this Lord is
+`inside Lord-+law-love-~carry-Lord stay and this-Lord exist`
+
+> John 6:49–51, *your fathers did eat manna in the wilderness, and are dead.
+> This is the bread which cometh down from heaven... I am the living bread.*
+
+## 097r — he that dwelleth in me, and I in him
+
+**1**  within […] and the man who carries his commandment, from the man
+`inside [?] and somebody exist <preposition_of_genitive>-Lord commandment carry from somebody`
+
+**2**  who is in the Lord, from the Lord's law of love, carried by the Lord, stays; and this Lord is
+`exist inside Lord from Lord-+law-love-~carry-Lord stay and this-Lord exist`
+
+**3**  within […] And then Lord Jesus […] the man, and the man who is
+`inside [?] +and_then Lord-Jézus [?] somebody and somebody exist`
+
+**4**  within the Lord, the Father, the Son, God, Jesus, the Holy Spirit, Mary, Christ, the apostles, the angels
+`inside Lord-father-<suffix_of_divine_name>-son-God-Jézus-holy-spirit-Mary-Christ-apostle-angel`
+
+**5**  […] stays; the Lord, the Father, the Son, God would have
+`[?]-stay | want-Lord-father-<suffix_of_divine_name>-son-God`
+
+**6**  Jesus, the Holy Spirit, Mary, Christ, the apostles, the angels go; and the man
+`Jézus-holy-spirit-Mary-Christ-apostle-angel go and somebody`
+
+**7**  goes, the Lord, the Father, the Son, God, Jesus, the Holy Spirit, Mary, Christ, the apostles, the angels
+`go-Lord-father-<suffix_of_divine_name>-son-God-Jézus-holy-spirit-Mary-Christ-apostle-angel`
+
+**8**  into the heavenly land. And then Lord Jesus, and this man
+`inside heavenly land +and_then Lord-Jézus and this somebody`
+
+**9**  would have the Lord, the Father, the Son, God, Jesus, the Holy Spirit, Mary, Christ, the apostles, the angels
+`want-Lord-father-<suffix_of_divine_name>-son-God-Jézus-holy-spirit-Mary-Christ-apostle-angel`
+
+**10**  take his house, at the Lord's, the Father's, the Son's, God's, Jesus', the Holy Spirit's
+`house grab at | <preposition_of_genitive>-Lord-father-<suffix_of_divine_name>-son-God-Jézus-holy-spirit`
+
+> John 6:56, *he that eateth my flesh, and drinketh my blood, dwelleth in me,
+> and I in him.* The long chains on lines 4, 7 and 9 are one sign written as
+> a single compound naming the whole of heaven at once, which is how the
+> codex does a litany.
+
+## 097v — the whole company of heaven, and the host
+
+**1**  Mary, Christ, the apostles, the angels; from God the Father, hidden, through staying
+`Mary-Christ-apostle-angel from-father-God to-hide_oneself-exist through stay`
+
+**2**  the man, for ever, amen. And then Lord Jesus, and
+`somebody chapter-oh chapter-oh amen +and_then Lord-Jézus and`
+
+**3**  the man who from the altar, from the thirty, the holy host
+`somebody exist from altar(table) from thirty holy-host`
+
+**4**  eats […] from him the man lives, for
+`eat [?] from somebody exist living-somebody chapter-oh`
+
+**5**  ever, amen. Here ends this holy gospel. The Lord, with all thy heart.
+`chapter-oh amen end this holy-gospel Lord-?with_all_thy_heart`
+
+**6**  Here begins this holy gospel
+`begins this holy-gospel`
+
+**7**  written by holy Luke, in
+`write holy-Luke inside`
+
+**8**  the […] chapter of his writing.
+`and chapter <preposition_of_genitive>-write`
+
+**9**  Then Lord Jesus, in
+`then-exist Lord-Jézus inside`
+
+**10**  the thirtieth day and in the first
+`thirty +day and inside +one`
+
+**11**  year; at that time he left
+`year time leave-to-leave`
+
+> The altar, the thirty and the holy host on line 3 are the mass, not the
+> gospel.
+
+## 098r — the light of the body is the eye
+
+**1**  Lord Jesus […] among the chief of the Jews, and his apostles
+`Lord-Jézus [?] among Jew(ish) head and <preposition_of_genitive>-Lord apostle`
+
+**2**  And then Lord Jesus, to his apostles and the Jewish people […]
+`+and_then Lord-Jézus apostle <preposition_of_genitive>-Lord and Jew(ish) people-+day [?]`
+
+**3**  have mercy […] the eye […] […] of the apostles
+`have_mercy-+<subject_marker> <preposition_of_genitive>-[?] eye-from [?] [?] | <preposition_of_genitive>-apostle`
+
+**4**  the man said, the eye. And then Lord Jesus, the eye of […]
+`+say-somebody eye-from +and_then Lord-Jézus eye-from | <preposition_of_genitive>-[?]`
+
+**5**  the man, this is the lamp of […] and the lamp of the apostles
+`somebody +this_is lamp <preposition_of_genitive>-[?] and lamp | <preposition_of_genitive>-apostle`
+
+**6**  the man said, this is for ever, of […] and
+`+say-somebody +this_is exist-exist-chapter <preposition_of_genitive>-[?] and`
+
+**7**  in turn, it is within […] for ever […] one
+`in_turn exist inside <preposition_of_genitive>-[?] exist-exist-chapter [?] one`
+
+**8**  the heart, sin protruding, is all of […] for ever
+`heart +sin protrude exist each,_every <preposition_of_genitive>-[?] exist-exist-chapter`
+
+**9**  darkness. And then Lord Jesus, in turn who […] […]
+`darkness +and_then Lord-Jézus in_turn-who [?] [?]`
+
+**10**  sins against the Lord, from God the Father, from the heart; he would, from the Father
+`sin against <preposition_of_genitive>-Lord from-father God from heart want from-father`
+
+> Luke 11:34, *the light of the body is the eye: therefore when thine eye is
+> single, thy whole body also is full of light; but when thine eye is evil,
+> thy body also is full of darkness.*
+
+## 098v — a candle set on a candlestick
+
+**1**  his scourges, various, of the ass. And then Lord Jesus, this hidden
+`<preposition_of_genitive>-Lord whip-whip various from-donkey +and_then Lord-Jézus this-hide_oneself`
+
+**2**  is within […] for ever; every […] is clean
+`exist inside <preposition_of_genitive>-[?] exist-exist-chapter each,_every [?] clean exist`
+
+**3**  all of […] for ever, light. And then Lord Jesus,
+`each,_every <preposition_of_genitive>-[?] exist-exist-chapter light +and_then Lord-Jézus`
+
+**4**  how then […] the lamp gives light, to
+`how? then-exist [?]-[?] lamp light to-+<subject_marker>`
+
+**5**  the light; the lamp, a hundred, gives light, of […] for ever.
+`light lamp hundred exist light <preposition_of_genitive>-[?] exist-exist-chapter`
+
+**6**  Here ends this holy gospel. The Lord with all thy heart; the Lord have mercy; and truly
+`end this holy-gospel Lord-<suffix_of_divine_name> ?with_all_thy_heart Lord-<suffix_of_divine_name> +<subject_marker> have_mercy and righteous(ly)`
+
+**7**  speaks holy John: God
+`speak holy-John God`
+
+**8**  can bear the sky
+`can carry sky`
+
+**9**  and the earth; to this
+`and earth to-this`
+
+**10**  speaks holy John, the Lord
+`speak holy-John Lord`
+
+**11**  God; and the man who bears the living
+`God and somebody carry living`
+
+**12**  man upon this world, and healing
+`somebody on-this ?world and healing`
+
+> Luke 11:33, *no man, when he hath lighted a candle, putteth it in a secret
+> place... but on a candlestick, that they which come in may see the light.*
+
+## 099v — if a man say, I love God, and hateth his brother, he is a liar
+
+**1**  he is a liar; how does this man love God, in turn, of
+`one liar exist how? this somebody God love in_turn | <preposition_of_genitive>`
+
+**2**  the man, the father, the son […] loves God […] the high, this he sees.
+`somebody father son [?] love God [?] high-this see.`
+
+**3**  the man, in turn, his father, his son he sees; whosoever […]
+`somebody in_turn <preposition_of_genitive>-somebody father son see ?whosoever [?]`
+
+**4**  the son […] the man loves; how does this man love God, this
+`son [?] love-somebody how? this-somebody God love this`
+
+**5**  pleasing; in turn the rich man would love God; first love, of the rich
+`pleasing in_turn want-rich-somebody God love first love | <preposition_of_genitive>-rich`
+
+**6**  man, the father, the son, as the rich man, the rich man's neighbour, God
+`somebody father son how?-to rich-somebody rich-+neighbour God`
+
+**7**  and good; the rich man is loved […] […] the eternal
+`and good exist somebody-~rich love [?]-[?] ?eternal`
+
+**8**  land, the evil […] the rich man sees, saved
+`land ~evil [?] see-rich-somebody | +be_saved`
+
+**9**  the rich man is, for ever, amen.
+`rich-somebody exist chapter-oh chapter-oh amen.`
+
+**10**  In turn who is the rich man; the Lord, the apostles, love every man as the rich man
+`in_turn-who-exist rich-somebody Lord apostle love each,_every somebody how?-to rich-somebody`
+
+> **1 John 4:20**, *if a man say, I love God, and hateth his brother, he is a
+> liar: for he that loveth not his brother whom he hath seen, how can he love
+> God whom he hath not seen?* Lines 1–4 have both halves of it, and the
+> answer on line 6 is the great commandment again.
