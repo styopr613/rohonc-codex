@@ -23,12 +23,10 @@ import ktvariant as V
 
 
 def build():
-    """The same inventory kttranslate.py renders with, extended segmentation
-    included. Building it from ktcoverage alone left this tool one step
-    behind the page: it listed lines as one word short that the extended
-    cut had already closed."""
-    gl, doc, seg, var = X.load()      # extended segmentation, proposals loaded
-    return gl, doc, seg, var, T.load_proposals()
+    gl, doc, seg = C.build()
+    var = {v: h for v, (h, _) in V.readings()[6].items()}
+    prop = T.load_proposals()
+    return gl, doc, seg, var, prop
 
 
 def readable(t, gl, seg, var, prop):

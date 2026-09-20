@@ -157,46 +157,10 @@ than once, check it at the others and it can reach tier A or B. If it occurs
 once, fill it, mark it tier C, and move on -- a tier C reading is still a
 reading, it just cannot be verified by repetition.
 
-## The fourth engine: read the piece, not the word
-
-Most unread words are compounds. Run `python3 ktresidue.py` and it cuts every
-unread word into pieces that are already readable plus at most one that is
-not, then ranks the leftover pieces by how many distinct words each blocks.
-Work that list from the top. Reading one piece closes every word built on it,
-so a piece is worth about twice what a word is worth, and sometimes far more:
-the sign for name closed thirty-five words in one entry because five words of
-the same shape had already been read as name, named or shall be called.
-
-Two cautions. The cut must maximise the glyphs covered by KNOWN pieces, not
-minimise the number of pieces -- minimising picks the whole word as a single
-unknown every time. And a piece that is a strong word-final element is a
-suffix worth reading, while a piece that never ends a word is a stem; run the
-run-final test on it first, because that is how E034 was caught as
-punctuation rather than glossed as a word.
-
-Keep the tools on one inventory. `ktgap.py` was building its own from
-`ktcoverage` alone, so it listed lines as one word short that the extended
-cut had already closed, and `ktcontext.py` was printing this project's own
-readings as unread. Both now load the same inventory the renderer uses. If a
-tool disagrees with the page, fix the tool before reading anything from it.
-
-## Nothing here has a floor, and here is what the last stretch costs
-
-The four engines feed each other. Translating a folio makes its signs
-reachable. Reading a sign closes gaps on every page it appears. Reading a
-piece closes every word built on it. Closing gaps makes more lines complete,
-which makes the next guess easier. Keep all four going rather than finishing
-one.
-
-But count before promising. A line is 6.9 words long, so the share of lines
-with every word read is about (1-p) to the power 6.9, where p is the share of
-words unread. Getting lines to 98% needs p near 0.3%, which is about ninety
-unread words in the whole book. Reading every one of the 896 blocking pieces
-leaves p at 1.6% and lines near 90%. The rest is roughly seven hundred signs
-that occur exactly once. Each of those can only be read from the single line
-it stands in, so it is a reading of a line and not of a sign. Enter those as
-tier D, which renders like tier C but keeps them countable apart, and never
-let them inflate the figure for what has been checked.
+The three engines feed each other and none of them has a floor. Translating a
+folio makes its signs reachable. Reading a sign closes gaps on every page it
+appears. Closing gaps makes more lines complete, which makes the next guess
+easier. Keep all three going rather than finishing one.
 
 ## After every change
 

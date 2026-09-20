@@ -134,7 +134,7 @@ def kind(t, gl, seg, var, prop=None):
     return "none"
 
 
-def load_proposals(tiers=("A", "B", "C", "D")):
+def load_proposals(tiers=("A", "B", "C")):
     """{code: gloss} for the readings in proposals.json.
 
     Tier C is included and marked differently on the page. A tier C reading
@@ -142,12 +142,6 @@ def load_proposals(tiers=("A", "B", "C", "D")):
     usually because the sign occurs only once or twice. Leaving it off the
     page does not make the page more honest, it makes it less readable; the
     mark is what carries the honesty.
-
-    Tier D is weaker again: a sign that occurs ONCE, read from the single
-    line it stands in because every other word of that line is readable and
-    the sentence has one hole. There is nothing anywhere in the book to test
-    such a reading against. It is a reading of the line, not of the sign,
-    and it is marked "?" on the page like tier C.
     """
     if not os.path.exists(PROPOSALS):
         return {}

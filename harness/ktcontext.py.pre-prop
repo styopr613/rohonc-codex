@@ -31,52 +31,10 @@ def unhx(h):
     return "".join(chr(0xE000 + int(h[i:i + 3], 16)) for i in range(0, len(h), 3))
 
 
-PROP = {}
-
-
 def load():
-    """The full readable inventory, exactly as kttranslate.py renders it.
-
-    Contexts used to be printed with Kiraly & Tokai's dictionary alone, so
-    this project's own 110 readings showed as [?] in the very tool used to
-    make the next reading. Reading a context was therefore harder than
-    reading the rendered page. Everything readable is shown here now, with
-    the same marks the page uses, so a guess is made against the best
-    reading available rather than a worse one.
-    """
-    import kttranslate as T
     gl, doc, seg = C.build()
     var = {v: h for v, (h, _) in V.readings()[6].items()}
-    prop = T.load_proposals()
-    PROP.clear()
-    PROP.update(prop)
-    inv = set(gl) | set(seg) | set(var) | set(prop)
-    types = {t for p in doc for t in p.tokens}
-    while True:
-        added = 0
-        for t in types:
-            b = A.strip(t)[0]
-            if b in inv:
-                continue
-            cut = S.segment(b, inv)
-            if cut and len(cut) >= 2:
-                seg[b] = cut
-                inv.add(b)
-                added += 1
-        if not added:
-            break
     return gl, doc, seg, var
-
-
-def piece(c, gl, var):
-    if c in gl:
-        return S.best_sense(gl[c]).replace(" ", "_")
-    if c in var:
-        return "~" + S.best_sense(gl[var[c]]).replace(" ", "_")
-    if c in PROP:
-        g, tier = PROP[c]
-        return ("+" if tier in ("A", "B") else "?") + g.replace(" ", "_")
-    return "[?" + hx(c) + "]"
 
 
 def word(t, gl, seg, var):
@@ -84,12 +42,9 @@ def word(t, gl, seg, var):
     if t in gl:
         return S.best_sense(gl[t]).replace(" ", "_") + mark
     if t in seg:
-        return "-".join(piece(p, gl, var) for p in seg[t]) + mark
+        return "-".join(S.best_sense(gl[p]).replace(" ", "_") for p in seg[t]) + mark
     if t in var:
         return "~" + S.best_sense(gl[var[t]]).replace(" ", "_") + mark
-    if t in PROP:
-        g, tier = PROP[t]
-        return ("+" if tier in ("A", "B") else "?") + g.replace(" ", "_") + mark
     return "[?" + hx(t) + "]" + mark
 
 
@@ -118,8 +73,7 @@ def main(argv):
         return
     onpage = {t for p in doc if p.page in DONE for t in p.tokens}
     cand = [(t, k) for t, k in types.items()
-            if t not in gl and t not in seg and t not in var and t not in PROP
-            and k >= 3 and t in onpage]
+            if t not in gl and t not in seg and t not in var and k >= 3 and t in onpage]
     cand.sort(key=lambda x: -x[1])
     print(f"{len(cand)} unread signs with 3+ occurrences that sit in a translated passage")
     print(f"{'n':>5s}  {'sign':22s}  {'on translated pages':>19s}")
