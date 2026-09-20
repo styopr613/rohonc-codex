@@ -5310,7 +5310,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 213r ===
- 1  this two fish +bless Lord-Jézus +and_then Lord-Jézus apostle
+ 1  this two fish ?bless Lord-Jézus +and_then Lord-Jézus apostle
  2  <preposition_of_genitive>-Lord sit-apostle down this people on-grass and on-divide_into_parts
  3  Lord-Jézus this bread apostle and this two fish in_turn apostle this
  4  people and then-exist apostle each,_every apostle-[?] portion grab-apostle

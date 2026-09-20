@@ -1688,9 +1688,9 @@
  },
  "5400607a2": {
   "gloss": "that",
-  "tier": "A",
+  "tier": "B",
   "n": 2,
-  "evidence": "K&T gloss 5200607a2 as the conjunction 'that' (their 520060520 (2) entry, cited 019r02, 019v01, 027r11, 027v03, 061r01, 104r07) and attest the 520/540 swap in the same entry with 540060540 and 540060990. Both occurrences take it: 110v:2 'Titus, that not one stone upon another shall be left', 137r:5 'that we suffer'"
+  "evidence": "K&T gloss 5200607a2 as the conjunction 'that' (their 520060520 (2) entry, cited 019r02, 019v01, 027r11, 027v03, 061r01, 104r07) and attest the 520/540 swap in the same entry with 540060540 and 540060990. Both occurrences take it: 110v:2 'Titus, that not one stone upon another shall be left', 137r:5 'that we suffer'. Downgraded A to B 2026-09-20: ktswap.py measured the 520/540 swap this leans on and it preserves the reading in only 8 of 28 pairs of signs that are both read. K&T do not cite either of this sign's two lines, so the swap was carrying the reading and the swap is not evidence. What stands is the context, which takes 'that' at both 110v:2 and 137r:5"
  },
  "446916b26": {
   "gloss": "Saint_Augustine",
@@ -1898,8 +1898,8 @@
  },
  "520ae0701": {
   "gloss": "bless",
-  "tier": "B",
+  "tier": "C",
   "n": 1,
-  "evidence": "K&T's entry for bless (520461) lists 670ae0701 at 190v09, 192v02, 09; this is that spelling with the 670/520 swap they attest all through the book. 213r:1 is John 6:11, 'he took the loaves, and when he had given thanks' (Mt 14:19 'he blessed'), and the line reads 'these two fishes [bless] the Lord Jesus'. They do not cite this line, so nothing but the verse checks it"
+  "evidence": "K&T's entry for bless (520461) lists 670ae0701 at 190v09, 192v02, 09; this is that spelling with the 670/520 swap they attest all through the book. 213r:1 is John 6:11, 'he took the loaves, and when he had given thanks' (Mt 14:19 'he blessed'), and the line reads 'these two fishes [bless] the Lord Jesus'. They do not cite this line, so nothing but the verse checks it. Downgraded B to C 2026-09-20: ktswap.py measured the 520/670 swap and it preserves the reading in only 17 of 92 pairs of signs that are both read. The verse is the whole of the evidence here"
  }
 }

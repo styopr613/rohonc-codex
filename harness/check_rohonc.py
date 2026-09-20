@@ -559,6 +559,12 @@ def main():
     check("ROHONC: the apparatus check and the Elijah correction are recorded",
           "was read as Enoch" in flat and "father son" in flat
           and "ktlook.py --cite" in flat and "Saint Augustine the church father" in flat)
+    check("ROHONC: the one-glyph swap is measured and is not evidence",
+          "4,824 such pairs exist" in flat and "103 of them, 2.1%" in flat
+          and "520/521 at 89% of 18 pairs" in flat
+          and "92 pairs, 18%" in flat
+          and "from A to B" in flat and "from B to C" in flat
+          and "286a10" in flat)
     check("ROHONC: the Baptist/woman correction is recorded",
           "read here as *the Baptist*" in flat and "141v:6, 10, 11" in flat
           and "she lives on the" in flat
