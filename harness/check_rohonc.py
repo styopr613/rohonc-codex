@@ -373,6 +373,31 @@ def main():
           "1,282" in conf and "58% to 78%" in conf)
     check("CONCLUSION: wider corpus recorded as my wrong prediction",
           "prediction of mine and it was wrong" in conf)
+    # --- coverage vs translation
+    kv = out("ktcoverage.txt")
+    for lab, want, docstr in (("any reading at all", 77.6, "77.6%"),
+                              ("no reading at all", 22.4, "22.4%"),
+                              ("exactly one sense, no choice", 11.5, "11.5%"),
+                              ("several senses, grammar needed", 66.0, "66.0%")):
+        g = nums(kv, lab, 2)
+        check(f"coverage: {lab} {want}%",
+              len(g) == 2 and close(g[1], want, .02) and docstr in flat, str(g))
+    g = nums(kv, "every word readable", 4)
+    check("lines fully readable 2.8% -> 20.6%",
+          len(g) == 4 and close(g[1], 2.8, .05) and close(g[3], 20.6, .02)
+          and "2.8%" in flat and "20.6%" in flat, str(g))
+    g = nums(kv, "80%+ of words readable", 4)
+    check("lines 80% readable 12.9% -> 50.8%",
+          len(g) == 4 and close(g[1], 12.9, .02) and close(g[3], 50.8, .02)
+          and "12.9%" in flat and "50.8%" in flat, str(g))
+    g = nums(kv, "median line readability", 2)
+    check("median line 57.1% -> 80.0%",
+          len(g) == 2 and close(g[0], 57.1, .02) and close(g[1], 80.0, .02)
+          and "57.1%" in flat and "80.0%" in flat, str(g))
+    check("translated is not overclaimed",
+          "Not 77.6%" in flat and "located, not translated" in flat
+          and "The grammar will" in flat)
+
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 

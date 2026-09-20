@@ -1,0 +1,26 @@
+======================================================================
+HOW MUCH OF THE BOOK CAN BE READ
+======================================================================
+tokens in the book                 29997
+  K&T dictionary covers            17513   58.4%
+  readable by composition           5754   19.2%
+  any reading at all               23267   77.6%
+  no reading at all                 6730   22.4%
+
+======================================================================
+HOW MUCH IS TRANSLATED
+======================================================================
+  exactly one sense, no choice      3456   11.5%
+  several senses, grammar needed   19811   66.0%
+
+======================================================================
+LINES, WHICH IS WHAT YOU NEED BEFORE A SENTENCE READS
+======================================================================
+lines in the book                   4372
+  every word readable     before    121 ( 2.8%)    after   901 (20.6%)
+  80%+ of words readable  before    562 (12.9%)    after  2219 (50.8%)
+  median line readability before   57.1%            after  80.0%
+
+  The bottleneck is no longer missing vocabulary. It is that most
+  covered words carry several senses and the grammar that chooses
+  between them is unpublished.

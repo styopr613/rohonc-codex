@@ -100,8 +100,18 @@ and the second is their own sign for Lucifer. There was never a meaning to
 infer. The word was sitting inside it.
 
 The grammar is theirs. What is new is checking it independently and running it
-across the whole book. The rest of the missing text still needs the grammar
-paper they have not published.
+across the whole book.
+
+It is worth being exact about what "78% of the book" means, because it is the
+weakest of three numbers. It means 78% of the words have *a* reading. Only
+11.5% of them have a single meaning with no choice to make; the rest carry
+several senses each, and the rule for choosing is in the grammar paper Király
+and Tokai have not published. The number that matters most is lines: a
+sentence with one unreadable word in it is not a sentence you can read, and
+the share of lines where every word has a reading went from 2.8% to 20.6%.
+
+So the obstacle has moved rather than gone. It used to be missing vocabulary.
+It is now missing grammar, and that is theirs to publish.
 
 Details in [`ROHONC.md`](ROHONC.md), including a first attempt at the
 orientation question that failed its own control and was thrown away, and a

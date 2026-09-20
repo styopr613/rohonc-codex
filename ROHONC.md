@@ -676,6 +676,41 @@ composition rule, applied blind to folio 137v, reproduces their published line
 Code: `ktname.py`, `ktsegment.py`. Saved runs: `work/rohonc/ktname.txt`,
 `work/rohonc/ktsegment.txt`.
 
+## So how much is translated?
+
+Not 77.6%. That figure is coverage, and coverage is the weakest of three
+claims worth separating.
+
+**Words with any reading at all: 77.6%**, up from 58.4%. That counts a token
+if K&T gloss it or if it cuts into codes they gloss. 6,730 tokens, 22.4% of
+the book, still have no reading of any kind.
+
+**Words that are actually translated: 11.5%.** Most codes K&T define carry
+several senses — *away / to*, *angel / Lucifer / Satan*, *believe /
+misunderstand* — and choosing between them needs the grammar, which is the
+paper they have not published. Only 3,456 tokens carry exactly one sense and
+so need no choice made. The other 19,811, **66.0%** of the book, are located, not translated.
+
+**Lines in which every word has a reading: 20.6%**, up from 2.8%. This is the
+number that matters most, because a sentence with one unreadable word in it is
+not a sentence you can read. It went up sevenfold. Lines that are at least
+80% readable went from 12.9% to 50.8%, and the median line went from 57.1% to
+80.0% readable.
+
+        tokens with any reading      58.4%  ->  77.6%
+        tokens with a single sense             11.5%
+        lines fully readable          2.8%  ->  20.6%
+        lines 80% readable           12.9%  ->  50.8%
+        median line                  57.1%  ->  80.0%
+
+The shape of the problem has changed. Before this, the obstacle was missing
+vocabulary: four words in ten had no entry. Now two words in ten have no
+entry, and the obstacle is that 66.0% of the book consists of words with
+several candidate senses and no published rule for choosing. More dictionary
+work will not fix that. The grammar will.
+
+Code: `ktcoverage.py`. Saved run: `work/rohonc/ktcoverage.txt`.
+
 ## A third transcription from the scans: negative
 
 The pipeline splits each scanned opening at the gutter, finds the lit page
@@ -725,6 +760,7 @@ repository staff; with it, this would probably be feasible.
     ROHONC_REF=data/ref/rohonc/ALL.txt python ktalign.py   # the wider corpus
     python ktname.py          # the twelfth, name-final compounds
     python ktsegment.py       # the thirteenth, cutting codes into codes
+    python ktcoverage.py      # how much can be read, and how much is translated
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 
