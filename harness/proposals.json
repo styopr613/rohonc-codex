@@ -816,12 +816,6 @@
   "n": 4,
   "evidence": "Jesus goes into heaven in it 075r:5, eternal glory on high with all the orders of angels 079r:1, and Lazarus is carried by angels into heaven in it 089r:10"
  },
- "570": {
-  "gloss": "ark",
-  "tier": "C",
-  "n": 1,
-  "evidence": "the Lord tells Noah to make one at 008r:4 and the next line gives its length as three hundred cubits. Kiraly & Tokai already read a different code as ark at 008r:7, so this is a second sign for it; note that 570670ae0 is read here as sheep, which a shared first glyph does not contradict in a logographic script but is worth watching"
- },
  "5203715203c4": {
   "gloss": "forgiveness of sins",
   "tier": "B",
@@ -917,5 +911,11 @@
   "tier": "B",
   "n": 10,
   "evidence": "folio 145r opens and closes with the same refrain, queen of heaven and earth, Lady Virgin Mary, and the phrase repeats at 145v:4, 146r:2, 146v:2 and 147r:3 through the Assumption. 270 is already read as lord"
+ },
+ "_withdrawn_570": {
+  "gloss": "ark",
+  "tier": "withdrawn",
+  "n": 1,
+  "evidence": "WITHDRAWN 2026-09-20. Read as ark from its single occurrence at 008r:4, where the Lord tells Noah to make one and the next line gives three hundred cubits. But as a bare piece it entered the cut of six other words, none of which is about an ark: to-not-chapter-ark on 062r:5 in the middle of Abraham and Isaac, ark-the-day on 151v:4, ark-day on 224v:9. One right token against six wrong ones. A wrong reading pollutes more than a gap does, so it is removed rather than kept."
  }
 }

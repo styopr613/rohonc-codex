@@ -523,10 +523,10 @@ def main():
 
     g = nums(kt, "proposed here", 2)
     check("proposals: 2283 tokens = 7.6% rendered",
-          len(g) == 2 and g[0] == 2321 and close(g[1], 7.7, .02), str(g))
+          len(g) == 2 and g[0] == 2320 and close(g[1], 7.7, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
     check("proposals: 2540 lines fully read with them",
-          len(g) == 2 and g[0] == 2603 and close(g[1], 59.5, .02), str(g))
+          len(g) == 2 and g[0] == 2601 and close(g[1], 59.5, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -546,7 +546,8 @@ def main():
 
     check("ROHONC: Emmaus run translated and Cleopas named",
           "112\nfolios are translated" in doc and "names Cleopas" in flat
-          and "signified this Jesus crucified" in flat)
+          and "as Abraham gave" in flat and "Abraham stands for the Father" in flat
+          and "which is wrong" in flat)
 
     check("ROHONC: my own wrong readings are corrected in place",
           "Two of my own readings corrected" in flat

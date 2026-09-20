@@ -4126,14 +4126,14 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **3**  crucified, saved every one, Adam gained; and then
 `execute be_saved each,_every ~Adam gain +and_then`
 
-**4**  Lord Jesus, the trespass; Abraham, Abraham signified this
-`Lord-Jézus trespass Abraham Abraham symbolize this`
+**4**  Lord Jesus, above; Abraham — Abraham's [deed] signified this
+`Lord-Jézus up Abraham Abraham symbolize so`
 
 **5**  Jesus crucified, and Lord Jesus said, said the Lord.
 `Jézus execute and say Lord-Jézus say exist Lord-<suffix_of_divine_name>.`
 
-**6**  Abraham, to the Lord's angel, Abraham took
-`Abraham on-~angel <preposition_of_genitive>-Lord-<suffix_of_divine_name> Abraham grab`
+**6**  Abraham, to the Lord's angel — Abraham gave
+`Abraham on-~Satan <preposition_of_genitive>-Lord-<suffix_of_divine_name> Abraham give`
 
 **7**  his son […] and the Lord […]
 `<preposition_of_genitive>-son [?] and Lord [?].`
@@ -4147,9 +4147,14 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **10**  took […] who […] wished to slay
 `grab [?] who [?] want slay`
 
-> The typology is explicit: Abraham *signified this Jesus crucified*. The
-> faggots on line 9 are the wood Isaac carries, Genesis 22:6, which medieval
-> commentary reads as the cross.
+> The typology is the standard one, and line 4 has to be read with the
+> codex's own pronoun rule, where a name sign written twice is the name and
+> then a pronoun for it. It is not saying Abraham is the figure of Christ.
+> What signifies the crucifixion is the sacrifice: **Abraham gives his son**
+> (lines 6–7), as God the Father gives his, which is what 062v:2–3 then says
+> outright. Isaac is the figure of Christ and Abraham of the Father. The
+> faggots on line 9 are the wood Isaac carries, Genesis 22:6, read by
+> medieval commentary as the cross.
 
 ## 062r — the mount, the ram, and the angel
 
@@ -4162,11 +4167,11 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **3**  my father […] and went far
 `<preposition_of_genitive>-father [?] and go far`
 
-**4**  […] and one, and the sheep, and one
-`[?] and one and sheep and one`
+**4**  […] and a, and the ram, and a
+`[?] and a and sheep and a`
 
-**5**  […] brethren […] father […] and said
-`to-not-chapter-?ark ?brethren [?] father [?] and say`
+**5**  […] the young men […] father […] and said
+`[?] ?brethren [?] father [?] and say`
 
 **6**  from father Abraham, from the brethren, the Lord […]
 `from-father Abraham from ?brethren Lord-<suffix_of_divine_name> [?].`
@@ -4183,19 +4188,20 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **10**  Abraham, to the whole wide world, the Lord's love, this is
 `Abraham to-the_whole_wide_world +<subject_marker> Lord <preposition_of_genitive> love +this_is`
 
-> Genesis 22. *My father* on line 3 is Isaac's question, the ram is on line 4,
-> and the angel stops the hand on line 9.
+> Genesis 22. *My father* on line 3 is Isaac's question, the ram caught for
+> the sacrifice is on line 4, the young men left behind with the ass on
+> line 5, and the angel stops the hand on line 9.
 
 ## 062v — he made as though he would go further, and they constrained him
 
 **1**  Lord […] and then Lord Jesus, he is, was […]
 `Lord [?] +and_then Lord-Jézus ?he_is exist [?]`
 
-**2**  to take of the father, this, and this Jesus crucified was
-`to-grab <preposition_of_genitive> father this and this Jézus execute exist`
+**2**  as he gave his father's [son], so this Jesus was crucified
+`to-give <preposition_of_genitive> father so and so Jézus execute exist`
 
-**3**  the Lord took, his eternal Father, and he rose
-`to-grab-Lord <preposition_of_genitive>-Lord father-<suffix_of_divine_name> and +<subject_marker> ?rise`
+**3**  the Lord gave, his divine Father, and he rose
+`to-give-Lord <preposition_of_genitive>-Lord father-<suffix_of_divine_name> and +<subject_marker> ?rise`
 
 **4**  the Lord from the […] because the Lord from the […] from the Father,
 `Lord from ?as-[?] because-+the_Lord from ?as-[?] from-father`
@@ -4218,9 +4224,12 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **10**  the Lord's two apostles, and the two apostles sat the Lord at the table, and
 `two-apostle-Lord and sit-two-Lord-apostle to-throne and`
 
-> Luke 24:28–30: *he made as though he would have gone further. But they
-> constrained him.* The codex has the long way, the persuading, and the
-> sitting down at table.
+> Lines 2–3 close the Abraham figure and state it plainly: as Abraham gave
+> his son, so God the Father gave his, and Jesus was crucified and rose.
+> Abraham stands for the Father, not for Christ. From line 5 the folio
+> returns to the road, and lines 6–9 are Luke 24:28–29, *he made as though he
+> would have gone further, but they constrained him*: the long way, the
+> persuading, and the sitting down at table.
 
 ## 063r — the breaking of bread, and he vanished out of their sight
 

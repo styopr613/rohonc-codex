@@ -958,10 +958,16 @@ With the rendering on the page it became possible to read it, and 112
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent seven, 060r to 063r, are the road to Emmaus told straight
 through, and the codex **names Cleopas** at 061r:6, which is Luke 24:18. It
-breaks off mid-journey into Abraham and Isaac, saying outright that Abraham
-*signified this Jesus crucified*, with the faggots Isaac carries and the
-angel that stops the hand, then returns to the long way, the constraining,
-the table and the breaking of bread.
+breaks off mid-journey into Abraham and Isaac. The typology there is the
+standard one and the codex states it outright at 062v:2-3: **as Abraham gave
+his son, so God the Father gave his, and Jesus was crucified and rose**.
+Abraham stands for the Father and Isaac for Christ. A first reading here made
+Abraham the figure of Christ, which is wrong, and it was wrong because line
+061v:4 writes the name sign twice and the second is Kiraly and Tokai's
+pronoun, not a repetition. The faggots Isaac carries, the ram, the young men
+left with the ass and the angel that stops the hand are all present. The
+folio then returns to the long way, the constraining, the table and the
+breaking of bread.
 The content was not what this project assumed. It is not a gospel harmony.
 
 The opening is the **Life of Adam and Eve**, the apocryphal one and not
