@@ -1181,5 +1181,53 @@
   "tier": "D",
   "n": 1,
   "evidence": "Luke 10:23 'blessed are the eyes which see [those things which] ye see', at 104v:8 where the folio cites Luke chapter ten and every other word of the verse is read. One occurrence, nothing to check it against"
+ },
+ "5203f05201f5": {
+  "gloss": "found",
+  "tier": "A",
+  "n": 3,
+  "evidence": "K&T's find/meet (5201525201f5) lists a spelling cited at 106v02, 108r10 and 110v04, this word's three occurrences; 3f0 for 152 in the second glyph. 'and saw him, [found] him, and had compassion on the man' 106v:2 = Luke 10:33"
+ },
+ "a10131670500670": {
+  "gloss": "bound up",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's tie up / bandage / bind (670500520780) is cited by them at 106v05 'bandage [wound]' and 190r09 'bind [Satan]', this word's two occurrences, and the word carries their 670500 stem. '[bound up] his wounds and set him' 106v:5 = Luke 10:34; 'Friday the cross ... [bound] ... Saturday hell' 190r:9, the binding of Satan at the harrowing"
+ },
+ "060520060520163270470060060371": {
+  "gloss": "the Samaritan",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's Samaritan (520060520162270470962060060371) is cited by them 'in aggregate' at 107r04, this word's line; the word is their Samaritan with 163 for 162 and a prefix stroke. 'Which now of these three was neighbour? ... [the Samaritan]' 107r:4 = Luke 10:36-37"
+ },
+ "6e8": {
+  "gloss": "fell among",
+  "tier": "B",
+  "n": 1,
+  "evidence": "K&T's 'appear, come along, meet' (6e2) is cited by them at 105v11, this word's only line; 6e8 for 6e2. 'went down ... to Jericho ... and then [fell among] robbers' 105v:9-11 = Luke 10:30"
+ },
+ "520060060443540": {
+  "gloss": "heaven",
+  "tier": "B",
+  "n": 2,
+  "evidence": "K&T's heaven 520060060443520 with 540 for the final 520. 'the Lord's nine orders of angels in [heaven]' 120r:5; 'the kingdom of [heaven] ... the end of the world' 107r:9"
+ },
+ "9a0796540060540ae0": {
+  "gloss": "half dead",
+  "tier": "B",
+  "n": 1,
+  "evidence": "an unread glyph 9a0 + K&T's die (796) + their man (540060540ae0), beside 9a0574540060540ae0 which is the same glyph + their living (574) + man: 'the robbers beat him, ... the man [half dead] and [half alive]' 106r:4 = Luke 10:30 'leaving him half dead'. The two words check each other; the glyph 9a0 is not entered on its own"
+ },
+ "9a0574540060540ae0": {
+  "gloss": "half alive",
+  "tier": "B",
+  "n": 1,
+  "evidence": "see 9a0796540060540ae0: the same unread glyph with K&T's living and man, the pair making 'half dead and half alive' at 106r:4 = Luke 10:30"
+ },
+ "ae1b13": {
+  "gloss": "again",
+  "tier": "D",
+  "n": 1,
+  "evidence": "Luke 10:35 'when I come [again], I will repay thee' at 107r:1, where K&T themselves cite the line for 'return' and 'give back' and every other word is read. One occurrence, nothing to check it against"
  }
 }

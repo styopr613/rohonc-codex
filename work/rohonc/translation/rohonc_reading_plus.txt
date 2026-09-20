@@ -2683,14 +2683,14 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  8  Lord-<suffix_of_divine_name> and exorcise on-<preposition_of_genitive>-Lord have_mercy and then-exist
  9  go-?whosoever-~Adam on-~field to-one place [?]
 10  Jericho in_turn-chapter-in_turn evening-from-to build-to and then-exist go
-11  ~servant ~Adam on-~field and then-exist [?] robber
+11  ~servant ~Adam on-~field and then-exist +fell_among robber
 
 
 === 106r ===
  1  and begin robber to-~Adam ~rich ~find
  2  and then-exist this robber remit ~Adam grab
  3  booty and ~Adam beat robber
- 4  die-this ~Adam and [?] and [?]
+ 4  die-this ~Adam and +half_dead and +half_alive
  5  that_way go ~on one descendant-Abraham ?son-to
  6  ~Adam on-see-descendant-Abraham long-~Adam and | go
  7  descendant-Abraham go ~on two ~begin descendant-?the_scripture ?son-to ~Adam
@@ -2701,10 +2701,10 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 106v ===
  1  go ~on one Samaritan on-Jerusalem <preposition_of_genitive>-Lord living-servant
- 2  and face [?] and have_mercy to-~Adam
+ 2  and face +found and have_mercy to-~Adam
  3  ?afterward because pour-Lord wine <preposition_of_genitive>-~Adam
  4  wound and have_mercy +one-to long-Lord in_turn <preposition_of_genitive>-Lord believe
- 5  [?] <preposition_of_genitive>-~Adam wound and ~Adam | put
+ 5  +bound_up <preposition_of_genitive>-~Adam wound and ~Adam | put
  6  Lord on-<preposition_of_genitive>-Lord shoulder and ~Adam from-carry to-Lord
  7  on-lodging and ~Adam grab this innkeeper
  8  and innkeeper grab two [?] two denarius
@@ -2713,15 +2713,15 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 107r ===
- 1  innkeeper then-chapter go [?] each,_every this-innkeeper regive
+ 1  innkeeper then-chapter go ?again each,_every this-innkeeper regive
  2  +and_then Lord-Jézus judge this-Lord this-Jew(ish) who?
  3  +<subject_marker> this good ?was_accused among | [?]-Abraham-+one-?the_scripture
- 4  [?] +and_then this Jew(ish) [?]
+ 4  +the_Samaritan +and_then this Jew(ish) [?]
  5  and this-+say speak-+say ?he_is [?] good ?was_accused
  6  and [?] have_mercy to-~Adam do, +and_then
  7  Lord-Jézus righteous(ly) +<subject_marker> speak-Jew(ish) +and_then Lord-Jézus | this
  8  Jew(ish) ?brought and ?he_said stay do,-+say
- 9  exist <preposition_of_genitive>-+say [?] land end this
+ 9  exist <preposition_of_genitive>-+say +heaven land end this
 10  holy-gospel speak holy-Matthew from one denarius symbolize
 
 
@@ -2749,7 +2749,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  7  people see and then-+<subject_marker> [?] people to-+city.
  8  chapter-go-to-chapter this and you on-learn you
  9  good do, in_turn-who-exist high from-two people on-learn
-10  and do, [?] among people somebody have_mercy
+10  and do, +found among people somebody have_mercy
 
 
 === 108v ===
@@ -2809,7 +2809,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  Jerusalem because this-Jerusalem each,_every-Jerusalem [?] [?] on-head | [?]
  2  [?] son Titus_<Roman_emperor> [?] stone on-stone | [?]
  3  [?] [?] believe and go Lord-Jézus
- 4  inside Jerusalem temple and then-exist Lord inside [?] [?]
+ 4  inside Jerusalem temple and then-exist Lord inside +found [?]
  5  seller_of_doves and do, Lord-Jézus [?]
  6  [?] whip and each,_every-+say [?] out(ward)-out(ward)
  7  [?] Lord +and_then Lord-Jézus +this_is pray
@@ -3059,7 +3059,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  this holy-gospel then-exist-Lord [?] Lord-Jézus [?] sufferer
  3  gospel say Lord-Jézus apostle <preposition_of_genitive>-Lord and Jew(ish) people this-Lord
  4  one Lord this +sheep because to-Lord this-Lord | [?]
- 5  Lord nine order angel inside [?] land
+ 5  Lord nine order angel inside +heaven land
  6  +and_then Lord-Jézus then-exist-Lord bow_down from-father-<suffix_of_divine_name>
  7  heaven on-heaven land on-many angel
  8  on angel +name exist hide_oneself-angel and two
@@ -4765,7 +4765,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  Tuesday +the_Lord [?] on-burial_chamber stand_up resurrect-Lord in_turn [?]
  7  [?] exist Judas [?] to-thirty silver
  8  in_turn wound dinner-to do,-Lord and capture-Lord in_turn
- 9  Friday +cross-[?] and [?] [?] in_turn inside Saturday hell
+ 9  Friday +cross-[?] and [?] +bound_up in_turn inside Saturday hell
 
 
 === 190v ===

@@ -7447,3 +7447,236 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > which ye see, and have not seen them." The citation, Luke chapter ten, is
 > right. Line 10 packs father, church father, prophet, king and emperor into
 > one compound sign after listing them one by one on lines 9-10.
+
+## 105r — the lawyer's question, and the great commandment
+
+**1**  tempted the Lord Jesus. And then this Jew answered, the lawyer […]:
+`tempt Lord-Jézus +and_then this Jew(ish) +answered learn-[?]`
+
+**2**  he who, says the scribe, must do; how? this […] to gain
+`?he_who +say-church_father must do, how? this-[?] gain`
+
+**3**  life for ever and ever. Said the Lord Jesus, this […]:
+`living chapter-oh chapter-oh say Lord-Jézus this-[?]`
+
+**4**  […] he said: as the scripture is written, says this
+`[?] to-+say ?as +say ?the_scripture write say this`
+
+**5**  Jew, this scribe: as the scribe, the scripture is written, within
+`Jew(ish) this-church_father ?as church_father ?the_scripture write inside`
+
+**6**  the sixth chapter. Said the Lord Jesus, glad, this Lord, to this Jew: how
+`six chapter say Lord-Jézus joy this-Lord this-Jew(ish) how?`
+
+**7**  readest thou the scripture? Right. And then this Jew, this reading,
+`contain ?the_scripture righteous(ly) +and_then this Jew(ish) this contain`
+
+**8**  the scripture is written: love the Lord God most high with all thy heart, all thy
+`?the_scripture write love Lord-<divine> most_high ~each,_every +heart each,_every <of>-somebody`
+
+**9**  soul, all thy might, all thy heart; and | thy
+`soul each,_every <of>-somebody might each,_every <of>-somebody heart and | <of>`
+
+**10**  neighbour as thyself, thy neighbour,
+`somebody exist-exist how?-to somebody +neighbour <of>-somebody +<subj>`
+
+**11**  the kingdom of heaven. And then the Lord Jesus spoke: right.
+`heaven land +and_then Lord-Jézus righteous(ly) speak`
+
+> Luke 10:25-28. "What is written in the law? how readest thou?" and the
+> answer from Deuteronomy 6:5, which is what "within the sixth chapter" on
+> line 6 points at. The sign rendered *contain* on line 7 is Király &
+> Tokai's, and here it carries "readest".
+
+## 105v — who is my neighbour? A certain man went down to Jericho
+
+**1**  the Jew: for whoever believes in one God, to […] literally,
+`Jew(ish) because and somebody believe one God to-cut_off-literal`
+
+**2**  love thy neighbour as thyself, thy neighbour;
+`love somebody <of>-somebody exist-~exist how?-to somebody +neighbour`
+
+**3**  of […] heaven; in turn […]; and the man's mouth
+`<of>-[?] heaven in_turn-[?] and mouth somebody`
+
+**4**  went on; and then […] proud, this Jew. And then
+`leave-leave and then-[?] proud this Jew(ish) +and_then`
+
+**5**  he answered: who is my neighbour? […] said
+`+answered who? exist <of>-+say [?]-+day-~exist-<divine> say`
+
+**6**  the Lord Jesus […] and said, as he said, the scripture, right:
+`Lord-Jézus [?] to-+say ?as who-+say ?the_scripture righteous(ly)`
+
+**7**  and from there was a living servant; through sin whosoever, a man,
+`and from exist living-~servant through sin <of>-?whosoever-~Adam`
+
+**8**  the Lord God; and exorcised(?); on the Lord's mercy; and then
+`Lord-<divine> and exorcise on-<of>-Lord have_mercy and then-exist`
+
+**9**  whosoever, the man, went into the wilderness, to one place […]
+`go-?whosoever-~Adam on-~field to-one place [?]`
+
+**10**  Jericho; in turn, in turn; from evening to build(?); and then went
+`Jericho in_turn-chapter-in_turn evening-from-to build-to and then-exist go`
+
+**11**  the servant, the man, into the wilderness; and then fell among robbers.
+`~servant ~Adam on-~field and then-exist +fell_among robber`
+
+> Luke 10:29-30. *Fell among* is Király & Tokai's meet sign in a spelling
+> they cite at this line. The word rendered *Adam* on these pages is their
+> Adam-or-man sign in the sense man, and I render it "the man" throughout
+> the parable.
+
+## 106r — stripped, half dead; the priest and the Levite pass by
+
+**1**  And the robbers began, to the man; the holy(?) found;
+`and begin robber to-~Adam ~rich ~find`
+
+**2**  and then these robbers let the man go, having taken
+`and then-exist this robber remit ~Adam grab`
+
+**3**  the booty; and the robbers beat the man,
+`booty and ~Adam beat robber`
+
+**4**  this man dying; and half dead and half alive.
+`die-this ~Adam and +half_dead and +half_alive`
+
+**5**  That way went one, a descendant of Abraham, a priest's son;
+`that_way go ~on one descendant-Abraham ?son-to`
+
+**6**  the man; on seeing, the descendant of Abraham passed the man by, and | went.
+`~Adam on-see-descendant-Abraham long-~Adam and | go`
+
+**7**  The descendant of Abraham went. Then, second, began a descendant of the scripture, a Levite's son; the man
+`descendant-Abraham go ~on two ~begin descendant-?the_scripture ?son-to ~Adam`
+
+**8**  […] the descendant of the scripture passed the man by, and went […]
+`[?]-descendant-?the_scripture long-~Adam and go [?]`
+
+**9**  the man could; the two, of Abraham, of the scripture, good, afterward,
+`~Adam can-two-Abraham-?the_scripture good ?afterward`
+
+**10**  passed the man by; through went the two of Abraham, that way.
+`long-~Adam through go-two-Abraham that_way`
+
+> Luke 10:30-32. *Half dead* and *half alive* are one unread glyph joined to
+> Király & Tokai's die and their living, each with their man; the pair reads
+> each other. The book writes the priest as "descendant of Abraham" and the
+> Levite as "descendant of the scripture", the law's man.
+
+## 106v — the Samaritan binds his wounds and pays the host
+
+**1**  Went on one Samaritan, to Jerusalem, the Lord's living servant;
+`go ~on one Samaritan on-Jerusalem <of>-Lord living-servant`
+
+**2**  and saw his face, found him, and had compassion on the man;
+`and face +found and have_mercy to-~Adam`
+
+**3**  afterward, for the Lord poured wine into the man's
+`?afterward because pour-Lord wine <of>-~Adam`
+
+**4**  wounds, and had mercy; one; to the Lord long; in turn the Lord's faith;
+`wound and have_mercy +one-to long-Lord in_turn <of>-Lord believe`
+
+**5**  bound up the man's wounds, and the man | he put,
+`+bound_up <of>-~Adam wound and ~Adam | put`
+
+**6**  the Lord, on his own shoulder; and the man he carried, to the Lord's
+`Lord on-<of>-Lord shoulder and ~Adam from-carry to-Lord`
+
+**7**  lodging; and the man this innkeeper took.
+`on-lodging and ~Adam grab this innkeeper`
+
+**8**  And the innkeeper took two […], two denarii;
+`and innkeeper grab two [?] two denarius`
+
+**9**  and then this innkeeper, this innkeeper, on the man
+`+and_then this innkeeper this-innkeeper on-~Adam`
+
+**10**  take care; on this, that, whatever more on the man | […]
+`carry on-~exist-this who to-whatever on-~Adam | [?]`
+
+> Luke 10:33-35. *Found* and *bound up* are both spellings Király & Tokai's
+> own entries cite at these lines, the second one also at 190r:9 where it
+> binds Satan. The book puts the wounded man on the Samaritan's shoulder,
+> not his beast, the same word it uses for the cross at 103r:6.
+
+## 107r — which of these three was neighbour? Then Augustine begins
+
+**1**  the innkeeper; then, when I come again, everything this innkeeper I repay.
+`innkeeper then-chapter go ?again each,_every this-innkeeper regive`
+
+**2**  And then the Lord Jesus asked, this Lord, this Jew: who
+`+and_then Lord-Jézus judge this-Lord this-Jew(ish) who?`
+
+**3**  was this good neighbour among | the […] of Abraham, the one of the scripture,
+`+<subj> this good ?was_accused among | [?]-Abraham-+one-?the_scripture`
+
+**4**  the Samaritan? And then this Jew […]:
+`+the_Samaritan +and_then this Jew(ish) [?]`
+
+**5**  and this said, he spoke and said: he is […] the good neighbour,
+`and this-+say speak-+say ?he_is [?] good ?was_accused`
+
+**6**  and […] did mercy to the man. And then
+`and [?] have_mercy to-~Adam do, +and_then`
+
+**7**  the Lord Jesus, right, spoke to the Jew. And then the Lord Jesus, | this
+`Lord-Jézus righteous(ly) +<subj> speak-Jew(ish) +and_then Lord-Jézus | this`
+
+**8**  Jew brought(?); and he said: stay, do, said,
+`Jew(ish) ?brought and ?he_said stay do,-+say`
+
+**9**  it is, said he, the kingdom of heaven. The end of this
+`exist <of>-+say +heaven land end this`
+
+**10**  holy gospel. Speaks holy Matthew: from the one denarius is signified
+`holy-gospel speak holy-Matthew from one denarius symbolize`
+
+> Luke 10:36-37, "He that shewed mercy on him. Then said Jesus unto him,
+> Go, and do thou likewise", and the reading ends on line 9. *The
+> Samaritan* on line 4 is Király & Tokai's Samaritan, which their entry
+> cites here "in aggregate". The sign rendered *was accused* on lines 3
+> and 5 is their gloss; the slot wants "neighbour" both times, and it is
+> left as their word. Line 10 opens the exposition.
+
+## 107v — the two pence, by Augustine; and the opening of the next reading
+
+**1**  the Old Testament faith; in turn the two denarii signify the birth
+`<Old_Testament> believe in_turn-two denarius symbolize ~on-be_born`
+
+**2**  and death of the Lord Christ, speaks Saint Augustine the church father, […] […].
+`and die Lord-Christ speak +Saint_Augustine_the_church_father [?] [?].`
+
+**3**  […] […] […] says God, in turn, for ever;
+`[?] [?] [?] say God a) exist-exist-chapter`
+
+**4**  God […]; from the thirty […] […], from the high food.
+`God [?] on-from thirty [?] [?] from to-high-food`
+
+**5**  Before the gospel, says | the Lord
+`before gospel say | Lord`
+
+**6**  Jesus to his apostles and
+`Jézus apostle <of>-Lord and`
+
+**7**  the Jewish people:
+`Jew(ish) people`
+
+**8**  because see | he is
+`because see | ?is_he-chapter`
+
+**9**  […] good;
+`[?] good`
+
+**10**  do what is pleasing,
+`do, pleasing`
+
+**11**  and thanks to the Lord, the Lord God. Begins this holy gospel, written
+`and thanks to-Lord Lord-<divine> begins this holy-gospel write`
+
+> The allegory of the two pence as the two Testaments, or as the birth and
+> death of Christ, is Augustine's on the Good Samaritan (Quaestiones
+> Evangeliorum II.19), and the book names him. Line 4 carries a priest sign
+> Király & Tokai mark doubtful at this line; the line does not read.
