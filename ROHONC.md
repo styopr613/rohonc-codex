@@ -1009,7 +1009,7 @@ is offered as such.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 131
+With the rendering on the page it became possible to read it, and 137
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
@@ -1019,7 +1019,11 @@ three that the Spirit reproves, **of sin, and of righteousness, and of
 judgment**, in the gospel's order and counted with the codex's own ordinals.
 The run continues through the vine and the branches, the branch cast into the
 fire, and at 071v the woman in travail who forgets her anguish for joy that a
-son is born, John 16:21. **It also repeats itself**: the Pauline passage at
+son is born, John 16:21. It runs on to 074v without a break: the Great
+Commission, then **Mark 16:17-18 sign for sign and in order** -- cast out
+devils, speak with tongues, take up serpents, drink any deadly thing, lay
+hands on the sick -- then the ascension, then **the Lord's Prayer**, which
+the codex attributes to Matthew on the line after it ends. **It also repeats itself**: the Pauline passage at
 068r comes round again almost word for word at 070v-071r, which is what a
 preaching or lectionary collection does and a continuous narrative does not. The codex **names Cleopas** at 061r:6, which is Luke
 24:18. The Emmaus stretch

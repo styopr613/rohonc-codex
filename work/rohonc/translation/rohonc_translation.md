@@ -5010,3 +5010,235 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > *a woman when she is in travail hath sorrow... but as soon as she is
 > delivered of the child, she remembereth no more the anguish, for joy that a
 > man is born into the world.* Lines 7–10 have the whole figure.
+
+## 072r — after the crucifixion, they sit at meat in Jerusalem
+
+**1**  Here begins this
+`begins this`
+
+**2**  holy gospel, written by
+`holy-gospel write`
+
+**3**  […] in the twenty-
+`[?] inside | two`
+
+**4**  fifth chapter
+`ten-ten +five chapter`
+
+**5**  of his writing. At that time,
+`<preposition_of_genitive>-write time`
+
+**6**  then, after the crucifixion
+`then-exist on-execute`
+
+**7**  of Lord Christ […] at that time then
+`Lord-Christ [?]-+day time then-exist`
+
+**8**  the apostles sat […] in Jerusalem, in the Lord's house, where the Lord
+`sit apostle [?] inside Jerusalem inside Lord house where Lord-<suffix_of_divine_name>`
+
+**9**  Lord Jesus made the supper; at that time he appeared, the Lord
+`Lord-Jézus dinner do, time appear | Lord`
+
+**10**  Jesus, to his apostles, in […] name, the man; and
+`Jézus apostle <preposition_of_genitive>-Lord inside [?]-+name somebody and.`
+
+**11**  he sat with the apostles […] and began to rebuke their unbelief
+`sit to-apostle [?] and begin-admonish on-believe`
+
+> Mark 16:14, *afterward he appeared unto the eleven as they sat at meat, and
+> upbraided them with their unbelief.*
+
+## 072v — go ye into all the world, he that believeth and is baptized
+
+**1**  and Lord Jesus said, go ye, apostles, among the people, and
+`and say Lord-Jézus you go apostle ?among_the_people and`
+
+**2**  baptize in the Lord's name; and the man
+`exist baptize inside <preposition_of_genitive>-Lord ?was_named and somebody`
+
+**3**  who is baptized in the name of the Father and the Son
+`exist baptize inside +name father-<suffix_of_divine_name> and son`
+
+**4**  and the Holy Spirit, and believes in the Lord,
+`and holy-spirit and exist Lord-to believe`
+
+**5**  every such man shall be saved; and one is damned […]
+`each,_every somebody +be_saved and one be_damned [?]`
+
+**6**  […] and the man […] baptized, and believes in the Lord
+`[?] and somebody [?] baptize and exist Lord-to`
+
+**7**  and one […] but every man
+`believe and one [?] a) each,_every somebody`
+
+**8**  is damned […] […] and the man who believes in the Lord
+`be_damned [?] [?] and somebody exist Lord-to believe`
+
+**9**  shall do many miracles, all in the Lord's
+`from exist many miracle do, each,_every inside <preposition_of_genitive>-Lord`
+
+**10**  name; the man in the Lord's […]
+`+name exist somebody inside <preposition_of_genitive>-Lord | and-exist`
+
+**11**  […] name: the blind through light, the dead see and rise up.
+`[?]-+name ~blind through light die from-see resurrect stand_up.`
+
+> Mark 16:15–16, *go ye into all the world... he that believeth and is
+> baptized shall be saved; but he that believeth not shall be damned*, with
+> the baptismal formula of Matthew 28:19 folded into it.
+
+## 073r — and these signs shall follow them that believe
+
+**1**  the man in the Lord's name, the evil in
+`exist somebody inside <preposition_of_genitive>-Lord +name evil inside`
+
+**2**  the man casts out; he carries serpents in
+`somebody exorcise exist serpent carry inside`
+
+**3**  the hand, and the man cannot be bitten; the man, in
+`hand ~exist somebody can bite exist somebody inside`
+
+**4**  the Lord's name […] […] and whatever
+`<preposition_of_genitive>-Lord +name [?] [?] and what-to`
+
+**5**  the man […] the man, in the Lord's
+`who somebody ~exist [?] exist somebody inside <preposition_of_genitive>-Lord`
+
+**6**  name, at the cup […] of the man, why in turn he puts
+`+name on-cup-[?]-+day <preposition_of_genitive>-somebody why?-in_turn put`
+
+**7**  […] the man is healed, all in the Lord's
+`[?] exist somebody from-healing each,_every inside <preposition_of_genitive>-Lord`
+
+**8**  name; the man does many miracles, and
+`+day-+name exist somebody many miracle do, and`
+
+**9**  Lord Jesus said, this Lord goes to his Father, to you
+`say Lord-Jézus this-Lord go to-<preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> to-you`
+
+**10**  the Lord, and the Lord goes, and this Lord, to you goes
+`Lord and Lord-<suffix_of_divine_name> +<subject_marker> Lord go and this-Lord you go-Lord`
+
+**11**  the Holy Spirit, and the apostles […] lift up tongues
+`holy-spirit and exist apostle [?] who-go_up language`
+
+> Mark 16:17–18, sign for sign and in order: *in my name shall they cast out
+> devils; they shall speak with new tongues; they shall take up serpents; and
+> if they drink any deadly thing, it shall not hurt them; they shall lay
+> hands on the sick, and they shall recover.* The cup on line 6 is the deadly
+> draught.
+
+## 073v — he went on the way, and each time he said the same
+
+**1**  […] and Lord Jesus said to his apostles, go, apostles […]
+`[?] and say Lord-Jézus apostle <preposition_of_genitive>-Lord go-apostle [?]`
+
+**2**  the mount; this Lord would go out truly, and the whole wide world; from his
+`mount this-Lord want-Lord ~out(ward) righteous(ly) and the_whole_wide_world <preposition_of_genitive>-Lord | from`
+
+**3**  Father; and he passed on, from the apostles; in turn the apostles knew the Lord went
+`father-<suffix_of_divine_name> and trespass go-Lord from apostle in_turn apostle know Lord go apostle`
+
+**4**  and then the Lord looked on the apostles and said, peace be unto you
+`and then-exist from-see-Lord on-apostle and say-Lord +law you`
+
+**5**  and then the Lord passed on the way; and a second time he looked on the apostles
+`and then-exist trespass go-Lord on-~way and two from-see-Lord on-apostle`
+
+**6**  and said, peace be unto you; and then the Lord passed on
+`and say-Lord +law you and then-exist trespass go-Lord | on`
+
+**7**  the way; in turn the apostles knew the Lord; on the Monday; and a third time he looked on the apostles
+`~way in_turn apostle know Lord Monday-apostle and +three from-see-Lord on-apostle`
+
+**8**  and said, peace be unto you; and then the Lord passed on
+`and say-Lord +law you and then-exist trespass go-Lord`
+
+**9**  the way; and a fourth time he looked on the apostles and said, peace be unto you
+`on-~way and two-two from-see-Lord on-apostle and say-Lord +law | ?is_he`
+
+**10**  […] and then the Lord passed on the way; and a fifth time
+`[?] and then-exist trespass go-Lord on-~way and +five | from`
+
+**11**  the Lord looked on the apostles and said, this Lord, to you, the eye
+`see-Lord on-apostle and say-Lord this-Lord you +law eye`
+
+> A numbered sequence of five, each ending in the same formula, counted with
+> the codex's own ordinals: second, third, fourth, fifth. This is the shape of
+> a devotional list rather than a gospel passage, and the repeated greeting
+> reads as *peace be unto you*.
+
+## 074r — he was received up into glory
+
+**1**  to his sufferer, and to his Father, for ever
+`to-sufferer <preposition_of_genitive>-Lord and <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> chapter-oh chapter-oh`
+
+**2**  amen; because Lord Jesus would have him confess
+`amen because want Lord-Jézus to-Lord confess have`
+
+**3**  before his Father, in the year of judgment; then
+`before from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord on-judge-year then-exist`
+
+**4**  the Father goes to judge the living and the dead, the man; and the Lord said to the apostles,
+`go father-<suffix_of_divine_name> judge living and die somebody and say-Lord apostle`
+
+**5**  ye shall hear; his mother, and
+`you exist hear <preposition_of_genitive>-Lord mother and`
+
+**6**  Mary blessed upon all the apostles, and among this […]
+`Mary bless on-each,_every apostle and among this [?]`
+
+**7**  […] knew Lord Jesus, and […] Lord Jesus […]
+`[?] know Lord-Jézus and [?] Lord-Jézus | [?]`
+
+**8**  […] went […] and blessed all the whole wide world
+`[?] go [?] and bless each,_every the_whole_wide_world ?world`
+
+**9**  and the Lord was taken into eternal glory. At that time said holy
+`and Lord grab to-?eternal ?glory time say | holy`
+
+**10**  Peter: Master, how does this Lord have apostles, as it were, saying
+`Peter Master how? this-Lord have apostle ?as say`
+
+> Mark 16:19, *he was received up into heaven*, with the creed's *judge the
+> quick and the dead* on line 4.
+
+## 074v — the Lord's Prayer
+
+**1**  Lord Jesus, this his son, as the Father of the man
+`Lord-Jézus this <preposition_of_genitive>-Lord son ?as father-<suffix_of_divine_name> <preposition_of_genitive>-somebody`
+
+**2**  and the Lord, in the eternal holy name of the Father; the man goes
+`and-Lord inside ?eternal holy +name <preposition_of_genitive>-father-<suffix_of_divine_name> go somebody`
+
+**3**  into the Father's kingdom; the whole wide world is the Lord's, as in heaven
+`inside king <preposition_of_genitive>-father-<suffix_of_divine_name> exist the_whole_wide_world <preposition_of_genitive>-Lord how? +heaven`
+
+**4**  so on earth […] of the man, every year
+`this and ~earth [?] <preposition_of_genitive>-somebody each,_every year`
+
+**5**  the Lord gives the man this day's bread; this man's trespass
+`grab-Lord somebody today’s year this-somebody trespass`
+
+**6**  forgive, as the man forgives his own; joy
+`remit how?-to somebody remit <preposition_of_genitive>-somebody joy`
+
+**7**  the man goes into pleasing […] from evil. Amen.
+`go somebody inside pleasing-chapter [?] from evil amen`
+
+**8**  Written by holy Matthew in his gospel. And the second time said
+`write holy-Matthew inside <preposition_of_genitive> gospel and two say`
+
+**9**  holy Peter: Master, Lord, when shall be […]
+`holy-Peter Master Lord when? exist [?]`
+
+**10**  the year of judgment? Lord Jesus Christ said […] out and out
+`judge-year say Lord-Jézus-Christ [?] out(ward)-out(ward)`
+
+> **The Lord's Prayer**, Matthew 6:9–13, and the codex says so on line 8.
+> Hallowed be thy name, thy kingdom come, thy will be done in earth as it is
+> in heaven, give us this day our daily bread, and forgive us our trespasses
+> as we forgive them that trespass against us, and deliver us from evil.
+> Amen. The word rendered *year* on lines 4–5 is the same root the dictionary
+> gives as day or year, so *this day's bread* is the daily bread.
