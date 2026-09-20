@@ -523,10 +523,10 @@ def main():
 
     g = nums(kt, "proposed here", 2)
     check("proposals: 2283 tokens = 7.6% rendered",
-          len(g) == 2 and g[0] == 2290 and close(g[1], 7.6, .02), str(g))
+          len(g) == 2 and g[0] == 2293 and close(g[1], 7.6, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
     check("proposals: 2540 lines fully read with them",
-          len(g) == 2 and g[0] == 2548 and close(g[1], 58.3, .02), str(g))
+          len(g) == 2 and g[0] == 2552 and close(g[1], 58.4, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -534,8 +534,8 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "137 signs are read" in flat
-          and "23.8% to **58.3%**" in flat)
+          "METHOD.md" in flat and "138 signs are read" in flat
+          and "23.8% to **58.4%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)
@@ -546,6 +546,10 @@ def main():
 
     check("ROHONC: the residue engine ranks blocking pieces",
           "ktresidue.py" in flat and "896 distinct pieces" in flat)
+
+    check("ROHONC: the eighteenth attempt is recorded as a FAIL",
+          "eighteenth attempt" in flat and "1.04x" in flat and "1.03x" in flat
+          and "failures of the measure, not as evidence against the" in flat)
 
     check("ROHONC: the arithmetic of reaching 98% of lines is stated",
           "**0.3%**" in flat and "6.9 words long" in flat

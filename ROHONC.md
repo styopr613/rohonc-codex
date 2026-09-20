@@ -1011,7 +1011,7 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 137 signs are read
+in the book and keep it only if it survives all of them. 138 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
 decisive occurrences, graded A, B or C. 26 are tier A. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
@@ -1019,7 +1019,7 @@ composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **58.3%**.
+lines where every word is read from 23.8% to **58.4%**.
 
 Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
 into pieces Kiraly and Tokai define; it was never given their own variant
@@ -1072,6 +1072,49 @@ read from the single line it stands in, and each of which is therefore a
 reading of that line rather than of the sign. `harness/proposals.json`
 carries a fourth grade, D, for exactly those, so that when they are entered
 the count of what is checked stays separate from the count of what is read.
+
+**The eighteenth attempt: can the translation prove itself? Declared, run,
+failed.** The proposal was a good one and it is the right shape for a proof:
+if the signs read here are right then lines on folios that contributed nothing
+to any reading should still land on the passage they are telling, because a
+right reading travels and a wrong one does not. `harness/ktproof.py` states
+two bars before the run. Gate A, every fully-read line on a folio cited in no
+reading's evidence, scored against the 1.75M-word reference corpus, must reach
+1.5 times its frequency-matched control at 5 sigma. Gate B, the same measure
+on the subset containing this project's own readings, must reach 1.3 times at
+3 sigma.
+
+    GATE A   1215 lines   observed 16.38   control 15.78   1.04x   FAIL
+    GATE B    415 lines   observed 16.24   control 15.82   1.03x   FAIL
+
+Both fail and the bars were not moved. But a failure has to be interpreted
+honestly in both directions, so the same measure was then put, as a diagnostic
+and not as a gate, to six lines whose source passage is known by hand. It
+found the right passage twice: 119v:4 landed on *the sheep which was lost ...
+joy shall be in heaven over one sinner that repenteth*, and 187r:6 landed on
+*the way of the wilderness of the Red Sea ... and Moses*. So the instrument is
+not blind, but it cannot do this reliably, and a measure that cannot find a
+passage it is given cannot be used to say a reading is wrong. **Gate A and
+gate B are recorded as failures of the measure, not as evidence against the
+reading.**
+
+The cause is visible in what the search is given. A line enters as the stems
+of every sense of every code on it. *Blessed is the womb* goes in as eleven
+stems, of which two are the intended reading and nine are other senses of the
+same codes; the noise outweighs the signal five to one and the match drifts to
+whatever window shares the common words. Restricting to the first sense, the
+one the rendered page uses, halves the query and puts two of six on the right
+passage, but the score still does not separate from its control. Choosing the
+right sense at each occurrence is the missing step. That is the same gap this
+document has named from the beginning, and it needs Kiraly and Tokai's
+grammar, which is unpublished.
+
+**What would prove it instead.** Three things are already doing the work that
+this gate could not. A sign read in one passage has to survive every other
+passage it appears in, which is what the tier grades record. Numerals have to
+match numbers the source supplies, and six do. And a formula has to repeat
+identically across folios that were never compared. Those are narrow tests,
+but they are tests the reading could have failed and did not.
 
 **Would another language be easier? Measured, and mostly no.** Kiraly and
 Tokai serve their dictionary in Hungarian as well as English, and it was

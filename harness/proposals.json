@@ -805,10 +805,10 @@
   "evidence": "the four turns of the Genesis 3 interrogation on 124v: God asks the man, the man answers and names the woman; God asks the woman, she answers and names the serpent. All four are on one page so nothing outside it checks the reading"
  },
  "0d25205406e3": {
-  "gloss": "mercy",
+  "gloss": "the tree of mercy",
   "tier": "B",
   "n": 3,
-  "evidence": "the oil of mercy, which is the whole point of the Seth episode: give Seth the oil of it 006r:7, of it against sin 006r:8, and 007v:11 with the clause terminator"
+  "evidence": "Kiraly & Tokai read 0d2520520324 as tree and this shares that stem; at 006r:7 Seth is to be given the oil of it, which is what Seth is sent to Paradise for in the Life of Adam and Eve. 0d2520324, read here as stood in the midst, is the same stem in Eve went to the tree which stood in the midst, Genesis 3:3"
  },
  "159": {
   "gloss": "glory",
@@ -821,5 +821,11 @@
   "tier": "C",
   "n": 1,
   "evidence": "the Lord tells Noah to make one at 008r:4 and the next line gives its length as three hundred cubits. Kiraly & Tokai already read a different code as ark at 008r:7, so this is a second sign for it; note that 570670ae0 is read here as sheep, which a shared first glyph does not contradict in a logographic script but is worth watching"
+ },
+ "5203715203c4": {
+  "gloss": "forgiveness of sins",
+  "tier": "B",
+  "n": 6,
+  "evidence": "thy sins are forgiven thee at 151r:6, and three more forms of it across 151v with give, go and cry built on the front. 3c4 is already read as sin and Kiraly & Tokai read the neighbouring 370 as mercy"
  }
 }

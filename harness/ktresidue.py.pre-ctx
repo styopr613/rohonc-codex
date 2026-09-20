@@ -91,8 +91,6 @@ def main(argv):
                 s = " + ".join(("[?" + X.hx(p) + "]" if p not in inv
                                 else X.word(p, gl, seg, var)) for p in ps)
                 print(f"  {n:4d}  {X.hx(t):26s}  {s}")
-                for page, i, line, done in X.contexts(t, doc, gl, seg, var)[:3]:
-                    print(f"        {'*' if done else ' '} {page}:{i:<3d} {line[:150]}")
         return 0
 
     rank = sorted(words.items(),
