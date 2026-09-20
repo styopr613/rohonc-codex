@@ -324,13 +324,14 @@ Defining the top 50 undefined codes would lift coverage from 62.1% to 73.1%;
 the top 100 to 76.0%; the top 200 to 79.1%; the top 500 to 84.1%. That is a
 work plan, and it is owed to the authors.
 
-## Extending the dictionary: five attempts, five failures
+## Extending the dictionary: six attempts, six failures
 
 Four words in ten have no gloss and another five in ten have several. Working
 out the undefined codes is the part of the problem nobody has done. It was
-tried five ways, each against a bar set before the run, and each failed. The
+tried six ways, each against a bar set before the run, and each failed. The
 bar was never moved. Two evaluation bugs were fixed and the runs repeated;
-neither fix changed a verdict.
+neither fix changed a verdict. Five of the six were mechanical. The sixth was
+not, and did best.
 
 **Bag-of-words alignment.** Read each page by the words the dictionary
 provides; find the gospel window it best matches. Real pages scored a median of
@@ -373,6 +374,30 @@ There is signal in it. The code for God lands beside the codes for *god/holy*
 and *father*; the code for *give/take* beside *carry/come* and *exist*. It is
 real and far too weak to name anything.
 
+**Reading the passage, which is what the other five were not.** All five
+mechanical methods aligned or counted. Kiraly and Tokai do neither: they read a
+passage, guess a code's meaning from what surrounds it, and check the guess
+against every other place it occurs. `ktread.py` renders that evidence — every
+line containing a target code, with all other codes glossed, so the target
+stands as a blank in readable context — and six were read blind.
+
+Six defined codes ranked 46th to 51st by frequency were used, deliberately
+below the top forty, because the twenty commonest had been printed with their
+glosses earlier in the same session and recalling them would not have been
+reading. Result: one clean hit, one correct by cross-referencing an earlier
+printout rather than by reading, one near miss in the right semantic field,
+three wrong. **One to two of six, single-shot** — better than any mechanical
+method, all of which reached 8–15% while allowed five guesses each, and still
+far short of proposing anything.
+
+The instructive failure is the one held with most confidence. A formula
+repeated verbatim on two folios — glory and thanks given, then the target, then
+"you" — reads unmistakably as a dative. The dictionary gives "end; side".
+Clean reasoning, confident output, completely wrong, caught only by checking
+against a known answer. A method whose failures are indistinguishable from its
+successes must be scored on solved cases before it is pointed at unsolved ones,
+which is why every attempt in this document was gated that way.
+
 The failures are informative. The codex is a paraphrase drawing on apocrypha,
 Marian prayer and material Király calls "without known parallel", glossed to
 base-form English and matched against one modern translation of the canonical
@@ -384,12 +409,13 @@ promised in 2018 and one has appeared, and the 2022 paper describes the grammar
 paper as held up. The dictionary is demonstrably real. A written grammar is a
 separate claim and nothing here bears on it.
 
-What the five failures have in common is that they are all mechanical. Kiraly
-and Tokai did not align corpora; they read, guessed from context, checked the
-guess everywhere else the code occurs, and revised — with the illustrations as
-entry points and a theologian's corpus of prayer, apocrypha and sermon material
-in mind. That is not a method this harness can run, and twenty years of it is
-not an afternoon.
+What separates the sixth attempt from what Kiraly and Tokai do is not the
+guessing — that part is shared, and unreliable for both. It is that a guess
+there is carried to all seventy-five occurrences of the code and discarded if
+it fails at any one of them, then made again the next day, with the
+illustrations as entry points and a corpus of prayer, apocrypha and sermon
+material in mind. This was one pass. Twenty years of disciplined guessing is
+not an afternoon of it, and the discipline is the part that does the work.
 
 ## A third transcription from the scans: negative
 
@@ -430,6 +456,7 @@ repository staff; with it, this would probably be feasible.
     python ktextend.py        # the two failed extension gates
     python ktalign.py         # the third, sequence alignment
     python ktdistrib.py       # the fourth and fifth, distributional
+    python ktread.py --hide 6 --skip 45   # the sixth, reading from context
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 

@@ -201,7 +201,12 @@ def main():
         check(f"gate 5: {lab} {want}%", len(g) == 2 and g[1] == want, str(g))
     check("gate 5 FAIL and the 4% flaw recorded",
           "FAIL" in kdi and "top five 8%, top ten" in flat and "4%" in flat)
-    check("five attempts stated", "five ways" in flat and "bar was never moved" in flat)
+    check("six attempts stated", "six ways" in flat and "bar was never moved" in flat)
+    kr = open(os.path.join(corpus.ROOT, "harness", "ktread.py"), encoding="utf-8").read()
+    check("reading gate recorded in code and doc",
+          "end / side" in kr and "One to two of six" in flat)
+    check("reading gate: the confident failure named",
+          "completely wrong, caught" in flat and "dative" in flat)
 
     # ---- OCR ----
     oc = out("ocr_crossline.txt")
