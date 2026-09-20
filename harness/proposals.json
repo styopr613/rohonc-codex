@@ -1445,5 +1445,59 @@
   "tier": "C",
   "n": 3,
   "evidence": "117r-118r gives John the Baptist four parallel answers, to the soldiers, the Pharisees and Jews, the farmers and the sinners, and each paragraph writes its group's name in the same four slots. This word fills those slots in the second paragraph, where 117r:1 names the group as the Pharisees and the Jews, and it also carries the vocative compounds 'have mercy, ye [Pharisees]' and 'be righteous, ye [Pharisees]' at 117v:3, matching 'have mercy, ye farmers' at 117v:9. Read from the structure of one passage; nothing outside it can check which of the two names it is"
+ },
+ "5f11f11d3": {
+  "gloss": "rib",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's rib (5f11f21d3) is cited by them at 003r11 and 122v08: this word's two lines, which are the same sentence written twice in the book. 'the Lord God took from Adam a [rib]' 122v:8 = Genesis 2:21"
+ },
+ "520842": {
+  "gloss": "laugh",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's laugh (a10520842) is cited by them at 003r12 and 123r01, this word's lines, which are the same sentence twice. It stands beside their bone sign at 123r:1, Genesis 2:23"
+ },
+ "5205209500606a3": {
+  "gloss": "bone",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's bone (5209500601f5, which they gloss 'cp. 1Moz 2,23') is cited at 003v01 and 123r01; this word and 5209500606a3 stand side by side at 123r:1 on the same stem 520950060, giving Genesis 2:23, 'bone of my bones'"
+ },
+ "5209500606a3": {
+  "gloss": "bones",
+  "tier": "A",
+  "n": 1,
+  "evidence": "the second of the pair at 123r:1, on K&T's bone stem, which their entry cites at that line: 'bone of my bones', Genesis 2:23"
+ },
+ "5202c0151": {
+  "gloss": "do not",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's '?? (do) not' (5202c0132) is cited by them at 003r05 and 122v03, this word's two lines, which are the same sentence twice: 'this yoke upon Adam, by commandment: [do not] eat of this tree' = Genesis 2:17"
+ },
+ "540060520060881a10": {
+  "gloss": "the garden",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's vineyard/garden (540060520882) is cited by them at 003r10 and 122v07, and this word at 122v:7 carries their stem 540060520: 'in Paradise, and then this [garden]'"
+ },
+ "5201da060": {
+  "gloss": "shall not eat",
+  "tier": "B",
+  "n": 1,
+  "evidence": "K&T's 'not [eat]' (5e3) is cited by them at 003v08 and 123r07, and 123r:7 is this word's only line, where their fruit sign stands two words earlier: 'eat of this fruit ... [ye shall not eat]' = Genesis 3:3. Their spelling and this one share no glyph, so the identification rests on the citation alone"
+ },
+ "6e4624": {
+  "gloss": "Paradise",
+  "tier": "B",
+  "n": 7,
+  "evidence": "the creation passage is written twice in the book, at 002v-003v and again at 122r-123r, line for line. At 002v:12-13 Adam 'went inside' K&T's Garden of Eden sign; at the matching line 122r:6 the same sentence writes this word in that slot. Adam sleeps 'inside' it at 003r:7-8 = Genesis 2:21, the blind man goes into it at 007v:9, and at 122v:7 it stands beside K&T's own garden sign"
+ },
+ "5206e4624": {
+  "gloss": "into Paradise",
+  "tier": "B",
+  "n": 6,
+  "evidence": "the same word with K&T's direction prefix 520: 'and then Adam slept [into Paradise]' 122v:5, which at the duplicate 003r:7-8 is written without the prefix"
  }
 }

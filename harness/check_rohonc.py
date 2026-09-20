@@ -475,8 +475,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 224 folios",
-          md.count("\n## 0") + md.count("\n## 1") == 224, str(md.count("\n## 0")))
+    check("translation: the file exists and covers 230 folios",
+          md.count("\n## 0") + md.count("\n## 1") == 230, str(md.count("\n## 0")))
     import re as _re
     heads = set(_re.findall(r"^## (\d{3}[rv]) ", md, _re.M))
     try:
@@ -531,11 +531,11 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 2492 tokens = 8.3% rendered",
-          len(g) == 2 and g[0] == 2492 and close(g[1], 8.3, .02), str(g))
+    check("proposals: 2516 tokens = 8.4% rendered",
+          len(g) == 2 and g[0] == 2516 and close(g[1], 8.4, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
-    check("proposals: 2628 lines fully read with them",
-          len(g) == 2 and g[0] == 2628 and close(g[1], 60.1, .02), str(g))
+    check("proposals: 2643 lines fully read with them",
+          len(g) == 2 and g[0] == 2643 and close(g[1], 60.5, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -543,8 +543,8 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "239 signs are read" in flat
-          and "23.8% to **60.1%**" in flat)
+          "METHOD.md" in flat and "248 signs are read" in flat
+          and "23.8% to **60.5%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)
@@ -553,11 +553,14 @@ def main():
           "1,232 lines" in flat and "one word short" in flat
           and "not a wall" in flat)
 
+    check("ROHONC: the creation passage is written twice",
+          "writes the creation twice" in flat and "121v-123r" in flat
+          and "003r11 and 122v08" in flat)
     check("ROHONC: the apparatus check and the Elijah correction are recorded",
           "was read as Enoch" in flat and "father son" in flat
           and "ktlook.py --cite" in flat and "Saint Augustine the church father" in flat)
     check("ROHONC: Emmaus run translated and Cleopas named",
-          "224\nfolios are translated" in doc and "names Cleopas" in flat
+          "230\nfolios are translated" in doc and "names Cleopas" in flat
           and "of sin, and of righteousness, and of" in flat
           and "child on the seashore" in flat
           and "sign for sign and in order" in flat

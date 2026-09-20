@@ -1034,7 +1034,7 @@ is offered as such.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 224
+With the rendering on the page it became possible to read it, and 230
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
@@ -1120,16 +1120,31 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 239 signs are read
+in the book and keep it only if it survives all of them. 248 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
-decisive occurrences, graded A, B, C or D. 84 are tier A, twenty of them
+decisive occurrences, graded A, B, C or D. 90 are tier A, twenty of them
 stroke numerals entered whole by their composition rule. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **60.1%**.
+lines where every word is read from 23.8% to **60.5%**.
+
+**The book writes the creation twice, line for line.** Folios 121v-123r are
+the same text as 002v-003v, sentence for sentence in the same order: the
+Trinity formula, the forming of Adam, the breath, the commandment and the
+yoke, the sleep, the rib, bone of my bones, the serpent. Kiraly and Tokai
+saw it before this project did, because their dictionary cites the two
+copies together in one entry after another: rib at 003r11 and 122v08, laugh
+at 003r12 and 123r01, bone at 003v01 and 123r01, "(do) not" at 003r05 and
+122v03, garden at 003r10 and 122v07, "not [eat]" at 003v08 and 123r07. That
+is a sixth long passage the book repeats, beside the Pauline passage at 068r
+and 070v-071r and John 16 at 068v and 080r. The second copy reads much
+further than the first, because more signs are read now, and it is what
+gives Paradise its reading: at 002v:12-13 Adam goes inside their Garden of
+Eden sign, and the same sentence at 122r:6 writes a different sign in that
+slot.
 
 **Their apparatus reads more than their headwords.** Every entry in Kiraly
 and Tokai's dictionary cites folio and line for its examples and for each

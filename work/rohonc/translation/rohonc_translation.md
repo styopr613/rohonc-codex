@@ -8593,3 +8593,209 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > 15:4, and the reason the codex keeps the number nine through both
 > parables. Lines 8-9 turn to the fall of Lucifer, the hidden angel, which
 > is the sign this project read as "hide oneself" and matched to Lucifer.
+
+## 120v — the fall of Lucifer, and the order left empty
+
+**1**  and forty thousand, and night, which the hidden angel, to the hidden angel,
+`and ten-ten-ten-ten and night which-hide_oneself-angel to-hide_oneself-angel`
+
+**2**  into the kingdom of heaven, unto the evil […]; there is one
+`on-heaven land on-~evil [?] +<subj> one`
+
+**3**  order, the day […]; and then this Lord went from the Father God,
+`order +day-chapter [?] and then-exist this-Lord go-Lord from-father-<divine>`
+
+**4**  of the Lord; from this the Lord would […] begin the order of angels; and from
+`<of>-Lord from this-Lord want-Lord [?] ~begin order angel and from`
+
+**5**  the leaving of the Lord until the day of judgment the Lord would, of the Lord, from
+`to-leave <of>-Lord ~until judge-year want-Lord <of>-Lord from`
+
+**6**  the Father God, […] from the order, in the place […] there is
+`father-<divine> [?] from order on-place [?] +<subj> exist`
+
+**7**  the Lord; the Lord bowed down from the Father God, of the Lord, into the kingdom of heaven,
+`Lord bow_down-Lord from-father-<divine> <of>-Lord on-heaven land`
+
+**8**  unto the evil; then went the Lord, the Father God, the Son, God, Jesus, the Holy Spirit,
+`on-~evil then-exist go-Lord-father-<divine>-son-God-Jézus-holy-spirit`
+
+**9**  Mary, Christ, the apostles, the angels […] living, and dying […] […]
+`Mary-Christ-apostle-angel [?] living and die [?] [?]`
+
+> Lucifer falls and his order stands empty until the judgment; the lost
+> sheep of 119r-120r is man, brought in to fill it. That is why the codex
+> keeps the number nine through both parables. Király & Tokai's own
+> "[angelic] order" sign stands on lines 3, 4 and 6, cited by them at each.
+
+## 121r — the tenth order, and the drachma that was lost
+
+**1**  This Lord is […] of the Lord, of the Father God, upon the sheep,
+`exist this-Lord [?] <of>-Lord from-father-<divine> on-sheep`
+
+**2**  the righteous people; and believe in the Lord, and in his Father God, many
+`righteous(ly) people and believe inside Lord and inside <of>-Lord from-father-<divine> many`
+
+**3**  […], and the neighbours, and the friends, the angels, and the apostles, for ever and ever,
+`[?] and +neighbours and friend angel and apostle chapter-oh chapter-oh`
+
+**4**  amen. And then the Lord Jesus, this […] […] baptized: this is his
+`amen +and_then Lord-Jézus this [?]-[?]-+baptize +this_is <of>-Lord`
+
+**5**  creature; you, the mother; she, from her, is
+`create you mother +it from +it +<subj> exist`
+
+**6**  she; she lost one drachma, one
+`+it ?loseth_one-+it one drachma one`
+
+**7**  order, the order within the kingdom of heaven; because then
+`order order inside heaven land because then`
+
+**8**  he bowed down from the Father God, heaven, upon many angels, upon heaven,
+`bow_down from-father-<divine> heaven on-many angel on-heaven.`
+
+**9**  the kingdom, unto the evil. And then the Lord Jesus said: there is
+`land on-~evil +and_then Lord-Jézus say exist`
+
+> The woman of Luke 15:8 who loses one of ten pieces of silver is read as
+> God losing one of ten orders: nine of angels and the tenth of men. It is
+> the standard exposition, and it is why 120r counted nine orders.
+
+## 121v — the Trinity: Father, Son and Spirit, and one God
+
+**1**  from the Father God, to the Son, goeth the Holy Spirit; Father, Son, heart, man.
+`from-father-<divine> to-son go holy-spirit father son +heart somebody`
+
+**2**  And then from the Father God the Holy Spirit; how the man was shaped
+`+and_then from-father-<divine> holy-spirit on-how? somebody shape,_form`
+
+**3**  he would, the Father, the Son, the Spirit, the heart. And then the Son, in his
+`want father son spirit +heart +and_then son on-<of>`
+
+**4**  image […] […]: man is, all one, to
+`shape,_form [?] [?] exist somebody each,_every one to`
+
+**5**  the Father, the Son, the Spirit. Father, Son and Spirit took man,
+`father son spirit grab father son spirit somebody`
+
+**6**  and every living thing […]; the soul heard; Adam saw rightly; not
+`each,_every living [?] soul hear Adam see righteous(ly) not`
+
+**7**  many from the Father, from the Son; not many the Holy Spirit; in turn
+`many from-father from son not many holy-spirit a)`
+
+**8**  this Lord is all one God. And then the Lord Jesus went forth,
+`this Lord each,_every one God +and_then Lord-Jézus go_out-Lord`
+
+**9**  Father, Son and Spirit, out, into the kingdom of heaven, into this world.
+`father son spirit out(ward) on-heaven land on-this ?world`
+
+> Genesis 1:26, "let us make man in our image", with the Trinity formula the
+> book repeats: not many, one God. This page is the same passage as 002v,
+> written a second time, and it reads further than 002v does.
+
+## 122r — the Lord God forms Adam and breathes into him
+
+**1**  And out of Paradise the Lord God, Adam, the heart […]
+`and out(ward) +Paradise Lord-<divine> Adam +heart [?]`
+
+**2**  And then Adam was, the heart, as was said before […] and
+`and then-exist Adam exist +heart earlier_mentioned [?] and`
+
+**3**  […] to one soul, the heart, breathed upon Adam; and
+`[?] to-soul-+one +heart breathe on-Adam and`
+
+**4**  he became living. And the Lord took Adam, the Father, the Son,
+`living leave and Adam grab Lord-father son.`
+
+**5**  the Spirit; and Adam went, the Lord, the Father, the Son, the Spirit,
+`spirit and Adam go Lord-father son spirit`
+
+**6**  into Paradise; and every heart is Adam's,
+`inside +Paradise and each,_every +heart exist-to Adam`
+
+**7**  the heart, the Lord, the Father, the Son, the Spirit. And then the Lord Jesus said, from the Father,
+`+heart Lord-father son spirit +and_then Lord-Jézus say from-father`
+
+**8**  of the Lord God, heaven, Adam […] this Adam
+`<of>-Lord God heaven Adam [?] this-Adam`
+
+**9**  took all rightly […] hunger and thirst […] this Adam;
+`grab each,_every righteous(ly) [?] be_hungry and thirsty [?] this-Adam`
+
+> Genesis 2:7, "the LORD God formed man ... and breathed into his nostrils
+> the breath of life; and man became a living soul", then Genesis 2:15, "the
+> LORD God took the man, and put him into the garden of Eden". These lines
+> are word for word the same as 002v:9-12, which was translated earlier and
+> read much less far. The sign rendered *heart* stands five times here where
+> Genesis wants dust, breath and life, and that use of it was already
+> flagged as unexplained when the sign was read; more of it is on the record
+> now and it is still unexplained.
+
+## 122v — the commandment, the sleep, and the rib
+
+**1**  and one living thing dieth; there shall be sin, hunger, thirst, to him who.
+`and one living-die-sin have be_hungry thirsty to-to-this-who.`
+
+**2**  […] the Lord took, this Adam, all rightly one:
+`[?] grab Lord this Adam each,_every righteous(ly) one`
+
+**3**  the law, this yoke, this Adam, by commandment: do not eat
+`+law this yoke this Adam through commandment +do_not eat`
+
+**4**  of this tree, evil, sin, thou shalt die. Likewise Adam did eat,
+`this [?] evil-+sin ?thou_shalt_die ?likewise Adam exist eat`
+
+**5**  in that place, and died. And then Adam slept, into Paradise;
+`on-place die and then-exist Adam sleep inside +into_Paradise`
+
+**6**  and then the throne, first, from the saying; and then went the Holy Spirit
+`and then-exist table first from +saying and then-exist go holy-spirit`
+
+**7**  into Paradise. And then this, this the garden; and
+`inside +Paradise +and_then this +<subj> this +the_garden and`
+
+**8**  the Lord God took from Adam a rib; and she, the heart,
+`grab Lord-<divine> Adam +rib and +it +heart`
+
+**9**  and then the Lord Jesus: thou, mother. And then Adam
+`+and_then Lord-Jézus you mother and then-exist Adam`
+
+> Genesis 2:17 and 2:21-22. *Do not*, *the garden* and *rib* are all Király
+> & Tokai's, each cited by them at this line and at the matching line of the
+> first copy on 003r. The whole page is the second copy of 003r.
+
+## 123r — bone of my bones, and the serpent
+
+**1**  laughed; and then this: bone of my bones. In turn, the two souls,
+`from +laugh +and_then this +bone +bones in_turn two soul`
+
+**2**  one […] by name. And then the Lord Jesus left, the Lord, the Father God,
+`one [?]-+name +and_then Lord-Jézus leave Lord-father-<divine>`
+
+**3**  the Son, the Spirit, into the kingdom of heaven; and there went
+`son spirit on-heaven land and go`
+
+**4**  she into the Garden of Eden; and then Eve,
+`+it on-Garden_of_Eden and then-exist Eve`
+
+**5**  Eve went to this tree which stood in the midst;
+`Eve go to this tree what ?stood_in_the_midst`
+
+**6**  it is the Lord God's, by the law; and she saw a serpent. And then this serpent: she,
+`exist Lord-<divine> through +law and see one serpent +and_then this serpent +it`
+
+**7**  eat of this fruit. And then she: ye shall not eat,
+`eat this fruit +and_then +it +shall_not_eat eat`
+
+**8**  because she, Adam, answered by the commandment. And then
+`because +it Adam +answered through commandment +and_then`
+
+**9**  this serpent: Eve, eat; she, Adam.
+`this serpent Eve eat +it Adam`
+
+> Genesis 2:23 and 3:1-6. *Laugh* and *bone* are Király & Tokai's, cited by
+> them at this line and at 003r:12 and 003v:1, the matching lines of the
+> first copy. The tree that stood in the midst is Genesis 3:3, and the
+> answer on line 7 is Eve's, "ye shall not eat of it, neither shall ye touch
+> it, lest ye die".
