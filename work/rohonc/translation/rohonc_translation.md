@@ -2164,3 +2164,244 @@ Family stayed twelve years in Egypt.
 
 **11**  and much preaching […] the Lord Jesus, on the way.
 `and many ~preach [?] Lord-Jézus on-way`
+
+---
+
+## 033r — over the brook Cedron, into the garden
+
+**1**  And Saint John tells of many miracles and much preaching
+`and speak holy-John many miracle and many ~preach`
+
+**2**  […] of the Lord Jesus […], but it is not written
+`[?] Lord-Jézus [?] but inside write not`
+
+**3**  down. And then the Lord and the twelve apostles […] […]
+`write and then-exist Lord six-six apostle [?] [?]`
+
+**4**  There was a brook […]; and of the apostles
+`exist one brook [?] and from apostle`
+
+**5**  the rest of the apostles […]. The Lord took Peter,
+`rest apostle [?] apostle Lord grab Peter [?]`
+
+**6**  John, and […], and […]
+`John and [?] and [?]`
+
+**7**  across the Cedron; and […] into […]
+`over-exist Cedron and [?] inside [?]`
+
+**8**  and […], because there was a garden there […]
+`and [?] because-exist garden on-this [?]`
+
+**9**  […] Jerusalem […]; and […] the Lord went to Jerusalem; and in
+`trespass Jerusalem in_turn-to-in_turn and [?] go-Lord on-Jerusalem and inside`
+
+**10**  Jerusalem, behold, the Lord […] to the Lord Jesus and his apostles,
+`Jerusalem lo Lord [?] to Lord-Jézus and <of>-Lord apostle`
+
+**11**  because they would seize the Lord Jesus and take him in the garden.
+`because want-Lord grab Lord-Jézus inside-garden capture`
+
+**12**  […] of the man, the father Adam […] […]
+`[?] <of>-somebody father ~Adam [?] [?]`
+
+> Line 2 is John 21:25, the many other things Jesus did that are not written.
+> Lines 4–8 are John 18:1: over the brook Cedron, where there was a garden.
+> The codex has the brook by name.
+
+## 033v — a stone's cast, and the prayer
+
+**1**  through […] this the Lord Jesus would, to a man […]
+`through [?] this want Lord-Jézus to-somebody [?]`
+
+**2**  […] suffering, not […]; and then from the Lord
+`[?] suffering not-to and then-exist from-to Lord`
+
+**3**  the apostles in the garden; and the Lord went […] tells
+`apostle inside garden in_turn to-Lord go [?] speak`
+
+**4**  Saint John. The Lord went […] from the apostles […]
+`holy-John from-go-Lord trespass from apostle [?] then-chapter`
+
+**5**  about a stone's throw […]; his Father; and he knelt down,
+`stone to-throw [?] father <of>-Lord and kneel_(down)`
+
+**6**  the Lord Jesus […] Father, his God […]
+`Lord-Jézus [?] father <of>-Lord God [?]`
+
+**7**  […] take from the Lord this suffering; nevertheless
+`from [?] from Lord this suffering in_turn`
+
+**8**  […] as it pleases thee. And […] the Lord Jesus; and the Lord went
+`[?] pleasing and [?] Lord-Jézus and go-Lord`
+
+**9**  to the apostles […]; the apostles were asleep […] the Lord Jesus […]
+`to apostle [?] apostle to-sleep [?] Lord-Jézus [?]`
+
+**10**  and […] woke them; and the Lord Jesus went […] Peter
+`and [?] awake and go Lord-Jézus Peter`
+
+**11**  [to] the hilltop […] to see this […], because all the people were
+`mountain_peak [?] to see this [?] because exist each,_every people`
+
+> Luke 22:41, "withdrawn from them about a stone's cast, and kneeled down,
+> and prayed". The codex has the stone's cast.
+
+## 034r — the second prayer, and the sweat
+
+**1**  And a second time the Lord went […], and the Lord Jesus knelt […]
+`and two go Lord [?] and kneel_(down) Lord-Jézus [?]`
+
+**2**  God the Father […] take from […] from the Lord this suffering;
+`father-<divine> [?] from [?] from Lord this suffering`
+
+**3**  nevertheless […] as it pleases thee. And then the sweat ran down
+`in_turn [?] pleasing and then-exist to-to-to sweat through`
+
+**4**  the Lord Jesus, because […] the Lord Jesus […] the Lord's suffering
+`Lord-Jézus because [?] Lord-Jézus [?] Lord suffering`
+
+**5**  […]. And the Lord went to the apostles […]; the apostles were asleep
+`not-chapter and go Lord to-apostle [?] apostle to-sleep`
+
+**6**  […] the Lord Jesus […]; and […] woke them.
+`[?] Lord-Jézus [?] and [?] awake`
+
+**7**  At that time Saint Peter went […] […] sat
+`time go holy-Peter [?] [?] army-to sit`
+
+**8**  and […] the Lord went […] to God his Father, and knelt | the Lord
+`and [?] go Lord [?] father-<divine> <of>-Lord and kneel_(down) | Lord`
+
+**9**  Jesus […] God his Father […] from |
+`Jézus [?] father-<divine> <of>-Lord [?] from | [?]`
+
+**10**  Father, take from the Lord this suffering; nevertheless […] as it pleases thee; nevertheless
+`father from Lord this suffering in_turn [?] pleasing in_turn`
+
+**11**  […] as it pleases thee; because God the Father […] for the Lord, the whole wide world |
+`[?] pleasing because this-father-<divine> [?] on-Lord ~the_whole_wide_world | <of>`
+
+> Luke 22:44, the sweat. Three prayers in the garden, as in Matthew 26, and
+> the second and third are worded almost identically here.
+
+## 034v — the angel from heaven
+
+**1**  the Father. And an angel came […] from on high, from God the Father […]
+`father and go angel [?] high from-father-<divine> [?]`
+
+**2**  the Lord, this […] this […] this suffering […]
+`Lord this ~have this [?] this suffering [?]`
+
+**3**  […] the angel […] offered the Lord […]
+`[?] angel [?] this-Lord offer [?]`
+
+**4**  the Lord's lot, of God the Father; the Son Jesus […]
+`<of>-Lord fate <of>-father-<divine> son Jézus [?]`
+
+**5**  all […] redeemed. And the angel departed from before
+`each,_every [?] from-buy and leave-to-leave angel before`
+
+**6**  the Lord Jesus; because every night the angel came from on high, from God the Father,
+`Lord-Jézus because each,_every night this-go angel high from-father-<divine>`
+
+**7**  to the Lord Jesus; because the angel bore for the Lord all his suffering,
+`to-Lord-Jézus because Lord carry angel each,_every <of>-Lord suffering`
+
+**8**  it is written; and […] truly […] […] […]
+`write and [?] righteous(ly) [?] [?] [?]`
+
+**9**  written. And the Lord went to the apostles […] the Lord Jesus
+`write and go-Lord to-apostle [?] Lord-Jézus`
+
+**10**  […] his […]; and the Lord and the apostles had one […]
+`[?] <of>-Lord and have-Lord-apostle one [?]`
+
+**11**  […]; and then […] […]; and then the apostles |
+`[?] and then-exist [?] [?] and then-exist apostle | to`
+
+> Luke 22:43, the angel from heaven strengthening him.
+
+## 035r — the sign, and the kiss
+
+**1**  slept. And the Lord Jesus could not sleep; but the Lord laid a stone
+`sleep and can sleep Lord-Jézus a) Lord-put one stone`
+
+**2**  at his head; and the Lord Jesus could not sleep; but […]
+`to-head and can sleep Lord-Jézus a) [?]`
+
+**3**  […] the Lord, the apostles […] the apostles […] […] […]
+`[?] Lord apostle [?] apostle [?] [?] [?]`
+
+**4**  […] because from […] came the Jews […]
+`[?] because from [?] go Jew(ish) [?]`
+
+**5**  […] the Son of God […] to take him. And then
+`somebody-<divine> son [?] capture and then-exist`
+
+**6**  the Lord and the apostles went on the way, and saw | the Lord
+`Lord apostle and apostle go-Lord-and-apostle on-way and see | Lord`
+
+**7**  Jesus a great crowd coming; and among the Jews was Judas.
+`Jézus many people-chapter go and among Jew(ish) exist Judas`
+
+**8**  […] the father died, and the mother […] […] Judas and the Jews.
+`[?] from-father die and mother [?] sleep [?] Judas and Jew(ish)`
+
+**9**  He gave a sign, to tell the Lord apart from James and John — a kiss —
+`ask_for_sign distinguish Lord James John [?] kiss`
+
+**10**  so that Judas […] the Jews might take the Lord. And then
+`Judas from Lord capture Jew(ish) and then-exist`
+
+**11**  Judas went up to the Lord Jesus; and […]
+`go Judas against Lord-Jézus and [?]`
+
+**12**  Judas […] the Lord's hand; because he had given the Jews the sign,
+`~Judas <of>-Lord hand because to-Jew(ish) ask_for_sign`
+
+> Matthew 26:48, "he gave them a sign". The codex adds the reason the sign
+> was needed, on the next page.
+
+## 035v — "Whom seek ye?" and they fell backward
+
+**1**  because John was like the Lord Jesus. And he cried out, | the Lord
+`because exist similar John to-Lord-Jézus ~and shout | Lord`
+
+**2**  Jesus: Whom seek ye? The people, the Lord's — the Jews. And they cried,
+`Jézus who(m)? search people <of>-Lord Jew(ish) and shout`
+
+**3**  the Jews […] […] Jesus […]; and cried
+`Jew(ish) [?] [?] Jézus [?] and shout`
+
+**4**  the Lord Jesus: I am he, if ye seek the Lord — the Jews. And all
+`Lord-Jézus from this-Lord if Lord search Jew(ish) and each,_every`
+
+**5**  the Jews fell backward […] the Lord Jesus […] […]
+`Jew(ish) back bow_down [?] Lord-Jézus [?] [?]`
+
+**6**  […] […] hidden […] staves; and […] […]; and the Jews'
+`[?] [?] hide_oneself <of>-club and [?] [?] and <of>-Jew(ish)`
+
+**7**  staves […] because the Lord Jesus […]
+`club [?] inside why?-in_turn because Lord-Jézus [?]`
+
+**8**  did; God his Father, to the Jewish people; and
+`do, father-<divine> <of>-Lord to-Jew(ish) people and`
+
+**9**  […] […]; and a second time the Lord Jesus cried: […] seek ye,
+`[?] [?] and two shout Lord-Jézus [?] search`
+
+**10**  the people, the Lord's — the Jews. And they cried […]
+`people <of>-Lord Jew(ish) and shout [?]`
+
+**11**  […] […] Jesus […]; and cried
+`[?] [?] Jézus [?] and shout`
+
+**12**  the Lord Jesus: I am he, if ye seek the Lord — the Jews; and
+`Lord-Jézus from this-Lord if Lord search Jew(ish) and`
+
+> John 18:4–8, and it is unmistakable. He asks "Whom seek ye?", they answer,
+> he says "I am he", and they go backward and fall to the ground — and then
+> the whole exchange repeats, exactly as it does in John. The codex also
+> explains why Judas needed to identify him: John looked like him.
