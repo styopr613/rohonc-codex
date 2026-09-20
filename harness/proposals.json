@@ -3581,5 +3581,239 @@
   "tier": "B",
   "n": 1,
   "evidence": "their entry 77a for shed [blood] names this spelling; no separate line citation"
+ },
+ "4f5520ae0": {
+  "gloss": "crown",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their crown entry lists this spelling at 044v04 and 181r01, where the crown of thorns is pierced into his head"
+ },
+ "5201a3520": {
+  "gloss": "sky",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their sky, heaven entry lists this spelling at 020v04 and 074r08"
+ },
+ "520afc": {
+  "gloss": "mourn",
+  "tier": "B",
+  "n": 2,
+  "evidence": "their '? mourn' entry lists 520afc at 067r11. Their question mark"
+ },
+ "5401f6504": {
+  "gloss": "vine_branch",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their vine branch (Jn 15, 1-6) entry lists this spelling at 069v04"
+ },
+ "a99520100": {
+  "gloss": "take",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their grab, take entry lists this spelling at 089r01 and 05"
+ },
+ "a53": {
+  "gloss": "opposite",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their entry a30 (2) 'opposite, over against; not far' names this spelling, and glosses 033r08-09 'the hill opposite the town of Jerusalem'"
+ },
+ "410": {
+  "gloss": "most_high",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their high, tall; the Most High [God] entry lists this spelling at 213v03"
+ },
+ "5209a3780ae0": {
+  "gloss": "health",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their ? recovery or health entry lists this spelling at 112v01 and 03"
+ },
+ "520263": {
+  "gloss": "church_father",
+  "tier": "B",
+  "n": 2,
+  "evidence": "their '?? scholar or church father' entry lists 520263 at 150r02 and 03. Two question marks of theirs"
+ },
+ "520001152520ae0": {
+  "gloss": "sky",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their sky, heaven entry lists this spelling at 172r04 and 172v02"
+ },
+ "540444001": {
+  "gloss": "friend",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their friend entry lists this spelling at 202r06 and 07"
+ },
+ "60f": {
+  "gloss": "slide",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their 'slide [snake]' entry heads '60d, 60f' and cites 007r06 and 125r07"
+ },
+ "0d25406e3": {
+  "gloss": "tree",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their tree entry lists this spelling at 006v01 (2x)"
+ },
+ "56600a": {
+  "gloss": "water",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their water entry lists this spelling at 008r10"
+ },
+ "6f15202b8": {
+  "gloss": "disperse",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their pour entry gives 'expr. 6f15202b8 disperse 008r10'"
+ },
+ "0b6": {
+  "gloss": "high",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their high, tall entry lists this spelling at 023r08"
+ },
+ "540500551": {
+  "gloss": "tie_up",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their tie (up) entry lists this spelling at 005r05"
+ },
+ "044": {
+  "gloss": "way",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their way, journey entry lists this spelling at 016v03, where they gloss the phrase '? pilgrim'"
+ },
+ "540ae0": {
+  "gloss": "exist",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their exist entry lists this spelling at 018r11"
+ },
+ "5402c0670": {
+  "gloss": "know",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their know entry (540060520) names this spelling among its forms"
+ },
+ "68aae0": {
+  "gloss": "exist",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their exist entry gives '?? 68aae0 020r03'. Two question marks of theirs"
+ },
+ "a100f3a10060": {
+  "gloss": "white",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their white entry (Acts 1:10, Mt 17:2) lists a100f3a10060 at 023v10"
+ },
+ "371": {
+  "gloss": "son",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their son entry (060060371) gives 'suffix ? 371 164r04'"
+ },
+ "520311060": {
+  "gloss": "announce",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their announce, declare entry lists this spelling at 026v06"
+ },
+ "520060060443": {
+  "gloss": "heaven",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their heaven entry lists this spelling at 030r03"
+ },
+ "b30760b30962b30": {
+  "gloss": "go_away",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their leave, go away entry (b30) names this spelling among its forms"
+ },
+ "520412569080569": {
+  "gloss": "who_is_it",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their 'Who is it?' entry lists 520412569080569 at 031r07"
+ },
+ "5d1ae0520ae0": {
+  "gloss": "brother",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their brother entry lists this spelling at 034v10"
+ },
+ "690": {
+  "gloss": "little",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their little entry declares the swap '690 ~ 574, a82, a41, 890', which makes this their own spelling"
+ },
+ "520640": {
+  "gloss": "fall_down",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their bow down, fall down entry lists this spelling at 037r11"
+ },
+ "320796": {
+  "gloss": "perish",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their be damned entry gives 'expr. 320796 perish 038v11'"
+ },
+ "ad09901f4": {
+  "gloss": "seat",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their ? chair or seat entry lists this spelling at 044v09"
+ },
+ "2a1": {
+  "gloss": "down",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their down entry lists this spelling at 048r03"
+ },
+ "1f5734": {
+  "gloss": "take_off",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their take off [clothes] entry lists this spelling at 049v10 and 11"
+ },
+ "520365": {
+  "gloss": "woe",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their cry out entry gives 'II. 520365 051v01 crying, woe'"
+ },
+ "27d": {
+  "gloss": "give_up_the_ghost",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their breathe out or give out [soul] entry lists this spelling at 052r01"
+ },
+ "3f02c0": {
+  "gloss": "apart",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their apart entry gives '?? 3f02c0 053r09'. Two question marks of theirs"
+ },
+ "9909b0": {
+  "gloss": "have",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their have, possess entry lists this spelling at 053v04"
+ },
+ "0c0": {
+  "gloss": "down",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their down entry lists this spelling at 054r01"
  }
 }
