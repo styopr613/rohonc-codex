@@ -150,7 +150,10 @@ def taken_index(gl, prop):
     idx = defaultdict(list)
 
     def add(sign, gloss):
-        g = re.sub(r"[<\[(][^>\])]*[>\])]", " ", gloss)
+        # Strip accents BEFORE splitting on letters. Without this, findall
+        # cut "Jezus" at the accented vowel and indexed "J" and "zus", so the
+        # commonest proper name in the book reported as a word no sign carries.
+        g = re.sub(r"[<\[(][^>\])]*[>\])]", " ", gloss).translate(ACCENT)
         for w in re.findall(r"[a-zA-Z]+", g):
             if w.lower() in STOP:
                 continue
