@@ -754,3 +754,295 @@ and it matches.
 > Jesus, who preaches, works miracles, suffers, and rises. Then the book
 > starts counting years between the patriarchs, which is what a world
 > chronicle does.
+
+---
+
+## 015r — David the king
+
+**1**  […] David the king humbled himself before […]
+`[?] David king humble against [?]`
+
+**2**  The king began his repentance […] […] the king […]
+`repentance begin king [?] [?] king [?]`
+
+**3**  have mercy; and the king's sin — have mercy. At that time there appeared to the king
+`have_mercy and sin king have_mercy time appear king`
+
+**4**  the angel of God […]; the angel of God [to] David the king: the Lord God.
+`God angel [?] God angel David king Lord-<divine>`
+
+**5**  The king […] sin, have mercy. The king keeps the Lord's commandment; and
+`king [?] sin have_mercy carry-king <of>-Lord commandment and`
+
+**6**  the Lord confirmed the king […] upon the king's throne; and the king proclaimed [it to] the people. Chapter.
+`confirm-Lord king [?] on-<of>-king throne and announce king people-chapter`
+
+**7**  […] there shall be born […] a son […]; the son shall be the Son
+`[?] on-be_born host [?] son [?] son exist son`
+
+**8**  of God. And the angel departed from before David […]
+`God and leave angel before David [?]`
+
+**9**  From David the king until the Virgin Mary […]
+`from David king until virgin-Mary [?]`
+
+**10**  […] and […] and one […]
+`[?] and [?] and one [?]`
+
+**11**  […] […] and one […] | six(?)
+`~out(ward) [?] and one [?] | two-two-two`
+
+**12**  […] and […] from David the king until the Virgin Mary
+`[?] and [?] from David king until virgin-Mary`
+
+## 015v — the count of years
+
+**1**  […] from […] […] until the Virgin Mary | was born
+`[?] from [?] [?] ~out(ward) until virgin-Mary | be_born`
+
+**2**  […] […] and one […] and […]
+`[?] [?] and one [?] and [?]`
+
+**3**  and four years, and four years.
+`and two-two-year and two-two-year`
+
+## 016r — Saint Luke
+
+**1**  Saint Luke writes; the sixth(?) […] of his writing; from […] […]
+`write holy-Luke six-throne <of>-write from [?] [?]`
+
+**2**  […] […] they gave thanks, and prayed to the Lord God.
+`[?] [?] thanks grab and pray to-Lord-<divine>`
+
+## 016v — Joachim's offering is refused
+
+**1**  And Saint Anne […]; of the two of them, all their rich substance […] […]
+`and holy-Anne [?] from-two from_the_two_of_them each,_every <of>-rich soul [?] [?]`
+
+**2**  one portion they took […]; and a second portion
+`one division grab [?] on-exist-chapter in_turn-two division`
+
+**3**  to the Lord […] to the people. […] a portion […] […]
+`from-Lord [?] people-chapter [?] division [?] [?]`
+
+**4**  And all Joachim's household gave thanks to the Lord God; and […] |
+`and each,_every Saint_Joachim_and_his_houseful thanks to-thanks Lord-<divine> in_turn [?] | [?]`
+
+**5**  […] […] thirty years; and he prepared the offering.
+`[?] [?] thirty year and prepare offering-chapter`
+
+**6**  […] all […] […]; and then, and from Joachim
+`exist-chapter each,_every [?] [?] and then-exist and from Joachim`
+
+**7**  he brought his offering; and at Joachim looked the chief
+`carry <of> offering and to-Joachim see from head`
+
+**8**  of the Jews. […] This chief of the Jews [said to] Saint Joachim,
+`Jew(ish) [?] this head Jew(ish) holy-Joachim`
+
+**9**  […] to this Joachim […] who was […] go
+`food this-Joachim [?] who-exist [?] go`
+
+**10**  among the […] […] of the offering […] one […]
+`among <of> [?] food <of> offering [?] one [?]`
+
+**11**  and […] […] […] at this. And sorrowfully
+`and [?] [?] [?] on-this exist-chapter and sad(ly)`
+
+**12**  Joachim departed, and went into the field, into the wilderness […]
+`Joachim leave and go inside field inside forest chapter-<of> from love-exist-to`
+
+**13**  and from […] […] and at one […] one
+`and from [?] love-exist-to and on-one [?] one`
+
+> The Protevangelium and the Golden Legend: Joachim divides his substance in
+> portions, the high priest refuses his offering because he is childless, and
+> he goes off into the wilderness.
+
+## 017r — the angel comes to Joachim
+
+**1**  a lamb […]; and then the lamb […] […]
+`lamb [?] and then-exist lamb [?] [?]`
+
+**2**  At that time, when Joachim was […] God […]
+`time then-exist Joachim exist [?] God [?]`
+
+**3**  […] the angel of God [to] Joachim […] hear […]
+`[?] God angel Joachim [?] hear [?]`
+
+**4**  […] […] the angel of God [to] Joachim, this […]
+`[?] [?] God angel Joachim this [?]`
+
+**5**  The Lord God has had mercy. Go home, Joachim; and at the golden
+`Lord-<divine> have_mercy go Joachim to-home and on-golden`
+
+**6**  gate — this Joachim departed — Joachim's wife Anne, and […]
+`gate this Joachim leave <of>-Joachim wife Anne and [?]`
+
+**7**  a virgin maiden. And then […] and […]
+`one virgin-girl and then-exist [?] and [?]`
+
+**8**  The virgin maiden shall be Mary; and Mary shall bear a son […]
+`virgin-girl exist Mary and remit Mary on-be_born son [?]`
+
+**9**  The son shall be […] Jesus; and the Lord went […]
+`son exist [?] Jézus and go-Lord [?]`
+
+**10**  He preached the gospel, did many miracles, and suffered,
+`exist gospel preach many who-and-this-and miracle do, and suffer`
+
+**11**  the Lord […]; and […] rose from the dead; and […] shall be saved,
+`Lord [?] and [?] from die stand_up-Lord and [?] be_saved`
+
+**12**  every […] […]; and the man who believes in the Lord. And the angel departed
+`each,_every [?] [?] and somebody Lord exist believe and leave angel`
+
+**13**  from before Saint Joachim; and at that time the angel […]
+`before holy-Joachim and time then-exist angel [?]`
+
+## 017v — the golden gate, and Mary carried nine months
+
+**1**  the angel of God [to] Saint Anne: […] this Anne, […] the Lord God has had mercy, has heard
+`God angel holy-Anne have this Anne [?] Lord-<divine> have_mercy hear`
+
+**2**  the Lord God, Anne's […]. Go home, Anne; and
+`Lord-<divine> <of>-Anne [?] go Anne to home and`
+
+**3**  at the golden gate Anne came to(?) the Lord's Joachim; and there was conceived a
+`on-golden gate leave Anne <of>-Lord Joachim and from-get_conceived one`
+
+**4**  virgin maiden. And then was born in the body the virgin maiden — she is Mary;
+`virgin-girl and then-exist be_born body virgin-girl exist Mary`
+
+**5**  and Mary shall bear a son […]; the son shall be, in the body,
+`and remit Mary be_born son [?] son exist and-body`
+
+**6**  Jesus; and the Lord went […]; he preached the gospel, [did] many
+`Jézus and go Lord [?] exist gospel preach many who-and-this-and`
+
+**7**  miracles; and the Lord suffered […]; and […] from death
+`miracle do, and suffer Lord [?] and [?] from die`
+
+**8**  the Lord rose; and […] is saved, every […] […]; and the man who is the Lord's
+`stand_up-Lord and [?] be_saved each,_every [?] [?] and somebody Lord exist`
+
+**9**  […]. And the angel departed from before Saint Anne; and there was conceived the blessed
+`[?] and leave ~angel before holy-Anne and from-get_conceived happy`
+
+**10**  Virgin Mary. And Mary carried the child nine months, and in the tenth the child was born; and this
+`virgin-Mary and from Mary foetus carry nine moon in_turn ten foetus be_born and this`
+
+**11**  […] two months; and […] […]; and at six years
+`out(ward) two moon and on-out(ward) [?] and on-six-year-to`
+
+**12**  […] from […] […] until the Virgin Mary was conceived; and […]
+`~out(ward) from [?] [?] until virgin-Mary get_conceived and [?]`
+
+**13**  […] and one hundred, and […] and
+`[?] and one hundred and [?] and`
+
+> The meeting at the Golden Gate, and the conception of Mary. Line 10 is the
+> kind of detail no paraphrase invents: nine months carried, born in the tenth.
+
+## 018r — Gabriel: Hail, full of grace
+
+**1**  […] months, until the offering […] the blessed Virgin Mary.
+`[?] moon until offering inside chapter-year-chapter happy virgin-Mary`
+
+**2**  And then Mary was within […]; from the beginning she withdrew(?) into […]
+`and then-exist Mary exist inside [?] from begin go-hide_oneself-this inside exist-chapter`
+
+**3**  […] and said […] that Mary would keep her virginity |
+`[?] and say [?] this-Mary want virgin-carry | <of>`
+
+**4**  Mary […]. O! O! Amen. And then Mary
+`Mary [?] chapter-oh chapter-oh amen and then-exist Mary`
+
+**5**  was […] […] and […]; and at that time
+`exist six-six [?] and [?] and time from-gate`
+
+**6**  God the Father in heaven, because he saw […] all […] darkness […]
+`from-father-<divine> heaven because see hide_oneself each,_every [?] darkness [?]`
+
+**7**  and at that time God the Father in heaven, and […]
+`and time from-gate from-father-<divine> heaven and [?]`
+
+**8**  the Lord's angel Gabriel […] to the blessed […]
+`<of>-Lord angel Gabriel inside exist-chapter to-happy [?]`
+
+**9**  Saint Luke writes […] in his writing: at that time the angel said,
+`write holy-Luke [?] <of>-write time say angel`
+
+**10**  Gabriel: Hail, thou virgin, maiden full of grace! The Lord God is with Mary […]
+`Gabriel healing this-virgin-girl have_mercy-girl out(ward) Lord-<divine>-Mary [?]`
+
+**11**  This virgin maiden: How shall this be? […] this maiden […] this maiden
+`this virgin-girl how? this [?] can this-girl [?] this-girl`
+
+**12**  […] this maiden would keep her virginity […]
+`[?] this-girl want virgin-girl carry <of>-girl [?]`
+
+**13**  O! O! Amen. […] the angel Gabriel [to] Mary:
+`chapter-oh chapter-oh amen [?] angel Gabriel Mary`
+
+> Luke 1:28 and 1:34, in order, and the codex names Luke as its source two
+> lines earlier.
+
+## 018v — the Holy Spirit, and Elizabeth six months gone
+
+**1**  […] the Holy Spirit shall come upon thee, and grace to all […]
+`have want to-girl this go holy-spirit to-each,_every have_mercy [?]`
+
+**2**  This maiden shall conceive a son; and the son […] shall be […]
+`this-girl get_conceived son and ~son [?] exist [?]`
+
+**3**  […] the Virgin Mary […] […] said this; and […] would from […]
+`[?] virgin-Mary [?] [?] this say and [?] want from [?]`
+
+**4**  this […] […] the Lord, this […]; and then the maiden […]
+`this [?] [?] Lord this [?] ~and then-exist girl [?]`
+
+**5**  the Virgin Mary; the word of command to the Lord; Mary […] this […] which maiden
+`virgin-Mary commandment word to-Lord-hide_oneself Mary hide_oneself this [?] who girl`
+
+**6**  the angel said; at this he said […] God the Father, the Virgin Mary | the Holy
+`exist angel say on-this say [?] father-<divine> virgin-Mary | holy`
+
+**7**  Spirit; and to the Lord […] […] the Lord Jesus Christ came; the Lord was conceived,
+`spirit in_turn to-Lord [?] [?] go Lord-Jézus-Christ from-get_conceived Lord`
+
+**8**  Christ. And then […] the Virgin Mary […] the angel Gabriel
+`Christ and then-exist [?] virgin-Mary [?] angel Gabriel`
+
+**9**  [to] Mary: Behold, thy kinswoman is six months gone |
+`Mary have lo out(ward) six moon <of>-girl relative | [?]`
+
+**10**  […] who conceived […] Mary; the son, Saint John […] within the chapter […]
+`[?] who get_conceived Mary son holy-John [?] inside chapter [?]`
+
+**11**  […] chapter; the Lord God's mercy to this […]; from John shall be the way
+`go chapter Lord-<divine> <of> have_mercy to-this have from John exist way`
+
+**12**  made [for] the Lord Jesus Christ, that is the Lord […] this
+`do, Lord-Jézus-Christ that_is Lord [?] this`
+
+**13**  Mary bore; and the Lord went forth […]; he preached the gospel
+`Mary be_born and from Lord go Lord [?] exist gospel preach`
+
+> Luke 1:35 and 1:36. John the Baptist is "the way made for the Lord Jesus
+> Christ", which is the codex paraphrasing rather than quoting.
+
+---
+
+## A refrain, repeated word for word
+
+One passage recurs verbatim at 005v:3–8, 017r:8–12 and 017v:5–8, spoken each
+time by an angel to a different person — to Abraham, to Joachim, to Anne:
+
+> a virgin shall bear a son, and the son shall be Jesus; he shall preach the
+> gospel and do many miracles; the Lord shall suffer, and rise from the dead;
+> and every man who believes shall be saved.
+
+The same words in the same order, three times, hundreds of lines apart. That
+is a formula, and it is the kind of internal repetition that can be checked
+without any dictionary at all.
