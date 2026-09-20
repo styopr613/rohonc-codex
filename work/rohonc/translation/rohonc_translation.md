@@ -490,6 +490,9 @@ and it matches.
 
 > Genesis 3:24 — the angel and the flaming sword set at the gate.
 
+> The same passage is written again at 125r, and that copy reads a good
+> deal further; read the two together (`ktdouble.py --show 007r`).
+
 ## 007v — outside the garden: Cain, Abel, Seth, and Adam goes blind
 
 **1**  […] […] Paradise; and one created
@@ -8799,3 +8802,200 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > first copy. The tree that stood in the midst is Genesis 3:3, and the
 > answer on line 7 is Eve's, "ye shall not eat of it, neither shall ye touch
 > it, lest ye die".
+
+## 123v — she took of the fruit, and their eyes were opened
+
+**1**  this; in turn the fruit, it is; she, one, Adam did eat.
+`this in_turn fruit +<subj> exist +it +one Adam eat`
+
+**2**  Eve is, Adam; they knew evil and good, how
+`exist Eve Adam know evil and good how?`
+
+**3**  to the Lord God it is known. And then she plucked, the serpent, this
+`to Lord-God know and then-exist pluck serpent this`
+
+**4**  […], this serpent; and then she took,
+`[?] this serpent and then-exist grab +it`
+
+**5**  in turn she, the fruit, and gave to Adam; and then
+`in_turn +it fruit grab Adam and then-exist`
+
+**6**  were opened, in that place, Adam, naked; she saw,
+`?were_opened on-place Adam naked see +it`
+
+**7**  Adam; and then she, Adam, was ashamed.
+`Adam and then-exist +it Adam be_ashamed_of_sg`
+
+**8**  And then the Lord Jesus: and this, unto death, the sin, to hide, they did;
+`+and_then Lord-Jézus and this on-die +sin-hide_oneself do,`
+
+**9**  the hidden angel, the Lord, the Father, the Son, the Spirit, of the Lord, the man, from the Father God,
+`hide_oneself-angel Lord-father son spirit <of>-Lord somebody from-father-<divine>`
+
+> Genesis 3:6-7, "she took of the fruit thereof, and did eat, and gave also
+> unto her husband ... and the eyes of them both were opened, and they knew
+> that they were naked". The same sentences stand at 001r and 003v, which
+> the repeat-finder pairs with this page.
+
+## 124r — Adam, where art thou?
+
+**1**  the son, the hidden angel, is bowed down, the Father God, into heaven; in turn
+`?son-+<subj> hide_oneself-angel exist ~bow_down father-<divine> on-heaven in_turn-chapter`
+
+**2**  the day is unto hell. And then the Lord Jesus left, the Lord, the Father, the Son,
+`+day-exist on-hell +and_then Lord-Jézus leave Lord-father son`
+
+**3**  the Spirit, into heaven; in turn […] within the Garden of Eden.
+`spirit on-heaven in_turn-[?] inside Garden_of_Eden`
+
+**4**  And then the Lord Jesus, this second throne, from the saying; and then
+`+and_then Lord-Jézus this table two from +saying and then-exist`
+
+**5**  left, the Lord, the Father, the Son, the Spirit; left into the kingdom of heaven,
+`leave Lord-father son spirit leave on-heaven land`
+
+**6**  into Paradise; he said: there is […] of […].
+`inside +into_Paradise say exist [?] <of>-[?].`
+
+**7**  The Spirit to Adam: Adam, where art thou? And then
+`spirit to-Adam Adam why? +and_then`
+
+**8**  Adam, which Adam; the Lord God said, the Lord, the Father, the Son,
+`Adam which Adam Lord-<divine> say Lord-father-son`
+
+**9**  the Spirit, by mouth: Adam, which, said Adam,
+`spirit who-mouth Adam which say Adam`
+
+> Genesis 3:9, "And the LORD God called unto Adam, and said unto him, Where
+> art thou?" The book gives the question with the Trinity as the speaker,
+> as it has all through the creation.
+
+## 124v — the woman gave me, and the serpent beguiled me
+
+**1**  who, this Adam answered and said to the Lord, the Father, the Son, the Spirit:
+`who this-Adam ?answered say Lord-father-son-spirit`
+
+**2**  where? Adam answered and said: the woman, Eve,
+`why? Adam ?answered say ~Adam Eve`
+
+**3**  Adam, she gave me to eat. Said the Lord, the Father, the Son, the Spirit: Eve,
+`+Adam +gave_to_eat say Lord-father-son-spirit Eve`
+
+**4**  heavenly, said; Eve, which Eve, to this Lord said.
+`heavenly say Eve which Eve this-Lord-to say`
+
+**5**  The Lord, the Father, the Son, the Spirit: where art thou? she, which, who.
+`Lord-father-son-spirit why? +it which who.`
+
+**6**  Who? She answered and said to the Lord, the Father, the Son, the Spirit:
+`who +it ?answered say Lord-father-son-spirit`
+
+**7**  where? Eve answered and said: she, the serpent,
+`why? Eve ?answered say +it serpent`
+
+**8**  she gave her food. Said the Lord Jesus: there is, of the Lord,
+`+it food say Lord-Jézus say exist <of>-Lord`
+
+**9**  from the Father God, to Adam: Adam, to one
+`from-father-<divine> to-Adam Adam to-one`
+
+> Genesis 3:12-13, "The woman whom thou gavest to be with me, she gave me of
+> the tree, and I did eat" and "The serpent beguiled me, and I did eat".
+> *Adam* and *gave me to eat* on line 3 are Király & Tokai's own, both cited
+> by them at that line.
+
+## 125r — to till the ground, and the sorrow
+
+**1**  the law; this Adam is […]; the commandment he kept; it is
+`+law this-Adam exist [?] commandment carry exist`
+
+**2**  Adam, to him who, upon Adam; in turn, chapter, who.
+`Adam to-to-this-who on-<of>-Adam in_turn chapter-~who.`
+
+**3**  […] Adam is, the earth, to till the ground;
+`[?] exist Adam earth +to_till_the_ground`
+
+**4**  he would, to the son, food take; in turn […] this;
+`want to-~son food grab in_turn [?] this`
+
+**5**  […] is through pining, and this […]
+`[?] exist through +pine and this [?]`
+
+**6**  is painful, the coming, he hath; in turn this evil
+`exist painful ?coming have in_turn this evil`
+
+**7**  is […] the earth, the serpent slideth, and
+`exist [?] earth slide and`
+
+**8**  a room for evil; this man was made, all of this; the serpent
+`+room evil this somebody create each,_every this serpent`
+
+> Genesis 3:17-19 and 3:23, "in sorrow shalt thou eat of it all the days of
+> thy life ... to till the ground from whence he was taken". *To till the
+> ground* is Király & Tokai's own expression, which they cite at line 3, and
+> *pine* is their second sense of thirst, cited at line 5. This page is the
+> second copy of 007r, and it reads a good deal further than 007r does.
+
+## 125v — driven out, and the flaming sword
+
+**1**  dieth; and he departed from among […]
+`die and leave among [?]`
+
+**2**  the Lord, the Father, the Son, God, the Spirit, from the Father God, Jesus, the angel,
+`<of>-Lord father son God spirit from-father God Jézus angel`
+
+**3**  the Virgin Mary, Christ, and the apostles, and the Jews, and the man baptized, and all.
+`virgin-Mary Christ and apostle and Jew(ish) and somebody [?]-?baptism and each,_every.`
+
+**4**  […] and all the kingdom of heaven, the Lord, and the Lord's heart,
+`[?] and each,_every heaven land Lord and Lord-+heart`
+
+**5**  all the earth, and the evil, and the kingdom of heaven;
+`each,_every earth and ~evil and heaven land`
+
+**6**  and there went the Lord God, the angel, the second, the earth, and
+`and go Lord-<divine> angel two earth and.`
+
+**7**  […] fire, the sword, and | the earth;
+`[?] fire +sword and | ~earth`
+
+**8**  the serpent slid out; into the Garden of Eden he was cast out.
+`slide out(ward) on-inside Garden_of_Eden exorcise`
+
+> Genesis 3:24, the flaming sword. *Sword* is Király & Tokai's, in a
+> spelling their entry cites at this line and the next page's.
+
+## 126r — the cherub at the gate, and the third saying
+
+**1**  And he set the angel with the sword at the gate, the cherub
+`and put angel +sword on-gate ?cherub`
+
+**2**  of the Garden of Eden; and one creature […] within
+`Garden_of_Eden and one create [?] inside`
+
+**3**  the Garden of Eden; in turn, the angel. And then the Lord Jesus,
+`Garden_of_Eden a) angel +and_then Lord-Jézus`
+
+**4**  this third throne, from the saying, said the Lord Jesus: this is this
+`this table +three from +saying say Lord-Jézus this +<subj> this`
+
+**5**  drachma; and it is lost, then, from the evil, the sin: they did eat, the two,
+`drachma and exist lose then from evil-+sin eat two`
+
+**6**  Adam; and […] and Adam slid out;
+`~Adam and [?] and ~Adam slide out(ward)`
+
+**7**  cast out, the Lord, the Father, the Son, the Holy Spirit; and then hell,
+`exorcise Lord-father son holy-spirit and then-exist hell`
+
+**8**  the evil; from […] the serpent took, from the good,
+`evil from [?]-slide grab from good`
+
+**9**  one commandment of God; which chapter […] the serpent hath.
+`one commandment God which-chapter [?]-slide +have`
+
+> Genesis 3:24, "he placed at the east of the garden of Eden Cherubims, and
+> a flaming sword which turned every way". Line 5 ties the whole Adam
+> narrative back to the lost drachma of Luke 15:8, which the book expounded
+> on 121r: the coin God lost is man, lost here. This page is the second copy
+> of 007v.

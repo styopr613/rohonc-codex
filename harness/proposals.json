@@ -1499,5 +1499,41 @@
   "tier": "B",
   "n": 6,
   "evidence": "the same word with K&T's direction prefix 520: 'and then Adam slept [into Paradise]' 122v:5, which at the duplicate 003r:7-8 is written without the prefix"
+ },
+ "5401f55201c4": {
+  "gloss": "sword",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's sword (5402205201c4) cites a spelling at 125v07 and 126r01: exactly this word's two occurrences, both Genesis 3:24. 'the flaming fire, the [sword], and the earth' 125v:7; 'and he set the angel with the [sword] at the gate, the cherub, of the Garden of Eden' 126r:1"
+ },
+ "9909909b4": {
+  "gloss": "have",
+  "tier": "A",
+  "n": 3,
+  "evidence": "K&T's have/possess (9909909b6) lists a spelling cited at 050r03, 055v04, 087r08, 126r09 and 163v03; this word stands at 050r:3, 126r:9 and 163v:3"
+ },
+ "5400f6ae0": {
+  "gloss": "Adam",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's Adam-or-man entry (540ae0540ae0) lists a spelling cited at 077r01 and 124v03: this word's two occurrences. 'Adam answered and said: the woman Eve, [Adam], gave me to eat' 124v:2-3 = Genesis 3:12"
+ },
+ "5202c1001": {
+  "gloss": "gave to eat",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's feed sign (5202c1, 'give food, feed') is cited by them at 124v03, this word's only line, and the word carries their stem. The other unread word on that line is covered by their Adam citation for the same line. 'the woman whom thou gavest to be with me, she [gave me to eat]' = Genesis 3:12"
+ },
+ "5400607b45311d3": {
+  "gloss": "to till the ground",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's cultivate entry (5400607b4) gives the expression 'cultivate land' and cites it at 125r03, this word's only line, and the word carries their stem: 'Adam, the earth, [to till the ground]' 125r:3 = Genesis 3:23"
+ },
+ "5206e3": {
+  "gloss": "pine",
+  "tier": "A",
+  "n": 3,
+  "evidence": "K&T's thirst entry (6e7) carries a second sense they gloss '? pine' and cite at 007r04 and 125r05: two of this word's three lines, which are the same sentence written twice. 'this is through [pining], and this is painful' 007r:4 = 125r:5, the sentence of Genesis 3:16"
  }
 }

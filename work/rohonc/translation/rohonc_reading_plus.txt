@@ -153,7 +153,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  exist ~Adam to-to-this-who [?]-~Adam in_turn why?-in_turn
  2  [?] exist ~Adam earth [?]
  3  want to-~son food ~grab in_turn +it this-+it
- 4  exist through [?] and this-+it exist painful
+ 4  exist through +pine and this-+it exist painful
  5  ?coming have in_turn this evil this-evil exist
  6  [?] earth [?] ~and +room
  7  evil this somebody create each,_every this serpent die and
@@ -1210,7 +1210,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 050r ===
  1  leave-to-leave virgin-Mary to-Lord-Jézus and | from
  2  [?] [?] <preposition_of_genitive>-Lord handcuffs +and_then
- 3  Lord-Jézus [?] <preposition_of_genitive>-Lord [?] +say
+ 3  Lord-Jézus [?] <preposition_of_genitive>-Lord +have +say
  4  trespass [?] this inside commandment this apostle-+one <preposition_of_genitive>-Lord apostle
  5  and see Jew(ish) [?] good the_whole_wide_world
  6  on-suffering-year go Lord and [?] +say inside
@@ -1240,11 +1240,11 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  this-Lord pierce to-cross +and_then Lord-Jézus [?] Lord and | <preposition_of_genitive>
  3  Lord apostle then-exist buy exist-nine sweet and
  4  wine grab apostle Jew(ish) head and
- 5  Lord [?] a) +say-to [?] in_turn Lord | grab
+ 5  Lord [?] a) +say-to +pine in_turn Lord | grab
  6  +say vinegar and [?] and Lord
  7  wine grab +say on-one sponge_(hyssop?)_on_a_stick and
  8  then-exist-Lord sponge face wipe_off-+say and wine
- 9  grab mouth [?] [?] +and_then | Lord
+ 9  grab mouth [?] on-+pine +and_then | Lord
 10  Jézus +cross from-father <preposition_of_genitive>-Lord God heaven [?]
 11  this-Lord this-father <preposition_of_genitive>-Lord [?] inside <preposition_of_genitive>-father-<suffix_of_divine_name>
 
@@ -1332,7 +1332,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  angel sit on-left_(side) direction from [?] inside exist
  2  [?] [?] Jézus and then-exist Mary through
  3  startle because rather-Mary [?] +<subject_marker> how? ghost
- 4  +and_then angel do_not [?] [?]
+ 4  +and_then angel do_not +have-+the_three_Marys [?]
  5  +the_three_Marys through startle +rise mourn to-Lord from Jézus
  6  execute +rise [?] a) go-+the_three_Marys
  7  inside [?] and say-+the_three_Marys
@@ -1932,7 +1932,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 077r ===
- 1  [?] somebody [?] have_mercy somebody in_turn from-rich-from [?]
+ 1  +Adam somebody [?] have_mercy somebody in_turn from-rich-from [?]
  2  somebody in_turn [?] righteous(ly) somebody or ~judge somebody
  3  who speak holy-Paul [?] say Lord-Jézus-Christ this [?]
  4  somebody sin one +sin [?] be_saved and who-hide_oneself
@@ -2174,7 +2174,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  create-Lord <preposition_of_genitive>-somebody and can +cross to-one
  6  somebody die a) each,_every ?people die this-+one one somebody
  7  can God each,_every inside <preposition_of_genitive>-somebody mouth grab because Lord-<suffix_of_divine_name>
- 8  [?] exist-exist-chapter +but_rather [?] God-+<subject_marker>
+ 8  +have-[?] exist-exist-chapter +but_rather [?] God-+<subject_marker>
  9  many [?] and [?] and from [?] [?]
 10  earth [?] and heaven high and God-+<subject_marker>
 11  this can then-exist want-Lord heaven earth quake
@@ -3165,7 +3165,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 124v ===
  1  who this-Adam ?answered say Lord-father-son-spirit
  2  why? Adam ?answered say ~Adam Eve
- 3  [?] [?] say Lord-father-son-spirit Eve
+ 3  +Adam +gave_to_eat say Lord-father-son-spirit Eve
  4  heavenly say Eve which Eve this-Lord-to say
  5  Lord-father-son-spirit why? +it which who.
  6  who +it ?answered say Lord-father-son-spirit
@@ -3177,9 +3177,9 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 125r ===
  1  +law this-Adam exist [?] commandment carry exist
  2  Adam to-to-this-who on-<preposition_of_genitive>-Adam in_turn chapter-~who.
- 3  [?] exist Adam earth [?]
+ 3  [?] exist Adam earth +to_till_the_ground
  4  want to-~son food grab in_turn [?] this
- 5  [?] exist through [?] and this [?]
+ 5  [?] exist through +pine and this [?]
  6  exist painful ?coming have in_turn this evil
  7  exist [?] earth slide and
  8  +room evil this somebody create each,_every this serpent
@@ -3192,12 +3192,12 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  [?] and each,_every heaven land Lord and Lord-+heart
  5  each,_every earth and ~evil and heaven land
  6  and go Lord-<suffix_of_divine_name> angel two earth and.
- 7  [?] fire [?] and | ~earth
+ 7  [?] fire +sword and | ~earth
  8  slide out(ward) on-inside Garden_of_Eden exorcise
 
 
 === 126r ===
- 1  and put angel [?] on-gate ?cherub
+ 1  and put angel +sword on-gate ?cherub
  2  Garden_of_Eden and one create [?] inside
  3  Garden_of_Eden a) angel +and_then Lord-Jézus
  4  this table +three from +saying say Lord-Jézus this +<subject_marker> this
@@ -3205,7 +3205,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  ~Adam and [?] and ~Adam slide out(ward)
  7  exorcise Lord-father son holy-spirit and then-exist hell
  8  evil from [?]-slide grab from good
- 9  one commandment God which-chapter [?]-slide [?]
+ 9  one commandment God which-chapter [?]-slide +have
 
 
 === 126v ===
@@ -4124,7 +4124,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 163v ===
  1  and son carry ?therefore ?brethren-~son Lord-<suffix_of_divine_name> thief ?therefore humble
  2  son exist Lord-<suffix_of_divine_name> ?therefore God have-~son out(ward) on-town
- 3  two-two among man head because [?] inside.
+ 3  two-two among man head because +have inside.
  4  <pertaining_to_the_Old_Testament> word get_conceived out(ward) town to-from earlier_mentioned the_whole_wide_world and exist
  5  to son many people and then-exist leave-to-leave [?]
  6  [?] among ~gate from-two people people two
