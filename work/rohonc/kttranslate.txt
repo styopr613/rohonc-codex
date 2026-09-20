@@ -15,7 +15,7 @@ lines                            4372
   every word read                1041   23.8%
 
 WITH THIS PROJECT'S PROPOSED READINGS (tiers A and B), marked +word
-  proposed here                  2470    8.2%
-  no reading                     2457    8.2%
-  lines with every word read     2615   59.8%
+  proposed here                  2492    8.3%
+  no reading                     2432    8.1%
+  lines with every word read     2628   60.1%
 wrote /home/ubuntu/voynich/work/rohonc/translation/rohonc_reading_plus.txt

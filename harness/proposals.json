@@ -1415,5 +1415,35 @@
   "tier": "A",
   "n": 1,
   "evidence": "K&T's lose sign (670966520) is cited by them at 116r09, this word's only line, where the only other unread word is a compound ending in their farm-hand sign, which they cite at the same line. The next line reads 'the son was dead, and is risen from death, and is saved': Luke 15:24, 'he was lost, and is found'"
+ },
+ "a73ae0": {
+  "gloss": "oh",
+  "tier": "A",
+  "n": 9,
+  "evidence": "K&T's vocative particle (69cae0) cites its spellings line by line: 006v10, 142r10, 143r05, 150v01, 169r07 under 'vocative particle oh' and 119v03, 138r09, 157r04, 211r05 under a second sense they gloss '? wish, desire'. Those nine lines are exactly this word's nine occurrences. Rendered 'oh'; their second sense is on the record and is not chosen here"
+ },
+ "717ae1": {
+  "gloss": "neighbours",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's neighbor (717ae0) cites a spelling at 119v01 and 121r03: this word's two occurrences. 'he went to his friends and [neighbours]' 119v:1 = Luke 15:6, 'he calleth together his friends and neighbours'"
+ },
+ "6701525201f5": {
+  "gloss": "found",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's find (5201525201f5) lists a spelling cited at 119v02, this word's only line; 670 for 520 at the head, as in their lame and bosom spellings. 'rejoice with me, for I have [found] my sheep' 119v:2 = Luke 15:6"
+ },
+ "670813": {
+  "gloss": "yours",
+  "tier": "A",
+  "n": 6,
+  "evidence": "proved by the formula: the closing sentence of each of John the Baptist's four answers is 'X the kingdom of heaven', and three of the four write K&T's pronoun you (aca670813) in that slot at 117v:4, 117v:10 and 118r:10, while 117r:8 writes this word. It is the same pronoun without its first glyph. It stands line-initial at all six of its occurrences"
+ },
+ "ad2690": {
+  "gloss": "the Pharisees",
+  "tier": "C",
+  "n": 3,
+  "evidence": "117r-118r gives John the Baptist four parallel answers, to the soldiers, the Pharisees and Jews, the farmers and the sinners, and each paragraph writes its group's name in the same four slots. This word fills those slots in the second paragraph, where 117r:1 names the group as the Pharisees and the Jews, and it also carries the vocative compounds 'have mercy, ye [Pharisees]' and 'be righteous, ye [Pharisees]' at 117v:3, matching 'have mercy, ye farmers' at 117v:9. Read from the structure of one passage; nothing outside it can check which of the two names it is"
  }
 }

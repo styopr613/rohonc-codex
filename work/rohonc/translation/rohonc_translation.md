@@ -8372,3 +8372,224 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Carmel is Király & Tokai's gloss and it is Elijah's mountain, not the
 > Jordan; that stands as the book has it. Lines 5-6 put the Lord in his
 > twenty-ninth year, where Luke 3:23 says about thirty.
+
+## 117r — John the Baptist answers the soldiers, and then the Pharisees
+
+**1**  people; in turn the second people are the Pharisees, the Jews; the third people are
+`people in_turn-two people exist Pharisee Jew(ish) +third people exist`
+
+**2**  the farmers, the people; in turn the fourth people are the sinners.
+`farm people in_turn-two-two people exist ?sinners`
+
+**3**  First said the soldiers, the people; the soldiers answered; the soldiers went to this John
+`first say soldier people +answered-soldier go-soldier this-John`
+
+**4**  to be taught, in a dream(?) taught. The soldiers: how shall we be saved? they
+`on-learn on sleep learn exist soldier ?how_shall_we be_saved from`
+
+**5**  spoke. And to the soldiers, holy John the Baptist: the soldiers' holiness, and of
+`speak and soldier holy-John +the_Baptist <of>-soldier ~rich and <of>`
+
+**6**  the soldiers' faith: begin to give alms, soldiers, to God, […] the blind,
+`soldier believe on-begin donate soldier God [?] blind`
+
+**7**  and be merciful, soldiers, and righteous, soldiers; that is,
+`and exist-soldier have_mercy-soldier and righteous(ly)-soldier exist ?is_he`
+
+**8**  yours is the kingdom of heaven. Then said the Pharisees,
+`+yours +heaven land time say +the_Pharisees`
+
+**9**  the Jews, to John; the Pharisees answered; the Pharisees went to this
+`Jew(ish) to-John +answered-Pharisee go-Pharisee this`
+
+**10**  John to be taught, in a dream taught. The Pharisees: how shall we be saved?
+`John on-learn on sleep learn exist +the_Pharisees ?how_shall_we be_saved`
+
+> Luke 3:10-14, "and the people asked him, saying, What shall we do then?",
+> expanded into four questions and four answers, one for each of four
+> estates: soldiers, Pharisees, farmers, sinners. Their give-alms sign
+> stands on line 6, cited by them at that line.
+
+## 117v — the Pharisees and the farmers get their answers
+
+**1**  they spoke. And to the Pharisees, holy John the Baptist: and have this, ye Pharisees,
+`from-speak and +the_Pharisees holy-John +the_Baptist and have this +the_Pharisees.`
+
+**2**  righteous people; preach, and teach the sinful; how is sin, from
+`righteous(ly) people preach and sin learn how? exist sin from`
+
+**3**  […]. And be ye Pharisees merciful, ye Pharisees, and righteous, ye Pharisees; there is
+`[?] and exist-Pharisee +mercy-ye_Pharisees and +righteous-ye_Pharisees exist`
+
+**4**  yours the kingdom of heaven. Then said the farmers,
+`you +heaven land time say farm.`
+
+**5**  the people, to John; the farmers answered; the farmers went to this John
+`people to-John +answered-farm go-farm this-John`
+
+**6**  to be taught, in a dream taught. The farmers: how shall we be saved? they spoke.
+`on-learn on sleep learn exist farm ?how_shall_we +be_saved from-speak`
+
+**7**  And to the farmers, holy John the Baptist: and have this, ye farmers; you,
+`and farm holy-John +the_Baptist and have this-farm you`
+
+**8**  farmers, farm, till the ground, and conceive, and rightly, of the farmers, not,
+`farm farm <agricultural_expression> and get_conceived and righteous(ly) <of>-farm not-not`
+
+**9**  living; and to God, the blind, give alms; be ye farmers merciful, ye farmers,
+`living and God blind donate exist-farm have_mercy-farm`
+
+**10**  and righteous, ye farmers; yours is the kingdom of heaven.
+`and righteous(ly)-farm exist you +heaven land`
+
+> Line 8 is Luke 3:13 turned into a farmer's rule, and line 9 repeats the
+> alms of 117r:6. The closing formula is identical in all four answers, and
+> it is that repetition which proves the pronoun read *yours* on 117r:8: the
+> other three write Király & Tokai's own word for "you" in the same slot.
+
+## 118r — and the sinners, who get the great commandment
+
+**1**  Then said the sinners; the sinners answered; there went
+`time say ?sinners +answered-?sinners go`
+
+**2**  the sinners to this John to be taught, in a dream taught.
+`?sinners this-John on-learn on sleep learn exist.`
+
+**3**  The sinners: how shall we be saved? they spoke. And to the sinners,
+`?sinners ?how_shall_we be_saved from-speak and ?sinners`
+
+**4**  holy John the Baptist: and have this, sinners; love the Lord God,
+`holy-John +the_Baptist and have ?sinners love Lord-<divine>`
+
+**5**  lift up all your hearts, all your souls, all your
+`from-lift_up each,_every +heart each,_every <of>-?sinners soul each,_every <of>-?sinners`
+
+**6**  might, all your heart; and your
+`might each,_every <of>-?sinners heart and <of>-?sinners`
+
+**7**  neighbour as thyself. Be ye sinners merciful,
+`exist-exist how?-to somebody +neighbour exist-?sinners have_mercy`
+
+**8**  sinners, and righteous, sinners; and keep, sinners,
+`?sinners and righteous(ly)-?sinners and carry ?sinners`
+
+**9**  the commandments of God; […] a hundred […] sins, and be saved, sinners,
+`commandment God ~exist-hundred-[?]-+sin be_saved ?sinners`
+
+**10**  […], not, for ever and ever, amen; there is
+`[?] not-not chapter-oh chapter-oh amen exist`
+
+> The fourth answer is the great commandment, Deuteronomy 6:5 and Luke
+> 10:27, with the Sursum corda of line 5, "lift up your hearts", which is
+> where that phrase was first read in this project.
+
+## 118v — the commandment summed up, and a new reading from Luke
+
+**1**  yours the kingdom of heaven. This teaching is […] […] love the Lord
+`you +heaven land this learn exist [?] [?] love Lord`
+
+**2**  God most high with all thy heart; and the man who keepeth the commandments of God, his
+`<divine> most_high each,_every +heart and somebody and exist carry commandment God <of>-somebody`
+
+**3**  is the kingdom of heaven. And this is: this love, the commandment, take
+`+<subj> +heaven land and +this_is this love commandment grab`
+
+**4**  from […] to be saved; and the man who believeth
+`from [?] on-be_saved and somebody and exist believe`
+
+**5**  in the Lord Jesus Christ, that he is the true Son of the living God, every man
+`inside Lord-Jézus-Christ ?he_is righteous(ly) son living God each,_every somebody`
+
+**6**  shall be saved; and one is not damned […]: every man shall be saved.
+`+be_saved and one +is_not be_damned [?] each,_every somebody +be_saved`
+
+**7**  Begins this holy gospel, written by holy Luke, in the seventh chapter of
+`begins this holy-gospel write holy-Luke inside +seven chapter <of>`
+
+**8**  his writing. Then was the Lord Jesus in his thirtieth year and one day;
+`write time then-exist Lord-Jézus inside thirty +one-+day`
+
+**9**  then went the Lord Jesus into the Pharisees' town; and there went
+`time go Lord-Jézus inside Pharisee town and go`
+
+**10**  to the Lord all these, and the sinners; this, who, the Lord Jesus, and
+`to-Lord who-and-this-and ?sinners this-who Lord-Jézus and`
+
+> Lines 9-10 are Luke 15:1-2, "then drew near unto him all the publicans and
+> sinners ... and the Pharisees and scribes murmured", which is the setting
+> of the Lost Sheep on 119r. Line 7 cites Luke chapter seven, and the
+> passage is Luke 15. It is recorded as off. Line 6 is Mark 16:16.
+
+## 119v — the lost sheep found, and the woman with ten pieces of silver
+
+**1**  on his shoulder; and the man went to his friends and neighbours,
+`<of>-somebody shoulder and go-somebody to-<of>-somebody friend and +neighbours`
+
+**2**  and he is, with friend and neighbour; he said to them: I have found,
+`and exist and-friend-neighbor say-somebody say exist +found`
+
+**3**  my sheep, which […]; mine is this, this. Oh! And
+`somebody sheep [?] somebody exist this-this +oh and`
+
+**4**  good, over the sheep, joy; in turn, over the ninety and nine sheep.
+`good on-+sheep joy ~a) on-nine-ten and nine +sheep`
+
+**5**  And then the Lord Jesus: then one woman, the head,
+`+and_then Lord-Jézus then-exist one woman ~head-chapter`
+
+**6**  and she had ten drachmas; and then of these ten she loseth one.
+`and exist have ten drachma and then-exist this ten ?loseth_one`
+
+**7**  Eve; and there is light, Eve, the son of Mary,
+`Eve and exist light Eve Mary-son`
+
+**8**  born, crucified, the lamp; and then Eve findeth
+`be_born-+crucified lamp and then-exist find Eve`
+
+**9**  this drachma, the kingdom of heaven; and there is good,
+`this drachma +heaven land and exist good`
+
+**10**  over heaven, the kingdom, joy, Eve; over the Lord Christ's dying,
+`on-+heaven land joy Eve on-die-Lord-Christ`
+
+> Luke 15:6, "rejoice with me; for I have found my sheep which was lost",
+> then Luke 15:8, the woman with ten pieces of silver who lights a candle
+> and sweeps the house. *Found*, *neighbours* and the exclamation *oh* are
+> all Király & Tokai's, each cited by them at exactly these lines. The
+> woman is read as Eve and the candle as Christ born and crucified, which
+> is the standard allegory of that parable.
+
+## 120r — the ninety-nine, and the nine orders of angels
+
+**1**  Eve's joy; in turn, over the feeding, the nine drachmas, the law. The end
+`Eve joy a) on-food nine drachma +law end`
+
+**2**  of this holy gospel. Then the Lord […], the Lord Jesus […], the sufferer.
+`this holy-gospel then-exist-Lord [?] Lord-Jézus [?] sufferer`
+
+**3**  The gospel: said the Lord Jesus to his apostles and the Jewish people, this Lord:
+`gospel say Lord-Jézus apostle <of>-Lord and Jew(ish) people this-Lord`
+
+**4**  one Lord, this sheep; because to the Lord, this Lord […]
+`one Lord this +sheep because to-Lord this-Lord [?]`
+
+**5**  the Lord, the nine orders of angels within the kingdom of heaven.
+`Lord nine order angel inside +heaven land`
+
+**6**  And then the Lord Jesus, then the Lord bowed down, from the Father God,
+`+and_then Lord-Jézus then-exist-Lord bow_down from-father-<divine>`
+
+**7**  heaven, into the kingdom of heaven, upon many angels,
+`heaven on-heaven land on-many angel`
+
+**8**  upon the angel whose name is the hidden angel, and the second
+`on angel +name exist hide_oneself-angel and two`
+
+**9**  angel, and the hidden angel, as he was; and forty thousand years
+`angel and hide_oneself-angel ?as-~exist-exist and ten-ten-ten-ten-year`
+
+> The ninety-nine sheep left in the wilderness are read as the nine orders
+> of angels, the one lost sheep as mankind: the standard exposition of Luke
+> 15:4, and the reason the codex keeps the number nine through both
+> parables. Lines 8-9 turn to the fall of Lucifer, the hidden angel, which
+> is the sign this project read as "hide oneself" and matched to Lucifer.
