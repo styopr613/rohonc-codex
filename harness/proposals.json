@@ -2819,5 +2819,173 @@
   "tier": "B",
   "n": 1,
   "evidence": "their noun evil entry (0605201c4) ends 'cp. 5200601c4520060003', pointing at their 5202c0 (4). The gloss is evil, but by a cross-reference rather than a citation"
+ },
+ "540361520060": {
+  "gloss": "Nazareth",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Nazareth entry lists this spelling at 049v06"
+ },
+ "540361540060": {
+  "gloss": "Nazareth",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Nazareth entry lists this spelling at 050v07"
+ },
+ "540361540ae0": {
+  "gloss": "Nazareth",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Nazareth entry lists this spelling at 050v05"
+ },
+ "5403603b0ae0": {
+  "gloss": "Nazareth",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Nazareth entry lists this spelling at 046v06"
+ },
+ "5403623b0ae0": {
+  "gloss": "Nazareth",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Nazareth entry lists this spelling at 047r02"
+ },
+ "5403633b0ae0": {
+  "gloss": "Nazareth",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Nazareth entry lists this spelling at 046r12"
+ },
+ "7b4362520151343": {
+  "gloss": "Nazareth",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their Nazareth entry ends '?? 7b4362520151343 034v04'. Two question marks of theirs"
+ },
+ "690ae0990950": {
+  "gloss": "spiritually",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their [human] spirit entry gives 'II. 690ae0990950 207r06, 208r07 spiritual(ly) [poor]', which is Matthew 5:3, the poor in spirit"
+ },
+ "7e169cae0520ae08c8": {
+  "gloss": "Galilee",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Galilee entry lists 7e169cae0520ae08c8 at 053r10"
+ },
+ "7e1520ae069ca10ae00a2": {
+  "gloss": "Galilee",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Galilee entry lists 7e1520ae069ca10ae00a2 at 055v07"
+ },
+ "540b7bae0520": {
+  "gloss": "clothes",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their clothes entry (520b7a (2)) lists 540b7bae0520 at 202r05 and 08"
+ },
+ "5405201c5330": {
+  "gloss": "Kidron",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Cedron (Kidron) entry lists 5405201c5330 at 037r09"
+ },
+ "060520ab0": {
+  "gloss": "gate",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their gate entry lists 060520ab0 at 038r10, where the sense is to close somebody somewhere"
+ },
+ "5204145203f0": {
+  "gloss": "if",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their conjunction '? if' entry lists 5204145203f0 at 043v01"
+ },
+ "0609a3520": {
+  "gloss": "will",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their will entry lists 0609a3520 at 045v06"
+ },
+ "520520520003": {
+  "gloss": "blood",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their blood entry lists 520520520003 at 047v04"
+ },
+ "520060540003": {
+  "gloss": "not_want",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their want, would like entry (540540) gives 'neg. ? 520060540003 048r02'"
+ },
+ "540ae0060060270520ae0": {
+  "gloss": "sea",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their sea entry lists 540ae0060060270520ae0 at 048r11"
+ },
+ "681ae00a20a2270ae0520": {
+  "gloss": "bread",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their bread entry lists 681ae00a20a2270ae0520 at 048v05"
+ },
+ "540060ae0520060a10ae01f6": {
+  "gloss": "body",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their body entry lists 540060ae0520060a10ae01f6 at 048v09, and glosses 075r07-09 'who eat my body and drink my blood'"
+ },
+ "9698c05207a2": {
+  "gloss": "image",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their shape, form, image entry (5d18c0670130) lists 9698c05207a2 at 057r01"
+ },
+ "a10520347011": {
+  "gloss": "stay",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their stay entry lists a10520347011 at 058r07"
+ },
+ "a10520347010": {
+  "gloss": "stay",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their stay entry lists a10520347010 at 058r12"
+ },
+ "520520009": {
+  "gloss": "rot",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their destroy, demolish entry gives 'c) 520520009 060v08 go sour, rot'"
+ },
+ "ac9670813": {
+  "gloss": "you",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their personal pronoun you entry (aca670813) lists ac9670813 at 060v09"
+ },
+ "7a0520201": {
+  "gloss": "who",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their relative pronoun who entry names this spelling; they do not cite a line for it"
+ },
+ "080540270520": {
+  "gloss": "know",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their know entry (540060520) names this spelling inside the worked example 'my sheep know me and I know my sheep'; no separate line citation"
+ },
+ "540152520270": {
+  "gloss": "sky",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their sky, heaven entry lists 540152520270 at 048v03"
  }
 }
