@@ -1,0 +1,26 @@
+================================================================================================
+DOES TOKEN-TO-TOKEN DEPENDENCE SURVIVE THE LINE BREAK?
+================================================================================================
+Surrogate-corrected mutual information between one token and the next,
+in bits. `matched` is the within-line figure recomputed on a random
+subsample the same size as the across-break set, so the two rest on
+equal evidence. `keep` is across as a percentage of matched.
+
+                               within   matched   across      sd   sigma  keep % n across
+------------------------------------------------------------------------------------------------
+Rohonc (as stored)             1.4222    1.0495   0.2391  0.0142    16.9    22.8     4036
+Rohonc (line reversed)         1.4211    1.0472   0.0346  0.0156     2.2     3.3     4036
+Voynich EVA (words)            0.1754    0.0455   0.0087  0.0046     1.9    19.2     3345
+Voynich v101 (words)           0.1847    0.0557   0.0102  0.0035     2.9    18.3     3353
+Italian prose (words)          0.3538    0.1137   0.0659  0.0081     8.1    57.9     1652
+Latin prose (words)            0.1391    0.0344   0.0117  0.0056     2.1    34.0     1652
+five-component model           0.0877    0.0167   0.0040  0.0031     1.3    24.0     1782
+self-citation (Timm)           0.1755    0.0675   0.0252  0.0065     3.9    37.4     1652
+
+  `sigma` is the across-break value in units of its own surrogate
+  spread. Below about 2 it is not distinguishable from zero.
+
+  The Rohonc is written right to left and the transcription does not
+  document its storage order, so both orientations are shown. Mutual
+  information is symmetric, so `within` is identical either way; only
+  the across-break pair changes, and both readings are reported.

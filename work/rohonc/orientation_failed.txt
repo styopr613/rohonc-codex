@@ -1,0 +1,16 @@
+4250 lines, median length 15 tokens
+complete lines used to build the pools: 2133
+incomplete page-final lines tested:     32
+
+how well each end of an incomplete line fits the matching pool,
+in bits of lift over the token's plain frequency:
+
+  stored-FIRST token vs the stored-first pool   -0.184 bits  (n=32)
+  stored-LAST  token vs the stored-last  pool   +0.335 bits  (n=32)
+
+  control, complete lines held out:  first -0.093   last -0.087
+  (both genuine, so both should be clearly positive and similar)
+
+  VERDICT: the stored LAST token is the genuine one, so the file
+  stores VISUAL order and must be reversed to read it.
+  margin: 0.519 bits

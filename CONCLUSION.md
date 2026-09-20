@@ -38,6 +38,22 @@ the model with no copying at all scored best. Copying preserves the
 start of a word. The manuscript's constraint runs from the end of one
 word to the start of the next. Those are different things.
 
+## The control we were missing
+
+A test pointed at only one book is not a test. So the line-break measurement
+was run on a second uncracked manuscript, the Rohonc Codex, which ought to come
+out the other way. It does, and by a wide margin.
+
+In the Rohonc, one in six six-symbol sequences that straddles a line break also
+appears inside a line somewhere else in the book. In the Voynich, not one does.
+The Rohonc repeats long passages and repeats them at different distances from
+the margin, so text split across a break in one place sits whole inside a line
+in another. That is what a real text laid out by a scribe looks like. The
+Voynich never does it once.
+
+Details in [`ROHONC.md`](ROHONC.md), including a first attempt at the
+orientation question that failed its own control and was thrown away.
+
 ## What is left standing
 
 The simplest process that fits: pick each word from the last letter of

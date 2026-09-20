@@ -1,0 +1,21 @@
+214 pages, 4250 lines
+
+2-gram inventory inside lines: 7327 distinct, 3153 of them repeated
+                            boundary in inventory   shuffled      sd   sigma
+  stored order (as-is)                     84.37%     76.65%    0.50    15.4
+  reversed (visual->reading)                 77.33%     76.66%    0.44     1.5
+
+3-gram inventory inside lines: 18548 distinct, 5274 of them repeated
+                            boundary in inventory   shuffled      sd   sigma
+  stored order (as-is)                     58.68%     43.22%    0.46    33.5
+  reversed (visual->reading)                 46.50%     46.03%    0.55     0.9
+
+4-gram inventory inside lines: 27081 distinct, 5202 of them repeated
+                            boundary in inventory   shuffled      sd   sigma
+  stored order (as-is)                     36.39%     19.87%    0.46    36.2
+  reversed (visual->reading)                 19.68%     20.15%    0.55    -0.9
+
+  The orientation whose boundary sequences the codex also writes
+  inside its lines is the reading order. A large sigma on one side
+  and not the other decides it; two similar values mean the test
+  has no power here and the question stays open.

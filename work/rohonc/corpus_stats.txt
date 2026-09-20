@@ -1,0 +1,2 @@
+214 pages, 4250 lines, 60407 readable tokens, 987 types
+within-line pairs 54068, across-break pairs 4036
