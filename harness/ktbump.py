@@ -76,7 +76,7 @@ def main(argv):
             f'"{L["signs"]} signs are read" in flat\n          and "23.8% to **{L["fpct"]:.1f}%**" in flat', "check signs", changes)
     s = sub(s, r'"\d+\\nfolios are translated" in doc', f'"{L["folios"]}\\nfolios are translated" in doc', "check folios doc", changes)
     s = sub(s, r'check\("translation: the file exists and covers \d+ folios",\n\s+md\.count\("\\n## 0"\) \+ md\.count\("\\n## 1"\) == \d+',
-            f'check("translation: the file exists and covers {L["folios"]} folios",\n          md.count("\\\\n## 0") + md.count("\\\\n## 1") == {L["folios"]}', "check folios file", changes)
+            f'check("translation: the file exists and covers {L["folios"]} folios",\n          md.count("\\n## 0") + md.count("\\n## 1") == {L["folios"]}', "check folios file", changes)
     if not dry:
         open(p, "w", encoding="utf-8").write(s)
     print("changed:", changes if changes else "nothing")

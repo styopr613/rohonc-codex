@@ -2,11 +2,14 @@
 
 This file is the method. Read all of it before touching anything. It was
 written on 2026-09-20 after the method below carried the translation from
-105 folios to 182 and produced 163 readings; every claim in it was paid for.
+105 folios to 182 and produced 163 readings, and then run three more times
+exactly as written, as a test, which took it to 200 folios and 203
+readings. Every claim in it was paid for. The three test batches are the
+last three "Translate" commits; read their diffs to see what a batch is.
 
 ## Standing orders
 
-1. **The target is lines fully read at 98%.** It is at 58.4% today. Nothing
+1. **The target is lines fully read at 98%.** It is at 59.1% today. Nothing
    below stops until the user says stop. Do not end a turn to report a
    batch; report only when you are blocked on something only the user can
    decide. The user has said, more than once, that stopping between batches
@@ -23,21 +26,24 @@ written on 2026-09-20 after the method below carried the translation from
    is the batch. It reads which folios are done from the translation file
    itself, so it is never stale. (The hand-kept set it replaced was 44
    folios behind on the day this was written.)
-4. **Finish every batch with** the three checkers green and a commit:
+4. **Finish every batch with one command,** which carries the live figures
+   into the documents, runs the three checkers on their real exit status,
+   and commits only if all pass:
 
-        python3 gate.py && python3 check_results.py && python3 check_rohonc.py
-        git add -A && git commit -m "Translate 100r-102v: ... 182 -> 188 folios"
+        ./ktcommit.sh "Translate 108r-110v: what the pages are. 200 -> 206 folios; 59.3% lines"
 
-   Never commit on a MISMATCH. It happened once (an insertion anchor missed
-   on a line break), and the fix commit had to name the mistake.
+   Do not commit any other way. Three commits went in with a failing
+   checker because `python3 check_rohonc.py | tail -1 && git commit` reports
+   tail's exit status, not the checker's. Each needed a fix commit that
+   named the mistake.
 
 ## What exists
 
-- `harness/proposals.json` — **the output.** 163 readings: 28 tier A, 52 B,
-  81 C, 2 D, plus two `_withdrawn_` entries kept on the record. Add to it.
+- `harness/proposals.json` — **the output.** 203 readings: 54 tier A, 60 B,
+  85 C, 4 D, plus two `_withdrawn_` entries kept on the record. Add to it.
   Never edit K&T's dictionary in `data/rohonc/kt/`.
-- `work/rohonc/translation/rohonc_translation.md` — the translation, 182 of
-  441 folios. Resume at **100r**. Format per line:
+- `work/rohonc/translation/rohonc_translation.md` — the translation, 200 of
+  441 folios. `ktnext.py` says where to resume. Format per line:
 
         **N**  English
         `gloss as rendered`
@@ -48,7 +54,17 @@ written on 2026-09-20 after the method below carried the translation from
   Regenerate with `python3 kttranslate.py` after any change to
   `proposals.json`. Its output is byte-reproducible; if two runs differ, a
   set is being iterated somewhere and that is a bug.
-- `harness/ktnext.py` — the next batch, one command.
+- `harness/ktnext.py` — the next batch, one command: the next six
+  untranslated folios rendered as the page renders them, the gaps with
+  occurrence counts, the lines that cite a source.
+- `harness/ktlook.py HEX ...` — K&T's own entry for a code and for every
+  defined piece inside it. **`ktlook.py --cite 100r10 ...`** prints every
+  entry of theirs that cites those lines. This is the single most
+  productive check found in the three test batches; see step 3 below.
+- `harness/ktbump.py` — carries the live figures (folios, signs, tier A,
+  lines read) into `ROHONC.md` and `check_rohonc.py` from the saved run.
+  `ktcommit.sh` runs it; you never retype a figure.
+- `harness/ktcommit.sh "message"` — the only way to commit.
 - `harness/ktpage.py FOLIO "phrase"` — a folio as far as it reads, gaps as
   `<<hex>>`, beside every reference passage containing the phrase.
 - `harness/ktcontext.py HEX ...` — every occurrence of a sign, rendered. A
@@ -68,20 +84,35 @@ written on 2026-09-20 after the method below carried the translation from
    right evangelist. So a page is a puzzle with a known picture. Find the
    picture first. `ktpage.py FOLIO "a phrase from the rendering"` searches
    the corpus; `--find` guesses.
-3. **Translate the page whole,** not line by line. If a line makes no sense
+3. **Ask their apparatus before guessing.** Run
+   `ktlook.py --cite` on every line that has a gap. Király & Tokai cite
+   folio:line in every entry, for examples and for each variant spelling,
+   and a gap on a line they cite is usually a word they already read under
+   a spelling the transcription writes differently (one glyph swapped: 520
+   for 670, 540 for 569, 690 for 5d1). In three batches this gave brother,
+   Saint Augustine, sword, lame, resurrect, go not away, Adam, bosom, rent,
+   stayed, shed his blood, found, bound up, the Samaritan: fourteen tier A
+   readings, each checked at every occurrence by their own citation list.
+   When their citation names a line and the only unread word on that line
+   is yours, that word is theirs. Enter it tier A and say so.
+4. **Translate the page whole,** not line by line. If a line makes no sense
    against the passage, the reading of something in it is wrong. The user's
    rule: *where it makes no sense it is either a flag and unique, or more
    likely wrong.* Wrong is the way to bet.
-4. **Fill the gaps from the source.** The hole in the line is whatever the
+5. **Fill the gaps from the source.** The hole in the line is whatever the
    passage has in that slot. Then run `ktcontext.py HEX` and check the fill
    at every other occurrence before it goes in. A fill that fails one clear
    occurrence is not entered at a lower tier; it is not entered.
-5. **Enter the reading** in `proposals.json` with gloss, tier, n, and
+6. **Enter the reading** in `proposals.json` with gloss, tier, n, and
    evidence naming folio:line for each decisive occurrence.
-6. Append the translations under a `## NNNr — title` heading (that heading
+7. Append the translations under a `## NNNr — title` heading (that heading
    is what marks a folio done; `ktcontext.py` reads the file, nothing is
-   kept by hand), bump the folio count in `ROHONC.md` and
-   `check_rohonc.py`, rerun `kttranslate.py`, checkers, commit. Go to 1.
+   kept by hand). Regenerate the saved run, then commit:
+
+        python3 kttranslate.py > ../work/rohonc/kttranslate.txt
+        ./ktcommit.sh "Translate ...: ... N -> M folios; P% lines"
+
+   Go to 1.
 
 ## Tiers, exactly
 
@@ -109,6 +140,10 @@ A single clear contradicting occurrence drops the tier. Do not argue it away.
   read the words it will feed, not just its own occurrences.
 - **A reading inferred from a doubled sign, never checked at occurrences,**
   is a guess with a tier it did not earn. That is what *shall* was.
+- **A name read from one page can be the wrong prophet.** *Enoch* stood for
+  a day; the sign is K&T's Elijah with one glyph swapped, and the Horeb
+  page (133r) said so. When a name sign is yours, look for their spelling
+  of the same name and compare glyph by glyph before anything else.
 - **Theology is a check.** *Abraham signified this Jesus crucified* was
   wrong; the user caught it. Abraham is the Father, Isaac is Christ, and
   the codex said so on the next folio: *as Abraham gave his son, so God the
@@ -129,6 +164,17 @@ A single clear contradicting occurrence drops the tier. Do not argue it away.
 - **Tools drifting off one inventory.** `ktgap.py` and `ktcontext.py` were
   both behind the renderer. If a tool disagrees with the page, fix the
   tool before reading anything off it.
+- **Numerals cut at the wrong stroke.** The renderer read five strokes +
+  thousand as *three* + *two thousand*, because *two thousand* was a known
+  word. Every stroke-numeral compound is now entered whole by K&T's rule
+  (strokes, then a ten/hundred/thousand sign that multiplies them). If a
+  new one appears, enter the whole word, never the piece.
+- **A hand-kept list of done folios drifted 44 folios behind the file.**
+  `ktcontext.DONE` now reads the translation's headings, and the checker
+  tests that they agree. Never keep state by hand that a file already holds.
+- **A commit chain that pipes the checker masks its exit status.** Use
+  `ktcommit.sh`. And a `re.sub` replacement string turns `\n` into a real
+  newline; `ktbump.py` uses a function replacement for that reason.
 - **Statistical gates on this problem are done.** Eighteen were run; the
   last, `ktproof.py`, failed at 1.04x and the diagnostic showed the
   instrument cannot find a passage it is handed. The gate that works is

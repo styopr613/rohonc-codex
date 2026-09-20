@@ -476,7 +476,7 @@ def main():
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
     check("translation: the file exists and covers 200 folios",
-          md.count("\\n## 0") + md.count("\\n## 1") == 200, str(md.count("\n## 0")))
+          md.count("\n## 0") + md.count("\n## 1") == 200, str(md.count("\n## 0")))
     import re as _re
     heads = set(_re.findall(r"^## (\d{3}[rv]) ", md, _re.M))
     try:
