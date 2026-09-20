@@ -9421,3 +9421,216 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Mark 16:17-18, the signs that shall follow, which the book gives sign for
 > sign a second time here; it gave them once already at 042v-043r. Lines 3-6
 > are the Ascension.
+
+## 132v — the end of the reading, and the angel comes to Elijah
+
+**1**  and as the man, from the ass, go ye, apostles, all, from
+`and ~on-how? chapter-somebody from-donkey go-apostle each,_every chapter from`
+
+**2**  healing, apostles, in the Lord's name. The end of this holy gospel.
+`healing-apostle inside <of>-Lord +name end this holy-gospel`
+
+**3**  Then appeared the angel of God
+`time then-exist appear God angel`
+
+**4**  to holy Elijah the prophet. Then
+`holy-+Elijah prophet time then-exist`
+
+## 133r — Elijah's forty days, and the angel at Horeb
+
+**1**  From Adam […] until this […] five hundred
+`from ~Adam +heart-Lord +until this [?] +five_hundred`
+
+**2**  years and thirty-six years. Then appeared the angel
+`year and thirty six-year time appear God`
+
+**3**  of God to holy Elijah the prophet. And then the angel of God:
+`angel holy-+Elijah prophet +and_then God angel`
+
+**4**  Elijah, the Lord God, this is, saith the Lord: it is this year,
+`+Elijah Lord-<divine> +this_is say-Lord exist this-year`
+
+**5**  forty days go, Elijah, afar […]; and from […] by name
+`two-two-ten-year go-+Elijah on-far [?] and [?]-from-+name`
+
+**6**  it is Horeb. And then went Elijah upon this […]
+`exist Horeb and then-exist go +Elijah on-this [?]`
+
+**7**  Horeb; and then Elijah lay down, to
+`+Horeb and then-exist from +Elijah lie to`
+
+**8**  one tree; and a second time said the angel of God: Elijah, take,
+`one tree and two say God angel +Elijah grab`
+
+**9**  and Elijah found, and Elijah did eat, and Elijah was strengthened;
+`find-+Elijah eat-+Elijah exist-+Elijah strengthen`
+
+**10**  and Elijah went […], Elijah, upon this mount Horeb, the love of the Lord God.
+`and go-+Elijah [?] +Elijah on-this mount Horeb love Lord-<divine>`
+
+> 1 Kings 19:4-8: Elijah under the juniper tree, the angel touching him
+> twice, and the forty days' journey to Horeb the mount of God. Király &
+> Tokai gloss Horeb at four lines on these two folios; the fourth spelling
+> on line 7 is theirs too, cited by them at that line. This is the page that
+> proved the sign read Enoch is Elijah.
+
+## 133v — the cake and the cruse, and Elijah taken up
+
+**1**  This is this mount, the love of the Lord God most high, of every creature. And then went Elijah
+`+this_is this mount love Lord-<divine> most_high each,_every create and then-exist go +Elijah`
+
+**2**  upon this mount Horeb, and before he went, in that place […]
+`on-this mount Horeb and before go from on-place [?]`
+
+**3**  lay down holy Elijah the prophet; and Elijah found
+`lie holy-+Elijah prophet exist find-+Elijah`
+
+**4**  one cake, and one cup of water; and
+`one +a_cake and one cup water and`
+
+**5**  he did eat, and drank, and was strengthened, upon this mount […] Elijah.
+`eat and drink and strengthen on-this mount [?] +Elijah`
+
+**6**  And from that year, forty years; and these forty years, then,
+`and from this-year two-two-ten-year and this two-two-ten-year then-exist`
+
+**7**  then he took Elijah, the two, Noah […] […]
+`time grab to-+Elijah-two-?Noah [?] [?]`
+
+**8**  and Elijah and Noah were caught up into heaven on high; and from
+`and +Elijah-?Noah get_raptured heaven high and from`
+
+**9**  Elijah […] is Noah, Elijah, the sword
+`+Elijah [?] exist ~Noah +Elijah +sword`
+
+**10**  shall bear; the evil […] and […] shall leave Noah and Elijah on the earth,
+`carry ~evil [?] and [?] leave-to-leave Noah +Elijah on-earth`
+
+> 1 Kings 19:6, "there was a cake baken on the coals, and a cruse of water
+> at his head", where *a cake* is Király & Tokai's own sign for that kind of
+> bread, cited by them at this line, and the cup beside it is theirs. Lines
+> 7-10 are the Gospel of Nicodemus again: the two men kept alive who return
+> at the coming of Antichrist and are slain by the sword. This is the second
+> copy of 101r, and the doubt recorded there stands: the companion is
+> written with their Noah sign, and in every source it is Enoch.
+
+## 134r — Antichrist, and a new reading: the king who took account
+
+**1**  […] […] through birth, the two, the chief evil, the evil one, and
+`[?] [?] through be_born two ~head-evil ~evil and`
+
+**2**  the son of the devil, by name evil; it is | Anti-
+`son hide_oneself-angel +name evil exist | +Anti-`
+
+**3**  christ. Before the gospel, said
+`baptize before gospel say`
+
+**4**  the Lord Jesus, leaving:
+`Lord-Jézus leave-to-leave`
+
+**5**  a king, a man, from the king;
+`king somebody from-+king`
+
+**6**  hear all […] | of
+`hear each,_every [?] | <of>`
+
+**7**  the kingdom. Begins
+`from-+king land begins`
+
+**8**  this holy gospel, written
+`this holy-gospel write`
+
+**9**  by holy Matthew, in the […] chapter of his writing. Then said the Lord Jesus
+`holy-Matthew inside [?] chapter <of>-write time say Lord-Jézus`
+
+**10**  to his apostles and the Jewish people: there is, among the Lord God, the day of judgment,
+`apostle <of>-Lord and Jew(ish) people exist among Lord-<divine> judge-+day`
+
+**11**  one king; all […] heavenly, the Lord, the man, before
+`one king each,_every [?] heavenly Lord somebody before`
+
+**12**  the Lord God the king; and then he had one heavenly
+`Lord-<divine>-king and then-exist have one heavenly`
+
+> Antichrist on lines 2-3 is Király & Tokai's own compound, written across
+> the line break, and its second half is the same sign the book reads as
+> baptize. The chapter numeral on line 9 does not read: it is nine signs,
+> four of their 080 then a sign that occurs nowhere else in the book then
+> four more 080. The passage is the Unmerciful Servant, Matthew 18:23. If
+> the outer groups are fours and the middle sign is ten, it says eighteen
+> and the citation is right, but that is a guess and the numeral is recorded
+> as unresolved. It is the only chapter citation so far that is not written
+> in the book's ordinary numerals.
+
+## 134v — ten thousand talents, and the servant sold
+
+**1**  a servant; and the lord's servant owed ten thousand talents;
+`somebody-servant and Lord servant exist indebted +ten_thousand talent`
+
+**2**  and there went this Lord God the king, this heavenly servant; and
+`and go this Lord-<divine>-king this heavenly servant and`
+
+**3**  then the servant, the angel, went before this | Lord God
+`then-exist somebody-servant-angel go-angel before this | Lord-<divine>`
+
+**4**  the king, before the Lord Christ; and the servant began
+`king before Lord Christ and somebody-servant begin`
+
+**5**  to believe, this […] whosoever, the king, of the Lord | […]
+`+believe this [?]-?whosoever-+king <of>-Lord | [?]`
+
+**6**  to do good. And then the Lord God the king, | the law, love, mercy,
+`good-do, and then-exist Lord-<divine>-king | +law-love-have_mercy`
+
+**7**  righteousness, good deeds […] took. And then
+`righteous(ly)-good-do, [?] grab +and_then`
+
+**8**  this Lord God the king sold the servant, the angel, to be lost, | of
+`this Lord-<divine>-king +sold angel-somebody +to_be_lost | <of>`
+
+**9**  the man, his son, the sin; and the people, to the holy; and the man knelt down,
+`somebody ~son +sin and ?people ~rich-to and kneel_(down)-somebody`
+
+**10**  this man, this heavenly servant, before this | Lord God
+`this somebody this heavenly servant before this | Lord-<divine>`
+
+> Matthew 18:23-26. *Ten thousand* is their ten and their thousand joined,
+> standing directly before their own talent sign, which they gloss with the
+> verse. *Sold* and *to be lost* are both theirs, cited at line 8, which is
+> "his lord commanded him to be sold".
+
+## 135v — the fellowservant cast into prison
+
+**1**  of the debt; and rather love he took; in turn he knelt down, the man of God,
+`<of>-indebted and rather-love grab a) kneel_(down) God-somebody`
+
+**2**  before this heavenly servant; and the servant
+`before this heavenly servant and somebody-servant`
+
+**3**  began, as before […] […] to have the law, | to
+`begin ?as-before [?] [?] have +law | to`
+
+**4**  the man of God; the man of God would, this man, the heavenly servant,
+`God-somebody want-God-somebody this somebody heavenly servant`
+
+**5**  […] forgive the debt; and the man of God […]
+`[?] remit indebted and God-somebody [?]`
+
+**6**  in turn the man of God took him into prison; and the man of God,
+`a) God-somebody grab inside jail and God-somebody`
+
+**7**  until, from […] he bowed the head upon the scaffold; and
+`until-from +bowed head inside scaffold and`
+
+**8**  this saw, sadly, the second servant; this Lord God the king, the angel, had mercy,
+`see this sad(ly) two servant this Lord-<divine>-king angel have_mercy`
+
+**9**  the one only Lord God; and the angel went, sorrowing, the angel, this
+`one only_one Lord-<divine> and go-angel sad(ly)-angel-this`
+
+**10**  this Lord God the king; and the Lord God the king said to the angel
+`this Lord-<divine>-king and Lord-<divine>-king say angel`
+
+> Matthew 18:28-32, the fellowservant who owed a hundred pence, cast into
+> prison, and the other servants who told their lord. Király & Tokai's
+> scaffold sign stands on line 7 and their bow-down at the word before it.

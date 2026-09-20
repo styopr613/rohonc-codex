@@ -1613,5 +1613,47 @@
   "tier": "A",
   "n": 2,
   "evidence": "K&T's rise/stand-up (4f1ae0) lists a spelling cited at 029v06, 035r03 and 131r10; this piece stands at 131r:10 inside 6304f1060 and twice on its own. Its blast radius is one other word, checked before entering"
+ },
+ "0b00604f00b0": {
+  "gloss": "Horeb",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's Horeb (0604f00b0) is cited by them at 133r06, 133r10, 133v02 and 133r07; 133r:7 is this word's only line, on the page that tells Elijah at Horeb. It was this page that proved the sign read Enoch is Elijah"
+ },
+ "520962a14": {
+  "gloss": "a cake",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's '<a kind of bread>, cake' (520822a10ac1) is cited by them at 030v04, 095r11, 188r08 and 133v04, this word's only line, where their cup sign stands two words later: 'there was a cake baken on the coals, and a cruse of water at his head' = 1 Kings 19:6, the angel feeding Elijah at Horeb"
+ },
+ "a108f05207a0": {
+  "gloss": "sold",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's vend/sell (a108f05207a0ae0) is cited by them at 134v08, this word's only line: 'his lord commanded him to be [sold]' = Matthew 18:25, the Unmerciful Servant"
+ },
+ "630320": {
+  "gloss": "to be lost",
+  "tier": "B",
+  "n": 1,
+  "evidence": "K&T's be-damned/perish/lost (520320) lists a spelling they cite at 134v08, this word's only line, where their sell sign is the other unread word and matches their own sell code. 'the lord and king [sold] the servant [to be lost]' 134v:8 = Matthew 18:25. Which of their two senses is wanted here is not decidable, so B"
+ },
+ "812802520ae0": {
+  "gloss": "Anti-",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's Antichrist (812802520ae0060060131520060131) is cited by them at 101r09 and 134r02-03: at 101r:9 it is one word, already read, and at 134r it is written across the line break, this piece ending 134r:2 and the second half beginning 134r:3"
+ },
+ "4609909909909f2": {
+  "gloss": "ten thousand",
+  "tier": "A",
+  "n": 1,
+  "evidence": "composition: K&T's ten (460) then their thousand stem 990990990 with a different terminator. It stands directly before their talent sign, which they gloss 'cp. Mt 18,24', at 134v:1: 'one which owed him [ten thousand] talents' = Matthew 18:24"
+ },
+ "630a24": {
+  "gloss": "bowed",
+  "tier": "B",
+  "n": 1,
+  "evidence": "K&T's bow-down (a10645) lists a spelling cited at 135v07, this word's only line, where their scaffold sign stands three words later: 'he [bowed] the head upon the scaffold' 135v:7"
  }
 }

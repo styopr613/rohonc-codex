@@ -3376,7 +3376,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  +Elijah Lord-<suffix_of_divine_name> +this_is say-Lord exist this-year
  5  two-two-ten-year go-+Elijah on-far [?] and [?]-from-+name
  6  exist Horeb and then-exist go +Elijah on-this [?]
- 7  [?] and then-exist from +Elijah lie | to
+ 7  +Horeb and then-exist from +Elijah lie | to
  8  one tree and two say God angel +Elijah grab
  9  find-+Elijah eat-+Elijah exist-+Elijah strengthen
 10  and go-+Elijah [?] +Elijah on-this mount Horeb love Lord-<suffix_of_divine_name>
@@ -3386,7 +3386,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  +this_is this mount love Lord-<suffix_of_divine_name> most_high each,_every create and then-exist go +Elijah
  2  on-this mount Horeb and before go from on-place [?]
  3  lie holy-+Elijah prophet exist find-+Elijah
- 4  one [?] and one cup water and
+ 4  one +a_cake and one cup water and
  5  eat and drink and strengthen on-this mount [?] +Elijah
  6  and from this-year two-two-ten-year and this two-two-ten-year then-exist
  7  time grab to-+Elijah-two-?Noah [?] [?]
@@ -3397,7 +3397,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 134r ===
  1  [?] [?] through be_born two ~head-evil ~evil and
- 2  son hide_oneself-angel +name evil exist | [?]
+ 2  son hide_oneself-angel +name evil exist | +Anti-
  3  baptize before gospel say
  4  Lord-Jézus leave-to-leave
  5  king somebody from-+king
@@ -3411,14 +3411,14 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 134v ===
- 1  somebody-servant and Lord servant exist indebted [?] talent
+ 1  somebody-servant and Lord servant exist indebted +ten_thousand talent
  2  and go this Lord-<suffix_of_divine_name>-king this heavenly servant and
  3  then-exist somebody-servant-angel go-angel before this | Lord-<suffix_of_divine_name>
  4  king before Lord Christ and somebody-servant begin
  5  +believe this [?]-?whosoever-+king <preposition_of_genitive>-Lord | [?]
  6  good-do, and then-exist Lord-<suffix_of_divine_name>-king | +law-love-have_mercy
  7  righteous(ly)-good-do, [?] grab +and_then
- 8  this Lord-<suffix_of_divine_name>-king [?] angel-somebody [?] | <preposition_of_genitive>
+ 8  this Lord-<suffix_of_divine_name>-king +sold angel-somebody +to_be_lost | <preposition_of_genitive>
  9  somebody ~son +sin and ?people ~rich-to and kneel_(down)-somebody
 10  this somebody this heavenly servant before this | Lord-<suffix_of_divine_name>
 
@@ -3443,7 +3443,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  God-somebody want-God-somebody this somebody heavenly servant
  5  [?] remit indebted and God-somebody [?]
  6  a) God-somebody grab inside jail and God-somebody
- 7  until-from [?] head inside scaffold and
+ 7  until-from +bowed head inside scaffold and
  8  see this sad(ly) two servant this Lord-<suffix_of_divine_name>-king angel have_mercy
  9  one only_one Lord-<suffix_of_divine_name> and go-angel sad(ly)-angel-this
 10  this Lord-<suffix_of_divine_name>-king and Lord-<suffix_of_divine_name>-king say angel
@@ -3466,7 +3466,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  want-God-somebody this heavenly servant [?]
  2  remit indebted and God somebody [?]
  3  a) God-somebody grab inside jail and God-somebody
- 4  to-house-from [?] ~head-chapter inside scaffold
+ 4  to-house-from +bowed ~head-chapter inside scaffold
  5  get_angry this king Lord Christ and go on-this
  6  heavenly servant and +servant go die angel before
  7  this king before Lord Christ one only_one
@@ -3476,7 +3476,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 137r ===
- 1  [?] talent in_turn this-somebody from God-somebody [?]
+ 1  +ten_thousand talent in_turn this-somebody from God-somebody [?]
  2  have_mercy ?hundred denarius ~and somebody grab this
  3  king Lord Christ and then-exist grab <preposition_of_genitive>-Lord-king
  4  evil [?] hell evil +and_then this king
@@ -3984,7 +3984,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  inside [?] [?] <preposition_of_genitive>-daughter-Lord-Jézus-Christ-believe | from
  6  father-<suffix_of_divine_name> because from-father-<suffix_of_divine_name> <preposition_of_genitive>-daughter-Lord-Jézus-Christ wealth
  7  have remit [?] [?] [?] in_turn | then
- 8  exist this-from-?world-from-+king exist each,_every <preposition_of_genitive>-[?] ~rich | [?]
+ 8  exist this-from-?world-from-+king exist each,_every <preposition_of_genitive>-[?] ~rich | +sold
  9  from-[?] ?therefore exist to-[?] ?how_shall_we | from
 
 
@@ -4763,7 +4763,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  +the_Lord exist go-Lord on-suffer inside Jerusalem then-exist-Lord inside thirty
  5  half +three_days inside Monday +the_Lord many miracle preach-Lord in_turn
  6  Tuesday +the_Lord +Lazarus on-burial_chamber stand_up resurrect-Lord in_turn [?]
- 7  [?] exist Judas [?] to-thirty silver
+ 7  [?] exist Judas +sold to-thirty silver
  8  in_turn wound dinner-to do,-Lord and capture-Lord in_turn
  9  Friday +cross-[?] and [?] +bound_up in_turn inside Saturday hell
 
