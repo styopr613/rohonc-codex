@@ -87,6 +87,39 @@ starting.
 - Signs that occur once are done last, from the fully-read lines around
   them, and stay tier C.
 
+## Would finding the real source text help? Measured: barely
+
+The obvious idea is to find the book the codex paraphrases and use it as
+known plaintext. It was tested rather than assumed, by measuring recovery of
+a hidden word on lines where the source passage is demonstrably present in
+the corpus:
+
+    the two near-verbatim parables, 135r and 119r    18.4%   5.2x control
+    the gospel-close Passion folios, 029v-035v        7.6%   1.8x
+    the Improperia and Longinus                       7.4%   2.1x
+    the apocryphal opening, 004v-003v                 8.8%   1.8x
+
+18.4% is the ceiling, and it is measured on the two pages where the source is
+sitting right there and the wording is almost verbatim. Even with the correct
+passage in hand, four hidden words in five are not recovered. The codex
+paraphrases in a language that is not English, and Kiraly and Tokai's glosses
+are English renderings, so stem matching loses most of it no matter how good
+the source is.
+
+So source research is not a way to read words in bulk. What it IS good for is
+making a human guess better and faster: knowing exactly what a passage says
+narrows what an unread sign in it can mean. Use it that way, as a reading aid
+for a specific hard page, not as a substitute for the loop.
+
+The content points at a late-medieval devotional compilation: the Life of
+Adam and Eve, the Legend of the Rood, the Protevangelium, a Passion from
+Matthew and John, the Improperia, and Longinus from the Golden Legend. The
+closest known families are the Hungarian codices of the 1500s (Erdy,
+Ersekujvari, Winkler, Nador, Debreceni, Weszpremi), Pseudo-Bonaventure's
+Meditationes Vitae Christi, Ludolph of Saxony's Vita Christi, and the Bible
+historiale tradition. Any of those would be a reading aid. None of them will
+be a key.
+
 ## Order of work
 
 1. The 163 multi-occurrence signs on translated pages, commonest first.
@@ -99,6 +132,14 @@ starting.
    corpus; its top lines point at pages worth translating out of order
    (it found the Unmerciful Servant and the Lost Sheep). Use it when page
    order gets slow.
+
+**Where this ends.** Unread is 17.3% of the book. About 7% of the book is
+signs that occur once, which need their surrounding line fully read first and
+stay tier C. The other ~10% occurs three or more times and is reachable by
+the loop, but only once the folio it sits on has been translated -- 163 such
+signs are reachable today and the rest unlock as translation proceeds. So the
+two halves of the work feed each other, and the realistic floor for unread
+text is the hapax share, around 7%.
 
 ## After every change
 
