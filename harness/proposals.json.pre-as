@@ -259,10 +259,10 @@
   "evidence": "'is saved, but [he who believes not] is damned' 019r:5, 019v:4, 026v:12 -- the second half of Mark 16:16"
  },
  "00b520ae0520ae0": {
-  "gloss": "as",
+  "gloss": "apart",
   "tier": "C",
   "n": 11,
-  "evidence": "CORRECTION: read here as apart until 2026-09-20. At 204r:3 and 205r:5 it is the as of forgive us our debts as we forgive our debtors, the Our Father, which apart cannot be"
+  "evidence": "'a third time the Lord went [apart] to God his Father, and knelt' 034r:8; 'the angel said again to Elijah, when [apart]' 004v:13"
  },
  "520ae0520ae0a101f6": {
   "gloss": "shall be called",
@@ -619,10 +619,10 @@
   "evidence": "'that steward [was accused], and then this steward' 169r:4, 169r:8 = Luke 16:1, the same was accused unto him"
  },
  "00b670ae0520ae0": {
-  "gloss": "as",
+  "gloss": "apart",
   "tier": "C",
   "n": 9,
-  "evidence": "CORRECTION: read here as apart until 2026-09-20. It stands beside the scripture three times, 105r:4, 105r:5 and 105v:6, in the frame as the scripture saith, and at 074r:10 as thou hast taught. Apart fits none of those"
+  "evidence": "the same shape as 00b520ae0520ae0 read as apart: 'Peter, Master, how must this Lord teach [apart]' 074r:10"
  },
  "5405404b0": {
   "gloss": "would say",
@@ -827,95 +827,5 @@
   "tier": "B",
   "n": 6,
   "evidence": "thy sins are forgiven thee at 151r:6, and three more forms of it across 151v with give, go and cry built on the front. 3c4 is already read as sin and Kiraly & Tokai read the neighbouring 370 as mercy"
- },
- "00b": {
-  "gloss": "as",
-  "tier": "C",
-  "n": 15,
-  "evidence": "the shared root of the two words above, both now read as. Closes ten further words built on it"
- },
- "4f1": {
-  "gloss": "rise",
-  "tier": "B",
-  "n": 10,
-  "evidence": "the root of 4f1353 and 4f1b03 already read as rise; 4f1060 at 029v:6 is he riseth from supper and laid aside his garments, John 13:4, and 6304f1060 at 131r:10 stands beside the Sadducees and the resurrection"
- },
- "991": {
-  "gloss": "but rather",
-  "tier": "C",
-  "n": 11,
-  "evidence": "the root of 991910 and 991ae0910, both already read as but rather; at 078r:5 it opens rather false witness"
- },
- "630340": {
-  "gloss": "anointed",
-  "tier": "B",
-  "n": 1,
-  "evidence": "the stem of 630340ae0 already read as anointed; at 015r:2 the king is anointed after doing penitence"
- },
- "223574": {
-  "gloss": "Moses",
-  "tier": "B",
-  "n": 1,
-  "evidence": "the stem of 223574ae0 already read as Moses; at 005v:13 it heads a count of years from Abraham onward"
- },
- "670ae0060788060": {
-  "gloss": "the Red Sea",
-  "tier": "B",
-  "n": 1,
-  "evidence": "the stem of 670ae0060788060270540 already read as the Red Sea"
- },
- "7b2": {
-  "gloss": "son",
-  "tier": "C",
-  "n": 1,
-  "evidence": "the stem of 7b2670ae0520 already read as sons"
- },
- "5202da": {
-  "gloss": "creature",
-  "tier": "C",
-  "n": 4,
-  "evidence": "the stem of 5202da2da already read as creatures, the doubled form being the plural"
- },
- "531": {
-  "gloss": "therefore",
-  "tier": "C",
-  "n": 2,
-  "evidence": "the stem of 531ae0, read as therefore across all 54 of its occurrences"
- },
- "4a0": {
-  "gloss": "and then",
-  "tier": "C",
-  "n": 1,
-  "evidence": "a piece of 4a04a04a4 and 4a24a04a4, both already read as and then"
- },
- "4a2": {
-  "gloss": "and then",
-  "tier": "C",
-  "n": 1,
-  "evidence": "a piece of 4a24a04a4 already read as and then"
- },
- "5400605203f0": {
-  "gloss": "scourged",
-  "tier": "C",
-  "n": 2,
-  "evidence": "at 046r:5 it follows Barabbas and beat, and at 037r:6 it follows beat again, which is Matthew 27:26, when he had scourged Jesus he delivered him"
- },
- "64260d": {
-  "gloss": "cherub",
-  "tier": "D",
-  "n": 2,
-  "evidence": "read from its line alone: at 007v:1 it stands between the gate and Paradise, and the lines just before it name the fire and the sword, which is Genesis 3:24. Nothing else in the book checks it"
- },
- "520060007": {
-  "gloss": "part",
-  "tier": "D",
-  "n": 1,
-  "evidence": "read from its line alone: at 016v:1 Anne divides all their wealth into three of them, and the next line takes one of them, which is Joachim and Anne dividing their goods in the Protevangelium"
- },
- "270791": {
-  "gloss": "queen",
-  "tier": "B",
-  "n": 10,
-  "evidence": "folio 145r opens and closes with the same refrain, queen of heaven and earth, Lady Virgin Mary, and the phrase repeats at 145v:4, 146r:2, 146v:2 and 147r:3 through the Assumption. 270 is already read as lord"
  }
 }
