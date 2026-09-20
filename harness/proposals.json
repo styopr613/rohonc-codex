@@ -455,5 +455,119 @@
   "tier": "C",
   "n": 8,
   "evidence": "'ask this of the Lord: whose son [is he]?' 067r:1 = Matthew 22:42"
+ },
+ "540ae0520250": {
+  "gloss": "emperor",
+  "tier": "B",
+  "n": 21,
+  "evidence": "names two emperors in its own sentences: '[the emperor] was Heraclius' 183r:8; '[the emperor] Khosrow, who sits' 184r:9; 'so Rome, [the emperor], when he had two' 183v:1; 'before the king, before [the emperor]' 129v:4"
+ },
+ "670690360": {
+  "gloss": "Enoch",
+  "tier": "B",
+  "n": 20,
+  "evidence": "'[Enoch] was taken up into heaven' 101r:5 = Genesis 5:24; stands beside Noah at 101r:6 and 101r:7, beside Moses and a prophet at 215v:8, and beside the scribes and books at 100r:10, which is where Enoch belongs in this literature"
+ },
+ "a79": {
+  "gloss": "answered",
+  "tier": "B",
+  "n": 22,
+  "evidence": "'said Nicodemus, [he answered]: how can this be?' 091r:8 = John 3:9; 'and then Saint Thomas [answered]' 130v:1 = John 14:5; 'and then Saint Philip [answered]' 130v:3 = John 14:8"
+ },
+ "520060131": {
+  "gloss": "the Baptist",
+  "tier": "B",
+  "n": 46,
+  "evidence": "stands immediately after Saint John six times in one block: 116v:8, 117r:5, 117v:1, 117v:7, 118r:4; and it is the second half of the compound read as baptize at 024r:7"
+ },
+ "574a10ae0": {
+  "gloss": "Lady",
+  "tier": "C",
+  "n": 27,
+  "evidence": "an epithet repeated through a Marian litany: 'giver of heaven and earth, [Lady] Virgin Mary' 144v:7, 145r:1, 145r:9, 145v:2; 'pray, [Lady], this Mary' 145v:3"
+ },
+ "5694b0": {
+  "gloss": "he said",
+  "tier": "C",
+  "n": 7,
+  "evidence": "K&T's 'this' plus the speech root read above: '[he said], Pilate went' 039v:3"
+ },
+ "630084": {
+  "gloss": "into the world",
+  "tier": "C",
+  "n": 8,
+  "evidence": "630 prefixed to 084 read as world: 'they crucified this Jesus, and the Lord [into the world] went' 060r:10"
+ },
+ "4a6910": {
+  "gloss": "more than these",
+  "tier": "C",
+  "n": 8,
+  "evidence": "'lovest thou the Lord Jesus Christ [more than these]? said the Lord Jesus Christ to Peter' 077v:1 = John 21:15"
+ },
+ "080670ae0670ae01f6": {
+  "gloss": "name",
+  "tier": "B",
+  "n": 24,
+  "evidence": "K&T's 'who' plus a stem: 'the angel whose [name] was Lucifer' 120r:8; 'in his [name] all you shall be saved' 066v:8"
+ },
+ "080670ae0a10ae01f6": {
+  "gloss": "name",
+  "tier": "B",
+  "n": 19,
+  "evidence": "the same word with the other terminator: 'in Jesus's [name] spoke Saint Paul' 070v:7; 068r:8, 071r:1, 071r:6"
+ },
+ "7b2670ae0520": {
+  "gloss": "sons",
+  "tier": "C",
+  "n": 18,
+  "evidence": "'there was a king, and when he had two [sons]' 064r:3 = Matthew 21:28 or Luke 15:11"
+ },
+ "9107c1": {
+  "gloss": "with all thy heart",
+  "tier": "C",
+  "n": 18,
+  "evidence": "'the Lord: love the Lord God [with all thy heart]' 075v:6 = Deuteronomy 6:5"
+ },
+ "520b52": {
+  "gloss": "from town to town",
+  "tier": "C",
+  "n": 14,
+  "evidence": "'town [from town to town], and his disciples went into the world' 102r:7"
+ },
+ "520060060060131": {
+  "gloss": "baptism",
+  "tier": "C",
+  "n": 33,
+  "evidence": "520 plus three strokes plus the same 131 that ends the sign read as 'the Baptist': '[baptism], the Baptist, the head' 141v:5"
+ },
+ "5ee060": {
+  "gloss": "the last",
+  "tier": "C",
+  "n": 13,
+  "evidence": "always before 'chapter of his book': 'in [the last] chapter of his book' 055r:1, 057v:10, 069r:9 -- and 055r is Mark 16, which is the last chapter of Mark"
+ },
+ "152222574": {
+  "gloss": "the scripture",
+  "tier": "C",
+  "n": 9,
+  "evidence": "paired with book throughout: '[the scripture] book: love the Lord God with all thy heart' 105r:8; 'we must keep, he who, [the scripture]' 109r:5, 109r:7, 109r:9"
+ },
+ "926": {
+  "gloss": "ways",
+  "tier": "C",
+  "n": 9,
+  "evidence": "counted: 'in one [way], in the Word, the book of Saint Luke' 165v:8; 'the thief, in two [ways]' 166r:2; 'in four [ways]' 166v:1 -- the medieval senses of scripture"
+ },
+ "5200606e3": {
+  "gloss": "condemned",
+  "tier": "C",
+  "n": 15,
+  "evidence": "only around Pilate and Herod judging: 'the Jews [condemned] the Lord; Pilate: the cross' 041r:6; 'Herod [condemned]' 041v:7, 041v:8, 043v:1"
+ },
+ "540": {
+  "gloss": "shall",
+  "tier": "C",
+  "n": 102,
+  "evidence": "Kiraly & Tokai gloss the doubled sign E540 E540 'want, will, auxiliary of future tense'. The single sign is not an entry but prefixes 48 word types the dictionary leaves undefined, in the position a future auxiliary takes. Read as a piece, not as a word: every host it unlocks is that host plus 'shall'"
  }
 }
