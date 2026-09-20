@@ -1762,7 +1762,7 @@
   "gloss": "high",
   "tier": "A",
   "n": 3,
-  "evidence": "K&T's entry 152 (1) 'high, tall; the Most High' lists the expression 060060443520 + 0b0 at 142r05 among its spellings of 'the high heavens'. 142r:5 'Christ into the high heavens'; the other two take the same word above: 165v:5 'therefore love the Lord God above', 208r:7 'love the Lord God above all creatures'"
+  "evidence": "K&T's entry 152 (1) 'high, tall; the Most High' lists the expression 060060443520 + 0b0 at 142r05 among its spellings of 'the high heavens'. 142r:5 'Christ into the high heavens'; the other two take the same word above: 165v:5 'therefore love the Lord God above', 208r:7 'love the Lord God above all creatures'. Confirmed a second way 2026-09-20: K&T's entry a100a3 'most high [God]' carries a variant cited at 208r07 and ? 165v05, two of this sign's three lines"
  },
  "ae0670ae0b20": {
   "gloss": "sister",
@@ -1901,5 +1901,29 @@
   "tier": "C",
   "n": 1,
   "evidence": "K&T's entry for bless (520461) lists 670ae0701 at 190v09, 192v02, 09; this is that spelling with the 670/520 swap they attest all through the book. 213r:1 is John 6:11, 'he took the loaves, and when he had given thanks' (Mt 14:19 'he blessed'), and the line reads 'these two fishes [bless] the Lord Jesus'. They do not cite this line, so nothing but the verse checks it. Downgraded B to C 2026-09-20: ktswap.py measured the 520/670 swap and it preserves the reading in only 17 of 92 pairs of signs that are both read. The verse is the whole of the evidence here"
+ },
+ "a102c0": {
+  "gloss": "from",
+  "tier": "C",
+  "n": 18,
+  "evidence": "K&T's entry for the preposition from (a10 (1)) lists a105202c0 as a spelling at 223v08, 10 and 12; this sign is that spelling with one glyph dropped, and it stands twice on the same folio, at 223v:1 and 223v:5. Where the line reads, from fits and fits well: 194v:8 'Jesus Christ [from] the beginning of the world, [from] the creation of Adam' carries it twice; 222v:6 '[from] the beginning of the year'; 173v:2 '[from] lodging to lodging', which is the idiom K&T gloss as 'from town to town'. Against that, three occurrences are line-initial and awkward under any preposition (009r:8, 200r:8, 214r:6), so this does NOT survive every occurrence and is graded C, not A. It is the single largest hole in the book: 18 tokens and the only unread word on 12 lines. ktswap.py shows the 2c0/2c1 swap agreeing in 0 of 2 read pairs, so the near-spelling is not carrying this; the citation and the context are"
+ },
+ "540ae0540060540ae0": {
+  "gloss": "earth",
+  "tier": "B",
+  "n": 7,
+  "evidence": "one glyph from K&T's earth (540060540060540ae0) and three glyphs of K&T's Adam. What decides it is the collocation: it stands immediately before their 'quake' three times, at 221v:4, 223r:1 and 223r:3, in the calendar and prognostic section that talks about Fridays, Sundays, the moon and earthquakes. 'earth quake' is what those lines say. The other four occurrences take earth without strain. No K&T citation, so B"
+ },
+ "271670ae0271670ae0": {
+  "gloss": "an_army",
+  "tier": "B",
+  "n": 8,
+  "evidence": "the fully reduplicated spelling of 271670ae0271520ae0, this project's 'an army'. All eight occurrences take it: 045v:9 'six and six [legions] of angels' (Mt 26:53, twelve legions, the twelve written six and six across the margin break); 187v:2 'Pharaoh's army, and then the king went'; 219v:4 'Saul upon this town, with many [men of war]'; 163v:5-6 an army let go and standing among the gates. Not cited by K&T"
+ },
+ "670ae0520250": {
+  "gloss": "emperor",
+  "tier": "B",
+  "n": 5,
+  "evidence": "one glyph from three spellings of emperor already read (520ae0520250 and 540ae0520250 emperor, 681ae0520250 inscription-of-the-emperor). 019v:10 is Luke 2:1 word for word, 'there went out a decree from the emperor that all the world should be [taxed]'; 203r-203v is the tribute money, where K&T's own gloss at 203v03 and 203v05 is 'this is the inscription of the emperor'. All five occurrences take it. Not cited by K&T at these lines, so B"
  }
 }

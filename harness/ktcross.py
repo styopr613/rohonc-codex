@@ -204,6 +204,12 @@ def main(argv):
     if "--taken" in argv:
         idx = taken_index(gl, prop)
         for w in argv[argv.index("--taken") + 1:]:
+            # A stop word is not indexed, so it would report "free" and mean
+            # the opposite: from, before, have, be and the rest are function
+            # words that every sign inventory already carries. Say so.
+            if w.lower() in STOP or stem(w) in {stem(x) for x in STOP}:
+                print(f"  STOP   {w:16s} function word, not indexed -- these are all read already")
+                continue
             hits = idx.get(stem(w), [])
             if hits:
                 who = "; ".join(f"{s} {g!r}" for s, g in hits[:4])
