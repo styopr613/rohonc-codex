@@ -1051,43 +1051,6 @@ for a community whose speech had no written form, that is a use rather than a
 disguise. This is an argument from the structure, not a gated result, and it
 is offered as such.
 
-## The source tradition is the Vulgate, and it changes the candidate lists
-
-Recorded 2026-09-20. Candidate words for an unread sign were being drawn
-from the King James Bible, which is the wrong English for this book. The
-codex is a Catholic devotional compilation of the late Middle Ages and its
-scripture is the Vulgate; the right English witness to that is the
-Douay-Rheims, which translates the Vulgate directly.
-
-The difference is not cosmetic. Over the 181 folios whose notes cite a
-chapter and verse, the King James supplies 1,960 candidate words that no
-sign yet carries, and 652 of them — a third — are wording the Douay does not
-use at all. Two readings made here had already gone in on such words and
-both have been corrected in place:
-
-    Matthew 5:20   King James "your righteousness shall exceed"
-                   Vulgate    "nisi abundaverit iustitia vestra"
-                   Douay      "unless your justice abound"
-                   The codex already reads *righteous* in that line, so the
-                   missing word is the verb. Entered as *exceed*; now *abound*.
-
-    Genesis 2:7    King James "formed man of the dust of the ground"
-                   Vulgate    "hominem de limo terrae"
-                   Douay      "formed man of the slime of the earth"
-                   Entered as *dust*; now *slime*. Dust belongs to Genesis
-                   3:19, where the Vulgate has a different word, *pulvis*.
-
-The case that settles it was already on the page before the change was made.
-Mark 16:14 in the King James has the eleven sitting *at meat*; in the Douay
-they are *at table*. This project had read a sign as *at table* from Király
-and Tokai's own citations, and the King James pool was still offering *meat*
-as a candidate for the same passage.
-
-The tool now separates candidates into three classes and reports them in
-that order of trust: free in both translations, free in the Douay only, free
-in the King James only. The last class is kept and marked rather than
-deleted, because a translator's word can still be a true paraphrase.
-
 ## What the book says
 
 With the rendering on the page it became possible to read it, and 296

@@ -574,6 +574,14 @@ def main():
           "eighteenth attempt" in flat and "Twelve of them -- 0.4% -- agree" in flat
           and "0.0% inside the matched run" in flat
           and "it is retelling" in flat and "ktpair.py" in flat)
+    check("ROHONC: the Vulgate/Douay source tradition and the two corrections",
+          "652 of them" in flat and "a third" in flat
+          and "nisi abundaverit iustitia vestra" in flat
+          and "hominem de limo terrae" in flat
+          and "at meat" in flat and "at table" in flat
+          and "1,960 candidate words" in flat
+          and "pulvis" in flat)
+
     check("ROHONC: the Baptist/woman correction is recorded",
           "read here as *the Baptist*" in flat and "141v:6, 10, 11" in flat
           and "she lives on the" in flat

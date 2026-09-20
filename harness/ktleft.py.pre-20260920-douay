@@ -52,8 +52,7 @@ Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah
 Malachi Matthew Mark Luke John Acts Romans 1Corinthians 2Corinthians Galatians
 Ephesians Philippians Colossians 1Thessalonians 2Thessalonians 1Timothy
 2Timothy Titus Philemon Hebrews James 1Peter 2Peter 1John 2John 3John Jude
-Revelation""".split() + ["Tobias", "Judith", "Wisdom", "Ecclesiasticus",
-                          "Baruch", "1Machabees", "2Machabees"]
+Revelation""".split()
 
 # What a citation may call each book. A bare name with no ordinal means the
 # FIRST book of that name, which is what "Kings 19:6" meant in every note
@@ -64,92 +63,11 @@ NAMES = ("Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth Samuel
          "Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah "
          "Malachi Matthew Mark Luke John Acts Romans Corinthians Galatians "
          "Ephesians Philippians Colossians Thessalonians Timothy Titus Philemon "
-         "Hebrews James Peter Jude Revelation Apocalypse Tobias Tobit Judith Wisdom "
-         "Ecclesiasticus Sirach Baruch Machabees Maccabees Josue Isaias Jeremias "
-         "Ezechiel Osee Abdias Jonas Micheas Habacuc Sophonias Aggeus Zacharias "
-         "Malachias Paralipomenon Esdras").split()
-ALIAS = {"Psalm": "Psalms", "Apocalypse": "Revelation", "Canticles": "Song",
-         "Tobit": "Tobias", "Sirach": "Ecclesiasticus", "Maccabees": "Machabees",
-         "Josue": "Joshua", "Isaias": "Isaiah", "Jeremias": "Jeremiah",
-         "Ezechiel": "Ezekiel", "Osee": "Hosea", "Abdias": "Obadiah",
-         "Jonas": "Jonah", "Micheas": "Micah", "Habacuc": "Habakkuk",
-         "Sophonias": "Zephaniah", "Aggeus": "Haggai", "Zacharias": "Zechariah",
-         "Malachias": "Malachi"}
+         "Hebrews James Peter Jude Revelation Apocalypse").split()
+ALIAS = {"Psalm": "Psalms", "Apocalypse": "Revelation", "Canticles": "Song"}
 
 ORD = {"1": "1", "2": "2", "3": "3", "i": "1", "ii": "2", "iii": "3",
        "first": "1", "second": "2", "third": "3"}
-
-# ---- Douay-Rheims, the text tradition the book's author actually had.
-#
-# The codex is a Catholic devotional compilation and its sources are the
-# Vulgate and the legends round it, not a Protestant English Bible. Pooling
-# candidate words off the King James therefore manufactures near-misses: it
-# offers "meat" where the Douay says "table" and the codex already reads
-# *at table*, and it offers "dust" at Genesis 2:7 where the Vulgate has
-# *de limo terrae*, slime. A word that is free in the King James and absent
-# from the Douay is usually a translator's word, not the book's.
-#
-# Douay also carries the deuterocanon -- Tobias, Judith, Wisdom,
-# Ecclesiasticus, Baruch, Machabees -- which a Catholic compilation may well
-# draw on and which the King James file here does not contain at all.
-#
-# CAVEAT, not handled: Douay follows the Septuagint psalm numbering, so from
-# Psalm 10 to 146 its numbers run one behind the King James. Any psalm
-# citation is looked up in whichever text the note's numbering belongs to;
-# this tool does not try to reconcile them, so treat a psalm pool as KJV-only.
-DR = os.path.join(os.path.dirname(HERE), "data", "ref", "rohonc",
-                  "bible_dr_verses.txt")
-
-# canonical key -> the name Douay prints in its chapter headings
-DRNAME = {
-    "Joshua": "Josue", "1Samuel": "1 Kings", "2Samuel": "2 Kings",
-    "1Kings": "3 Kings", "2Kings": "4 Kings",
-    "1Chronicles": "1 Paralipomenon", "2Chronicles": "2 Paralipomenon",
-    "Ezra": "1 Esdras", "Nehemiah": "2 Esdras",
-    "Song": "Canticle of Canticles", "Isaiah": "Isaias", "Jeremiah": "Jeremias",
-    "Ezekiel": "Ezechiel", "Hosea": "Osee", "Obadiah": "Abdias",
-    "Jonah": "Jonas", "Micah": "Micheas", "Habakkuk": "Habacuc",
-    "Zephaniah": "Sophonias", "Haggai": "Aggeus", "Zechariah": "Zacharias",
-    "Malachi": "Malachias", "Revelation": "Apocalypse",
-}
-DEUTERO = ["Tobias", "Judith", "Wisdom", "Ecclesiasticus", "Baruch",
-           "1Machabees", "2Machabees"]
-DRNAME.update({"1Machabees": "1 Machabees", "2Machabees": "2 Machabees"})
-DR2CANON = {v: k for k, v in DRNAME.items()}
-
-
-def verses_dr():
-    """{(canonical book, chapter, verse): text} from the Douay-Rheims.
-
-    Douay prints "<Book> Chapter <n>" headings and "<c>:<v>." verse marks,
-    so unlike the King James file it can be parsed by what it says rather
-    than by position.
-    """
-    out = {}
-    if not os.path.exists(DR):
-        return out
-    text = open(DR, encoding="utf-8", errors="ignore").read()
-    marks = list(re.finditer(r"^(?:([A-Za-z0-9 ]+) Chapter (\d+)\s*$)|"
-                             r"^(\d+):(\d+)\.\s", text, re.M))
-    book = None
-    for k, m in enumerate(marks):
-        if m.group(1):
-            name = m.group(1).strip()
-            book = DR2CANON.get(name, name.replace(" ", ""))
-            continue
-        if not book:
-            continue
-        end = marks[k + 1].start() if k + 1 < len(marks) else len(text)
-        # Douay carries Challoner's explanatory notes between the verses, set
-        # as their own paragraphs ("To fulfil... By accomplishing all the
-        # figures and prophecies"). Appending those to the verse put
-        # commentary words -- accomplishing, assumption, perfecting -- into
-        # the candidate pool as though the book could contain them. A verse
-        # is one paragraph; keep the first and drop whatever follows it.
-        block = text[m.end():end]
-        body = " ".join(re.split(r"\n\s*\n", block.strip(), 1)[0].split())
-        out[(book, int(m.group(3)), int(m.group(4)))] = body
-    return out
 
 REF = re.compile(
     r"\b(?:(1|2|3|I{1,3}|First|Second|Third)\s+)?(%s)\b\.?\s*"
@@ -246,28 +164,6 @@ def pool(text, idx):
     return free
 
 
-def pools_for(vvk, vvd, refs, idx, wide=0):
-    """(both, douay_only, kjv_only) -- the free words of a passage, split by
-    which translation they come from.
-
-    A candidate that both translations use is the safest: it survives the
-    choice of English. One only Douay has is next, because Douay renders the
-    Vulgate the book's author was working from. One only the King James has
-    is the weakest and is usually an artifact of the translation rather than
-    a word the book could contain -- "meat" for Douay's "table", "exceed"
-    for its "abound", "dust" at Genesis 2:7 for its "slime".
-    """
-    k = pool(" ".join(t for _, t in passage(vvk, refs, wide)), idx)
-    d = pool(" ".join(t for _, t in passage(vvd, refs, wide)), idx)
-    both = {s: k[s] + d[s] for s in set(k) & set(d)}
-    return both, {s: d[s] for s in set(d) - set(k)}, {s: k[s] for s in set(k) - set(d)}
-
-
-def show(p):
-    return ", ".join("/".join(sorted(c)) for _, c in
-                     sorted(p.items(), key=lambda x: -sum(x[1].values())))
-
-
 def page_holes(page, doc, gl, seg, var, prop, inv, cnt):
     out = []
     for p in doc:
@@ -290,7 +186,7 @@ def render(tk, sign, gl, seg, var, prop, inv):
                           else T.render_token(t, gl, seg, False, var, prop)) for t in tk)
 
 
-def cross(gl, doc, seg, var, prop, inv, idx, vv, vd, cited, cnt, wide):
+def cross(gl, doc, seg, var, prop, inv, idx, vv, cited, cnt, wide):
     """Signs that recur on cited folios, with the words their passages SHARE.
 
     A sign standing on two folios whose passages are known can only mean a
@@ -307,13 +203,9 @@ def cross(gl, doc, seg, var, prop, inv, idx, vv, vd, cited, cnt, wide):
                 b = A.strip(t)[0]
                 if b not in inv:
                     where[b].append((p.page, i, tk))
-    # Intersect on the words BOTH translations use plus the Douay-only ones.
-    # A King-James-only word is dropped here: it is the class that produced
-    # "meat" for a codex that says "at table".
     pools = {}
     for pg, r in cited.items():
-        both, dro, _ = pools_for(vv, vd, r, idx, wide)
-        pools[pg] = {**both, **dro}
+        pools[pg] = pool(" ".join(t for _, t in passage(vv, r, wide)), idx)
     rows = []
     for b, occ in where.items():
         pgs = sorted({pg for pg, _, _ in occ})
@@ -335,29 +227,24 @@ def cross(gl, doc, seg, var, prop, inv, idx, vv, vd, cited, cnt, wide):
     return 0
 
 
-def onehole(gl, doc, seg, var, prop, inv, idx, vv, vd, cited, cnt, wide):
+def onehole(gl, doc, seg, var, prop, inv, idx, vv, cited, cnt, wide):
     """Lines with one hole on a cited folio, smallest pool first."""
     rows = []
     for p in doc:
         if p.page not in cited:
             continue
-        b_, d_, k_ = pools_for(vv, vd, cited[p.page], idx, wide)
-        pl = {**b_, **d_}
-        kjonly = k_
+        pl = pool(" ".join(t for _, t in passage(vv, cited[p.page], wide)), idx)
         for i, ln in enumerate(p.lines, 1):
             tk = [t for run in ln for t in run]
             miss = [A.strip(t)[0] for t in tk if A.strip(t)[0] not in inv]
             if len(miss) != 1:
                 continue
             forms = ["/".join(sorted(c)) for _, c in sorted(pl.items(), key=lambda x: -sum(x[1].values()))]
-            rows.append((len(forms), p.page, i, miss[0], forms,
-                         render(tk, miss[0], gl, seg, var, prop, inv), show(kjonly)))
+            rows.append((len(forms), p.page, i, miss[0], forms, render(tk, miss[0], gl, seg, var, prop, inv)))
     rows.sort(key=lambda r: (r[0], r[1], r[2]))
     print(f"{len(rows)} one-hole lines on cited folios")
-    for n, pg, i, b, forms, s, kjo in rows:
+    for n, pg, i, b, forms, s in rows:
         print(f"\n{pg}:{i:<3d} {K.hx(b)} x{cnt[b]}   pool {n}: {', '.join(forms)[:200]}")
-        if kjo:
-            print(f"    KJV only (weak): {kjo[:150]}")
         print(f"    {s[:160]}")
     return 0
 
@@ -371,7 +258,6 @@ def main(argv):
     gl, doc, seg, var, prop, inv = K.build()
     idx = K.taken_index(gl, prop)
     vv = verses()
-    vd = verses_dr()
     cnt = Counter(A.strip(t)[0] for p in doc for t in p.tokens)
     pages = sorted({p.page for p in doc})
     cited = {}
@@ -393,17 +279,11 @@ def main(argv):
             r = cited.get(pg, [])
             print(f"\n=== {pg}   {', '.join(f'{b} {c}:{a}' + (f'-{z}' if z != a and z != 999 else '') for b, c, a, z in r) or 'no chapter and verse cited'}")
             vs = passage(vv, r, wide)
-            vsd = passage(vd, r, wide)
-            if vs or vsd:
-                both, dro, kjo = pools_for(vv, vd, r, idx, wide)
-                print(f"    {len(vs)} KJV verse(s), {len(vsd)} Douay; "
-                      f"{len(both)} words free in both, {len(dro)} Douay only, {len(kjo)} KJV only")
-                if both:
-                    print("    both  : " + show(both))
-                if dro:
-                    print("    douay : " + show(dro))
-                if kjo:
-                    print("    KJV   : " + show(kjo) + "   <- weakest, likely translator's wording")
+            fr = pool(" ".join(t for _, t in vs), idx)
+            if vs:
+                words = sorted(fr.items(), key=lambda x: -sum(x[1].values()))
+                print(f"    {len(vs)} verse(s); {len(words)} content words with no sign yet:")
+                print("    " + ", ".join("/".join(sorted(c)) for _, c in words))
             hs = page_holes(pg, doc, gl, seg, var, prop, inv, cnt)
             for i, miss, s in hs:
                 tag = " ".join(f"{h}(x{n})" for h, n in miss)
@@ -411,9 +291,9 @@ def main(argv):
         return 0
 
     if "--cross" in argv:
-        return cross(gl, doc, seg, var, prop, inv, idx, vv, vd, cited, cnt, wide)
+        return cross(gl, doc, seg, var, prop, inv, idx, vv, cited, cnt, wide)
     if "--holes" in argv:
-        return onehole(gl, doc, seg, var, prop, inv, idx, vv, vd, cited, cnt, wide)
+        return onehole(gl, doc, seg, var, prop, inv, idx, vv, cited, cnt, wide)
 
     # ---- the whole pool, ranked by how many folios' passages use the word
     print(f"{len(cited)} folios cite a chapter and verse")
@@ -423,8 +303,7 @@ def main(argv):
     for pg, r in cited.items():
         vs = passage(vv, r, wide)
         nverse += len(vs)
-        b_, d_, _ = pools_for(vv, vd, r, idx, wide)
-        for s, c in {**b_, **d_}.items():
+        for s, c in pool(" ".join(t for _, t in vs), idx).items():
             byword[s].add(pg)
             forms[s].update(c)
     print(f"{nverse} verses looked up; {len(byword)} content words in them carry no sign")

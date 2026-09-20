@@ -81,15 +81,6 @@ Built to retest the sequence aligner against the sources Király's 2022 paper
 names, rather than the four canonical gospels alone. 1,746,498 words.
 
 - **King James Bible** — Project Gutenberg ebook 10, public domain.
-- **Douay-Rheims Bible (Challoner revision)** — Project Gutenberg ebook
-  8300, public domain. Added 2026-09-20 because the codex is a Catholic
-  compilation working from the Vulgate, and pooling candidate words off a
-  Protestant English translation manufactures near-misses: a third of the
-  King James candidate pool turns out to be wording no Vulgate reader
-  would have had. It also supplies the deuterocanon — Tobias, Judith,
-  Wisdom, Ecclesiasticus, Baruch, Machabees — which the King James file
-  here does not contain at all. Challoner's explanatory notes are set as
-  separate paragraphs between the verses and are stripped, not pooled.
 - **Wake, *The suppressed Gospels and Epistles of the original New Testament***
   — Gutenberg ebooks 6507–6515, public domain. Supplies the Protevangelium,
   the infancy gospels and the Gospel of Nicodemus.

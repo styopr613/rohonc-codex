@@ -4123,10 +4123,10 @@
   "evidence": "Genesis 2:7, 'and man became a living soul'. Both occurrences stand immediately before the codex's 'to-soul-one': 002v:10 'and [became] a living soul', 122r:3 '[became] a living soul, breathed on Adam'. become is carried by K&T's b30, but the passage pool (ktleft.py, Genesis 2:7 widened one verse) offered became as free and it is the only word of the verse that fits the slot both times."
  },
  "70d520": {
-  "gloss": "slime_(of_the_earth)",
+  "gloss": "dust",
   "tier": "C",
   "n": 3,
-  "evidence": "Genesis 2:7. CORRECTED 2026-09-20: first entered as 'dust' off the King James, which was wrong in its choice of English. The codex is a Catholic compilation working from the Vulgate, where 2:7 reads 'formavit igitur Dominus Deus hominem de LIMO terrae' -- Douay-Rheims 'formed man of the SLIME of the earth'. Dust is the King James word and belongs to Genesis 3:19, where the Vulgate has a different word, pulvis; keeping 'dust' here would also have spent it on the wrong verse. The three occurrences all stand in the Life of Adam beside Adam and the making of him: 002v:9, 002v:10 'the aforesaid [slime]', 122r:1. The Douay pool for 2:7 leaves slime as the one content word with no sign; the King-James-only alternative, nostrils, is excluded because Douay reads 'breathed into his FACE' and face is already read. One passage, written twice, so tier C."
+  "evidence": "Genesis 2:7, 'the Lord God formed man of the dust of the ground'. 002v:9 'Paradise, the Lord God, Adam ... [dust] and then', 002v:10 'Adam was ... the aforesaid [dust] and became a soul', 122r:1 'out of Paradise the Lord God, Adam ... [dust]'. The passage pool (ktleft.py) left became, dust, eastward, mist, nostrils and planted free; dust is the one that reads with 'the aforesaid' on 002v:10. Not nostrils: breath is taken and nothing in the three lines is 'into'."
  },
  "ab0": {
   "gloss": "gate/open",
@@ -4147,10 +4147,10 @@
   "evidence": "K&T's chapter is 670; this is 432 + 670 and stands after a numeral both times: 088v:3 'six [chapter] written', 092v:7 '14 [chapter] in'. The codex's chapter citations elsewhere are 'holy Matthew, in the Nth chapter'. Read as chapter under whatever 432 marks (an ordinal or case ending); 432 itself is not read."
  },
  "845152222": {
-  "gloss": "abound",
+  "gloss": "exceed",
   "tier": "C",
   "n": 3,
-  "evidence": "Matthew 5:20. CORRECTED 2026-09-20: first entered as 'exceed' off the King James, 'except your righteousness shall exceed'. The Vulgate has 'nisi ABUNDAVERIT iustitia vestra', Douay-Rheims 'unless your JUSTICE ABOUND more than that of the scribes and Pharisees'. The codex already reads 'righteous(ly)' on 109r:6, which is the justice of the verse, so the missing word is the verb: abound, not exceed. 109r:7 and 109v:1 both read 'he who the scribes [abound]'. Exceed was a translator's word and the pool tool now separates those out. One passage, tier C."
+  "evidence": "Matthew 5:20, 'except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven'. 109r:7 'he who the scribes [exceed]', 109v:1 'somebody does not ... he who the scribes [exceed]', 109r:6 '[exceed] and from somebody is this righteous'. The passage pool (ktleft.py) left exceed and enter free; enter does not stand next to 'the scribes'. One passage."
  },
  "520af0": {
   "gloss": "garment",

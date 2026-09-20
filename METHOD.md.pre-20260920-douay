@@ -73,31 +73,6 @@ last three "Translate" commits; read their diffs to see what a batch is.
    - A word the pool calls free may be a synonym of one that is taken: it
      lists tell, meat, flesh, arise, sepulchre, depart because K&T glossed
      say, food, body, rise, grave, go away. Check the concept, not the word.
-   - **Pool from the Douay-Rheims, not the King James.** The book is a
-     Catholic compilation and its author had the Vulgate; an English
-     candidate list built off a Protestant translation manufactures
-     near-misses. Measured 2026-09-20 over 181 cited folios: the King James
-     pool holds 1,960 words, 652 of them — **a third** — are wording the
-     Douay does not use. Two readings already entered were among them and
-     both were corrected: *exceed* at Matthew 5:20 is the King James word
-     where the Vulgate has *abundaverit*, Douay *abound*; *dust* at Genesis
-     2:7 is the King James word where the Vulgate has *de limo terrae*,
-     Douay *slime*, and dust properly belongs to Genesis 3:19, a different
-     Latin word. The clinching case is Mark 16:14, where the King James says
-     the eleven sat *at meat* and Douay says *at table* — and this project
-     had already read a sign as *at table* from K&T's own citations while the
-     King James pool was still offering *meat* as a candidate.
-     ktleft.py now prints three classes and the order is the order of trust:
-
-         both  : free in both translations, the safest candidates
-         douay : Douay only, the author's own tradition
-         KJV   : King James only, weakest, usually a translator's word
-
-     Douay also carries the deuterocanon, so Tobias, Judith, Wisdom,
-     Ecclesiasticus, Baruch and Machabees can be cited in a note and looked
-     up; the King James file here cannot. Not handled: Douay follows the
-     Septuagint psalm numbering and runs one behind from Psalm 10 to 146, so
-     treat any psalm pool as King James only.
    - A sign inside K&T's own spellings is read from them: their four gate
      and open spellings all end in ab0, so ab0 is gate/open. Their 670 is
      chapter, so 432670 after a numeral is chapter.

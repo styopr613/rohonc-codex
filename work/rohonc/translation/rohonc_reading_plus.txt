@@ -84,8 +84,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  one God +and_then God angel Elijah prophet
  7  prophet Elijah then-exist father son spirit to-go
  8  table [?] in_turn-brother on-this world and +out | to
- 9  +Paradise Lord-<suffix_of_divine_name> Adam +heart ?dust and then-exist
-10  Adam ~exist +heart earlier_mentioned ?dust and ?became to-soul-+one
+ 9  +Paradise Lord-<suffix_of_divine_name> Adam +heart ?slime_(of_the_earth) and then-exist
+10  Adam ~exist +heart earlier_mentioned ?slime_(of_the_earth) and ?became to-soul-+one
 11  +heart breathe on-Adam and living leave and
 12  Adam grab Lord-<suffix_of_divine_name> and Adam go inside
 13  Garden_of_Eden and each,_every +heart exist-chapter Adam
@@ -2771,15 +2771,15 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  +until judge-+day and one believe two exist
  4  leave-leave a) [?] this-Lord you remit-Lord
  5  +and_then Lord-Jézus and somebody exist carry ?he_who ?the_scripture
- 6  ?exceed and from somebody exist this righteous(ly) on-learn
- 7  in_turn and somebody exist carry ?he_who ?the_scripture ?exceed
+ 6  ?abound and from somebody exist this righteous(ly) on-learn
+ 7  in_turn and somebody exist carry ?he_who ?the_scripture ?abound
  8  and from ?whosoever +is_not this righteous(ly) on-learn +and_then Lord-Jézus
  9  and somebody exist carry ?he_who ?the_scripture write <preposition_of_genitive>-somebody
 10  good ?afterward exist see heaven pleasing in_turn and
 
 
 === 109v ===
- 1  somebody +is_not carry ?he_who ?the_scripture ?exceed | <preposition_of_genitive>
+ 1  somebody +is_not carry ?he_who ?the_scripture ?abound | <preposition_of_genitive>
  2  somebody good ?afterward +is_not see pleasing <preposition_of_genitive>-Lord
  3  from-father-<suffix_of_divine_name> end this holy-gospel Lord-<suffix_of_divine_name> love Lord-<suffix_of_divine_name>
  4  begins this holy-gospel
@@ -3103,7 +3103,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 122r ===
- 1  and out(ward) +Paradise Lord-<suffix_of_divine_name> Adam +heart ?dust
+ 1  and out(ward) +Paradise Lord-<suffix_of_divine_name> Adam +heart ?slime_(of_the_earth)
  2  and then-exist Adam exist +heart earlier_mentioned [?] and
  3  ?became to-soul-+one +heart breathe on-Adam and
  4  living leave and Adam grab Lord-father son.
