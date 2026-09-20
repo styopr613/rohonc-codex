@@ -547,6 +547,18 @@ def main():
     check("ROHONC: the residue engine ranks blocking pieces",
           "ktresidue.py" in flat and "896 distinct pieces" in flat)
 
+    sf = out("ktsense_full.txt")
+    check("sense rerun, seed-once, full context: 39.9%, FAIL",
+          "picked from real context               39.9%" in sf and "->  FAIL" in sf)
+    pk = out("ktsense_percase_kt.txt"); pf = out("ktsense_percase_full.txt")
+    check("sense rerun, per-case distractors: 39.8% -> 40.9%",
+          "39.8%" in pk and "40.9%" in pf)
+    check("ROHONC: the sense rerun is stated with its confound and its counts",
+          "941 of 2357" in flat and "966 of 2360" in flat
+          and "67 newly right, 40 newly wrong" in flat
+          and "0 predictions changed" in flat and "It is not a pass" in flat
+          and "third prediction of mine" in flat)
+
     check("ROHONC: the eighteenth attempt is recorded as a FAIL",
           "eighteenth attempt" in flat and "1.04x" in flat and "1.03x" in flat
           and "failures of the measure, not as evidence against the" in flat)

@@ -38,22 +38,7 @@ THE GATE, fixed before the run and not moved:
              draft that needs a human, not a translation, and must be
              described that way.
 
-    python ktsense.py              # the original run: their dictionary as context
-    python ktsense.py --kt-only    # the same, explicitly
-    python ktsense.py --full       # context from everything now readable
-    python ktsense.py --percase    # distractors seeded per case, so two modes
-                                   # differ in context only; a diagnostic, not
-                                   # the declared mechanics
-    python ktsense.py --dump f.tsv # one line per case: id, truth, pick, hit, ctx
-
-RESULT, 2026-09-20. Seed-once (the declared mechanics): their dictionary
-39.9% (941/2357), everything readable 39.9% (942/2360). Both FAIL, bars
-untouched. Per-case seeding, a diagnostic: 39.8% -> 40.9% (939/2357 ->
-966/2360); the 870 cases whose context did not grow gave identical answers,
-the 1,487 whose context grew changed 186 answers, 67 newly right and 40
-newly wrong. Richer context helps by about one point. Crossing 40.0 under
-per-case seeding is not the declared bar being met, and the usable bar of
-75% is the one a translation needs.
+    python ktsense.py
 """
 import math
 import os
@@ -196,64 +181,25 @@ def main():
     defset = set(gl)
     types = Counter(t for p in doc for t in p.tokens)
 
-    # The gate is unchanged: the cases are still single-sense codes, the
-    # choice is still 5-way, the bars are still 40%/5 sigma and 75%. What
-    # changes with --full is only how much of the CONTEXT can be read, since
-    # the first run had Kiraly & Tokai's dictionary alone and the book is
-    # now 91.5% readable. --kt-only reproduces the first run exactly.
-    full = "--full" in sys.argv
-    var, prop = {}, {}
-    if full:
-        import ktvariant as V
-        import kttranslate as T
-        var = {v: h for v, (h, _) in V.readings()[6].items()}
-        prop = T.load_proposals()
-
     seg = {}
-    inv = set(gl) | set(var) | set(prop)
     for t in types:
         if t in gl:
             continue
         s = S.segment(t, defset)
         if s and len(s) >= 2:
             seg[t] = s
-    if full:
-        inv |= set(seg)
-        while True:
-            added = 0
-            for t in types:
-                if t in inv:
-                    continue
-                s = S.segment(t, inv)
-                if s and len(s) >= 2:
-                    seg[t] = s
-                    inv.add(t)
-                    added += 1
-            if not added:
-                break
-
-    def piece_stems(p):
-        if p in gl:
-            out = []
-            for s in sorted(gl[p]):
-                out += sense_stems(s)
-            return out
-        if p in var and var[p] in gl:
-            out = []
-            for s in sorted(gl[var[p]]):
-                out += sense_stems(s)
-            return out
-        if p in prop:
-            return sense_stems(prop[p][0])
-        return []
 
     def stems_for(t):
-        if t in gl or t in var or t in prop:
-            return piece_stems(t)
+        if t in gl:
+            out = []
+            for s in sorted(gl[t]):
+                out += sense_stems(s)
+            return out
         if t in seg:
             out = []
             for p in seg[t]:
-                out += piece_stems(p)
+                for s in sorted(gl[p]):
+                    out += sense_stems(s)
             return out
         return []
 
@@ -317,21 +263,10 @@ def main():
     hit = 0
     ctrl_hit = 0
     allctx = [c for _, _, _, cx in cases for c in cx]
-    # diagnostic: how much context is there, and how much of it can score?
-    inppmi = sum(1 for c in allctx if c in ppmi)
-    print(f"context stems total {len(allctx)}, distinct {len(set(allctx))}, "
-          f"with a PPMI column {inppmi} ({inppmi/len(allctx):.1%})")
-    print(f"mean context stems per case {len(allctx)/len(cases):.1f}")
-    dump = open(sys.argv[sys.argv.index("--dump") + 1], "w") if "--dump" in sys.argv else None
-    percase = "--percase" in sys.argv    # identical distractors across modes
     for i, t, truth, ctx in cases:
-        if percase:
-            rng = random.Random(408 * 1000003 + i)
         cands = [truth] + distractors(t, truth)
         rng.shuffle(cands)
         best = max(cands, key=lambda s: score(s, ctx, ppmi))
-        if dump:
-            dump.write(f"{i}\t{truth}\t{best}\t{int(best == truth)}\t{len(ctx)}\n")
         hit += (best == truth)
         shuf = [rng.choice(allctx) for _ in range(len(ctx))]
         bestc = max(cands, key=lambda s: score(s, shuf, ppmi))

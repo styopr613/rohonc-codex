@@ -1116,6 +1116,45 @@ match numbers the source supplies, and six do. And a formula has to repeat
 identically across folios that were never compared. Those are narrow tests,
 but they are tests the reading could have failed and did not.
 
+**The sense gate rerun: context helps by one point, and a rounding
+coincidence nearly hid it.** The proof gate above blamed sense choice, so
+`harness/ktsense.py` was rerun with its bars untouched, 40% top-1 at 5 sigma
+for signal and 75% for usable, and its cases untouched, the 5-way choice on
+codes that carry exactly one sense. The only change is a `--full` flag that
+lets the surrounding context use everything now readable instead of Kiraly
+and Tokai's dictionary alone; `--kt-only` reproduces the first run, and it
+was reproduced to the digit before anything new ran.
+
+    context: their dictionary alone    39.9%  (941 of 2357)   FAIL
+    context: everything readable now   39.9%  (942 of 2360)   FAIL
+
+Two identical percentages looked like nothing had happened, and I nearly
+wrote that down. It was wrong. Dumping every case's answer showed 1,668 of
+2,357 shared cases had changed their prediction between the two runs, which
+is far more than the 1,487 whose context had actually grown. The excess is a
+confound: one random generator, seeded once, draws the distractors for every
+case in turn, so three extra cases in the richer run shifted the draw for
+every case after them. Pinning the generator per case (`--percase`) so the
+distractors are identical across modes gives the clean comparison:
+
+    870 cases, context unchanged     0 predictions changed
+    1,487 cases, context grew      186 changed:  67 newly right, 40 newly wrong
+    their dictionary alone         39.8%  (939 of 2357)
+    everything readable now        40.9%  (966 of 2360)
+
+So richer context does help, by about one point, and the gain is real
+because the held-fixed cases did not move at all. It is not a pass. The gate
+as declared runs on the seed-once mechanics and gives 39.9%; the per-case run
+is a different mechanic and crossing 40.0 under it is not the declared bar
+being met. And the bar that matters for a translation is the usable one at
+75%, which is nowhere in sight. **I predicted richer context would move this
+substantially; it moved one point, and that is the third prediction of mine
+on this manuscript the harness has overturned.** The remaining reason is the
+one the script measured on its first run: a code's own senses sit two and a
+half times closer to each other than unrelated senses do, so the words around
+them cannot pull them apart. Choosing senses needs their grammar. The
+rendering keeps showing every sense, and the first-sense page stays a draft.
+
 **Would another language be easier? Measured, and mostly no.** Kiraly and
 Tokai serve their dictionary in Hungarian as well as English, and it was
 fetched to settle a question this document has carried unresolved: whether

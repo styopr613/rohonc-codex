@@ -1,0 +1,29 @@
+gloss vocabulary: 980 stems
+building PPMI from /home/ubuntu/voynich/data/ref/rohonc/ALL.txt ...
+  897 stems with context
+held-out occurrences tested: 2360  (every one, not a sample)
+context stems total 69126, distinct 909, with a PPMI column 66917 (96.8%)
+mean context stems per case 29.3
+
+======================================================================
+CAN CONTEXT CHOOSE THE RIGHT SENSE?
+======================================================================
+  5-way choice, chance                  20.0%
+  picked from real context               39.9%
+  picked from shuffled context           21.4%
+  sigma above the control                22.4
+
+  SIGNAL bar  >= 40% and 5.0 sigma  ->  FAIL
+  USABLE bar  >= 75%                 ->  FAIL
+
+======================================================================
+IS THE REAL TASK HARDER THAN THE GATE?
+======================================================================
+  senses of the SAME code, mean similarity   0.523
+  a sense against a random sense             0.209
+  ratio                                       2.50x
+  same-code sense pairs sharing a stem         9.0%
+
+  A code's own senses are several times closer to each other than
+  random senses are, so choosing between them is harder than the
+  gate above. 39.9% is an optimistic ceiling, not a floor.
