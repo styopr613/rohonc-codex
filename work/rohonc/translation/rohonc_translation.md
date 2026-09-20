@@ -9204,3 +9204,220 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Ghost", named to John on line 2, then Mark 16:15. Király & Tokai's breathe
 > sign is written across the line break here, half on line 2 and half on
 > line 3, and their entry cites it at line 3.
+
+## 129v — baptize them, and be brought before kings
+
+**1**  baptizing them in the name of the Father, and the Son, and the Holy Spirit.
+`baptize inside +name from-father-<divine> and son and holy-spirit`
+
+**2**  One man shall be saved; in turn, every man shall be damned. And
+`one somebody +be_saved a) each,_every somebody be_damned and`
+
+**3**  said the Lord Jesus to his apostles: ye shall | go,
+`say Lord-Jézus apostle <of>-Lord you exist | go`
+
+**4**  said he, before kings, before emperors. | Therefore
+`+say before king before +emperor | ?therefore`
+
+**5**  the apostles have, because this Lord is with you […]
+`apostle have because this-Lord exist you [?]`
+
+**6**  therefore the apostles […] how shall they say? it is the apostles that speak. And then
+`?therefore apostle [?] how? say exist speak-apostle +and_then`
+
+**7**  the Lord Jesus had these apostles from him; and a man, you, the apostles,
+`Lord-Jézus have this-apostle from and somebody you apostle`
+
+**8**  for ever, to die rather, the apostles of the Lord God.
+`exist-exist-chapter die +rather somebody-apostle from Lord-<divine>.`
+
+**9**  Have, and the Lord, you, the apostles, the soul, and for ever
+`have and-Lord you apostle soul and exist-exist-chapter`
+
+> Matthew 28:19 on line 1 and Mark 16:16 on line 2, then Matthew 10:18-20,
+> "ye shall be brought before governors and kings for my sake ... take no
+> thought how or what ye shall speak ... for it is not ye that speak, but
+> the Spirit of your Father". Line 6 gives that last clause. *Rather* on
+> line 8 is Király & Tokai's, cited by them at that line.
+
+## 130r — the apostles go out, and a new reading from John
+
+**1**  the dying of the Lord. And then the Lord Jesus: then went the apostles and preached, and
+`die-die-Lord +and_then Lord-Jézus then go-apostle preach and`
+
+**2**  began at Jerusalem; and the apostles preached in all the whole wide world.
+`~begin from Jerusalem ~and preach apostle on-each,_every the_whole_wide_world ?world.`
+
+**3**  The end of this holy gospel; and the Lord Jesus departed from among the apostles.
+`end this holy-gospel and leave among apostle Lord-Jézus`
+
+**4**  Begins this
+`begins this.`
+
+**5**  holy gospel, written
+`holy-gospel write`
+
+**6**  by holy John, in the second chapter
+`holy-John inside two chapter`
+
+**7**  of his writing. Then
+`inside <of>-write time`
+
+**8**  said the Lord Jesus to his apostles,
+`say Lord-Jézus apostle <of>`
+
+**9**  the Lord, at the last supper:
+`Lord on-last dinner-to.`
+
+**10**  this Lord goeth to his Father; he who, the Lord, goeth
+`this-Lord go-Lord to-<of>-Lord from-father-<divine> +he_who Lord go-Lord`
+
+> Luke 24:47, "beginning at Jerusalem", on line 2. Line 6 cites John, second
+> chapter, and what follows is John 14, Thomas and Philip at the last
+> supper. It is recorded as off, and it is the sixth miss.
+
+## 130v — Thomas, and Philip: shew us the Father
+
+**1**  And then holy Thomas answered: goeth the Lord to his Father? Said | the Lord
+`+and_then holy-Thomas +answered go-Lord to-<of>-Lord father-<divine> say | Lord`
+
+**2**  Jesus: Thomas, this Lord goeth to his Father, and the Lord
+`Jézus Thomas this-Lord go-Lord to-<of>-Lord father-<divine> and +<subj>-Lord`
+
+**3**  goeth. And then | holy Philip answered: shew us, the apostles,
+`go-Lord +and_then | holy-Philip +answered +shew apostle`
+
+**4**  thy Father. And then the Lord Jesus: Philip, the apostles,
+`<of>-Lord from-father-<divine> +and_then Lord-Jézus Philip +<subj> apostle`
+
+**5**  the Lord the apostles have seen; then this Lord did miracles, […] miracles;
+`Lord see-apostle then this-Lord miracle do, [?] miracle`
+
+**6**  one, the Lord; this Lord, to the Lord, the trespass did; but rather the Father,
+`+one-Lord this-Lord to-Lord trespass do, ?but_rather father-<divine>`
+
+**7**  of the Lord, […] doeth them, the Lord's finger.
+`<of>-Lord [?] do, <of>-Lord +finger`
+
+**8**  And he began to rebuke the apostles for their unbelief. And then the | Lord
+`and apostle begin +rebuke on-believe +and_then | Lord`
+
+**9**  Jesus: and a man, the Lord, the apostles have seen, these apostles, and of the Lord
+`Jézus and +<subj> somebody Lord see-apostle this-apostle +<subj> and <of>-Lord`
+
+**10**  the Father have seen; and a man who believeth in the Lord, this is
+`from-father-<divine> see and somebody exist Lord believe this exist`
+
+> John 14:5-11, Thomas's "we know not whither thou goest" and Philip's
+> "Lord, shew us the Father", answered with "he that hath seen me hath seen
+> the Father ... the Father that dwelleth in me, he doeth the works". *Shew*
+> is Király & Tokai's sign, which they gloss with the verse and cite here,
+> and *rebuke* on line 8 is theirs, glossed with Mark 16:14, the unbelief of
+> the apostles. Their *finger* stands on line 7.
+
+## 131r — the Sadducees and the resurrection
+
+**1**  and in the Lord's Father believe, because this is one
+`and <of>-Lord from-father-<divine> believe because this one`
+
+**2**  God. And then the Lord Jesus: go ye, apostles, into
+`God +and_then Lord-Jézus you go-apostle inside`
+
+**3**  land and land, among the Sadducees; and
+`land land among ?the_Sadducees and`
+
+**4**  the Sadducees, preach ye, apostles, how this Lord from death
+`?the_Sadducees exist preach-apostle how? this-Lord from-die`
+
+**5**  stood up, and ate; how it is that the Sadducees, ye,
+`stand_up food how? exist from ?the_Sadducees you`
+
+**6**  apostles, believe, because God said, the mouth of the day, hear; and
+`apostle believe because God say mouth-+day hear and +<subj>`
+
+**7**  the Lord ye have seen, Sadducees. And then the Lord Jesus said: he is
+`Lord see ?the_Sadducees +and_then Lord-Jézus say-Lord ?is_he`
+
+**8**  yours; how ye, apostles, are, the Sadducees, to
+`+yours how? you apostle exist ?the_Sadducees to`
+
+**9**  […]: because the Sadducees, before you,
+`[?] because-exist ?the_Sadducees before you`
+
+**10**  the dead they bear, the Sadducees, to rise, resurrect; and this is
+`die carry-?the_Sadducees on-rise resurrect and this exist`
+
+> The Sadducees, who say there is no resurrection (Matthew 22:23), set
+> against Luke 24:43, where the risen Lord eats before the apostles, which
+> is line 5. Király & Tokai's rise sign stands on line 10, cited by them.
+
+## 131v — in my name, and he that believeth and is baptized
+
+**1**  the apostles say, these dead men offer; the apostles can, Jesus of Nazareth
+`apostle say-apostle this-die-somebody offer apostle can Jézus +Nazareth`
+
+**2**  have; the dead again stand up, rise; in that place stand up, rise,
+`have die-somebody ?again stand_up resurrect on-place stand_up resurrect`
+
+**3**  the man, in his name. And then the Lord Jesus: and
+`somebody inside <of>-Lord +name +and_then Lord-Jézus and`
+
+**4**  the man who believeth in the Lord, every such man shall be saved;
+`somebody exist Lord believe each,_every somebody +be_saved`
+
+**5**  and one man shall be damned. And then the Lord Jesus: and
+`and one somebody be_damned +and_then Lord-Jézus and`
+
+**6**  the man who therefore believeth the Lord, one man
+`somebody ?therefore Lord +believe one somebody`
+
+**7**  shall be saved; in turn every man shall be damned. And then the Lord Jesus:
+`+be_saved a) each,_every somebody be_damned +and_then Lord-Jézus`
+
+**8**  and the man who believeth the Lord, to be baptized with the second baptism,
+`and somebody exist Lord believe to exist two-+baptize`
+
+**9**  the Baptist's, in the name of the Father, and the Son, and the Holy
+`+the_Baptist inside +name from-father-<divine> and son and holy`
+
+**10**  Spirit: every such man shall be saved, and one man
+`spirit each,_every somebody +be_saved and one somebody`
+
+> Acts 3:6, "in the name of Jesus Christ of Nazareth rise up and walk", then
+> Mark 16:16 three times over with its two halves in different orders.
+
+## 132r — the signs that shall follow them that believe
+
+**1**  shall be damned. And then the Lord Jesus: and the man who believeth the Lord
+`be_damned +and_then Lord-Jézus and somebody exist Lord believe`
+
+**2**  shall do many miracles, all in the Lord's name; | and
+`exist many miracle do, each,_every inside <of>-Lord | and`
+
+**3**  there is […]; then the apostles saw him taken up into heaven,
+`exist-[?] time see apostle bow_down on-heaven`
+
+**4**  the kingdom, the light. And then the apostles answered: they saw,
+`land light +and_then apostle +answered see`
+
+**5**  the apostles, the light, taken up into heaven; in turn […] said
+`apostle light bow_down on-heaven in_turn-[?] say`
+
+**6**  the Lord Jesus: lo, taken up; the hidden angel could. And then
+`Lord-Jézus lo bow_down can hide_oneself-angel +and_then`
+
+**7**  the Lord Jesus: go ye, apostles, into the world; be ye apostles
+`Lord-Jézus you-apostle go ?into_the_world exist-apostle`
+
+**8**  to the ass; heal ye, apostles; be ye apostles; the evil | upon
+`to-from-donkey from-healing-apostle exist-apostle evil | on`
+
+**9**  the people cast ye out, apostles; the blind eyes, through light, apostles;
+`people +cast_out-apostle eye-blind through light-apostle`
+
+**10**  the dead shall stand up, rise, apostles: all in the Lord's name.
+`die-somebody stand_up resurrect-apostle each,_every inside <of>-Lord +name`
+
+> Mark 16:17-18, the signs that shall follow, which the book gives sign for
+> sign a second time here; it gave them once already at 042v-043r. Lines 3-6
+> are the Ascension.

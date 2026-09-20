@@ -1393,10 +1393,10 @@
   "evidence": "the same word with 520 for 540, at 115v:8, which K&T's younger-brother entry cites: 'and the son went, this [younger son], to his Father's heavenly house' 115v:8"
  },
  "540060990910": {
+  "tier": "C",
   "gloss": "that",
-  "tier": "B",
   "n": 2,
-  "evidence": "K&T's object conjunction 'that' (520060520) is cited by them at 091r03, 114v03 and 114v04; this word occurs exactly twice, at 114v:3 and 114v:4. The other unread word on those lines occurs six times, four of them on 006v, which their citation does not name, so the conjunction is this one"
+  "evidence": "WAS tier B. K&T's object conjunction 'that' (520060520) is cited by them at 091r03, 114v03 and 114v04, and this word occurs exactly at 114v:3 and 114v:4, which is why it was read that way. But the word is 540060990 plus the subject marker, and 540060990 is one glyph from K&T's 'rather' (520060990), which they cite at 129v08 near one of its occurrences. So the word may be 'rather' and not their conjunction at all. Downgraded to C and the doubt recorded"
  },
  "520b7e": {
   "gloss": "robe",
@@ -1583,5 +1583,35 @@
   "tier": "A",
   "n": 1,
   "evidence": "the second half of K&T's breathe sign, carried over the line break from 129r:2; their entry cites 129r03 for it"
+ },
+ "520b77": {
+  "gloss": "shew",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's show sign (520b81), which they gloss with the verse '(Jn 14,8)', is cited by them at 130v03, this word's only line, where their Philip stands two words away: 'and then holy Philip answered: [shew] us, the apostles, thy Father' = John 14:8"
+ },
+ "5e4670a82": {
+  "gloss": "finger",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's finger (5e4670ae1) is cited by them at 089v06 and 130v07, and 130v:7 is this word's only line: 'of the Lord ... doeth ... the Lord's [finger]' in the John 14:10 passage about the Father's works"
+ },
+ "5200609a7060": {
+  "gloss": "rather",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's 'rather' (520060990) is cited by them at 038v11 and 129v08, this word's only line, and the word carries their stem 520060: 'for ever, to die [rather], the apostles of the Lord' 129v:8, the martyrdom charge"
+ },
+ "625520": {
+  "gloss": "rebuke",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's 'admonish, rebuke', which they gloss '(cp. Mk 16,14)', is cited by them at 130v08, this word's only line: 'and he began to [rebuke] the apostles for their unbelief' = Mark 16:14, the verse they name"
+ },
+ "4f1060": {
+  "gloss": "rise",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's rise/stand-up (4f1ae0) lists a spelling cited at 029v06, 035r03 and 131r10; this piece stands at 131r:10 inside 6304f1060 and twice on its own. Its blast radius is one other word, checked before entering"
  }
 }
