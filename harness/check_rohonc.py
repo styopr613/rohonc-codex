@@ -475,8 +475,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 112 folios",
-          md.count("\n## 0") + md.count("\n## 1") == 112, str(md.count("\n## 0")))
+    check("translation: the file exists and covers 119 folios",
+          md.count("\n## 0") + md.count("\n## 1") == 119, str(md.count("\n## 0")))
     check("translation: the book is identified, with its sources named",
           "Life of Adam and Eve" in md and "Legend of the Rood" in md
           and "Saint Matthew and Saint John" in md and "Elijah" in md)
@@ -522,11 +522,11 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 2283 tokens = 7.6% rendered",
-          len(g) == 2 and g[0] == 2318 and close(g[1], 7.7, .02), str(g))
+    check("proposals: 2329 tokens = 7.8% rendered",
+          len(g) == 2 and g[0] == 2329 and close(g[1], 7.8, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
     check("proposals: 2540 lines fully read with them",
-          len(g) == 2 and g[0] == 2530 and close(g[1], 57.9, .02), str(g))
+          len(g) == 2 and g[0] == 2539 and close(g[1], 58.1, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -534,8 +534,8 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "152 signs are read" in flat
-          and "23.8% to **57.9%**" in flat)
+          "METHOD.md" in flat and "154 signs are read" in flat
+          and "23.8% to **58.1%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)
@@ -545,7 +545,7 @@ def main():
           and "not a wall" in flat)
 
     check("ROHONC: Emmaus run translated and Cleopas named",
-          "112\nfolios are translated" in doc and "names Cleopas" in flat
+          "119\nfolios are translated" in doc and "names Cleopas" in flat
           and "as Abraham gave" in flat and "Abraham stands for the Father" in flat
           and "which is wrong" in flat)
 

@@ -43,6 +43,32 @@ def word(t, gl, seg, var, prop):
     return X.word(t, gl, seg, var)
 
 
+def wide(doc, gl, seg, var, prop, pages=None, start=0, count=40):
+    """Gap lines with the line before and after, so the sentence can be read.
+
+    A gap in isolation is usually unreadable; the same gap inside its
+    paragraph usually is not. This prints the neighbours.
+    """
+    out = []
+    for p in doc:
+        if pages and p.page not in pages:
+            continue
+        lines = [[t for run in ln for t in run] for ln in p.lines]
+        for i, toks in enumerate(lines):
+            if not toks:
+                continue
+            un = [t for t in toks if not readable(t, gl, seg, var, prop)]
+            if len(un) != 1:
+                continue
+            def render(ts, mark=None):
+                return " ".join("<<" + X.hx(t) + ">>" if (mark is not None and t is mark)
+                                else word(t, gl, seg, var, prop) for t in ts)
+            before = render(lines[i - 1]) if i > 0 and lines[i - 1] else ""
+            after = render(lines[i + 1]) if i + 1 < len(lines) and lines[i + 1] else ""
+            out.append((p.page, i + 1, un[0], before, render(toks, un[0]), after))
+    return out[start:start + count]
+
+
 def gaps(doc, gl, seg, var, prop, pages=None):
     out = []
     for p in doc:
@@ -62,6 +88,21 @@ def gaps(doc, gl, seg, var, prop, pages=None):
 
 
 def main(argv):
+    if "--wide" in argv:
+        gl, doc, seg, var, prop = build()
+        k = argv.index("--wide")
+        start = int(argv[k + 1]) if len(argv) > k + 1 and argv[k + 1].isdigit() else 0
+        cnt = int(argv[k + 2]) if len(argv) > k + 2 and argv[k + 2].isdigit() else 30
+        pages = {argv[argv.index("--page") + 1]} if "--page" in argv else None
+        for pg, i, t, b, m, a in wide(doc, gl, seg, var, prop, pages, start, cnt):
+            print(f"\n{pg}:{i}")
+            if b:
+                print(f"   -  {b[:150]}")
+            print(f"   >  {m[:150]}")
+            if a:
+                print(f"   +  {a[:150]}")
+        return 0
+
     gl, doc, seg, var, prop = build()
     types = Counter(t for p in doc for t in p.tokens)
     if "--page" in argv:

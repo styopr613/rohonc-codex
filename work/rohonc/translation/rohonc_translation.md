@@ -4267,3 +4267,279 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > And their eyes were opened, and they knew him; and he vanished out of their
 > sight.* Line 8 has the leaving. The daily bread of line 4 is the same word
 > the codex uses in the Our Father.
+
+## 063v — Thomas was not with them
+
+**1**  Here begins this holy gospel
+`begins this holy-gospel`
+
+**2**  written by holy John
+`write holy-John`
+
+**3**  in the twentieth chapter
+`inside two-ten-ten chapter-leave`
+
+**4**  of his writing. At that time
+`<preposition_of_genitive>-write time`
+
+**5**  the apostles were found in Jerusalem
+`~find apostle inside Jerusalem`
+
+**6**  in […] house, six
+`inside [?] house six`
+
+**7**  in the Lord's house, where the Lord
+`inside Lord house where Lord-<suffix_of_divine_name>`
+
+**8**  Lord Jesus, after supper; and then holy Thomas went […]
+`Lord-Jézus dinner ?afterward and then-exist go holy-Thomas [?]`
+
+**9**  one Saturday evening, to the apostles; and the apostles said, Thomas, apostle,
+`one Saturday evening to-apostle and say-apostle Thomas apostle`
+
+**10**  we have seen the Lord. And holy Thomas said, I do not believe this
+`see Lord and say holy-Thomas this-Thomas this not believe`
+
+**11**  at all; unless I hide this, unless Thomas believes […] not, unless he sees
+`each,_every this this-hide_oneself this-Thomas this believe [?] not | see`
+
+**12**  Thomas the Lord's end, and unless Thomas puts his finger in […]
+`Thomas <preposition_of_genitive>-Lord end and <preposition_of_genitive>-Thomas finger not put inside | <preposition_of_genitive>`
+
+> John 20:24–25. *Except I shall see in his hands the print of the nails, and
+> put my finger into the print of the nails, I will not believe.*
+
+## 009r — reach hither thy finger, and my Lord and my God
+
+**1**  the Lord's end, who from the Lord, rose from the dead; at that time Lord Jesus Christ left
+`Lord end who from Lord from die stand_up time leave Lord-Jézus-Christ`
+
+**2**  into the midst of the apostles […] and said, you have the commandment, and judge; he left
+`middle apostle [?] and say commandment you exist and judge leave`
+
+**3**  the apostles in turn; Thomas began […] and Lord Jesus said, Thomas,
+`apostle in_turn Thomas begin [?] and say Lord-Jézus Thomas`
+
+**4**  thou shalt go to put thy finger, Thomas, into the Lord's wound
+`go-?shall to put <preposition_of_genitive>-Thomas finger inside <preposition_of_genitive>-Lord wound`
+
+**5**  […] see and believe; and […] Lord Jesus, the Lord's wound
+`[?] see believe and [?] Lord-Jézus <preposition_of_genitive>-Lord wound`
+
+**6**  and Lord Jesus said, Thomas, blessed are they, and the man who sees
+`and say Lord-Jézus Thomas happy-to from and somebody see`
+
+**7**  and believes […] and blessed are they, and the food he sees
+`and believe [?] and happy-to from and food see`
+
+**8**  […] believe. Here ends this holy gospel. And he kneeled,
+`[?] believe end this holy-gospel and kneel_(down)`
+
+**9**  holy Thomas, before Lord Jesus, and holy Thomas said, Lord,
+`holy-Thomas before Lord-Jézus and say holy-Thomas Lord`
+
+**10**  Thomas's God; Thomas asked this of the Lord,
+`<preposition_of_genitive>-Thomas God <preposition_of_genitive>-Thomas ask_(for)-Thomas this-Lord-<suffix_of_divine_name>`
+
+**11**  have mercy on Thomas, who through sin against this Lord
+`have_mercy Thomas who this-Thomas through +sin against this-Lord-<suffix_of_divine_name>`
+
+> John 20:26–29. Line 4 is *reach hither thy finger*, line 6 is *blessed are
+> they that have not seen, and yet have believed*, and lines 9–10 are *My Lord
+> and my God*, which the codex renders as Thomas's Lord and Thomas's God
+> because of the rule that a name sign stands in for the pronoun.
+
+## 009v — Thomas blesses him, and the Good Shepherd begins
+
+**1**  Thomas, this Lord, Thomas believed […] this Lord truly
+`this-Thomas this-Lord believe-Thomas [?] this-Lord righteous(ly)`
+
+**2**  the Son of the living God. And then Thomas blessed Lord Jesus Christ.
+`son living God and then-exist Thomas exist bless Lord-Jézus-Christ.`
+
+**3**  And have mercy on Thomas's sin. And Lord Jesus said, every […] and […] […] from
+`and +sin Thomas have_mercy and say Lord-Jézus each,_every [?] and [?] [?] from`
+
+**4**  […] believing in Lord Jesus Christ, every gentile man and Jew
+`[?] on-believe to-Lord-Jézus-Christ each,_every of_an_alien_nation,_pagan somebody Jew(ish)`
+
+**5**  […] have mercy on sin. Here ends this apostle's holy gospel; blessed be the Lord.
+`[?] +sin have_mercy end this apostle holy-gospel on-Lord-<suffix_of_divine_name> bless`
+
+**6**  Here ends this holy gospel.
+`end this holy-gospel`
+
+**7**  Written by holy John
+`write holy-John`
+
+**8**  in the tenth chapter of his writing.
+`inside ten chapter <preposition_of_genitive>-write`
+
+**9**  At that time Lord Jesus said
+`time say Lord-Jézus`
+
+**10**  […] supper, apostles,
+`[?] dinner apostle`
+
+**11**  to his Lord, this good Lord, before the son, in turn, you, from the apostles
+`<preposition_of_genitive>-Lord this-Lord good ?son-before in_turn you from apostle`
+
+> Thomas's confession, *my Lord and my God*, John 20:28, then the book turns
+> to John 10, the Good Shepherd.
+
+## 064r — the good shepherd and the hireling
+
+**1**  his sheep, and the Lord knows his sheep, and
+`<preposition_of_genitive>-Lord sheep and Lord ~know <preposition_of_genitive>-Lord sheep and`
+
+**2**  this Lord knows his sheep. And then Lord Jesus: then
+`this-Lord ~know <preposition_of_genitive>-Lord sheep +and_then Lord-Jézus | then`
+
+**3**  there was a king, and then he had two shepherds,
+`exist one king and then-exist ~have two ?sons`
+
+**4**  one who kept the house well, a shepherd; the other in turn a hired
+`one ~who home good ?sons in_turn-two farm_hand`
+
+**5**  shepherd. And then, of the two shepherds […] from one
+`?sons and then-exist from two ?sons chapter-[?] from one`
+
+**6**  herd of sheep of this king; and then came the wolf
+`herd sheep this king and then-exist go wolf`
+
+**7**  to this sheep, and would carry this sheep away
+`this sheep and want this sheep from-~carry`
+
+**8**  and this hired shepherd, of the shepherds […]
+`and this farm_hand ?sons from ?sons [?]`
+
+**9**  this sheep; in turn the good shepherd, of the house, of the shepherds
+`this +sheep in_turn-this good ?sons home from ?sons`
+
+**10**  redeemed this sheep, and made the sheep ready in the herd
+`redeem this +sheep and +sheep prepare inside herd`
+
+**11**  and took it into the good keeping, and one carried away, and
+`and inside-good-exist-to grab and one from-~carry and`
+
+> John 10:11–13, told as a parable of a king with two shepherds, one his own
+> and one hired. The wolf comes, the hireling flees, the good shepherd
+> redeems the sheep.
+
+## 064v — the good shepherd giveth his life, and other sheep I have
+
+**1**  in turn who […] […] this herd, and went.
+`in_turn-who [?] [?] this herd and go.`
+
+**2**  The wolf, and the sheep carried away; and then
+`wolf and sheep from-~carry +and_then`
+
+**3**  Lord Jesus: he who is the good shepherd, of the shepherds, lays
+`Lord-Jézus to-+he_who good ?sons from ?sons put`
+
+**4**  down his […] for his sheep; and the Lord takes
+`down <preposition_of_genitive>-Lord [?] to-<preposition_of_genitive>-Lord +sheep and grab-Lord`
+
+**5**  and one […] he who is the good shepherd, of the shepherds,
+`and one [?] +he_who good ?sons from ?sons`
+
+**6**  is the gate of his sheep; and then they hear
+`+<subject_marker> ~gate <preposition_of_genitive>-Lord sheep and then-exist hear`
+
+**7**  the voice of the Lord; the sheep […] the shepherd go; and then
+`voice,_sound <preposition_of_genitive>-Lord-<suffix_of_divine_name> sheep [?] ?sons go +and_then`
+
+**8**  Lord Jesus, his apostles, one creature […] one sheep
+`Lord-Jézus apostle <preposition_of_genitive>-Lord ?creature-+one [?] one +sheep`
+
+**9**  and these sheep I will bring to you […] and go
+`and this-sheep will to-you [?] go and`
+
+**10**  you shall be every one, one shepherd, shepherds
+`you exist each,_every one ?sons ?sons`
+
+**11**  one; thanks to the Lord. Here ends this holy gospel.
+`one to-Lord thanks Lord-<suffix_of_divine_name> end this holy-gospel`
+
+> John 10:11–16. Line 3 is *the good shepherd giveth his life for the sheep*,
+> line 6 is *I am the door of the sheep*, line 7 is *they hear his voice*, and
+> lines 8–10 are *other sheep I have... and there shall be one fold, and one
+> shepherd*.
+
+## 065r — beware of false prophets
+
+**1**  Here ends this holy gospel.
+`end this holy-gospel`
+
+**2**  Written by holy Matthew
+`write holy-Matthew`
+
+**3**  in the last of his writing.
+`inside ?the_last <preposition_of_genitive>-write`
+
+**4**  At that time, then the chapter
+`time | then-chapter`
+
+**5**  of the day of Lord Jesus Christ,
+`+day Lord-Jézus-Christ`
+
+**6**  thirty, three days.
+`thirty +three_days`
+
+**7**  At that time Lord Jesus said
+`time say Lord-Jézus`
+
+**8**  to his apostles, go, and to you […] believe
+`apostle <preposition_of_genitive>-Lord go to-you [?] believe-chapter`
+
+**9**  false prophets, pagan, evil […] they are pagan
+`false prophet pagan evil [?] exist pagan`
+
+**10**  evil, the Lord's trespass […] […] the apostles, men,
+`evil trespass Lord [?] [?] apostle somebody`
+
+**11**  and the pagan evil believe, because they are false
+`and pagan evil believe because exist false`
+
+> Matthew 7:15, *beware of false prophets, which come to you in sheep's
+> clothing.* The codex has put it straight after the Good Shepherd, which is
+> where the sheep's clothing belongs.
+
+## 065v — by their fruits ye shall know them
+
+**1**  the Lord's name […]; and then Lord Jesus, to his apostles,
+`Lord +name [?] +and_then Lord-Jézus apostle <preposition_of_genitive>-Lord`
+
+**2**  […] […] this Lord spoke to you; and then
+`[?] [?] this-Lord you speak +and_then`
+
+**3**  Lord Jesus: do not pick figs from thistles, but rather from the fig, and […]
+`Lord-Jézus do_not_pick fig on-thistle ?but_rather-to on-fig and | [?]`
+
+**4**  food, grapes […] not from the grapevine,
+`food grape [?] ~a) on-grapevine`
+
+**5**  because he who is a good tree brings this good fruit; in turn
+`because ?he_who good tree this +good_fruit grab | in_turn`
+
+**6**  likewise the evil tree brings this evil of hell.
+`?likewise die-evil tree this die-evil-hell grab`
+
+**7**  Because a good tree cannot bring forth the evil of hell,
+`because good tree can die-evil-hell grab ~a)`
+
+**8**  every good fruit it brings; in turn likewise the evil tree
+`each,_every +good_fruit grab in_turn-?likewise die-evil tree`
+
+**9**  cannot bring good fruit, but every evil of hell
+`can +good_fruit grab ~a) each,_every die-evil-hell`
+
+**10**  it brings. And then Lord Jesus, many people were crying out against the judgment
+`grab +and_then Lord-Jézus many people exist shout | on-judge`
+
+**11**  the Lord's year, to the Lord; this man's trespass; this the Lord preached, and Lord Jesus said
+`year Lord to-Lord this somebody trespass this Lord preach and say Lord-Jézus`
+
+> Matthew 7:16–20. *Do men gather grapes of thorns, or figs of thistles?* on
+> lines 3–4, and the good tree and the corrupt tree on lines 5–9, in the same
+> order as the gospel.
