@@ -1,0 +1,32 @@
+============================================================================
+SUBSTITUTION FRAMES: WORKING BACKWARDS FROM WHAT THE BOOK REPEATS
+============================================================================
+runs of consecutive codes 5003, codes 29997
+
+ radius   frames  both defined  one undefined
+      2       85            18             44
+      3       11             0              5
+      4        0             0              0
+
+THE GATE -- radius 3, declared before the run
+  frames where both codes are defined      0
+  the two glosses share a content stem       0.0%
+  same test, one member randomised           0.0%  (sd 0.00)
+  ratio 0.00x     sigma 0.0
+
+  BAR: hit >= 40%, ratio >= 2.0x, sigma >= 5.0  ->  FAIL
+
+  known frames, most attested first:
+
+============================================================================
+WHAT IT WOULD HAVE READ (gate failed, nothing is claimed)
+============================================================================
+  undefined, unsegmentable codes given a reading       5
+  tokens they carry                                  75  (0.3% of the book)
+
+      n  code                reads as
+     38  e285                peace   (1 frame)
+     22  ea79                Master   (1 frame)
+      8  e991 eae1           a)   (1 frame)
+      6  e060 eae1           day   (1 frame)
+      1  e707                they all   (1 frame)

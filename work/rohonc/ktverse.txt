@@ -1,0 +1,59 @@
+============================================================================
+ANCHORS: THE LINES THAT MATCH A KNOWN PASSAGE
+============================================================================
+reference corpus 1746498 words, 174647 windows of 30, 52537 located stems
+lines with 3+ readable content stems   4275 of 4372
+anchors (top 5% by score)             213
+  score range  21.1 .. 32.5   (all lines median 15.7)
+
+  the ten strongest, with the passage they land on:
+
+   017v:3   score   32.5
+     codex   on-golden open is Anne (mother of the Virgin Mary) <genitive pronoun>-lord Joachim (the father of Virgin Mary) who the-form a
+     source  of the meus in the bishopric of ieg and ann had thre husband joachim dleopha and salom and of the first she had a laughter nam mary the mother of
+
+   109r:10  score   30.0
+     codex   good [?] exist see heaven sake as who
+     source  look up and see his father and mother abov in heaven and then he thank our lord god of his great mercy and goodnes that it pleas him to show
+
+   073r:7   score   29.5
+     codex   [?] exist we the-Hail they all in <genitive pronoun>-lord who-exist-the
+     source  hail s salut hayr s heir hal i j whol healthy hal out v fall draw out half s behalf half for v hav haly adv wholly hals s neck
+
+   008r:3   score   28.4
+     codex   create that [?] so who keep <genitive pronoun> peace [?] lord-<suffix of divine name> will they all
+     source  man even the smallest creatur liv together in peac and concord with each other all thes has the great creator and lord of all command to observ peac a
+
+   135r:3   score   28.2
+     codex   remit debt [?] see so lord-<suffix of divine name>-king [?]
+     source  us our debt as we forgiv our debtor and lead us not into temptation but deliver us from evil for thin is the kingdom and the power and the glory
+
+   007v:1   score   27.5
+     codex   [?] [?] Paradise who a create
+     source  vii viii ix the creation to the fifth day cardmaker god creat adam and eve fuller adam and eve in the garden of eden cowfer man s disobedienc and fall
+
+   126r:2   score   27.5
+     codex   Paradise who a create [?] in
+     source  vii viii ix the creation to the fifth day cardmaker god creat adam and eve fuller adam and eve in the garden of eden cowfer man s disobedienc and fall
+
+   144v:1   score   27.1
+     codex   beg widow-Mary will-we good [?] grab heaven
+     source  on her natur and flesh human for to sav the world it was well thing reasonabl that the angel should com to the gloriou virgin mary for lik as eve
+
+   080v:5   score   27.0
+     codex   so holy-Word book holy-Luke in two chapter <genitive pronoun>-book time
+     source  of s luk is signifi as it is say tofor and when ezechiel say in the second chapter that he had see the book that was write without and within
+
+   119r:5   score   26.8
+     codex   hundred sheep in field who if-exist lose a
+     source  man of you hav an hundr sheep if he los one of them doth not leav the ninety and nin in the wildernes and go after that which is lost
+
+============================================================================
+THE GATE -- can a located passage recover a word hidden from it?
+============================================================================
+  held-out codes tested                    925
+  gloss found in the relocated window       15.5%
+  same test against a random window          4.1%  (sd 0.61)
+  ratio 3.75x     sigma 18.5
+
+  BAR: hit >= 40%, ratio >= 2.0x, sigma >= 5.0  ->  FAIL

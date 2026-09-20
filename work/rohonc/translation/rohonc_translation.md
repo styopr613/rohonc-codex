@@ -61,6 +61,8 @@ by ten. Four readings confirm it against a known number in the source:
 | `ten-ten-ten-ten` | 40 | 004v:11 | forty days and forty nights |
 | `two-two-ten` | 40 | 008r:11 | the rain fell forty days |
 | `six-two` | 8 | 021v:10 | circumcised on the eighth day, Luke 2:21 |
+| `nine-ten` + `nine` | 99 | 119r:7 | the ninety and nine sheep, Luke 15:4 |
+| `six-six` | 12 | 022r:10 | the twelve apostles |
 | `ten-six` | 16 | 019v:5 | Mary's age at the Annunciation |
 
 Király and Tokai gloss one very common code "place-value delimiter in
@@ -2405,3 +2407,100 @@ Family stayed twelve years in Egypt.
 > he says "I am he", and they go backward and fall to the ground — and then
 > the whole exchange repeats, exactly as it does in John. The codex also
 > explains why Judas needed to identify him: John looked like him.
+
+---
+
+# Two parables, found mechanically
+
+These two folios were not reached by translating in page order. `ktverse.py`
+scored every line of the codex against the reference corpus and ranked them,
+and these came out near the top on their own. They are the clearest known
+plaintext in the book, and both are confirmed by something outside my reading
+of them.
+
+## 135r — the Unmerciful Servant
+
+**1**  A king, and the Lord God begins […] […] […]
+`king and Lord-<divine> begin [?] [?] [?]`
+
+**2**  […] […] […] would a man, the Lord God […]
+`have [?] to [?] want somebody this Lord-<divine> [?]`
+
+**3**  forgive the debt. And behold, the Lord God the king […]
+`remit indebted ~and see this Lord-<divine>-king [?]`
+
+**4**  The servant of the Lord God the king humbled himself — the man-servant — and
+`~humble this servant <of>-Lord-<divine>-king somebody-servant and`
+
+**5**  the man had mercy, the Lord God the king; and the man forgave all […]
+`somebody have_mercy this Lord-<divine>-king and somebody have_mercy each,_every [?]`
+
+**6**  of the man's sin. And the man went […] to his
+`<of>-somebody sin and somebody go-angel <of>-somebody`
+
+**7**  home. And then, as the man went on, the fellow-servant
+`home and then-exist keep_going-somebody this heavenly servant`
+
+**8**  of his household — and then he met one | God
+`<of>-somebody home and then-exist appear one | God`
+
+**9**  the man, this man, the fellow-servant; and the man was
+`somebody this somebody heavenly servant and somebody exist`
+
+**10**  in debt […] pence; and the man of God began to demand it.
+`indebted [?] denarius and God-somebody begin ask_(for)`
+
+> Matthew 18:23–35. The king who forgives a great debt, the servant who
+> worships him, and the fellow-servant who owed a hundred pence.
+>
+> **This one does not rest on my reading at all.** Király and Tokai's own
+> dictionary contains a code they gloss "adjective of the unmerciful servant",
+> and it is the word standing at lines 7 and 9 where the fellow-servant
+> stands. They had identified this parable already. Their dictionary also
+> contains *denarius*, which is the coin of this parable and of almost
+> nothing else.
+
+## 119r — the Lost Sheep
+
+**1**  […] […] and the scribes murmured at the Lord Jesus, that the Lord spoke
+`[?] [?] and church_father murmur on-Lord-Jézus this-Lord speak`
+
+**2**  [as] the Son of God; and when the Lord was the Son of God | this
+`son God in_turn then-exist this-Lord exist son God | this`
+
+**3**  Lord […] went, this […] […] the Lord Jesus | when
+`Lord [?] go this [?] [?] Lord-Jézus | then`
+
+**4**  What man is there among you | who has one
+`exist one have among you | one`
+
+**5**  hundred sheep in the wilderness, and if he lose one
+`hundred sheep inside field and then-exist lose one`
+
+**6**  of them […] […] […] the man is […] the lost one […]
+`among [?] [?] [?] somebody exist [?lost] [?]`
+
+**7**  and does he not leave the ninety sheep and nine
+`and exist from-food-somebody from nine-ten sheep and nine`
+
+**8**  in the wilderness, and go, the man […] nine, [after] the lost one
+`inside field and go-somebody [?] nine [?lost]`
+
+**9**  to find it; and when he finds the lost one,
+`find and then-exist [?lost] find-somebody`
+
+**10**  and the man takes it up […] | upon
+`and [?lost] grab-somebody [?] | on`
+
+> Luke 15:2–5 and Matthew 18:12–13. The scribes murmuring, "what man of
+> you, having an hundred sheep, if he lose one of them, doth not leave the
+> ninety and nine in the wilderness", and laying it on his shoulders.
+>
+> **Two things confirm this without my reading.** The codex writes *ninety
+> and nine* the way Luke does, as ninety followed by nine, and it writes
+> ninety as nine-ten, which is the same rule the other numerals follow. And
+> the unread code marked `[?lost]` above occurs four times in the whole book:
+> three of them are here, in the three places the lost sheep belongs, and the
+> fourth is at 103v:2 beside the word *soul*. "Lost" works in all four. That
+> is Király and Tokai's own method — carry a guess to every occurrence and
+> keep it only if it survives — and this guess survives.
