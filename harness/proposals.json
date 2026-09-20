@@ -3161,5 +3161,209 @@
   "tier": "A",
   "n": 1,
   "evidence": "their coordinating conjunction and entry lists this spelling at 095v08"
+ },
+ "5204c04c3": {
+  "gloss": "drink",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their drink entry lists this spelling at 095v09"
+ },
+ "748": {
+  "gloss": "field",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their field, wilderness entry lists this spelling at 096v01 and 178r03"
+ },
+ "520ae02700a20a2ae0": {
+  "gloss": "bread",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their bread entry lists this spelling at 096v05"
+ },
+ "074520": {
+  "gloss": "heart",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their ? heart entry lists this spelling at 098v02"
+ },
+ "520713": {
+  "gloss": "church_father",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their '?? scholar or church father' entry lists 520713 at 101v07. Two question marks of theirs"
+ },
+ "a108e0520794": {
+  "gloss": "heavenly",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their heavenly entry lists this spelling at 103v03"
+ },
+ "7d1": {
+  "gloss": "Wednesday",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Wednesday entry lists this spelling at 110v11"
+ },
+ "9e2": {
+  "gloss": "but",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their concessive conjunction but, however entry lists this spelling at 118v06"
+ },
+ "540060060540060ae060d": {
+  "gloss": "Adam_and_Eve",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their dictionary gives this word its own entry at 125v01 and spells out what it is: 'aggregatum: 060060 + 540060540ae0 + 54060b', their two, their Adam and their Eve written as one word"
+ },
+ "ad8": {
+  "gloss": "through",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their preposition through, across entry lists this spelling at 128v09"
+ },
+ "520520ab0": {
+  "gloss": "gate",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their gate entry lists this spelling at 137v01"
+ },
+ "4e10124e0": {
+  "gloss": "go_up",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their go up entry lists this spelling at 137v07"
+ },
+ "a15": {
+  "gloss": "host",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their host (of the Eucharist) entry lists a15 at 180v06"
+ },
+ "a108f05202c0": {
+  "gloss": "sell",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their vend, sell entry lists this spelling at 150r06"
+ },
+ "5201b4910": {
+  "gloss": "that",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their subordinating conjunction of object that entry lists this spelling at 153r03"
+ },
+ "5400608c12c1": {
+  "gloss": "begin_to_talk",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their ? (begin to) talk entry lists this spelling at 155v07"
+ },
+ "5407a3540994": {
+  "gloss": "wife",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their wife entry lists this spelling at 156r06"
+ },
+ "a74ae0": {
+  "gloss": "oh",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their vocative particle oh entry lists this spelling at 157r04"
+ },
+ "5204e25d2": {
+  "gloss": "chase",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their chase entry lists this spelling at 159v06"
+ },
+ "033ae0": {
+  "gloss": "rope",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their ? rope entry lists this spelling at 161v01"
+ },
+ "540172ae0": {
+  "gloss": "health",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their ? recovery or health entry lists this spelling at 161v06"
+ },
+ "7e7": {
+  "gloss": "descendant",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their descendant entry lists this spelling at 164r07"
+ },
+ "5201b4": {
+  "gloss": "who",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their relative pronoun [that] who entry lists this spelling at 167r06 and 153r03"
+ },
+ "ad2": {
+  "gloss": "Pharisee",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Pharisee entry lists this spelling at 170v05, which they tie to Mt 9:14"
+ },
+ "7b17a0783a10458": {
+  "gloss": "return",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their return entry lists this spelling at 173v01"
+ },
+ "a10002a10456": {
+  "gloss": "servant",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their servant, serve entry lists this spelling at 093r09, 10, 093v08 and 175r05"
+ },
+ "060060509": {
+  "gloss": "pagan",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their of an alien nation, pagan entry lists this spelling at 176r08"
+ },
+ "060060508": {
+  "gloss": "pagan",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their of an alien nation, pagan entry lists this spelling at 176v01"
+ },
+ "060509": {
+  "gloss": "pagan",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their 'of an alien nation, pagan' entry gives 'suff. 060509 176v04'"
+ },
+ "7e1670ae069c151": {
+  "gloss": "Galilee",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Galilee entry lists this spelling at 177v01"
+ },
+ "2c0850a10795": {
+  "gloss": "sin_against",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their dictionary gives this word its own entry at 179r03 and says what it is: an aggregate of 2c0850812a82 and a10a10795"
+ },
+ "a10670371b47": {
+  "gloss": "sin_against",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their '[to sin] against' entry (2c13f1) names b47 at 183v02 and glosses the worked example 'I have sinned against you, Father'"
+ },
+ "520962": {
+  "gloss": "daughter",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their daughter, ?? girl [child] entry lists this spelling at 154vp1:01"
+ },
+ "b23574": {
+  "gloss": "living",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their living entry (574) names this spelling; their worked examples are 'the True Son of the Living God' and 'judge the quick and the dead'"
  }
 }
