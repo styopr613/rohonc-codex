@@ -4543,3 +4543,236 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Matthew 7:16–20. *Do men gather grapes of thorns, or figs of thistles?* on
 > lines 3–4, and the good tree and the corrupt tree on lines 5–9, in the same
 > order as the gospel.
+
+## 066r — the weeping and gnashing of teeth
+
+**1**  and […] the man who can speak of the Lord, go to the Lord, the Lord's heart
+`and [?] somebody can-say-Lord go Lord-<suffix_of_divine_name> Lord +heart`
+
+**2**  the man, and the Lord saved every one, Adam gained, this man
+`somebody and +be_saved Lord each,_every ~Adam gain this somebody`
+
+**3**  […] the year out, the man […] of his Father, and this man
+`[?] out(ward)-year somebody [?] <preposition_of_genitive>-Lord father-<suffix_of_divine_name> and this somebody`
+
+**4**  every man […] into […] the heavenly home of his
+`each,_every somebody [?] inside [?] heavenly home <preposition_of_genitive>-Lord`
+
+**5**  Father; but every one goes, the man, to hell
+`father-<suffix_of_divine_name> a) each,_every go somebody on-chapter-oh chapter-oh hell`
+
+**6**  fire; there is seen the gnashing of teeth and crying
+`fire there exist see grinding tooth crying`
+
+**7**  for ever; in turn, and the man is […] the man
+`chapter-oh chapter-oh in_turn and somebody exist [?] somebody`
+
+**8**  says, three, Lord upon Lord upon Lord, saved by the Lord, every people, this man
+`say +three Lord-chapter-Lord-chapter-Lord +be_saved Lord each,_every ?people this somebody`
+
+**9**  every one goes into […] the heavenly home of his Father; there
+`each,_every go inside [?] heavenly home <preposition_of_genitive>-Lord father-<suffix_of_divine_name> there`
+
+**10**  is the man's judgment, to the Lord, and the angels, and his Lord Father
+`exist somebody judge to-Lord and angel and <preposition_of_genitive>-Lord-father`
+
+**11**  God, for ever, amen. Here ends this holy gospel.
+`God chapter-oh chapter-oh amen end this holy-gospel`
+
+> Matthew 8:12, *there shall be weeping and gnashing of teeth*, set against
+> *in my Father's house are many mansions*, John 14:2, which is where the
+> next folio begins.
+
+## 066v — whatsoever ye shall ask the Father in my name
+
+**1**  Here begins this holy gospel
+`begins this holy-gospel`
+
+**2**  written by holy John
+`write holy-John`
+
+**3**  in the fourteenth chapter of his writing.
+`14-+one chapter <preposition_of_genitive>-write`
+
+**4**  At that time Lord Jesus said
+`time say Lord-Jézus`
+
+**5**  to his apostles, at the last supper,
+`apostle <preposition_of_genitive>-Lord on-last dinner`
+
+**6**  […] […] this the Lord spoke to you: love.
+`[?] [?] this-Lord you speak love`
+
+**7**  Whatsoever ye shall ask of the Lord's Father
+`whatever you exist ~ask_(for) from <preposition_of_genitive>-Lord-from father-<suffix_of_divine_name>`
+
+**8**  in the Lord's name, ye shall all receive it saved
+`inside <preposition_of_genitive>-Lord +name each,_every you +be_saved grab`
+
+**9**  from heaven, from this Lord Christ. And this Lord Jesus spoke, saying,
+`from heavenly from this-Lord Christ and this say speak Lord-Jézus`
+
+**10**  on the way, to his apostles, and said, O the Lord's son.
+`on-way apostle <preposition_of_genitive>-Lord and say oh <preposition_of_genitive>-Lord son.`
+
+> John 14:13–14, *whatsoever ye shall ask in my name, that will I do*, placed
+> at the last supper as the gospel places it.
+
+## 067r — whose son is he, and thou art the Son of the living God
+
+**1**  Judge this: whose son is he?
+`judge this-Lord you whose? son | ?is_he`
+
+**2**  […] the apostles spoke to the Lord, and the apostles said, the apostles answered, this Lord
+`[?] to-Lord speak apostle and say apostle +answered apostle this Lord`
+
+**3**  believe […] this Lord […] truly the Son of the living God. And
+`believe [?] this Lord [?] righteous(ly) son living God and say`
+
+**4**  Lord Jesus said, O the Lord's son, this Lord casts this out;
+`Lord-Jézus oh <preposition_of_genitive>-Lord son this-Lord this exorcise`
+
+**5**  if you believe this, it is to the Lord
+`if-to you this believe exist to-Lord`
+
+**6**  that this Lord is truly the Son of the living God […] and […]
+`this-Lord righteous(ly) son living God [?] and [?] | ?is_he`
+
+**7**  […] believe, believing, because this Lord who goes
+`[?] believe believe-+day because this-Lord who-go`
+
+**8**  to the death, to the Lord's death […] ask this of you […]
+`on-die to-Lord-die [?] ~ask_(for) this-Lord you [?]`
+
+**9**  in the Lord […] the apostles, because you are apostles, many sorrowing
+`inside Lord [?] apostle because you exist apostle many sad(ly)`
+
+**10**  on the Lord you have, because you apostles, all the apostles
+`on-Lord have because you apostle each,_every apostle`
+
+**11**  […] […] go and go […] and to and one and
+`[?] [?] go-go [?] and to-and one and`
+
+> Matthew 22:42, *what think ye of Christ? whose son is he?*, answered with
+> Peter's confession from Matthew 16:16, *thou art the Christ, the Son of the
+> living God*.
+
+## 067v — he that believeth and is baptized shall be saved
+
+**1**  one […] and this Lord, on the third day, rose again.
+`one [?] and this-Lord +on_the_third_day +one-?again.`
+
+**2**  He stood up, and this Lord, believing in you, within
+`stand_up-to and this-Lord you believe-+day inside`
+
+**3**  belief, afterwards […] there is
+`believe ?afterward [?] exist`
+
+**4**  a leaving; for ever, amen. And the two
+`leave-chapter-leave chapter-oh chapter-oh amen and two`
+
+**5**  men […] you, and the apostles are one
+`somebody [?] you and exist apostle one`
+
+**6**  God; the apostles believe, and the man who is outside this […]
+`God believe apostle and somebody exist out(ward) this [?]`
+
+**7**  and one man is saved, but every man is damned
+`and one somebody be_saved a) each,_every somebody be_damned`
+
+**8**  and the man who believes in […] Christ, this
+`~to and somebody exist believe inside [?]-~Christ this`
+
+**9**  whosoever shall be saved, because this is to the Lord, one God.
+`?whosoever exist +be_saved because this to-Lord one God`
+
+**10**  Here ends this holy gospel. […] the man has, he asks
+`end this holy-gospel [?] have somebody ask_(for)`
+
+**11**  in Jesus' name he is saved, speaks holy Paul the apostle
+`inside Jézus +name be_saved speak holy-Paul apostle`
+
+> Mark 16:16, *he that believeth and is baptized shall be saved; but he that
+> believeth not shall be damned*, on lines 7–9, then the book turns to Paul.
+
+## 068r — love the Lord, and thy neighbour as thyself
+
+**1**  this word, Paul's brethren; Paul the man has, he asks
+`this word brother <preposition_of_genitive>-Paul have somebody-Paul ask_(for)`
+
+**2**  in Jesus' name; three things Paul the man asks; in turn
+`inside Jézus +name +three ask_(for)-somebody-Paul | in_turn`
+
+**3**  the brethren, Paul the man would be saved first; he asks, the man,
+`?brethren want-somebody-Paul +be_saved first | ask_(for)-somebody`
+
+**4**  Paul: love the Lord most high with all the heart, and every man as his neighbour
+`Paul love Lord-<suffix_of_divine_name> most_high each,_every +heart and each,_every somebody how?-to +neighbour`
+
+**5**  as the neighbour; and the man shall be saved. In turn the second he has,
+`to-+neighbour and exist somebody be_saved in_turn-two have`
+
+**6**  Paul the man asks, in Jesus' name […]
+`somebody-Paul ask_(for) inside Jézus +name [?]`
+
+**7**  believe; Paul the man asks of Lord Jesus, in his
+`believe ask_(for) somebody-Paul from Lord-Jézus inside <preposition_of_genitive>-Lord`
+
+**8**  name. The third Paul the man has, he asks, in
+`and-to-end-+name +third have somebody-Paul ask_(for) | inside`
+
+**9**  Jesus' name, saved by Lord Jesus, in his
+`Jézus and-to-end-+name be_saved from Lord-Jézus inside <preposition_of_genitive>-Lord`
+
+**10**  […] name, and the man shall be saved. Here ends
+`[?] and-to-end-+name and exist somebody be_saved end`
+
+**11**  this apostle's holy gospel.
+`this apostle holy-gospel`
+
+> The great commandment, Matthew 22:37–39, attributed here to Paul and set
+> out as three things asked in Jesus' name. The sign read here as *neighbour*
+> was read from exactly this frame.
+
+## 068v — of sin, and of righteousness, and of judgment
+
+**1**  Here begins this holy gospel
+`begins this holy-gospel`
+
+**2**  written by holy John, in
+`write holy-John inside`
+
+**3**  the sixteenth chapter of his writing.
+`ten-six chapter <preposition_of_genitive>-write`
+
+**4**  At that time Lord Jesus said
+`time say Lord-Jézus`
+
+**5**  to his apostles, at the last
+`apostle <preposition_of_genitive>-Lord on-last`
+
+**6**  supper: this Lord goes to his Father; you learn,
+`dinner this-Lord go-Lord <preposition_of_genitive>-Lord father-<suffix_of_divine_name> you learn`
+
+**7**  he does, heaven and earth, that is, this Lord […]
+`do, heavenly land that_is this-Lord [?]`
+
+**8**  to the death; the Lord dies, and this Lord goes from you […]
+`on-die Lord die and this-Lord you go | [?]`
+
+**9**  the day; in turn he who, this Lord, this dies for you […]
+`+day in_turn-who this-Lord this die to you [?]`
+
+**10**  the Holy Spirit; the Lord dies, and this Lord, to you
+`holy-spirit Lord die and this-Lord you`
+
+**11**  the Holy Spirit goes, and you shall see two
+`go holy-spirit and you exist see-two`
+
+**12**  judgments: first of sin; in turn the second of righteousness; the third, judgment
+`judge first from +sin in_turn-two from righteous(ly) +third judge`
+
+> John 16:7–8, *it is expedient for you that I go away... and when he is
+> come, he will reprove the world of sin, and of righteousness, and of
+> judgment.* Line 12 has the three in the gospel's order, counted with the
+> codex's own ordinals.

@@ -954,11 +954,14 @@ until they are asked.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 119
+With the rendering on the page it became possible to read it, and 125
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
-The most recent fourteen run from 060r to 065v without a break: the road to
-Emmaus, then Thomas, then the Good Shepherd, then the false prophets and the
-good and corrupt trees. The codex **names Cleopas** at 061r:6, which is Luke
+The most recent twenty run from 060r to 068v without a break: the road to
+Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
+gnashing of teeth, asking in his name, *whose son is he*, *he that believeth
+and is baptized shall be saved*, the great commandment, and at 068v:12 the
+three that the Spirit reproves, **of sin, and of righteousness, and of
+judgment**, in the gospel's order and counted with the codex's own ordinals. The codex **names Cleopas** at 061r:6, which is Luke
 24:18. The Emmaus stretch
 breaks off mid-journey into Abraham and Isaac. The typology there is the
 standard one and the codex states it outright at 062v:2-3: **as Abraham gave
