@@ -102,27 +102,16 @@ infer. The word was sitting inside it.
 The grammar is theirs. What is new is checking it independently and running it
 across the whole book.
 
-It is worth being exact about what a percentage of the book means, because
-there are two numbers and one of them is much weaker. **95.1% of the words now
-have *a* reading, and 74.0% of the lines have every word read.** The second is
-the one that matters: a sentence with one unreadable word in it is not a
-sentence you can read. It stood at 2.8% before any of this and at 62.4% on the
-morning of 2026-09-20.
-
-Even the word figure overstates how much is understood. Only about one word in
-eight has a single meaning with no choice to make; most carry several senses
-each, and the rule for choosing between them is in the grammar paper Király
-and Tokai have not published.
+It is worth being exact about what "78% of the book" means, because it is the
+weakest of three numbers. It means 78% of the words have *a* reading. Only
+11.5% of them have a single meaning with no choice to make; the rest carry
+several senses each, and the rule for choosing is in the grammar paper Király
+and Tokai have not published. The number that matters most is lines: a
+sentence with one unreadable word in it is not a sentence you can read, and
+the share of lines where every word has a reading went from 2.8% to 20.6%.
 
 So the obstacle has moved rather than gone. It used to be missing vocabulary.
-It is now two things: missing grammar, which is theirs to publish, and 989
-signs that occur exactly once in the manuscript and that their dictionary never
-mentions. A sign that occurs once cannot be checked against a second
-occurrence, which is the whole method, so a reading of one is a guess about a
-line rather than a reading of a sign. Read every remaining sign that occurs
-twice or more and lines fully read would reach 90.3%. That is the ceiling of
-the honest method, and it is a moving number: it stood at 82.0% earlier the
-same day and rose because the pile of once-only signs itself shrank.
+It is now missing grammar, and that is theirs to publish.
 
 The fifteenth, sixteenth and seventeenth tried to work backwards from the passages that
 are certainly right. All three failed their gates, the last one on a held-out half after the failure had been diagnosed, so that the retry could not be tuning. But the search that finds those
@@ -133,36 +122,17 @@ unmerciful servant, and the Lost Sheep page writes "ninety and nine" the way
 Luke writes it.
 
 The fourteenth asked whether unread codes one glyph away from a defined code
-are variant spellings. Its gate failed, so none were inferred, and a later
-measurement said why: of 4,824 pairs of signs that are both read and differ by
-exactly one glyph, only 103 -- 2.1% -- mean the same thing. One glyph of
-distance is almost always a different word. What their own dictionary
-*declares* is another matter, and declaring is what it does at length: 88
-variants their entries mark "var." had been dropped by the loader, and putting
-those back took words with a reading to 78.8% at the time.
+are variant spellings. Its gate failed, so none were inferred, but their own
+dictionary declares 88 such variants that the loader had dropped, and those
+went in: 78.8% now.
 
-That turned out to be the largest seam in the project and it was found last.
-Their entries are not just headwords: each carries variant spellings,
-aggregates, negations, suffixed forms and worked examples, and every one of
-those is a glyph string they have already read, usually with the folio and
-line attached. Searching every unread sign against every entry body returned
-370 signs covering 577 words. Working that list out in one session took lines
-fully read from 62.4% to 74.0% and readings graded A from 147 to 458, at the
-cost of no guesses at all: the gloss is theirs, the line is theirs. It read
-Eve, Isaac, Abel, Noah, Joachim, Lazarus, Zacchaeus, Pilate, James, Michael,
-Gabriel, seven spellings of Nazareth and four of Galilee, Capharnaum, Bethany,
-Jericho, the Kidron, the crown of thorns, the money changer, the leper, the
-paralytic, the host of the Eucharist, and the sign for the book's own author's
-name.
-
-Two hundred and seventy-eight of the 441 folios are now translated, and two
-passages in them settle what kind of book it is. Folios 48 recto and verso are the Reproaches sung on Good
+Ninety-one folios are now translated, and two passages in them settle what
+kind of book it is. Folios 48 recto and verso are the Reproaches sung on Good
 Friday, and folio 52 verso is Longinus, the blind soldier healed by the blood
 from the spear, who appears in no gospel. It is a late-medieval devotional
 compilation, drawing on liturgy and legend as much as on scripture.
 
-Six hundred and seventy-eight of the signs Kiraly and Tokai leave undefined in
-their headword list have now been read, 458 of them at the top grade,
+Twenty-nine of the signs Kiraly and Tokai never defined have now been read,
 not by any of the seventeen statistical attempts, but by their own method:
 guess a sign from a passage whose story is known, then keep the guess only if
 it survives every other place the sign occurs. The method is written up in

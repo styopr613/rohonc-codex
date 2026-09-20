@@ -641,6 +641,12 @@ def main():
           "Hungarian" in flat and "second wrong prediction" in flat
           and "56.0%" in flat and "68.3%" in flat)
 
+    check("CONCLUSION: the live figures and the honest ceiling",
+          "95.1% of the words now" in conf and "74.0% of the lines" in conf
+          and "989" in conf and "90.3%" in conf
+          and "2.1% -- mean the same thing" in conf
+          and "370 signs covering 577 words" in conf
+          and "Two hundred and seventy-eight of the 441 folios" in conf)
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 
