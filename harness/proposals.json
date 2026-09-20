@@ -1847,5 +1847,35 @@
   "tier": "A",
   "n": 2,
   "evidence": "K&T's entry a10570670ae0 (2) '<a female person>', which they place at 144v-147v, lists 570a10ae0 at 145r02 and 151v04"
+ },
+ "681ae0681ae0": {
+  "gloss": "Adam",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's Adam entry (540ae0540ae0) ends its variant list '681ae0681ae0 148r03'. It stands once, at that line, where the page turns to Adam and Seth"
+ },
+ "6b1ae05202c0": {
+  "gloss": "Seth",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's Seth entry (6b1ae0520ae0, 'see Gen 4, 24-25') lists 6b1ae05202c0 at 148r04, its only occurrence"
+ },
+ "6a0812614": {
+  "gloss": "Jericho",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's Jericho entry (6a0afc614, 'Lk 10, 30') lists 6a0812614 at 148r08, its only occurrence. 148r:7-8 'one man to Jerusalem, in the town of Jericho', the opening of the Good Samaritan"
+ },
+ "67068c670": {
+  "gloss": "lose",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's entry for lose (670966520) lists 67068c670 at 148r01 and 148v08, this sign's two occurrences"
+ },
+ "b32": {
+  "gloss": "like",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's entry b33 gives 'b33520 [var. b33688 136v09; b32 147v07] like'. It stands once, at 147v07"
  }
 }

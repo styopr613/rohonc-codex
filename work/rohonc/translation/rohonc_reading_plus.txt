@@ -3739,20 +3739,20 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  host [?] servant +Lady inside time appear
  5  +Lady [?] virgin-Mary inside +image +woman +the_Baptist/woman
  6  on-each,_every people see +and_then [?] virgin-Mary this
- 7  sheep +this_is this +Lady [?] love-girl | this
+ 7  sheep +this_is this +Lady +like love-girl | this
  8  Mary this +Lady somebody do, girl
  9  exist-+Lady good +Lady ?therefore [?] in_turn
 
 
 === 148r ===
- 1  exist-+Lady [?] [?] this +Lady and
+ 1  exist-+Lady [?] +lose this +Lady and
  2  leave-chapter-leave [?] virgin-Mary before remit people.
- 3  write [?].
- 4  son [?].
+ 3  write +Adam.
+ 4  son +Seth.
  5  and this word.
  6  write go-~Adam
  7  one somebody on-Jerusalem
- 8  inside [?] town
+ 8  inside +Jericho town
  9  and then-exist and go ~Adam on-~field and then-exist.
 10  appear one can-evil and then-exist ~Adam
 11  chapter-year [?] can-evil on-~field and then-exist
@@ -3766,7 +3766,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  in_turn-two white and this [?] ~begin two mouse
  6  to-eat and then-exist see ~Adam to-~Adam
  7  and see one evil [?] and
- 8  who-shout-to ~Adam [?] [?]
+ 8  who-shout-to ~Adam +lose-~Adam [?]
  9  if ?again go-~Adam this ~Adam this | can
 
 

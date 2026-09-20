@@ -475,8 +475,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 272 folios",
-          md.count("\n## 0") + md.count("\n## 1") == 272, str(md.count("\n## 0")))
+    check("translation: the file exists and covers 278 folios",
+          md.count("\n## 0") + md.count("\n## 1") == 278, str(md.count("\n## 0")))
     import re as _re
     heads = set(_re.findall(r"^## (\d{3}[rv]) ", md, _re.M))
     try:
@@ -543,7 +543,7 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "306 signs are read" in flat
+          "METHOD.md" in flat and "311 signs are read" in flat
           and "23.8% to **61.1%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
@@ -564,7 +564,7 @@ def main():
           and "she lives on the" in flat
           and "cut their *grape* into" in flat)
     check("ROHONC: Emmaus run translated and Cleopas named",
-          "272\nfolios are translated" in doc and "names Cleopas" in flat
+          "278\nfolios are translated" in doc and "names Cleopas" in flat
           and "of sin, and of righteousness, and of" in flat
           and "child on the seashore" in flat
           and "sign for sign and in order" in flat

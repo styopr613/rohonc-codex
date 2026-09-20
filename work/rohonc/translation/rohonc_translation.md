@@ -10273,3 +10273,203 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > says the same prayer. *A female person* on line 2 is Király & Tokai's,
 > cited at this line. "Two healings of Mary" on line 5 is their Hail-Mary
 > greeting sign counted, as the three Hail Marys were counted at 138v:6.
+
+## 145v — three days, three Hail Marys
+
+**1**  This Lady spoke from thence; and two said, this woman: "Queen,
+`this-+Lady from speak and two say this woman +queen`
+
+**2**  thou who holdest heaven and earth, Lady virgin Mary."
+`grab heaven land +Lady virgin-Mary`
+
+**3**  The Lady prayed this to Mary, outwardly, fasting, fasting.
+`pray +Lady this Mary on-~out(ward) fast fast`
+
+**4**  The girl, the Lady: "Queen, thou who holdest heaven and earth" —
+`girl +Lady +queen grab heaven land`
+
+**5**  this girl, the Lady, spoke; this woman […] love,
+`this-girl +Lady speak this-+woman [?] love`
+
+**6**  this Mary would; and then Mary, the woman, served
+`this-Mary want and then-exist Mary +woman servant`
+
+**7**  three days out; and three Hail Marys she prayed; and truly at the day's beginning,
+`on-out(ward) +three_days and +three healing-Mary pray and righteous(ly) begin-+day`
+
+**8**  this day's; and […] she took; and then, out,
+`exist-today's and [?] grab and then-exist out(ward).`
+
+**9**  three days, in time, the woman went to this image
+`+three_days inside time go this woman this +image`
+
+**10**  of the virgin Mary and said, this woman: "Queen, thou who holdest heaven
+`virgin-Mary and say this woman +queen grab heaven`
+
+> The third visit to the image, and the count has gone from one to two to
+> three. Király & Tokai cite this line for the woman sign.
+
+## 146r — the Lady speaks from the image
+
+**1**  and earth, Lady virgin Mary." This Lady spoke from thence;
+`land +Lady virgin-Mary this-+Lady from speak`
+
+**2**  and two said, this woman: "Queen, thou who holdest heaven, | the town
+`and two say this woman +queen grab heaven | town`
+
+**3**  there is, Lady virgin Mary." This Lady spoke from thence.
+`exist +Lady virgin-Mary this-+Lady from speak`
+
+**4**  This woman grew angry. Forgive — the Lady went, of the Lady
+`get_angry this woman remit go-+Lady <of>-+Lady`
+
+**5**  the Lord said, this woman, this Lady; and the Lady went.
+`Lord say this woman this-+Lady and go-+Lady`
+
+**6**  Forgive, this Lord. The Lady prayed, and the Lady served
+`remit this Lord pray +Lady and servant +Lady`
+
+**7**  the virgin Mary three days out. This girl, the Lady: "Queen,
+`virgin-Mary on-out(ward) +three_days this-girl +Lady +queen`
+
+**8**  thou who holdest heaven and earth" — this Lady; and | went
+`grab heaven land this-+Lady and | go`
+
+**9**  the Lady. Forgive, this Lord said, this woman, this Lord.
+`+Lady remit this Lord say this woman this-Lord`
+
+> The prayer is said four times on this folio in the same words, which is what
+> makes the page readable at all: every slot in it is filled from a copy of
+> itself.
+
+## 146v — the nail, and the Virgin in the image
+
+**1**  The Lady went […], this Lord; this Lady the Lord would, in the place.
+`go-+Lady [?] this-Lord this-+Lady want-Lord on-place`
+
+**2**  The girl: "Queen, thou who holdest heaven and earth" […]
+`girl +queen grab heaven land [?]`
+
+**3**  this woman, of the Lady, the Lord; and the Lady took
+`this woman <of>-+Lady Lord and +Lady grab`
+
+**4**  this Lord, one […] […] upon the piercing. And
+`this Lord one [?] [?] on-pierce and.`
+
+**5**  one […] […]; and the Lady went, this, | from
+`one [?] [?] and go-+Lady this | from`
+
+**6**  the woman; and then […] the Lady went, this woman;
+`+woman and then-[?] go-+Lady this woman`
+
+**7**  and many went. | In time appeared
+`and go many | inside time appear`
+
+**8**  the Lady, the virgin Mary, within the image, the woman; and then
+`+Lady virgin-Mary inside +image +woman +and_then`
+
+**9**  […] the virgin Mary took the woman, to this | […]
+`[?] virgin-Mary grab +woman to this | [?]`
+
+## 147r — the son, and the king
+
+**1**  […] from the son, in the name of the virgin Mary, said this
+`[?] from son inside +name virgin-Mary say this`
+
+**2**  woman, this Lady; and the girl prayed; and the Lady served
+`woman this-+Lady pray girl and servant +Lady`
+
+**3**  Mary three outward, this living day. "Queen, thou who holdest heaven
+`Mary on-~out(ward) +three this-living-+day +queen grab heaven`
+
+**4**  and earth" — Mary took the girl, the Lady; this son
+`land Mary grab-girl +Lady this son`
+
+**5**  the Lady would, the son, to this […] put | and take;
+`want-+Lady son to this [?] put | grab`
+
+**6**  the girl, the Lady, the son; in turn the Lady took one
+`girl +Lady son a) +Lady grab one`
+
+**7**  […]; and then the virgin Mary, the Lady, went again to the king;
+`[?] +and_then virgin-Mary go-+Lady to-?again king`
+
+**8**  and the king took the Lady, this […]; and the brethren,
+`and king grab +Lady this [?] and ?brethren`
+
+**9**  this Lady said; from the king, living, the Lady did.
+`this +Lady say from-+king living-exist +Lady do,`
+
+## 147v — the Virgin seen by all the people
+
+**1**  And then the Lady went to this king; and from the […] king
+`and then-exist go-+Lady this king and from from-[?]-+king`
+
+**2**  this […]; and took […] this woman; and | then
+`this [?] and grab [?] this woman and | then`
+
+**3**  there were Pharisees; they left the Lady; and then the Lady, the heavenly
+`exist ?Pharisees leave +Lady and then-exist +Lady heavenly`
+
+**4**  host […] served the Lady. In time appeared
+`host [?] servant +Lady inside time appear`
+
+**5**  the Lady, […] the virgin Mary, within the image, the woman,
+`+Lady [?] virgin-Mary inside +image +woman`
+
+**6**  and upon all the people she was seen. And then […] the virgin Mary, this
+`on-each,_every people see +and_then [?] virgin-Mary this`
+
+**7**  woman: this is it. This Lady, like her, loved the girl, | this
+`woman +this_is this +Lady +like love-girl | this`
+
+**8**  Mary; this Lady, the man did, the girl.
+`Mary this +Lady somebody do, girl`
+
+**9**  The Lady is good; the Lady therefore […] in turn
+`exist-+Lady good +Lady ?therefore [?] in_turn`
+
+> *Like* on line 7 is Király & Tokai's, cited at this line as a variant of
+> their "as, like".
+
+## 148r — Adam went down to Jericho
+
+**1**  the Lady is […]; she was lost, this Lady; and
+`exist-+Lady [?] +lose this +Lady and`
+
+**2**  here ends the chapter. […] the virgin Mary, before the people, forgave.
+`leave-chapter-leave [?] virgin-Mary before remit people.`
+
+**3**  It is written of Adam.
+`write +Adam.`
+
+**4**  The son, Seth.
+`son +Seth.`
+
+**5**  And this is the word.
+`and this word.`
+
+**6**  It is written: Adam went,
+`write go-~Adam`
+
+**7**  one man, to Jerusalem,
+`one somebody on-Jerusalem`
+
+**8**  into the town of Jericho;
+`inside +Jericho town`
+
+**9**  and then Adam went into the field; and then
+`and then-exist and go ~Adam on-~field and then-exist.`
+
+**10**  there appeared an evil one; and then Adam
+`appear one can-evil and then-exist ~Adam`
+
+**11**  a year of chapters […] the evil one in the field; and then
+`chapter-year [?] can-evil on-~field and then-exist`
+
+> The Good Samaritan again, and this time with the allegory made explicit:
+> the man who went down from Jerusalem to Jericho is Adam. *Adam*, *Seth*,
+> *Jericho* and *lose* on this page are four of Király & Tokai's own
+> spellings, each cited by them at the line it stands on, and their Jericho
+> entry names the verse, Luke 10:30. The book already told this parable
+> straight at 095v-097r; here it tells it as the fall of man.
