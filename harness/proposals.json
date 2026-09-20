@@ -2987,5 +2987,179 @@
   "tier": "A",
   "n": 1,
   "evidence": "their sky, heaven entry lists 540152520270 at 048v03"
+ },
+ "4a80f15207a0": {
+  "gloss": "Noah",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their Noah entry lists '? 4a80f15207a0 061r10'. Their question mark"
+ },
+ "5203b75401c44a0": {
+  "gloss": "sword",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their sword entry lists this spelling at 061v10"
+ },
+ "b30091b30": {
+  "gloss": "go_away",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their leave, go away entry (b30) names this spelling among its forms"
+ },
+ "5204667a3": {
+  "gloss": "peace",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their peace entry gives '[var. ?? 5204667a3 062v01]'. Two question marks of theirs. The passage is the Nunc Dimittis, 'Lord, now lettest thou thy servant depart in peace'"
+ },
+ "b30290b30": {
+  "gloss": "go_away",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their leave, go away entry lists this spelling at 063r09"
+ },
+ "2c0a10850670": {
+  "gloss": "one",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their numeral one entry lists this spelling at 063v06"
+ },
+ "5203f0520151": {
+  "gloss": "if",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their conjunction ? if entry lists this spelling at 063v11"
+ },
+ "a10540a30": {
+  "gloss": "leave",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their leave, abandon entry lists this spelling at 064r08"
+ },
+ "5203f0003670060": {
+  "gloss": "lamb",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their lamb entry lists 5203f0003670060 at 065r08, in the expression they gloss '? in sheep's clothing'"
+ },
+ "5205201a2520ae0": {
+  "gloss": "herd",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their herd entry lists this spelling at 067r09"
+ },
+ "5202707e10604f0610": {
+  "gloss": "grapevine",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their grapevine entry (Jn 15, 1) lists 5202707e10604f0610 at 069r11"
+ },
+ "520202717": {
+  "gloss": "pass",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their entry for '[time] pass' lists 520202717 at 074v09"
+ },
+ "812aa8": {
+  "gloss": "or",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their '? or [else]' entry lists 812aa8 at 074v10"
+ },
+ "7f2": {
+  "gloss": "good_news",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their news, gospel entry gives '? 7f2 075r02'. Their question mark"
+ },
+ "0a2060ab0": {
+  "gloss": "gate",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their gate entry lists this spelling at 006r03-04 and 075r04"
+ },
+ "a105401527b4": {
+  "gloss": "find",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their find entry names this spelling among its forms"
+ },
+ "520b536703f0670962": {
+  "gloss": "robber",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their robber entry lists this spelling at 076v05"
+ },
+ "5200604f7ae0": {
+  "gloss": "not_suffer",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their suffer entry gives '?? 5200604f7ae0 081r10 not suffer'"
+ },
+ "2377b45203b1": {
+  "gloss": "dove",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their dove entry lists this spelling at 081v07"
+ },
+ "540152520": {
+  "gloss": "sky",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their sky, heaven entry lists this spelling at 082r04"
+ },
+ "534320": {
+  "gloss": "be_damned",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their be damned entry (520320) lists 534320 at 087r03"
+ },
+ "674686": {
+  "gloss": "that_way",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their that way entry lists this spelling at 088v09"
+ },
+ "520060131540": {
+  "gloss": "Lazarus",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Lazarus entry lists this spelling at 089r06"
+ },
+ "7a0678ae0": {
+  "gloss": "who",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their relative pronoun who entry lists 7a0678ae0 at 089v01"
+ },
+ "5409a45203f42a6": {
+  "gloss": "not_want",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their not want entry lists this spelling at 090v12"
+ },
+ "520ad6540": {
+  "gloss": "dinner",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their dinner entry lists this spelling at 092v12"
+ },
+ "540444520ae0": {
+  "gloss": "friend",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their friend entry lists this spelling at 093r01"
+ },
+ "060ad5540": {
+  "gloss": "dinner",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their dinner entry lists this spelling at 093r02"
+ },
+ "5207a36704c2b36": {
+  "gloss": "and",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their coordinating conjunction and entry lists this spelling at 095v08"
  }
 }
