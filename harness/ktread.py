@@ -157,3 +157,46 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# --------------------------------------------------------------------------
+# the rejection loop
+# --------------------------------------------------------------------------
+def positional(doc, gl, target):
+    """What sits either side of a code, and where it falls in a line.
+
+    The cheap half of the loop. Generating a meaning is unreliable; rejecting
+    one is not, and most rejections need no reading at all. A determiner does
+    not precede "in" and "and"; a reflexive pronoun does not sit before a bare
+    noun; nothing that ends a line as often as it starts one is an article.
+    Two hypotheses for the book's commonest undefined code died here, on
+    counts, in two cycles.
+    """
+    from collections import Counter
+    before, after = Counter(), Counter()
+    li = lf = n = 0
+    for p in doc:
+        for runs in p.lines:
+            for run in runs:
+                for i, t in enumerate(run):
+                    if t != target:
+                        continue
+                    n += 1
+                    if i + 1 < len(run):
+                        before[run[i + 1]] += 1
+                    if i:
+                        after[run[i - 1]] += 1
+                if run and run[0] == target:
+                    li += 1
+                if run and run[-1] == target:
+                    lf += 1
+
+    def nm(c):
+        if c == target:
+            return "[ITSELF]"
+        if c in gl:
+            return "/".join(sorted(gl[c]))[:34].replace("<", "").replace(">", "")
+        return "(undefined)"
+    return {"n": n, "before": [(nm(c), k) for c, k in before.most_common(8)],
+            "after": [(nm(c), k) for c, k in after.most_common(8)],
+            "line_initial": li, "line_final": lf, "doubled": before[target]}

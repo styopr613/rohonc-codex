@@ -201,7 +201,23 @@ def main():
         check(f"gate 5: {lab} {want}%", len(g) == 2 and g[1] == want, str(g))
     check("gate 5 FAIL and the 4% flaw recorded",
           "FAIL" in kdi and "top five 8%, top ten" in flat and "4%" in flat)
-    check("six attempts stated", "six ways" in flat and "bar was never moved" in flat)
+    check("eight attempts stated", "eight ways" in flat and "bar was never moved" in flat)
+    kc = out("ktceiling.txt")
+    # the band row is "1  2885  2885  9.58%": the label is consumed, so the
+    # numbers that come back are types, tokens, percent -- three, not four
+    g = nums(kc, "1", 3, after="occurrences   types")
+    check("ceiling: 2885 hapax = 9.58% of text",
+          len(g) == 3 and g[0] == 2885 and close(g[2], 9.58, .01)
+          and "2,885 undefined codes" in flat and "9.6% of the book" in flat, str(g))
+    # nums matches the STRIPPED line, so a space-padded label never matches;
+    # anchor on the ceiling table instead and use the bare number
+    for k, want in ((3, 86.4), (5, 82.3)):
+        g = nums(kc, str(k), 2, after="ceiling coverage")
+        check(f"ceiling at k={k} is {want}%",
+              len(g) == 2 and close(g[1], want) and f"{want}%" in flat, str(g))
+    lp = out("ktread_loop.txt")
+    check("rejection loop recorded", "539 occurrences" in lp and "line-initial 72" in lp
+          and "72 times and closes one 70" in flat and "Rejected." in flat)
     kr = open(os.path.join(corpus.ROOT, "harness", "ktread.py"), encoding="utf-8").read()
     check("reading gate recorded in code and doc",
           "end / side" in kr and "One to two of six" in flat)

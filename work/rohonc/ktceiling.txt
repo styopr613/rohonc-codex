@@ -1,0 +1,29 @@
+==========================================================================
+THE TESTABILITY CEILING
+==========================================================================
+text: 30124 word tokens, 5026 types
+dictionary covers 18717 tokens (62.1%), 798 types
+undefined: 11407 tokens (37.9%), 4228 types
+
+undefined vocabulary by how often it occurs:
+ occurrences   types   tokens  % of text
+           1    2885     2885      9.58%
+           2     608     1216      4.04%
+         3-4     365     1216      4.04%
+         5-9     218     1371      4.55%
+       10-29     114     1710      5.68%
+         30+      38     3009      9.99%
+
+ceiling: if a code needs k occurrences to be testable at all,
+the best coverage any method could ever reach is
+
+   k  reachable types   ceiling coverage
+   1             4228             100.0%
+   2             1343              90.4%
+   3              735              86.4%
+   5              370              82.3%
+  10              152              77.8%
+
+  2885 undefined codes occur exactly
+  once: 9.6% of the book, unfalsifiable by construction.
+  No method reaches them, and none ever will.

@@ -324,11 +324,11 @@ Defining the top 50 undefined codes would lift coverage from 62.1% to 73.1%;
 the top 100 to 76.0%; the top 200 to 79.1%; the top 500 to 84.1%. That is a
 work plan, and it is owed to the authors.
 
-## Extending the dictionary: six attempts, six failures
+## Extending the dictionary: eight attempts, and a ceiling
 
 Four words in ten have no gloss and another five in ten have several. Working
 out the undefined codes is the part of the problem nobody has done. It was
-tried six ways, each against a bar set before the run, and each failed. The
+tried eight ways, each against a bar set before the run, and each failed. The
 bar was never moved. Two evaluation bugs were fixed and the runs repeated;
 neither fix changed a verdict. Five of the six were mechanical. The sixth was
 not, and did best.
@@ -398,6 +398,47 @@ against a known answer. A method whose failures are indistinguishable from its
 successes must be scored on solved cases before it is pointed at unsolved ones,
 which is why every attempt in this document was gated that way.
 
+**The rejection loop, which is what the other seven were missing.** Reading
+gave one to two of six. Kiraly and Tokai's first-pass rate is probably no
+better. The difference is that a guess there is carried to every occurrence of
+the code and discarded if it fails at any one, and no attempt here had built
+that step. `ktreject.py` built it as a distributional score and failed at 5% --
+the same mistake a third time, reaching for vectors where the method calls for
+reading. `ktread.positional()` builds it properly, and it works.
+
+Run on the commonest undefined code in the book, 539 occurrences:
+
+*Himself*, from "can show [?] in Capharnaum", "[?] truly Son of God", and
+"circumcised [?] in Jerusalem". Carried to folios past 60 it reads "himself
+dinner", "himself other disciples", "himself Abraham Abraham". **Rejected.**
+
+*A determiner*, since it sits immediately before a noun again and again.
+Its commonest followers are "in" (44), the numeral delimiter (39) and "and"
+(33); it opens a line 72 times and closes one 70. No article behaves so.
+**Rejected.**
+
+Two confident readings, two rejections, both on internal evidence alone, in two
+cycles. Rejection is cheap and reliable exactly where generation is not, which
+is the asymmetry the whole method runs on. It also did not converge: after two
+cycles on the single most testable code in the book, there is still no answer,
+and 127 of that code's appearances sit beside one other undefined code -- a
+collocation that is itself a finding and not a meaning.
+
+**The ceiling.** The eighth line of attack, reading the illustrations, is how
+Tokai found his entry points, and the scans make it available: folios map to
+scan pages (a pencilled "42" on the left leaf of scan page 43 fixes it), and
+the pictures are legible. It ran into something more basic. Of the eight
+undefined codes in the picture caption on 042r, four occur exactly once in the
+whole codex. A guess about them can never be carried anywhere, so it can never
+be rejected -- not by this harness and not by anyone.
+
+That is general. `ktceiling.py` measures it: 2,885 undefined codes occur exactly
+once, carrying 9.6% of the book, unfalsifiable by construction. If a code needs
+three occurrences to be testable at all, the best coverage any method could
+ever reach is 86.4%; at five occurrences, 82.3%. Picture captions concentrate
+the untestable, because a caption names what appears once. Tokai read *names*
+off the illustrations, and names recur; one-off scene vocabulary does not.
+
 The failures are informative. The codex is a paraphrase drawing on apocrypha,
 Marian prayer and material Király calls "without known parallel", glossed to
 base-form English and matched against one modern translation of the canonical
@@ -457,6 +498,8 @@ repository staff; with it, this would probably be feasible.
     python ktalign.py         # the third, sequence alignment
     python ktdistrib.py       # the fourth and fifth, distributional
     python ktread.py --hide 6 --skip 45   # the sixth, reading from context
+    python ktreject.py        # the seventh, rejection scored distributionally
+    python ktceiling.py       # what any method could ever reach
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 

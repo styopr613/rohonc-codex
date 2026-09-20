@@ -1,0 +1,4 @@
+commonest undefined code: 539 occurrences
+line-initial 72 line-final 70 doubled 0
+follows  : [('(undefined)', 127), ('say/speech', 66), ('carry/come/go/go out/go to/lead/se', 23)]
+precedes : [('in/inside/into/within', 44), ('place-value delimiter in numerals', 39), ('and', 33)]
