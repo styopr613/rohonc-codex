@@ -7227,3 +7227,223 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Luke 2:25-32, Simeon, who was promised he should not see death before he
 > had seen the Lord's Christ, and Luke 10:24, "many prophets and kings have
 > desired to see those things which ye see". The reading continues on 102r.
+
+## 102r — Simeon's arms, and the thirtieth year
+
+**1**  and shall be called; it is Simeon; for Simeon carried him in his bosom:
+`and ?shall_be_called exist Simeon because from Simeon carry +bosom`
+
+**2**  the Lord Jesus Christ […]. The Lord saw the apostles and the Jewish people, and
+`Lord-Jézus-Christ [?] Lord see apostle and Jew(ish) people-chapter and`
+
+**3**  these apostles, the Jews, the Lord; all saw within […] of the name of the man.
+`this apostle Jew(ish) Lord each,_every see inside [?]-from-+name somebody`
+
+**4**  Then was the Lord Jesus within his thirtieth year. Then,
+`time then-exist Lord-Jézus inside thirty year time`
+
+**5**  from the woman, the Lord Jesus; and the Lord went from town
+`from-woman-woman Lord-Jézus and go-Lord from town`
+
+**6**  to town, from temple to temple, from
+`+until town from temple +until temple from`
+
+**7**  field to field; and the Lord's apostles went into the world; the gospel
+`plough_land +until plough_land and <of>-Lord apostle go-Lord ?into_the_world gospel`
+
+**8**  the Lord preached; various miracles the Lord did afterward: […]
+`preach-Lord various miracle ?afterward-Lord | [?]`
+
+**9**  […] the Lord: through light [the blind saw]; the dead the Lord raised up; the lame [walked];
+`[?] +<subj>-Lord through light-Lord die ?raised_up_(by_the_Lord) ?lame`
+
+> Luke 2:28, "then took he him up in his arms", where *bosom* is a spelling
+> Király & Tokai's own bosom entry cites at this line; Luke 3:23 for the
+> thirtieth year, which is the sense they give this *thirty* sign; then the
+> ministry and the Matthew 11:5 list, as on 100r. *Until* is the "to" of
+> "from town to town", and was read too narrowly from this line alone before.
+
+## 102v — the Passion in short: the sun darkened, the rocks rent
+
+**1**  the body, and the possessed of the evil one, the Lord healed. And the Lord suffered for
+`body and evil obsessed_by_the_evil from-healing-Lord and suffer +<subj> Lord to`
+
+**2**  man's sin, the good of the whole world; the cross […]; and for man
+`somebody-sin good the_whole_wide_world +cross-[?] and to-somebody`
+
+**3**  of the Lord; to the thief, who […]; and the Lord redeemed man from hell
+`+<subj> <of>-Lord to-to-thief-who and somebody redeem-Lord from hell`
+
+**4**  fire. And then the Lord, the cross […] […]
+`fire and then-exist-Lord +cross-[?] | [?]`
+
+**5**  […] and the moon, this darkened, before the sun darkened;
+`[?] and moon this eclipse before sun eclipse`
+
+**6**  and before the moon darkened, the face of the earth quaked; the rock,
+`and before moon eclipse face-~Adam quake rock`
+
+**7**  the stone rent; and at the sun's darkening every
+`stone +rent and on-sun eclipse each,_every`
+
+**8**  creature […] this humbled itself, and every creature mourned.
+`?creatures [?] this humble and each,_every create mourn`
+
+**9**  Then Christ, the cross […]; and the Lord was put in the sepulchre.
+`then-exist Christ +cross-[?] ~and Lord inside burial_chamber | put`
+
+> Matthew 27:45 and 27:51, the darkness and the rocks rent, with Luke 23:43
+> for the thief. *Rent* is Király & Tokai's split-the-rock sign in a second
+> spelling their entry cites at this line and at 052v:2, where the same
+> sentence stands in the long Passion. Their quake, rock, stone, humble and
+> mourn are all cited by them on these lines.
+
+## 103r — the three days: where was the soul?
+
+**1**  said; and then the Lord lay in the sepulchre, the Lord; and the hour, then,
+`+say and then-exist-Lord inside burial_chamber lay-Lord and hour time`
+
+**2**  went to the Father, God, heaven; to the Father's; the angel; the soul within
+`go from-father God heaven on-<of>-father angel soul inside`
+
+**3**  […] the Lord Jesus, and rose from prayer(?).
+`[?]-chapter Lord-Jézus and ?rise from pray`
+
+**4**  In turn: the devil in the sepulchre stayed; in turn, the Lord went to hell,
+`in_turn angel inside burial_chamber +stayed in_turn to-Lord go-Lord on-hell`
+
+**5**  and destroyed hell, and redeemed man; hell fire, because | he carried,
+`and hell destroy and somebody redeem-Lord fire hell because | carry`
+
+**6**  the Lord, his cross on his shoulder; and man's soul […]
+`Lord <of>-Lord +cross on-<of>-Lord shoulder and somebody soul-[?]`
+
+**7**  of the Lord the Father, all the world, the people. And then the Lord Jesus, from
+`<of>-Lord father-<divine> each,_every the_whole_wide_world ?people +and_then Lord-Jézus | from`
+
+**8**  the Father, the Lord God eternal; the soul […] of this Father, this soul
+`father <of>-Lord God ?eternal soul-[?] this-father-<divine> this soul`
+
+> The question the fathers asked of the three days: did the soul stay in the
+> sepulchre, or go down to hell? Line 4 puts both, with *stayed*, which is
+> Király & Tokai's stay sign in a spelling they cite at this line. The word
+> rendered angel on lines 2 and 4 is their angel/Satan/Lucifer sign; on line
+> 4 the devil is meant.
+
+## 103v — the lost sheep, a doxology, and the names in one sign
+
+**1**  of the Lord; from the lost sheep this Lord's soul the Lord redeemed; the wolf; the face of the earth;
+`<of>-Lord from-+the_lost_sheep this-Lord soul redeem-Lord wolf face-~Adam`
+
+**2**  this Father's soul; the lost sheep […] the Lord took; this Father's soul.
+`this-father-<divine> soul +the_lost_sheep [?] grab-Lord this-father-<divine> soul`
+
+**3**  […] […] until the ages of ages,
+`[?] [?] +until chapter-oh chapter-oh`
+
+**4**  amen. From every ghost, and from […] the Lord, from the heavenly, on this
+`amen from each,_every ghost and from [?] Lord from ?heavenly on-this`
+
+**5**  the people believe; woman, woman; and […] the Lord […] the angel. On
+`?people believe woman woman and [?] Lord [?] angel | on`
+
+**6**  […]-[…]-Mary-Jesus-God-Christ-angel-the-lost-sheep
+`[?]-[?]-Mary-Jézus-God-Christ-angel-+the_lost_sheep`
+
+**7**  speaks Saint […], the church father. Holy
+`speak +Saint_[a_church_father] church_father | holy`
+
+**8**  Anne, this Anne, gave birth:
+`Anne this Anne be_born`
+
+**9**  […] […] […]
+`[?] [?] [?] +<subj>`
+
+**10**  to mercy, the commandment; go, on everyone, the whole world.
+`to-have_mercy commandment go on-each,_every the_whole_wide_world`
+
+> The close of the previous reading, with "until the ages of ages, amen" on
+> lines 3-4 as at 099v:9, then a new one opening with the birth of the Virgin
+> from Anne, as on 104r. Line 6 is one compound sign carrying six names, a
+> litany packed into a word, as at 097. Line 7's father is named by a stem
+> Király & Tokai mark "name of a church father" and cite here, so the name is
+> theirs to give; it cannot be read from the sign.
+
+## 104r — a creed, from Anne's daughter to the judgment
+
+**1**  the world, that is: then from Anne was born the blessed | Virgin
+`?world that_is then-exist from Anne be_born happy | virgin`
+
+**2**  Mary; from Mary the coming of the Lord Jesus Christ; and the Lord went
+`Mary from Mary ?coming Lord-Jézus-Christ and from Lord go`
+
+**3**  into the world, preached the gospel, various miracles; afterward
+`?into_the_world gospel preach various miracle ?afterward`
+
+**4**  the Lord suffered for man's sin, for the whole world; the Lord was crucified, and
+`Lord and suffer to somebody +sin the_whole_wide_world +crucified Lord and`
+
+**5**  for man the Lord shed his blood, and the Lord redeemed man
+`to somebody +<subj> <of>-Lord +shed_his_blood and somebody +<subj> redeem-Lord`
+
+**6**  from hell fire; and man, the Lord; there is the faith
+`from hell fire and somebody Lord exist believe-chapter`
+
+**7**  in the true Son of the living God: every man shall be saved; and one
+`to righteous(ly) son living God each,_every somebody be_saved and one`
+
+**8**  man shall be damned; and the Lord: he that believeth not, and […]
+`somebody be_damned to and Lord +not believe and [?]`
+
+**9**  one shall be saved; in turn, every man shall be damned.
+`one to be_saved ~a) each,_every somebody be_damned`
+
+> The summary creed the book gives more than once: the Virgin's birth, the
+> ministry, the Passion, the harrowing, then Mark 16:16, "he that believeth
+> and is baptized shall be saved; but he that believeth not shall be damned".
+> *Shed his blood* is Király & Tokai's own expression, cited by them at line
+> 5. Line 8 is word for word the line at 026v:11, gap included.
+
+## 104v — blessed are the eyes which see
+
+**1**  Begins this holy gospel,
+`begins this holy-gospel`
+
+**2**  written by holy Luke, in
+`write holy-Luke inside`
+
+**3**  the tenth chapter of his writing.
+`ten chapter <of>-write`
+
+**4**  Then said | the Lord
+`time say | Lord`
+
+**5**  Jesus to his apostles
+`Jézus apostle <of>-Lord`
+
+**6**  and the Jewish people:
+`and Jew(ish) people-chapter`
+
+**7**  blessed the two
+`to-happy two from`
+
+**8**  eyes, the two eyes that see the Lord; and you [see] those things which | the apostles see.
+`eye-from to-two eye-from this Lord see who you ?those_things_which | see-apostle`
+
+**9**  He said: for many holy fathers, many, writes the church father, many prophets, many
+`+say because many holy-father many write church_father many prophet many`
+
+**10**  kings, many emperors | would have liked, the fathers, church fathers, prophets, kings, emperors,
+`king many emperor | would_like_to-father-church_father-prophet-king-emperor`
+
+**11**  to see this which you […] from […]; and
+`this see who you [?] from-[?] and`
+
+**12**  there rose among these Jews one; another church father wanted
+`+rise among this Jew(ish) one +another church_father want`
+
+> Luke 10:23-24: "Blessed are the eyes which see the things that ye see: for
+> I tell you, that many prophets and kings have desired to see those things
+> which ye see, and have not seen them." The citation, Luke chapter ten, is
+> right. Line 10 packs father, church father, prophet, king and emperor into
+> one compound sign after listing them one by one on lines 9-10.

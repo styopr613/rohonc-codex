@@ -982,8 +982,10 @@ follows. Seven were checked by hand:
                                     bade many                  Luke 14:16   OK
     095r  John, sixth chapter       except ye eat the flesh of the Son of
                                     man and drink his blood    John 6:53    OK
+    104v  Luke, tenth chapter       blessed are the eyes which see the
+                                    things that ye see         Luke 10:23   OK
 
-Nine of ten land on the right chapter of the right evangelist. The eighth
+Ten of eleven land on the right chapter of the right evangelist. The eighth
 is off by one, and it is recorded as off rather than explained away. **A
 compiler who invents a script does not have to get the chapter numbers right,
 and this one mostly does.**
@@ -1014,7 +1016,7 @@ is offered as such.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 188
+With the rendering on the page it became possible to read it, and 194
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
@@ -1100,16 +1102,16 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 188 signs are read
+in the book and keep it only if it survives all of them. 195 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
-decisive occurrences, graded A, B, C or D. 48 are tier A, twenty of them
+decisive occurrences, graded A, B, C or D. 51 are tier A, twenty of them
 stroke numerals entered whole by their composition rule. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **58.7%**.
+lines where every word is read from 23.8% to **58.9%**.
 
 **Their apparatus reads more than their headwords.** Every entry in Kiraly
 and Tokai's dictionary cites folio and line for its examples and for each

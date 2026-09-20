@@ -20,6 +20,7 @@ from collections import Counter
 import ktaffix as A
 import ktcontext as X
 import ktgap as G
+import kttranslate as T
 
 EVANGELISTS = ("Matthew", "Mark", "Luke", "John", "Paul", "Peter", "James")
 
@@ -28,6 +29,10 @@ def main(argv):
     n = int(argv[0]) if argv else 6
     start = argv[1] if len(argv) > 1 else None
     gl, doc, seg, var, prop = G.build()
+    # Render exactly as the page does: K&T's first-listed sense, not the
+    # shortest one, so 'apostle' does not print as 'learn' or 'Jews' as 'they'.
+    T.ORDER.update(T.ordered())
+    T.prop_ref.update(prop)
     pages = [p for p in doc if p.page not in X.DONE]
     if start:
         idx = next((i for i, p in enumerate(pages) if p.page == start), 0)
@@ -51,7 +56,7 @@ def main(argv):
             cells = []
             for t in toks:
                 if G.readable(t, gl, seg, var, prop):
-                    cells.append(G.word(t, gl, seg, var, prop))
+                    cells.append(T.render_token(t, gl, seg, False, var, prop))
                 else:
                     h = X.hx(A.strip(t)[0])
                     cells.append("<<" + h + ">>")

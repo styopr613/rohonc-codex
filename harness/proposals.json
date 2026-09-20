@@ -1139,5 +1139,47 @@
   "tier": "A",
   "n": 4,
   "evidence": "K&T's entry for Adam/man (540ae0540ae0) lists its variant spellings by line and cites 100v07, this word's line there. The other three occurrences are all the chronology formula: 'from [Adam] onward until the Virgin Mary was born, 5,000 and 100 and 50 ... years' 015v:1-2; 'from [Adam] onward until the Virgin Mary was conceived and born, 5,000 and 100 and 50' 017v:12-13; 'from [Adam] onward until the birth of the Lord Jesus Christ' 021r:3. The renderer had cut it as will + day"
+ },
+ "520a10ae050a": {
+  "gloss": "bosom",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's bosom (670a10ae050a, 'in the bosom of father Abraham') lists a spelling cited at 054r07 and 102r01, this word's two occurrences; the first glyph is 520 for 670, the same swap as in lame. 'Mary took the Virgin's child in her [bosom]' 054r:7; 'Simeon took him in his [bosom]' 102r:1 = Luke 2:28 'took he him up in his arms'"
+ },
+ "569ac03b7": {
+  "gloss": "rent",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's 'split, break [rock stone]' (540ac03b7) is cited at 026r03, 052v02, 057v12, 102v07; this spelling with 569 for 540 stands at 052v:2 and 102v:7, both in the Passion: 'the rocks, the stones [rent], the sun and the moon' 052v:2; 'the stones [rent] and the sun darkened' 102v:7 = Matthew 27:51"
+ },
+ "a10520b54": {
+  "gloss": "stayed",
+  "tier": "B",
+  "n": 1,
+  "evidence": "K&T's stay (a10520b52) is cited by them at 103r04, this word's only line; b54 for b52. 'whether the soul [stayed] in the sepulchre, or the Lord went to hell' 103r:4, the scholastic question on the three days"
+ },
+ "520444520": {
+  "gloss": "heavenly",
+  "tier": "C",
+  "n": 2,
+  "evidence": "444520 is the stem of K&T's heavenly (a10444520ae0). 'the all-ghost and the ... Lord, the [heavenly]' 103v:4; 'the [heavenly] faith ... baptize ... remit' 204v:1"
+ },
+ "8715202c0786": {
+  "gloss": "Saint [a church father]",
+  "tier": "B",
+  "n": 1,
+  "evidence": "holy (871) + K&T's '<name of a church father>' stem 2c0786, whose entry (6702c0786) cites 103v07, this word's only line: 'says [Saint N.] the scribe' 103v:7. Which father is not recoverable from the sign"
+ },
+ "520520520096": {
+  "gloss": "shed his blood",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's blood (520520520ae0) carries the expression 'he shed his blood 104r05', and their shed (77a) lists a ligature at 104r05; this word is that ligature on that line: 'for us the Lord [shed his blood] and redeemed us from hell fire' 104r:5-6"
+ },
+ "5200601d5": {
+  "gloss": "those things which",
+  "tier": "D",
+  "n": 1,
+  "evidence": "Luke 10:23 'blessed are the eyes which see [those things which] ye see', at 104v:8 where the folio cites Luke chapter ten and every other word of the verse is read. One occurrence, nothing to check it against"
  }
 }
