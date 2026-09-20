@@ -74,11 +74,20 @@ IRREG = {
     "ran": "run", "rose": "rise", "risen": "rise", "sat": "sit",
     "slew": "slay", "slain": "slay", "stood": "stand", "thought": "think",
     "understood": "understand", "wept": "weep", "won": "win",
+    # K&T gloss two words in Hungarian rather than English, so the English
+    # form of each has to be aliased or the crosser-off calls it free when the
+    # book has said it on almost every folio. Their full gloss list was
+    # scanned for non-English spellings; these are the only two that matter.
+    "jesus": "jezus", "jezus": "jezus", "kill": "ol",
     "men": "man", "children": "child", "women": "woman", "feet": "foot",
     "teeth": "tooth", "brethren": "brother", "hath": "have", "had": "have",
     "art": "be", "wast": "be", "wert": "be", "doth": "do", "done": "do",
     "did": "do", "dost": "do",
 }
+
+
+ACCENT = str.maketrans("áàâäãéèêëíìîïóòôöõúùûüýÁÀÂÄÃÉÈÊËÍÌÎÏÓÒÔÖÕÚÙÛÜÝ",
+                       "aaaaaeeeeiiiiooooouuuuyAAAAAEEEEIIIIOOOOOUUUUY")
 
 
 def stem(w):
@@ -90,7 +99,7 @@ def stem(w):
     is the safe direction: it withholds a candidate rather than offering one
     that is already spoken for.
     """
-    w = w.lower()
+    w = w.lower().translate(ACCENT)
     # Map the irregular form to its lemma FIRST, then stem the lemma, so that
     # took -> take -> tak matches the gloss "grab, take" -> tak. Returning the
     # lemma unstemmed here was a bug: it put took, made, hath, told and written

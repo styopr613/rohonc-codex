@@ -1267,6 +1267,29 @@ The seam is now worked out: six signs of it remain, covering eight words. What
 is left is 989 signs that occur exactly once and that Kiraly and Tokai never
 mention. Those are the real wall, and a reading of one cannot be checked.
 
+**The eighteenth attempt went at that wall and failed.** The book writes 155
+passages twice, and `ktdouble.py` finds them by matching runs of identical word
+types -- which means a sign occurring once can never fall inside a match, and
+signs occurring once are the whole of what is left. `harness/ktpair.py`
+therefore aligned the two copies of each passage with gaps and mismatches
+allowed, so that a hole in one copy would line up with whatever stands in its
+slot in the other. The bar was declared first: an alignment is evidence only
+if the slots where the two copies differ in spelling but are both READ carry
+the same reading, at 80% of at least 50 such pairs.
+
+53 passages aligned. 3,094 slots qualified. **Twelve of them -- 0.4% -- agree.**
+The flanks are not to blame: agreement against distance from the anchor is
+0.0% inside the matched run itself, 1.4% one to three tokens outside, and 0.4%
+from there out to forty, so no tighter window rescues it.
+
+The reason is worth more than the attempt. Where the two copies agree they
+agree exactly, because exact agreement is how they were found, and there is
+nothing there to read. Where they differ they differ in CONTENT. The book is
+not copying itself with variant spelling; it is retelling, which is what 148r
+shows in the open when it tells the Good Samaritan a second time as the fall
+of Adam. The 253 unread signs sitting opposite a read word are candidates to
+check by hand and nothing may be graded above C on the alignment's say-so.
+
 Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
 into pieces Kiraly and Tokai define; it was never given their own variant
 spellings, this project's read signs or the clause terminator as pieces.

@@ -570,6 +570,10 @@ def main():
           and "62.4% to 74.0%" in flat and "147 to 458" in flat
           and "989 signs that occur exactly once" in flat
           and "ktsupply.py" in flat)
+    check("ROHONC: the gapped alignment of doubled passages failed",
+          "eighteenth attempt" in flat and "Twelve of them -- 0.4% -- agree" in flat
+          and "0.0% inside the matched run" in flat
+          and "it is retelling" in flat and "ktpair.py" in flat)
     check("ROHONC: the Baptist/woman correction is recorded",
           "read here as *the Baptist*" in flat and "141v:6, 10, 11" in flat
           and "she lives on the" in flat
