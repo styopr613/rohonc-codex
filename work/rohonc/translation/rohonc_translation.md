@@ -1299,3 +1299,348 @@ without any dictionary at all.
 > Matthew 2:13 and Luke 2:21. Line 10 dates the circumcision to the eighth
 > day, which is what Luke says, and lines 11–12 call it the first shedding of
 > Christ's blood — a medieval devotional idea, not a gospel one.
+
+---
+
+## 022r — Egypt, and the twelve
+
+**1**  into the land of Egypt; and […]; and the Lord went […]
+`inside Egypt earth and [?] and go Lord [?]`
+
+**2**  in the land of Egypt, into every city […] […]
+`on-Egypt earth inside each,_every town [?] [?]`
+
+**3**  […] the evil ones pierced and pierced; and | […]
+`[?] evil pierce-pierce and | [?]`
+
+**4**  […] died. From […] they remained in Egypt twelve years,
+`[?] die from [?] leave-leave inside Egypt six-six-year`
+
+**5**  at that time the angel Gabriel said […]
+`time say ~Gabriel angel [?]`
+
+**6**  Flee into the land of Egypt, into […] city.
+`escape on-Egypt earth inside [?] town`
+
+**7**  And […] they remained […]
+`and [?] leave-leave [?]`
+
+**8**  [in that] city twelve years; and […]; and this […]
+`town six-six-year and [?] and this [?] table`
+
+**9**  […] years. Here ends this holy gospel. One
+`ten-ten-two-nine-year end this holy-gospel one`
+
+**10**  […] He called twelve apostles; and […] […] and |
+`[?] call six-six apostle and [?] [?] and | who-this`
+
+**11**  many miracles […]: the blind eye […] the Lord, through
+`and-this miracle [?] eye blind [?] Lord through`
+
+**12**  light; the dead […] the Lord […] the evil among the people […]
+`light die [?] Lord [?] evil inside people [?]`
+
+## 022v — the signs, numbered
+
+**1**  First, that is, […] the Lord made wine […] that is […] the Lord
+`before that_is [?] Lord wine create-Lord [?] on-that_is [?] Lord`
+
+**2**  broke […] […] […] […] the people.
+`break [?] [?] [?] [?] people`
+
+**3**  The fourth sign the Lord Jesus showed, when |
+`in_turn-two-two can show Lord-Jézus then-exist | [?]`
+
+**4**  […] he raised up from […] a son […]
+`before in_turn-to-in_turn resurrect from [?] son [?]`
+
+**5**  the sign the Lord Jesus showed, when he raised up […]
+`can show Lord-Jézus then-exist resurrect to-to [?]`
+
+**6**  in Jerusalem. The sixth sign the Lord Jesus showed in […]
+`inside Jerusalem in_turn-six can show Lord-Jézus inside [?]`
+
+**7**  […] when the Jews brought a sick man
+`in_turn-chapter-in_turn then-exist Jew(ish) carry one ill`
+
+**8**  before the Lord Jesus: a sick man, and a sick man, and a sick man, and a paralytic;
+`before Lord-Jézus <sick_man> and <sick_man> and <sick_man> and paralytic`
+
+**9**  and the sick, the sick, the sick, the paralytic — the Lord Jesus healed […]
+`and <sick_man> <sick_man> <sick_man> paralytic from-healing Lord-Jézus [?]`
+
+**10**  The sign the Lord Jesus showed in Capernaum, when he healed alive
+`can show Lord-Jézus inside Capharnaum because from-healing living`
+
+**11**  the servant of a soldier; and […] […]
+`two servant one soldier and [?] [?]`
+
+**12**  […] The eighth sign the Lord Jesus showed
+`exist [?] in_turn-six-two can show Lord-Jézus`
+
+**13**  in Tyre […] to a woman […]
+`inside Tyrus in_turn-chapter-in_turn to-to one ~woman head`
+
+> First the water into wine at Cana, John 2:11, which the gospel itself calls
+> the first of the signs. Then the centurion's servant at Capernaum, Matthew
+> 8:5, and the Syro-Phoenician woman at Tyre, Mark 7:24 — both named by the
+> right place.
+
+## 023r — the ninth, tenth and eleventh signs
+
+**1**  a […]; and within her was a devil; and […]
+`one [?] and inside to-to exist hell evil and [?]`
+
+**2**  he cast it out […]. The ninth sign the Lord Jesus showed in |
+`out(ward) [?] in_turn-nine can show Lord-Jézus inside | [?]`
+
+**3**  a proud man […] because the man […]
+`proud on-one [?] somebody because somebody [?]`
+
+**4**  did. The tenth sign the Lord Jesus showed in […]
+`do, in_turn-ten can show Lord-Jézus inside apostle-oh-<divine>-chapter`
+
+**5**  a king's son, because he was at the point of death; and the son […]
+`one king son because exist on-die and son [?]`
+
+**6**  […] The eleventh sign the Lord Jesus showed in Jerusalem: the evil
+`[?] in_turn-and can show Lord-Jézus inside Jerusalem evil`
+
+**7**  spirit, when the Lord [cast] out of a man a devil […]
+`then-exist Lord inside one somebody hell evil [?]`
+
+**8**  First, before the birth of the Lord Jesus Christ, the Son of God […]
+`first before be_born Lord-Jézus-Christ son God [?]`
+
+**9**  a prophet, a forefather, this […]
+`one prophet one forefather this [?]`
+
+**10**  […] […] Christ […]; and by miracle they confessed
+`[?] [?] Christ [?] and miracle confess`
+
+**11**  […] the Lord Jesus is truly the Son of God. […] confessed […]
+`[?] Lord-Jézus righteous(ly) son God [?] confess [?]`
+
+**12**  the Lord Jesus […] the Lord Jesus is truly the Son of God. First confessed
+`Lord-Jézus [?] Lord-Jézus righteous(ly) son God first confess`
+
+**13**  […] the Lord Jesus […] and Elijah. Secondly confessed
+`~have Lord-Jézus [?] and Elijah in_turn-two confess`
+
+> The king's son at the point of death is John 4:46–54, and "at the point of
+> death" is the gospel's own phrase.
+
+## 023v — who confessed him, and the Transfiguration
+
+**1**  […] the Lord Jesus; God the Father, the Lord's […]. Confessed the evil ones,
+`~have Lord-Jézus from-father-<divine> <of>-Lord [?] confess ~evil evil`
+
+**2**  […] the Lord Jesus is truly the Son of God. Fourthly confessed
+`[?] Lord-Jézus righteous(ly) son God in_turn-two-two confess ~have`
+
+**3**  the Lord Jesus — the angels […] the Lord Jesus is truly the Son of God.
+`Lord-Jézus angel [?] Lord-Jézus righteous(ly) son God [?]`
+
+**4**  They confessed […]; and the earth, the sun,
+`confess [?] and earth sun [?]`
+
+**5**  the moon […] the Lord Jesus is truly the Son of God; and all this […]
+`moon [?] Lord-Jézus righteous(ly) son God and this each,_every [?]`
+
+**6**  […] the Lord Jesus is truly the Son of God. First confessed it Saint Peter,
+`[?] Lord-Jézus righteous(ly) son God first confess holy-Peter`
+
+**7**  […] and Elijah. Saint Luke writes that when
+`[?] and Elijah write holy-Luke then-exist`
+
+**8**  the Lord Jesus was thirty […], at that time the Lord Jesus went […]
+`Lord-Jézus inside thirty [?] time go Lord-Jézus [?]`
+
+**9**  [to] Mount Tabor with his apostles; and he was transfigured; and
+`Mount_Tabor and <of> apostle and be_glorified ~and`
+
+**10**  the apostles saw […] and Elijah […] […]
+`see apostle [?] and Elijah [?] [?]`
+
+**11**  and they saw the light […]; and then there stood | the Lord
+`and see light [?] and then-exist from-leave-leave | Lord`
+
+**12**  Jesus, and […] and Elijah; and then the apostles, through
+`Jézus and [?] and Elijah and then-exist apostle through`
+
+**13**  fear, fell down […]; and then the apostles […]
+`get_frightened and down [?] bow_down and then-exist apostle [?]`
+
+> Peter's confession, Matthew 16:16, "Thou art the Christ, the Son of the
+> living God" — and the codex names him. Then the Transfiguration on Tabor
+> with Elias, and Matthew 17:6, "they fell on their face, and were sore
+> afraid."
+
+## 024r — Tabor and Carmel, and the baptism
+
+**1**  heard this word spoken […] of the Son; and the Father […] […] […]
+`hear this word say [?] <of> son and father [?] [?] [?]`
+
+**2**  and then home […] not the apostles, and not every […]
+`and then-exist home [?] not apostle and not each,_every [?]`
+
+**3**  but to the Lord Jesus. Here ends this holy gospel. Secondly confessed
+`a) to-Lord-Jézus end this holy-gospel in_turn-two confess`
+
+**4**  […] the Lord Jesus, God the Father: first on Mount Tabor,
+`~have Lord-Jézus from-father <of>-Lord first on-Mount_Tabor`
+
+**5**  secondly on Mount Carmel. Because when the Lord Jesus was thirty
+`in_turn-two on-Carmel to-mount because then-exist Lord-Jézus inside thirty`
+
+**6**  […], at that time the Lord Jesus went […] Saint John
+`[?] time go Lord-Jézus understand [?] holy-John`
+
+**7**  […] to Mount Carmel; and then the Lord went |
+`[?] on-Carmel to-mount and then-exist Lord go | to`
+
+**8**  [to] Saint John. The Lord Jesus said: John […]. The Lord said | Saint
+`holy-John say Lord-Jézus John [?] Lord say | holy`
+
+**9**  John: Master, and […] […] […]. And the Lord Jesus said,
+`John Master and [?] [?] [?] and say Lord-Jézus`
+
+**10**  John […] the Lord; and […] is […]
+`John [?] Lord and [?] exist [?]`
+
+**11**  Saint John […] baptized the Lord Jesus, when
+`holy-John [?] see-baptize Lord-Jézus then-exist`
+
+**12**  the Lord was thirty years old; and […] the Holy Spirit
+`to-Lord inside thirty year and [?] holy-spirit`
+
+## 024v — the dove
+
+**1**  in the form of a dove […]: This is the Lord's Son.
+`inside ~shape,_form dove [?] this-Lord <of> son`
+
+**2**  […] the Spirit came to rest; and the Lord took
+`[?] spirit calm_down and Lord grab`
+
+**3**  the Holy Spirit; and the Lord went into […]
+`holy-spirit and Lord go inside [?]`
+
+**4**  […] the Lord Jesus […] years […] confessed
+`[?] Lord-Jézus ten-two-two-year [?] confess`
+
+> Matthew 3:16–17 — the Spirit descending like a dove, and the voice naming
+> the Son.
+
+## 025r — the devils confess him
+
+**1**  the devils […] the Lord Jesus is truly the Son of God. Because when
+`hell evil [?] Lord-Jézus righteous(ly) son God because exist`
+
+**2**  the Lord Jesus was thirty years old, at that time the Lord Jesus went into |
+`Lord-Jézus inside thirty year time go Lord-Jézus inside | exist`
+
+**3**  […] […]; and then he went into […]. At that time
+`[?] in_turn-chapter-in_turn and then-exist go inside [?] time`
+
+**4**  a man knelt down before the Lord Jesus,
+`then-exist kneel_(down) one somebody before Lord-Jézus`
+
+**5**  […] the Lord; the man […] one son; and […]
+`[?] Lord mouth somebody [?] one son and [?]`
+
+**6**  a devil […]. The man's son — his apostles […] could not
+`hell evil [?] somebody son <of> apostle to-hide_oneself-to [?] can`
+
+**7**  heal him. […] He begged the Lord to heal this man's son. Said
+`from-healing [?] ask_(for) from-healing this Lord <of>-somebody son say`
+
+**8**  the Lord Jesus: have mercy […] the son […] […]
+`Lord-Jézus have_mercy gain [?] son can [?] [?]`
+
+**9**  And then the son came before the Lord Jesus; and […]
+`and then-exist son go before Lord-Jézus and [?]`
+
+**10**  he was made whole; and this […] confessed — the devils […]
+`healing leave-to-leave and this [?] confess hell evil [?]`
+
+**11**  the Lord Jesus is truly the Son of God, because by miracle they confessed. Fourthly
+`Lord-Jézus righteous(ly) son God because miracle confess in_turn-two-two`
+
+**12**  confessed […] the Lord Jesus — the angels, at the birth of the Lord Jesus
+`confess have Lord-Jézus angel on-be_born Lord-Jézus`
+
+**13**  Christ. Because when the Lord Jesus was born [in] Bethlehem
+`Christ because then-exist Lord-Jézus be_born Bethlehem`
+
+> Matthew 17:14–18: the father kneels, the disciples could not cure the boy,
+> and Jesus does.
+
+## 025v — the Nativity told again
+
+This page repeats 020v almost word for word, as the proof that the angels
+confessed him.
+
+**1**  town; and first, before the birth, one […] was
+`town and first before be_born one [?] exist`
+
+**2**  […] a star, light through Bethlehem town; and | then
+`[?] star through light Bethlehem town and | then`
+
+**3**  the star was seen […]; and from […] […]
+`exist star see [?] and from [?] [?]`
+
+**4**  and then at the star, a miracle. At that time the angel said […]
+`and then-exist on-star miracle time say angel [?]`
+
+**5**  […] joy! A king is born, a king […]
+`[?] joy be_born king king [?]`
+
+**6**  born in Bethlehem town, in a barn, in a donkey's
+`be_born inside ~Bethlehem town inside barn inside donkey`
+
+**7**  manger […] the donkey, in the hay, in
+`manger [?] donkey inside hay inside`
+
+**8**  […] […] Christ, Mary's son. And | then
+`[?] [?] Christ Mary son and | then`
+
+**9**  […] […] they went [to] Bethlehem; and […]
+`[?] [?] go Bethlehem and [?]`
+
+**10**  […] knelt down, and every one of them knelt | and
+`[?] kneel_(down) and each,_every this ~exist kneel_(down) | ~exist`
+
+**11**  […] from […] […] to go […] and
+`[?] from [?] [?] to go [?] and`
+
+**12**  […] gave thanks, and gave thanks. Here ends this holy gospel.
+`[?] thanks and thanks grab end this holy-gospel`
+
+**13**  […] confessed […] the Lord Jesus […]
+`[?] confess ~have Lord-Jézus [?]`
+
+---
+
+## A grammar rule read out of the text
+
+The codex counts its items with a list marker in front of the numeral.
+Király and Tokai gloss that marker "introducing the next item in a list", and
+it is the same word they also gloss "in turn, nor, or, but". Put in front of
+a number it makes an ordinal:
+
+    marker + two            secondly
+    marker + two-two        fourthly
+    marker + six            sixthly
+    marker + six-two        eighthly
+    marker + nine           ninthly
+    marker + ten            tenthly
+    marker + and            eleventhly
+
+That last one works because the code they gloss "and, but, then" is also the
+one they gloss "eleven". So the book contains two long numbered lists: the
+signs the Lord Jesus showed, and the witnesses who confessed him Son of God.
+Both run in order, and the order is what makes the numerals checkable.
+
+**Twelve confirmed.** `six-six` at 022r:10 is the number of apostles called,
+so `six-six` is twelve, and the same word four lines earlier says the Holy
+Family stayed twelve years in Egypt.
