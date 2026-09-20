@@ -363,6 +363,19 @@ def main():
     check("credit kept straight",
           "The grammar is Kir" in flat and "1,282 readings" in flat)
 
+    # --- CONCLUSION.md carries the same figures in plain English
+    cp = os.path.join(corpus.ROOT, "CONCLUSION.md")
+    con = open(cp, encoding="utf-8").read() if os.path.exists(cp) else ""
+    conf = " ".join(con.split())
+    check("CONCLUSION: thirteen attempts, ten failed",
+          "thirteen ways" in conf and "Ten failed" in conf)
+    check("CONCLUSION: 1,282 codes and 58% to 78%",
+          "1,282" in conf and "58% to 78%" in conf)
+    check("CONCLUSION: wider corpus recorded as my wrong prediction",
+          "prediction of mine and it was wrong" in conf)
+    check("CONCLUSION: credit and the missing grammar paper",
+          "The grammar is theirs" in conf and "grammar paper" in conf)
+
     print(f"\n{'ALL FIGURES CHECK OUT' if not FAILS else 'MISMATCHED (' + str(len(FAILS)) + '): ' + '; '.join(FAILS)}")
     return 1 if FAILS else 0
 

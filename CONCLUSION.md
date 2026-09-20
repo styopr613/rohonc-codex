@@ -70,11 +70,38 @@ a gospel vocabulary behind it, which is a property of the codex they did not
 control; and the names it identifies cluster in the gospel text where a real
 paraphrase would put them, 87% of the time against a 50% chance.
 
-Finishing the translation was attempted three ways and failed three times,
-each against a bar set before running. The four words in ten the dictionary
-does not reach cannot be recovered from the gospels by alignment with the tools
-here. That is the honest state: the reading is very probably right, and the
-part that is still missing is the part its authors are still working on.
+Finishing the translation was attempted thirteen ways. Ten failed, each
+against a bar set before the run and never moved. The eleventh was a specific
+prediction of mine and it was wrong: the alignment method had been pointed at
+the four canonical gospels, so the reference was rebuilt from the sources
+Kiraly names -- the whole Bible, the apocryphal infancy and Nicodemus gospels,
+the four English mystery cycles, Caxton's Golden Legend -- and the method
+scored no better than before.
+
+The twelfth and thirteenth worked, and the reason the first eleven did not is
+that they all treated a code as a single word with a single meaning to guess.
+Many codes are not words. They are short phrases written without a space, and
+the dictionary already contains both halves. Kiraly and Tokai say so in their
+2022 paper: the codex does not conjugate, so instead of a pronoun it repeats
+the name sign of whoever is being spoken about, and they print one code as
+"you-Mary" -- their own word for *you* followed by their own sign for *Mary*.
+
+That construction was confirmed here without using any of their glosses, by
+showing that a code ending in a name sign turns up where that name turns up,
+far beyond what matched controls do. Cutting the codes apart on that basis
+reads 1,282 of them that their published dictionary does not contain, and
+takes the share of the book that can be read from 58% to 78%. What comes out
+is what a devotional book should say: Lord Jesus Christ, of the Lord, the
+Virgin Mary, God the Father, the Holy Word, Saint John, Saint Luke.
+
+The one code that survived the earlier attempts, which could only be called a
+noun somewhere in the vocabulary of the adversary, turns out to be two signs,
+and the second is their own sign for Lucifer. There was never a meaning to
+infer. The word was sitting inside it.
+
+The grammar is theirs. What is new is checking it independently and running it
+across the whole book. The rest of the missing text still needs the grammar
+paper they have not published.
 
 Details in [`ROHONC.md`](ROHONC.md), including a first attempt at the
 orientation question that failed its own control and was thrown away, and a
