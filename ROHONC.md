@@ -952,6 +952,61 @@ Output: `work/rohonc/translation/rohonc_reading.txt` (first sense only) and
 are built from their dictionary and stay private with the rest of the work
 until they are asked.
 
+## What kind of book it is, and the citations that can be checked
+
+The book names its own sources in a fixed formula: *here begins this holy
+gospel, written by holy John, in the sixteenth chapter of his writing*, then
+the passage, then *here ends this holy gospel*. That is a claim the codex
+makes about itself, in numbers, and it can be checked against what actually
+follows. Seven were checked by hand:
+
+    108r  Matthew, fifth chapter    ye are the salt of the earth, and if the
+                                    salt have lost his savour it is trodden
+                                    under foot of men         Matthew 5:13  OK
+    080r  John, sixteenth chapter   he will reprove the world of sin, and of
+                                    righteousness, and of judgment
+                                                               John 16:8    OK
+    068v  John, sixteenth chapter   the same passage again     John 16:8    OK
+    066v  John, fourteenth chapter  whatsoever ye shall ask in my name
+                                                               John 14:13   OK
+    063v  John, twentieth chapter   Thomas, except I shall see the print of
+                                    the nails                  John 20:25   OK
+    009v  John, tenth chapter       the good shepherd and the hireling
+                                                               John 10:11   OK
+    065r  Matthew, seventh chapter  false prophets, and the good and corrupt
+                                    trees                      Matthew 7:15 OK
+    090v  John, second chapter      Nicodemus comes by night, ye must be born
+                                    again                      John 3:1     OFF
+
+Seven of eight land on the right chapter of the right evangelist. The eighth
+is off by one, and it is recorded as off rather than explained away. **A
+compiler who invents a script does not have to get the chapter numbers right,
+and this one mostly does.**
+
+That test also corrected a reading of mine. The sign in those citations had
+been read here as *the last*; Kiraly and Tokai gloss its first half as *six*,
+so it is **seven**, and reading it that way is what makes 065r say Matthew
+chapter seven over a page of Matthew 7. The same sign then gives the seventy
+disciples of Luke 10:1 at 029v:8, and the seven evil spirits of Luke 11:26 at
+211r, on the same page as *blessed is the womb* from Luke 11:27.
+
+**So what is it for?** The content is ordinary. There is no heresy in it and
+nothing secret; it is the gospels, the apocrypha that every late-medieval
+devotional book carried, and the liturgy. Concealment explains it badly,
+because nobody invents a script to hide the Lord's Prayer. What the structure
+shows is a **book of readings**: each pericope opened and closed by formula,
+each attributed by evangelist and chapter, and whole passages repeated
+verbatim when the calendar wants them again. The Pauline passage at 068r
+comes round at 070v-071r; John 16 is set out twice, at 068v and 080r. A
+continuous narrative does not do that. A preacher's book does.
+
+A logographic script also does something an alphabet cannot: it is not tied
+to a language. A sign that means *Lord* can be voiced as *Úr* or *Dominus* or
+whatever the congregation speaks. For a compiler working across languages, or
+for a community whose speech had no written form, that is a use rather than a
+disguise. This is an argument from the structure, not a gated result, and it
+is offered as such.
+
 ## What the book says
 
 With the rendering on the page it became possible to read it, and 131
@@ -1033,7 +1088,7 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 154 signs are read
+in the book and keep it only if it survives all of them. 155 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
 decisive occurrences, graded A, B, C or D. 26 are tier A. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the

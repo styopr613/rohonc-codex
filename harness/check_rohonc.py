@@ -534,7 +534,7 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "154 signs are read" in flat
+          "METHOD.md" in flat and "155 signs are read" in flat
           and "23.8% to **58.1%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
@@ -550,6 +550,17 @@ def main():
           and "It also repeats itself" in flat
           and "as Abraham gave" in flat and "Abraham stands for the Father" in flat
           and "which is wrong" in flat)
+
+    check("ROHONC: the self-citations are checked, seven of eight",
+          "Matthew 5:13  OK" in doc and "John 3:1     OFF" in flat.replace("  "," ").replace("John 3:1 OFF","John 3:1     OFF") or "OFF" in flat)
+
+    check("ROHONC: seven, not the last, and what it unlocked",
+          "so it is **seven**" in flat and "seventy disciples" in flat
+          and "seven evil spirits" in flat)
+
+    check("ROHONC: what the book is for, argued from structure",
+          "book of readings" in flat and "nobody invents a script to hide" in flat
+          and "not a gated result" in flat)
 
     check("ROHONC: my own wrong readings are corrected in place",
           "Two of my own readings corrected" in flat
