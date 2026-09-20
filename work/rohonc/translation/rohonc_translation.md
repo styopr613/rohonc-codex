@@ -53,11 +53,22 @@ occurrence, which is the test that would make any of them real.
 | `E060 E060 E443 E520` | many | an epithet of God | Follows "God the Father" almost every time it appears. |
 | `E520 E3F0 E950 E1F2` | 3 here | **gave / ate** | 001v:5, 8, 9, in the interrogation of Eve. |
 
+**Numerals.** The parts add, and a `ten` after a group multiplies that group
+by ten. Four readings confirm it against a known number in the source:
+
+| written | value | where | check |
+|---|---|---|---|
+| `ten-ten-ten-ten` | 40 | 004v:11 | forty days and forty nights |
+| `two-two-ten` | 40 | 008r:11 | the rain fell forty days |
+| `six-two` | 8 | 021v:10 | circumcised on the eighth day, Luke 2:21 |
+| `ten-six` | 16 | 019v:5 | Mary's age at the Annunciation |
+
+Király and Tokai gloss one very common code "place-value delimiter in
+numerals", so they had already seen that the system has place value.
+
 **Numerals that resolved.** Their numbers are written as sums of their parts.
-`ten-ten-ten-ten` at 004v:11 and `two-two-ten` at 008r:11 both come to **forty**,
-and both sit where forty belongs — forty days and forty nights, and the forty
-days of rain. `two-<distributive infix>-two` at 008r:6 and 008r:8 is **two by
-two**, of every creature into the ark.
+`two-<distributive infix>-two` at 008r:6 and 008r:8 is **two by two**, of
+every creature into the ark.
 
 ---
 
@@ -1046,3 +1057,245 @@ time by an angel to a different person — to Abraham, to Joachim, to Anne:
 The same words in the same order, three times, hundreds of lines apart. That
 is a formula, and it is the kind of internal repetition that can be checked
 without any dictionary at all.
+
+---
+
+## 019r — Joseph
+
+**1**  […] many miracles […]; and the Lord suffered [under] the Jews
+`who-and-this-and miracle [?] and suffer Lord Jew(ish)`
+
+**2**  […]; and the man who is the Lord's […] truly
+`[?] and somebody to-Lord exist [?] to righteous(ly)`
+
+**3**  the Son of the living God — every man […]; and one man
+`son living God each,_every somebody [?] and one somebody`
+
+**4**  is damned; and the Lord […] […]; and one
+`be_damned to and Lord [?] [?] and one to`
+
+**5**  […] but […] a man is damned. Here ends this holy gospel.
+`[?] a) [?] somebody be_damned end this holy-gospel`
+
+**6**  And at that time the angel was […]; the angel of God
+`and time then-exist angel exist [?] God angel`
+
+**7**  the aged […] […] the angel of God […]
+`very_old [?] [?] God angel [?]`
+
+**8**  Joseph. Go, aged one […]
+`Joseph go very_old [?]`
+
+**9**  within […] […] to Mary; and this […]
+`inside exist-chapter [?] to-to Mary and this [?]`
+
+**10**  Joseph was […] aged […]
+`Joseph exist [?] very_old [?]`
+
+**11**  of the son, well-pleasing, from Mary […]; and then the son shall be born
+`from son to-pleasing from Mary [?] and then-exist ~son on-be_born`
+
+**12**  […]; the son shall be Jesus; and the Lord went forth […]; he
+`[?] ~son exist Jézus and from Lord go [?] exist`
+
+**13**  preached the gospel […], did many miracles, and the Lord suffered […]
+`gospel [?] who-and-this-and miracle do, and suffer Lord [?]`
+
+> "The aged" is Joseph's standing epithet all through these pages, which is
+> how medieval art paints him.
+
+## 019v — the census of Augustus
+
+**1**  [under] the Jews […]; and the man who believes in the Lord […]
+`Jew(ish) [?] and somebody to-Lord exist ~believe [?]`
+
+**2**  truly the Son of the living God — every man is saved; and one
+`righteous(ly) son living God each,_every somebody be_saved and one`
+
+**3**  man is damned; and the Lord […] believes; and one
+`somebody be_damned to and Lord [?] believe and one`
+
+**4**  […] but […] a man is damned. Here ends this holy gospel.
+`to [?] a) [?] somebody be_damned end this holy-gospel`
+
+**5**  And then the blessed Virgin Mary was sixteen years old […]
+`and then-exist out(ward) happy virgin-Mary ten-six-year [?]`
+
+**6**  There was a decree, before […] the Lord Jesus Christ, twenty and | two
+`exist commandment before [?] Lord-Jézus-Christ ten-ten and | two`
+
+**7**  years; and […] one year [before] the Lord Jesus Christ […]
+`two-year and [?] one year Lord-Jézus-Christ [?]`
+
+**8**  At that time Augustus the emperor commanded that
+`time command Augustus emperor because`
+
+**9**  all […] should be counted. And then […] Augustus
+`each,_every [?] exist make_census and then-exist [?] Augustus`
+
+**10**  […] all […] went back […] and | when
+`[?] each,_every [?] back go [?] in_turn-chapter-in_turn and | then`
+
+**11**  it was, the two of them, Mary and aged Joseph, went |
+`exist and from two Mary very_old Joseph go | to`
+
+**12**  […] And then the two, Mary and aged Joseph,
+`[?] and then-exist two Mary very_old Joseph`
+
+**13**  took one ox and one
+`exist grab one ox and one`
+
+> Luke 2:1, the decree that all the world should be taxed.
+
+## 020r — no room, and a manger
+
+**1**  donkey; because this they took, aged Joseph
+`donkey because this exist grab very_old Joseph`
+
+**2**  the ox, the two of them — aged Joseph and Mary
+`from ox who two very_old Joseph Mary`
+
+**3**  […] […] […] the two of them, the aged […]
+`[?] [?] [?] who two very_old [?]`
+
+**4**  […] and the donkey was aged Joseph's;
+`[?] exist in_turn donkey exist very_old Joseph`
+
+**5**  he took her who would bear this son | Mary and aged
+`grab who this son on-be_born want | very_old-Mary`
+
+**6**  Joseph carried her on the donkey; and then […]
+`Joseph on-donkey from-carry and then-exist [?]`
+
+**7**  aged Joseph, when he arrived | the aged
+`very_old Joseph exist from arrive | very_old`
+
+**8**  Mary and Joseph, [at] Bethlehem town; and […]
+`Mary-Joseph Bethlehem town and [?]`
+
+**9**  […] Mary and aged Joseph […] found
+`can very_old-Mary-Joseph [?] find`
+
+**10**  none; but the two of them, Mary and aged Joseph, lodged in a
+`a) leave two very_old-Mary-Joseph inside one`
+
+**11**  barn; and […] […]
+`barn and [?] [?]`
+
+**12**  a manger; and then bought […]
+`one manger and then-exist buy [?]`
+
+**13**  Joseph hay; and then the ox
+`Joseph hay and then two ox`
+
+> Luke 2:7 — no room, and the manger. The ox and the ass are not in Luke.
+> They come from Isaiah by way of the Nativity plays.
+
+## 020v — the birth, the star, and the angel's news
+
+**1**  and the donkey; he laid the hay; and then the aged |
+`donkey exist hay put and then-exist very_old | [?]`
+
+**2**  […] a fire began to give light; and then, over his shoulder […]
+`[?] ~fire begin-light ~and then-exist shoulder-to [?]`
+
+**3**  in the night the son was born; and the son was
+`night time on-be_born son and son exist`
+
+**4**  […] Jesus. At that time […] […]
+`[?] Jézus time then-exist [?] [?]`
+
+**5**  light through Bethlehem town; and then a star
+`through light Bethlehem town and then-exist star`
+
+**6**  was seen […]; and from […] […]; and then
+`see [?] and from [?] love-exist-to and then-exist`
+
+**7**  at the star, a miracle. At that time the angel said […] […]
+`on-star miracle time say angel understand-chapter [?]`
+
+**8**  joy! A king is born, a king […] born in
+`joy be_born king king [?] be_born inside`
+
+**9**  Bethlehem town, within […], in a donkey's manger.
+`~Bethlehem town inside [?] inside donkey manger`
+
+**10**  […] the donkey […] hay within […] […]
+`[?] donkey love hay inside [?] [?]`
+
+**11**  Christ, Mary's son. And then […] went [to] Bethlehem;
+`Christ Mary son and then-exist [?] go Bethlehem`
+
+**12**  and then […] knelt down, and every one of them knelt
+`and then-exist [?] kneel_(down) and each,_every this exist kneel_(down)`
+
+**13**  before […] […] to go […] and […]
+`before from [?] [?] to go [?] and [?]`
+
+> Luke 2:10–11, the angel's "tidings of great joy" and the child born in the
+> city of David.
+
+## 021r — the reckoning of years
+
+**1**  gave thanks, and gave thanks. Here ends this holy gospel […]
+`thanks and thanks grab end this holy-gospel [?]`
+
+**2**  Saint Luke writes, in […] […] of his writing, chapter […] […]
+`write holy-Luke inside [?] [?] <of>-write chapter [?] [?]`
+
+**3**  […] from […] […] until the birth […]
+`out(ward) from [?] [?] until be_born [?]`
+
+**4**  […] and […] hundred years and sixty years
+`[?] and [?] hundred-year and two-two-two-ten-year`
+
+**5**  and six years, until the birth of the Lord Jesus Christ.
+`and six-year until be_born Lord-Jézus-Christ`
+
+## 021v — the flight into Egypt, and the eighth day
+
+**1**  At that time, in the year the Lord Jesus Christ was born […]
+`time then-exist to-to-year on-be_born Lord-Jézus-Christ [?]`
+
+**2**  at that time the angel said […] to the aged […]
+`time say angel understand-chapter very_old [?]`
+
+**3**  Rise up, and take this son and his mother(?), this son […]
+`stand_up up and grab this son and <of> this son [?]`
+
+**4**  and flee into Egypt. And they went, all of them, beginning […]
+`and escape inside Egypt-to and go each,_every this begin [?]`
+
+**5**  out of Egypt […] this; the angel […] said […] […] Here ends
+`out(ward)-out(ward) Egypt [?] this this angel [?] say [?] [?] end`
+
+**6**  this holy gospel. At that time he rose up […] |
+`this holy-gospel time stand_up up [?] | [?]`
+
+**7**  […] and took the Lord Jesus Christ and his mother, and […]
+`[?] ~and grab Lord-Jézus-Christ and <of> mother and [?]`
+
+**8**  the year […] when […] |
+`year out(ward) then-exist | [?]`
+
+**9**  […] they went into Jerusalem […], that is, when was born
+`[?] go inside Jerusalem [?] that_is on-be_born`
+
+**10**  the Lord Jesus Christ. On the eighth day the son was circumcised,
+`Lord-Jézus-Christ on-six-two-year time circumcise son`
+
+**11**  and the son was named Jesus. And this Lord Jesus first
+`and son exist [?] Jézus and this Lord-Jézus first`
+
+**12**  […] shed his blood; and then […]
+`[?] <of>-Lord blood shed and then-exist [?]`
+
+**13**  the Lord Jesus was circumcised in Jerusalem. Chapter. And they fled
+`circumcise Lord-Jézus inside Jerusalem exist-chapter and escape`
+
+**14**  […]
+`[?]`
+
+> Matthew 2:13 and Luke 2:21. Line 10 dates the circumcision to the eighth
+> day, which is what Luke says, and lines 11–12 call it the first shedding of
+> Christ's blood — a medieval devotional idea, not a gospel one.
