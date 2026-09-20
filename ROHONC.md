@@ -954,8 +954,14 @@ until they are asked.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 105
+With the rendering on the page it became possible to read it, and 112
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
+The most recent seven, 060r to 063r, are the road to Emmaus told straight
+through, and the codex **names Cleopas** at 061r:6, which is Luke 24:18. It
+breaks off mid-journey into Abraham and Isaac, saying outright that Abraham
+*signified this Jesus crucified*, with the faggots Isaac carries and the
+angel that stops the hand, then returns to the long way, the constraining,
+the table and the breaking of bread.
 The content was not what this project assumed. It is not a gospel harmony.
 
 The opening is the **Life of Adam and Eve**, the apocryphal one and not

@@ -475,8 +475,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 105 folios",
-          md.count("\n## 0") + md.count("\n## 1") == 105, str(md.count("\n## 0")))
+    check("translation: the file exists and covers 112 folios",
+          md.count("\n## 0") + md.count("\n## 1") == 112, str(md.count("\n## 0")))
     check("translation: the book is identified, with its sources named",
           "Life of Adam and Eve" in md and "Legend of the Rood" in md
           and "Saint Matthew and Saint John" in md and "Elijah" in md)
@@ -543,6 +543,10 @@ def main():
     check("ROHONC: the gap engine and no floor",
           "1,232 lines" in flat and "one word short" in flat
           and "not a wall" in flat)
+
+    check("ROHONC: Emmaus run translated and Cleopas named",
+          "112\nfolios are translated" in doc and "names Cleopas" in flat
+          and "signified this Jesus crucified" in flat)
 
     check("ROHONC: my own wrong readings are corrected in place",
           "Two of my own readings corrected" in flat
