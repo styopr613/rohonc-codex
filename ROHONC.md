@@ -1242,6 +1242,31 @@ and the hay, the flight into Egypt, Gabriel, the death in Egypt. A family of
 spellings around one defined word is a check where a single occurrence is
 not, and that is where the remaining hapaxes are worth attacking.
 
+**And chasing that family found the seam that should have been worked first.**
+Kiraly and Tokai's dictionary is not a list of headwords. Every entry carries
+variant spellings, aggregates, negations, suffixed forms and worked examples,
+and each of those is a glyph string they have already read, usually with the
+folio and line attached. `harness/ktsupply.py` asks the question in bulk: take
+every sign this project cannot read and look for its glyph string anywhere
+inside any entry body. **370 signs came back**, covering 577 words and standing
+as the only unread word on 330 lines. They had been turning up one folio at a
+time for two days. Working the list out in a single session took lines fully
+read from 62.4% to 74.0% and tier A readings from 147 to 458, and every one of
+them cost no guess: the gloss is theirs, the line is theirs, and this project
+only had to look.
+
+What it read: Eve, Isaac, Abel, Noah, Joachim, Lazarus, Zacchaeus, Pilate,
+James, Michael, Gabriel, seven spellings of Nazareth and four of Galilee,
+Capharnaum, Bethany, Jericho, the Kidron, the sea, the mount, bread, water,
+wine, the lamb, the dove, the vine branch, the crown of thorns, the sword, the
+cock, the tooth, the eclipse, the money changer, the leper, the paralytic, the
+Pharisee, the host of the Eucharist, "from head to toe", "verily, verily",
+"new tongues", and the sign for the book's own author's name.
+
+The seam is now worked out: six signs of it remain, covering eight words. What
+is left is 989 signs that occur exactly once and that Kiraly and Tokai never
+mention. Those are the real wall, and a reading of one cannot be checked.
+
 Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
 into pieces Kiraly and Tokai define; it was never given their own variant
 spellings, this project's read signs or the clause terminator as pieces.

@@ -565,6 +565,11 @@ def main():
           and "92 pairs, 18%" in flat
           and "from A to B" in flat and "from B to C" in flat
           and "286a10" in flat)
+    check("ROHONC: the K&T supply seam is recorded and worked out",
+          "370 signs came back" in flat and "577 words" in flat
+          and "62.4% to 74.0%" in flat and "147 to 458" in flat
+          and "989 signs that occur exactly once" in flat
+          and "ktsupply.py" in flat)
     check("ROHONC: the Baptist/woman correction is recorded",
           "read here as *the Baptist*" in flat and "141v:6, 10, 11" in flat
           and "she lives on the" in flat
