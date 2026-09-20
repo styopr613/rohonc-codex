@@ -11,13 +11,17 @@ unpublished.  Nothing here chooses between senses; that needs their grammar.
   word/word     dictionary word, several senses, their first sense first
   word-word     undefined code read as the dictionary codes it cuts into
   ~word         variant spelling their own entry marks "var.", read as the headword
+  +word         read by this project and checked at every occurrence
+  ?word         read by this project from one passage, with nothing to check it against
   [?]           no reading
+  word.         a full stop: the glyph E034, which ends 99.7% of the words
+                carrying it at the end of a run, so it punctuates
   |             unreadable glyph or gap in the transcription
 
-Of 29997 words: 3404 read with one sense (11.3%), 14109 carry several
-(47.0%), 5754 are read by composition (19.2%), 356 are their
-declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with every word read: 975 of 4372
-(22.3%).
+Of 29997 words: 3440 read with one sense (11.5%), 14233 carry several
+(47.4%), 5811 are read by composition (19.4%), 357 are their
+declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with every word read: 1041 of 4372
+(23.8%).
 
 
 === 004v ===
@@ -92,8 +96,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  each,_every righteous(ly) [?] be_hungry and thirsty [?] this-Adam and
  3  one living die sin have be_hungry thirsty to-to-this-who
  4  [?] grab-Lord this-Adam each,_every righteous(ly) one
- 5  [?] this yoke this-Adam through commandment not [?]
- 6  this [?] [?] [?] [?] Adam exist [?]
+ 5  [?] this yoke this-Adam through commandment not eat.
+ 6  this [?] [?] [?] [?] Adam exist eat.
  7  [?] die-Adam and then-exist Adam sleep inside | to
  8  [?] and then-exist on-this [?] ~first from [?] and | then
  9  exist go holy-spirit inside [?] [?] this
@@ -123,7 +127,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  [?] grab [?] in_turn [?] fruit grab
  4  Adam and then-exist [?] on-two Adam naked
  5  see [?] Adam and then-exist [?] Adam
- 6  be_ashamed_of_sg and six say God angel to-Elijah [?]
+ 6  be_ashamed_of_sg and six say God angel to-Elijah prophet.
  7  Elijah and this [?] [?] hide_oneself-angel
  8  from-father [?] [?] hide_oneself-angel exist bow_down | father
  9  <suffix_of_divine_name> [?] in_turn-brother [?] and [?] say
@@ -137,7 +141,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  [?] why? [?] ~Adam [?] Lord-<suffix_of_divine_name>
  4  [?] Lord-<suffix_of_divine_name> who-mouth ~Adam hide_oneself [?] ~Adam
  5  who [?] [?] say Lord-<suffix_of_divine_name> why? ~Adam
- 6  [?] [?] Eve [?] food [?]
+ 6  [?] [?] Eve [?] food [?].
  7  Lord-<suffix_of_divine_name> [?] heavenly [?] [?] Eve this-Lord-to
  8  [?] Lord-<suffix_of_divine_name> why? Eve [?] who Eve [?]
  9  [?] Lord-<suffix_of_divine_name> why? Eve [?] [?] [?]
@@ -170,7 +174,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  8  Abel [?] [?] exist Seth and then-exist
  9  ~Adam from eye-eye blind and then-exist go ~Adam inside [?]
 10  son [?] and this son exist [?] son [?]
-11  ~Adam and then-exist say ~Adam carry ~Adam from [?]
+11  ~Adam and then-exist say ~Adam carry ~Adam from [?].
 
 
 === 006r ===
@@ -226,7 +230,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  God angel to-Elijah prophet Elijah inside this-and-this
  4  believe one somebody ~be_saved inside time
  5  leave angel before Elijah prophet and this-and-this say
- 6  [?] write Elijah prophet and [?] [?]
+ 6  [?] write Elijah prophet and [?] prophet.
  7  inside [?] chapter [?] <preposition_of_genitive>-write
 
 
@@ -239,7 +243,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  6  [?] Abraham sacrifice and take_out [?]
  7  understand-girl-chapter [?] [?] Isaac want slay
  8  and shout Lord-<suffix_of_divine_name> on-cloud on-angel <preposition_of_genitive>-Lord-<suffix_of_divine_name>
- 9  leave-leave Abraham-to [?] [?] who [?]
+ 9  leave-leave Abraham-to [?] [?] who this.
 10  Abraham Lord-<suffix_of_divine_name> love Lord
 11  [?] to-Lord peace
 12  and then-exist from see look_up
@@ -256,23 +260,23 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  exist gospel preach many who-and-this-and miracle [?]
  6  and suffer Lord [?] and [?] from die stand_up-Lord
  7  [?] Lord-<suffix_of_divine_name> on-angel Abraham and from-and-see chapter-Lord exist
- 8  believe righteous(ly) son living God each,_every somebody be_saved [?]
+ 8  believe righteous(ly) son living God each,_every somebody be_saved and.
  9  one somebody [?] a) each,_every somebody be_saved yoke and
-10  somebody Lord [?] believe and one [?] [?]
+10  somebody Lord [?] believe and one [?] be_saved.
 11  a) each,_every somebody be_damned from ~Adam [?] table until Abraham
 12  one hundred-year and ten-ten-year from Abraham [?] table [?]
 13  [?] [?] and [?] from Abraham until
 
 
 === 015r ===
- 1  [?] David king humble against [?]
- 2  repentance begin king [?] [?] king [?]
+ 1  [?] David king humble against Lord-<suffix_of_divine_name>.
+ 2  repentance begin king [?] [?] king Lord-<suffix_of_divine_name>.
  3  have_mercy and sin king have_mercy time appear king
  4  God angel [?] God angel David king Lord-<suffix_of_divine_name>
  5  king [?] sin have_mercy carry-king <preposition_of_genitive>-Lord commandment and
  6  confirm-Lord king [?] on-<preposition_of_genitive>-king throne and announce king people-chapter
  7  [?] on-be_born host [?] son [?] son exist son
- 8  God and leave angel before David [?]
+ 8  God and leave angel before David king.
  9  from David king until virgin-Mary [?]
 10  [?] and [?] and one [?]
 11  ~out(ward) [?] and one [?] | two-two-two
@@ -286,14 +290,14 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 016r ===
- 1  write holy-Luke six-throne <preposition_of_genitive>-write from [?] [?]
+ 1  write holy-Luke six-throne <preposition_of_genitive>-write from [?] [?].
  2  [?] [?] thanks grab and pray to-Lord-<suffix_of_divine_name>
 
 
 === 016v ===
  1  and holy-Anne_(mother_of_the_Virgin_Mary) [?] from-two from_the_two_of_them each,_every <preposition_of_genitive>-rich soul [?] [?]
  2  one division grab [?] on-exist-chapter in_turn-two division
- 3  from-Lord [?] people-chapter [?] division [?] [?]
+ 3  from-Lord [?] people-chapter [?] division [?] living.
  4  and each,_every Saint_Joachim_and_his_houseful thanks to-thanks Lord-<suffix_of_divine_name> in_turn [?] | [?]
  5  [?] [?] thirty year and prepare offering-chapter
  6  exist-chapter each,_every [?] [?] and then-exist and from Joachim_(the_father_of_Virgin_Mary)
@@ -314,8 +318,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  Lord-<suffix_of_divine_name> have_mercy go Joachim_(the_father_of_Virgin_Mary) to-home and on-golden
  6  gate this Joachim_(the_father_of_Virgin_Mary) leave <preposition_of_genitive>-Joachim_(the_father_of_Virgin_Mary) wife Anne_(mother_of_the_Virgin_Mary) and [?]
  7  one virgin-girl and then-exist [?] and [?]
- 8  virgin-girl exist Mary and remit Mary on-be_born son [?]
- 9  son exist [?] Jézus and go-Lord [?]
+ 8  virgin-girl exist Mary and remit Mary on-be_born son [?].
+ 9  son exist [?] Jézus and go-Lord [?].
 10  exist gospel preach many who-and-this-and miracle do, and suffer
 11  Lord [?] and [?] from die stand_up-Lord and [?] be_saved
 12  each,_every [?] [?] and somebody Lord exist believe and leave angel
@@ -334,7 +338,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  9  [?] and leave ~angel before holy-Anne_(mother_of_the_Virgin_Mary) and from-get_conceived happy
 10  virgin-Mary and from Mary foetus carry nine moon in_turn ten foetus be_born and this
 11  out(ward) two moon and on-out(ward) [?] and on-six-year-to
-12  ~out(ward) from [?] [?] until virgin-Mary get_conceived and [?]
+12  ~out(ward) from [?] [?] until virgin-Mary get_conceived and on-be_born.
 13  [?] and one hundred and [?] and
 
 
@@ -344,8 +348,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  [?] and say [?] this-Mary want virgin-carry | <preposition_of_genitive>
  4  Mary [?] chapter-oh chapter-oh amen and then-exist Mary
  5  exist six-six [?] and [?] and time from-gate
- 6  from-father-<suffix_of_divine_name> heaven because see hide_oneself each,_every [?] darkness [?]
- 7  and time from-gate from-father-<suffix_of_divine_name> heaven and [?]
+ 6  from-father-<suffix_of_divine_name> heaven because see hide_oneself each,_every [?] darkness [?].
+ 7  and time from-gate from-father-<suffix_of_divine_name> heaven and go.
  8  <preposition_of_genitive>-Lord angel Gabriel inside exist-chapter to-happy [?]
  9  write holy-Luke [?] <preposition_of_genitive>-write time say angel
 10  Gabriel healing this-virgin-girl have_mercy-girl out(ward) Lord-<suffix_of_divine_name>-Mary [?]
@@ -356,9 +360,9 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 018v ===
  1  have want to-girl this go holy-spirit to-each,_every have_mercy [?]
- 2  this-girl get_conceived son and ~son [?] exist [?]
- 3  [?] virgin-Mary [?] [?] this say and [?] want from [?]
- 4  this [?] [?] Lord this [?] ~and then-exist girl [?]
+ 2  this-girl get_conceived son and ~son [?] exist Jézus.
+ 3  [?] virgin-Mary [?] [?] this say and [?] want from Lord-<suffix_of_divine_name>.
+ 4  this [?] [?] Lord this [?] ~and then-exist girl [?].
  5  virgin-Mary commandment word to-Lord-hide_oneself Mary hide_oneself this [?] who girl
  6  exist angel say on-this say [?] father-<suffix_of_divine_name> virgin-Mary | holy
  7  spirit in_turn to-Lord [?] [?] go Lord-Jézus-Christ from-get_conceived Lord
@@ -378,8 +382,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  [?] a) [?] somebody be_damned end this holy-gospel
  6  and time then-exist angel exist [?] God angel
  7  very_old [?] [?] God angel [?]
- 8  Joseph go very_old [?]
- 9  inside exist-chapter [?] to-to Mary and this [?]
+ 8  Joseph go very_old [?].
+ 9  inside exist-chapter [?] to-to Mary and this very_old.
 10  Joseph exist [?] very_old [?]
 11  from son to-pleasing from Mary [?] and then-exist ~son on-be_born
 12  [?] ~son exist Jézus and from Lord go [?] exist
@@ -387,13 +391,13 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 019v ===
- 1  Jew(ish) [?] and somebody to-Lord exist ~believe [?]
+ 1  Jew(ish) [?] and somebody to-Lord exist ~believe to.
  2  righteous(ly) son living God each,_every somebody be_saved and one
  3  somebody be_damned to and Lord [?] believe and one
  4  to [?] a) [?] somebody be_damned end this holy-gospel
- 5  and then-exist out(ward) happy virgin-Mary ten-six-year [?]
+ 5  and then-exist out(ward) happy virgin-Mary ten-six-year time.
  6  exist commandment before [?] Lord-Jézus-Christ ten-ten and | two
- 7  two-year and [?] one year Lord-Jézus-Christ [?]
+ 7  two-year and [?] one year Lord-Jézus-Christ and.
  8  time command Augustus emperor because
  9  each,_every [?] exist make_census and then-exist [?] Augustus
 10  [?] each,_every [?] back go [?] in_turn-chapter-in_turn and | then
@@ -405,22 +409,22 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 020r ===
  1  donkey because this exist grab very_old Joseph
  2  from ox who two very_old Joseph Mary
- 3  [?] [?] [?] who two very_old [?]
+ 3  [?] [?] [?] who two very_old Joseph.
  4  [?] exist in_turn donkey exist very_old Joseph
  5  grab who this son on-be_born want | very_old-Mary
- 6  Joseph on-donkey from-carry and then-exist [?]
+ 6  Joseph on-donkey from-carry and then-exist two.
  7  very_old Joseph exist from arrive | very_old
  8  Mary-Joseph Bethlehem town and [?]
  9  can very_old-Mary-Joseph [?] find
 10  a) leave two very_old-Mary-Joseph inside one
-11  barn and [?] [?]
-12  one manger and then-exist buy [?]
+11  barn and [?] [?].
+12  one manger and then-exist buy very_old.
 13  Joseph hay and then two ox
 
 
 === 020v ===
  1  donkey exist hay put and then-exist very_old | [?]
- 2  [?] ~fire begin-light ~and then-exist shoulder-to [?]
+ 2  [?] ~fire begin-light ~and then-exist shoulder-to begin.
  3  night time on-be_born son and son exist
  4  [?] Jézus time then-exist [?] [?]
  5  through light Bethlehem town and then-exist star
@@ -431,13 +435,13 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 10  [?] donkey love hay inside [?] [?]
 11  Christ Mary son and then-exist [?] go Bethlehem
 12  and then-exist [?] kneel_(down) and each,_every this exist kneel_(down)
-13  before from [?] [?] to go [?] and [?]
+13  before from [?] [?] to go [?] and to-Lord.
 
 
 === 021r ===
  1  thanks and thanks grab end this holy-gospel [?]
  2  write holy-Luke inside [?] [?] <preposition_of_genitive>-write chapter [?] [?]
- 3  out(ward) from [?] [?] until be_born [?]
+ 3  out(ward) from [?] [?] until be_born Lord-Jézus-Christ.
  4  [?] and [?] hundred-year and two-two-two-ten-year
  5  and six-year until be_born Lord-Jézus-Christ
 
@@ -445,7 +449,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 021v ===
  1  time then-exist to-to-year on-be_born Lord-Jézus-Christ [?]
  2  time say angel understand-chapter very_old [?]
- 3  stand_up up and grab this son and <preposition_of_genitive> this son [?]
+ 3  stand_up up and grab this son and <preposition_of_genitive> this son mother.
  4  and escape inside Egypt-to and go each,_every this begin [?]
  5  out(ward)-out(ward) Egypt [?] this this angel [?] say [?] [?] end
  6  this holy-gospel time stand_up up [?] | [?]
@@ -454,19 +458,19 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  9  [?] go inside Jerusalem [?] that_is on-be_born
 10  Lord-Jézus-Christ on-six-two-year time circumcise son
 11  and son exist [?] Jézus and this Lord-Jézus first
-12  [?] <preposition_of_genitive>-Lord blood shed and then-exist [?]
+12  [?] <preposition_of_genitive>-Lord blood shed and then-exist Lord.
 13  circumcise Lord-Jézus inside Jerusalem exist-chapter and escape
 14  [?]
 
 
 === 022r ===
  1  inside Egypt earth and [?] and go Lord [?]
- 2  on-Egypt earth inside each,_every town [?] [?]
- 3  [?] evil pierce-pierce and | [?]
+ 2  on-Egypt earth inside each,_every town [?] hell.
+ 3  [?] evil pierce-pierce and | [?].
  4  [?] die from [?] leave-leave inside Egypt six-six-year
- 5  time say ~Gabriel angel [?]
+ 5  time say ~Gabriel angel [?].
  6  escape on-Egypt earth inside [?] town
- 7  and [?] leave-leave [?]
+ 7  and [?] leave-leave [?].
  8  town six-six-year and [?] and this [?] table
  9  ten-ten-two-nine-year end this holy-gospel one
 10  [?] call six-six apostle and [?] [?] and | who-this
@@ -477,31 +481,31 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 022v ===
  1  before that_is [?] Lord wine create-Lord [?] on-that_is [?] Lord
  2  break [?] [?] [?] [?] people
- 3  in_turn-two-two can show Lord-Jézus then-exist | [?]
+ 3  in_turn-two-two can show Lord-Jézus then-exist | [?].
  4  before in_turn-to-in_turn resurrect from [?] son [?]
  5  can show Lord-Jézus then-exist resurrect to-to [?]
- 6  inside Jerusalem in_turn-six can show Lord-Jézus inside [?]
+ 6  inside Jerusalem in_turn-six can show Lord-Jézus inside one.
  7  in_turn-chapter-in_turn then-exist Jew(ish) carry one ill
  8  before Lord-Jézus <man_suffering_from_illness> and <man_suffering_from_illness> and <man_suffering_from_some_kind_of_illness> and paralytic
  9  and <man_suffering_from_illness> <man_suffering_from_illness> <man_suffering_from_some_kind_of_illness> paralytic from-healing Lord-Jézus [?]
 10  can show Lord-Jézus inside Capharnaum because from-healing living
-11  two servant one soldier and [?] [?]
+11  two servant one soldier and [?] soldier.
 12  exist [?] in_turn-six-two can show Lord-Jézus
 13  inside Tyrus in_turn-chapter-in_turn to-to one ~woman head
 
 
 === 023r ===
- 1  one [?] and inside to-to exist hell evil and [?]
- 2  out(ward) [?] in_turn-nine can show Lord-Jézus inside | [?]
- 3  proud on-one [?] somebody because somebody [?]
+ 1  one [?] and inside to-to exist hell evil and evil.
+ 2  out(ward) [?] in_turn-nine can show Lord-Jézus inside | exist.
+ 3  proud on-one [?] somebody because somebody healing.
  4  do, in_turn-ten can show Lord-Jézus inside apostle-oh-<suffix_of_divine_name>-chapter
- 5  one king son because exist on-die and son [?]
+ 5  one king son because exist on-die and son healing.
  6  [?] in_turn-and can show Lord-Jézus inside Jerusalem evil
  7  then-exist Lord inside one somebody hell evil [?]
- 8  first before be_born Lord-Jézus-Christ son God [?]
- 9  one prophet one forefather this [?]
+ 8  first before be_born Lord-Jézus-Christ son God [?].
+ 9  one prophet one forefather this miracle.
 10  [?] [?] Christ [?] and miracle confess
-11  [?] Lord-Jézus righteous(ly) son God [?] confess [?]
+11  [?] Lord-Jézus righteous(ly) son God [?] confess ~have.
 12  Lord-Jézus [?] Lord-Jézus righteous(ly) son God first confess
 13  ~have Lord-Jézus [?] and Elijah in_turn-two confess
 
@@ -510,21 +514,21 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  ~have Lord-Jézus from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord [?] confess ~evil evil
  2  [?] Lord-Jézus righteous(ly) son God in_turn-two-two confess ~have
  3  Lord-Jézus angel [?] Lord-Jézus righteous(ly) son God [?]
- 4  confess [?] and earth sun [?]
- 5  moon [?] Lord-Jézus righteous(ly) son God and this each,_every [?]
+ 4  confess [?] and earth sun and.
+ 5  moon [?] Lord-Jézus righteous(ly) son God and this each,_every confess.
  6  [?] Lord-Jézus righteous(ly) son God first confess holy-Peter
  7  [?] and Elijah write holy-Luke then-exist
- 8  Lord-Jézus inside thirty [?] time go Lord-Jézus [?]
+ 8  Lord-Jézus inside thirty [?] time go Lord-Jézus on.
  9  Mount_Tabor and <preposition_of_genitive> apostle and be_glorified ~and
 10  see apostle [?] and Elijah [?] [?]
 11  and see light [?] and then-exist from-leave-leave | Lord
 12  Jézus and [?] and Elijah and then-exist apostle through
-13  get_frightened and down [?] bow_down and then-exist apostle [?]
+13  get_frightened and down [?] bow_down and then-exist apostle voice,_sound.
 
 
 === 024r ===
  1  hear this word say [?] <preposition_of_genitive> son and father [?] [?] [?]
- 2  and then-exist home [?] not apostle and not each,_every [?]
+ 2  and then-exist home [?] not apostle and not each,_every see.
  3  a) to-Lord-Jézus end this holy-gospel in_turn-two confess
  4  ~have Lord-Jézus from-father <preposition_of_genitive>-Lord first on-Mount_Tabor
  5  in_turn-two on-Carmel to-mount because then-exist Lord-Jézus inside thirty
@@ -532,7 +536,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  7  [?] on-Carmel to-mount and then-exist Lord go | to
  8  holy-John say Lord-Jézus John [?] Lord say | holy
  9  John Master and [?] [?] [?] and say Lord-Jézus
-10  John [?] Lord and [?] exist [?]
+10  John [?] Lord and [?] exist [?].
 11  holy-John [?] see-baptize Lord-Jézus then-exist
 12  to-Lord inside thirty year and [?] holy-spirit
 
@@ -552,8 +556,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  [?] Lord mouth somebody [?] one son and [?]
  6  hell evil [?] somebody son <preposition_of_genitive> apostle to-hide_oneself-to [?] can
  7  from-healing [?] ask_(for) from-healing this Lord <preposition_of_genitive>-somebody son say
- 8  Lord-Jézus have_mercy gain [?] son can [?] [?]
- 9  and then-exist son go before Lord-Jézus and [?]
+ 8  Lord-Jézus have_mercy gain [?] son can [?] healing.
+ 9  and then-exist son go before Lord-Jézus and [?].
 10  healing leave-to-leave and this [?] confess hell evil [?]
 11  Lord-Jézus righteous(ly) son God because miracle confess in_turn-two-two
 12  confess have Lord-Jézus angel on-be_born Lord-Jézus
@@ -563,13 +567,13 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 025v ===
  1  town and first before be_born one [?] exist
  2  [?] star through light Bethlehem town and | then
- 3  exist star see [?] and from [?] [?]
+ 3  exist star see [?] and from [?] [?].
  4  and then-exist on-star miracle time say angel [?]
  5  [?] joy be_born king king [?]
  6  be_born inside ~Bethlehem town inside barn inside donkey
  7  manger [?] donkey inside hay inside
  8  [?] [?] Christ Mary son and | then
- 9  [?] [?] go Bethlehem and [?]
+ 9  [?] [?] go Bethlehem and then-exist.
 10  [?] kneel_(down) and each,_every this ~exist kneel_(down) | ~exist
 11  [?] from [?] [?] to go [?] and
 12  [?] thanks and thanks grab end this holy-gospel
@@ -578,7 +582,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 026r ===
  1  and earth to-Lord-year and moon because
- 2  because then-exist Lord-Christ [?]
+ 2  because then-exist Lord-Christ [?].
  3  earth quake-rock stone split
 
 
@@ -586,13 +590,13 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  sun and moon this eclipse and each,_every [?] [?] this humble and each,_every
  2  create [?] then-exist Christ [?] and this each,_every [?] confess
  3  inside-to-sad(ly) [?] Lord-Jézus righteous(ly) son God and miracle confess
- 4  [?] Lord-Jézus righteous(ly) son God because [?]
+ 4  [?] Lord-Jézus righteous(ly) son God because various.
  5  miracle [?] and suffer Lord Jew(ish) [?]
  6  and [?] [?] Lord-<suffix_of_divine_name> [?] Abraham | [?]
  7  [?] arrive [?] say exist say Lord-<suffix_of_divine_name> Abraham on-angel and this
  8  say say Lord-<suffix_of_divine_name> happy virgin-Mary on-understand-chapter angel and | holy
  9  [?] [?] and somebody to-Lord exist believe
-10  what righteous(ly) son living God each,_every somebody be_saved and [?]
+10  what righteous(ly) son living God each,_every somebody be_saved and one.
 11  somebody be_damned to and Lord [?] believe and [?]
 12  one to be_saved a) [?] somebody be_damned and | this
 13  and-this say confess first Abraham forefather | on-this
@@ -604,14 +608,14 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  Mary say angel God time exist Lord go Lord-<suffix_of_divine_name> <preposition_of_genitive>-Lord
  3  angel happy virgin-Mary then-exist ~out(ward) from want-year to-house
  4  virgin-Mary [?] and be_born and [?] [?]
- 5  and one hundred and six-ten-year and [?] and and [?]
+ 5  and one hundred and six-ten-year and [?] and and moon.
  6  time from-gate from-father-<suffix_of_divine_name> heaven because see hide_oneself each,_every
  7  [?] darkness [?] time from-gate from-father-<suffix_of_divine_name>
  8  heaven and go <preposition_of_genitive>-Lord angel Gabriel inside exist-chapter
  9  to-happy virgin-Mary and this-and-this say write holy-Luke
 10  [?] <preposition_of_genitive>-write and somebody to-Lord exist believe
 11  to righteous(ly) son living God each,_every somebody be_saved and
-12  one somebody be_damned to and Lord [?]
+12  one somebody be_damned to and Lord [?].
 13  believe and one to be_saved a) each,_every somebody
 
 
@@ -633,10 +637,10 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 028r ===
  1  and then-exist-Mary exist-Lord [?] Lord-Jézus <preposition_of_genitive>-Lord mother
- 2  happy virgin-Mary and then-exist-Mary exist and from [?]
+ 2  happy virgin-Mary and then-exist-Mary exist and from Mary.
  3  [?] <preposition_of_genitive>-Mary son Lord-Jézus-Christ and from Mary from-go
- 4  Lord-Jézus [?] apostle inside Jerusalem because [?] apostle [?]
- 5  before Lord go inside Jerusalem who-exist apostle to-dinner-to-to [?]
+ 4  Lord-Jézus [?] apostle inside Jerusalem because [?] apostle exist.
+ 5  before Lord go inside Jerusalem who-exist apostle to-dinner-to-to eat.
  6  prepare-apostle one lamb because time
  7  holiday exist Jew(ish) Easter [?] begin suffering
  8  Lord-Jézus-Christ son God because [?] Lord righteous(ly) son God
@@ -659,20 +663,20 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  [?] <preposition_of_genitive>-somebody [?]
  3  write [?] cup-not [?]
  4  holy-Matthew and holy-John
- 5  from suffering | [?]
- 6  somebody [?] [?]
+ 5  from suffering | <preposition_of_genitive>.
+ 6  somebody [?] time.
  7  go Lord-Jézus [?]
- 8  Jerusalem because from far-to-Lord to-dinner-chapter [?] because exist [?]
- 9  before Lord go apostle inside Jerusalem [?] Lord-Jézus exist [?]
-10  prepare from Easter lamb who-exist Lord apostle [?]
-11  eat and this-Lord to you go and then-exist Lord [?]
+ 8  Jerusalem because from far-to-Lord to-dinner-chapter [?] because exist Lord.
+ 9  before Lord go apostle inside Jerusalem [?] Lord-Jézus exist apostle.
+10  prepare from Easter lamb who-exist Lord apostle to-dinner-chapter.
+11  eat and this-Lord to you go and then-exist Lord go.
 12  to-apostle inside Jerusalem and sit to-throne Lord [?] this-apostle time
 13  exist apostle prepare from Easter lamb and lamb
 
 
 === 029v ===
  1  carry apostle on throne [?] Lord-Jézus [?] <preposition_of_genitive>-Lord from
- 2  [?] want Lord to you eat this [?]
+ 2  [?] want Lord to you eat this Easter.
  3  lamb that_is_why ask_(for)-Lord you do_not apostle
  4  inside Lord stumble because this-Lord go on-die Lord die and this-Lord | on
  5  [?] [?] [?] and this-Lord you [?]
@@ -691,8 +695,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  wash [?] [?] [?] inside [?] [?]
  4  [?] [?] Master [?] this-Peter this
  5  [?] trespass this-Lord sufferer [?]
- 6  [?] [?] [?] this-Lord inside heaven [?] | [?]
- 7  [?] this-Lord grab-cut_off-to [?] [?]
+ 6  [?] [?] [?] this-Lord inside heaven [?] | [?].
+ 7  [?] this-Lord grab-cut_off-to [?] head.
  8  wash and each,_every [?] [?] wash and | then
  9  exist [?] [?] foot exist-Lord wash and foot
 10  [?] [?] [?] and two from [?] apostle middle each,_every
@@ -709,7 +713,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  6  before Lord put Lord-Jézus and grab Lord-Jézus
  7  wine one cup and water inside cup pour and [?]
  8  Lord-Jézus wine and water and wine water
- 9  before Lord put Lord-Jézus [?] Lord-Jézus and [?]
+ 9  before Lord put Lord-Jézus [?] Lord-Jézus and somebody.
 10  exist this [?] eat this somebody exist | <preposition_of_genitive>
 11  Lord [?] [?] and somebody [?] this [?]
 
@@ -717,21 +721,21 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 031r ===
  1  eat and Lord believe each,_every somebody be_damned [?]
  2  and somebody exist Lord believe [?] exist from
- 3  thirty holy-host eat [?] drink [?]
+ 3  thirty holy-host eat [?] drink each,_every.
  4  somebody exist living chapter-oh chapter-oh amen [?]
  5  Lord-Jézus [?] [?] one among you
  6  and [?] Lord [?] from apostle betray and see-apostle among
- 7  apostle say [?] Master [?] and [?]
+ 7  apostle say [?] Master [?] and [?].
  8  say Lord-Jézus and [?] [?] Lord-Jézus
  9  [?] and ~John and say oh [?] [?]
 10  from-judge Master Who_is_it? and then-exist lean_on
-11  [?] on-end Lord-Jézus [?] Master | [?]
+11  [?] on-end Lord-Jézus [?] Master | [?].
 12  this-and-this say Lord-Jézus [?] this-Lord grab bite
 
 
 === 031v ===
  1  [?] That_is_it. and then-exist sleep [?]
- 2  on-end Lord-Jézus and grab this [?]
+ 2  on-end Lord-Jézus and grab this Lord-Jézus.
  3  [?] and [?] Lord-Jézus [?] this
  4  [?] and then-exist [?] exist-Lord Judas
  5  [?] grab and then-exist [?] Judas
@@ -763,7 +767,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  [?] Lord-Jézus Peter first a) before [?]
  3  [?] Lord-to [?] exist deny and Peter say [?]
  4  emperor [?] Lord-Jézus Peter this [?] this
- 5  ~out(ward) that_is_why ask_(for) Lord you do_not [?]
+ 5  ~out(ward) that_is_why ask_(for) Lord you do_not apostle.
  6  inside Lord stumble because exist apostle many sad(ly) on-Lord have
  7  in_turn one Jew(ish) exist judge and mouth
  8  can Lord say Lord-Jézus a) [?] and go Lord
@@ -775,16 +779,16 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 033r ===
  1  and speak holy-John many miracle and many ~preach
  2  [?] Lord-Jézus [?] but inside write not
- 3  write and then-exist Lord six-six apostle [?] [?]
+ 3  write and then-exist Lord six-six apostle [?] this.
  4  exist one brook [?] and from apostle
- 5  rest apostle [?] apostle Lord grab Peter [?]
- 6  John and [?] and [?]
+ 5  rest apostle [?] apostle Lord grab Peter and.
+ 6  John and [?] and [?].
  7  over-exist Cedron and [?] inside [?]
  8  and [?] because-exist garden on-this [?]
  9  trespass Jerusalem in_turn-to-in_turn and [?] go-Lord on-Jerusalem and inside
 10  Jerusalem lo Lord [?] to Lord-Jézus and <preposition_of_genitive>-Lord apostle
 11  because want-Lord grab Lord-Jézus inside-garden capture
-12  [?] <preposition_of_genitive>-somebody father ~Adam [?] [?]
+12  [?] <preposition_of_genitive>-somebody father ~Adam [?] [?].
 
 
 === 033v ===
@@ -793,7 +797,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  apostle inside garden in_turn to-Lord go [?] speak
  4  holy-John from-go-Lord trespass from apostle [?] then-chapter
  5  stone to-throw [?] father <preposition_of_genitive>-Lord and kneel_(down)
- 6  Lord-Jézus [?] father <preposition_of_genitive>-Lord God [?]
+ 6  Lord-Jézus [?] father <preposition_of_genitive>-Lord God heaven.
  7  from [?] from Lord this suffering in_turn
  8  [?] pleasing and [?] Lord-Jézus and go-Lord
  9  to apostle [?] apostle to-sleep [?] Lord-Jézus [?]
@@ -818,12 +822,12 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 034v ===
  1  father and go angel [?] high from-father-<suffix_of_divine_name> [?]
  2  Lord this ~have this [?] this suffering [?]
- 3  [?] angel [?] this-Lord offer [?]
+ 3  [?] angel [?] this-Lord offer from-father-<suffix_of_divine_name>.
  4  <preposition_of_genitive>-Lord fate <preposition_of_genitive>-father-<suffix_of_divine_name> son Jézus [?]
  5  each,_every [?] from-buy and leave-to-leave angel before
  6  Lord-Jézus because each,_every night this-go angel high from-father-<suffix_of_divine_name>
  7  to-Lord-Jézus because Lord carry angel each,_every <preposition_of_genitive>-Lord suffering
- 8  write and [?] righteous(ly) [?] [?] [?]
+ 8  write and [?] righteous(ly) [?] [?] [?].
  9  write and go-Lord to-apostle [?] Lord-Jézus
 10  [?] <preposition_of_genitive>-Lord and have-Lord-apostle one [?]
 11  [?] and then-exist [?] [?] and then-exist apostle | to
@@ -840,7 +844,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  8  [?] from-father die and mother [?] sleep [?] Judas and Jew(ish)
  9  ask_for_sign distinguish Lord James John [?] kiss
 10  Judas from Lord capture Jew(ish) and then-exist
-11  go Judas against Lord-Jézus and [?]
+11  go Judas against Lord-Jézus and kiss.
 12  ~Judas <preposition_of_genitive>-Lord hand because to-Jew(ish) ask_for_sign
 
 
@@ -854,7 +858,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  7  club [?] inside why?-in_turn because Lord-Jézus [?]
  8  do, father-<suffix_of_divine_name> <preposition_of_genitive>-Lord to-Jew(ish) people and
  9  [?] [?] and two shout Lord-Jézus [?] search
-10  people <preposition_of_genitive>-Lord Jew(ish) and shout [?]
+10  people <preposition_of_genitive>-Lord Jew(ish) and shout Jew(ish).
 11  [?] [?] Jézus [?] and shout
 12  Lord-Jézus from this-Lord if Lord search Jew(ish) and
 
@@ -877,7 +881,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  cut_off [?] [?] ear one Jew(ish)
  2  and [?] Jew(ish) exist Malchus [?]
  3  Lord-Jézus Peter Peter [?] cut_off [?] because and
- 4  somebody Peter [?] cut_off from [?]
+ 4  somebody Peter [?] cut_off from [?].
  5  [?] [?] die and grab Lord-Jézus this ear
  6  and [?] put on-place and healing ear
  7  leave-to-leave and from Lord-Jézus on-pagan miracle [?]
@@ -890,17 +894,17 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 037r ===
- 1  [?] and [?] carry to-Lord [?]
+ 1  [?] and [?] carry to-Lord [?].
  2  Lord-Jézus and then-exist [?] hand Lord-Jézus-Christ
- 3  [?] each,_every to-<preposition_of_genitive>-Lord to-year-to [?] [?] and then-exist [?]
+ 3  [?] each,_every to-<preposition_of_genitive>-Lord to-year-to [?] [?] and then-exist Lord.
  4  go to-Jew(ish) head [?] and then-exist Lord
  5  go down on-to-mount and many [?] [?]
  6  Jew(ish) on-Lord-Jézus because Lord one [?] beat
  7  [?] [?] in_turn-two to-Lord to-house [?] [?]
  8  to-Lord [?] from not-not <preposition_of_genitive>-somebody have_mercy Lord-Jézus
  9  and then-exist through [?] through [?] [?]
-10  and Lord [?] on-bridge go [?]
-11  a) Lord on-bridge [?] and to-Lord [?] [?]
+10  and Lord [?] on-bridge go Lord-Jézus.
+11  a) Lord on-bridge [?] and to-Lord [?] who.
 12  <preposition_of_genitive>-somebody have_mercy Lord-Jézus because Lord two [?] go Jew(ish)
 
 
@@ -913,14 +917,14 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  6  exist Lord [?] to-Caiaphas high_priest [?]
  7  Jew(ish) [?] Lord [?] accuse and then-exist
  8  Lord [?] before <name_of_a_priest> high_priest house and | then
- 9  exist Lord [?] [?] Lord this [?]
+ 9  exist Lord [?] [?] Lord this high_priest.
 10  and then-exist Lord [?] inside one house and | then
 11  exist Lord from-to-each,_every one [?] [?] | not-not
 12  [?] Lord-Jézus-Christ [?] Peter one
 
 
 === 038v ===
- 1  Jew(ish) this Malchus ear cut_off [?]
+ 1  Jew(ish) this Malchus ear cut_off say.
  2  Peter [?] this-Peter and-to-Lord-to-Peter and this from
  3  first denial Lord-Jézus because say Peter [?] Lord and-to-Lord-to
  4  and [?] Lord-Jézus to-Caiaphas high_priest and | then-exist
@@ -937,13 +941,13 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 039r ===
  1  holy-Peter before ~gate and then-exist Peter exist
  2  see from-handmaid ~gate Jew(ish) [?] handmaid this-Peter
- 3  apostle this Jézus say Peter [?] and-to-Lord-to [?]
- 4  this two denial Lord-Jézus because say Peter [?] Lord | [?]
- 5  to-Lord-to in_turn John [?] [?]
+ 3  apostle this Jézus say Peter [?] and-to-Lord-to and.
+ 4  this two denial Lord-Jézus because say Peter [?] Lord | and.
+ 5  to-Lord-to in_turn John [?] because-exist.
  6  acquaintance this high_priest say Caiaphas to-Jézus this-Lord say
  7  son God in_turn how? this righteous(ly) preach say Jézus
- 8  to-Caiaphas from-judge-Caiaphas from [?] [?]
- 9  hear preach [?] ~righteous(ly) [?]
+ 8  to-Caiaphas from-judge-Caiaphas from [?] Lord-to.
+ 9  hear preach [?] ~righteous(ly) preach.
 10  [?] Caiaphas this-Caiaphas and [?] inside Lord [?]
 11  Caiaphas-year [?] this-Lord [?] somebody say Caiaphas
 12  [?] Lord [?] [?] to-<preposition_of_genitive>-Caiaphas exist-exist
@@ -987,14 +991,14 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 041r ===
  1  [?] Pilate this Lord speak Lord king Jew(ish)
  2  say Lord-Jézus this Pilate [?] [?] Pilate mouth
- 3  [?] this-Lord righteous(ly) son living God [?]
+ 3  [?] this-Lord righteous(ly) son living God [?].
  4  Pilate this-Lord [?] righteous(ly) somebody this Pilate
  5  how? [?] inside Lord [?] and shout
  6  Jew(ish) [?] Lord Pilate [?] Lord cursed this
  7  Pilate this-hide_oneself want [?] Lord [?] [?]
- 8  [?] righteous(ly) [?] [?] [?]
+ 8  [?] righteous(ly) [?] [?] Pilate.
  9  [?] grab Lord [?] and Lord [?]
-10  ~Herod <preposition_of_genitive>-Pilate [?] and then-exist ~out(ward) [?]
+10  ~Herod <preposition_of_genitive>-Pilate [?] and then-exist ~out(ward) [?].
 11  hour and then-exist Lord [?] [?]
 12  king and then-exist and [?] on-one
 
@@ -1004,12 +1008,12 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  Lord [?] this [?] this-Lord [?]
  3  this blasphemer-Lord this Jézus and [?] Lord from Galilee
  4  protrude [?] each,_every people on-Lord [?]
- 5  and then-exist Lord [?] many judge [?]
+ 5  and then-exist Lord [?] many judge before.
  6  Herod king because [?] Jew(ish) to-Lord want
- 7  Herod [?] and Lord [?]
- 8  Herod [?] a) [?] shine [?]
+ 7  Herod [?] and Lord emperor.
+ 8  Herod [?] a) [?] shine see.
  9  Herod Lord-Jézus-Christ and then-exist Lord [?] before
-10  Herod king and shout Jew(ish) [?]
+10  Herod king and shout Jew(ish) this.
 11  Herod [?] Lord go this-Lord begin-believe and Lord [?]
 12  from Galilee protrude [?] each,_every
 
@@ -1022,10 +1026,10 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 042v ===
- 1  and [?] to-this confess [?] Herod a) [?]
+ 1  and [?] to-this confess [?] Herod a) say.
  2  Herod say Lord Herod [?] God this Lord son and
  3  one say speak Lord-Jézus ~against Herod and
- 4  Herod [?] Herod [?] this-Herod king [?]
+ 4  Herod [?] Herod [?] this-Herod king this-Herod.
  5  this-Lord can Herod [?] this die [?] [?]
  6  this-Lord [?] Herod to say say Herod [?]
  7  to-Herod this Lord-to living God [?] say Herod [?]
@@ -1033,7 +1037,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  9  <preposition_of_genitive>-Lord father [?] [?] Lord-Jézus to-Herod | this
 10  Lord righteous(ly) son living God say Lord-Jézus this-Lord go
 11  <preposition_of_genitive>-Lord father [?] judge living and die
-12  and do, Herod carry stone and [?]
+12  and do, Herod carry stone and inside.
 
 
 === 043r ===
@@ -1042,7 +1046,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  Herod then-exist-Lord before miracle do,
  4  and yoke Lord-Jézus before and understand-eat
  5  miracle do, because then-exist [?] before
- 6  Herod miracle do, why?-Lord grab [?]
+ 6  Herod miracle do, why?-Lord grab Herod.
  7  [?] a) say Herod [?] this Lord [?]
  8  Pilate to-<preposition_of_genitive>-Herod brother [?] who
  9  [?] this-Lord because on-Lord do, Pilate
@@ -1056,7 +1060,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  Lord [?] [?] [?] righteous(ly) [?]
  3  [?] Pilate understand-eat soldier carry-soldier Pilate
  4  two [?] [?] and then-exist Pilate [?] carry
- 5  two [?] [?] and Lord gate [?]
+ 5  two [?] [?] and Lord gate inside.
  6  understand-eat ~until and grab Pilate | two
  7  two soldier to Lord-Jézus and Lord exist whip and then-exist
  8  two from [?] flog Lord-Jézus in_turn-two Lord
@@ -1110,14 +1114,14 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 046v ===
- 1  [?] in_turn angel Bethlehem [?]
+ 1  [?] in_turn angel Bethlehem [?].
  2  and shout Jew(ish) [?] Lord Pilate cursed Lord
  3  [?] if want Lord [?] [?] [?]
  4  righteous(ly) [?] and say Pilate to soldier go Lord
  5  inside house and two Lord [?] go on-house
  6  and shout Pilate lo Jézus [?]
  7  king Jew(ish) [?] in_turn angel | to
- 8  Bethlehem [?] and [?]
+ 8  Bethlehem [?] and shout.
  9  Jew(ish) [?] Lord Pilate cursed Lord this
 10  Pilate if want Lord [?] [?] [?]
 11  righteous(ly) [?] and say Pilate to soldier go Lord
@@ -1128,10 +1132,10 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  and shout Pilate lo Jézus [?]
  3  king Jew(ish) [?] in_turn angel
  4  to-Bethlehem [?] and shout
- 5  Jew(ish) [?] Lord Pilate cursed Lord [?]
- 6  Pilate if want Lord [?] [?] | [?]
+ 5  Jew(ish) [?] Lord Pilate cursed Lord this.
+ 6  Pilate if want Lord [?] [?] | <preposition_of_genitive>.
  7  emperor righteous(ly) [?] [?] Jew(ish)
- 8  [?] this-Lord king Jew(ish) [?]
+ 8  [?] this-Lord king Jew(ish) this-Lord.
  9  half one Lord half-believe one
 10  blasphemer-Lord and shout Pilate this Pilate
 11  and how? [?] inside Lord [?] Pilate this-Lord [?]
@@ -1139,7 +1143,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 047v ===
  1  righteous(ly) somebody [?] Pilate [?] water
- 2  inside one washdish and [?] [?]
+ 2  inside one washdish and [?] exist.
  3  carry and [?] <preposition_of_genitive> two why?-in_turn [?]
  4  Pilate [?] innocent from <preposition_of_genitive>-Lord [?] [?]
  5  Jew(ish) because this exist [?] and [?] son
@@ -1254,7 +1258,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  and then-exist Lord-Jézus <preposition_of_genitive>-Lord [?] [?] [?] earth
  2  quake rock stone [?] sun and moon
  3  this eclipse and each,_every [?] [?] this humble ~and each,_every
- 4  create mourn then-exist Christ [?] Lord and go [?]
+ 4  create mourn then-exist Christ [?] Lord and go [?].
  5  one soldier on-Jerusalem blind and [?] soldier
  6  exist Longinus_<the_centurion,_who_pierced_Jesus’_side_on_the_cross> and pierce Jew(ish) spear [?]
  7  Lord-Jézus-Christ and can [?] spear on
@@ -1285,14 +1289,14 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  [?] Lord-Jézus and then-exist two go [?]
  6  exist Christ [?] and go [?] two
  7  many Jew(ish) and two people that_is good people have_mercy
- 8  and then-exist two see virgin-Mary and [?]
+ 8  and then-exist two see virgin-Mary and Mary.
  9  Magdalene go many people on-Jerusalem and ~through
 10  startle because to Lord want Jew(ish) each,_every Lord [?] because
 
 
 === 054r ===
  1  this exist from | and [?] go [?] [?]
- 2  because exist-Mary [?] escape [?]
+ 2  because exist-Mary [?] escape before.
  3  Jew(ish) and on-place exist this people then-exist
  4  from two-Mary to-people go-two-Mary and grab
  5  ~Nicodemus [?] [?] Lord-Jézus in_turn [?] three_nails
@@ -1363,7 +1367,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  among [?] Lord among this sister
  4  Jerusalem [?] Lord-Jézus commandment God among
  5  you <preposition_of_genitive>-Lord have_mercy somebody to and believe
- 6  inside Lord and inside <preposition_of_genitive>-Lord from father-<suffix_of_divine_name> [?]
+ 6  inside Lord and inside <preposition_of_genitive>-Lord from father-<suffix_of_divine_name> chapter-oh.
  7  chapter-oh amen [?] Lord-Jézus [?]
  8  [?] see-Mary inside burial_chamber brother-chapter
  9  from Jézus execute and say Mary Magdalene [?]
@@ -1398,7 +1402,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  9  people die inside one hundred-year and inside | [?]
 10  [?] and inside [?] and [?] each,_every prophet
 11  go on-netherworld and [?] [?] soul each,_every [?] go Lord
-12  in_turn [?] soul inside ~evil [?] Lord | [?]
+12  in_turn [?] soul inside ~evil [?] Lord | speak.
 
 
 === 058v ===
@@ -1479,9 +1483,9 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  redeem each,_every [?] inside [?] this [?] and on-this Jézus
  3  execute be_saved each,_every ~Adam gain [?]
  4  Lord-Jézus trespass Abraham Abraham symbolize this
- 5  Jézus execute and say Lord-Jézus say exist [?]
+ 5  Jézus execute and say Lord-Jézus say exist Lord-<suffix_of_divine_name>.
  6  Abraham [?] <preposition_of_genitive>-Lord-<suffix_of_divine_name> Abraham grab
- 7  <preposition_of_genitive>-son [?] and Lord [?]
+ 7  <preposition_of_genitive>-son [?] and Lord [?].
  8  [?] who do, Abraham on
  9  [?] faggot [?] in_turn Abraham
 10  grab [?] who [?] want slay
@@ -1493,7 +1497,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  <preposition_of_genitive>-father [?] and go far
  4  [?] and one and sheep and one
  5  [?] [?] [?] father [?] and say
- 6  from-father Abraham from [?] Lord-<suffix_of_divine_name> [?]
+ 6  from-father Abraham from [?] Lord-<suffix_of_divine_name> [?].
  7  [?] and then-exist [?] [?]
  8  <preposition_of_genitive> [?] [?] want Lord slay and
  9  shout Lord-<suffix_of_divine_name> [?] on-angel [?]
@@ -1514,7 +1518,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 063r ===
- 1  carry apostle two [?] ~water and wine [?]
+ 1  carry apostle two [?] ~water and wine and.
  2  grab Lord-Jézus one [?] and [?]
  3  [?] this how? then-exist [?] [?]
  4  and from [?] and wine and cloud
@@ -1557,7 +1561,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 009v ===
  1  this-Thomas this-Lord believe-Thomas [?] this-Lord righteous(ly)
- 2  son living God and then-exist Thomas exist bless [?]
+ 2  son living God and then-exist Thomas exist bless Lord-Jézus-Christ.
  3  and [?] Thomas have_mercy and say Lord-Jézus each,_every [?] and [?] [?] from
  4  [?] on-believe to-Lord-Jézus-Christ each,_every of_an_alien_nation,_pagan somebody Jew(ish)
  5  [?] [?] have_mercy end this apostle holy-gospel on-Lord-<suffix_of_divine_name> bless
@@ -1584,7 +1588,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 064v ===
- 1  in_turn-who [?] [?] this herd and [?]
+ 1  in_turn-who [?] [?] this herd and go.
  2  wolf and sheep [?] [?]
  3  Lord-Jézus [?] good [?] from [?] put
  4  down <preposition_of_genitive>-Lord [?] to-<preposition_of_genitive>-Lord [?] and grab-Lord
@@ -1649,7 +1653,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  7  whatever you exist ~ask_(for) from <preposition_of_genitive>-Lord-from father-<suffix_of_divine_name>
  8  inside <preposition_of_genitive>-Lord [?] each,_every you [?] grab
  9  from heavenly from this-Lord Christ and this say speak Lord-Jézus
-10  on-way apostle <preposition_of_genitive>-Lord and say oh <preposition_of_genitive>-Lord [?]
+10  on-way apostle <preposition_of_genitive>-Lord and say oh <preposition_of_genitive>-Lord son.
 
 
 === 067r ===
@@ -1667,7 +1671,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 067v ===
- 1  one [?] and this-Lord [?] [?]
+ 1  one [?] and this-Lord [?] [?].
  2  stand_up-to and this-Lord you [?] inside
  3  believe [?] [?] exist
  4  leave-chapter-leave chapter-oh chapter-oh amen and two
@@ -1803,7 +1807,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  7  Lord-Christ [?] time then-exist
  8  sit apostle [?] inside Jerusalem inside Lord house where Lord-<suffix_of_divine_name>
  9  Lord-Jézus dinner do, time appear | Lord
-10  Jézus apostle <preposition_of_genitive>-Lord inside [?] somebody [?]
+10  Jézus apostle <preposition_of_genitive>-Lord inside [?] somebody and.
 11  sit to-apostle [?] and begin-admonish on-believe
 
 
@@ -1818,7 +1822,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  8  be_damned [?] [?] and somebody exist Lord-to believe
  9  from exist many miracle do, each,_every inside <preposition_of_genitive>-Lord
 10  [?] exist somebody inside <preposition_of_genitive>-Lord | and-exist
-11  [?] ~blind through light die from-see resurrect [?]
+11  [?] ~blind through light die from-see resurrect stand_up.
 
 
 === 073r ===
@@ -1892,7 +1896,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  ~leave [?] in_turn-chapter-end-chapter this joy
  2  want Lord go [?] judge living and die
  3  somebody and say-two this two angel-angel go-apostle inside
- 4  apostle-oh-<suffix_of_divine_name>-chapter and Lord [?] [?]
+ 4  apostle-oh-<suffix_of_divine_name>-chapter and Lord [?] apostle-somebody.
  5  and [?] see word do, two | angel
  6  angel end this holy-gospel [?] love Lord-<suffix_of_divine_name> [?]
  7  speak-Lord apostle Lord-Jézus-Christ
@@ -2025,7 +2029,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  from somebody-apostle-Mary-Jew(ish) and somebody spirit [?]
  6  somebody-apostle-Mary-Jew(ish) many [?] [?]
  7  many sough inside shape,_form [?] inside fire
- 8  inside shape,_form and see Jew(ish) this [?]
+ 8  inside shape,_form and see Jew(ish) this fire.
  9  shape,_form and bow_down on-this house where apostle-Mary
 10  on-pray [?] Jew(ish) [?] that_is
 
@@ -2036,7 +2040,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  exist Jew(ish) [?] inside house where apostle-Mary | on
  4  pray to [?] from apostle-Mary on-pray leave
  5  heavenly word thanks apostle-Mary to-Lord thanks Lord God and
- 6  various [?] [?] [?] Jew(ish) [?]
+ 6  various [?] [?] [?] Jew(ish) [?].
  7  this-apostle Jerusalem son see how? [?] [?] [?] apostle
  8  [?] exist apostle Master from [?] go holy-spirit [?]
  9  apostle [?] food go from [?] Jew(ish) [?]
@@ -2050,7 +2054,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  4  spirit [?] on-spirit holy-spirit each,_every | somebody-Jew(ish)
  5  [?] grab holy-spirit and believe | Lord
  6  Jézus-Christ [?] on-believe somebody want [?] [?]
- 7  [?] end this holy-gospel this [?]
+ 7  [?] end this holy-gospel this holy-spirit.
  8  [?] on-father out(ward)-out(ward) go_out-spirit in_turn son
  9  this-son from to-father-<suffix_of_divine_name> sit see [?] this | [?]
 10  [?] Sun this sun [?] [?] good first
@@ -2089,7 +2093,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 084v ===
  1  [?] holy-Augustine this [?] son-Lord-<suffix_of_divine_name>
- 2  who this want-son-Lord-<suffix_of_divine_name> say want-son-Lord-<suffix_of_divine_name> [?]
+ 2  who this want-son-Lord-<suffix_of_divine_name> say want-son-Lord-<suffix_of_divine_name> this.
  3  [?] inside this pit scoop say holy-Augustine | this
  4  son-Lord-<suffix_of_divine_name> this can-son-Lord-<suffix_of_divine_name> do, who | this
  5  son-Lord-<suffix_of_divine_name> this [?] inside this pit scoop-son-Lord-<suffix_of_divine_name>
@@ -2124,9 +2128,9 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  carry [?] God [?] [?] somebody be_saved
  3  somebody [?] to-many not-not-die chapter-oh chapter-oh
  4  amen speak holy-Augustine to-many [?] somebody inside
- 5  God exist-exist-chapter [?] God can inside [?]
+ 5  God exist-exist-chapter [?] God can inside exist-exist-chapter.
  6  to-from [?] exist-today’s on-place grab somebody
- 7  inside <preposition_of_genitive>-somebody mouth speak holy-Elijah prophet [?]
+ 7  inside <preposition_of_genitive>-somebody mouth speak holy-Elijah prophet write.
  8  holy-<name_of_a_prophet> holy-Moses exist [?] fire on-each,_every [?]
  9  to-heaven high because-exist each,_every [?] destroy kneel_(down) one
 10  holy-Elijah prophet time then-exist Lord-<suffix_of_divine_name> destroy-Lord
@@ -2281,15 +2285,15 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 091r ===
- 1  a) inside night to-Lord go-Nicodemus [?] Nicodemus [?]
- 2  <preposition_of_genitive>-Nicodemus [?] this-Nicodemus this-Lord [?]
- 3  [?] this-Lord righteous(ly) son living God because this-Lord go [?]
- 4  [?] and-Lord this-Lord righteous(ly) son living God [?]
- 5  Lord-Jézus Nicodemus [?] [?] this-Lord [?]
- 6  speak and somebody [?] exist to-Lord believe [?] [?]
+ 1  a) inside night to-Lord go-Nicodemus [?] Nicodemus oh.
+ 2  <preposition_of_genitive>-Nicodemus [?] this-Nicodemus this-Lord [?].
+ 3  [?] this-Lord righteous(ly) son living God because this-Lord go on-heaven.
+ 4  [?] and-Lord this-Lord righteous(ly) son living God [?].
+ 5  Lord-Jézus Nicodemus [?] [?] this-Lord you.
+ 6  speak and somebody [?] exist to-Lord believe [?] two.
  7  be_born on-this [?] one somebody be_saved a) each,_every-somebody
  8  be_damned say Nicodemus [?] how?-this can exist who to-two-before
- 9  two from <preposition_of_genitive> mother go-Nicodemus and two be_born-Nicodemus on-this [?]
+ 9  two from <preposition_of_genitive> mother go-Nicodemus and two be_born-Nicodemus on-this [?].
 10  this thanks say Lord-Jézus Nicodemus [?] this-Lord this-donkey-to
 
 
@@ -2336,16 +2340,16 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 093r ===
- 1  and then-exist-rich-Lord-<suffix_of_divine_name> among-rich-Lord-<suffix_of_divine_name> [?] [?] [?]
- 2  on-this [?] say this-rich-Lord-<suffix_of_divine_name> <preposition_of_genitive>-Lord living-servant [?]
- 3  this word speak-angel go-somebody time [?] each,_every finished [?]
- 4  this-living-servant this [?] [?] lo [?]
+ 1  and then-exist-rich-Lord-<suffix_of_divine_name> among-rich-Lord-<suffix_of_divine_name> [?] [?] [?].
+ 2  on-this [?] say this-rich-Lord-<suffix_of_divine_name> <preposition_of_genitive>-Lord living-servant [?].
+ 3  this word speak-angel go-somebody time [?] each,_every finished say.
+ 4  this-living-servant this [?] [?] lo living-servant.
  5  go <preposition_of_genitive>-living-somebody-Lord-<suffix_of_divine_name> [?] then-chapter-Lord-<suffix_of_divine_name> [?]
- 6  <preposition_of_genitive>-Lord-<suffix_of_divine_name> [?] say this first [?] [?]
+ 6  <preposition_of_genitive>-Lord-<suffix_of_divine_name> [?] say this first [?] not.
  7  [?] because [?] plough_land | want
- 8  [?] [?] [?] see and want plough_land [?]
+ 8  [?] [?] [?] see and want plough_land [?].
  9  ask_(for) [?] to-speak [?] exist-to
-10  [?] Lord-<suffix_of_divine_name> and say this two sense [?]
+10  [?] Lord-<suffix_of_divine_name> and say this two sense lo.
 11  living-servant go <preposition_of_genitive>-living-servant Lord-<suffix_of_divine_name> this-somebody-sense
 
 
@@ -2372,9 +2376,9 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  6  [?] on-this to-dinner-to say this
  7  Lord-<suffix_of_divine_name> that_is people-chapter and people-chapter from-speak <preposition_of_genitive>-Lord-<suffix_of_divine_name> [?]
  8  and say <preposition_of_genitive>-Lord-<suffix_of_divine_name> living-servant go on-(on_the)_roadside and on-way
- 9  and on-town and on-gate town [?]
+ 9  and on-town and on-gate town and.
 10  [?] inside [?] blind-eye | to-exist-chapter
-11  [?] body be_hungry and [?] inside [?] and [?]
+11  [?] body be_hungry and [?] inside [?] and [?].
 
 
 === 094v ===
@@ -2402,8 +2406,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  8  eat and <preposition_of_genitive>-Lord to-to-this
  9  drink [?] Lord-Jézus apostle <preposition_of_genitive>-Lord last dinner-to this
 10  on-last dinner and grab Lord-Jézus inside why?-in_turn one baked
-11  „cake” and [?] Lord-Jézus this [?]
-12  and [?] before Lord put Lord-Jézus [?]
+11  „cake” and [?] Lord-Jézus this [?].
+12  and [?] before Lord put Lord-Jézus and.
 
 
 === 095v ===
@@ -2440,7 +2444,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  4  from somebody exist living chapter-oh chapter-oh amen
  5  and this-Lord this [?] because-Lord this-Lord | go
  6  Lord from <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> on-this [?] and this-Lord
- 7  to-<preposition_of_genitive>-Lord from-father living-Lord and somebody exist [?]
+ 7  to-<preposition_of_genitive>-Lord from-father living-Lord and somebody exist Lord.
  8  believe from somebody exist to-Lord living chapter-oh
  9  chapter-oh [?] and somebody exist
 10  inside [?] stay and this-Lord exist
@@ -2510,20 +2514,20 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  6  trespass blind God and somebody [?] have God somebody
  7  [?] love-rich-somebody how?-to somebody [?] exist | <preposition_of_genitive>
  8  [?] heaven land speak [?] and
- 9  somebody [?] say this-somebody God love in_turn | [?]
+ 9  somebody [?] say this-somebody God love in_turn | <preposition_of_genitive>-rich.
 10  somebody father son [?] love-rich-somebody from [?]
 
 
 === 099v ===
  1  one liar exist how? this somebody God love in_turn | <preposition_of_genitive>
- 2  somebody father son [?] love God [?] high-this [?]
+ 2  somebody father son [?] love God [?] high-this see.
  3  somebody in_turn <preposition_of_genitive>-somebody father son see [?] [?]
  4  son [?] love-somebody how? this-somebody God love this
  5  pleasing in_turn want-rich-somebody God love first love | <preposition_of_genitive>-rich
  6  somebody father son how?-to rich-somebody [?] God
  7  and good exist [?] love [?] [?]
  8  land ~evil [?] see-rich-somebody | [?]
- 9  rich-somebody exist chapter-oh chapter-oh [?]
+ 9  rich-somebody exist chapter-oh chapter-oh amen.
 10  in_turn-who-exist rich-somebody Lord apostle love each,_every somebody how?-to rich-somebody
 
 
@@ -2543,7 +2547,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 100v ===
  1  burial_chamber [?] on-earth on-that_is write [?]
- 2  [?] church_father on-that_is write high-hide_oneself-and-from [?]
+ 2  [?] church_father on-that_is write high-hide_oneself-and-from scholar.
  3  [?] church_father on-that_is write scholar [?] [?]
  4  and church_father this [?] write and [?] [?]
  5  Lord-<suffix_of_divine_name> [?] first [?] [?] sun and moon
@@ -2723,7 +2727,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 107v ===
  1  <pertaining_to_the_Old_Testament> believe in_turn-two denarius symbolize [?]
- 2  and die Lord-Christ speak [?] [?] [?]
+ 2  and die Lord-Christ speak [?] [?] [?].
  3  [?] [?] [?] say God a) exist-exist-chapter
  4  God [?] on-from thirty [?] [?] from to-high-food
  5  before gospel say | Lord
@@ -2742,7 +2746,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  4  salt throw_out and salt people trample_on
  5  because this exist high you good do, [?]
  6  Lord-Jézus and [?] [?] on-high [?] and [?] [?]
- 7  people see and [?] [?] people [?]
+ 7  people see and [?] [?] people [?].
  8  chapter-go-to-chapter this and you on-learn you
  9  good do, in_turn-who-exist high from-two people on-learn
 10  and do, [?] among people somebody have_mercy
@@ -2850,7 +2854,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  on-thirty to-one denarius [?] [?] | from
  6  [?] head remit in_turn-chapter-in_turn ~until in_turn-chapter-in_turn go
  7  [?] head and [?] nine hundred to-thirty denarius
- 8  and head [?] more grab [?] [?]
+ 8  and head [?] more grab [?] exist.
  9  Judas and [?] vend in_turn-two-two [?] write
 10  speak on-many Tuesday then-chapter [?] on-burial_chamber among-Lord not_only [?]
 
@@ -2904,7 +2908,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  <suffix_of_divine_name> <preposition_of_genitive>-soul-son farm_hand and servant good leave
  6  a) this-soul-son leave and tasty bread eat have_mercy
  7  Lord-<suffix_of_divine_name> farm_hand servant a) this-soul-son eat [?]
- 8  this [?] this-soul-son and [?]
+ 8  this [?] this-soul-son and go-soul-son.
  9  <preposition_of_genitive>-soul-son from-father-<suffix_of_divine_name> want [?] soul-son ~humble want-soul-son
 
 
@@ -2933,7 +2937,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 115v ===
- 1  joy chapter-oh chapter-oh amen and | [?]
+ 1  joy chapter-oh chapter-oh amen and | [?].
  2  father <preposition_of_genitive>-soul-son from-father-<suffix_of_divine_name> each,_every <preposition_of_genitive>-father-<suffix_of_divine_name> [?] [?]
  3  [?] and [?] ~joy apostle-father-<suffix_of_divine_name>-learn-angel
  4  [?] word [?] and [?] [?] and [?] this
@@ -2966,7 +2970,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  Lord-Jézus inside | two-ten-ten
  6  year and inside nine year inside
  7  time preach
- 8  holy-John [?] on-Carmel to-mount and [?]
+ 8  holy-John [?] on-Carmel to-mount and go.
  9  this-who John two-two [?] soldier Pharisee farm and sin
 10  people because exist go soldier Pharisee farm and sin on-learn
 11  to-John on-Carmel on first people exist soldier
@@ -2986,10 +2990,10 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 117v ===
- 1  from-speak and [?] holy-John [?] and have this [?]
+ 1  from-speak and [?] holy-John [?] and have this [?].
  2  righteous(ly) people preach and sin learn how? exist sin | from
  3  [?] and exist-Pharisee [?] and [?] exist
- 4  you [?] land time say [?]
+ 4  you [?] land time say farm.
  5  people to-John [?] go-farm this-John
  6  on-learn on sleep learn exist farm [?] [?] from-speak
  7  and farm holy-John [?] and have this-farm you
@@ -3000,7 +3004,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 118r ===
  1  time say [?] [?] | go
- 2  [?] this-John on-learn on sleep learn [?]
+ 2  [?] this-John on-learn on sleep learn exist.
  3  [?] [?] be_saved from-speak and [?]
  4  holy-John [?] and have [?] love Lord-<suffix_of_divine_name>
  5  from-lift_up each,_every [?] each,_every [?] soul each,_every [?]
@@ -3082,7 +3086,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  create you mother [?] from [?] [?] | exist
  6  [?] [?] one drachma one
  7  order order inside heaven land because then
- 8  bow_down from-father-<suffix_of_divine_name> heaven on-many angel [?]
+ 8  bow_down from-father-<suffix_of_divine_name> heaven on-many angel on-heaven.
  9  land [?] [?] Lord-Jézus say exist
 
 
@@ -3102,7 +3106,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  and out(ward) [?] Lord-<suffix_of_divine_name> Adam [?] [?]
  2  and then-exist Adam exist [?] earlier_mentioned [?] and
  3  [?] [?] [?] breathe on-Adam and
- 4  living leave and Adam grab Lord-father [?]
+ 4  living leave and Adam grab Lord-father son.
  5  spirit and Adam go Lord-father son spirit
  6  inside [?] and each,_every [?] exist-to Adam
  7  [?] Lord-father son spirit [?] Lord-Jézus say from-father
@@ -3111,7 +3115,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 122v ===
- 1  and one living-die-sin have be_hungry thirsty [?]
+ 1  and one living-die-sin have be_hungry thirsty to-to-this-who.
  2  [?] grab Lord this Adam each,_every righteous(ly) one
  3  [?] this yoke this Adam through commandment [?] eat
  4  this [?] [?] [?] [?] Adam exist eat
@@ -3152,7 +3156,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  spirit on-heaven [?] inside Garden_of_Eden
  4  [?] Lord-Jézus this table two from [?] and then-exist
  5  leave Lord-father son spirit leave on-heaven land
- 6  inside [?] say exist [?] | [?]
+ 6  inside [?] say exist [?] | [?].
  7  spirit to-Adam Adam why? [?]
  8  Adam which Adam Lord-<suffix_of_divine_name> say | Lord-father-son
  9  spirit who-mouth Adam which say Adam
@@ -3163,7 +3167,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  why? Adam [?] say ~Adam Eve
  3  [?] [?] say Lord-father-son-spirit Eve
  4  heavenly say Eve which Eve this-Lord-to say
- 5  Lord-father-son-spirit why? [?] which [?]
+ 5  Lord-father-son-spirit why? [?] which who.
  6  who [?] [?] say Lord-father-son-spirit
  7  why? Eve [?] say [?] serpent
  8  [?] food say Lord-Jézus say exist <preposition_of_genitive>-Lord
@@ -3172,7 +3176,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 125r ===
  1  [?] this-Adam exist [?] commandment carry exist
- 2  Adam to-to-this-who on-<preposition_of_genitive>-Adam in_turn [?]
+ 2  Adam to-to-this-who on-<preposition_of_genitive>-Adam in_turn [?].
  3  [?] exist Adam earth [?]
  4  want [?] food grab in_turn [?] this
  5  [?] exist through [?] and this [?]
@@ -3184,10 +3188,10 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 125v ===
  1  die and leave among [?]
  2  <preposition_of_genitive>-Lord father son God spirit from-father God Jézus angel
- 3  virgin-Mary Christ and apostle and Jew(ish) and somebody [?] and [?]
+ 3  virgin-Mary Christ and apostle and Jew(ish) and somebody [?] and each,_every.
  4  [?] and each,_every heaven land Lord and [?]
  5  each,_every earth and ~evil and heaven land
- 6  and go Lord-<suffix_of_divine_name> angel two earth [?]
+ 6  and go Lord-<suffix_of_divine_name> angel two earth and.
  7  [?] fire [?] and | ~earth
  8  slide out(ward) on-inside Garden_of_Eden exorcise
 
@@ -3206,7 +3210,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 126v ===
  1  Lord-father son spirit exist grab lose | [?]
- 2  slide say Lord-Jézus [?] two can [?]
+ 2  slide say Lord-Jézus [?] two can [?].
  3  each,_every ~until this | [?] [?] have_mercy on-angel <preposition_of_genitive>-Lord
  4  from-father-<suffix_of_divine_name> can [?] [?] [?] [?]
  5  exist be_born mother <preposition_of_genitive>-Lord love and [?] this-Lord from mother
@@ -3235,11 +3239,11 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 127v ===
  1  prepare holy-Hezekiah_<king> and [?]
  2  <preposition_of_genitive>-Hezekiah_<king> soul breathe_out and then-exist-chapter-to-and
- 3  [?] soul breathe_out time [?]
- 4  God angel and say servant [?] [?]
+ 3  [?] soul breathe_out time appear.
+ 4  God angel and say servant [?] put.
  5  this exist-exist-chapter inside burial_chamber in_turn soul [?] | this
  6  angel want-angel grab and leave angel
- 7  in_turn [?] exist-exist-chapter inside burial_chamber [?]
+ 7  in_turn [?] exist-exist-chapter inside burial_chamber put.
  8  servant speak holy-Paul [?] [?] brother <preposition_of_genitive>-Paul
  9  [?] and Paul prepare <preposition_of_genitive>-Paul last year
 
@@ -3289,20 +3293,20 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  apostle have because this-Lord exist you [?]
  6  [?] apostle [?] how? say exist speak-apostle [?]
  7  Lord-Jézus have this-apostle from and somebody you apostle
- 8  exist-exist-chapter die [?] somebody-apostle from [?]
+ 8  exist-exist-chapter die [?] somebody-apostle from Lord-<suffix_of_divine_name>.
  9  have and-Lord you apostle soul and exist-exist-chapter
 
 
 === 130r ===
  1  die-die-Lord [?] Lord-Jézus then go-apostle preach and
- 2  ~begin from Jerusalem ~and preach apostle on-each,_every the_whole_wide_world [?]
+ 2  ~begin from Jerusalem ~and preach apostle on-each,_every the_whole_wide_world [?].
  3  end this holy-gospel and leave among apostle Lord-Jézus
- 4  begins [?]
+ 4  begins this.
  5  holy-gospel write
  6  holy-John inside two chapter
  7  inside <preposition_of_genitive>-write time
  8  say Lord-Jézus apostle | <preposition_of_genitive>
- 9  Lord on-last [?]
+ 9  Lord on-last dinner-to.
 10  this-Lord go-Lord to-<preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> [?] Lord go-Lord
 
 
@@ -3449,7 +3453,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  from-father heaven [?] king each,_every heaven land
  2  and on-earth each,_every king [?] from have_mercy ~servant
  3  believe <preposition_of_genitive>-Lord-<suffix_of_divine_name> one only_one Lord-<suffix_of_divine_name> [?]
- 4  this Lord-<suffix_of_divine_name> have_mercy Lord [?] talent [?]
+ 4  this Lord-<suffix_of_divine_name> have_mercy Lord [?] talent appear.
  5  one God-somebody and [?] exist indebted [?]
  6  denarius and God-somebody begin ask_(for) | <preposition_of_genitive>
  7  indebted and rather-love grab
@@ -3535,7 +3539,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  exist this people somebody exist through cursed from each,_every
  3  good that_is [?] [?] in_turn and somebody exist
  4  have_mercy-somebody righteous(ly)-somebody God blind and to <preposition_of_genitive>-somebody
- 5  from-father son how?-to somebody [?] [?]
+ 5  from-father son how?-to somebody [?] <preposition_of_genitive>-somebody.
  6  exist heaven land in_turn and somebody [?]
  7  have_mercy righteous(ly)-somebody to God blind and to <preposition_of_genitive>-somebody
  8  from-father son this somebody want Lord-<suffix_of_divine_name> cursed from
@@ -3546,36 +3550,36 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 140r ===
  1  somebody Lord-<suffix_of_divine_name> <preposition_of_genitive> herd cursed Lord-<suffix_of_divine_name> <preposition_of_genitive> field
  2  then-this-somebody harvest field cursed Lord-<suffix_of_divine_name> <preposition_of_genitive>-somebody
- 3  [?] then-this-somebody exist-nine harvest [?]
+ 3  [?] then-this-somebody exist-nine harvest [?].
  4  cursed this-somebody Lord-<suffix_of_divine_name> inside <preposition_of_genitive>-somebody home
  5  [?] this-somebody [?] [?] be_damned-somebody chapter-oh
  6  chapter-oh inside hell somebody [?] in_turn and somebody exist | have_mercy
  7  somebody righteous(ly) somebody to God blind this <preposition_of_genitive>-somebody
- 8  from-father son how?-to somebody [?] [?]
+ 8  from-father son how?-to somebody [?] this-somebody.
  9  [?] Lord-<suffix_of_divine_name> <preposition_of_genitive> herd [?] Lord-<suffix_of_divine_name> <preposition_of_genitive>
 10  field then-this-somebody field harvest [?]
 
 
 === 140v ===
- 1  Lord-<suffix_of_divine_name> <preposition_of_genitive> [?] then-this-somebody [?] [?]
+ 1  Lord-<suffix_of_divine_name> <preposition_of_genitive> [?] then-this-somebody [?] exist-nine.
  2  harvest [?] this-somebody Lord-<suffix_of_divine_name> and inside <preposition_of_genitive>-somebody | [?]
  3  [?] and each,_every to-place [?] leave-somebody [?]
  4  exist chapter-oh chapter-oh amen write speak
- 5  each,_every [?] [?] pleasing from-father-<suffix_of_divine_name> in_turn son [?]
+ 5  each,_every [?] [?] pleasing from-father-<suffix_of_divine_name> in_turn son <preposition_of_genitive>-father-<suffix_of_divine_name>.
  6  pray from virgin-Mary [?] to each,_every want Lord
  7  from-father-<suffix_of_divine_name> hear each,_every [?] [?] want Lord [?]
  8  do, and Lord somebody exist righteous(ly) [?]
  9  somebody this [?] apostle each,_every write because each,_every somebody sin
-10  go-somebody to virgin-Mary have_mercy [?] [?]
+10  go-somebody to virgin-Mary have_mercy [?] somebody.
 
 
 === 141r ===
  1  because this from Mary pray <preposition_of_genitive>-Mary [?] son
  2  to-each,_every [?] [?] because Lord Christ [?] do, among
- 3  somebody among from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord because [?] [?]
+ 3  somebody among from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord because [?] many.
  4  have_mercy Lord Christ to-each,_every somebody sin speak holy-<name_of_a_church_father>
  5  church_father then-exist this somebody exist from many somebody sin
- 6  [?] leave-somebody <preposition_of_genitive>-somebody [?] because [?]
+ 6  [?] leave-somebody <preposition_of_genitive>-somebody [?] because [?].
  7  [?] Lord [?] have_mercy [?] this exist inside [?] somebody
  8  that_is and have somebody carry [?] God | [?]
  9  [?] [?] somebody [?] to-many suffering
@@ -3687,7 +3691,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  this-girl [?] speak [?] [?] love
  6  this-Mary want and then-exist Mary [?] servant
  7  on-out(ward) [?] and [?] healing-Mary pray and righteous(ly) [?]
- 8  exist-today’s and [?] grab and then-exist [?]
+ 8  exist-today’s and [?] grab and then-exist out(ward).
  9  [?] inside time go this sheep this [?]
 10  virgin-Mary and say this sheep [?] grab heaven
 
@@ -3708,7 +3712,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  [?] [?] this-Lord [?] want-Lord on-place
  2  girl [?] grab heaven land [?]
  3  this sheep [?] Lord and [?] grab
- 4  this Lord one [?] [?] on-pierce [?]
+ 4  this Lord one [?] [?] on-pierce and.
  5  one [?] [?] and [?] this | from
  6  [?] and [?] [?] this sheep
  7  and go many | inside time appear
@@ -3742,14 +3746,14 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 148r ===
  1  [?] [?] [?] this [?] and
- 2  leave-chapter-leave [?] virgin-Mary before remit [?]
- 3  write [?]
- 4  son [?]
- 5  and this [?]
+ 2  leave-chapter-leave [?] virgin-Mary before remit people.
+ 3  write [?].
+ 4  son [?].
+ 5  and this word.
  6  write [?]
  7  one somebody on-Jerusalem
  8  inside [?] town
- 9  and then-exist and go ~Adam [?] and [?]
+ 9  and then-exist and go ~Adam [?] and then-exist.
 10  appear one can-evil and then-exist ~Adam
 11  chapter-year [?] can-evil [?] and then-exist
 
@@ -3767,7 +3771,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 149r ===
- 1  evil die if [?] bow_down ~Adam [?]
+ 1  evil die if [?] bow_down ~Adam this.
  2  evil [?] ~Adam tear_apart and then-exist ~Adam
  3  [?] through startle ~Adam and | go-die-Lord
  4  Christ one soldier-Lord-Jézus-die-Christ [?]
@@ -3786,7 +3790,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  [?] [?] out(ward) grab-Lord on-this pit exist
  6  ~Adam inside this pit and [?] because-exist | this
  7  ~Adam this can-evil die that_is be_damned
- 8  exist exist ~Adam [?] [?]
+ 8  exist exist ~Adam [?] [?].
  9  ~Adam God-exist [?] [?] see ~Adam
 
 
@@ -3795,7 +3799,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  this write [?] church_father [?] on-that_is write
  3  [?] church_father on-that_is [?] write [?]
  4  [?] and church_father [?] [?] exist one
- 5  somebody and then-exist have somebody [?]
+ 5  somebody and then-exist have somebody one.
  6  son and this son exist [?] [?] | from-buy
  7  somebody and son two-two want-somebody can
  8  son from-buy and then-exist son go [?]
@@ -3810,8 +3814,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  this-son on-this [?] on-love son [?] [?]
  6  church_father <preposition_of_genitive>-somebody church_father [?] [?]
  7  speak [?] [?] and somebody believe
- 8  inside Lord-Jézus-Christ have-somebody this [?]
- 9  son on-good apostle how? [?] [?]
+ 8  inside Lord-Jézus-Christ have-somebody this <preposition_of_genitive>-somebody.
+ 9  son on-good apostle how? [?] good-somebody.
 
 
 === 151r ===
@@ -3820,7 +3824,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  [?] and son [?] on-good apostle <preposition_of_genitive>-somebody
  4  son [?] from [?] [?] two
  5  [?] and son-sin you exist you
- 6  light on-you [?] and [?]
+ 6  light on-you [?] and you.
  7  cursed [?] [?] [?] say Lord-<suffix_of_divine_name> holy-Hezekiah_<king>
  8  prophet on-angel <preposition_of_genitive>-Lord Hezekiah_<king> exist somebody have
  9  [?] on-be_born from [?] and from [?] on-be_born
@@ -3856,8 +3860,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  inside gospel somebody speak
  4  [?] son <preposition_of_genitive>-Lord
  5  then-exist go somebody
- 6  inside temple [?]
- 7  kneel_(down)-somebody [?]
+ 6  inside temple and.
+ 7  kneel_(down)-somebody inside.
  8  temple each,_every somebody have this say to-Lord thanks Lord-<suffix_of_divine_name>
  9  pleasing exist <preposition_of_genitive>-Lord holy-have_mercy have_mercy somebody-sin
 10  because this who repentance each,_every somebody-sin to-Lord thanks
@@ -3871,7 +3875,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  have_mercy and shout-to [?] [?] | ask_(for)
  6  thief this-thief this-Lord remember on-thief
  7  then-to go-Lord inside <preposition_of_genitive>-Lord land [?]
- 8  this two thief and exist Lord thief [?]
+ 8  this two thief and exist Lord thief [?].
  9  [?] this [?] then-exist this-Lord love | can
 
 
@@ -3901,10 +3905,10 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 154v ===
  1  this somebody repentance leave because somebody [?] righteous(ly)-somebody
- 2  suffering Lord-Christ and somebody | [?]
+ 2  suffering Lord-Christ and somebody | [?].
  3  somebody chapter-oh chapter-oh amen Lord-<suffix_of_divine_name> [?]
  4  write holy-Elijah prophet
- 5  and [?]
+ 5  and holy-Luke.
  6  then-exist take_prisoner
  7  [?] [?]
  8  one [?] and
@@ -3917,7 +3921,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  out(ward) [?] this [?] this [?] and
  3  sad(ly) [?] leave and then-exist [?]
  4  this [?] daughter [?] daughter inside
- 5  one house and then-exist many year out(ward) [?]
+ 5  one house and then-exist many year out(ward) lead.
  6  this [?] on-this ~until and then-exist | daughter
  7  believe out(ward) go-daughter-believe to-home
  8  and then-exist go daughter-believe to-home this [?]
@@ -3931,9 +3935,9 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  4  daughter-believe [?] [?] and then-exist
  5  daughter-believe and two go-daughter-believe then-exist
  6  [?] good the_whole_wide_world and then-exist [?] | daughter
- 7  believe [?] and [?]
- 8  speak [?] say [?] [?]
- 9  [?] if [?] daughter-believe | [?]
+ 7  believe [?] and daughter-believe.
+ 8  speak [?] say [?] this.
+ 9  [?] if [?] daughter-believe | [?].
 
 
 === 156r ===
@@ -3997,9 +4001,9 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 158v ===
  1  [?] grab then-exist this time | [?]
- 2  son righteous(ly) wife and [?] [?]
+ 2  son righteous(ly) wife and [?] righteous(ly).
  3  ~until Lord-daughter-Jézus-believe-Christ and | [?]
- 4  son-daughter-Lord-Jézus-Christ-believe living [?] [?]
+ 4  son-daughter-Lord-Jézus-Christ-believe living [?] exist.
  5  God the_whole_wide_world chapter-oh chapter-oh amen Lord-<suffix_of_divine_name> [?]
  6  before gospel write
  7  holy-Luke inside two-two chapter | <preposition_of_genitive>
@@ -4059,7 +4063,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  Lord-to each,_every miracle confess have and then-exist | preach
  3  Lord inside [?] and prepare to-Lord many people
  4  and [?] carry one from-donkey before
- 5  Lord-Jézus inside | somebody two-two man [?]
+ 5  Lord-Jézus inside | somebody two-two man head.
  6  among [?] love hope have_mercy and | can
  7  <the_four_friends_of_the_paralytic_man_in_Lk_5,_17ff> inside [?] on-temple
  8  go <the_four_friends_of_the_paralytic_man_in_Lk_5,_17ff> and temple
@@ -4120,7 +4124,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 163v ===
  1  and son carry [?] [?] Lord-<suffix_of_divine_name> thief [?] humble
  2  son exist Lord-<suffix_of_divine_name> [?] God [?] out(ward) on-town
- 3  two-two among man head because [?] [?]
+ 3  two-two among man head because [?] inside.
  4  <pertaining_to_the_Old_Testament> word get_conceived out(ward) town to-from earlier_mentioned the_whole_wide_world and exist
  5  to son many people and then-exist leave-to-leave [?]
  6  [?] among ~gate from-two people people two
@@ -4167,7 +4171,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 165v ===
  1  Lord-<suffix_of_divine_name> and this [?] [?] [?] grab this son this
- 2  virgin-woman and son carry out(ward) [?]
+ 2  virgin-woman and son carry out(ward) on-believe.
  3  [?] [?] that_is throw_out son remit be_saved
  4  be_damned son chapter-oh chapter-oh inside gospel write
  5  holy-Luke this [?] [?] love [?] Lord-<suffix_of_divine_name> | from
@@ -4178,7 +4182,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 166r ===
- 1  on-repentance grab then-chapter die-son go [?]
+ 1  on-repentance grab then-chapter die-son go to-son.
  2  and leave thief on-two [?] inside-gospel write
  3  holy-Luke this [?] [?] exist humble son
  4  somebody and Lord-<suffix_of_divine_name> then-chapter die-son go to-son
@@ -4193,7 +4197,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  on-two-two [?] and [?] two-two man and son
  2  grab two-two man and son carry out(ward) [?]
  3  town on-believe [?] [?] on-be_damned then-chapter
- 4  son carry inside hell be_damned exist [?]
+ 4  son carry inside hell be_damned exist chapter-oh.
  5  chapter-oh [?] [?] [?] write inside
  6  Moses righteous(ly) love Lord-<suffix_of_divine_name> most_high each,_every [?] each,_every <preposition_of_genitive>-somebody
  7  soul each,_every <preposition_of_genitive>-somebody might each,_every <preposition_of_genitive>-somebody heart and
@@ -4218,9 +4222,9 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  sense manage and then-exist [?] ~begin [?] and then
  2  somebody exist accuse one servant before
  3  <preposition_of_genitive>-manager somebody-Lord [?] this angel-servant
- 4  each,_every <preposition_of_genitive>-Lord-rich-somebody | [?]
+ 4  each,_every <preposition_of_genitive>-Lord-rich-somebody | [?].
  5  exist-exist-chapter-reason-sense [?] sense
- 6  word scatter [?] this rich-rich-Lord-<suffix_of_divine_name> | [?]
+ 6  word scatter [?] this rich-rich-Lord-<suffix_of_divine_name> | this-rich.
  7  somebody [?] [?] many [?] <preposition_of_genitive>-Lord-rich-somebody
  8  manager and hear this manager this say from
  9  <preposition_of_genitive>-manager Lord-rich-somebody [?] and | sad(ly)
@@ -4267,8 +4271,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  say grab-Lord you living grab-Lord you
  3  hear grab-Lord you soul grab-Lord | [?]
  4  [?] exist-exist-chapter grab-Lord you reason
- 5  grab-Lord you sense [?]
- 6  you each,_every <preposition_of_genitive>-Lord-<suffix_of_divine_name>-rich-somebody | [?]
+ 5  grab-Lord you sense grab-Lord.
+ 6  you each,_every <preposition_of_genitive>-Lord-<suffix_of_divine_name>-rich-somebody | rich-see-say.
  7  living-hear-soul-exist-exist-chapter-reason-sense
  8  and exist-apostle-Jew(ish) righteous(ly) manager inside | rich-see-say
  9  living-hear-soul-exist-exist-chapter-reason-sense
@@ -4278,7 +4282,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 170r ===
  1  end this holy-gospel speak holy-Luke have | this
  2  apostle-Jew(ish)-somebody righteous(ly) manager <preposition_of_genitive>-somebody father
- 3  son and among somebody son have [?]
+ 3  son and among somebody son have somebody.
  4  [?] find because then-chapter die-somebody exist
  5  [?] somebody calm_down [?] end
  6  this holy-gospel on-apostle Lord-<suffix_of_divine_name> [?] Lord-<suffix_of_divine_name> [?]
@@ -4299,7 +4303,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  7  joy in_turn then-exist go apostle on-joy observe exist
  8  apostle two-year [?] leave apostle Lord-Jézus from head
  9  [?] apostle Jairus <preposition_of_genitive>-Jairus daughter [?] die to-high_priest
-10  this [?] [?] and grab this [?]
+10  this [?] [?] and grab this head.
 
 
 === 171r ===
@@ -4328,7 +4332,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 172r ===
- 1  Lord [?] speak [?] Lord-Jézus this [?]
+ 1  Lord [?] speak [?] Lord-Jézus this head.
  2  [?] this people out(ward) and then-exist out(ward) [?]
  3  head and among Lord-Jézus <preposition_of_genitive>-daughter father
  4  and mother [?] Lord-Jézus [?] say say [?]
@@ -4343,10 +4347,10 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  drink and [?] [?] Lord-Jézus this moon
  2  [?] [?] say ~and news leave each,_every [?]
  3  earth end this holy-gospel Lord-<suffix_of_divine_name> [?]
- 4  begins this [?]
+ 4  begins this holy-gospel.
  5  write holy-Stephen king
  6  this word write head
- 7  this [?] Lord [?]
+ 7  this [?] Lord priest.
  8  and [?] king each,_every
  9  Lord [?] and farm people this word [?] exist
 10  go-Lord one rich Lord long way and | then
@@ -4358,7 +4362,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  one servant one [?] [?] in_turn-two
  3  grab-Lord [?] [?] [?] [?] grab-Lord
  4  [?] [?] [?] [?] this rich-Lord each,_every until
- 5  this [?] [?] sense have_mercy [?]
+ 5  this [?] [?] sense have_mercy pray.
  6  alms believe [?] servant mouth
  7  this-Lord go [?] [?] [?] living-servant and Lord grab priest
  8  [?] king Lord [?] farm people somebody
@@ -4374,7 +4378,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  6  among this rich-Lord <preposition_of_genitive>-Lord servant before rich-Lord
  7  [?] [?] [?] servant exist-Lord grab-Lord | <preposition_of_genitive>
  8  Lord rich [?] this rich-Lord this one to_whom
- 9  [?] exist-Lord grab-Lord [?] [?]
+ 9  [?] exist-Lord grab-Lord [?] [?].
 10  [?] [?] this rich-Lord [?] servant [?]
 
 
@@ -4460,7 +4464,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 177v ===
  1  and even_more-to Lord-Jézus a) to-go-Lord inside [?]
- 2  town end this holy-gospel Lord-<suffix_of_divine_name> [?]
+ 2  town end this holy-gospel Lord-<suffix_of_divine_name> [?].
  3  begins this holy-gospel
  4  write holy-Luke inside
 
@@ -4483,9 +4487,9 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  [?] [?] and then-exist ten leper go-ten-people-exist-to
  4  head Jew(ish) before priest [?]
  5  priest Jew(ish) how? you people ten | [?]
- 6  chapter say [?] leper from-people [?] [?]
+ 6  chapter say [?] leper from-people [?] leper.
  7  people exist priest among priest Jew(ish)-somebody
- 8  out(ward) [?] priest Jew(ish) say [?]
+ 8  out(ward) [?] priest Jew(ish) say priest.
  9  Jew(ish) who? you somebody from-healing | say-leper
 
 
@@ -4533,7 +4537,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  [?] stand_up resurrect-chapter-Lord evil [?] on-people [?] | love-and
  6  this-and-this [?] from-healing-Lord and [?] God exist-exist-chapter
  7  Lord-Christ [?] Lord on-thirty [?] inside [?]
- 8  and humble Lord-Christ [?] exist-Lord humble-Lord this [?]
+ 8  and humble Lord-Christ [?] exist-Lord humble-Lord this [?].
  9  head grab-Lord and Jew(ish) [?] capture [?]
 
 
@@ -4586,23 +4590,23 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 183r ===
- 1  [?] two-ten-ten [?] time to-sit [?]
+ 1  [?] two-ten-ten [?] time to-sit Jerusalem.
  2  one to-of_an_alien_nation,_pagan [?] [?]
  3  exist Khosrow_(Chosroes)_<Sasanian_king> and then-exist grab on-Jerusalem
  4  cross tree ~on tree exist Christ
  5  execute and tree [?] from-carry inside
  6  Ctesiphon_<city_in_Persia> town inside one tower
- 7  and then-exist exist many year [?] [?]
+ 7  and then-exist exist many year [?] [?].
  8  [?] [?] exist Heraclius_<Byzantine_emperor>
  9  and then-exist [?] go this to-of_an_alien_nation,_pagan [?]
 
 
 === 183v ===
  1  this Roman [?] then-exist have two [?]
- 2  on-fight [?] and [?]
+ 2  on-fight [?] and then-exist.
  3  [?] [?] have Heraclius_<Byzantine_emperor> [?]
  4  and then-exist [?] [?] can | from-to
- 5  Lord to-thanks Lord-<suffix_of_divine_name> hear Lord-<suffix_of_divine_name> [?]
+ 5  Lord to-thanks Lord-<suffix_of_divine_name> hear Lord-<suffix_of_divine_name> [?].
  6  [?] and shout-to God angel on-water
  7  have Heraclius_<Byzantine_emperor> hear Lord-<suffix_of_divine_name> <preposition_of_genitive>-Heraclius_<Byzantine_emperor>
  8  [?] [?] God angel Heraclius_<Byzantine_emperor> [?]
@@ -4629,7 +4633,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  [?] exist on-golden and then-exist [?] [?]
  6  [?] go_up [?] on-tower and lo rain grab
  7  emperor [?] want emperor grab
- 8  and then-exist [?] do, inside [?]
+ 8  and then-exist [?] do, inside tower.
  9  [?] and [?] and [?] and among cross tree
 
 
@@ -4832,7 +4836,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  holy-Simeon [?] on-this world from-go-Simeon say Christ apostle [?]
  4  <preposition_of_genitive>-Lord announce [?] Simeon inside netherworld holy-from-father | [?]
  5  [?] <preposition_of_genitive>-Lord and see [?] you and many [?]
- 6  [?] exist inside netherworld from father-holy and [?] [?]
+ 6  [?] exist inside netherworld from father-holy and [?]. [?]
  7  write and from holy-gospel that_is [?] Lord this-Lord holy-gospel [?]
  8  this-Lord exist-nine on-water create this-Lord blind through light [?]
  9  this-Lord evil on-people exorcise this-Lord [?] [?]
@@ -4856,10 +4860,10 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  Matthew go to-Lord on-food to-place [?] [?] and
  2  go-Matthew to-Lord-Jézus and go-Lord-Matthew [?] house
  3  and do, from-many-to [?] [?] how?
- 4  speak holy-Luke do, from-many-to [?]
+ 4  speak holy-Luke do, from-many-to [?].
  5  [?] and go to-Lord Jew(ish) pharisee and
  6  tax_collector exist head and together Lord-Jézus drink
- 7  and eat [?] and begin [?]
+ 7  and eat [?] and begin Jew(ish).
  8  pharisee speak apostle <preposition_of_genitive>-Lord this you [?]
  9  [?] from-salvation in_turn then-exist this-Lord exist
 
@@ -4869,7 +4873,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  [?] Lord-Jézus [?] [?] [?] Lord-Jézus [?]
  3  to-Lord this-Lord go-Lord to-righteous_man on-this [?] a) to-sin
  4  [?] Lord-Jézus you righteous_man [?]
- 5  Lord-Jézus need healing-somebody recovery [?] [?]
+ 5  Lord-Jézus need healing-somebody recovery [?] need.
  6  [?] [?] recovery end this holy-gospel
  7  write holy-Matthew inside and chapter holy-Paul speak say | Lord
  8  Jézus-Christ [?] [?] [?] [?] ~Adam create | to
@@ -4892,11 +4896,11 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  to-<preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> on-heaven land | from-sit
  2  Lord from-father-<suffix_of_divine_name> on-right_side from-food have-Lord go-Lord judge
  3  living-somebody and die-somebody and before [?] bless each,_every the_whole_wide_world
- 4  world begins this [?]
+ 4  world begins this holy-gospel.
  5  write holy-Matthew | [?]
- 6  two-two chapter [?]
+ 6  two-two chapter <preposition_of_genitive>-write.
  7  time then-exist | Lord
- 8  Jézus thirty [?] time say apostle [?]
+ 8  Jézus thirty [?] time say apostle Lord-Jézus.
  9  [?] who? exist to-Lord this-Lord on-many inside [?]
 
 
@@ -4904,12 +4908,12 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  land because [?] apostle [?] Lord [?] and
  2  [?] from die stand_up and Lord to-this apostle judge
  3  [?] exist to-Lord this-Lord on-many inside [?] land
- 4  and among Lord-Jézus one little [?]
- 5  and son [?] put_on Lord-Jézus [?]
+ 4  and among Lord-Jézus one little son.
+ 5  and son [?] put_on Lord-Jézus on-head.
  6  <preposition_of_genitive>-Lord why?-in_turn [?] Lord-Jézus [?] this humble | how?
  7  [?] this [?] son one [?] [?]
  8  time carry Jew(ish) one | before | Lord
- 9  Jézus [?] this [?] [?] and exist [?]
+ 9  Jézus [?] this [?] [?] and exist [?].
 
 
 === 196v ===
@@ -4929,7 +4933,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  [?] Lord-Jézus learn <preposition_of_genitive>-Lord [?] apostle and one
  3  [?] [?] do, [?] Lord-Jézus apostle
  4  <preposition_of_genitive>-Lord happy from people and angel see [?]
- 5  <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> [?] from-people and angel [?]
+ 5  <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> [?] from-people and angel on-see.
  6  [?] <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> end this holy-gospel
  7  begins this holy-gospel write
  8  holy-Matthew time say | Lord
@@ -4965,7 +4969,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  say [?] Lord-<suffix_of_divine_name> on-angel | <preposition_of_genitive>
  2  Lord holy-<name_of_a_prophet> prophet and | holy
  3  [?] prophet [?] | [?]
- 4  apostle-somebody to-Lord [?]
+ 4  apostle-somebody to-Lord this-Lord.
  5  you [?] Lord [?] have_mercy [?] this exist
  6  inside commandment somebody that_is and have somebody ~carry commandment
  7  God [?] [?] somebody [?] to-many | not-not
@@ -4995,7 +4999,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  [?] inside <preposition_of_genitive>-Lord-somebody [?] farm [?]
  6  [?] and [?] [?] and say
  7  Lord-Jézus head Jew(ish) and apostle <preposition_of_genitive>-Lord [?]
- 8  this-Lord you who? [?] good [?]
+ 8  this-Lord you who? [?] good say.
  9  say head Jew(ish) who? [?] good say [?]
 
 
@@ -5014,7 +5018,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 200v ===
  1  each,_every die and go-Lord <preposition_of_genitive>-Lord son this rich-Lord say this son
  2  [?] have [?] lease Lord grab
- 3  and then-exist-Lord [?] see and go and [?]
+ 3  and then-exist-Lord [?] see and go and son.
  4  [?] [?] [?] son from [?]
  5  [?] [?] [?] [?] and this
  6  son exist [?] carry [?] go-die
@@ -5031,7 +5035,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  [?] one go on-this wedding [?] this
  6  king [?] that_is people and [?] people
  7  <preposition_of_genitive>-Lord [?] in_turn the_whole_wide_world dinner-to [?] Lord-Jézus who do,
- 8  this king say <preposition_of_genitive>-Lord servant each,_every from [?]
+ 8  this king say <preposition_of_genitive>-Lord servant each,_every from town.
  9  destroy fire [?] [?] [?] this king
 
 
@@ -5061,12 +5065,12 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 202v ===
  1  say inside <preposition_of_genitive>-Lord-<suffix_of_divine_name> heaven house [?] good say this king
  2  [?] [?] [?] this-high [?] [?]
- 3  [?] say tie_(up) somebody [?] [?]
+ 3  [?] say tie_(up) somebody [?] and.
  4  foot and somebody [?] angel on-out(ward) [?]
  5  [?] exist see grinding [?] crying chapter-oh
  6  chapter-oh end this holy-gospel Lord-<suffix_of_divine_name> [?]
- 7  begins this holy-gospel [?]
- 8  holy-Matthew [?] chapter | [?]
+ 7  begins this holy-gospel write.
+ 8  holy-Matthew [?] chapter | <preposition_of_genitive>.
  9  write time then-exist | Lord
 10  Jézus thirty [?] time
 
@@ -5078,7 +5082,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  4  go-Lord and Lord ~have king and [?]
  5  [?] go [?] on-apostle how? [?] | want
  6  Lord grab from [?] do, | [?]
- 7  [?] grab from each,_every somebody on-one [?]
+ 7  [?] grab from each,_every somebody on-one drachma.
  8  [?] to-of_an_alien_nation,_pagan and [?] how? [?]
  9  want-Lord grab from [?] do, say
 
@@ -5110,7 +5114,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 204v ===
  1  from [?] believe [?] somebody remit of_an_alien_nation,_pagan
  2  out(ward) believe [?] somebody and | [?]
- 3  somebody and [?] | [?]
+ 3  somebody and [?] | [?].
  4  somebody and [?] church this somebody
  5  [?] in_turn on on-many church and
  6  [?] Lord earth in_turn before two
@@ -5146,7 +5150,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 206r ===
  1  keep_going Lord-Jézus Jericho town and then-exist inside
- 2  [?] one tax_collector head [?]
+ 2  [?] one tax_collector head and.
  3  [?] somebody exist Zacchaeus
  4  and then-exist Lord [?] go Lord-Jézus inside [?]
  5  and Lord can see Zacchaeus Lord-Jézus
@@ -5160,8 +5164,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  Zacchaeus sit on-this [?]
  2  [?] Lord-Jézus Zacchaeus go to-down
  3  this-Lord today exist-Lord inside <preposition_of_genitive>-Zacchaeus
- 4  house [?] and joy [?]
- 5  Zacchaeus and go [?] [?]
+ 4  house [?] and joy leave-chapter-leave.
+ 5  Zacchaeus and go [?] this.
  6  Zacchaeus and go-Lord-apostle-Jézus inside
  7  Zacchaeus [?] house and | from
  8  [?] Lord-Jézus [?] sit-Lord and [?]
@@ -5194,13 +5198,13 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 208r ===
  1  [?] this [?] exist each,_every sin-somebody head
- 2  and each,_every tax_collector and each,_every somebody from-grab somebody-sin inside [?]
+ 2  and each,_every tax_collector and each,_every somebody from-grab somebody-sin inside have_mercy.
  3  Lord-<suffix_of_divine_name> and each,_every somebody-sin and somebody-sin inside love Lord-<suffix_of_divine_name> and each,_every
  4  somebody-sin righteous(ly) and somebody-sin inside righteous(ly) Lord-<suffix_of_divine_name> that_is
  5  and somebody-sin carry [?] God [?] righteous(ly) [?] Lord-<suffix_of_divine_name>
  6  and this [?] exist have_mercy God [?]
  7  blind and this [?] love Lord-<suffix_of_divine_name> [?] each,_every create
- 8  and each,_every somebody how?-to somebody [?] and [?]
+ 8  and each,_every somebody how?-to somebody [?] and this.
  9  [?] exist inside righteous(ly) [?] Lord-<suffix_of_divine_name> that_is | carry
 
 
@@ -5213,12 +5217,12 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  6  [?] in_vain [?] [?] [?] exist grab
  7  inside <pertaining_to_the_Old_Testament> word from-father Abraham shall somebody
  8  righteous(ly) [?] [?] and feast holy-this-somebody [?]
- 9  mother temple preach hear-somebody [?]
+ 9  mother temple preach hear-somebody [?].
 
 
 === 209r ===
  1  heaven land and this [?] [?] [?] Lord-<suffix_of_divine_name> Moses
- 2  on-angel <preposition_of_genitive>-Lord time then-exist from ~Adam [?]
+ 2  on-angel <preposition_of_genitive>-Lord time then-exist from ~Adam [?].
  3  [?] Abraham one hundred-year and [?] from
  4  Abraham [?] ~out(ward) [?] Moses [?]
  5  and [?] from Abraham [?] Moses time
@@ -5252,7 +5256,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  evil inside from people [?] [?] Lord-Jézus this-Lord
  2  [?] <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> and this-Lord <preposition_of_genitive>-father-<suffix_of_divine_name> can miracle
  3  do,-Lord [?] Lord-Jézus this [?] who-exist
- 4  from evil exist pierce [?] Lord-Jézus [?]
+ 4  from evil exist pierce [?] Lord-Jézus then-exist.
  5  [?] inside somebody one unclean
  6  ~spirit and go evil arid,_dry place and
  7  [?] to-Lord place that_is on-virgin-from people and
@@ -5274,7 +5278,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 211v ===
  1  virgin-Mary [?] to-Lord carry and [?] from breast which
- 2  to-Lord nurse even_more and [?] from people and God [?]
+ 2  to-Lord nurse even_more and [?] from people and God say.
  3  hear-somebody and say [?] carry-somebody end this
  4  holy-gospel Lord-<suffix_of_divine_name> [?]
  5  begins this holy-gospel
@@ -5296,8 +5300,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 212v ===
  1  then-exist have two-hundred [?] who-exist people
  2  exist-today’s buy [?] people enough [?]
- 3  holy-Andrew [?] [?] this [?] [?]
- 4  [?] son and have son [?]
+ 3  holy-Andrew [?] [?] this [?] one.
+ 4  [?] son and have son [?].
  5  [?] barley bread and two fish
  6  and carry apostle this [?] [?] barley
  7  bread and this two fish before Lord-Jézus
@@ -5322,13 +5326,13 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  and Lord each,_every people thanks grab and this word who-shout-to
  3  thanks exist God literal-on [?] and [?] grab-somebody [?] can
  4  and [?] can this miracle do, and leave among
- 5  this people Lord-Jézus end this holy-gospel Lord-<suffix_of_divine_name> [?]
+ 5  this people Lord-Jézus end this holy-gospel Lord-<suffix_of_divine_name> [?].
  6  begins this holy-gospel
  7  write holy-John inside
  8  six-two chapter <preposition_of_genitive>-write
  9  time then-exist
 10  Lord-Jézus inside thirty | ~begin
-11  [?] [?]
+11  [?] time.
 
 
 === 214r ===
@@ -5409,13 +5413,13 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 011v ===
  1  [?] [?] on-go [?] donkey on-place you donkey to
- 2  [?] and then-exist learn-two-learn exist [?]
+ 2  [?] and then-exist learn-two-learn exist [?].
  3  one [?] donkey to-donkey two donkey
  4  donkey and then-exist [?] this donkey and
  5  [?] this commandment a) [?] and sit down Lord-Jézus
  6  [?] donkey and Lord [?] apostle this from
  7  [?] mother this donkey and sit-Lord on-this
- 8  from [?] and go-Lord inside Jerusalem and [?]
+ 8  from [?] and go-Lord inside Jerusalem and then-exist.
  9  exist-Lord go-Lord on-tasty-to [?] most_high Jerusalem in_turn-chapter-in_turn
 
 
@@ -5439,7 +5443,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  in_turn-two [?] [?] | [?]
  6  [?] and [?] | [?]
  7  somebody before Lord-Jézus and [?] | this
- 8  Lord [?] son David king [?]
+ 8  Lord [?] son David king [?].
  9  king [?] and speak Jew(ish) this-Lord
 
 
@@ -5458,7 +5462,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 010v ===
  1  [?] son [?] [?] this-Lord [?] king [?]
  2  Lord-Jézus then-exist this each,_every this [?] son [?] | speak
- 3  ~son then exist earth and rock-stone each,_every [?]
+ 3  ~son then exist earth and rock-stone each,_every exist.
  4  shout-to [?] this-Lord [?] king
  5  end this holy-gospel Lord-<suffix_of_divine_name> [?] and [?]
  6  [?] Jew(ish) and [?] Lord grab inside this in_turn-chapter-in_turn Jerusalem
@@ -5523,7 +5527,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  [?] out(ward) [?] [?] | and then-exist kneel_(down) holy-Stephen and | then
  2  exist pray-Stephen to-Lord to-thanks Lord-<suffix_of_divine_name> [?] and then
  3  pray ~redeem Stephen to-Lord to-thanks Lord-<suffix_of_divine_name> and lift_up-Stephen
- 4  <preposition_of_genitive>-Stephen two-eye-eye heaven land and to-Lord [?]
+ 4  <preposition_of_genitive>-Stephen two-eye-eye heaven land and to-Lord to-thanks.
  5  Lord-<suffix_of_divine_name> and this word say holy-Stephen to-Lord to-thanks Lord-<suffix_of_divine_name> through
  6  [?] Stephen this-Stephen this-Lord <preposition_of_genitive>-Stephen soul
  7  inside <preposition_of_genitive>-Lord why?-in_turn time then-exist from-gate
@@ -5536,9 +5540,9 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  [?] heaven land and see-Stephen one
  3  king [?] inside throne sit and [?]
  4  [?] [?] angel [?] Jew(ish)
- 5  [?] one blasphemer-Stephen [?]
- 6  [?] [?] [?] believe [?]
- 7  [?] literal [?] one son and this [?]
+ 5  [?] one blasphemer-Stephen and.
+ 6  [?] [?] [?] believe and.
+ 7  [?] literal [?] one son and this son.
  8  exist this Saul and [?] exist this believe
  9  and from [?] want stone-stone-this holy-Stephen | first-suffering
 
@@ -5652,14 +5656,14 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  7  [?] in_turn <preposition_of_genitive>-from-see two-year [?]
  8  from-understand [?] understand be_born Lord-Jézus-Christ
  9  on-this [?] ~out(ward) [?] and [?] and | nine-ten
-10  year and nine-year and this symbolize nine [?] from-understand begin this [?]
+10  year and nine-year and this symbolize nine [?] from-understand begin this world.
 11  [?] be_born Lord-Jézus-Christ on-this world in_turn and [?] ~out(ward)
 12  from-understand to-leave Lord-Jézus to-from-father <preposition_of_genitive>-Lord [?] [?]
 13  time say apostle Lord-Jézus Master when? exist understand [?] say
 
 
 === 222r ===
- 1  [?] [?] <preposition_of_genitive>-Lord <preposition_of_genitive>-Lord [?]
+ 1  [?] [?] <preposition_of_genitive>-Lord <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name>.
  2  [?] [?] two-thousand-year [?]
  3  [?] <preposition_of_genitive> chapter [?] [?] and have
  4  from [?] [?] because [?] son God [?]

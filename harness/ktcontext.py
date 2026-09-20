@@ -14,6 +14,7 @@ from collections import Counter
 
 import ktcoverage as C
 import ktsegment as S
+import ktaffix as A
 import ktvariant as V
 
 DONE = set("""004v 004r 002r 002v 003r 003v 001r 001v 007r 007v 006r 006v 008r 008v
@@ -37,13 +38,14 @@ def load():
 
 
 def word(t, gl, seg, var):
+    t, mark = A.strip(t)
     if t in gl:
-        return S.best_sense(gl[t]).replace(" ", "_")
+        return S.best_sense(gl[t]).replace(" ", "_") + mark
     if t in seg:
-        return "-".join(S.best_sense(gl[p]).replace(" ", "_") for p in seg[t])
+        return "-".join(S.best_sense(gl[p]).replace(" ", "_") for p in seg[t]) + mark
     if t in var:
-        return "~" + S.best_sense(gl[var[t]]).replace(" ", "_")
-    return "[?" + hx(t) + "]"
+        return "~" + S.best_sense(gl[var[t]]).replace(" ", "_") + mark
+    return "[?" + hx(t) + "]" + mark
 
 
 def contexts(code, doc, gl, seg, var):

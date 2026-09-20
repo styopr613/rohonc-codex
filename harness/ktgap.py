@@ -18,6 +18,7 @@ from collections import Counter
 import ktcontext as X
 import ktcoverage as C
 import kttranslate as T
+import ktaffix as A
 import ktvariant as V
 
 
@@ -29,12 +30,14 @@ def build():
 
 
 def readable(t, gl, seg, var, prop):
+    t = A.strip(t)[0]
     return t in gl or t in seg or t in var or t in prop
 
 
 def word(t, gl, seg, var, prop):
-    if t in prop:
-        return "+" + prop[t].replace(" ", "_")
+    b, mark = A.strip(t)
+    if b in prop:
+        return ("+" if prop[b][1] in ("A","B") else "?") + prop[b][0].replace(" ", "_") + mark
     return X.word(t, gl, seg, var)
 
 

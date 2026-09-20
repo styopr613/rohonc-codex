@@ -197,5 +197,125 @@
   "tier": "C",
   "n": 3,
   "evidence": "'a blind soldier of Jerusalem, who [was named] — that soldier was Longinus' 052v:5-6; 'two merciful men of Jerusalem, who [was named] .. and the second Nicodemus' 053v:2. The third occurrence, 054r:5, does not fit and keeps this at C"
+ },
+ "630060060060ae0": {
+  "gloss": "on the third day",
+  "tier": "A",
+  "n": 3,
+  "evidence": "the same composition as 630060060060ae1 read above, with the other numeral terminator, and in the same creed slot: 'the Jews crucified him, and the Lord [on the third day]' 032r:8"
+ },
+ "060060060060060ae1": {
+  "gloss": "five",
+  "tier": "A",
+  "n": 4,
+  "evidence": "five tally strokes plus the numeral terminator, the same shape as three+terminator already read: 'two months, and [five], and at six years' 017v:11"
+ },
+ "060060060060060060060ae1": {
+  "gloss": "seven",
+  "tier": "A",
+  "n": 3,
+  "evidence": "seven tally strokes plus the numeral terminator: 004v:9, 015v:2, 145v:7"
+ },
+ "080910": {
+  "gloss": "he who",
+  "tier": "A",
+  "n": 11,
+  "evidence": "K&T's 'who' plus the subject marker already read, exactly as 569910 is 'this' plus it: '[he who] rested, and the Lord took' 024v:2"
+ },
+ "4a04a04a4": {
+  "gloss": "and then",
+  "tier": "B",
+  "n": 7,
+  "evidence": "one glyph from 4a24a04a4, the 334-occurrence narrative connective, and it stands in the same clause-initial slot: 'one God, [and then] God, the angel, Elijah the prophet' 002v:6"
+ },
+ "520890": {
+  "gloss": "room",
+  "tier": "B",
+  "n": 3,
+  "evidence": "'they found no [room], the wise Mary and Joseph' 020r:9 = Luke 2:7, no room for them in the inn"
+ },
+ "7b3670ae0520": {
+  "gloss": "the shepherds",
+  "tier": "B",
+  "n": 3,
+  "evidence": "'Christ, Mary's son; and when [the shepherds] went to Bethlehem' 020v:11 = Luke 2:15-16"
+ },
+ "540457": {
+  "gloss": "blessed",
+  "tier": "B",
+  "n": 4,
+  "evidence": "'and [he blessed], the Lord Jesus, this bread, and the bread' 030v:5, at the institution"
+ },
+ "993": {
+  "gloss": "were opened",
+  "tier": "C",
+  "n": 4,
+  "evidence": "'Adam, and then [their eyes were opened], the two of them, Adam, naked' 001r:4 = Genesis 3:7"
+ },
+ "453": {
+  "gloss": "who believes not",
+  "tier": "C",
+  "n": 4,
+  "evidence": "'is saved, but [he who believes not] is damned' 019r:5, 019v:4, 026v:12 -- the second half of Mark 16:16"
+ },
+ "00b520ae0520ae0": {
+  "gloss": "apart",
+  "tier": "C",
+  "n": 11,
+  "evidence": "'a third time the Lord went [apart] to God his Father, and knelt' 034r:8; 'the angel said again to Elijah, when [apart]' 004v:13"
+ },
+ "520ae0520ae0a101f6": {
+  "gloss": "shall be called",
+  "tier": "C",
+  "n": 7,
+  "evidence": "'this maiden shall conceive a son, and the son [shall be called] Jesus' 018v:2"
+ },
+ "060060060060060ae0": {
+  "gloss": "five",
+  "tier": "C",
+  "n": 2,
+  "evidence": "five strokes with the other numeral terminator"
+ },
+ "a83": {
+  "gloss": "the account",
+  "tier": "C",
+  "n": 3,
+  "evidence": "'Here begins [the account]' 029r:1, in a rubric"
+ },
+ "b24": {
+  "gloss": "hundred",
+  "tier": "C",
+  "n": 7,
+  "evidence": "'in debt [a hundred] pence' 135r:10 = Matthew 18:28, the fellow-servant who owed an hundred pence"
+ },
+ "0d2520324": {
+  "gloss": "stood in the midst",
+  "tier": "C",
+  "n": 3,
+  "evidence": "'Eve came to that tree that [stood in the midst]' 003v:4 and 123r:5; 'a serpent in that tree that [stood in the midst]' 003v:6 = Genesis 3:3"
+ },
+ "630060060443520": {
+  "gloss": "from the eternal",
+  "tier": "C",
+  "n": 13,
+  "evidence": "630 prefixed to 060060443520, read as eternal above: 'the angel came [from the eternal] on high, God the Father' 034v:1"
+ },
+ "670ae0a10ae01f6": {
+  "gloss": "was named",
+  "tier": "C",
+  "n": 6,
+  "evidence": "the same shape as 540ae0a10ae01f6 read as 'was named': 'two served a soldier, and [was named] the soldier' 022v:11"
+ },
+ "a10003a10": {
+  "gloss": "whosoever",
+  "tier": "C",
+  "n": 11,
+  "evidence": "stands where 'the man who' stands in the salvation formula: 'Gabriel, and [whosoever] believes in the Lord truly' 027v:3, against 019r:2 which has K&T's word there"
+ },
+ "353": {
+  "gloss": "again",
+  "tier": "C",
+  "n": 10,
+  "evidence": "'we must die, [again] rise' 131v:2; '[again] the Lord shall rise, therefore the Lord asks you' 032r:9"
  }
 }

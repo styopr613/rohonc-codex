@@ -1009,14 +1009,23 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 33 signs are read
+in the book and keep it only if it survives all of them. 53 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
 decisive occurrences, graded A, B or C. Seventeen are A. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved" and "believe". Rendered into the book
 with a plus sign so they can never be mistaken for Kiraly and Tokai's, they
-take the share of lines where every word is read from 22.3% to 30.7%.
+take the share of lines where every word is read from 22.3% to 34.7%.
+
+**One of them is not a word.** E034 ends 293 words the dictionary does not
+define, and 99.7% of those words are the last word of their run, against
+16.7% for words in general. Nothing else in the book has that signature; the
+next strongest candidate is run-final 55% of the time. So E034 is a clause
+terminator, not a word, and every word carrying it is its stem plus a full
+stop. That is a rule rather than a guess, it was measured rather than
+supposed, and it read 134 word types at once. `harness/ktaffix.py` holds it,
+and the renderer, the gap finder and the context printer all use it.
 
 **A third engine, and there is no floor.** A sign that occurs once cannot be
 checked at a second occurrence, and for a while this document treated that as
@@ -1095,6 +1104,7 @@ repository staff; with it, this would probably be feasible.
     python kttranslate.py     # render the whole book, marked by how far each word reads
     python ktcontext.py       # every occurrence of an unread sign, for checking a guess
     python ktgap.py           # lines that are one word short, so the gap can be read
+    python ktaffix.py         # the clause terminator, used by all three above
     # the translation itself is read by hand: work/rohonc/translation/rohonc_translation.md
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs

@@ -33,6 +33,7 @@ from collections import Counter
 import corpus
 import ktcoverage as C
 import ktdict
+import ktaffix as A
 import ktvariant as V
 
 PROPOSALS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")
@@ -92,18 +93,21 @@ def word(c, gl, full):
 
 
 def render_token(t, gl, seg, full, var, prop=None):
+    t, mark = A.strip(t)
     if t in gl:
-        return word(t, gl, full)
+        return word(t, gl, full) + mark
     if t in seg:
-        return "-".join(word(p, gl, full) for p in seg[t])
+        return "-".join(word(p, gl, full) for p in seg[t]) + mark
     if t in var:
-        return "~" + word(var[t], gl, full)
+        return "~" + word(var[t], gl, full) + mark
     if prop and t in prop:
-        return "+" + prop[t].replace(" ", "_")
-    return "[?]" if not full else f"[?{hx(t)}]"
+        g, tier = prop[t]
+        return ("+" if tier in ("A", "B") else "?") + g.replace(" ", "_") + mark
+    return ("[?]" if not full else f"[?{hx(t)}]") + mark
 
 
 def kind(t, gl, seg, var, prop=None):
+    t = A.strip(t)[0]
     if t in gl:
         return "one" if len(gl[t]) == 1 else "many"
     if t in seg:
@@ -115,8 +119,15 @@ def kind(t, gl, seg, var, prop=None):
     return "none"
 
 
-def load_proposals(tiers=("A", "B")):
-    """{code: gloss} for the readings in proposals.json, tiers A and B only."""
+def load_proposals(tiers=("A", "B", "C")):
+    """{code: gloss} for the readings in proposals.json.
+
+    Tier C is included and marked differently on the page. A tier C reading
+    is a reading made from one passage that nothing in the book can check,
+    usually because the sign occurs only once or twice. Leaving it off the
+    page does not make the page more honest, it makes it less readable; the
+    mark is what carries the honesty.
+    """
     if not os.path.exists(PROPOSALS):
         return {}
     raw = json.load(open(PROPOSALS, encoding="utf-8"))
@@ -125,7 +136,7 @@ def load_proposals(tiers=("A", "B")):
         if h.startswith("_") or v.get("tier") not in tiers:
             continue
         code = "".join(chr(0xE000 + int(h[i:i + 3], 16)) for i in range(0, len(h), 3))
-        out[code] = v["gloss"]
+        out[code] = (v["gloss"], v["tier"])
     return out
 
 
@@ -143,7 +154,11 @@ unpublished.  Nothing here chooses between senses; that needs their grammar.
   word/word     dictionary word, several senses, their first sense first
   word-word     undefined code read as the dictionary codes it cuts into
   ~word         variant spelling their own entry marks "var.", read as the headword
+  +word         read by this project and checked at every occurrence
+  ?word         read by this project from one passage, with nothing to check it against
   [?]           no reading
+  word.         a full stop: the glyph E034, which ends 99.7% of the words
+                carrying it at the end of a run, so it punctuates
   |             unreadable glyph or gap in the transcription
 
 Of {tot} words: {one} read with one sense ({pone:.1f}%), {many} carry several
