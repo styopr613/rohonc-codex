@@ -136,7 +136,7 @@ conclusion in §4 depends on any of them.
 | `natlang_hebrew` | plain hebrew, invented alphabet | 52.4% | 6.60x | 3.93x | 4.23x (3.98) |
 | `subst` | substitution cipher over Latin | 49.3% | 4.71x | 3.15x | 3.96x (4.11) |
 | `subst_homophonic` | homophonic cipher over Latin (k=3) | 97.7% | 12.87x | 3.24x | 6.05x (5.34) |
-| `linereset` | self-citation with a line reset | 12.1% | 0.91x | 2.86x | 0.57x (0.44) |
+| `linereset` | line-reset scribe, no copying | 12.1% | 0.91x | 2.86x | 0.57x (0.44) |
 
 ## 4. What the numbers say
 
@@ -707,6 +707,144 @@ might do.
 Five worst metrics, in floor units, held-out half.
 
 <!--TABLE:WORST-->
+**`fivecomp` — five-component model (fingerprint)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 2.395 | 73.336 | 10.0x |
+| line | m line-final % | 10.511 | 66.966 | 4.7x |
+| line | para vocab coherence | 1.063 | 2.610 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`fivecomp_scribe` — five-component model + a scribe's page habits**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | para/line-initial gallows % | 32.592 | 21.997 | 2.5x |
+| line | m line-final % | 47.902 | 66.966 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | para vocab coherence | 1.189 | 2.610 | 1.7x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`naibbe_latin` — Naibbe verbose cipher over latin**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 0.204 | 73.336 | 10.2x |
+| struct | hapax share of types % | 54.661 | 71.586 | 7.2x |
+| struct | adjacent identical words % | 0.160 | 0.870 | 5.3x |
+| line | m line-final % | 15.933 | 66.966 | 4.3x |
+| line | word-len autocorr | -0.033 | 0.113 | 4.1x |
+
+**`naibbe_wb_italian` — Naibbe, word breaks kept (Italian)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | -0.041 | 73.336 | 10.1x |
+| struct | hapax share of types % | 51.768 | 71.586 | 8.0x |
+| line | word-len autocorr | -0.063 | 0.113 | 5.0x |
+| line | m line-final % | 13.873 | 66.966 | 4.4x |
+| struct | adjacent identical words % | 0.238 | 0.870 | 4.3x |
+
+**`grille_bigtable` — table-and-grille, large table**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | len<=2 % | 16.980 | 7.240 | 14.7x |
+| text | top-5 finals % | 72.404 | 91.640 | 10.1x |
+| line | gallows para-start lift | 0.003 | 73.336 | 10.0x |
+| struct | hapax share of types % | 52.037 | 71.586 | 8.4x |
+| text | mean word len | 4.588 | 5.173 | 6.4x |
+
+**`abbrev` — Latin scribal abbreviation**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 58.070 | 91.640 | 17.5x |
+| struct | len<=2 % | 18.195 | 7.240 | 16.3x |
+| struct | H pos4 from end | 4.062 | 3.364 | 14.8x |
+| text | h1 (char) | 4.221 | 3.863 | 13.1x |
+| text | top-5 onsets % | 46.630 | 70.175 | 10.8x |
+
+**`gibberish` — human gibberish (42 volunteers)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 44.093 | 91.640 | 24.9x |
+| struct | H pos4 from end | 4.380 | 3.364 | 21.4x |
+| text | h1 (char) | 4.399 | 3.863 | 19.7x |
+| struct | H pos2 from end | 4.369 | 2.893 | 19.4x |
+| text | top-5 onsets % | 32.665 | 70.175 | 17.3x |
+**`fivecomp` — five-component model (fingerprint)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 2.395 | 73.336 | 10.0x |
+| line | m line-final % | 10.511 | 66.966 | 4.7x |
+| line | para vocab coherence | 1.063 | 2.610 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`fivecomp_scribe` — five-component model + a scribe's page habits**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | para/line-initial gallows % | 32.592 | 21.997 | 2.5x |
+| line | m line-final % | 47.902 | 66.966 | 1.9x |
+| line | word-section MI (bits) | -0.008 | 0.232 | 1.8x |
+| line | para vocab coherence | 1.189 | 2.610 | 1.7x |
+| line | word-len autocorr | 0.059 | 0.113 | 1.6x |
+
+**`naibbe_latin` — Naibbe verbose cipher over latin**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | 0.204 | 73.336 | 10.2x |
+| struct | hapax share of types % | 54.661 | 71.586 | 7.2x |
+| struct | adjacent identical words % | 0.160 | 0.870 | 5.3x |
+| line | m line-final % | 15.933 | 66.966 | 4.3x |
+| line | word-len autocorr | -0.033 | 0.113 | 4.1x |
+
+**`naibbe_wb_italian` — Naibbe, word breaks kept (Italian)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| line | gallows para-start lift | -0.041 | 73.336 | 10.1x |
+| struct | hapax share of types % | 51.768 | 71.586 | 8.0x |
+| line | word-len autocorr | -0.063 | 0.113 | 5.0x |
+| line | m line-final % | 13.873 | 66.966 | 4.4x |
+| struct | adjacent identical words % | 0.238 | 0.870 | 4.3x |
+
+**`grille_bigtable` — table-and-grille, large table**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| struct | len<=2 % | 16.980 | 7.240 | 14.7x |
+| text | top-5 finals % | 72.404 | 91.640 | 10.1x |
+| line | gallows para-start lift | 0.003 | 73.336 | 10.0x |
+| struct | hapax share of types % | 52.037 | 71.586 | 8.4x |
+| text | mean word len | 4.588 | 5.173 | 6.4x |
+
+**`abbrev` — Latin scribal abbreviation**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 58.070 | 91.640 | 17.5x |
+| struct | len<=2 % | 18.195 | 7.240 | 16.3x |
+| struct | H pos4 from end | 4.062 | 3.364 | 14.8x |
+| text | h1 (char) | 4.221 | 3.863 | 13.1x |
+| text | top-5 onsets % | 46.630 | 70.175 | 10.8x |
+
+**`gibberish` — human gibberish (42 volunteers)**
+
+| block | metric | it produced | the manuscript | floor units |
+|---|---|---:|---:|---:|
+| text | top-5 finals % | 44.093 | 91.640 | 24.9x |
+| struct | H pos4 from end | 4.380 | 3.364 | 21.4x |
+| text | h1 (char) | 4.399 | 3.863 | 19.7x |
+| struct | H pos2 from end | 4.369 | 2.893 | 19.4x |
+| text | top-5 onsets % | 32.665 | 70.175 | 17.3x |
 **`fivecomp` — five-component model (fingerprint)**
 
 | block | metric | it produced | the manuscript | floor units |

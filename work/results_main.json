@@ -4938,9 +4938,9 @@
    "seconds": 22.4
   },
   "linereset": {
-   "label": "self-citation with a line reset",
+   "label": "line-reset scribe, no copying",
    "kind": "self",
-   "note": "NEW: Timm's copy-and-mutate, restarted at every line break",
+   "note": "NEW: open from a line-opener pool, chain words end-to-start, flourish; copy rate swept, best at zero",
    "notes": {
     "cfg": {
      "p_copy": 0.0,

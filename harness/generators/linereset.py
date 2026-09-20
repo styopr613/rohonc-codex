@@ -141,8 +141,8 @@ def write_line(sc, budget, rng, cfg):
 
 
 @register("linereset", kind="self",
-          label="self-citation with a line reset",
-          note="NEW: Timm's copy-and-mutate, restarted at every line break")
+          label="line-reset scribe, no copying",
+          note="NEW: open from a line-opener pool, chain words end-to-start, flourish; copy rate swept, best at zero")
 def generate(spec, train, seed=0, cfg=None):
     cfg = {**DEFAULTS, **(cfg or {})}
     rng = random.Random(seed + 23)
