@@ -10,7 +10,7 @@ last three "Translate" commits; read their diffs to see what a batch is.
 ## Standing orders
 
 1. **The target is 90%, and the ceiling moves as readings land.** Lines fully
-   read stand at 74.8% tonight, up from 62.4% this morning. Two earlier versions
+   read stand at 74.0% today, up from 62.4% this morning. Two earlier versions
    of this order were wrong and both were mine. The first said 98%, with no
    arithmetic behind it. The second said 82% and showed its working, and the
    working assumed that a sign occurring once in the book can never be read.
@@ -44,45 +44,6 @@ last three "Translate" commits; read their diffs to see what a batch is.
             types, so a sign occurring once can never fall inside a match.
             A gapped alignment of the two copies would reach at most 278
             of the hapaxes and is the largest unbuilt idea on the list.
-
-   **The fast loop for those 859 lines, built 2026-09-20 evening, is
-   `ktleft.py`.** It turns the crosser-off round. Where the translation names
-   the passage a folio retells, the words of that passage (King James, verse-
-   numbered, `data/ref/rohonc/bible_kjv_verses.txt`) minus every word a sign
-   already carries are the pool the folio's holes can still be. Four modes:
-
-        python3 ktleft.py --wide 1 --cross   # signs on 2+ cited folios whose
-                                             # passages SHARE a free word.
-                                             # Start here: the intersection
-                                             # does K&T's carry-it-everywhere
-                                             # test before you guess.
-        python3 ktleft.py --wide 1 --holes   # one-hole lines on cited folios,
-                                             # smallest pool first
-        python3 ktleft.py --wide 2 128v 129r # one folio: pool beside holes
-        python3 ktleft.py                    # the whole pool, ranked: what
-                                             # the book still has no sign for
-
-   Its first run gave eight readings in an hour (hateth, became, dust,
-   gate/open, gates, chapter, exceed, garment; 74.4% to 74.8%). Rules that
-   came out of that run:
-
-   - The pool is candidates, not readings. Carry the word to every line the
-     sign stands on (`ktgrind.py HEX`) and check `ktcross.py --taken WORD`
-     before entering. Two occurrences in the same retold sentence (the
-     doubled Life of Adam on 007r/125r) is one passage, tier C.
-   - A word the pool calls free may be a synonym of one that is taken: it
-     lists tell, meat, flesh, arise, sepulchre, depart because K&T glossed
-     say, food, body, rise, grave, go away. Check the concept, not the word.
-   - A sign inside K&T's own spellings is read from them: their four gate
-     and open spellings all end in ab0, so ab0 is gate/open. Their 670 is
-     chapter, so 432670 after a numeral is chapter.
-   - An empty intersection is a result: the sign is not a content word of
-     the passage. Do not force one.
-   - ktcross's stemmer was not idempotent until this evening (priests
-     stemmed to priest, priest to pri) and reported kissed and priests as
-     free while kiss and priest were taken. Fixed to a fixed point; if the
-     free list ever offers a word whose base form is taken, that is the bug
-     to look for.
 
 2. **Every turn does two things at once:** translate the next six folios in
    page order, and read the signs those pages make readable. Translating

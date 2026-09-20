@@ -84,8 +84,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  one God +and_then God angel Elijah prophet
  7  prophet Elijah then-exist father son spirit to-go
  8  table [?] in_turn-brother on-this world and +out | to
- 9  +Paradise Lord-<suffix_of_divine_name> Adam +heart [?] and then-exist
-10  Adam ~exist +heart earlier_mentioned [?] and [?] to-soul-+one
+ 9  +Paradise Lord-<suffix_of_divine_name> Adam +heart ?dust and then-exist
+10  Adam ~exist +heart earlier_mentioned ?dust and ?became to-soul-+one
 11  +heart breathe on-Adam and living leave and
 12  Adam grab Lord-<suffix_of_divine_name> and Adam go inside
 13  Garden_of_Eden and each,_every +heart exist-chapter Adam
@@ -151,7 +151,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 007r ===
  1  exist ~Adam to-to-this-who [?]-~Adam in_turn why?-in_turn
- 2  [?] exist ~Adam earth [?]
+ 2  ?gates exist ~Adam earth [?]
  3  want to-~son food ~grab in_turn +it this-+it
  4  exist through +pine and this-+it exist painful
  5  ?coming have in_turn this evil this-evil exist
@@ -181,7 +181,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  one ~branch and then-exist branch to-~Adam carry ?anointed through
  2  ~light and then-exist through ~light ?anointed through eye see blind ~Adam
  3  and healing leave ~Adam [?] and then-exist Seth go | [?]
- 4  [?] Garden_of_Eden and then-~exist Seth appear God
+ 4  +gate/open Garden_of_Eden and then-~exist Seth appear God
  5  angel +and_then God angel Seth [?] and go +one say Seth
  6  from-father ~Adam Seth +<subject_marker> go inside Garden_of_Eden | then
  7  exist father ~Adam carry Seth from +the_tree_of_mercy branch
@@ -699,8 +699,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  7  this-?with this-Lord grab-cut_off-to [?] head.
  8  wash and each,_every <preposition_of_genitive>-?with ?shall_be_called wash and | then
  9  exist ?with +<subject_marker> foot exist-Lord wash and foot
-10  +<subject_marker> [?] [?] and two from +go_away apostle middle each,_every
-11  wash and foot +<subject_marker> [?] [?] and
+10  +<subject_marker> ?garment [?] and two from +go_away apostle middle each,_every
+11  wash and foot +<subject_marker> ?garment [?] and
 12  grab Lord-Jézus on-Lord <preposition_of_genitive>-Lord believe-~exist and
 
 
@@ -1479,7 +1479,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 061v ===
- 1  go_up-+day-why? symbolize this Jézus execute ?he_is go_up-~gate-who
+ 1  go_up-+day-why? symbolize this Jézus execute ?he_is go_up-+gate/open-why?
  2  redeem each,_every ?people inside [?] this [?] and on-this Jézus
  3  execute be_saved each,_every ~Adam gain +and_then
  4  Lord-Jézus trespass Abraham Abraham symbolize this
@@ -2212,7 +2212,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 088v ===
  1  begins this holy-gospel
  2  write holy-Luke inside
- 3  six [?] <preposition_of_genitive>-write
+ 3  six +chapter <preposition_of_genitive>-write
  4  time say Lord-Jézus
  5  apostle <preposition_of_genitive>-Lord and Jew(ish)
  6  people-chapter exist-rich
@@ -2331,7 +2331,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  somebody-Nicodemus end this holy-gospel Lord-<suffix_of_divine_name> ?with_all_thy_heart Lord
  5  begins this holy-gospel
  6  write holy-Luke inside
- 7  14 [?] inside | <preposition_of_genitive>
+ 7  14 +chapter inside | <preposition_of_genitive>
  8  write time
  9  say Lord-Jézus apostle
 10  <preposition_of_genitive>-Lord and Jew(ish)
@@ -2515,14 +2515,14 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  7  +<subject_marker> love-rich-somebody how?-to somebody +neighbour exist | <preposition_of_genitive>
  8  ?whosoever-rich-+one heaven land speak holy-~Matthew and
  9  somebody [?] say this-somebody God love in_turn | <preposition_of_genitive>-rich.
-10  somebody father son [?] love-rich-somebody from [?]
+10  somebody father son +hateth love-rich-somebody from [?]
 
 
 === 099v ===
  1  one liar exist how? this somebody God love in_turn | <preposition_of_genitive>
- 2  somebody father son [?] love God [?] high-this see.
- 3  somebody in_turn <preposition_of_genitive>-somebody father son see ?whosoever [?]
- 4  son [?] love-somebody how? this-somebody God love this
+ 2  somebody father son +hateth love God [?] high-this see.
+ 3  somebody in_turn <preposition_of_genitive>-somebody father son see ?whosoever +hateth
+ 4  son +hateth love-somebody how? this-somebody God love this
  5  pleasing in_turn want-rich-somebody God love first love | <preposition_of_genitive>-rich
  6  somebody father son how?-to rich-somebody rich-+neighbour God
  7  and good exist somebody-~rich love [?]-[?] ?eternal
@@ -2563,9 +2563,9 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  fire and grab God angel say God angel +Elijah
  3  this exist-<preposition_of_genitive>-angel Lord-<suffix_of_divine_name> and this somebody from-exist
  4  and +Elijah-somebody from-leave-to-leave [?] [?] and
- 5  +Elijah-somebody get_raptured heaven +most_high and [?] | +Elijah
+ 5  +Elijah-somebody get_raptured heaven +most_high and +gate/open | +Elijah
  6  somebody [?] from-+day Noah +Elijah +sword carry
- 7  ~evil [?] and [?] leave-to-leave Noah +Elijah on-earth
+ 7  ~evil +one-+gate/open and [?] leave-to-leave Noah +Elijah on-earth
  8  [?] [?] through be_born two ~head-evil ~evil
  9  and son hide_oneself-angel and exist-[?] evil exist Antichrist
 
@@ -2771,15 +2771,15 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  +until judge-+day and one believe two exist
  4  leave-leave a) [?] this-Lord you remit-Lord
  5  +and_then Lord-Jézus and somebody exist carry ?he_who ?the_scripture
- 6  [?] and from somebody exist this righteous(ly) on-learn
- 7  in_turn and somebody exist carry ?he_who ?the_scripture [?]
+ 6  ?exceed and from somebody exist this righteous(ly) on-learn
+ 7  in_turn and somebody exist carry ?he_who ?the_scripture ?exceed
  8  and from ?whosoever +is_not this righteous(ly) on-learn +and_then Lord-Jézus
  9  and somebody exist carry ?he_who ?the_scripture write <preposition_of_genitive>-somebody
 10  good ?afterward exist see heaven pleasing in_turn and
 
 
 === 109v ===
- 1  somebody +is_not carry ?he_who ?the_scripture [?] | <preposition_of_genitive>
+ 1  somebody +is_not carry ?he_who ?the_scripture ?exceed | <preposition_of_genitive>
  2  somebody good ?afterward +is_not see pleasing <preposition_of_genitive>-Lord
  3  from-father-<suffix_of_divine_name> end this holy-gospel Lord-<suffix_of_divine_name> love Lord-<suffix_of_divine_name>
  4  begins this holy-gospel
@@ -3103,9 +3103,9 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 122r ===
- 1  and out(ward) +Paradise Lord-<suffix_of_divine_name> Adam +heart [?]
+ 1  and out(ward) +Paradise Lord-<suffix_of_divine_name> Adam +heart ?dust
  2  and then-exist Adam exist +heart earlier_mentioned [?] and
- 3  [?] to-soul-+one +heart breathe on-Adam and
+ 3  ?became to-soul-+one +heart breathe on-Adam and
  4  living leave and Adam grab Lord-father son.
  5  spirit and Adam go Lord-father son spirit
  6  inside +Paradise and each,_every +heart exist-to Adam
@@ -3177,7 +3177,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 125r ===
  1  +law this-Adam exist +name-[?]-ten commandment carry exist
  2  Adam to-to-this-who on-<preposition_of_genitive>-Adam in_turn chapter-~who.
- 3  [?] exist Adam earth +to_till_the_ground
+ 3  ?gates exist Adam earth +to_till_the_ground
  4  want to-~son food grab in_turn +Eve this
  5  +Eve exist through +pine and this +Eve
  6  exist painful ?coming have in_turn this evil
@@ -3392,7 +3392,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  7  time grab to-+Elijah-two-?Noah [?] [?]
  8  and +Elijah-?Noah get_raptured heaven high and from
  9  +Elijah [?] exist ~Noah +Elijah +sword
-10  carry ~evil [?] and [?] leave-to-leave Noah +Elijah on-earth
+10  carry ~evil +one-+gate/open and [?] leave-to-leave Noah +Elijah on-earth
 
 
 === 134r ===
@@ -5537,7 +5537,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 216r ===
  1  angel and shout-to holy-Stephen see-Stephen [?] | [?]
- 2  [?] heaven land and see-Stephen one
+ 2  +gate/open heaven land and see-Stephen one
  3  king +crown inside throne sit and [?]
  4  +an_army [?] angel +and_then Jew(ish)
  5  this-Stephen-+<subject_marker> one blasphemer-Stephen and.

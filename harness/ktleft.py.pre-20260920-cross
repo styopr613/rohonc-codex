@@ -1,0 +1,216 @@
+"""What is left: the words of a folio's own source passage that no sign carries.
+
+The crosser-off (ktcross.py) says what a hole CANNOT be: any of the ~1,050
+English stems already attached to a sign. This is the other half. Where the
+translation names the passage a folio retells -- "Luke 24:36-41", "Genesis
+3:24" -- the words of that passage are known, and the ones with no sign yet
+are the short list of what the folio's holes can still be.
+
+It is a candidate list, not a reading. A folio retells; it does not copy
+(ktpair.py measured that at 0.4% agreement on doubled passages), so the
+passage's free words are the pool, and each hole still has to be read on its
+line and carried to every other occurrence of its sign. But a pool of ten
+beats a pool of ten thousand, and the pool shrinks as signs land.
+
+The verse text is the King James (Gutenberg #10, data/ref/rohonc/
+bible_kjv_verses.txt), which keeps verse numbers; the flat bible_kjv.txt the
+crosser-off ranks on does not. Passages the notes cite without chapter and
+verse -- the Vita Adae, the Golden Legend, the Protevangelium -- are not
+looked up; those folios show no pool.
+
+    python ktleft.py                # every cited passage: the free words, ranked
+                                    # by how many folios' passages use them
+    python ktleft.py 128v 129r      # one folio: its pool beside its holes
+    python ktleft.py --pages        # every folio with a cited passage
+    python ktleft.py --wide 2 128v  # widen each citation by N verses each way
+"""
+import os
+import re
+import sys
+from collections import Counter, defaultdict
+
+import ktaffix as A
+import ktcross as K
+import kttranslate as T
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+KJV = os.path.join(os.path.dirname(HERE), "data", "ref", "rohonc", "bible_kjv_verses.txt")
+
+BOOKS = ("Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth Samuel Kings "
+         "Chronicles Ezra Nehemiah Esther Job Psalms Psalm Proverbs Ecclesiastes Isaiah "
+         "Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Jonah Micah Zechariah Malachi "
+         "Matthew Mark Luke John Acts Romans Corinthians Galatians Ephesians Philippians "
+         "Colossians Thessalonians Timothy Hebrews James Peter Jude Revelation").split()
+ALIAS = {"Psalm": "Psalms"}
+
+REF = re.compile(r"\b(%s)\b\.?\s*(\d+)(?::(\d+)(?:\s*[-–]\s*(\d+))?)?|(?<![\d:])(\d+):(\d+)(?:\s*[-–]\s*(\d+))?"
+                 % "|".join(BOOKS))
+
+
+def verses():
+    """{(book, chapter, verse): text} from the Gutenberg King James."""
+    out = {}
+    if not os.path.exists(KJV):
+        return out
+    book, heading, cur, buf = None, "", None, []
+    for raw in open(KJV, encoding="utf-8", errors="ignore"):
+        line = raw.rstrip("\n")
+        m = re.match(r"^(\d+):(\d+)\s(.*)", line)
+        if m:
+            if cur:
+                out[cur] = " ".join(buf)
+            ch, v = int(m.group(1)), int(m.group(2))
+            if ch == 1 and v == 1:
+                book = short(heading)
+            cur, buf = (book, ch, v), [m.group(3)]
+        elif line.strip():
+            if cur and buf:
+                buf.append(line.strip())
+            heading = line.strip()
+        else:
+            if cur:
+                out[cur] = " ".join(buf)
+                cur, buf = None, []
+    if cur:
+        out[cur] = " ".join(buf)
+    return out
+
+
+def short(heading):
+    h = heading.replace("The Revelation of Saint John the Devine", "Revelation")
+    h = re.sub(r"^The .*?Called ", "", h)
+    h = re.sub(r"^The Gospel According to Saint ", "", h)
+    h = re.sub(r"^The Acts of the Apostles", "Acts", h)
+    h = re.sub(r"^The (General )?Epistle .* to the ", "", h)
+    h = re.sub(r"^The (General )?Epistle .* of ", "", h)
+    h = re.sub(r"^The (First|Second|Third) Book of (the )?", "", h)
+    h = re.sub(r"^The Book of (the )?", "", h)
+    h = re.sub(r"^The (Song of |Lamentations of |Proverbs)", lambda m: m.group(0)[4:], h)
+    h = re.sub(r"^The ", "", h)
+    return h.split()[-1] if h.split() else h
+
+
+def refs_in(note):
+    """[(book, chapter, v_from, v_to)] -- a bare C:V takes the last-named book."""
+    out, book = [], None
+    for m in REF.finditer(note):
+        if m.group(1):
+            book = ALIAS.get(m.group(1), m.group(1))
+            ch = int(m.group(2))
+            if m.group(3):
+                a = int(m.group(3))
+                b = int(m.group(4)) if m.group(4) else a
+                out.append((book, ch, a, b))
+            else:
+                out.append((book, ch, 1, 999))
+        elif book:
+            a = int(m.group(6))
+            b = int(m.group(7)) if m.group(7) else a
+            out.append((book, int(m.group(5)), a, b))
+    return out
+
+
+def passage(vv, refs, wide=0):
+    """The verse texts a set of references names, widened by `wide` each way."""
+    seen, out = set(), []
+    for book, ch, a, b in refs:
+        for v in range(max(1, a - wide), b + wide + 1):
+            k = (book, ch, v)
+            if k in vv and k not in seen:
+                seen.add(k)
+                out.append((k, vv[k]))
+    return out
+
+
+def pool(text, idx):
+    """{stem: Counter(surface forms)} of the content words no sign carries."""
+    stopstem = {K.stem(w) for w in K.STOP}
+    free = defaultdict(Counter)
+    for w in re.findall(r"[A-Za-z]+", text):
+        lw = w.lower()
+        if len(lw) < 3 or lw in K.STOP:
+            continue
+        s = K.stem(lw)
+        if s in stopstem or s in idx:
+            continue
+        free[s][lw] += 1
+    return free
+
+
+def page_holes(page, doc, gl, seg, var, prop, inv, cnt):
+    out = []
+    for p in doc:
+        if p.page != page:
+            continue
+        for i, ln in enumerate(p.lines, 1):
+            tk = [t for run in ln for t in run]
+            miss = [A.strip(t)[0] for t in tk if A.strip(t)[0] not in inv]
+            if not miss:
+                continue
+            s = " ".join(("<<%s>>" % K.hx(A.strip(t)[0])) if A.strip(t)[0] in miss
+                         else T.render_token(t, gl, seg, False, var, prop) for t in tk)
+            out.append((i, [(K.hx(m), cnt[m]) for m in miss], s))
+    return out
+
+
+def main(argv):
+    wide = 0
+    if "--wide" in argv:
+        k = argv.index("--wide")
+        wide = int(argv[k + 1])
+        del argv[k:k + 2]
+    gl, doc, seg, var, prop, inv = K.build()
+    idx = K.taken_index(gl, prop)
+    vv = verses()
+    cnt = Counter(A.strip(t)[0] for p in doc for t in p.tokens)
+    pages = sorted({p.page for p in doc})
+    cited = {}
+    for pg in pages:
+        r = refs_in(K.note_for(pg))
+        if r:
+            cited[pg] = r
+
+    if not vv:
+        print(f"no verse text at {KJV}")
+        return 1
+
+    want = [a for a in argv if re.fullmatch(r"\d{3}[rv]", a)]
+    if "--pages" in argv:
+        want = sorted(cited)
+
+    if want:
+        for pg in want:
+            r = cited.get(pg, [])
+            print(f"\n=== {pg}   {', '.join(f'{b} {c}:{a}' + (f'-{z}' if z != a and z != 999 else '') for b, c, a, z in r) or 'no chapter and verse cited'}")
+            vs = passage(vv, r, wide)
+            fr = pool(" ".join(t for _, t in vs), idx)
+            if vs:
+                words = sorted(fr.items(), key=lambda x: -sum(x[1].values()))
+                print(f"    {len(vs)} verse(s); {len(words)} content words with no sign yet:")
+                print("    " + ", ".join("/".join(sorted(c)) for _, c in words))
+            hs = page_holes(pg, doc, gl, seg, var, prop, inv, cnt)
+            for i, miss, s in hs:
+                tag = " ".join(f"{h}(x{n})" for h, n in miss)
+                print(f"  {pg}:{i:<3d} {tag:24s} {s[:150]}")
+        return 0
+
+    # ---- the whole pool, ranked by how many folios' passages use the word
+    print(f"{len(cited)} folios cite a chapter and verse")
+    byword = defaultdict(set)
+    forms = defaultdict(Counter)
+    nverse = 0
+    for pg, r in cited.items():
+        vs = passage(vv, r, wide)
+        nverse += len(vs)
+        for s, c in pool(" ".join(t for _, t in vs), idx).items():
+            byword[s].add(pg)
+            forms[s].update(c)
+    print(f"{nverse} verses looked up; {len(byword)} content words in them carry no sign")
+    print(f"{'folios':>6s}  word")
+    for s, pgs in sorted(byword.items(), key=lambda x: (-len(x[1]), x[0]))[:120]:
+        print(f"{len(pgs):6d}  {'/'.join(sorted(forms[s])):28s} {' '.join(sorted(pgs))[:60]}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))

@@ -4109,53 +4109,5 @@
   "tier": "A",
   "n": 3,
   "evidence": "K&T's table entry cites their 774 at 072r08, 072r11, 088v12 and 191r04. This sign stands at 072r:8, 072r:11 and 191r:4 -- three of those four lines -- and carries their 774 under a preposition. It is Mark 16:14, 'afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief': the codex has 'the apostles sat at table in Jerusalem, in the Lord's house' and then 'began to admonish them on believing'"
- },
- "5204149623f2": {
-  "gloss": "hateth",
-  "tier": "B",
-  "n": 4,
-  "evidence": "1 John 4:20, named in the translation of 099r-099v: 'he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen'. All four occurrences stand in that passage: 099v:4 reads 'brother [hateth], loves somebody how? this somebody God loves' almost word for word, 099r:10 and 099v:2 'brother [hateth] ... love'. hate is a word no sign carried (ktcross) and it is the one content word of the passage the pool tool (ktleft.py) left free that fits every line. One passage, so not A."
- },
- "5202b7": {
-  "gloss": "became",
-  "tier": "C",
-  "n": 2,
-  "evidence": "Genesis 2:7, 'and man became a living soul'. Both occurrences stand immediately before the codex's 'to-soul-one': 002v:10 'and [became] a living soul', 122r:3 '[became] a living soul, breathed on Adam'. become is carried by K&T's b30, but the passage pool (ktleft.py, Genesis 2:7 widened one verse) offered became as free and it is the only word of the verse that fits the slot both times."
- },
- "70d520": {
-  "gloss": "dust",
-  "tier": "C",
-  "n": 3,
-  "evidence": "Genesis 2:7, 'the Lord God formed man of the dust of the ground'. 002v:9 'Paradise, the Lord God, Adam ... [dust] and then', 002v:10 'Adam was ... the aforesaid [dust] and became a soul', 122r:1 'out of Paradise the Lord God, Adam ... [dust]'. The passage pool (ktleft.py) left became, dust, eastward, mist, nostrils and planted free; dust is the one that reads with 'the aforesaid' on 002v:10. Not nostrils: breath is taken and nothing in the three lines is 'into'."
- },
- "ab0": {
-  "gloss": "gate/open",
-  "tier": "B",
-  "n": 3,
-  "evidence": "K&T's four spellings of gate and open all end in this sign: 0600a2ab0 'gate, open (up)', 060520ab0 'gate', 0a2060ab0 'gate'. Alone it stands at 006r:4 '[gate] Garden of Eden, and then Seth appeared (before) God' -- the Vita Adae has Seth at the gates of Paradise; 101r:5 'Elijah raptured to heaven most high and [opened]'; 216r:2 '[opened] heaven ... and Stephen saw' (Acts 7:56 'I see the heavens opened'). Three passages, all fit. The gloss is K&T's for the longer spellings; what the affixes 060, 0a2 and 520 add is not read."
- },
- "ab0ab0": {
-  "gloss": "gates",
-  "tier": "C",
-  "n": 2,
-  "evidence": "Reduplication of ab0 (gate/open), the pattern K&T read as woman from 060131. Both occurrences are the same sentence in the doubled Life of Adam: 007r:2 and 125r:3 '[gates] was Adam (on) the earth to till the ground' -- Genesis 3:23-24, sent out of the garden. One sentence twice, so C."
- },
- "432670": {
-  "gloss": "chapter",
-  "tier": "B",
-  "n": 2,
-  "evidence": "K&T's chapter is 670; this is 432 + 670 and stands after a numeral both times: 088v:3 'six [chapter] written', 092v:7 '14 [chapter] in'. The codex's chapter citations elsewhere are 'holy Matthew, in the Nth chapter'. Read as chapter under whatever 432 marks (an ordinal or case ending); 432 itself is not read."
- },
- "845152222": {
-  "gloss": "exceed",
-  "tier": "C",
-  "n": 3,
-  "evidence": "Matthew 5:20, 'except your righteousness shall exceed the righteousness of the scribes and Pharisees, ye shall in no case enter into the kingdom of heaven'. 109r:7 'he who the scribes [exceed]', 109v:1 'somebody does not ... he who the scribes [exceed]', 109r:6 '[exceed] and from somebody is this righteous'. The passage pool (ktleft.py) left exceed and enter free; enter does not stand next to 'the scribes'. One passage."
- },
- "520af0": {
-  "gloss": "garment",
-  "tier": "C",
-  "n": 2,
-  "evidence": "John 13:12, 'after he had washed their feet, and had taken his garments, and was set down again'. 030r:11 'washed the feet, [garment] [?] and', 030r:10 '[garment] [?] and the two ... apostles in the middle'. garment and raiment are free (ktcross); clothes is taken by 520b7a and its family. The second hole on both lines is not read. One passage."
  }
 }

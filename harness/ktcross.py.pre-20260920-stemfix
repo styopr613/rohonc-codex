@@ -83,34 +83,6 @@ IRREG = {
     "teeth": "tooth", "brethren": "brother", "hath": "have", "had": "have",
     "art": "be", "wast": "be", "wert": "be", "doth": "do", "done": "do",
     "did": "do", "dost": "do",
-    # The King James past tenses the pool builder (ktleft.py) meets.
-    "smote": "smite", "smitten": "smite", "drew": "draw", "drawn": "draw",
-    "bought": "buy", "laid": "lay", "arose": "arise", "arisen": "arise",
-    "fled": "flee", "sought": "seek", "caught": "catch", "taught": "teach",
-    "wrought": "work", "drank": "drink", "drunk": "drink", "ate": "eat",
-    "eaten": "eat", "bade": "bid", "bidden": "bid", "forgave": "forgive",
-    "forgiven": "forgive", "led": "lead", "shewed": "show", "shew": "show",
-    "shewn": "show", "showed": "show", "shown": "show", "struck": "strike",
-    "swore": "swear", "sworn": "swear", "threw": "throw", "thrown": "throw",
-    "wore": "wear", "worn": "wear", "bound": "bind", "built": "build",
-    "chose": "choose", "chosen": "choose", "dwelt": "dwell",
-    "forsook": "forsake", "forsaken": "forsake", "hid": "hide", "hidden": "hide",
-    "sang": "sing", "sung": "sing", "shook": "shake", "shaken": "shake",
-    "shone": "shine", "sold": "sell", "spent": "spend", "sprang": "spring",
-    "stole": "steal", "stolen": "steal", "tore": "tear", "torn": "tear",
-    "trod": "tread", "trodden": "tread", "blew": "blow", "flew": "fly",
-    "grew": "grow", "grown": "grow", "drove": "drive", "driven": "drive",
-    "rode": "ride", "bit": "bite", "bitten": "bite", "bled": "bleed",
-    "fed": "feed", "clave": "cleave", "beheld": "behold", "besought": "beseech",
-    "cometh": "come", "wilt": "will", "shalt": "shall", "canst": "can",
-    "mayest": "may", "mightest": "might", "wouldest": "would", "couldest": "could",
-    "spat": "spit", "sate": "sit", "sitteth": "sit", "lieth": "lie",
-    "dieth": "die", "died": "die", "fleeth": "flee", "seeth": "see",
-    "beareth": "bear", "bare": "bear", "borne": "bear", "gat": "get",
-    "gotten": "get", "begat": "beget", "begotten": "beget", "bore": "bear",
-    "leapt": "leap", "crept": "creep", "swept": "sweep", "slept": "sleep",
-    "felt": "feel", "dealt": "deal", "meant": "mean", "built": "build",
-    "lent": "lend", "bent": "bend", "rent": "rend", "shed": "shed",
 }
 
 
@@ -133,22 +105,10 @@ def stem(w):
     # lemma unstemmed here was a bug: it put took, made, hath, told and written
     # on the free list while the book had signs for all of them.
     w = IRREG.get(w, w)
-    # -ied / -ies are a spelling of -y: cried is cry, cities is city. Without
-    # this, cried stemmed to "cri" and cry to "cry" and the two never met.
-    if len(w) > 4 and w[-3:] in ("ied", "ies"):
-        w = w[:-3] + "y"
-    # Strip to a FIXED POINT. One pass stemmed "priests" to "priest" but
-    # "priest" to "pri" (the -est rule), and "kissed" to "kiss" but "kiss" to
-    # "kis"; the query and the index disagreed and the crosser-off reported
-    # priests and kissed as words no sign carried while priest and kiss were
-    # both taken. Over-stemming errs towards TAKEN, the safe direction.
-    while True:
-        for suf in SUFFIX:
-            if len(w) > len(suf) + 2 and w.endswith(suf):
-                w = w[: -len(suf)]
-                break
-        else:
-            return w
+    for suf in SUFFIX:
+        if len(w) > len(suf) + 2 and w.endswith(suf):
+            return w[: -len(suf)]
+    return w
 
 
 def build():
