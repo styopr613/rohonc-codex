@@ -2537,5 +2537,149 @@
   "tier": "A",
   "n": 2,
   "evidence": "their water entry (520060050040) lists 5203d5 at 176r06 and 08"
+ },
+ "520244081ae0": {
+  "gloss": "leper",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their leper entry lists 520244081ae0 at 179v03"
+ },
+ "531b7b": {
+  "gloss": "not_believe",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their believe entry lists 531b7b as the negated form at 188v01 and 223r07"
+ },
+ "5209a8520": {
+  "gloss": "will",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their will entry (5209a3520 (2)) lists 5209a8520 at 197r05"
+ },
+ "a13060520882": {
+  "gloss": "vineyard",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their vineyard, garden entry lists a13060520882 at 199v03 and 05"
+ },
+ "540060540881": {
+  "gloss": "vineyard",
+  "tier": "B",
+  "n": 2,
+  "evidence": "their vineyard, garden entry lists '? 540060540881 200v05, 06'. Their question mark"
+ },
+ "5401525201f5": {
+  "gloss": "find",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their find entry (5201525201f5) lists 5401525201f5 at 094r10, 010v09 and 013r02"
+ },
+ "540ae0060540ae0": {
+  "gloss": "Adam",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Adam entry lists 540ae0060540ae0 at 001v03"
+ },
+ "5200f6ae0": {
+  "gloss": "Adam",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Adam entry lists 5200f6ae0 at 001v06"
+ },
+ "540060060540060ae006054060b": {
+  "gloss": "Adam_and_Eve",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their dictionary gives this word its own entry at 007r08 and spells out what it is: 'aggregatum: 060060 + 540060540ae0 + 54060b', their two, their Adam and their Eve written as one word"
+ },
+ "5402205401c44a0": {
+  "gloss": "sword",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their sword entry lists 5402205401c44a0 at 007r11"
+ },
+ "70a520540ae0": {
+  "gloss": "seed",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their entry '(?) branch or seedling or seed (maybe fruit or oil)' lists 70a520540ae0 at 006r09. Their question mark and their four-way gloss"
+ },
+ "5209a3ae0": {
+  "gloss": "will",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their will entry lists 5209a3ae0 at 005r09 and 066r03"
+ },
+ "531320": {
+  "gloss": "not_damned",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their be damned entry (520320) lists 531320 as the negation at 005v09"
+ },
+ "afa060812": {
+  "gloss": "Joachim",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Saint Joachim entry (the father of the Virgin Mary) lists afa060812 at 016v11"
+ },
+ "5203f3990": {
+  "gloss": "whose",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their relative pronoun entry lists 5203f3990 at 017r08, glossed 'to whom or whose'"
+ },
+ "a7e": {
+  "gloss": "feast",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their feast, holiday entry ends '?? = a7e 018r05'. Two question marks of theirs"
+ },
+ "5401a1670": {
+  "gloss": "sky",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their sky, heaven entry lists 5401a1670 at 018r06"
+ },
+ "4a7514": {
+  "gloss": "pour_out",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their entry 4a7212 gives '4a7514 018v06 send forth, pour out'"
+ },
+ "152520323afe": {
+  "gloss": "very_old",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their entry for the epithet of Saint Joseph, '? very old', lists 152520323afe at 019r07"
+ },
+ "5201a1520414": {
+  "gloss": "barn",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their barn entry lists 5201a1520414 at 020v09"
+ },
+ "5202d7520": {
+  "gloss": "preach",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their preach, teach entry lists 5202d7520 at 022r10"
+ },
+ "520536ae0": {
+  "gloss": "resurrect",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their resurrect entry lists 520536ae0 at 022r11"
+ },
+ "520793": {
+  "gloss": "water",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their water entry lists 520793 at 022v01, the line where the water is changed to wine"
+ },
+ "a80": {
+  "gloss": "half",
+  "tier": "C",
+  "n": 3,
+  "evidence": "two of their entries name this sign and they disagree. Their half, middle entry (a81) gives '[var. a80 188r06] half, middle'; their privative-prefix entry gives a80 only inside a80520b7a 'heretic or apostate'. Half is what 141v:9 and 142r:6 will take, in the life of the woman who fasts, and nothing settles it"
  }
 }
