@@ -557,8 +557,7 @@ def main():
           "was read as Enoch" in flat and "father son" in flat
           and "ktlook.py --cite" in flat and "Saint Augustine the church father" in flat)
     check("ROHONC: Emmaus run translated and Cleopas named",
-          "194
-folios are translated" in doc and "names Cleopas" in flat
+          "194\nfolios are translated" in doc and "names Cleopas" in flat
           and "of sin, and of righteousness, and of" in flat
           and "child on the seashore" in flat
           and "sign for sign and in order" in flat

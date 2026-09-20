@@ -40,7 +40,9 @@ def live():
 
 
 def sub(text, pattern, repl, name, changes):
-    new, n = re.subn(pattern, repl, text)
+    # A function replacement: re.sub would otherwise turn the '\\n' inside a
+    # replacement into a real newline, which broke check_rohonc.py once.
+    new, n = re.subn(pattern, lambda m: repl, text)
     if n == 0:
         print(f"  MISSING anchor for {name}: {pattern}")
     elif new != text:
