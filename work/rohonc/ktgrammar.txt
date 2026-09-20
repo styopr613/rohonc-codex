@@ -1,7 +1,3 @@
-NOTE: this is the gate run. The sense-kind breakdown added to ktgrammar.py
-afterwards has not been rerun and saved yet.
-
-/home/ubuntu/voynich/harness
 ======================================================================
 ARE A CODE'S SENSES SEPARATED BY CONTEXT?
 ======================================================================
@@ -16,6 +12,23 @@ codes with 20+ occurrences:  87 multi-sense, 50 single-sense
   On this evidence the senses are not separated by context, and
   no amount of context modelling will choose between them.
 
+======================================================================
+WHY: MOST MULTI-SENSE ENTRIES ARE NOT AMBIGUOUS
+======================================================================
+  every sense shares a stem    10 codes      46 tokens    0.5%
+  some do                      40 codes    2928 tokens   30.8%
+  none do                     251 codes    6520 tokens   68.7%
+
+  one concept, several English forms:
+  no shared stem (a lower bound counts these as ambiguous,
+  though fire/flame and Word/gospel are plainly one concept):
+      34  beg, pray, prayer, read, the Glorified <a name of the re
+     181  second, the others, the rest, two
+     278  boy, son
+     306  all, whole, each, every, wholly, completely
+      35  command, commandment, forbid, juridical, peace
+      32  glory, thanks
+
   most contextually split multi-sense codes:
       21 occ  2 senses  31.8%  Word, gospel
       25 occ  3 senses  25.6%  <concessive coordinating conjunction>, but, however,
@@ -29,5 +42,3 @@ codes with 20+ occurrences:  87 multi-sense, 50 single-sense
       23 occ  2 senses  19.9%  Sunday, week
       30 occ  3 senses  19.9%  fortune, rich, riches
       32 occ  2 senses  19.8%  glory, thanks
-
-[exited with code 0]

@@ -398,6 +398,35 @@ def main():
           "Not 77.6%" in flat and "located, not translated" in flat
           and "The grammar will" in flat)
 
+    # --- sense choice and grammar abstraction, both failed
+    kq = out("ktsense.txt")
+    g = nums(kq, "picked from real context", 1)
+    check("sense gate 39.9%", bool(g) and close(g[0], 39.9, .02) and "39.9%" in flat, str(g))
+    g = nums(kq, "sigma above the control", 1)
+    check("sense gate 22.8 sigma",
+          bool(g) and close(g[0], 22.8, .02) and "22.8 sigma" in flat, str(g))
+    g = nums(kq, "ratio", 1)
+    check("own senses 2.50x closer",
+          bool(g) and close(g[0], 2.50, .02) and "2.50 times" in flat, str(g))
+    check("sense gate recorded as a fail", "SIGNAL bar" in kq and "FAIL" in kq)
+    kg = out("ktgrammar.txt")
+    g = nums(kg, "variance explained, multi-sense codes", 1)
+    check("grammar multi-sense 15.7%",
+          bool(g) and close(g[0], 15.7, .02) and "15.7%" in flat, str(g))
+    g = nums(kg, "variance explained, matched single-sense", 2)
+    check("grammar single-sense 16.2%",
+          bool(g) and close(g[0], 16.2, .02) and "16.2%" in flat, str(g))
+    g = nums(kg, "ratio", 2)
+    check("grammar 0.97x at -1.2 sigma",
+          len(g) == 2 and close(g[0], 0.97, .02) and close(g[1], -1.2, .05)
+          and "0.97" in flat and "-1.2" in flat, str(g))
+    g = nums(kg, "none do", 3)
+    check("stem test 68.7% share no stem",
+          len(g) == 3 and close(g[2], 68.7, .02) and "68.7%" in flat, str(g))
+    check("the overstatement is corrected, not quietly dropped",
+          "does not support it" in flat and "the instrument is wrong" in flat
+          and "has not been shown" in flat)
+
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 

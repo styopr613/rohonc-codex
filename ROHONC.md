@@ -711,6 +711,65 @@ work will not fix that. The grammar will.
 
 Code: `ktcoverage.py`. Saved run: `work/rohonc/ktcoverage.txt`.
 
+## Can the sense be chosen, and can the grammar be abstracted?
+
+Two more gates, both failed, and the second failure is the informative one.
+
+**Choosing a sense from context.** Token-weighted, the average word in the
+book offers 4.75 senses. `ktsense.py` scores each candidate against the words
+around it using pointwise mutual information over the 1,746,498-word reference
+corpus, then hides the sense of the 485 codes that carry only one and asks the
+method to pick it out of five. Bar set before the run: 40% against 20% chance,
+and 5 sigma. Result: **39.9%, at 22.8 sigma.** The signal is unmistakable and
+the bar is missed by half a point. **Fail**, and not moved.
+
+Two things make that worse than it looks. The judge is a bag of word
+associations, which is crude. And the gate is easier than the real job: a
+code's own senses sit **2.50 times** closer to each other than random senses
+do, so 39.9% is an optimistic ceiling rather than a floor.
+
+An earlier version of that script was not deterministic. K&T's gloss values
+are sets, iterating a set of strings varies between processes, and the verdict
+moved across the bar between runs. Every sense set is now sorted and three
+hash seeds give 39.9% exactly. A gate that cannot reproduce is not a gate.
+
+**Is there anything there to choose?** If a code's senses are not conditioned
+by context, no better chooser can exist and the question is closed. For codes
+with 20 or more occurrences, `ktgrammar.py` splits each code's occurrences in
+two by context and measures the variance explained. Multi-sense codes explain
+15.7%. Single-sense codes matched on frequency explain **16.2%**. Ratio 0.97,
+sigma **-1.2**, against a bar of 1.15 and 5 sigma. **Fail**, decisively and in
+the wrong direction.
+
+**What that does and does not license saying.** The obvious reading is that
+K&T's multiple senses are mostly not ambiguity at all but one concept written
+in whatever English part of speech the sentence needed, which would mean the
+66.0% figure overstates the problem badly. The codes that split best look
+exactly like that: *Creator, create, creation, creature*; *book, scripture,
+write*; *debt, debtor, indebted*; *place, put*; *fire, flame*; *Word, gospel*.
+
+That reading was tested and the test does not support it. Counting codes whose
+senses share a word stem gives 0.5% of multi-sense tokens where every sense
+shares one and **68.7% where none do**. On its face that says the senses are
+genuinely distinct.
+
+But the instrument is wrong, and the same run shows it. Every one of the
+non-sharing examples it prints is a set of near-synonyms: *boy, son*; *second,
+the others, the rest, two*; *all, whole, each, every, wholly, completely*;
+*beg, pray, prayer*. English synonyms almost never share a stem, so a stem
+test cannot see synonymy, and 68.7% is measuring the English wordlist rather
+than the Rohonc word. The similarity measure in `ktsense.py` is the better
+instrument and points the other way at 2.50 times.
+
+So the honest state is that the 66.0% is probably too pessimistic and it has
+not been shown. What would settle it is a semantic measure rather than a
+lexical one, applied to every multi-sense entry. That has not been run, and
+until it has, 11.5% stands as the translated figure and 66.0% as the located
+one.
+
+Code: `ktsense.py`, `ktgrammar.py`. Saved runs: `work/rohonc/ktsense.txt`,
+`work/rohonc/ktgrammar.txt`.
+
 ## A third transcription from the scans: negative
 
 The pipeline splits each scanned opening at the gutter, finds the lit page
@@ -761,6 +820,8 @@ repository staff; with it, this would probably be feasible.
     python ktname.py          # the twelfth, name-final compounds
     python ktsegment.py       # the thirteenth, cutting codes into codes
     python ktcoverage.py      # how much can be read, and how much is translated
+    python ktsense.py         # can context choose a sense (fails by half a point)
+    python ktgrammar.py       # are the senses separable at all (no)
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 

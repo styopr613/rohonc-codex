@@ -13,7 +13,15 @@ CAN CONTEXT CHOOSE THE RIGHT SENSE?
 
   SIGNAL bar  >= 40% and 5.0 sigma  ->  FAIL
   USABLE bar  >= 75%                 ->  FAIL
-pairs of senses BELONGING TO THE SAME CODE   mean similarity 0.523  n=54946
-a sense against a random other sense         mean similarity 0.126  n=32737
-ratio 4.15x
-same-code sense pairs that share a stem outright: 9.0%
+
+======================================================================
+IS THE REAL TASK HARDER THAN THE GATE?
+======================================================================
+  senses of the SAME code, mean similarity   0.523
+  a sense against a random sense             0.209
+  ratio                                       2.50x
+  same-code sense pairs sharing a stem         9.0%
+
+  A code's own senses are several times closer to each other than
+  random senses are, so choosing between them is harder than the
+  gate above. 39.9% is an optimistic ceiling, not a floor.
