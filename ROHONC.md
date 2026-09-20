@@ -954,14 +954,19 @@ until they are asked.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 125
+With the rendering on the page it became possible to read it, and 131
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
 gnashing of teeth, asking in his name, *whose son is he*, *he that believeth
 and is baptized shall be saved*, the great commandment, and at 068v:12 the
 three that the Spirit reproves, **of sin, and of righteousness, and of
-judgment**, in the gospel's order and counted with the codex's own ordinals. The codex **names Cleopas** at 061r:6, which is Luke
+judgment**, in the gospel's order and counted with the codex's own ordinals.
+The run continues through the vine and the branches, the branch cast into the
+fire, and at 071v the woman in travail who forgets her anguish for joy that a
+son is born, John 16:21. **It also repeats itself**: the Pauline passage at
+068r comes round again almost word for word at 070v-071r, which is what a
+preaching or lectionary collection does and a continuous narrative does not. The codex **names Cleopas** at 061r:6, which is Luke
 24:18. The Emmaus stretch
 breaks off mid-journey into Abraham and Isaac. The typology there is the
 standard one and the codex states it outright at 062v:2-3: **as Abraham gave

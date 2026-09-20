@@ -4776,3 +4776,237 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > come, he will reprove the world of sin, and of righteousness, and of
 > judgment.* Line 12 has the three in the gospel's order, counted with the
 > codex's own ordinals.
+
+## 069r — the Spirit, the tongues, and the signs
+
+**1**  And then this Holy Spirit goes to you, from the Spirit
+`and then-exist you go this holy-spirit from-spirit`
+
+**2**  through it you receive […] every good thing, and there are
+`through grab you [?] each,_every good and exist`
+
+**3**  apostles […] who lift up tongues […] […] you shall have many
+`apostle [?] who-go_up language [?] [?] you exist many`
+
+**4**  miracles […] which the mouth speaks in the Old Testament word, and it lives
+`miracle [?] which-mouth exist inside <pertaining_to_the_Old_Testament> word and living exist`
+
+**5**  goes before […] […] […] the day of judgment
+`go before [?] [?]-[?] [?] judge-+day`
+
+**6**  because there are many miracles afterwards. Here ends this holy gospel.
+`because-exist many miracle ?afterward end this holy-gospel`
+
+**7**  Here begins this holy gospel
+`begins this holy-gospel`
+
+**8**  written by holy Luke, in the tenth
+`write holy-Luke inside | ten`
+
+**9**  the last chapter of his writing. Said
+`?the_last chapter <preposition_of_genitive>-write say`
+
+**10**  Lord Jesus to his apostles, at
+`Lord-Jézus apostle <preposition_of_genitive>-Lord | on`
+
+**11**  the last supper, this Lord […] his Father
+`last dinner this-Lord [?] father-<suffix_of_divine_name> <preposition_of_genitive>-Lord +<subject_marker>`
+
+> Acts 2, the tongues and the signs, joined to the promise of the Spirit at
+> the supper.
+
+## 069v — I am the vine, ye are the branches
+
+**1**  the vineyard; in turn you are the branches, and
+`farm in_turn you vine_branch and go`
+
+**2**  the Father, the Lord's vineyard, the angel […] this […]
+`father-<suffix_of_divine_name> <preposition_of_genitive>-Lord farm angel [?] this | [?]`
+
+**3**  […] and without a name […] […]
+`[?] and without-+name [?] | [?]`
+
+**4**  […] he takes this and cuts it off, and […] out
+`[?] grab this cut_off and [?] out(ward)`
+
+**5**  onto the way […] and then Lord Jesus, and the man who is
+`on-~way [?] +and_then Lord-Jézus and somebody exist`
+
+**6**  within the Lord, carried by the Lord, stays; and this Lord is
+`inside Lord-[?]-~carry-Lord stay and this-Lord exist`
+
+**7**  within […]. And then Lord Jesus, to his apostles, O
+`inside [?] +and_then Lord-Jézus apostle <preposition_of_genitive>-Lord oh`
+
+**8**  the Lord's son, this law and love the Lord carries; can the apostles […]
+`Lord son this +law-love-~carry-Lord can apostle [?]`
+
+**9**  understand what this Lord […] to you, speaking
+`understand who this-Lord you [?] | speak`
+
+**10**  Lord; and the man who is in the Lord's commandment of love, the man carries, from
+`Lord and somebody exist <preposition_of_genitive>-Lord commandment-love carry-somebody from`
+
+**11**  the man who is within the Lord's law […] stays, and this Lord
+`somebody exist inside Lord-+law-[?] stay and this-Lord`
+
+> John 15:1–5. *I am the true vine, and my Father is the husbandman... ye are
+> the branches... abide in me.* The vineyard is the codex's word for the
+> husbandman's ground, and the cutting off on line 4 is John 15:2.
+
+## 070r — the branch that beareth not is cast into the fire
+
+**1**  the Lord is within […]; Lord Jesus said, who afterwards
+`exist-Lord inside [?] say Lord-Jézus who ?afterward`
+
+**2**  to his Father, this […] […] is good
+`to-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord this [?] [?] exist | good`
+
+**3**  […] takes this and that […] […] from the Father
+`[?] grab this-and-this [?] [?] from-father-<suffix_of_divine_name>`
+
+**4**  of the Lord, upon whom every […] carries; and the Lord's Father goes
+`<preposition_of_genitive>-Lord who-chapter each,_every [?] carry and go father <preposition_of_genitive>-Lord`
+
+**5**  two evil vineyards, and this in turn what […]
+`two evil farm and this in_turn-what [?]`
+
+**6**  takes the evil vineyard, and […] to the evil
+`grab evil farm and +<subject_marker> [?] on-~evil`
+
+**7**  […] there is seen the gnashing of teeth and crying, for
+`[?] there exist see grinding tooth crying chapter-oh`
+
+**8**  ever. And then Lord Jesus, he is from his Father
+`chapter-oh +and_then Lord-Jézus ?he_is from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord`
+
+**9**  the Lord loves, and this Lord loves you; and Lord Jesus said, O
+`Lord love and this-Lord you love and say Lord-Jézus oh`
+
+**10**  the Lord's son, and you love, because the apostles are in love
+`<preposition_of_genitive>-Lord son and you love because-exist apostle inside-love`
+
+> John 15:6, *if a man abide not in me, he is cast forth as a branch... and
+> men gather them, and cast them into the fire*, with the codex's own
+> gnashing of teeth attached, then John 15:9, *as the Father hath loved me,
+> so have I loved you.*
+
+## 070v — ask in my name, and Paul's three askings again
+
+**1**  in the commandment you are, the Lord's ten laws of love the apostles carry
+`inside commandment you exist <preposition_of_genitive>-Lord +law-love-ten carry-apostle`
+
+**2**  Lord Jesus said, and the man who carries […] […]
+`say Lord-Jézus and somebody exist carry [?] [?]`
+
+**3**  […] you first […] love the Lord, whatsoever it is
+`[?] you first [?] Lord love whatever | ?is_he`
+
+**4**  ye shall ask of the Father, of the Lord's Father, in
+`exist ~ask_(for) from-father-<suffix_of_divine_name> from <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> inside`
+
+**5**  the Lord's name, ye shall all receive it saved.
+`<preposition_of_genitive>-Lord +name each,_every you be_saved grab`
+
+**6**  Here ends this holy gospel. […] the man has, he asks
+`end this holy-gospel [?] have somebody ask_(for)`
+
+**7**  in Jesus' name he is saved, speaks holy Paul the apostle
+`inside-Jézus +name +be_saved speak holy-Paul apostle`
+
+**8**  this word; Paul's own; whosoever Paul
+`this word exist-exist <preposition_of_genitive>-Paul have ?whosoever-Paul`
+
+**9**  asks in Jesus' name; three things Paul the man asks
+`ask_(for) inside-Jézus +name +three ask_(for) somebody-Paul`
+
+**10**  if Paul the man would be saved, first he asks
+`if want somebody-Paul +be_saved first ask_(for)`
+
+> The ten commandments of love on line 1, then John 14:13 again, then the
+> **same Paul passage as 068r, repeated almost word for word**. The codex
+> reuses whole pericopes, which is what a preaching or lectionary collection
+> does rather than a continuous narrative.
+
+## 071r — the great commandment, repeated
+
+**1**  Paul the man: love the Lord most high, literally with all the heart, and every man as
+`somebody Paul love Lord-<suffix_of_divine_name> from literal each,_every +heart and each,_every somebody | how?`
+
+**2**  the neighbour […] and the man shall be saved.
+`to +neighbour [?] and exist somebody +be_saved`
+
+**3**  In turn the second Paul the man has, he asks, in his […] and
+`in_turn-two have somebody Paul ask_(for) inside <preposition_of_genitive>-Lord | and`
+
+**4**  was named […] believe; Paul the man asks
+`?was_named [?] believe ask_(for) somebody Paul`
+
+**5**  of Lord Jesus, in the Lord's name. The third he has,
+`from Lord-Jézus inside <preposition_of_genitive>-Lord +name +third have`
+
+**6**  Paul the man asks in the Lord's name, saved
+`somebody Paul ask_(for) inside <preposition_of_genitive>-Lord +name +be_saved`
+
+**7**  by Lord Jesus, in the Lord's name; and
+`from Lord-Jézus inside <preposition_of_genitive>-Lord +name and exist`
+
+**8**  the man shall be saved. Here ends this apostle's holy gospel […]
+`somebody +be_saved end this apostle holy-gospel [?]`
+
+**9**  Here begins this holy gospel, written by
+`begins this holy-gospel write`
+
+**10**  holy Luke, in […] of
+`holy-Luke inside [?] | <preposition_of_genitive>`
+
+**11**  his writing. Lord Jesus said to his apostles
+`write say Lord-Jézus apostle <preposition_of_genitive>-Lord`
+
+**12**  at the last supper: you shall be driven out
+`on-last dinner you | chase`
+
+> The second copy of the great commandment, running straight on from 070v.
+
+## 071v — a woman when she is in travail hath sorrow
+
+**1**  cast out, for hearing; how one […] every
+`+say out(ward) on-hear how? one [?] each,_every`
+
+**2**  for the Lord's name. And then you
+`to-<preposition_of_genitive>-Lord +name and then-exist you`
+
+**3**  they will drive out, the apostles say; this is it: out, he who, apostle by apostle,
+`chase want apostle say +this_is ~out(ward) ?he_who apostle-apostle`
+
+**4**  Master […] and the Lord, the Jews put to death; and you
+`Master [?] and Lord Jew(ish) die and you`
+
+**5**  shall have much sorrow upon the Lord; in turn, one word,
+`exist many sad(ly) on-Lord have in_turn one +say-exist`
+
+**6**  joy […] your sorrow is […] until
+`joy [?] you sad(ly) exist [?] ~until`
+
+**7**  […] how; then one woman, the chief,
+`[?] how? then-exist one baptize head`
+
+**8**  a son is born […] she has no more; in turn, then
+`son be_born [?] many not-not have in_turn | then`
+
+**9**  the son is born, and of that comes joy over the son
+`exist be_born from-~exist on-son joy this-Peter`
+
+**10**  and your sorrow, in turn, joy; much sorrow
+`and ~you sad(ly) in_turn-+say joy want many sad(ly)`
+
+**11**  cast out, and […] in the year of judgment; in turn your sorrow, much
+`~out(ward) and [?] on-judge-year in_turn you sad(ly) many`
+
+**12**  joy cast out, and […] in the year of judgment. Here ends this holy gospel.
+`joy ~out(ward) and [?] on-judge-year end this holy-gospel`
+
+> John 16:2, *they shall put you out of the synagogues*, then John 16:21,
+> *a woman when she is in travail hath sorrow... but as soon as she is
+> delivered of the child, she remembereth no more the anguish, for joy that a
+> man is born into the world.* Lines 7–10 have the whole figure.
