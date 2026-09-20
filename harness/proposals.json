@@ -564,12 +564,6 @@
   "n": 15,
   "evidence": "only around Pilate and Herod judging: 'the Jews [condemned] the Lord; Pilate: the cross' 041r:6; 'Herod [condemned]' 041v:7, 041v:8, 043v:1"
  },
- "540": {
-  "gloss": "shall",
-  "tier": "C",
-  "n": 102,
-  "evidence": "Kiraly & Tokai gloss the doubled sign E540 E540 'want, will, auxiliary of future tense'. The single sign is not an entry but prefixes 48 word types the dictionary leaves undefined, in the position a future auxiliary takes. Read as a piece, not as a word: every host it unlocks is that host plus 'shall'"
- },
  "670ae0060788060270540": {
   "gloss": "the Red Sea",
   "tier": "B",
@@ -917,5 +911,17 @@
   "tier": "withdrawn",
   "n": 1,
   "evidence": "WITHDRAWN 2026-09-20. Read as ark from its single occurrence at 008r:4, where the Lord tells Noah to make one and the next line gives three hundred cubits. But as a bare piece it entered the cut of six other words, none of which is about an ark: to-not-chapter-ark on 062r:5 in the middle of Abraham and Isaac, ark-the-day on 151v:4, ark-day on 224v:9. One right token against six wrong ones. A wrong reading pollutes more than a gap does, so it is removed rather than kept."
+ },
+ "_withdrawn_540": {
+  "gloss": "shall",
+  "tier": "withdrawn",
+  "n": 4,
+  "evidence": "WITHDRAWN 2026-09-20. Its evidence was an inference, not a reading: Kiraly & Tokai gloss the DOUBLED sign as a future auxiliary, and the single sign was assumed to carry the same. It has only 4 occurrences of its own but entered the cut of 55 other words, 99 tokens, and most of those read as nonsense: shall-slide seven times, shall-day-one-daily four times, and at 063r:4 shall-day-today's where the word is plainly the daily bread of the Emmaus meal, the same word the codex uses in the Our Father. One cut was right, 540796 thou shalt die at 003r:6, and it is kept as a whole word. Where a rendering makes no sense it is more likely a wrong reading than a strange text."
+ },
+ "540796": {
+  "gloss": "thou shalt die",
+  "tier": "C",
+  "n": 2,
+  "evidence": "at 003r:6 and 122v:4, the identical sentence about the tree of good and evil: thou shalt surely die in the day thou eatest thereof, Genesis 2:17. Kept from the withdrawn 540 because this one cut is checkable against the verse"
  }
 }

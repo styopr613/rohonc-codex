@@ -211,7 +211,7 @@ def main():
 
     seg = {}
     inv = set(gl) | set(var) | set(prop)
-    for t in types:
+    for t in sorted(types):
         if t in gl:
             continue
         s = S.segment(t, defset)
@@ -221,7 +221,7 @@ def main():
         inv |= set(seg)
         while True:
             added = 0
-            for t in types:
+            for t in sorted(types):
                 if t in inv:
                     continue
                 s = S.segment(t, inv)

@@ -55,7 +55,7 @@ def load():
     types = {t for p in doc for t in p.tokens}
     while True:
         added = 0
-        for t in types:
+        for t in sorted(types):
             b = A.strip(t)[0]
             if b in inv:
                 continue

@@ -23,6 +23,7 @@ import ktcontext as X
 import ktcoverage as C
 import ktsegment as S
 import ktaffix as A
+import kttranslate as T
 
 
 def inventory():
@@ -79,6 +80,36 @@ def main(argv):
         if unk is None:
             continue
         words[unk].append((t, toks[t], ps))
+
+    if argv and argv[0] == "--audit":
+        # Blast radius. A reading of a short piece is not just itself: it
+        # enters the cut of every word that contains it, and if it is wrong
+        # it puts nonsense on all of them. A piece with few occurrences of
+        # its own but many words built on it is the shape that has been
+        # wrong twice here (570 ark, 540 shall), so this ranks by that.
+        import json
+        raw = json.load(open(T.PROPOSALS, encoding="utf-8"))
+        rows = []
+        for h, v in raw.items():
+            if h.startswith("_"):
+                continue
+            c = X.unhx(h)
+            ws = [t for t in seg if c in seg[t]]
+            fed = sum(toks[t] for t in ws)
+            own = toks.get(c, 0)
+            rows.append((fed / max(own, 1), own, len(ws), fed, h, v["gloss"], v["tier"]))
+        rows.sort(reverse=True)
+        print("readings ranked by blast radius: tokens they feed per token of their own")
+        print(f"{'ratio':>7s} {'own':>5s} {'words':>6s} {'fed':>5s}  tier  sign / reading")
+        for r, own, nw, fed, h, g, tier in rows:
+            if fed == 0:
+                continue
+            print(f"{r:7.1f} {own:5d} {nw:6d} {fed:5d}  {tier:4s}  {h:24s} {g}")
+        print("\nAudit from the top: print the words each one feeds and read them.")
+        print("Where a cut makes no sense it is far more likely a wrong reading")
+        print("than a strange text. Withdraw rather than keep; a wrong reading")
+        print("pollutes more than a gap does.")
+        return 0
 
     if argv:
         for h in argv:

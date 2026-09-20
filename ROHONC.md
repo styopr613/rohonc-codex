@@ -1023,7 +1023,7 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 153 signs are read
+in the book and keep it only if it survives all of them. 152 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
 decisive occurrences, graded A, B, C or D. 26 are tier A. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
@@ -1031,7 +1031,7 @@ composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **59.5%**.
+lines where every word is read from 23.8% to **57.9%**.
 
 Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
 into pieces Kiraly and Tokai define; it was never given their own variant
@@ -1069,6 +1069,39 @@ place and say so, and the shared root now reads the same way, which closed
 ten further words. The gloss read as *mercy* is better read as *the tree of
 mercy*: Kiraly and Tokai's own word for tree shares its stem, and it is what
 Seth is sent to Paradise for.
+
+**Where the rendering makes no sense, suspect the reading.** A sign read as
+a short PIECE is not only itself: it enters the cut of every word that
+contains it, so a wrong one puts nonsense on all of them at once.
+`harness/ktresidue.py --audit` ranks every reading by that blast radius, the
+tokens it feeds per token of its own, and the top of that list is where to
+look. Two readings failed the audit and are **withdrawn**, with the entries
+kept in `proposals.json` marked as withdrawn rather than deleted:
+
+    570 = ark      1 occurrence of its own, fed 6 words. Read from Noah being
+                   told to make one, with three hundred cubits on the next
+                   line, but it produced to-not-chapter-ark in the middle of
+                   Abraham and Isaac. One right token against six wrong.
+    540 = shall    4 of its own, fed 55 words and 99 tokens. Its evidence was
+                   an inference rather than a reading: Kiraly and Tokai gloss
+                   the DOUBLED sign as a future auxiliary and the single sign
+                   was assumed to match. It gave shall-slide seven times and,
+                   at 063r:4, shall-day-today's for what is plainly the daily
+                   bread of the Emmaus meal. One cut was right and is kept as
+                   a whole word, 540796, thou shalt die, Genesis 2:17.
+
+Withdrawing them cost 1.6 points of fully-read lines, 59.5% down to 57.9%,
+and that is the honest direction. A wrong reading pollutes more than a gap
+does. The same audit cleared *day*, *one*, *say*, *name*, *baptize*, *king*
+and *as*, whose cuts do read.
+
+**The rendered page was not reproducible, and now is.** The loop that extends
+the segmentation iterated over a set, so which word entered the inventory
+first varied between runs and changed the cuts downstream. Two runs of
+`kttranslate.py` differed on **224 lines** of the rendered page. The coverage
+total was stable, which is why it went unnoticed, but the text a reader sees
+was not. The loop is sorted now and three runs under different hash seeds are
+byte-identical.
 
 **Read the pieces, not the words.** Most unread words are compounds: a run of
 pieces already readable plus one piece that is not. `harness/ktresidue.py`

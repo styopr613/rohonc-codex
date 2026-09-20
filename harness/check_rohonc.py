@@ -523,10 +523,10 @@ def main():
 
     g = nums(kt, "proposed here", 2)
     check("proposals: 2283 tokens = 7.6% rendered",
-          len(g) == 2 and g[0] == 2320 and close(g[1], 7.7, .02), str(g))
+          len(g) == 2 and g[0] == 2318 and close(g[1], 7.7, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
     check("proposals: 2540 lines fully read with them",
-          len(g) == 2 and g[0] == 2601 and close(g[1], 59.5, .02), str(g))
+          len(g) == 2 and g[0] == 2530 and close(g[1], 57.9, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -534,8 +534,8 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "153 signs are read" in flat
-          and "23.8% to **59.5%**" in flat)
+          "METHOD.md" in flat and "152 signs are read" in flat
+          and "23.8% to **57.9%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)
@@ -552,6 +552,14 @@ def main():
     check("ROHONC: my own wrong readings are corrected in place",
           "Two of my own readings corrected" in flat
           and "as the scripture saith" in flat and "the tree of mercy" in flat)
+
+    check("ROHONC: two readings withdrawn by the blast-radius audit",
+          "blast radius" in flat and "570 = ark" in flat and "540 = shall" in flat
+          and "59.5% down to 57.9%" in flat
+          and "pollutes more than a gap" in flat)
+
+    check("ROHONC: the rendering is reproducible again",
+          "224 lines" in flat and "byte-identical" in flat)
 
     check("ROHONC: the residue engine ranks blocking pieces",
           "ktresidue.py" in flat and "896 distinct pieces" in flat)

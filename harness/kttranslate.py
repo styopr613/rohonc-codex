@@ -252,13 +252,19 @@ def main():
     # readable as one made of theirs. Cutting with the full inventory, and
     # repeating until nothing new appears, costs no guess at all: every part
     # was already read on its own evidence.
+    #
+    # Iterate in SORTED order. This loop was iterating a set, so which word
+    # entered the inventory first varied between runs and changed the cuts
+    # downstream: two runs of this file differed on 224 lines of the rendered
+    # page. The coverage total happened to be stable, which is why it went
+    # unnoticed, but the text a reader sees was not reproducible.
     prop = load_proposals()
     prop_ref.update(prop)
     inv = set(gl) | set(seg) | set(var) | set(prop)
     xseg = dict(seg)
     while True:
         added = 0
-        for t in types_all:
+        for t in sorted(types_all):
             b = A.strip(t)[0]
             if b in inv:
                 continue
