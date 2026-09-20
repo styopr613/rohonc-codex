@@ -473,6 +473,20 @@ def main():
           os.path.exists(tr) and "virgin-girl this-Mary" in open(tr, encoding="utf-8").read()
           and "virgin-girl this-Mary" in flat)
 
+    tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
+    md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
+    check("translation: the file exists and covers 59 folios",
+          md.count("\n## 0") + md.count("\n## 1") == 59, str(md.count("\n## 0")))
+    check("translation: the book is identified, with its sources named",
+          "Life of Adam and Eve" in md and "Legend of the Rood" in md
+          and "Saint Matthew and Saint John" in md and "Elijah" in md)
+    check("ROHONC: what the book says, and the honesty clause",
+          "Life of Adam and Eve" in flat and "Whom seek ye" in flat
+          and "one to two right in six" in flat)
+    check("ROHONC: the four numeral checks are stated",
+          "six-two` is eight" in doc and "six-six` is twelve" in doc
+          and "forty days of rain" in flat)
+
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 

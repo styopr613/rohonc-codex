@@ -1,64 +1,65 @@
-# NEXT — Rohonc translation (handoff, 2026-09-20 night)
+# NEXT — Rohonc translation (updated 2026-09-20)
 
-## The job
+## Where it stands
 
-**Translate the book.** Line by line, into English sentences. The user has
-asked for this repeatedly and does not want more measurement, more gates or
-more proposals first. Start translating in the first turn of the next
-session. Do not ask whether to begin.
+**59 of 441 folios are translated**, in
+`work/rohonc/translation/rohonc_translation.md` — 674 lines of the codex,
+English first with the gloss underneath so every choice can be checked.
 
-## What exists
+Done, in Kiraly & Tokai's page order:
 
-- `work/rohonc/translation/rohonc_reading.txt` — the whole book, 441 pages,
-  4,372 lines, every word glossed in K&T's page order. First sense only.
-- `work/rohonc/translation/rohonc_reading_full.txt` — same, every sense,
-  glyph codes for unread words. **Translate from this one.**
-- Marks: `word/word` several senses, theirs first; `word-word` a composed
-  code; `~word` a declared variant; `[?xxx]` unread; `|` a gap.
-- Coverage 78.8%. 11.3% single-sense, 47% several senses, 19.2% composed,
-  1.2% declared variants, 21.2% unread. 975 lines fully glossed.
-- Context cannot choose senses (ktsense 39.9%, ktgrammar 0.97x). A reader
-  has to. That reader is the model, and its blind record is 1–2 of 6.
+    004v 004r 002r 002v 003r 003v 001r 001v   the Life of Adam and Eve
+    007r 007v 006r 006v 008r 008v 005r 005v   Eden to Abraham
+    015r 015v 016r 016v 017r 017v 018r 018v   David, Joachim and Anne, the Annunciation
+    019r 019v 020r 020v 021r 021v             the Nativity and the flight into Egypt
+    022r 022v 023r 023v 024r 024v 025r 025v   Egypt, the numbered signs, Tabor, the baptism
+    026r 026v 027r 027v 028r 028v 029r 029v   the confessions and the Last Supper
+    030r 030v 031r 031v 032r 032v             the washing, the Eucharist, the betrayal
+    033r 033v 034r 034v 035r 035v             Gethsemane and the arrest
+    137v                                      the Marian prayer K&T published
 
-## How to do it
+## Resume at 036r
 
-1. Write to `work/rohonc/translation/rohonc_translation.md`. One section per
-   folio, in K&T's page order. For each line: the gloss line, then the
-   English below it. Keep the two together so anyone can check.
-2. **Start with folio 137v** — the page K&T published a reading for — then
-   the opening folios 004v, 004r, 002r, and onward in page order.
-3. Choose one sense per word. Supply articles, tense, word order. Mark every
-   real guess with `(?)`. Render an unread word as `[…]` and, where context
-   makes it obvious, a guess in brackets: `[the serpent?]`.
-4. When an unread code gets the same guess in three or more places, note it
-   in a table at the top: code, guess, folios. That is the K&T method and
-   it is how the dictionary grows. Do not add it to the dictionary; list it.
-5. Batch by ~20 folios per turn. Commit after each batch. Keep the report
-   to the user short: which folios, what they seem to be about, what was
-   guessed.
-6. Do not run any new gate before translating. If a gate is wanted later
-   for the new-word guesses, it is: does the guess hold at every occurrence.
+Next in page order: **036r 036v 037r 038r 038v 039r 039v 040r 040v 041r ...**
+(there is no 037v in the transcription). The Passion is in progress and runs
+on from the arrest. Keep going in page order to the end.
+
+## How
+
+1. `harness/page.sh 036r 036v 037r ...` prints the full-sense gloss for those
+   folios. `work/rohonc/translation/rohonc_reading.txt` is the one-sense
+   version and is easier to read; use the full one when a sense choice
+   matters.
+2. Append to `rohonc_translation.md` in the established format: `**n**` then
+   the English, then the gloss in a code span on the next line. Keep the
+   quoted-note blocks where a line matches a named chapter and verse.
+3. Six to eight folios per batch, then commit. Do not stop to run gates.
+4. `harness/check_rohonc.py` has a check on the folio count in the
+   translation file — update the number when you extend it, or it fails.
+
+## What has been found so far
+
+The book is the **Life of Adam and Eve** (the apocryphal one, not Genesis),
+then the Legend of the Rood, Noah, Abraham, the Protevangelium's Joachim and
+Anne, the Nativity, and from 029r a Passion the codex says it takes from
+Saint Matthew and Saint John. The frame is an angel revealing it all to
+**Elijah the prophet**.
+
+Numerals: parts add, and a `ten` after a group multiplies by ten. Confirmed
+four times against a number the source supplies (forty days and forty nights,
+forty days of rain, the eighth day, the twelve apostles).
+
+Grammar: the list marker in front of a numeral makes an ordinal, which is how
+the book numbers the signs of Christ first to eleventh.
+
+Unread words guessed from context are tabled at the top of the translation
+file. `EAE0` (217 occurrences) is almost certainly **day**.
 
 ## Ground rules still in force
 
 - No subagents. Plain English to the user. Never `rm` a glob. Backups
   `.pre`/`.post`. Fetch at 1.5 s if fetching.
-- Credit K&T for the dictionary and the grammar. Private for now.
+- Credit K&T for the dictionary and the grammar. The translation is ours;
+  the glosses are theirs. Private for now.
 - `harness/check_rohonc.py`, `gate.py`, `check_results.py` must stay green
   after any edit to the documents.
-
-## First pass at 137v, from the full gloss (not yet written to the file)
-
-    1  Hail, Virgin, through holy Mary, mother of God [?] [?]
-    2  Queen Mary, [?] lady [?] [?] | you
-    3  Mary, the one and only virgin maiden; you, Mary, conceived Jesus without [sin?]
-    4  Born of Mary [?], and from the Lord the Redeemer, in the Lord | this [author]
-    5  We do not doubt, [author], we [?] | this [author]
-    6  We pray you, Mary, [?] | of [author]
-    7  We, when it is [?], the soul is forgiven | of [author]
-    8  We are, chapter, amen. This prayer must be.
-    9  [?] have mercy, Hail Mary, [?] have mercy [?] | Lord
-
-K&T's published reading of line 3 is "sin, without, Jesus, conceive,
-you-Mary" — matches. The right-margin column (`| this-author`, `| of-author`)
-is a colophon: the author's name sign repeated down the side.

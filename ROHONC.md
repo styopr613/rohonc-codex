@@ -855,6 +855,53 @@ Output: `work/rohonc/translation/rohonc_reading.txt` (first sense only) and
 are built from their dictionary and stay private with the rest of the work
 until they are asked.
 
+## What the book says
+
+With the rendering on the page it became possible to read it, and the first
+59 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
+The content was not what this project assumed. It is not a gospel harmony.
+
+The opening is the **Life of Adam and Eve**, the apocryphal one and not
+Genesis, because the episode that distinguishes it is there: God commands the
+angels to bow to Adam, and Lucifer refuses and falls. Then the expulsion, the
+flaming sword, Cain, Abel and Seth, Adam going blind, and Seth's journey back
+to Paradise for the branch, which is the Legend of the Rood. Then Noah, then
+Abraham and Isaac with the ram in the thicket. Then Joachim and Anne, the
+refused offering and the meeting at the Golden Gate, which is the
+Protevangelium by way of the Golden Legend. Then the Annunciation, the
+Nativity, the flight into Egypt, a numbered catalogue of the signs the Lord
+showed, the Transfiguration, the baptism, and from folio 029r the Passion,
+which the codex itself says it takes from Saint Matthew and Saint John.
+
+The frame is a revelation: the angel of God speaks, and **Elijah the prophet**
+is the one addressed by name.
+
+Three things in it are checkable without any dictionary at all. A prophecy
+passage recurs word for word at 005v, 017r and 017v, spoken to Abraham, to
+Joachim and to Anne. The Nativity is told twice in the same words, at 020v and
+025v. And John 18:4-8, where Jesus asks "Whom seek ye?", is asked twice in the
+codex exactly as it is asked twice in John.
+
+**The numerals resolved.** The parts add, and a `ten` after a group multiplies
+it by ten. Four independent checks against a number the source supplies:
+`ten-ten-ten-ten` and `two-two-ten` are both forty, at forty days and forty
+nights and at the forty days of rain; `six-two` is eight, at the circumcision
+on the eighth day; `six-six` is twelve, at the twelve apostles.
+
+**A grammar rule came out of it.** The code Kiraly and Tokai gloss
+"introducing the next item in a list" makes an ordinal when it stands in front
+of a numeral. The book uses it to number the signs of Christ from first to
+eleventh and the witnesses who confessed him. That rule was read out of the
+text, not imported, and it is the second construction this project has
+recovered after the name-compounds.
+
+This is a translation of their dictionary over their transcription, not their
+translation, which is unpublished. Every gloss is theirs. The sentence-making
+is ours and is the part most likely to be wrong: context cannot choose between
+senses, as the two gates above showed, so a reader chooses, and this reader's
+blind score on held-out codes was one to two right in six. Single lines are
+proposals. The story-level reading rests on many lines agreeing.
+
 ## A third transcription from the scans: negative
 
 The pipeline splits each scanned opening at the gutter, finds the lit page
@@ -909,6 +956,7 @@ repository staff; with it, this would probably be feasible.
     python ktgrammar.py       # are the senses separable at all (no)
     python ktvariant.py       # the fourteenth, variant spellings (fails; K&T's own go in)
     python kttranslate.py     # render the whole book, marked by how far each word reads
+    # the translation itself is read by hand: work/rohonc/translation/rohonc_translation.md
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 
