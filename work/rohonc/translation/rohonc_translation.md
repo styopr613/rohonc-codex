@@ -1644,3 +1644,288 @@ Both run in order, and the order is what makes the numerals checkable.
 **Twelve confirmed.** `six-six` at 022r:10 is the number of apostles called,
 so `six-six` is twelve, and the same word four lines earlier says the Holy
 Family stayed twelve years in Egypt.
+
+---
+
+## 026r — the earth quakes
+
+**1**  and the earth, to the Lord […] and the moon, because
+`and earth to-Lord-year and moon because`
+
+**2**  because when the Lord Christ […]
+`because then-exist Lord-Christ [?]`
+
+**3**  the earth quaked, the rocks and the stones split.
+`earth quake-rock stone split`
+
+> Matthew 27:51, "the earth did quake, and the rocks rent".
+
+## 026v — the sun darkened, and Abraham's confession
+
+**1**  The sun and the moon were darkened; and all […] […] humbled themselves; and all
+`sun and moon this eclipse and each,_every [?] [?] this humble and each,_every`
+
+**2**  creation […] when Christ […]; and all this […] confessed,
+`create [?] then-exist Christ [?] and this each,_every [?] confess`
+
+**3**  in sorrow […], that the Lord Jesus is truly the Son of God; and by miracle they confessed
+`inside-to-sad(ly) [?] Lord-Jézus righteous(ly) son God and miracle confess`
+
+**4**  […] the Lord Jesus is truly the Son of God, because […]
+`[?] Lord-Jézus righteous(ly) son God because [?]`
+
+**5**  miracle […]; and the Lord suffered [under] the Jews […]
+`miracle [?] and suffer Lord Jew(ish) [?]`
+
+**6**  and […] […] the Lord God […] Abraham |
+`and [?] [?] Lord-<divine> [?] Abraham | [?]`
+
+**7**  […] came […] said. The Lord God said to Abraham by the angel; and this
+`[?] arrive [?] say exist say Lord-<divine> Abraham on-angel and this`
+
+**8**  the Lord God said to the blessed Virgin Mary by the angel; and | Saint
+`say say Lord-<divine> happy virgin-Mary on-understand-chapter angel and | holy`
+
+**9**  […] […]; and the man who believes in the Lord,
+`[?] [?] and somebody to-Lord exist believe`
+
+**10**  that he is truly the Son of the living God — every man is saved; and […]
+`what righteous(ly) son living God each,_every somebody be_saved and [?]`
+
+**11**  a man is damned; and the Lord […] believes; and […]
+`somebody be_damned to and Lord [?] believe and [?]`
+
+**12**  one is saved, but […] a man is damned; and | this
+`one to be_saved a) [?] somebody be_damned and | this`
+
+**13**  thus he said. First confessed it Abraham the forefather |
+`and-this say confess first Abraham forefather | on-this`
+
+**14**  This one confessed […]; secondly confessed […]
+`this confess [?] on-that_is confess [?]`
+
+## 027r — Mary's confession
+
+**1**  the mother, the blessed Virgin Mary. Thirdly confessed the blessed | Virgin
+`mother happy virgin-Mary on-that_is confess happy | virgin`
+
+**2**  Mary. The angel of God said: at that time the Lord was; the Lord God went; the Lord's
+`Mary say angel God time exist Lord go Lord-<divine> <of>-Lord`
+
+**3**  angel [to] the blessed Virgin Mary, when […] from […] to the house
+`angel happy virgin-Mary then-exist ~out(ward) from want-year to-house`
+
+**4**  of the Virgin Mary […]; and she bore; and […] […]
+`virgin-Mary [?] and be_born and [?] [?]`
+
+**5**  and one hundred and sixteen(?) years and […] and and […]
+`and one hundred and six-ten-year and [?] and and [?]`
+
+**6**  at that time God the Father in heaven, because he saw […] all
+`time from-gate from-father-<divine> heaven because see hide_oneself each,_every`
+
+**7**  […] darkness […]. At that time God the Father
+`[?] darkness [?] time from-gate from-father-<divine>`
+
+**8**  in heaven; and the Lord's angel Gabriel went […]
+`heaven and go <of>-Lord angel Gabriel inside exist-chapter`
+
+**9**  to the blessed Virgin Mary, and said this and that. Saint Luke writes
+`to-happy virgin-Mary and this-and-this say write holy-Luke`
+
+**10**  […] in his writing; and the man who believes in the Lord,
+`[?] <of>-write and somebody to-Lord exist believe`
+
+**11**  that he is truly the Son of the living God — every man is saved; and
+`to righteous(ly) son living God each,_every somebody be_saved and`
+
+**12**  one man is damned; and the Lord […]
+`one somebody be_damned to and Lord [?]`
+
+**13**  believes; and one is saved; but every man
+`believe and one to be_saved a) each,_every somebody`
+
+## 027v — Joseph's confession, and "there are not many gods"
+
+**1**  is damned; and thus he said. Confessed it Saint Joseph the aged |
+`be_damned and this-and-this say confess holy-very_old | [?]`
+
+**2**  […] the angel of God said, because the Lord God spoke by the angel
+`[?] say angel God because exist say Lord-<divine> on-angel`
+
+**3**  Gabriel; and […] who is the Lord's […] truly
+`Gabriel and [?] to-Lord exist [?] to righteous(ly)`
+
+**4**  the Son of the living God — every man is saved; and one
+`son living God each,_every somebody be_saved and one`
+
+**5**  man is damned; and the Lord […] […]; and | […]
+`somebody be_damned to and Lord [?] [?] and | [?]`
+
+**6**  […] is saved, but every […] is damned; and | thus
+`chapter to be_saved a) each,_every [?] be_damned and | this-and`
+
+**7**  he said. The Lord Jesus spoke of his many wounds, when the Lord went |
+`this say say Lord-Jézus on-many wound then-exist Lord go | on`
+
+**8**  to his death; and then the Lord […] the apostles in Jerusalem. At that time knelt
+`die and then-exist-Lord [?] apostle inside Jerusalem time kneel_(down)`
+
+**9**  the Lord Jesus before the blessed Virgin Mary; and the Lord Jesus said: there are not
+`Lord-Jézus before happy virgin-Mary and say Lord-Jézus is_not`
+
+**10**  many gods […] one God […] the Lord Jesus
+`many God [?] one God [?] Lord-Jézus`
+
+**11**  […] and the Lord […] […] in the Lord Jesus Christ; and
+`to and Lord [?] [?] inside Lord-Jézus-Christ and`
+
+**12**  one is saved, but every man is damned;
+`one to be_saved a) each,_every somebody be_damned`
+
+**13**  and Mary blessed the Lord Jesus, with all the apostles — the blessed Virgin Mary.
+`and Mary bless Lord-Jézus on-each,_every apostle happy virgin-Mary`
+
+## 028r — the Passover lamb, and the twelfth sign
+
+**1**  And then Mary […] the Lord Jesus, the Lord's mother,
+`and then-exist-Mary exist-Lord [?] Lord-Jézus <of>-Lord mother`
+
+**2**  the blessed Virgin Mary; and then Mary was, and from […]
+`happy virgin-Mary and then-exist-Mary exist and from [?]`
+
+**3**  […] Mary's son the Lord Jesus Christ; and from Mary went
+`[?] <of>-Mary son Lord-Jézus-Christ and from Mary from-go`
+
+**4**  the Lord Jesus […] the apostles in Jerusalem, because […] the apostles […]
+`Lord-Jézus [?] apostle inside Jerusalem because [?] apostle [?]`
+
+**5**  Before the Lord went into Jerusalem, where the apostles [were] at supper […]
+`before Lord go inside Jerusalem who-exist apostle to-dinner-to-to [?]`
+
+**6**  the apostles prepared a lamb, because at that time
+`prepare-apostle one lamb because time`
+
+**7**  was the feast of the Jews, the Passover. […] There began the suffering
+`holiday exist Jew(ish) Easter [?] begin suffering`
+
+**8**  of the Lord Jesus Christ, Son of God; because […] the Lord is truly the Son of God.
+`Lord-Jézus-Christ son God because [?] Lord righteous(ly) son God`
+
+**9**  And then the Lord, the Jews […]; and then the Lord, the apostles,
+`and then-exist Lord Jew(ish) [?] and then-exist Lord apostle`
+
+**10**  the mother; he was laid in the tomb, and […] rose from the dead. And the | twelfth
+`mother inside burial_chamber put and [?] from die stand_up-Lord and from | six`
+
+**11**  sign the Lord Jesus showed, when […]
+`six can show Lord-Jézus then-exist [?]`
+
+**12**  from […] the Lord and the apostles […] in Jerusalem; and […] the sign the Lord Jesus showed
+`from [?] Lord and apostle [?] inside Jerusalem and [?] can show Lord-Jézus`
+
+## 028v — the Ascension
+
+**1**  when […] […] on a mountain, two men and two men
+`then-exist [?] [?] one mount two somebody and two somebody`
+
+**2**  […] […] and […] and sixteen(?) and six devils
+`[?] [?] and [?] and six-ten and six hell evil`
+
+**3**  and the two men were healed […] […] the sign showed
+`and two somebody healing [?] [?] can show`
+
+**4**  the Lord Jesus; then […] when he went to God his Father |
+`Lord-Jézus then [?] then-exist leave to-<of>-Lord father-<divine> | on`
+
+**5**  in heaven […]; the Lord sat at the right hand of God the Father.
+`heaven [?] from-sit-Lord from-father-<divine> God on-right_side`
+
+> The last line is the creed: he ascended into heaven, and sitteth at the
+> right hand of God the Father.
+
+## 029r — the Passion begins: "Here begins"
+
+**1**  Here begins […]
+`begins this begin [?]`
+
+**2**  […] of a man […]
+`[?] <of>-somebody [?]`
+
+**3**  the writing […] […]
+`write [?] cup-not [?]`
+
+**4**  [of] Saint Matthew and Saint John,
+`holy-Matthew and holy-John`
+
+**5**  of the Passion |
+`from suffering | [?]`
+
+**6**  a man […] […]
+`somebody [?] [?]`
+
+**7**  The Lord Jesus went […]
+`go Lord-Jézus [?]`
+
+**8**  to Jerusalem, because […] the Lord […] to the supper […] because […]
+`Jerusalem because from far-to-Lord to-dinner-chapter [?] because exist [?]`
+
+**9**  Before the Lord went, the apostles [went] into Jerusalem […] the Lord Jesus […]
+`before Lord go apostle inside Jerusalem [?] Lord-Jézus exist [?]`
+
+**10**  to prepare the Passover lamb, where the Lord and the apostles […]
+`prepare from Easter lamb who-exist Lord apostle [?]`
+
+**11**  should eat. And the Lord [said]: go, you. And then the Lord […]
+`eat and this-Lord to you go and then-exist Lord [?]`
+
+**12**  to the apostles in Jerusalem; and the Lord sat down at the table […] the apostles. At that time
+`to-apostle inside Jerusalem and sit to-throne Lord [?] this-apostle time`
+
+**13**  the apostles prepared the Passover lamb; and the lamb
+`exist apostle prepare from Easter lamb and lamb`
+
+> The codex names its own sources for the Passion: Saint Matthew and Saint
+> John. Line 1 is a rubric, "Here begins", of the kind a scribe writes.
+
+## 029v — the supper, and the washing of feet
+
+**1**  the apostles brought to the table […] the Lord Jesus […] the Lord's […]
+`carry apostle on throne [?] Lord-Jézus [?] <of>-Lord from`
+
+**2**  […] the Lord would eat this with you […]
+`[?] want Lord to you eat this [?]`
+
+**3**  lamb. Therefore the Lord asks you: do not, apostles,
+`lamb that_is_why ask_(for)-Lord you do_not apostle`
+
+**4**  be offended in the Lord, because the Lord goes to his death — the Lord dies; and the Lord |
+`inside Lord stumble because this-Lord go on-die Lord die and this-Lord | on`
+
+**5**  […] […] […] and the Lord […] you […]
+`[?] [?] [?] and this-Lord you [?]`
+
+**6**  and […] the Lord Jesus [rose] from the table, and laid aside |
+`and [?] to-throne Lord-Jézus and take_off-Lord | on`
+
+**7**  the Lord, his […] […]. The Lord Jesus, one apostle
+`Lord <of>-Lord [?] [?] Lord-Jézus one apostle`
+
+**8**  among […] the apostles, and among […] the apostles, and […]
+`among [?] apostle and among [?] apostle and [?]`
+
+**9**  an apostle [named …] brought a bucket […]
+`apostle exist <name>-in_turn carry one bucket [?]`
+
+**10**  and a washing-dish; and then water into the dish
+`and one washdish and then-exist water inside washdish`
+
+**11**  he poured; and the Lord Jesus came to Saint Peter, and […]
+`pour and go Lord-Jézus to holy-Peter in_turn <name>-in_turn`
+
+**12**  brought the water in the dish, which the Lord Jesus […] Saint Peter.
+`carry inside washdish water this-who Lord-Jézus [?] holy-Peter`
+
+> John 13:4–6, in order: he rose from supper, laid aside his garments, poured
+> water into a basin, and came to Simon Peter. Luke 22:15 is at line 2, and
+> Matthew 26:31, "all ye shall be offended", at line 4.
