@@ -803,5 +803,23 @@
   "tier": "C",
   "n": 4,
   "evidence": "the four turns of the Genesis 3 interrogation on 124v: God asks the man, the man answers and names the woman; God asks the woman, she answers and names the serpent. All four are on one page so nothing outside it checks the reading"
+ },
+ "0d25205406e3": {
+  "gloss": "mercy",
+  "tier": "B",
+  "n": 3,
+  "evidence": "the oil of mercy, which is the whole point of the Seth episode: give Seth the oil of it 006r:7, of it against sin 006r:8, and 007v:11 with the clause terminator"
+ },
+ "159": {
+  "gloss": "glory",
+  "tier": "C",
+  "n": 4,
+  "evidence": "Jesus goes into heaven in it 075r:5, eternal glory on high with all the orders of angels 079r:1, and Lazarus is carried by angels into heaven in it 089r:10"
+ },
+ "570": {
+  "gloss": "ark",
+  "tier": "C",
+  "n": 1,
+  "evidence": "the Lord tells Noah to make one at 008r:4 and the next line gives its length as three hundred cubits. Kiraly & Tokai already read a different code as ark at 008r:7, so this is a second sign for it; note that 570670ae0 is read here as sheep, which a shared first glyph does not contradict in a logographic script but is worth watching"
  }
 }
