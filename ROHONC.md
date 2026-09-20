@@ -161,6 +161,97 @@ else. That is a direct demonstration that the text exists independently of the
 lines it is written on — which is exactly what one expects of a real text laid
 out by a scribe, and exactly what the Voynich never once does.
 
+## How much of the book is new
+
+The cross-line result shows the Rohonc's text is independent of the page it is
+written on. That rules out tracing and rules out line-by-line composition. It
+does not rule out a person filling 448 pages by recycling earlier ones, and a
+forger doing that would pass the test cleanly. So the next question is how much
+of the book occurs only once.
+
+Share of tokens inside a sequence of length k or more that occurs at least
+twice anywhere in the book. The shuffle preserves the vocabulary exactly and
+destroys only the order, which matters here because 987 symbols over 60,000
+tokens make short repeats inevitable by chance. All texts truncated to 33,641
+tokens so the lengths match.
+
+| k = | 3 | 5 | 8 | 12 | 20 | 30 | 50 |
+|---|---|---|---|---|---|---|---|
+| **Rohonc Codex** | 85.3 | 58.1 | 23.9 | 10.1 | 3.2 | 0.8 | 0.0 |
+| *shuffled* | 59.7 | 1.4 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Hebrew prose | 35.4 | 5.0 | 0.8 | 0.2 | 0.2 | 0.0 | 0.0 |
+| Italian prose | 17.7 | 0.7 | 0.1 | 0.1 | 0.0 | 0.0 | 0.0 |
+| Latin prose | 8.5 | 1.6 | 1.0 | 0.6 | 0.6 | 0.6 | 0.0 |
+| Voynich (words) | 2.2 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+
+The shuffle explains the k=3 column and nothing beyond it: at k=5 the vocabulary
+alone produces 1.4% and the codex produces 58.1%. From k=5 onward this is all
+real structure.
+
+### Nothing page-sized was duplicated
+
+| longest sequence occurring twice | tokens |
+|---|---|
+| Rohonc, sentinels at every gap (lower bound) | 44 |
+| Rohonc, gaps ignored entirely (upper bound) | 44 |
+| Latin prose | 31 |
+| Hebrew prose | 27 |
+| Italian prose | 14 |
+| Voynich (words) | 4 |
+
+A Rohonc folio averages 282 tokens and a line averages 14, so the longest
+verbatim repeat in the entire codex is about three lines. Coverage at k=60, 100
+and 150 is exactly zero. Both bounds agree, so the dropped unreadable glyphs
+are not what is truncating it.
+
+**That rules out bulk copying.** A person padding 448 pages by recycling
+earlier ones leaves repeats at the scale of the unit being recycled — a
+paragraph, a page, a folio. Nothing in this codex repeats beyond three lines.
+
+It also sits awkwardly with Király and Tokai's report of a verbatim parallel
+running from 133v07 to 134r02 and again at 101r04–09, which is some seven
+lines. Either their transcription differs from this one, or that parallel is
+not strictly verbatim. Their reading of it does not depend on the difference,
+but it is a discrepancy and worth recording.
+
+### The repeats are local as well as long-range
+
+Distance in tokens between consecutive occurrences of a repeated sequence.
+"same folio" means within 282 tokens; "far apart" means more than ten folios.
+
+| k=20 | repeats | median gap | same folio | far apart |
+|---|---|---|---|---|
+| **Rohonc Codex** | 173 | 269 | 60.1% | 24.3% |
+| Latin prose | 108 | 5,430 | 0.0% | 88.9% |
+| Hebrew prose | 14 | 6,848 | 0.0% | 100.0% |
+| Italian prose | 0 | — | — | — |
+
+The prose controls repeat long sequences only at long range — Augustine quoting
+the same psalm a hundred pages later. The Rohonc does that too, with single
+phrases recurring across 58,000 tokens, nearly the length of the book. But most
+of its long repeats are *local*: a twenty-symbol sequence recurring a few lines
+away on the same folio.
+
+### What this settles and what it does not
+
+**Settled:** the book was not padded by copying pages. The repeat length caps
+out at three lines, everywhere, by both bounds.
+
+**Consistent with, but not proved:** a formulaic devotional text. Heavy local
+repetition of long phrases is what a litany, a responsory or a calendar looks
+like, and Király and Tokai read the codex as a gospel harmony with a calendar
+section. The long-range recurrence of the same phrases fits a genuine formula
+rather than a local tic.
+
+**The missing control, stated plainly.** The Rohonc is far more repetitive than
+any text compared against it here at every k from 5 upward. But the comparisons
+are Dante, Augustine and a Hebrew narrative — literary and narrative works,
+none of them the genre the codex is claimed to be. Litanies, psalters and books
+of hours are extremely repetitive by design. Without one of those in the
+reference set, this document cannot say whether the Rohonc's repetition rate is
+abnormal *for what it claims to be*. That is the obvious next control and it
+has not been done.
+
 ## Where the two measures disagree
 
 The token-to-token mutual-information version of the test (`linebreak.py`) is

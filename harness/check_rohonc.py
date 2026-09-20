@@ -39,6 +39,9 @@ def main():
     doc = open(DOC, encoding="utf-8").read()
     # the write-up uses a typographic minus; normalise before matching
     doc = doc.replace("\u2212", "-")
+    # phrases are checked against a whitespace-collapsed copy, because the
+    # write-up is hard-wrapped and a quoted phrase can straddle a line break
+    flat_doc = " ".join(doc.split())
     cl, lb, orient, stats = (out("crossline.txt"), out("linebreak.txt"),
                              out("orientation.txt"), out("corpus_stats.txt"))
     print("figures quoted in ROHONC.md:\n")
@@ -119,11 +122,54 @@ def main():
               and abs(got[5] - want[4]) < 0.05)
         check(f"MI row {lab}", bool(ok), str(got))
 
+    # repeats: coverage spectrum, matched-length block
+    rp = out("repeats.txt")
+    cov = rp.split("THE ROHONC AT FULL LENGTH")[0]
+    for lab, want in (("Rohonc Codex", [85.3, 58.1, 23.9, 10.1, 3.2, 0.8, 0.0]),
+                      ("Voynich (words)", [2.2, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]),
+                      ("italian prose (words)", [17.7, 0.7, 0.1, 0.1, 0.0, 0.0, 0.0]),
+                      ("latin prose (words)", [8.5, 1.6, 1.0, 0.6, 0.6, 0.6, 0.0]),
+                      ("hebrew prose (words)", [35.4, 5.0, 0.8, 0.2, 0.2, 0.0, 0.0])):
+        got = nums(cov, lab, 7)
+        ok = len(got) == 7 and all(abs(got[i] - want[i]) < 0.06 for i in range(7))
+        check(f"coverage {lab}", bool(ok and f"{want[1]}" in doc), str(got))
+    sh = [l for l in cov.splitlines() if l.strip().startswith("(shuffled)")]
+    g = [float(x) for x in re.findall(r"-?\d+\.\d+", sh[0])]
+    check("Rohonc shuffled k=3 59.7 and k=5 1.4",
+          abs(g[0] - 59.7) < 0.06 and abs(g[1] - 1.4) < 0.06
+          and "59.7" in doc and "1.4" in doc, str(g[:2]))
+
+    # longest repeat, both bounds
+    lo = nums(rp, "sentinels at every gap (lower bound)", 1)
+    hi = nums(rp, "gaps ignored entirely  (upper bound)", 1)
+    check("longest repeat lower bound 44", lo and lo[0] == 44 and "| 44 |" in doc, str(lo))
+    check("longest repeat upper bound 44", hi and hi[0] == 44, str(hi))
+    for k in (60, 100, 150):
+        v = nums(rp, f"coverage at k={k}", 2)
+        check(f"coverage at k={k} is zero", bool(v) and v[-1] == 0.0, str(v))
+
+    # distances at k=20
+    dist = rp.split("distance between repeated sequences")[1]
+    for lab, want in (("Rohonc Codex", (173, 269, 60.1, 24.3)),
+                      ("latin prose", (108, 5430, 0.0, 88.9)),
+                      ("hebrew prose", (14, 6848, 0.0, 100.0))):
+        row = [l for l in dist.splitlines() if l.strip().startswith(lab) and "k=20" in l]
+        check(f"k=20 distances {lab} present", bool(row), lab)
+        if row:
+            v = [float(x) for x in re.findall(r"-?\d+\.?\d*", row[0])]
+            ok = (v[1] == want[0] and v[2] == want[1]
+                  and abs(v[3] - want[2]) < 0.06 and abs(v[4] - want[3]) < 0.06)
+            check(f"k=20 distances {lab}", ok, str(v[1:5]))
+    check("folio 282 tokens, line 14 quoted",
+          "282 tokens" in flat_doc and "averages 14" in flat_doc)
+    check("missing liturgical control admitted",
+          "has not been done" in flat_doc and "books of hours" in flat_doc)
+
     # claims in prose
-    check("delimiter 252 of 269 quoted", "252 of its 269" in doc)
-    check("damage marker 126 to 77 quoted", "126 to 77" in doc)
+    check("delimiter 252 of 269 quoted", "252 of its 269" in flat_doc)
+    check("damage marker 126 to 77 quoted", "126 to 77" in flat_doc)
     check("6.5% unreadable quoted", "6.5%" in doc)
-    check("failed first attempt is recorded", "failed and was discarded" in doc
+    check("failed first attempt is recorded", "failed and was discarded" in flat_doc
           and os.path.exists(os.path.join(corpus.ROOT, "harness", "roho_orient.py")))
     check("archive URL present", "web.archive.org/web/20180421091607id_" in doc)
 

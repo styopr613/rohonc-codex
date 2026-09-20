@@ -1,0 +1,70 @@
+======================================================================================
+HOW MUCH OF THE BOOK IS NEW?
+======================================================================================
+Share of tokens (%) inside a sequence of length k or more that occurs
+at least twice. `shuffled` preserves the vocabulary and destroys the
+order. All texts truncated to 33641 tokens so the lengths match.
+
+k =                            3       5       8      12      20      30      50
+--------------------------------------------------------------------------------------
+Rohonc Codex                85.3    58.1    23.9    10.1     3.2     0.8     0.0
+  (shuffled)                59.7     1.4     0.0     0.0     0.0     0.0     0.0
+Voynich (words)              2.2     0.0     0.0     0.0     0.0     0.0     0.0
+  (shuffled)                 0.3     0.0     0.0     0.0     0.0     0.0     0.0
+italian prose (words)       17.7     0.7     0.1     0.1     0.0     0.0     0.0
+  (shuffled)                 2.6     0.0     0.0     0.0     0.0     0.0     0.0
+latin prose (words)          8.5     1.6     1.0     0.6     0.6     0.6     0.0
+  (shuffled)                 1.6     0.0     0.0     0.0     0.0     0.0     0.0
+hebrew prose (words)        35.4     5.0     0.8     0.2     0.2     0.0     0.0
+  (shuffled)                 3.9     0.0     0.0     0.0     0.0     0.0     0.0
+
+======================================================================================
+THE ROHONC AT FULL LENGTH, AGAINST ITS OWN SHUFFLE
+======================================================================================
+62501 tokens
+
+k =                            3       5       8      12      20      30      50
+--------------------------------------------------------------------------------------
+Rohonc Codex                87.1    62.5    26.9    10.2     2.2     0.4     0.0
+  (shuffled)                66.8     2.8     0.0     0.0     0.0     0.0     0.0
+
+longest sequence occurring at least twice, in tokens:
+  Rohonc Codex                 44
+  Voynich (words)               4
+  italian prose                14
+  latin prose                  31
+  hebrew prose                 27
+
+repeated sequences at k=20, and the most repeats any one of them gets:
+  Rohonc Codex                139 distinct   max 5
+  Voynich (words)               0 distinct   max 0
+  italian prose                 0 distinct   max 0
+  latin prose                  12 distinct   max 10
+  hebrew prose                 14 distinct   max 2
+
+longest repeat, bounded both ways:
+  sentinels at every gap (lower bound)      44 tokens
+  gaps ignored entirely  (upper bound)      44 tokens
+  a folio averages 282 tokens, a line 14
+  coverage at k=60   0.00%
+  coverage at k=100  0.00%
+  coverage at k=150  0.00%
+
+distance between repeated sequences (a folio is about 282 tokens):
+  Rohonc Codex         k=8     4059 gaps   median    812   same folio  40.1%   far apart  36.0%   longest gap 58062  (book is 62501)
+  Rohonc Codex         k=12    1180 gaps   median    660   same folio  43.1%   far apart  36.4%   longest gap 52131  (book is 62501)
+  Rohonc Codex         k=20     173 gaps   median    269   same folio  60.1%   far apart  24.3%   longest gap 23156  (book is 62501)
+  italian prose        k=8        7 gaps   median   1462   same folio   0.0%   far apart   0.0%   longest gap 1462  (book is 62501)
+  italian prose        k=12       3 gaps   median   1462   same folio   0.0%   far apart   0.0%   longest gap 1462  (book is 62501)
+  italian prose        k=20  no repeats
+  latin prose          k=8      261 gaps   median   5430   same folio   4.2%   far apart  80.8%   longest gap 45582  (book is 62501)
+  latin prose          k=12     181 gaps   median   5430   same folio   0.0%   far apart  88.4%   longest gap 11636  (book is 62501)
+  latin prose          k=20     108 gaps   median   5430   same folio   0.0%   far apart  88.9%   longest gap 11636  (book is 62501)
+  hebrew prose         k=8      198 gaps   median    579   same folio  47.0%   far apart  43.9%   longest gap 31685  (book is 62501)
+  hebrew prose         k=12      49 gaps   median   8649   same folio  16.3%   far apart  83.7%   longest gap 12442  (book is 62501)
+  hebrew prose         k=20      14 gaps   median   6848   same folio   0.0%   far apart 100.0%   longest gap 12441  (book is 62501)
+
+  A real text carries a large majority of material that occurs once,
+  however many set phrases it reuses. Coverage near the shuffled
+  baseline means the repetition is only what the vocabulary forces;
+  coverage far above it at large k means whole passages recur.
