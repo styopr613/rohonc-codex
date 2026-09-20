@@ -1,0 +1,19 @@
+gloss vocabulary: 980 stems
+building PPMI from /home/ubuntu/voynich/data/ref/rohonc/ALL.txt ...
+  897 stems with context
+held-out occurrences tested: 2357  (every one, not a sample)
+
+======================================================================
+CAN CONTEXT CHOOSE THE RIGHT SENSE?
+======================================================================
+  5-way choice, chance                  20.0%
+  picked from real context               39.9%
+  picked from shuffled context           21.1%
+  sigma above the control                22.8
+
+  SIGNAL bar  >= 40% and 5.0 sigma  ->  FAIL
+  USABLE bar  >= 75%                 ->  FAIL
+pairs of senses BELONGING TO THE SAME CODE   mean similarity 0.523  n=54946
+a sense against a random other sense         mean similarity 0.126  n=32737
+ratio 4.15x
+same-code sense pairs that share a stem outright: 9.0%

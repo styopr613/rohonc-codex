@@ -1,0 +1,33 @@
+NOTE: this is the gate run. The sense-kind breakdown added to ktgrammar.py
+afterwards has not been rerun and saved yet.
+
+/home/ubuntu/voynich/harness
+======================================================================
+ARE A CODE'S SENSES SEPARATED BY CONTEXT?
+======================================================================
+codes with 20+ occurrences:  87 multi-sense, 50 single-sense
+  variance explained, multi-sense codes       15.7%
+  variance explained, matched single-sense    16.2%  (sd 0.41)
+  ratio 0.97x     sigma -1.2
+
+  BAR: ratio >= 1.15x and sigma >= 5.0  ->  FAIL
+
+  Codes with several senses split no better than codes with one.
+  On this evidence the senses are not separated by context, and
+  no amount of context modelling will choose between them.
+
+  most contextually split multi-sense codes:
+      21 occ  2 senses  31.8%  Word, gospel
+      25 occ  3 senses  25.6%  <concessive coordinating conjunction>, but, however,
+      28 occ  2 senses  24.8%  place, put
+      20 occ  4 senses  24.6%  Creator, create, creation, creature
+     143 occ  3 senses  22.9%  book, scripture, write
+      21 occ  9 senses  22.6%  bow down, demolish, expel, fall, fall down, pull dow
+      21 occ  3 senses  21.7%  debt, debtor, indebted
+      20 occ  2 senses  20.6%  fire, flame
+      28 occ  5 senses  20.1%  not far, opposite, over against, sin, sin of Adam, t
+      23 occ  2 senses  19.9%  Sunday, week
+      30 occ  3 senses  19.9%  fortune, rich, riches
+      32 occ  2 senses  19.8%  glory, thanks
+
+[exited with code 0]
