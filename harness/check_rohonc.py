@@ -475,8 +475,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 67 folios",
-          md.count("\n## 0") + md.count("\n## 1") == 67, str(md.count("\n## 0")))
+    check("translation: the file exists and covers 75 folios",
+          md.count("\n## 0") + md.count("\n## 1") == 75, str(md.count("\n## 0")))
     check("translation: the book is identified, with its sources named",
           "Life of Adam and Eve" in md and "Legend of the Rood" in md
           and "Saint Matthew and Saint John" in md and "Elijah" in md)
@@ -522,11 +522,11 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 1158 tokens = 3.9% rendered +word",
-          len(g) == 2 and g[0] == 1158 and close(g[1], 3.9, .02), str(g))
+    check("proposals: 1183 tokens = 3.9% rendered +word",
+          len(g) == 2 and g[0] == 1183 and close(g[1], 3.9, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
-    check("proposals: 1325 lines fully read with them",
-          len(g) == 2 and g[0] == 1325 and close(g[1], 30.3, .02), str(g))
+    check("proposals: 1332 lines fully read with them",
+          len(g) == 2 and g[0] == 1332 and close(g[1], 30.5, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())

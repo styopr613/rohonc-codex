@@ -2752,3 +2752,261 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 
 > John 18:15–17: the maid at the door, the other disciple known to the high
 > priest, and Peter's denial. The codex names the disciple John.
+
+## 039v — before Pilate
+
+**1**  And this […] the two […]; and the Lord […] |
+`and this ~out(ward) two [?] and Lord [?] | to`
+
+**2**  Pilate; and they accused the Lord […]
+`Pilate and from Lord [?] accuse [?]`
+
+**3**  […] Pilate; the Lord went […] and | when
+`[?] Pilate go this-Lord half-believe and | then`
+
+**4**  he said: they have done nothing at all against the Lord.
+`exist +say many not-not on-Lord do,`
+
+**5**  The Lord went before Pilate, because all his […] |
+`go Lord before Pilate because each,_every <of>-Lord [?] | on`
+
+**6**  the Lord […] and his holy face […] and | when
+`Lord from [?] and <of>-Lord holy-face each,_every [?] and | then`
+
+**7**  the Lord […] said […] […] […]; no man
+`exist Lord exist +say [?] [?] [?] <of>-somebody`
+
+**8**  had mercy on the Lord Jesus. And then the Lord said, and went
+`have_mercy Lord-Jézus and then-exist Lord exist +say go`
+
+**9**  to Pilate. And then the Jews [said] to Pilate: the Lord
+`to-Pilate +and_then Jew(ish) this Pilate +say Lord`
+
+**10**  went […]; and the Lord […] | of the apostles
+`go this-Lord half-believe and Lord +<subject_marker> from | apostle-exist`
+
+**11**  […] […] all the people against the Lord […]
+`exist food [?] each,_every people on-Lord [?]`
+
+**12**  The second said: he saith he is the Son of God. The third said:
+`in_turn-two say +say say son God +third say +say`
+
+## 040r — the third denial, and the cock
+
+**1**  he saith he is king. And then Peter went to a
+`king say and then-exist Peter go to-one`
+
+**2**  […] […] because […] […] […]
+`[?] [?] because exist virgin-cut_off [?] [?]`
+
+**3**  […] […] […] said one of the Jews to him:
+`want [?] [?] say one Jew(ish) to`
+
+**4**  […] art thou an apostle of this Jesus?
+`[?] this apostle [?] this Jézus`
+
+**5**  Peter said […] and denied him,
+`say Peter grab God this-Peter [?]`
+
+**6**  and this was the third denial of the Lord Jesus; and at that moment the cock crew.
+`and this +three denial Lord-Jézus and time crow cock`
+
+**7**  And Peter said […] Peter went out: Master,
+`and say Peter this +<subject_marker> out(ward) [?] Peter Master`
+
+**8**  he spoke, and sorrowfully […] went out. And then Pilate
+`speak and sad(ly) [?] leave-to-leave +and_then Pilate`
+
+**9**  [said] to Jesus: sayest thou that thou art the Son of God? And how dost thou
+`to-Jézus this Lord say son God in_turn how? this [?]`
+
+**10**  preach? The Lord Jesus said to Pilate; Pilate
+`preach say Lord-Jézus to-Pilate from-judge-Pilate`
+
+**11**  answered […]: hear my preaching […]
+`from +say [?] Lord-to hear preach [?]`
+
+**12**  […] preach. And Pilate […]; the Lord Jesus spoke
+`[?] preach and Pilate [?] from speak Lord-Jézus`
+
+## 040v — two lines
+
+**1**  but the Lord said […] with his own mouth, that he is
+`a) say Lord [?] +<subject_marker> mouth [?] this-Lord`
+
+**2**  truly the Son of the living God.
+`righteous(ly) son living God`
+
+## 041r — art thou the king of the Jews
+
+**1**  And then Pilate [said] to the Lord: speakest thou, Lord, king of the Jews?
+`+and_then Pilate this Lord speak Lord king Jew(ish)`
+
+**2**  The Lord Jesus said to Pilate […] Pilate's mouth
+`say Lord-Jézus this Pilate +<subject_marker> [?] Pilate mouth`
+
+**3**  […] that he is truly the Son of the living God […]
+`[?] this-Lord righteous(ly) son living God [?]`
+
+**4**  Pilate […] truly this man; Pilate
+`Pilate this-Lord +<subject_marker> righteous(ly) somebody this Pilate`
+
+**5**  how […] in the Lord […]; and there cried
+`how? [?] inside Lord [?] and shout`
+
+**6**  the Jews […] the Lord. Pilate: the cross! The Lord [is] accursed, this
+`Jew(ish) [?] Lord Pilate +cross Lord cursed this`
+
+**7**  Pilate […] would say the Lord, say […]
+`Pilate this-hide_oneself want +say Lord +say [?]`
+
+**8**  […] truly […]. And then […]
+`[?] righteous(ly) [?] +and_then [?]`
+
+**9**  […] they took the Lord, saying; and the Lord […]
+`[?] grab Lord +say and Lord [?]`
+
+**10**  Herod, Pilate's […]; and then […] […]
+`~Herod <of>-Pilate [?] and then-exist ~out(ward) [?]`
+
+**11**  the hour; and then the Lord […] […]
+`hour and then-exist Lord [?] [?]`
+
+**12**  king; and then, and […] upon one
+`king and then-exist and [?] on-one`
+
+## 041v — sent to Herod, because he is of Galilee
+
+**1**  […] […]; and then all cried out, the four […]
+`love [?] and then-exist from shout each,_every two-two [?]`
+
+**2**  the Lord […] this […] the Lord […]
+`Lord [?] this [?] this-Lord [?]`
+
+**3**  this Jesus blasphemeth; and the Lord is out of Galilee,
+`this blasphemer-Lord this Jézus and +<subject_marker> Lord from Galilee`
+
+**4**  he cometh […]; all the people against the Lord […]
+`protrude [?] each,_every people on-Lord [?]`
+
+**5**  And then the Lord […] many judged […]
+`and then-exist Lord [?] many judge [?]`
+
+**6**  Herod the king, because […] the Jews would […] the Lord
+`Herod king because [?] Jew(ish) to-Lord want`
+
+**7**  to Herod […]; and the Lord […]
+`Herod [?] and Lord [?]`
+
+**8**  Herod […]; but […] shone […]
+`Herod [?] a) [?] shine [?]`
+
+**9**  Herod, the Lord Jesus Christ; and then the Lord […] before
+`Herod Lord-Jézus-Christ and then-exist Lord [?] before`
+
+**10**  Herod the king; and the Jews cried […]
+`Herod king and shout Jew(ish) [?]`
+
+**11**  Herod said: the Lord went […]; and the Lord
+`Herod +say Lord go this-Lord begin-believe and Lord +<subject_marker>`
+
+**12**  is out of Galilee, he cometh […] all
+`from Galilee protrude [?] each,_every`
+
+> Luke 23:6–7 — Pilate hears Galilee and sends him to Herod.
+
+## 042r — four lines
+
+**1**  the people against the Lord […]; and the Lord said, the Son
+`people on-Lord [?] and Lord say son`
+
+**2**  of God. And then the false […] said of the Lord, and
+`God +and_then ~false [?] say Lord and`
+
+**3**  […] this […] destroy | he would
+`[?] this exist-chapter destroy | want`
+
+**4**  the Lord, that he […] all […]
+`Lord this-Lord food [?] each,_every [?]`
+
+## 042v — Herod questions him
+
+**1**  and […] confessed it […] Herod; but […]
+`and [?] to-this confess [?] Herod a) [?]`
+
+**2**  Herod said: Lord — Herod […] God, that the Lord is the Son; and
+`Herod say Lord Herod [?] God this Lord son and`
+
+**3**  one said, spoke of the Lord Jesus against Herod; and
+`one say speak Lord-Jézus ~against Herod and`
+
+**4**  Herod […] Herod […] Herod the king […]
+`Herod [?] Herod [?] this-Herod king [?]`
+
+**5**  the Lord […] Herod […] this death […] […]
+`this-Lord can Herod [?] this die [?] [?]`
+
+**6**  the Lord […] Herod said to him, Herod said […]
+`this-Lord [?] Herod to say say Herod [?]`
+
+**7**  to Herod: the Lord of the living God […]; Herod said […]
+`to-Herod this Lord-to living God [?] say Herod [?]`
+
+**8**  God — that he is the Son; and […] the Lord […]
+`God this-Lord son and [?] Lord [?]`
+
+**9**  his Father […]. And then the Lord Jesus to Herod | that
+`<of>-Lord father [?] +and_then Lord-Jézus to-Herod | this`
+
+**10**  the Lord is truly the Son of the living God. The Lord Jesus said: the Lord goeth
+`Lord righteous(ly) son living God say Lord-Jézus this-Lord go`
+
+**11**  to his Father […] to judge the living and the dead;
+`<of>-Lord father [?] judge living and die`
+
+**12**  and Herod did so: he brought a stone and […]
+`and do, Herod carry stone and [?]`
+
+> Line 11 is the creed again: he shall come to judge the quick and the dead.
+
+## 043r — Herod hoped to see a miracle
+
+**1**  a vessel of water, and […] various
+`one vessel water and [?] various`
+
+**2**  […] before the Lord Jesus; and the Lord was asked
+`[?] before Lord-Jézus and Lord ~ask_(for)`
+
+**3**  by Herod, when the Lord [stood] before him, to do a miracle;
+`Herod then-exist-Lord before miracle do,`
+
+**4**  and they set a yoke before the Lord Jesus, and […]
+`and yoke Lord-Jézus before and understand-eat`
+
+**5**  to do a miracle, because when […] before
+`miracle do, because then-exist [?] before`
+
+**6**  Herod he did no miracle, though the Lord took […]
+`miracle do, why?-Lord grab [?]`
+
+**7**  […] but Herod said […] the Lord […]
+`[?] a) say Herod [?] this Lord [?]`
+
+**8**  Pilate became Herod's brother […] who
+`Pilate to-<of>-Herod brother [?] who`
+
+**9**  […] the Lord, because […] upon the Lord, Pilate did.
+`[?] this-Lord because on-Lord do, Pilate`
+
+**10**  And the Lord […] before Pilate, many […]
+`and Lord [?] before Pilate many [?]`
+
+**11**  And this was […] the sixth hour; and the Lord […] before
+`and this ~out(ward) six hour and Lord [?] before`
+
+**12**  Pilate. And then the Jews [said to] Pilate; Pilate said
+`Pilate +and_then Jew(ish) Pilate say this-Lord Pilate +<subject_marker>`
+
+> Luke 23:8, Herod hoped to see a miracle, and 23:12, Pilate and Herod were
+> made friends that same day — here "Pilate became Herod's brother". John
+> 19:14 puts the judgment at the sixth hour, and line 11 has it.
