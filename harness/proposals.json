@@ -1877,5 +1877,29 @@
   "tier": "A",
   "n": 1,
   "evidence": "K&T's entry b33 gives 'b33520 [var. b33688 136v09; b32 147v07] like'. It stands once, at 147v07"
+ },
+ "775520": {
+  "gloss": "basket",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's basket entry (774520) reads '774520 213r07; 775520 213r09; 761ae0 108v08 [food holder] basket, bushel'. 213r:9 is the feeding of the five thousand: 'the apostles carried twelve baskets, filled'. This line was picked out as a test of whether a one-hole line can be guessed: basket was the guess, and their apparatus turned out to name it at this exact line"
+ },
+ "115a10962": {
+  "gloss": "leftovers",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's crumbs entry (115, 'Lk 16, 21') reads '115a10962 213r07 (2x) leftovers'. Both occurrences are on that line, John 6:12-13, 'gather up the fragments that remain'"
+ },
+ "5209679a2941": {
+  "gloss": "denarius",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's denarius entry (5209679a29c1, 'Jn 6, 7') lists 5209679a2941 at 212v01, its only occurrence: 'two hundred pennyworth of bread is not sufficient for them'"
+ },
+ "520ae0701": {
+  "gloss": "bless",
+  "tier": "B",
+  "n": 1,
+  "evidence": "K&T's entry for bless (520461) lists 670ae0701 at 190v09, 192v02, 09; this is that spelling with the 670/520 swap they attest all through the book. 213r:1 is John 6:11, 'he took the loaves, and when he had given thanks' (Mt 14:19 'he blessed'), and the line reads 'these two fishes [bless] the Lord Jesus'. They do not cite this line, so nothing but the verse checks it"
  }
 }
