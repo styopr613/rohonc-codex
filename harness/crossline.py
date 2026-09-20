@@ -20,9 +20,10 @@ Chance is measured by shuffling which line follows which inside each page. That
 leaves every line intact and destroys only the pairing, so it is the rate of
 accidental matches for these exact lines against this exact inventory.
 
-One token means one space-delimited word in the Voynich and one glyph in the
-Rohonc Codex, following Kiraly & Tokai's reading that a Rohonc symbol codes a
-whole word.
+One token means one space-delimited word in the Voynich, one glyph in the
+anonymous 2014 Rohonc transcription (which has no word separators), and one
+space-delimited word in Kiraly & Tokai's. The two Rohonc rows are therefore at
+different granularities and the K&T row is the one comparable with the others.
 
     python crossline.py
 """
@@ -95,7 +96,9 @@ def assess(groups, n, rng):
 def main():
     import rohonc
     rng = random.Random(SEED)
-    targets = [("Rohonc Codex (glyphs)", from_rohonc(rohonc.load()))]
+    import rohonc_kt
+    targets = [("Rohonc K&T (words)", from_rohonc(rohonc_kt.load())),
+               ("Rohonc 2014 (glyphs)", from_rohonc(rohonc.load()))]
     ev = corpus.load()
     targets.append(("Voynich EVA (words)", from_voynich(ev)))
     v101 = os.path.join(corpus.DATA, "GC2a-n.txt")

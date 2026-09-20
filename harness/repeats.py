@@ -116,6 +116,20 @@ def rohonc_stream():
     return out
 
 
+def kt_stream():
+    """Kiraly & Tokai's word stream, reading order, unreadable glyphs as gaps."""
+    import rohonc_kt
+    out, mark = [], 0
+    for p in rohonc_kt.load():
+        for runs in p.lines:
+            for ri, run in enumerate(runs):
+                if ri:
+                    mark += 1
+                    out.append(f"\x00gap{mark}")
+                out.extend(run)
+    return out
+
+
 def report(label, seq, rng, ks=KS, shuffles=3):
     row = [coverage(seq, k) for k in ks]
     nulls = [[] for _ in ks]
@@ -163,6 +177,7 @@ def where(label, seq, ks=(8, 12, 20)):
 def main():
     rng = random.Random(SEED)
     roh = rohonc_stream()
+    kt = kt_stream()
     ev = corpus.words(corpus.load())
     from generators.natlang import plaintext
 
@@ -173,7 +188,7 @@ def main():
         except Exception as e:
             print(f"  ({lg} unavailable: {e})", file=sys.stderr)
 
-    n = min([len(roh), len(ev)] + [len(w) for _, w in langs])
+    n = min([len(roh), len(kt), len(ev)] + [len(w) for _, w in langs])
     print("=" * 86)
     print("HOW MUCH OF THE BOOK IS NEW?")
     print("=" * 86)
@@ -182,7 +197,8 @@ def main():
     print(f"order. All texts truncated to {n} tokens so the lengths match.\n")
     print(f"{'k =':24s}" + "".join(f"{k:8d}" for k in KS))
     print("-" * 86)
-    report("Rohonc Codex", roh[:n], rng)
+    report("Rohonc K&T (words)", kt[:n], rng)
+    report("Rohonc 2014 (glyphs)", roh[:n], rng)
     report("Voynich (words)", ev[:n], rng)
     for lg, w in langs:
         report(f"{lg} prose (words)", w[:n], rng)
@@ -196,7 +212,8 @@ def main():
     report("Rohonc Codex", roh, rng)
 
     print("\nlongest sequence occurring at least twice, in tokens:")
-    for lab, s in (("Rohonc Codex", roh), ("Voynich (words)", ev)) + \
+    for lab, s in (("Rohonc K&T (words)", kt), ("Rohonc 2014 (glyphs)", roh),
+                   ("Voynich (words)", ev)) + \
                   tuple((f"{lg} prose", w[:len(roh)]) for lg, w in langs):
         print(f"  {lab:24s} {longest_repeat(s):6d}")
 

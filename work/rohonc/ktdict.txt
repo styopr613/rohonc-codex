@@ -1,0 +1,28 @@
+==============================================================================
+KIRALY & TOKAI'S DICTIONARY, AGAINST THE TEXT IT DECODES
+==============================================================================
+entries 885, of which 841 carry a gloss
+distinct folios cited as evidence: 444
+
+text: 29997 word tokens, 5010 types, 441 pages
+
+COVERAGE
+  types covered     797 /   5010   15.9%
+  tokens covered  18639 /  29997   62.1%
+  commonest uncovered types: [534, 301, 224, 133, 109, 95, 93, 82, 76, 72]
+  uncovered types occurring once: 2876 of 4213
+
+HELD OUT: pages the dictionary cites as evidence, against the rest
+  cited pages      440   tokens  29984   covered  62.1%
+  uncited pages      1   tokens     13   covered  61.5%
+  drop from cited to uncited: 0.6 points
+
+PRIORITY: the undefined codes that would buy most coverage
+  six commonest undefined codes are 4.7% of the text
+  defining the top  50 undefined codes -> 73.1% coverage
+  defining the top 100 undefined codes -> 76.0% coverage
+  defining the top 200 undefined codes -> 79.1% coverage
+  defining the top 500 undefined codes -> 84.1% coverage
+
+  A dictionary built by reading context will fit the passages it
+  was built on. The question is whether it reaches the others.

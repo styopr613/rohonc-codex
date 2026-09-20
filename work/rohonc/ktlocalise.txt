@@ -1,0 +1,8 @@
+codes glossed as a proper name: 101
+distinct names: 104, of which also in the gospel text: 78
+pages carrying two or more gospel names: 247 of 441
+
+distance apart, in gospel words, of the names on one page
+  real pages    median       60
+  random names  median     3007
+  real pages tighter than the random median: 214/247 (87%)   chance 50%

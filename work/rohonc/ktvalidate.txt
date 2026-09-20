@@ -1,0 +1,43 @@
+==========================================================================
+DOES THE GLOSSED VOCABULARY LOOK SPECIFICALLY LIKE A GOSPEL?
+==========================================================================
+glossed content vocabulary: 927 words
+gospel reference: 46670 content tokens, 4082 types
+general English reference: 107223 content tokens, 12780 types
+
+  top k of reference    gospel   English   ratio
+                  25     68.0%     88.0%    0.77x
+                  50     72.0%     78.0%    0.92x
+                 100     71.0%     61.0%    1.16x
+                 200     68.0%     50.5%    1.35x
+                 400     62.5%     38.8%    1.61x
+
+top 25 content words of the glossed codex, by weight:
+   exist                   300
+   lord                    288  (in gospel top 100)
+   thu                     233
+   eleven                  229
+   away                    175  (in gospel top 100)
+   man                     175  (in gospel top 100)
+   speech                  160
+   person                  160
+   insid                   156
+   human                   153
+   husband                 148
+   within                  147
+   divin                   144
+   boy                     139
+   son                     139  (in gospel top 100)
+   somebody                136
+   learn                   109
+   tak                      97  (in gospel top 100)
+   god                      94  (in gospel top 100)
+   heaven                   91  (in gospel top 100)
+   jezu                     89
+   kingdom                  89  (in gospel top 100)
+   tim                      88  (in gospel top 100)
+   glorifi                  85
+   order                    85
+
+gospel top 25 the glosses never mention:
+   jesu, cam, went, tell, don, greek, answer, nam, crowd, saw, sent, told, whoever, mean, left, heard, everyon, took, gav, slav, didn, everyth, began, pharis, around

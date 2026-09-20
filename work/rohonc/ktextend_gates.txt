@@ -1,0 +1,12 @@
+TWO FAILED GATES, KEPT AS THE RECORD OF WHAT DID NOT WORK
+
+GATE 1 -- bag-of-words alignment: real pages vs random word bags
+  real pages     median best-window score 23.68
+  random bags    median best-window score 27.07
+  real pages above the random 95th percentile: 15/434 (3%)   chance 5%
+
+GATE 2 -- neighbourhood enrichment, known glosses hidden
+  tested 57 codes
+  true gloss ranked #1     3  (5%)
+  true gloss in top 5      7  (12%)
+  true gloss in top 20    12  (21%)

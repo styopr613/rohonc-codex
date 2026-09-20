@@ -1,0 +1,27 @@
+
+=== blank-width ratio 0.18: 22225 tokens, 3247 lines, 18978 within-line pairs, 2796 straddling ===
+ radius  straddling    chance     sd   sigma  headroom
+   0.05       0.00%     0.00%   0.00     0.0      0.0%
+   0.10       0.00%     0.00%   0.00     0.0      0.0%
+   0.15       0.00%     0.00%   0.00     0.0      0.0%
+   0.20       0.00%     0.00%   0.00     0.0      0.0%
+   0.30       0.11%     0.09%   0.06     0.2      0.0%
+   0.40       0.61%     0.39%   0.05     4.7      0.2%
+
+=== blank-width ratio 0.25: 16611 tokens, 3247 lines, 13364 within-line pairs, 2796 straddling ===
+ radius  straddling    chance     sd   sigma  headroom
+   0.05       0.00%     0.00%   0.00     0.0      0.0%
+   0.10       0.00%     0.00%   0.00     0.0      0.0%
+   0.15       0.00%     0.00%   0.00     0.0      0.0%
+   0.20       0.00%     0.00%   0.00     0.0      0.0%
+   0.30       0.00%     0.02%   0.03    -0.7     -0.0%
+   0.40       0.32%     0.17%   0.06     2.6      0.2%
+
+=== blank-width ratio 0.32: 12883 tokens, 3245 lines, 9638 within-line pairs, 2794 straddling ===
+ radius  straddling    chance     sd   sigma  headroom
+   0.05       0.00%     0.00%   0.00     0.0      0.0%
+   0.10       0.00%     0.00%   0.00     0.0      0.0%
+   0.15       0.00%     0.00%   0.00     0.0      0.0%
+   0.20       0.00%     0.00%   0.00     0.0      0.0%
+   0.30       0.00%     0.00%   0.00     0.0      0.0%
+   0.40       0.21%     0.09%   0.03     3.5      0.1%

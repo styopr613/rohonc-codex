@@ -42,17 +42,44 @@ word to the start of the next. Those are different things.
 
 A test pointed at only one book is not a test. So the line-break measurement
 was run on a second uncracked manuscript, the Rohonc Codex, which ought to come
-out the other way. It does, and by a wide margin.
+out the other way. It does, on two independent transcriptions made years apart
+by different methods.
 
-In the Rohonc, one in six six-symbol sequences that straddles a line break also
-appears inside a line somewhere else in the book. In the Voynich, not one does.
-The Rohonc repeats long passages and repeats them at different distances from
-the margin, so text split across a break in one place sits whole inside a line
-in another. That is what a real text laid out by a scribe looks like. The
-Voynich never does it once.
+On the scholarly transcription, more than a third of the word sequences that
+straddle a line break also appear inside a line somewhere else in the book,
+against a chance level of about a fifth. In the Voynich the two numbers are the
+same. Normalised so the books are comparable, the Rohonc sits in the same band
+as Italian and Hebrew prose and the Voynich sits with the meaning-free
+generators. The Rohonc repeats long passages at different distances from the
+margin, so text split across a break in one place sits whole inside a line in
+another. That is what a real text laid out by a scribe looks like. The Voynich
+never does it once.
+
+The first write-up got the unit wrong -- it counted glyphs where the other
+manuscripts were counted in words -- and the number moved when that was fixed.
+It moved into the language band, not out of it.
+
+## Is the Rohonc solved?
+
+Probably, and that was checked rather than assumed. Király and Tokai announced
+a decipherment in 2018 and have never published the translation. Their
+dictionary is online so it can be verified, and it was: it covers 62% of the
+running text; its twenty commonest entries are and, this, be, in, Lord, man,
+say, come, all, son, disciple, God, give, because -- a function-word core with
+a gospel vocabulary behind it, which is a property of the codex they did not
+control; and the names it identifies cluster in the gospel text where a real
+paraphrase would put them, 87% of the time against a 50% chance.
+
+Finishing the translation was attempted three ways and failed three times,
+each against a bar set before running. The four words in ten the dictionary
+does not reach cannot be recovered from the gospels by alignment with the tools
+here. That is the honest state: the reading is very probably right, and the
+part that is still missing is the part its authors are still working on.
 
 Details in [`ROHONC.md`](ROHONC.md), including a first attempt at the
-orientation question that failed its own control and was thrown away.
+orientation question that failed its own control and was thrown away, and a
+third transcription attempted from the scans that failed for lack of
+resolution.
 
 ## What is left standing
 

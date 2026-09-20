@@ -79,8 +79,11 @@ def main():
     rng = random.Random(SEED)
     rows = []
 
-    for lab, rev in (("Rohonc (as stored)", False),
-                     ("Rohonc (line reversed)", True)):
+    import rohonc_kt
+    w, a = rohonc_kt.pairs_by_position(rohonc_kt.load())
+    rows.append(assess(w, a, rng, "Rohonc K&T (words)"))
+    for lab, rev in (("Rohonc 2014 (glyphs)", False),
+                     ("Rohonc 2014 (reversed)", True)):
         d = rohonc.load(reverse=rev)
         w, a = rohonc.pairs_by_position(d)
         rows.append(assess(w, a, rng, lab))

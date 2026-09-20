@@ -3,20 +3,22 @@ HOW MUCH OF THE BOOK IS NEW?
 ======================================================================================
 Share of tokens (%) inside a sequence of length k or more that occurs
 at least twice. `shuffled` preserves the vocabulary and destroys the
-order. All texts truncated to 33641 tokens so the lengths match.
+order. All texts truncated to 30628 tokens so the lengths match.
 
 k =                            3       5       8      12      20      30      50
 --------------------------------------------------------------------------------------
-Rohonc Codex                85.3    58.1    23.9    10.1     3.2     0.8     0.0
-  (shuffled)                59.7     1.4     0.0     0.0     0.0     0.0     0.0
+Rohonc K&T (words)          37.3    15.8     7.5     3.3     1.2     0.4     0.0
+  (shuffled)                 3.6     0.0     0.0     0.0     0.0     0.0     0.0
+Rohonc 2014 (glyphs)        85.1    57.7    23.7    10.0     3.4     0.8     0.0
+  (shuffled)                58.8     1.4     0.0     0.0     0.0     0.0     0.0
 Voynich (words)              2.2     0.0     0.0     0.0     0.0     0.0     0.0
-  (shuffled)                 0.3     0.0     0.0     0.0     0.0     0.0     0.0
-italian prose (words)       17.7     0.7     0.1     0.1     0.0     0.0     0.0
-  (shuffled)                 2.6     0.0     0.0     0.0     0.0     0.0     0.0
-latin prose (words)          8.5     1.6     1.0     0.6     0.6     0.6     0.0
-  (shuffled)                 1.6     0.0     0.0     0.0     0.0     0.0     0.0
-hebrew prose (words)        35.4     5.0     0.8     0.2     0.2     0.0     0.0
-  (shuffled)                 3.9     0.0     0.0     0.0     0.0     0.0     0.0
+  (shuffled)                 0.4     0.0     0.0     0.0     0.0     0.0     0.0
+italian prose (words)       17.0     0.7     0.1     0.1     0.0     0.0     0.0
+  (shuffled)                 2.4     0.0     0.0     0.0     0.0     0.0     0.0
+latin prose (words)          7.7     1.3     0.9     0.6     0.6     0.6     0.0
+  (shuffled)                 1.3     0.0     0.0     0.0     0.0     0.0     0.0
+hebrew prose (words)        33.9     4.6     0.8     0.2     0.2     0.0     0.0
+  (shuffled)                 3.8     0.0     0.0     0.0     0.0     0.0     0.0
 
 ======================================================================================
 THE ROHONC AT FULL LENGTH, AGAINST ITS OWN SHUFFLE
@@ -26,10 +28,11 @@ THE ROHONC AT FULL LENGTH, AGAINST ITS OWN SHUFFLE
 k =                            3       5       8      12      20      30      50
 --------------------------------------------------------------------------------------
 Rohonc Codex                87.1    62.5    26.9    10.2     2.2     0.4     0.0
-  (shuffled)                66.8     2.8     0.0     0.0     0.0     0.0     0.0
+  (shuffled)                66.8     2.6     0.0     0.0     0.0     0.0     0.0
 
 longest sequence occurring at least twice, in tokens:
-  Rohonc Codex                 44
+  Rohonc K&T (words)           36
+  Rohonc 2014 (glyphs)         44
   Voynich (words)               4
   italian prose                14
   latin prose                  31

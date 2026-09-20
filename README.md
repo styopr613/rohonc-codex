@@ -14,6 +14,7 @@ it can decide.
 |---|---|
 | `CONCLUSION.md` | the plain-English conclusion, one page, no numbers |
 | `ROHONC.md` | the same line-break test run on the Rohonc Codex, as a positive control |
+| `DATA_PROVENANCE.md` | where the Rohonc data came from and what may be done with it |
 | `RESULTS.md` | the write-up. Tables generated from the data, prose figures checked against it |
 | `VOYNICH_PLAN.md` | the plan, including the prior-work survey that decided the scope |
 | `PREDICTION_abbrev.md` | prediction for the abbreviation model, written before the code. Not edited afterwards |
@@ -35,6 +36,13 @@ it can decide.
 | `score.py` | runs everything, writes `work/results_<split>.json` |
 | `report.py` | renders the tables |
 | `build_results.py` | fills the table placeholders in `RESULTS.md` from the data |
+| `rohonc.py`, `rohonc_kt.py` | the two Rohonc transcriptions as token streams (2014 glyph-level; Király–Tokai word-level) |
+| `roho_orient.py`, `roho_orient2.py` | storage orientation of the 2014 file — the first failed its own control and is kept |
+| `crossline.py`, `linebreak.py`, `repeats.py` | the line-break test in three forms, and how much of a book is new |
+| `ktdict.py`, `ktvalidate.py`, `ktlocalise.py` | Király–Tokai's dictionary: coverage, gospel-specificity, page localisation |
+| `ktextend.py`, `ktalign.py` | three attempts to extend the dictionary; all fail their held-out gates |
+| `roho_ocr.py`, `ocr_tokens.py`, `ocr_crossline.py` | a third transcription from the scans; fails for resolution |
+| `check_rohonc.py` | every figure in `ROHONC.md` against the saved runs in `work/rohonc/` |
 | `check_results.py` | verifies every figure quoted in the prose against the data |
 | `gate.py` | the checks that must pass after any change |
 

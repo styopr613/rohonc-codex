@@ -1,0 +1,3 @@
+441 pages, 4372 lines, 29997 words, 5010 types, 72862 glyphs
+  TTR 0.1670, 2.43 glyphs per word
+  within-line pairs 24994, across-break pairs 3931

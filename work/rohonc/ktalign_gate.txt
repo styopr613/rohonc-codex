@@ -1,0 +1,23 @@
+HELD-OUT GATE -- sequence alignment
+
+ rank   freq  true gloss                  proposed
+    —   1601  eleven                      hav, say, lick, son
+    —    932  thu                         motion, him, sid, hav
+    —    601  exist                       decre, angel, say, king
+    —    589  insid/within                call, day, sid, first
+    —    577  divin/husband/lord/person   rob, say, alphaeu, head
+    —    455  away                        alphaeu, angel, send, say
+    —    335  first/one                   say, king, jew, slav
+    1    321  say/speech                  say, son, answer, jew
+    2    307  carry/com/forward/lead/sen  usually, send, simon, zealot
+    —    192  becaus/order                decre, abod, king, say
+   11    167  ish/jew                     slav, nam, simon, zealot
+    —    120  ind/justifi/practic/right/  rebel, set, thing, straight
+    —     89  die/kill                    torment, look, doing, work
+
+tested 13 hidden codes
+  true gloss ranked #1    1  (8%)
+  true gloss in top 5     2  (15%)
+  true gloss in top 20    3  (23%)
+
+bar: top-5 >= 30%  ->  FAIL
