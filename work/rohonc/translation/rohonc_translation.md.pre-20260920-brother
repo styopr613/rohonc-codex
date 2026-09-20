@@ -760,12 +760,8 @@ and it matches.
 **12**  a hundred years and twenty years; from Abraham […] […]
 `one hundred-year and ten-ten-year from Abraham [?] table [?]`
 
-**13**  Moses began: three thousand and fifty from Abraham until
-`+Moses ~begin-+three_thousand and +fifty from Abraham until`
-
-> Line 13 first read as three blanks. The numerals are five strokes and a
-> thousand sign, five strokes and a ten sign, read by Király & Tokai's rule
-> that the sign after a group of strokes multiplies it (2026-09-20).
+**13**  […] […] and […] from Abraham until
+`[?] [?] and [?] from Abraham until`
 
 > The angel gives Abraham the whole gospel in advance: a virgin's son named
 > Jesus, who preaches, works miracles, suffers, and rises. Then the book
@@ -814,17 +810,11 @@ and it matches.
 
 ## 015v — the count of years
 
-**1**  the birthday: from Adam onward until the Virgin Mary | was born,
-`be_born-+day from +Adam ?onward ~out(ward) until virgin-Mary | be_born`
+**1**  […] from […] […] until the Virgin Mary | was born
+`[?] from [?] [?] ~out(ward) until virgin-Mary | be_born`
 
-**2**  years: five thousand and one hundred years and fifty
-`+day +five_thousand and one hundred-+day and +fifty`
-
-> Lines 1 and 2 first read as blanks. The sign now read Adam is one Király &
-> Tokai's own entry lists as a spelling of Adam at 100v; the numerals are
-> five strokes + thousand and five strokes + ten. So the book dates the
-> Virgin's birth from Adam at 5,158 years, and the birth of Christ on 021r
-> follows the same formula (2026-09-20).
+**2**  […] […] and one […] and […]
+`[?] [?] and one [?] and [?]`
 
 **3**  and four years, and four years.
 `and two-two-year and two-two-year`
@@ -958,14 +948,11 @@ and it matches.
 **11**  […] two months; and […] […]; and at six years
 `out(ward) two moon and on-out(ward) [?] and on-six-year-to`
 
-**12**  from Adam onward until the Virgin Mary was conceived and born:
-`~out(ward) from +Adam ?onward until virgin-Mary get_conceived and on-be_born.`
+**12**  […] from […] […] until the Virgin Mary was conceived; and […]
+`~out(ward) from [?] [?] until virgin-Mary get_conceived and [?]`
 
-**13**  five thousand and one hundred and fifty and
-`+five_thousand and one hundred and +fifty and`
-
-> Lines 12 and 13 first read as blanks; the same Adam-to-Mary count as 015v
-> (2026-09-20).
+**13**  […] and one hundred, and […] and
+`[?] and one hundred and [?] and`
 
 > The meeting at the Golden Gate, and the conception of Mary. Line 10 is the
 > kind of detail no paraphrase invents: nine months carried, born in the tenth.
@@ -1258,11 +1245,8 @@ without any dictionary at all.
 **2**  Saint Luke writes, in […] […] of his writing, chapter […] […]
 `write holy-Luke inside [?] [?] <of>-write chapter [?] [?]`
 
-**3**  from Adam onward until the birth of the Lord Jesus Christ.
-`out(ward) from +Adam ?onward until be_born Lord-Jézus-Christ.`
-
-> Line 3 first read as blanks; the same Adam-to-Christ formula as 015v and
-> 017v, now that the Adam sign is read (2026-09-20).
+**3**  […] from […] […] until the birth […]
+`out(ward) from [?] [?] until be_born [?]`
 
 **4**  […] and […] hundred years and sixty years
 `[?] and [?] hundred-year and two-two-two-ten-year`
@@ -5538,45 +5522,6 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > The nine orders of angels on line 1, which is Pseudo-Dionysius by way of
 > every medieval preaching book, and the judgment of all peoples by one word.
 
-## 080r — the Comforter, and the threefold reproof
-
-**1**  Before the gospel: written by holy John, in the sixteenth chapter of his writing.
-`before gospel write holy-John inside ten-six chapter <of>-write`
-
-**2**  Then said the Lord Jesus to his apostles at the last supper: this Lord
-`time say Lord-Jézus apostle <of>-Lord on-last dinner this-Lord`
-
-**3**  goes to his Father. You know that
-`go-Lord <of>-Lord father-<divine> you learn do,`
-
-**4**  the heavenly kingdom, that is: this Lord goes away, to die; the Lord
-`heavenly land that_is this-Lord ?go_away on-die Lord`
-
-**5**  dies, and this Lord sends you the Holy Spirit. In turn,
-`die and this-Lord you go holy-spirit | in_turn`
-
-**6**  if this Lord did not die, did not go away, to you the Holy Spirit
-`who this-Lord this die to you +go_not_away holy-spirit`
-
-**7**  [would not come]. The Lord dies, and this Lord sends you the Holy Spirit,
-`Lord-die and this-Lord you go holy-spirit`
-
-**8**  and you shall see two judgments: the first, of sin;
-`and you exist see-two judge first from +sin`
-
-**9**  the second, of righteousness; the third, judgment. And then you
-`in_turn-two from righteous(ly) +third judge and then-exist you`
-
-**10**  receive this Holy Spirit; from the Spirit, through him, he takes you.
-`go this holy-spirit from-spirit through grab you`
-
-> John 16:7-13: "if I go not away, the Comforter will not come unto you; but
-> if I depart, I will send him unto you. And when he is come, he will reprove
-> the world of sin, and of righteousness, and of judgment ... he will guide
-> you into all truth." The citation on line 1 is right. The two readings
-> marked here, *go away* and *go not away*, sit where Király & Tokai's own
-> apparatus puts a negated *go* on these very lines.
-
 ## 080v — the apostles wait in prayer with Mary
 
 **1**  […] every good thing; and the apostles […] lift up […] […]
@@ -6989,59 +6934,15 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Luke 11:33, *no man, when he hath lighted a candle, putteth it in a secret
 > place... but on a candlestick, that they which come in may see the light.*
 
-## 099r — he that dwelleth in love dwelleth in God
-
-**1**  the man receives, and God receives the man […] the man, God. To
-`somebody grab and God somebody grab [?] somebody God | to`
-
-**2**  this the man has: the Lord God, Jesus Christ, the Son of God;
-`this have somebody Lord-<divine> Jézus Christ son <of>-God`
-
-**3**  and the Lord, the Lord's head, heaven and earth;
-`and Lord ~head-Lord +heaven and earth`
-
-**4**  and love his brother as thy neighbour.
-`and love <of>-somebody father son how?-to somebody +neighbour`
-
-**5**  In turn […] the holy man; the man has wealth, he sees;
-`in_turn [?] ~rich somebody have somebody wealth see`
-
-**6**  trespass; the unseen God; and the man […] has God, the man
-`trespass blind God and somebody [?] have God somebody`
-
-**7**  loves the holy man as thy neighbour. Of
-`+<subj> love-rich-somebody how?-to somebody +neighbour exist | <of>`
-
-**8**  whosoever is holy, one, the kingdom of heaven, speaks holy Matthew; and
-`?whosoever-rich-+one heaven land speak holy-~Matthew and`
-
-**9**  the man […] says: this man loves God. In turn, of the holy
-`somebody [?] say this-somebody God love in_turn | <of>-rich.`
-
-**10**  man, his brother […] loves the holy man, from […]
-`somebody father son [?] love-rich-somebody from [?]`
-
-> 1 John 4:15-21: "Whosoever shall confess that Jesus is the Son of God, God
-> dwelleth in him ... he that loveth not his brother whom he hath seen, how
-> can he love God whom he hath not seen? ... he who loveth God love his
-> brother also." *Father son* is the book's word for brother, "my father's
-> son", by Király & Tokai's own entry, which cites lines 4 and 10 here.
-
 ## 099v — if a man say, I love God, and hateth his brother, he is a liar
-
-> Corrected 2026-09-20: lines 2, 3 and 6 first read "the father, the son".
-> Király & Tokai's entry for *son* says the pair *father son* is the book's
-> word for brother, "my father's son", and cites these very lines. So
-> 1 John 4:20-21 stands here word for word: he that loveth God love his
-> brother also.
 
 **1**  he is a liar; how does this man love God, in turn, of
 `one liar exist how? this somebody God love in_turn | <preposition_of_genitive>`
 
-**2**  his brother […] loves God […] the Most High, this he sees.
+**2**  the man, the father, the son […] loves God […] the high, this he sees.
 `somebody father son [?] love God [?] high-this see.`
 
-**3**  the man, in turn, his brother he sees; whosoever […]
+**3**  the man, in turn, his father, his son he sees; whosoever […]
 `somebody in_turn <preposition_of_genitive>-somebody father son see ?whosoever [?]`
 
 **4**  the son […] the man loves; how does this man love God, this
@@ -7050,7 +6951,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **5**  pleasing; in turn the rich man would love God; first love, of the rich
 `pleasing in_turn want-rich-somebody God love first love | <preposition_of_genitive>-rich`
 
-**6**  man, his brother, as the holy man, the holy man's neighbour, God
+**6**  man, the father, the son, as the rich man, the rich man's neighbour, God
 `somebody father son how?-to rich-somebody rich-+neighbour God`
 
 **7**  and good; the rich man is loved […] […] the eternal
@@ -7069,161 +6970,3 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > liar: for he that loveth not his brother whom he hath seen, how can he love
 > God whom he hath not seen?* Lines 1–4 have both halves of it, and the
 > answer on line 6 is the great commandment again.
-
-## 100r — Elijah taken up by fire, and the list of miracles
-
-**1**  the neighbour is of the holy man; the eternal kingdom […]
-`+neighbour exist <of>-rich-somebody ?eternal land [?]`
-
-**2**  the holy man, from […] the Lord, from the Father and the Son and the Holy Spirit.
-`rich somebody from [?] Lord from father-<divine> and son and holy-spirit`
-
-**3**  Elijah the prophet was taken,
-`+Elijah prophet grab`
-
-**4**  by fire, into heaven.
-`fire on-+heaven`
-
-**5**  Various miracles:
-`various miracle`
-
-**6**  afterward the blind eyes,
-`?afterward blind eye`
-
-**7**  through light [saw]; the dead
-`+<subj> through light die +<subj>`
-
-**8**  were raised up; the lame [walked];
-`?raised_up +lame`
-
-**9**  the body, and the possessed of the evil one, were healed. Elijah? Who? and this,
-`body and evil obsessed_by_the_evil +<subj> from-healing +Elijah | who-and-this`
-
-**10**  and this miracle: did Elijah do it? writes the church father, the scholar […]
-`and-this miracle do, +Elijah write church_father scholar [?]`
-
-**11**  First writes the scholar […]; the church father […] Elijah.
-`first write scholar [?] church_father [?] +Elijah`
-
-> 2 Kings 2:11 on lines 3-4, then the Matthew 11:5 list: the blind receive
-> their sight, the dead are raised up, the lame walk, the sick are healed.
-> The sign read Elijah here was read *Enoch* until today; it is Király &
-> Tokai's own Elijah with one glyph swapped, and the Horeb pages at 133r
-> settle it. *Lame* and *raised up* stand where their apparatus cites their
-> own lame and resurrect signs on these lines. Lines 9-11 are a scholastic
-> question, whether Elijah did these, answered from the fathers.
-
-## 100v — the fathers on the sepulchre, a chronology, and the temple of forty-six years
-
-**1**  the sepulchre; to heaven; on earth; on that, writes […]
-`burial_chamber to-+heaven on-earth on-that_is write [?]`
-
-**2**  […] the church father, on that, writes: the Most High hid himself, and from […] the scholar.
-`[?] church_father on-that_is write high-hide_oneself-and-from scholar.`
-
-**3**  […] the church father, on that, writes the scholar […] the Pharisees.
-`[?] church_father on-that_is write scholar [?] ?Pharisees`
-
-**4**  And the church father writes this three; and Saint Augustine the church father: Elijah
-`and church_father this +three write and +Saint_Augustine_the_church_father +Elijah`
-
-**5**  the Lord God [heart-Lord] first, but rather [heart-Lord] the sun and the moon,
-`Lord-<divine> +heart-Lord first +but_rather +heart-Lord sun and moon`
-
-**6**  and there is living Elijah; to Elijah, two; then, from
-`and exist living +Elijah to +Elijah two then-exist from`
-
-**7**  Adam [heart-Lord] fifty; and on this man […] seven
-`+Adam +heart-Lord +fifty and on-this somebody [?] +seven`
-
-**8**  people. Then is this man five hundred and
-`people-chapter time exist this somebody +five_hundred and`
-
-**9**  thirty. In the thirtieth year, then: "destroy", the Lord; five
-`thirty thirty-+day time destroy Lord-<divine> +five`
-
-**10**  towns; and then on this: "destroy", forty years and six years.
-`town and then-exist on-this destroy two-two-ten-year and six-year`
-
-> Lines 9-10 are John 2:19-20, "Destroy this temple ... Forty and six years
-> was this temple in building", set in the thirtieth year of Jesus, which is
-> the sense Király & Tokai give this *thirty* sign. Saint Augustine is named
-> on line 4 by their own entry. The sign rendered *heart-Lord* on lines 5
-> and 7 is a cut, heart + Lord, and it does not read; it stands three times
-> where "made" would stand (the Lord made first ... the sun and moon; Adam
-> ... fifty) and at 010v:9 before "heaven and earth". Flagged, not read.
-
-## 101r — Elijah's fire, and Enoch and Elijah kept for Antichrist
-
-**1**  Then holy Elijah knelt down and prayed to the Lord God; to
-`time kneel_(down) holy-+Elijah and pray Lord-<divine> | to`
-
-**2**  fire; and took; the angel of God said, the angel of God, to Elijah:
-`fire and grab God angel say God angel +Elijah`
-
-**3**  this is the angel of the Lord; and this man from […]
-`this exist-<of>-angel Lord-<divine> and this somebody from-exist`
-
-**4**  And Elijah, the man, from […] […] […] and
-`and +Elijah-somebody from-leave-to-leave [?] [?] and`
-
-**5**  Elijah, the man, was taken up into heaven […] and […]. Elijah,
-`+Elijah-somebody get_raptured heaven [?] and [?] | +Elijah`
-
-**6**  the man […] from the day; Noah and Elijah shall bear the sword;
-`somebody [?] from-+day Noah +Elijah +sword carry`
-
-**7**  the evil one […] and […] […] Noah and Elijah on the earth.
-`~evil [?] and [?] leave-to-leave Noah +Elijah on-earth`
-
-**8**  […] […] shall be born; two; the chief evil, the evil one,
-`[?] [?] through be_born two ~head-evil ~evil`
-
-**9**  and the son of the devil; and there is […] evil, who is Antichrist.
-`and son hide_oneself-angel and exist-[?] evil exist Antichrist`
-
-> 1 Kings 18:36-38 on lines 1-2, Elijah's prayer and the fire; then the
-> Gospel of Nicodemus, chapter 20: Enoch and Elijah, kept alive, return at
-> the coming of Antichrist, fight him and are slain by him. *Sword* is a
-> spelling Király & Tokai's own sword entry cites at this line. The sign
-> beside Elijah on lines 6 and 7 is their Noah sign, and this passage
-> repeats word for word at 133v-134r, where they mark the same sign as a
-> variant of Noah. In every source it is Enoch who stands here, and Noah is
-> never taken up to heaven (133v:8). Their reading stays on the page; the
-> doubt is recorded.
-
-## 101v — the opening of a reading from Luke: Simeon
-
-**1**  Before the gospel, says
-`before gospel speak`
-
-**2**  holy Luke: thanks to the Lord,
-`holy-Luke to-Lord thanks`
-
-**3**  the Lord God, thanks be;
-`Lord God thanks exist`
-
-**4**  of the Lord, holy mercy, Lord;
-`<of>-Lord holy-have_mercy Lord`
-
-**5**  this Lord, the gate, Lord;
-`this Lord gate Lord`
-
-**6**  of the Lord, many homes.
-`<of>-Lord many home`
-
-**7**  Before, many holy fathers before, many, writes […] the church father:
-`before many holy-father-before many write [?] church_father`
-
-**8**  heaven; the Lord's Son […] the Lord taken; to see one […]
-`+heaven Lord son +<subj> grab-Lord see one [?]`
-
-**9**  because many holy fathers wanted to see the Lord Jesus Christ […]
-`because because many holy-father want see Lord-Jézus-Christ [?]`
-
-**10**  The Lord's chapter: many; how shall we see? In turn, Simeon; one, Simeon.
-`Lord-chapter many ?how_shall_we see a) Simeon one-Simeon`
-
-> Luke 2:25-32, Simeon, who was promised he should not see death before he
-> had seen the Lord's Christ, and Luke 10:24, "many prophets and kings have
-> desired to see those things which ye see". The reading continues on 102r.

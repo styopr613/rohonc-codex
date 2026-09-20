@@ -463,10 +463,10 @@
   "evidence": "names two emperors in its own sentences: '[the emperor] was Heraclius' 183r:8; '[the emperor] Khosrow, who sits' 184r:9; 'so Rome, [the emperor], when he had two' 183v:1; 'before the king, before [the emperor]' 129v:4"
  },
  "670690360": {
-  "gloss": "Elijah",
-  "tier": "A",
-  "n": 22,
-  "evidence": "WAS read as Enoch (tier B) and that was wrong. Kiraly & Tokai's own Elijah is 6705d1360; this is the same word with glyph 690 for 5d1, and the pair recurs in 'holy Elijah' 871670690360 / 8716705d1360, the only two words in the book that differ by that swap. The content settles it: '[Elijah] the prophet, taken up, fire, into heaven' 100r:3 = 2 Kings 2:11; forty days 133r:5, Horeb 133r:6, 133r:10, 133v:2 (K&T gloss Horeb there), one tree and the angel a second time 133r:8, 'ate and drank and was strengthened' 133r:9, 133v:5 = 1 Kings 19:4-8. Enoch is the other of the pair at 101r:6-7, 133v:9-10, where K&T's Noah sign stands and probably means Enoch (Noah is never taken up to heaven, 133v:8), but that is their sign and their call."
+  "gloss": "Enoch",
+  "tier": "B",
+  "n": 20,
+  "evidence": "'[Enoch] was taken up into heaven' 101r:5 = Genesis 5:24; stands beside Noah at 101r:6 and 101r:7, beside Moses and a prophet at 215v:8, and beside the scribes and books at 100r:10, which is where Enoch belongs in this literature"
  },
  "a79": {
   "gloss": "answered",
@@ -529,10 +529,10 @@
   "evidence": "'the Lord: love the Lord God [with all thy heart]' 075v:6 = Deuteronomy 6:5"
  },
  "520b52": {
-  "gloss": "until",
-  "tier": "B",
-  "n": 12,
-  "evidence": "WAS 'from town to town' (tier C) from 102r:6-7 alone, and that was too narrow: the word is the 'to' in 'town [to] town, temple [to] temple, field [to] field' there. Elsewhere 'from Abraham [until] Moses' 209r:4, 209r:5; 'from Adam [until] this' 133r:1; '[until] the birth of the Lord Jesus Christ' 223v:11; '[until] Abraham a hundred years' 209r:3"
+  "gloss": "from town to town",
+  "tier": "C",
+  "n": 14,
+  "evidence": "'town [from town to town], and his disciples went into the world' 102r:7"
  },
  "520060060060131": {
   "gloss": "baptism",
@@ -989,155 +989,5 @@
   "tier": "C",
   "n": 1,
   "evidence": "119v:6, having ten drachmas, if of the ten she lose one, Luke 15:8. Read against the source the page is telling"
- },
- "871446916b26": {
-  "gloss": "Saint Augustine the church father",
-  "tier": "A",
-  "n": 3,
-  "evidence": "holy (871) + K&T's Augustine stem (446, their entry 446b26 '[Saint] Augustine') + their church-father sign 916b26. Their Augustine entry cites 100v04, 107v02 and 150v06, which are exactly this word's three occurrences. 'Saint Augustine the church father writes' 100v:4; 'of the death of Christ speaks Saint Augustine' 107v:2"
- },
- "5d13b7a101314a0": {
-  "gloss": "sword",
-  "tier": "A",
-  "n": 3,
-  "evidence": "K&T's entry for sword (5402205201c4) lists its spellings by line, and one spelling is cited at 005r07, 101r06, 133v09: exactly this word's three occurrences. Abraham's sword over Isaac 005r:7 = Genesis 22:10; Enoch and Elijah slain by the sword of Antichrist 101r:6, 133v:9 = the Gospel of Nicodemus ch. 20 and the Golden Legend"
- },
- "670063670170": {
-  "gloss": "lame",
-  "tier": "B",
-  "n": 1,
-  "evidence": "K&T's 670063520170 'cripple or lame (cp. Lk 14,21)' is cited by them at 100r08, this word's line; the spelling differs by 670 for 520 in the middle. Sits in the Matthew 11:5 list: blind eyes 100r:6, the dead raised 100r:7-8, [the lame], the body and the possessed healed 100r:9"
- },
- "670060670170": {
-  "gloss": "lame",
-  "tier": "C",
-  "n": 1,
-  "evidence": "the same word as 670063670170 with 060 for 063, at 102r:9 which K&T cite for their lame sign, in the same miracle list: the dead raised, [the lame], the body and the possessed healed 102v:1"
- },
- "520ae0536290": {
-  "gloss": "raised up",
-  "tier": "C",
-  "n": 1,
-  "evidence": "K&T's 520ae0536 'resurrect' plus a suffix, at 100r:8 directly after 'the dead' 100r:7 in the Matthew 11:5 list of miracles"
- },
- "4f1540ae0520536270": {
-  "gloss": "raised up (by the Lord)",
-  "tier": "C",
-  "n": 1,
-  "evidence": "contains K&T's resurrect stem 520536 and the Lord suffix 270; K&T cite this line 102r09 for their resurrect expression. After 'the dead' 102r:9, before the lame"
- },
- "a014a78f7": {
-  "gloss": "go not away",
-  "tier": "B",
-  "n": 2,
-  "evidence": "contains K&T's go (4a7). Their entry for go lists a negated form at 068v09 and 080r06, this word's two occurrences, and their 520060 'does not' entry cites the same two lines. Both are the John 16:7 slot: 'if I [go not away], the Comforter will not come unto you' 068v:9, 080r:6, and the Holy Spirit stands in the next word"
- },
- "4a7520830": {
-  "gloss": "go away",
-  "tier": "C",
-  "n": 2,
-  "evidence": "K&T's go (4a7) + their directional prefix 'away' (520) + 830; both occurrences at the John 16:7 slot 'it is expedient for you that I [go away]' 068v:7, 080r:4, which K&T cite for 'heavenly' on the same lines"
- },
- "060060060060060460ae1": {
-  "gloss": "fifty",
-  "tier": "A",
-  "n": null,
-  "evidence": "five strokes, K&T's ten (460) which multiplies the group before it (their 40 days = four strokes + ten), and their year/day terminator ae1. The renderer had cut it as one + forty, which is the same glyphs read with the wrong break"
- },
- "060060060060060b25ae1": {
-  "gloss": "five hundred",
-  "tier": "A",
-  "n": null,
-  "evidence": "five strokes + K&T's hundred (b25) + their year/day terminator ae1, at 100v:8"
- },
- "060060060060060b25": {
-  "gloss": "five hundred",
-  "tier": "A",
-  "n": null,
-  "evidence": "five strokes + K&T's hundred (b25), at 133r:1 before 'years and thirty-six years'. The renderer had cut it as three + two-hundred"
- },
- "060060060060460ae1": {
-  "gloss": "forty",
-  "tier": "A",
-  "n": 7,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 4 stroke(s) then their ten sign, which multiplies the group before it (their '40 days' is four strokes + ten), with their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060060060990990990971ae1": {
-  "gloss": "five thousand",
-  "tier": "A",
-  "n": 3,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 5 stroke(s) then their thousand sign, which multiplies the group before it (their '40 days' is four strokes + ten), with their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060460": {
-  "gloss": "thirty",
-  "tier": "A",
-  "n": 2,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 3 stroke(s) then their ten sign, which multiplies the group before it (their '40 days' is four strokes + ten), without their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060060060060060460": {
-  "gloss": "seventy",
-  "tier": "A",
-  "n": 2,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 7 stroke(s) then their ten sign, which multiplies the group before it (their '40 days' is four strokes + ten), without their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060060060060060060060b25ae0": {
-  "gloss": "nine hundred",
-  "tier": "A",
-  "n": 1,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 9 stroke(s) then their hundred sign, which multiplies the group before it (their '40 days' is four strokes + ten), with their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060060060060460ae1": {
-  "gloss": "sixty",
-  "tier": "A",
-  "n": 1,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 6 stroke(s) then their ten sign, which multiplies the group before it (their '40 days' is four strokes + ten), with their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060990990990971ae1": {
-  "gloss": "three thousand",
-  "tier": "A",
-  "n": 1,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 3 stroke(s) then their thousand sign, which multiplies the group before it (their '40 days' is four strokes + ten), with their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060990990990971ae0": {
-  "gloss": "three thousand",
-  "tier": "A",
-  "n": 1,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 3 stroke(s) then their thousand sign, which multiplies the group before it (their '40 days' is four strokes + ten), with their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060060060460": {
-  "gloss": "fifty",
-  "tier": "A",
-  "n": 1,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 5 stroke(s) then their ten sign, which multiplies the group before it (their '40 days' is four strokes + ten), without their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060b25": {
-  "gloss": "two hundred",
-  "tier": "A",
-  "n": 1,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 2 stroke(s) then their hundred sign, which multiplies the group before it (their '40 days' is four strokes + ten), without their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060060060460ae0": {
-  "gloss": "fifty",
-  "tier": "A",
-  "n": 1,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 5 stroke(s) then their ten sign, which multiplies the group before it (their '40 days' is four strokes + ten), with their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060060060060990990990971ae0": {
-  "gloss": "five thousand",
-  "tier": "A",
-  "n": 1,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 5 stroke(s) then their thousand sign, which multiplies the group before it (their '40 days' is four strokes + ten), with their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "060060990990990971ae1": {
-  "gloss": "two thousand",
-  "tier": "A",
-  "n": 1,
-  "evidence": "numeral by Kiraly & Tokai's composition rule: 2 stroke(s) then their thousand sign, which multiplies the group before it (their '40 days' is four strokes + ten), with their year/day terminator. Entered whole so the renderer cannot cut it at the wrong stroke"
- },
- "540540ae0": {
-  "gloss": "Adam",
-  "tier": "A",
-  "n": 4,
-  "evidence": "K&T's entry for Adam/man (540ae0540ae0) lists its variant spellings by line and cites 100v07, this word's line there. The other three occurrences are all the chronology formula: 'from [Adam] onward until the Virgin Mary was born, 5,000 and 100 and 50 ... years' 015v:1-2; 'from [Adam] onward until the Virgin Mary was conceived and born, 5,000 and 100 and 50' 017v:12-13; 'from [Adam] onward until the birth of the Lord Jesus Christ' 021r:3. The renderer had cut it as will + day"
  }
 }

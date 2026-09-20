@@ -1014,7 +1014,7 @@ is offered as such.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 188
+With the rendering on the page it became possible to read it, and 182
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
@@ -1100,44 +1100,15 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 188 signs are read
+in the book and keep it only if it survives all of them. 159 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
-decisive occurrences, graded A, B, C or D. 48 are tier A, twenty of them
-stroke numerals entered whole by their composition rule. They include the tally
+decisive occurrences, graded A, B, C or D. 26 are tier A. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **58.7%**.
-
-**Their apparatus reads more than their headwords.** Every entry in Kiraly
-and Tokai's dictionary cites folio and line for its examples and for each
-variant spelling, and those citations land on words this project had been
-treating as unread. `harness/ktlook.py --cite 100r10` prints every entry that
-cites a line, and on one batch of six folios it settled seven readings that
-no amount of guessing from context would have earned: the pair *father son*
-is their word for brother, "my father's son", cited at the very lines of
-1 John 4 where it had been translated as "the father, the son"; *Saint
-Augustine the church father* is spelled out by their Augustine entry at all
-three of its occurrences; a spelling of *sword* is cited at exactly the three
-lines where it was unread; their *lame* and *resurrect* are cited on the
-miracle list of 100r; a negated *go* is cited on both lines of John 16:7,
-which is *if I go not away*; and a spelling of *Adam* is cited at 100v:7,
-which turned three blank chronology lines into *from Adam until the Virgin
-Mary was born, 5,158 years*. Each of those is graded A because it is their
-reading, checked at every occurrence, not this project's guess.
-
-**One reading was wrong and is corrected in place.** The sign that was read as Enoch
-since 2026-09-19 is Elijah. It is their own Elijah sign with one glyph
-swapped, the only such pair in the book besides *holy Elijah* written both
-ways, and the pages settle it: taken up by fire (100r:3), forty days (133r:5),
-Horeb (133r:6, 10, 133v:2, where they gloss Horeb), the tree and the angel's
-second visit (133r:8), *ate and drank and was strengthened* (133r:9). The
-Enoch of the Enoch-and-Elijah passage at 101r and 133v is written with their
-Noah sign; that stays as their reading, with the doubt recorded on the page.
-Twenty stroke numerals that the renderer had been cutting at the wrong stroke
-(*three* + *two thousand* for *five thousand*) are now entered whole.
+lines where every word is read from 23.8% to **58.4%**.
 
 Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
 into pieces Kiraly and Tokai define; it was never given their own variant
