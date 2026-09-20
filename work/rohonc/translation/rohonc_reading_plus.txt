@@ -3210,12 +3210,12 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 126v ===
  1  Lord-father son spirit exist grab lose | two-~Adam
- 2  slide say Lord-Jézus then-?therefore two can [?].
- 3  each,_every ~until this | [?] ?therefore have_mercy on-angel <preposition_of_genitive>-Lord
- 4  from-father-<suffix_of_divine_name> can to-[?] [?] [?] ?therefore
- 5  exist be_born mother <preposition_of_genitive>-Lord love and [?] this-Lord from mother
- 6  [?] be_born and [?] this-Lord +cross [?] in_turn
- 7  [?]-[?] +cross from want [?] this drachma this ?eternal
+ 2  slide say Lord-Jézus then-?therefore two can +find.
+ 3  each,_every ~until this | +redemption ?therefore have_mercy on-angel <preposition_of_genitive>-Lord
+ 4  from-father-<suffix_of_divine_name> can to-[?] +find +redemption ?therefore
+ 5  exist be_born mother <preposition_of_genitive>-Lord love and +redemption this-Lord from mother
+ 6  [?] be_born and +redemption this-Lord +cross [?] in_turn
+ 7  [?]-[?] +cross from want +find this drachma this ?eternal
  8  land [?]-+<subject_marker> exist from [?]-slide
  9  [?] hide_oneself-angel and say Lord-Jézus this-Lord want-Lord
 10  trespass grab and ~redeem-Lord <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> heaven
@@ -3239,11 +3239,11 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 127v ===
  1  prepare holy-Hezekiah_<king> and on-[?]
  2  <preposition_of_genitive>-Hezekiah_<king> soul breathe_out and then-exist-chapter-to-and
- 3  [?] soul breathe_out time appear.
- 4  God angel and say servant [?] put.
- 5  this exist-exist-chapter inside burial_chamber in_turn soul [?] | this
+ 3  +of_Hezekiah soul breathe_out time appear.
+ 4  God angel and say servant +of_Hezekiah put.
+ 5  this exist-exist-chapter inside burial_chamber in_turn soul +Hezekiah | this
  6  angel want-angel grab and leave angel
- 7  in_turn [?] exist-exist-chapter inside burial_chamber put.
+ 7  in_turn +holy_Hezekiah exist-exist-chapter inside burial_chamber put.
  8  servant speak holy-Paul [?] [?] brother <preposition_of_genitive>-Paul
  9  [?] and Paul prepare <preposition_of_genitive>-Paul last year
 
@@ -3275,8 +3275,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 129r ===
  1  and can apostle [?] Lord-Jézus ~Christ-to because-?therefore
- 2  out(ward) holy-spirit have_mercy and speak holy-John | [?]
- 3  [?] on-apostle and each,_every apostle grab holy-spirit
+ 2  out(ward) holy-spirit have_mercy and speak holy-John | +breathed
+ 3  +upon_them on-apostle and each,_every apostle grab holy-spirit
  4  +and_then Lord-Jézus apostle <preposition_of_genitive>-Lord you go-apostle
  5  ?into_the_world and exist-apostle <preposition_of_genitive>-Lord gospel preach
  6  and exist-apostle baptize inside <preposition_of_genitive>-Lord +name

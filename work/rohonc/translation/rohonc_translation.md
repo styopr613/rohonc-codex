@@ -8999,3 +8999,208 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > narrative back to the lost drachma of Luke 15:8, which the book expounded
 > on 121r: the coin God lost is man, lost here. This page is the second copy
 > of 007v.
+
+## 126v — the Lord seeks the drachma he lost
+
+**1**  The Lord, the Father, the Son, the Spirit, took what was lost; | the two, Adam,
+`Lord-father son spirit exist grab lose | two-~Adam`
+
+**2**  the serpent. Said the Lord Jesus: then therefore the two could find it.
+`slide say Lord-Jézus then-?therefore two can +find.`
+
+**3**  All, until this | redemption; therefore have mercy on the angel of the Lord,
+`each,_every ~until this | +redemption ?therefore have_mercy on-angel <of>-Lord`
+
+**4**  from the Father God; he could […] find, redemption, therefore.
+`from-father-<divine> can to-[?] +find +redemption ?therefore`
+
+**5**  He was born of a mother, the Lord's love, and redemption; this Lord, of a mother
+`exist be_born mother <of>-Lord love and +redemption this-Lord from mother`
+
+**6**  […] was born; and redemption, this Lord, the cross […]; in turn
+`[?] be_born and +redemption this-Lord +cross [?] in_turn`
+
+**7**  […] […] the cross; from there he would find this drachma, this eternal
+`[?]-[?] +cross from want +find this drachma this ?eternal`
+
+**8**  kingdom […] there is, from […] the serpent;
+`land [?]-+<subj> exist from [?]-slide`
+
+**9**  […] the hidden angel. And said the Lord Jesus: this Lord would
+`[?] hide_oneself-angel and say Lord-Jézus this-Lord want-Lord`
+
+**10**  take the trespass, and redeem, of the Lord, from the Father God, heaven.
+`trespass grab and ~redeem-Lord <of>-Lord from-father-<divine> heaven`
+
+> The lost coin of Luke 15:8 expounded a third time: God lost it in Eden,
+> and finds it by the Incarnation and the cross. *Redemption* and *find* are
+> both Király & Tokai's, and their entries cite lines 2 to 7 here one by one.
+
+## 127r — Hezekiah is told he shall die, and is given more years
+
+**1**  He said, in sleep, the angel of God,
+`say inside sleep God angel`
+
+**2**  to holy Hezekiah
+`holy-Hezekiah`
+
+**3**  the prophet; Hezekiah,
+`prophet Hezekiah`
+
+**4**  the Lord God, this is, saith the Lord:
+`Lord-<divine> +this_is say-Lord`
+
+**5**  within three days, this | one
+`until +three_days | this`
+
+**6**  shall die. And then
+`+<subj> die and then-exist`
+
+**7**  from laughter, holy Hezekiah
+`from +laugh holy-Hezekiah`
+
+**8**  began, Hezekiah, to be sad,
+`begin Hezekiah sad(ly)`
+
+**9**  holy Hezekiah, and cried out: who shall make ready?
+`holy-Hezekiah and cry_out who-exist prepare-chapter-to-and`
+
+**10**  There went to Hezekiah […] and a second time said the angel of God:
+`go to-<of>-Hezekiah +heart-Lord and two say God angel`
+
+**11**  Hezekiah, the Lord God, this is, saith: I have had mercy on thee; it is
+`Hezekiah Lord-<divine> +this_is say have_mercy-chapter-to-who exist`
+
+**12**  until […] years thou shalt live; and mercy.
+`+until +five-14-?years living-chapter-to-and and have_mercy`
+
+> Isaiah 38 and 2 Kings 20:1-6: "Set thine house in order: for thou shalt
+> die, and not live ... I have heard thy prayer, I have seen thy tears:
+> behold, I will add unto thy days fifteen years." The numeral on line 12
+> does not resolve to fifteen: it is five strokes, then Király & Tokai's
+> sign for fourteen, then one more stroke and the year terminator. It is
+> recorded as unresolved rather than forced to fit the verse.
+
+## 127v — Hezekiah dies, and Paul sets his house in order
+
+**1**  Made ready, holy Hezekiah; and upon […]
+`prepare holy-Hezekiah and on-[?]`
+
+**2**  Hezekiah's soul breathed out; and then
+`<of>-Hezekiah soul breathe_out and then-exist-chapter-to-and`
+
+**3**  of Hezekiah the soul breathed out; then appeared
+`+of_Hezekiah soul breathe_out time appear.`
+
+**4**  the angel of God, and said to the servants: of Hezekiah, lay him.
+`God angel and say servant +of_Hezekiah put.`
+
+**5**  This is for ever, in the sepulchre; in turn the soul of Hezekiah, | this
+`this exist-exist-chapter inside burial_chamber in_turn soul +Hezekiah | this`
+
+**6**  the angel would take; and the angel left,
+`angel want-angel grab and leave angel`
+
+**7**  in turn, holy Hezekiah for ever in the sepulchre laid.
+`in_turn +holy_Hezekiah exist-exist-chapter inside burial_chamber put.`
+
+**8**  The servants speak; holy Paul […] […] the brethren of Paul
+`servant speak holy-Paul [?] [?] brother <of>-Paul`
+
+**9**  […] and Paul made ready, of Paul, in his last year.
+`[?] and Paul prepare <of>-Paul last year`
+
+> Three spellings of Hezekiah's name stand on this page, all of them Király
+> & Tokai's with one glyph changed. Paul comes in on line 8 as the second
+> example: the man who set his house in order at the end, 2 Timothy 4:6-7.
+
+## 128r — Paul's one only Son, and a new reading begins
+
+**1**  that he is, made ready, Hezekiah, holy Hezekiah
+`?he_is exist prepare-Hezekiah holy-Hezekiah`
+
+**2**  the prophet; this […] hath; and Paul, the man, made ready, he who,
+`prophet this [?] have and Paul-somebody prepare this-who`
+
+**3**  the Lord Jesus, the Son of God, of Paul, the man, the one only,
+`Lord-Jézus son God <of>-Paul-somebody one only_one`
+
+**4**  who was; that man went, because he lost […]
+`exist-exist go-this-somebody because lose [?]`
+
+**5**  Begins this | holy
+`begins this | holy`
+
+**6**  gospel, written | by holy
+`gospel write | holy`
+
+**7**  Luke, in the first chapter, in
+`Luke inside +one chapter inside`
+
+**8**  his writing. Then,
+`<of>-write time`
+
+**9**  when he was condemned,
+`if-exist to-?condemned`
+
+**10**  the Lord Christ, three days
+`Lord Christ +three_days`
+
+> Line 7 cites Luke, first chapter, and the reading that follows is the
+> appearance in the upper room after the resurrection, which is Luke 24.
+> It is recorded as off.
+
+## 128v — they were terrified, and believed not for joy
+
+**1**  […] night; then appeared
+`[?] night time appear`
+
+**2**  to his apostles, the gate. And then the Lord Jesus: the law, he is,
+`apostle <of>-Lord gate +and_then Lord-Jézus +law ?is_he-chapter`
+
+**3**  […] he is; and through, the apostles were startled, because
+`[?] exist and through startle apostle because`
+
+**4**  the apostles believed that he is; how, for gladness? And then
+`believe apostle ?he_is how? thanks-evil +and_then`
+
+**5**  the Lord Jesus had the apostles; the Lord, this Lord, the apostles saw; within is
+`Lord-Jézus have-apostle Lord this-Lord see-apostle inside exist`
+
+**6**  for ever a man […] the angel, for ever;
+`exist-chapter somebody [?] angel exist-exist-chapter`
+
+**7**  in turn, one, for gladness, could the apostles, the Lord,
+`in_turn one thanks-evil can apostle Lord`
+
+**8**  […] the Lord, who […] this Lord, to you,
+`[?] Lord ~who-[?] this-Lord to-you`
+
+**9**  […] be thirty days and three, and literally
+`[?] stay thirty +day and +three and literal`
+
+> Luke 24:36-41: "they were terrified and affrighted, and supposed that they
+> had seen a spirit ... and while they yet believed not for joy, and
+> wondered". Line 4 gives "believed not for joy" almost word for word.
+
+## 129r — receive ye the Holy Ghost, and go into all the world
+
+**1**  and the apostles could […] the Lord Jesus, Christ, because therefore
+`and can apostle [?] Lord-Jézus ~Christ-to because-?therefore`
+
+**2**  out, the Holy Spirit, mercy; and spake holy John: he breathed
+`out(ward) holy-spirit have_mercy and speak holy-John +breathed`
+
+**3**  upon them, the apostles; and all the apostles received the Holy Spirit.
+`+upon_them to-apostle and each,_every apostle grab holy-spirit`
+
+**4**  And then the Lord Jesus to his apostles: go ye, apostles,
+`+and_then Lord-Jézus apostle <of>-Lord you go-apostle`
+
+**5**  into the world, and be ye his apostles; preach the gospel.
+`?into_the_world and exist-apostle <of>-Lord gospel preach`
+
+> John 20:22, "he breathed on them, and saith unto them, Receive ye the Holy
+> Ghost", named to John on line 2, then Mark 16:15. Király & Tokai's breathe
+> sign is written across the line break here, half on line 2 and half on
+> line 3, and their entry cites it at line 3.

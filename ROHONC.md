@@ -991,20 +991,36 @@ follows. Seven were checked by hand:
                                                                Luke 15:11   OFF
     118v  Luke, seventh chapter     the publicans and sinners drew near, and
                                     the scribes murmured       Luke 15:1    OFF
+    128r  Luke, first chapter       the apostles terrified in the room, and
+                                    believing not for joy      Luke 24:36   OFF
 
-Ten of fourteen land on the right chapter of the right evangelist. The eighth
+Ten of fifteen land on the right chapter of the right evangelist. The eighth
 is off by one, and the twelfth is off by ten: 109v says Luke chapter nine
 over a page that tells Luke 19. Its first line does match Luke 9:51, *he
 stedfastly set his face to go to Jerusalem*, so the compiler may have opened
 there and run on, but that is a guess and the citation is recorded as a miss.
 The thirteenth is off in the book as well as the chapter: 113r says Matthew,
-first chapter, over the Prodigal Son, which is Luke 15. The fourteenth, 118v, says Luke seven over the setting of the Lost Sheep,
-which is Luke 15. All four misses are recorded as off rather than explained
-away, and the hit rate has fallen steadily as more were checked: it was eight
-of nine, it is now ten of fourteen. The first nine were the ones read
-earliest, so the early run of hits is partly the order they were checked in,
-and the honest claim is weaker than it looked: the book cites its evangelist
-and chapter, and gets the chapter right about seven times in ten. **A
+first chapter, over the Prodigal Son, which is Luke 15. The fourteenth, 118v,
+says Luke seven over the setting of the Lost Sheep, which is Luke 15, and the
+fifteenth, 128r, says Luke one over the upper room, which is Luke 24. All
+five misses are recorded as off rather than explained away, and the hit rate
+has fallen steadily as more were checked: it was eight of nine, it is now ten
+of fifteen. The first nine were the ones read earliest, so the early run of
+hits is partly the order they were checked in, and the honest claim is weaker
+than it looked: the book cites its evangelist and chapter, and gets the
+chapter right about two times in three.
+
+**The five misses share a shape.** Every one of them cites a LOWER chapter
+than the passage needs: John 2 for John 3, Luke 9 for Luke 19, Matthew 1 for
+Luke 15, Luke 7 for Luke 15, Luke 1 for Luke 24. None overshoots. That is not
+what random error looks like. Two readings of it are open. Either the numbers
+in those places are not chapter numbers at all but a numbering of readings
+within the compiler's own cycle, which would make them right and this test
+wrong about what it is testing; or the high chapter numbers are being lost
+somewhere. The second is the weaker of the two, because the book does write
+tens when it means them: 080r says ten-six for John 16 and 104v says ten for
+Luke 10, and both are right. This is a pattern noticed, not a result; it has
+had no gate run on it. **A
 compiler who invents a script does not have to get the chapter numbers right,
 and this one mostly does.**
 
@@ -1034,7 +1050,7 @@ is offered as such.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 236
+With the rendering on the page it became possible to read it, and 242
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
@@ -1120,16 +1136,16 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 254 signs are read
+in the book and keep it only if it survives all of them. 262 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
-decisive occurrences, graded A, B, C or D. 96 are tier A, twenty of them
+decisive occurrences, graded A, B, C or D. 104 are tier A, twenty of them
 stroke numerals entered whole by their composition rule. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **60.6%**.
+lines where every word is read from 23.8% to **60.8%**.
 
 **The book writes the creation twice, line for line.** Folios 121v-123r are
 the same text as 002v-003v, sentence for sentence in the same order: the

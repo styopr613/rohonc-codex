@@ -1535,5 +1535,53 @@
   "tier": "A",
   "n": 3,
   "evidence": "K&T's thirst entry (6e7) carries a second sense they gloss '? pine' and cite at 007r04 and 125r05: two of this word's three lines, which are the same sentence written twice. 'this is through [pining], and this is painful' 007r:4 = 125r:5, the sentence of Genesis 3:16"
+ },
+ "756ae0": {
+  "gloss": "redemption",
+  "tier": "A",
+  "n": 3,
+  "evidence": "K&T's '? salvation or redemption' (757) is cited by them at 192r03 and 126v03, 05, 06; this word stands at 126v:3, 5 and 6, and 756 at 126v:4, which their entry also cites. 'have mercy on the angel of the Lord ... [redemption] ... the Lord was born of a mother ... [redemption], this Lord, the cross' 126v:3-6. Their gloss carries their doubt and it is kept"
+ },
+ "756": {
+  "gloss": "redemption",
+  "tier": "A",
+  "n": 1,
+  "evidence": "the same sign without the terminator, at 126v:4, which K&T's salvation entry cites"
+ },
+ "5200605201f5": {
+  "gloss": "find",
+  "tier": "A",
+  "n": 3,
+  "evidence": "K&T's find (5201525201f5) lists a spelling cited at 126v02, 126v04 and 126v07: exactly this word's three occurrences. 'the Lord could [find] ... this drachma' 126v:2-7, which reads the lost coin of Luke 15:8 as mankind, as 121r and 126r do"
+ },
+ "670520080515": {
+  "gloss": "Hezekiah",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's Hezekiah (670520080520515) with one glyph dropped, on the Hezekiah folios 127r-128r where their own spelling stands a dozen times. 'in turn the soul of [Hezekiah], this' 127v:5"
+ },
+ "b60670520080515": {
+  "gloss": "of Hezekiah",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's genitive prefix b60 on the same name, at 127v:3"
+ },
+ "871670520080515": {
+  "gloss": "holy Hezekiah",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's holy (871) on the same name, at 127v:7, matching 'holy Hezekiah' written with their own spelling at 127r:2, 7 and 9"
+ },
+ "520963": {
+  "gloss": "breathed",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's breathe (520963454021) is cited by them at 002v11, 122r03 and 129r03, and at 129r the word is written across the line break: this piece ends 129r:2 and 454021 begins 129r:3. 'he breathed on them, and saith unto them, Receive ye the Holy Ghost' = John 20:22, and the Holy Spirit stands two words earlier"
+ },
+ "454021": {
+  "gloss": "upon them",
+  "tier": "A",
+  "n": 1,
+  "evidence": "the second half of K&T's breathe sign, carried over the line break from 129r:2; their entry cites 129r03 for it"
  }
 }
