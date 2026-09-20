@@ -2171,5 +2171,173 @@
   "tier": "C",
   "n": 7,
   "evidence": "their blind entry (5203f05203f0) gives 'suff? 5203f0 088r02'. Their question mark, one citation of seven occurrences"
+ },
+ "060060505": {
+  "gloss": "pagan",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their 'of an alien nation, pagan' entry lists 060060505 at 023r01 and 196r09"
+ },
+ "683063ae0": {
+  "gloss": "exist",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their exist entry (670ae0) lists 683063ae0 at 030v11 and 095v05"
+ },
+ "b30450b30": {
+  "gloss": "go_away",
+  "tier": "B",
+  "n": 2,
+  "evidence": "their entry for leave, go away lists '? b30450b30 068r06, 071r04'. Their question mark"
+ },
+ "a31": {
+  "gloss": "throw_out",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their throw out entry (a102d5) lists a31 at 069v05 and 070r06"
+ },
+ "b71": {
+  "gloss": "fire",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their fire, flame entry (a10b71) lists b71 at 070r07, with purgatory fire in its expressions"
+ },
+ "9909909b5": {
+  "gloss": "have",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their have, possess entry (9909909b6) lists 9909909b5 at 035r03, 089r08, 127v09 and 181v04"
+ },
+ "540060990": {
+  "gloss": "that",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their subordinating conjunction of object entry (520060520 (2)) lists 540060990 at 091r03 and 114v03, 04, glossed 'that'"
+ },
+ "a105202d5": {
+  "gloss": "abandon",
+  "tier": "B",
+  "n": 2,
+  "evidence": "their leave, abandon entry (5202c1 (3)) lists '? a105202d5 120r04, 126v09'. Their question mark"
+ },
+ "b75": {
+  "gloss": "mount",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their mount entry heads 'b74, b75, b78, b70 ... mount'. A headword spelling of theirs"
+ },
+ "5204805203f0670962": {
+  "gloss": "robber",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their robber entry lists 5204805203f0670962 at 156r04, 157r04 and 157r08"
+ },
+ "540060060131": {
+  "gloss": "Lazarus",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their Lazarus entry lists 540060060131 at 162v03 and 06. It is a third word built from their 060131, beside woman and the Baptist"
+ },
+ "5207a3670": {
+  "gloss": "and",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their coordinating conjunction entry lists 5207a3670 at 188v02 and 03"
+ },
+ "796a10003a10320": {
+  "gloss": "dead",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their be damned entry (520320) gives '796a10003a10320 dead 191v03, 193r09'"
+ },
+ "6a07a0670ae05202b5": {
+  "gloss": "Jericho",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their Jericho entry lists 6a07a0670ae05202b5 at 206r02 and 04"
+ },
+ "6703b15202d4": {
+  "gloss": "Zacchaeus",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their Zacchaeus entry lists 6703b15202d4 at 208r01"
+ },
+ "520ae05207a3": {
+  "gloss": "exorcise",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their exorcise entry (520ae0520850) lists 520ae05207a3 at 210v01 and 05"
+ },
+ "a10520060511": {
+  "gloss": "ill",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their entry for ill lists a10520060511 at 214v01 and 03"
+ },
+ "060961ae0": {
+  "gloss": "donkey",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their donkey, colt entry lists 060961ae0 at 011v07 and 08, and glosses 011v06-07 'this colt's mother, this donkey'"
+ },
+ "773": {
+  "gloss": "out",
+  "tier": "B",
+  "n": 5,
+  "evidence": "their adverb of direction out(ward) entry (770 (1)) lists 773 at 002v08. One citation of five occurrences"
+ },
+ "0600605202dd520": {
+  "gloss": "Isaac",
+  "tier": "A",
+  "n": 5,
+  "evidence": "their Isaac entry lists 0600605202dd520 at folios 061-062, six times, which is where this sign stands"
+ },
+ "086": {
+  "gloss": "world",
+  "tier": "A",
+  "n": 4,
+  "evidence": "their world entry reads '083 e.g. 002v08, 084 e.g. 017r12, 085 e.g. 017v06, 086 e.g. 018r06 world'. This is the word that completes their phrase 'the whole wide world' at 140v:5"
+ },
+ "540ae0060060270ae0": {
+  "gloss": "bread",
+  "tier": "A",
+  "n": 4,
+  "evidence": "their bread entry (520ae00a20a2270ae0) lists 540ae0060060270ae0 at 038v08, 039v11, 041v04 and 12"
+ },
+ "7807802c05401f1": {
+  "gloss": "verily",
+  "tier": "A",
+  "n": 4,
+  "evidence": "their amen, verily entry lists 7807802c05401f1 at 065v02, 066v06 and 091r05, and glosses 065v02 'verily, verily'"
+ },
+ "6e6": {
+  "gloss": "thirst",
+  "tier": "A",
+  "n": 3,
+  "evidence": "their thirsty, thirst entry heads '6e7, 6e6'. A headword spelling of theirs"
+ },
+ "5207a3910": {
+  "gloss": "that",
+  "tier": "A",
+  "n": 3,
+  "evidence": "their subordinating conjunction of object entry lists 5207a3910 at 056r07, 09 and 085v05"
+ },
+ "5401f6504540": {
+  "gloss": "vine_branch",
+  "tier": "A",
+  "n": 3,
+  "evidence": "their vine branch entry (Jn 15, 1-6) lists 5401f6504540 at 070r02, 03 and 05"
+ },
+ "684ae0": {
+  "gloss": "exist",
+  "tier": "B",
+  "n": 3,
+  "evidence": "their exist entry (670ae0) ends its variant list '? 684ae0 077r08, 077v05, 08'. Their question mark"
+ },
+ "540060890570": {
+  "gloss": "ox",
+  "tier": "A",
+  "n": 3,
+  "evidence": "their ox entry (540060ae06c3) lists 540060890570 at 093v04 and 06 (2x)"
  }
 }
