@@ -324,11 +324,11 @@ Defining the top 50 undefined codes would lift coverage from 62.1% to 73.1%;
 the top 100 to 76.0%; the top 200 to 79.1%; the top 500 to 84.1%. That is a
 work plan, and it is owed to the authors.
 
-## Extending the dictionary: sixteen attempts, a ceiling, and a way in
+## Extending the dictionary: seventeen attempts, a ceiling, and a way in
 
 Four words in ten have no gloss and another five in ten have several. Working
 out the undefined codes is the part of the problem nobody has done. It was
-tried sixteen ways. Thirteen failed outright. The tenth narrowed one code to a
+tried seventeen ways. Fourteen failed outright. The tenth narrowed one code to a
 grammatical class and a semantic field without naming it. The twelfth and
 thirteenth passed, and between them they read 19% more of the book. The
 fourteenth failed its gate and still recovered 1.2% of the book, because what
@@ -850,6 +850,33 @@ that comes back.
 Real signal, 3.75 times the control, and nowhere near the bar. Nothing is read
 from a located passage by that route, and the bar was not moved.
 
+**The seventeenth: the refinement, done so that it could not be tuning.**
+The anchors were split by rank, odd to a development half and even to a test
+half. The failure was diagnosed on the development half only, three ways —
+by anchor strength, by whether hiding the word moved the located window, and
+by what kind of word was hidden — and a selection rule declared in advance
+picked the single best cut. Then the test half was scored once, against the
+same bar.
+
+    development half, all cases          16.6%
+      top 25 anchors                     24.1%
+      window stable / moved              20.6% / 6.9%
+      name / concrete noun / other       28.6% / 22.9% / 14.4%
+    selected rule: the hidden word is a proper name
+
+    test half under that rule: 26 cases
+      recovered   30.8%    control 2.2%    13.8x    9.7 sigma
+      BAR 40%  ->  FAIL
+
+That is the answer to whether the method can be refined. Even the easiest
+words, proper names in the strongest anchors, come back less than a third of
+the time, and no cut on the development half reached the bar either. The
+reason is not localisation, which is mostly stable, and not weak anchors. It
+is that the reference corpus is not the codex's source. The book paraphrases
+a text we do not have, and an English Bible and English plays share its words
+only when the passage is close to verbatim. The two parables above are the
+cases where it is.
+
 **What the anchor finder did do.** It located 213 lines, and the strongest
 were passages I had not reached by translating in order:
 
@@ -873,7 +900,7 @@ fourth is beside the word *soul*. "Lost" works in all four. That is Kiraly and
 Tokai's own method, carrying a guess to every occurrence and keeping it only
 if it survives everywhere, and it is one word, not a method.
 
-Saved runs: `work/rohonc/ktanchor.txt`, `work/rohonc/ktverse.txt`.
+Saved runs: `work/rohonc/ktanchor.txt`, `work/rohonc/ktverse.txt`, `work/rohonc/ktverse2.txt`.
 
 ## The rendering
 
@@ -1025,6 +1052,7 @@ repository staff; with it, this would probably be feasible.
     python ktvariant.py       # the fourteenth, variant spellings (fails; K&T's own go in)
     python ktanchor.py        # the fifteenth, substitution frames (gate untestable)
     python ktverse.py         # the sixteenth, anchors against the corpus (gate fails)
+    python ktverse2.py        # the seventeenth, the refinement on a held-out half (fails)
     python kttranslate.py     # render the whole book, marked by how far each word reads
     # the translation itself is read by hand: work/rohonc/translation/rohonc_translation.md
     python ocr_crossline.py   # the scan-based attempt (slow)

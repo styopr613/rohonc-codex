@@ -1,0 +1,32 @@
+============================================================================
+WHY THE ANCHOR GATE FAILED  (development half only)
+============================================================================
+anchors 213: development 107, test 106
+development cases 451, recovery 16.6%
+
+  1. by anchor strength
+     top  25   cases  116   recovery  24.1%
+     top  50   cases  215   recovery  21.4%
+     top 107   cases  451   recovery  16.6%
+
+  2. by whether hiding the word moved the located window
+     window stable  cases  320   recovery  20.6%
+     window moved   cases  131   recovery   6.9%
+
+  3. by kind of gloss
+     name           cases   49   recovery  28.6%
+     concrete       cases   35   recovery  22.9%
+     other          cases  367   recovery  14.4%
+
+  SELECTION RULE -> 'gloss is a name'  (28.6% on 49 dev cases)
+
+============================================================================
+THE SECOND GATE  (test half, scored once)
+============================================================================
+  population rule                          gloss is a name
+  test cases under the rule                26  (of 474)
+  gloss found in the relocated window       30.8%
+  same test against a random window          2.2%  (sd 2.95)
+  ratio 13.79x     sigma 9.7
+
+  BAR: hit >= 40%, ratio >= 2.0x, sigma >= 5.0  ->  FAIL

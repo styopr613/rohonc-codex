@@ -70,7 +70,7 @@ a gospel vocabulary behind it, which is a property of the codex they did not
 control; and the names it identifies cluster in the gospel text where a real
 paraphrase would put them, 87% of the time against a 50% chance.
 
-Finishing the translation was attempted sixteen ways. Thirteen failed, each
+Finishing the translation was attempted seventeen ways. Fourteen failed, each
 against a bar set before the run and never moved. The eleventh was a specific
 prediction of mine and it was wrong: the alignment method had been pointed at
 the four canonical gospels, so the reference was rebuilt from the sources
@@ -113,8 +113,8 @@ the share of lines where every word has a reading went from 2.8% to 20.6%.
 So the obstacle has moved rather than gone. It used to be missing vocabulary.
 It is now missing grammar, and that is theirs to publish.
 
-The fifteenth and sixteenth tried to work backwards from the passages that
-are certainly right. Both failed their gates. But the search that finds those
+The fifteenth, sixteenth and seventeenth tried to work backwards from the passages that
+are certainly right. All three failed their gates, the last one on a held-out half after the failure had been diagnosed, so that the retry could not be tuning. But the search that finds those
 passages works, and it turned up the parable of the Unmerciful Servant and the
 parable of the Lost Sheep on folios nobody had read, each carrying its own
 proof: Király and Tokai's dictionary already has a word glossed for the

@@ -201,8 +201,8 @@ def main():
         check(f"gate 5: {lab} {want}%", len(g) == 2 and g[1] == want, str(g))
     check("gate 5 FAIL and the 4% flaw recorded",
           "FAIL" in kdi and "top five 8%, top ten" in flat and "4%" in flat)
-    check("sixteen attempts stated",
-          "sixteen ways" in flat and "Thirteen failed outright" in flat)
+    check("seventeen attempts stated",
+          "seventeen ways" in flat and "Fourteen failed outright" in flat)
     kcl = out("ktclass.txt")
     g = nums(kcl, "accuracy", 2)
     check("class gate 57.8% vs 46.9% baseline",
@@ -367,8 +367,8 @@ def main():
     cp = os.path.join(corpus.ROOT, "CONCLUSION.md")
     con = open(cp, encoding="utf-8").read() if os.path.exists(cp) else ""
     conf = " ".join(con.split())
-    check("CONCLUSION: sixteen attempts, thirteen failed",
-          "sixteen ways" in conf and "Thirteen failed" in conf and "78.8%" in conf)
+    check("CONCLUSION: seventeen attempts, fourteen failed",
+          "seventeen ways" in conf and "Fourteen failed" in conf and "78.8%" in conf)
     check("CONCLUSION: 1,282 codes and 58% to 78%",
           "1,282" in conf and "58% to 78%" in conf)
     check("CONCLUSION: wider corpus recorded as my wrong prediction",
@@ -511,6 +511,15 @@ def main():
     check("anchors: both parables named with their confirmation",
           "Unmerciful Servant" in flat and "Lost Sheep" in flat
           and "denarius" in flat and "ninety and nine" in flat)
+
+    kv2 = out("ktverse2.txt")
+    g = nums(kv2, "test cases under the rule", 1)
+    check("refinement: 26 held-out test cases", bool(g) and g[0] == 26 and "26 cases" in flat, str(g))
+    g = nums(kv2, "gloss found in the relocated window", 1)
+    check("refinement: 30.8% recovery, FAIL",
+          bool(g) and close(g[0], 30.8, .02) and "30.8%" in flat and "->  FAIL" in kv2, str(g))
+    check("refinement: selected rule is proper names, dev 28.6%",
+          "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
