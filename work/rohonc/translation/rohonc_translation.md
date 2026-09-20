@@ -7680,3 +7680,240 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > death of Christ, is Augustine's on the Good Samaritan (Quaestiones
 > Evangeliorum II.19), and the book names him. Line 4 carries a priest sign
 > Király & Tokai mark doubtful at this line; the line does not read.
+
+## 108r — ye are the salt of the earth, and a city set on a hill
+
+**1**  written by holy Matthew, in the fifth chapter of his writing. Then said the Lord Jesus
+`holy-Matthew inside +five chapter <of>-write time say Lord-Jézus`
+
+**2**  to his apostles and the Jewish people: ye are the salt
+`apostle <of>-Lord and Jew(ish) people you salt`
+
+**3**  of this world. In turn, if this salt lose its taste, it is good for nothing, out,
+`this ?world in_turn lose_taste this salt good-apostle-God out(ward)-out(ward)`
+
+**4**  the salt is thrown out, and the people trample on the salt,
+`salt throw_out and salt people trample_on`
+
+**5**  because this is set on high. Do ye good. And then
+`because this exist high you good do, +and_then`
+
+**6**  the Lord Jesus: a city on a high mount, and the city cannot be hid;
+`Lord-Jézus and +<subj> +city on-high +mount and +city ?hid`
+
+**7**  the people see it; and then […] the people to the city.
+`people see and then-+<subj> [?] people to-+city.`
+
+**8**  Chapter to chapter, this; and you, learn, you,
+`chapter-go-to-chapter this and you on-learn you`
+
+**9**  do good; in turn whosoever is high, of the two, teach the people,
+`good do, in_turn-who-exist high from-two people on-learn`
+
+**10**  and do; found among the people, a man, mercy.
+`and do, +found among people somebody have_mercy`
+
+> Matthew 5:13-14. The citation is right. This is the page that corrected
+> two of this project's readings earlier: the sign on line 6 is *mount*, not
+> *the Mount of Olives*, because Matthew wants a hill here, and the *city*
+> beside it is the reading that came out of the same line.
+
+## 108v — the candle and the bushel, and the Father's house
+
+**1**  and love the Lord […]; whosoever loveth the Lord, and believeth in the Lord, and from
+`and love-Lord [?] ?whosoever-and love-Lord somebody and believe inside-Lord and from`
+
+**2**  the man receives; of you, of the Lord, in teaching […]
+`somebody grab from you <of>-Lord on-learn [?]`
+
+**3**  the Lord teacheth; this Lord taketh you; and from the man goes
+`learn-Lord this-Lord you grab-Lord and from somebody go`
+
+**4**  into the Lord's Father's house, | where is joy for ever
+`inside <of>-Lord father-<divine> house | exist joy chapter-oh`
+
+**5**  and ever, amen. In turn, then, out, the building, to cut off, the man
+`chapter-oh amen in_turn then-chapter out(ward) +building to-cut_off somebody`
+
+**6**  is the city from […]. And then the Lord Jesus: then a man
+`exist +city from-[?] +and_then Lord-Jézus then-chapter somebody`
+
+**7**  giveth light, lighteth a man; to this […] light, who is a lamp
+`?giveth_light light somebody to this [?] light who-exist lamp`
+
+**8**  on a candlestick put; a man doth, a man, to the pit(?), the bushel;
+`on-candlestick put somebody do somebody to-pit-+day a)`
+
+**9**  a lamp on a candlestick a man putteth, who letteth it
+`lamp on-candlestick put-somebody who-exist remit`
+
+**10**  give light; all the people see, he who is in the house; and you,
+`?giveth_light each,_every people see ?he_who inside house and you`
+
+> Matthew 5:15-16, the candle, the bushel and the candlestick, with Király &
+> Tokai's own candlestick sign on lines 8 and 9 and their bushel on line 8.
+> Line 4 is John 14:2, the Father's house, brought in as the reward.
+
+## 109r — whosoever shall do and teach them
+
+**1**  the lamp of this world, that is: learn from the Lord Jesus and from the holy gospel.
+`lamp this ?world that_is learn from Lord-Jézus and from holy-gospel`
+
+**2**  And then the Lord Jesus: many believe; there is a man who beareth the people
+`+and_then Lord-Jézus many believe exist somebody carry people`
+
+**3**  until the day of judgment; and one believeth, the second is
+`+until judge-+day and one believe two exist`
+
+**4**  gone. In turn […] this Lord letteth you go.
+`leave-leave a) [?] this-Lord you remit-Lord`
+
+**5**  And then the Lord Jesus: and whosoever keepeth that which the scripture
+`+and_then Lord-Jézus and somebody exist carry ?he_who ?the_scripture`
+
+**6**  […], and from the man is this rightly taught;
+`[?] and from somebody exist this righteous(ly) on-learn`
+
+**7**  in turn, and whosoever keepeth that which the scripture […]
+`in_turn and somebody exist carry ?he_who ?the_scripture [?]`
+
+**8**  and from whosoever teacheth this not rightly. And then the Lord Jesus:
+`and from ?whosoever +is_not this righteous(ly) on-learn +and_then Lord-Jézus`
+
+**9**  and whosoever keepeth that which the scripture writeth, of the man
+`and somebody exist carry ?he_who ?the_scripture write <of>-somebody`
+
+**10**  good afterward; he shall see heaven, pleasing. In turn, and
+`good ?afterward exist see heaven pleasing in_turn and`
+
+> Matthew 5:19, "whosoever shall do and teach them, the same shall be called
+> great in the kingdom of heaven", set against the one who teacheth not
+> rightly. The negated *is not* on line 8 is Király & Tokai's own negated
+> copula, which their entry cites at this very line.
+
+## 109v — the end of the Matthew reading, and a new one from Luke
+
+**1**  the man keepeth not that which the scripture […] | of
+`somebody +is_not carry ?he_who ?the_scripture [?] | <of>`
+
+**2**  the man, good afterward, shall not see the pleasing things of the Lord,
+`somebody good ?afterward +is_not see pleasing <of>-Lord`
+
+**3**  from the Father. The end of this holy gospel. The Lord God: love the Lord God.
+`from-father-<divine> end this holy-gospel Lord-<divine> love Lord-<divine>`
+
+**4**  Begins this holy word,
+`begins this holy-Word`
+
+**5**  written by holy Luke,
+`write holy-Luke`
+
+**6**  in the ninth chapter of his writing.
+`inside nine chapter <of>-write`
+
+**7**  Then went the Lord Jesus
+`time go Lord-Jézus`
+
+**8**  to Jerusalem; and then went
+`Jerusalem and then-exist go`
+
+**9**  the Lord Jesus to the mount of Olives, over against Jerusalem, in turn; and
+`Lord-Jézus +of_the_olives +mount most_high Jerusalem in_turn-chapter-in_turn and`
+
+**10**  the Son of God saw down over Jerusalem, in turn; and cried out, | the Lord
+`see son God down Jerusalem in_turn-chapter-in_turn and cry_out | Lord`
+
+**11**  Jesus. And then: Jerusalem, Jerusalem! Then this Jerusalem […] and this Jerusalem
+`Jézus +and_then Jerusalem Jerusalem then-exist this-Jerusalem [?] and this-Jerusalem`
+
+> Line 6 says Luke chapter nine, and the passage that follows is Luke 19:29
+> onward, the mount of Olives and the weeping over Jerusalem. It is recorded
+> as off. Line 7 does match Luke 9:51, "he stedfastly set his face to go to
+> Jerusalem", so the compiler may have opened there and run on; that is a
+> guess, and the citation stands as a miss either way. *Mount* and *of the
+> olives* are both Király & Tokai's, cited by them at this line.
+
+## 110r — if thou hadst known; the army that shall compass thee
+
+**1**  […] because there is much misery upon this Jerusalem. Why? this | what
+`[?] because exist many misery ~on-this Jerusalem why? this | what`
+
+**2**  […] who this […], said the man; the apostles | of
+`[?] who this [?] +say-somebody apostle | <of>`
+
+**3**  the Lord said; and who this Lord preached, and this […]
+`Lord say and who this-Lord preach and this [?]`
+
+**4**  And then the Lord Jesus, then this Lord, the Son of God, weeping
+`+and_then Lord-Jézus then-exist this-Lord son God crying`
+
+**5**  over this Jerusalem, because there shall come upon this Jerusalem […] an army; | this
+`this-Jerusalem because exist on-this-Jerusalem [?] +an_army | this`
+
+**6**  this shall sit about Jerusalem, and this Jerusalem […] compass round;
+`this to-sit Jerusalem and this-Jerusalem [?] surround`
+
+**7**  […] and thou knewest not, man, the devil […]
+`[?] and you +is_not somebody angel [?]`
+
+**8**  a man, the devil, out; and […] […] […] among you
+`somebody angel out(ward) and [?] [?] a) [?] among you`
+
+**9**  taken captive, all of them, the cross, condemned, the man, the devil, and
+`capture each,_every-+say +cross ?condemned somebody angel and`
+
+**10**  not, he said, of hunger shall die; and there is much misery upon this
+`~exist-+say *hunger die and exist many misery ~on-this`
+
+> Luke 19:41-44. "And when he was come near, he beheld the city, and wept
+> over it ... For the days shall come upon thee, that thine enemies shall
+> cast a trench about thee, and compass thee round, and keep thee in on
+> every side ... because thou knewest not the time of thy visitation."
+> *An army* on line 5 and *knewest not* on line 7 are both Király & Tokai's
+> own signs, cited by them at these lines.
+
+## 110v — Jerusalem destroyed by Vespasian and Titus, and the temple cleansed
+
+**1**  Jerusalem; for this Jerusalem, all Jerusalem, the Roman destroyed, at their head | Vespasi-
+`Jerusalem because this-Jerusalem each,_every-Jerusalem +destroyed +the_Roman on-head | +Vespasi-`
+
+**2**  -anus, and his son Titus; […] stone upon stone | shall not be
+`+-anus son Titus +[?] stone on-stone | +shall_not_be`
+
+**3**  left; […] faith. And the Lord Jesus went
+`+left [?] believe and go Lord-Jézus`
+
+**4**  into the Jerusalem temple; and then the Lord found within them that sold,
+`inside Jerusalem temple and then-exist Lord inside +found ?them_that_sold`
+
+**5**  the sellers of doves; and the Lord Jesus made of small
+`seller_of_doves and do, Lord-Jézus +of_cords`
+
+**6**  cords a whip, and all of them […] out, out,
+`+cords whip and each,_every-+say [?] out(ward)-out(ward)`
+
+**7**  cast out the Lord. And then the Lord Jesus: this is the house of prayer,
+`+cast_out Lord +and_then Lord-Jézus +this_is pray`
+
+**8**  this house; make it pleasing to the Lord, of
+`house this house +<subj> do, on-pleasing <of>-Lord from`
+
+**9**  the Father. In turn ye, the house, have made, said he,
+`father-<divine> in_turn you house do,-+say`
+
+**10**  a den of thieves. And from thence the Lord Jesus, from
+`one thief house and from-exist Lord-Jézus from`
+
+**11**  until Palm Sunday, until many […]. The end of this | holy
+`+until +Palm_Sunday +until many [?] end this | holy`
+
+**12**  gospel.
+`gospel`
+
+> Luke 19:45-46 and John 2:15, "a scourge of small cords", "my house is the
+> house of prayer: but ye have made it a den of thieves". Lines 1-3 name the
+> Roman destruction of AD 70 with both emperors: Vespasian's name is written
+> across the line break, and Király & Tokai's own entries give the name, the
+> Roman, the destroying, and the "there shall not be left one stone upon
+> another" of Matthew 24:2, which is also written across a line break.
+> *Palm Sunday* on line 11 is theirs too. The reading ends there.
