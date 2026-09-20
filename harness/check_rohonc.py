@@ -475,8 +475,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 75 folios",
-          md.count("\n## 0") + md.count("\n## 1") == 75, str(md.count("\n## 0")))
+    check("translation: the file exists and covers 85 folios",
+          md.count("\n## 0") + md.count("\n## 1") == 85, str(md.count("\n## 0")))
     check("translation: the book is identified, with its sources named",
           "Life of Adam and Eve" in md and "Legend of the Rood" in md
           and "Saint Matthew and Saint John" in md and "Elijah" in md)

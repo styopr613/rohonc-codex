@@ -3010,3 +3010,369 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Luke 23:8, Herod hoped to see a miracle, and 23:12, Pilate and Herod were
 > made friends that same day — here "Pilate became Herod's brother". John
 > 19:14 puts the judgment at the sixth hour, and line 11 has it.
+
+## 043v — the scourging
+
+**1**  Herod […]; and Pilate […] the Jews would
+`Herod [?] in_turn-who-Lord this Pilate [?] want Jew(ish)`
+
+**2**  the Lord. He said […] […] truly […]
+`Lord +say [?] [?] righteous(ly) [?]`
+
+**3**  And then Pilate […] the soldiers; the soldiers brought him [to] Pilate,
+`+and_then Pilate understand-eat soldier carry-soldier Pilate`
+
+**4**  the two […] […]; and then Pilate said, bring
+`two [?] [?] and then-exist Pilate +say carry`
+
+**5**  the two […] […]; and the Lord […] the gate
+`two [?] [?] and Lord gate [?]`
+
+**6**  […] […]; and Pilate took | two
+`understand-eat ~until and grab Pilate | two`
+
+**7**  two soldiers to the Lord Jesus, and the Lord was scourged; and then
+`two soldier to Lord-Jézus and Lord exist whip and then-exist`
+
+**8**  the two […] flogged the Lord Jesus; and a second time the Lord
+`two from [?] flog Lord-Jézus in_turn-two Lord`
+
+**9**  the second began, saying, to flog; and then the second, and the second said,
+`begin two +say flog and then-exist two and from two +say`
+
+**10**  […] flogged the Lord Jesus Christ; and | there came
+`from [?] flog Lord-Jézus-Christ and | leave`
+
+**11**  one soldier to the Lord Jesus; and then
+`to-leave one soldier to Lord-Jézus and then-exist`
+
+**12**  […] the Lord Jesus, because the Lord had many […]
+`from [?] Lord-Jézus because exist Lord many [?]`
+
+## 044v — the purple robe and the crown of thorns
+
+**1**  And then the Lord […]; they bowed before the Lord Jesus; and
+`and then-exist Lord [?] bow_down Lord-Jézus and`
+
+**2**  the Lord […] […] […]; and the Lord […]
+`Lord [?] [?] [?] and Lord [?]`
+
+**3**  […] a purple robe; and the Lord,
+`[?] understand-eat purple_robe and Lord`
+
+**4**  thorns […] upon his head […]
+`thorn [?] on-head [?]`
+
+**5**  and they set the Lord upon a seat; and
+`and Lord sit on-understand-eat chair and`
+
+**6**  […] knelt before the Lord Jesus, and
+`[?] kneel_(down) before Lord-Jézus and`
+
+**7**  spoke: Hail, Jesus, this day! And […] […]
+`speak healing Jézus today-this and leave-to-leave [?]`
+
+**8**  […] the soldiers […] […] […] the Lord Jesus; and
+`understand-eat soldier [?] [?] [?] Lord-Jézus and`
+
+**9**  […] […] […] the Lord Jesus; and then
+`[?] from [?] [?] Lord-Jézus and then-exist`
+
+**10**  the Lord […] bowed; and the Jews took the Lord,
+`Lord [?] bow_down and Lord grab Jew(ish)`
+
+**11**  and the Jews led the Lord to Pilate, into the house.
+`and Lord go Jew(ish) to Pilate inside house`
+
+> John 19:2–3: the purple robe, the crown of thorns, and Hail, King of the
+> Jews, with the kneeling. The codex keeps the mockery of the kneeling.
+
+## 045v — twelve legions of angels
+
+**1**  And the Lord sat […] in a judgment seat |
+`and Lord sit +say inside one throne | on`
+
+**2**  in the midst […]; and then Pilate knelt
+`middle ~until and then-exist kneel_(down) Pilate`
+
+**3**  before the Lord Jesus, and Pilate said: Hail, Lord, King
+`before Lord-Jézus and say Pilate healing Lord king`
+
+**4**  of the Jews! And the Lord Jesus said to Pilate […]
+`Jew(ish) and say Lord-Jézus to-Pilate [?]`
+
+**5**  speakest thou that the Lord is King of the Jews? Because | when
+`speak because this-Lord king Jew(ish) because | then`
+
+**6**  […] his Father God, ye
+`exist [?] <of>-Lord father-<divine> you`
+
+**7**  took the Lord prisoner; for if the Lord would,
+`Lord take_prisoner because then-exist this-Lord want Lord`
+
+**8**  the Lord would ask of God his Father | twelve
+`this-Lord ask_(for) from <of>-Lord from-father God | six`
+
+**9**  legions of angels […] the Lord,
+`six [?] in_turn angel [?] this-Lord`
+
+**10**  that ye took him prisoner; because
+`you grab take_prisoner because then-chapter`
+
+**11**  if the Lord would, the Lord could […] you all
+`this-Lord want this-Lord you each,_every can`
+
+> Matthew 26:53 — "more than twelve legions of angels". The twelve is
+> written six and six across the margin break, the same way the twelve
+> apostles are written at 022r:10.
+
+## 046r — Barabbas, and Behold the man
+
+**1**  the Lord die […]; and ye took
+`Lord die [?] and you grab`
+
+**2**  the Lord prisoner. And Pilate said to Jesus:
+`Lord take_prisoner and say Pilate to-Jézus this`
+
+**3**  sayest thou, Lord, the Son of God? And one said
+`Lord say son God and one say`
+
+**4**  […] the Lord Jesus said to Pilate; and he released
+`[?] say Lord-Jézus to-Pilate and leave-chapter-leave`
+
+**5**  Barabbas […] Jesus; and they beat the Lord,
+`Barabbas to-Jézus and Lord beat [?]`
+
+**6**  […] […] […] all his […]
+`[?] [?] [?] each,_every <of>-Lord [?]`
+
+**7**  quaked; and Jesus said […] the soldier, Barabbas, truly
+`quake and say Jézus this soldier Barabbas this righteous(ly)`
+
+**8**  the Lord spoke […] they beat him; the scribes spoke,
+`speak-Lord to-inside-Lord beat speak church_father`
+
+**9**  it is written […]; and […] […] they beat him.
+`write [?] exist and [?] [?] beat`
+
+**10**  O! O! And so they did to the Lord.
+`chapter-oh chapter-oh and Lord do,`
+
+**11**  Pilate went out of the house, and cried,
+`Pilate out(ward) go on-house and shout-to`
+
+**12**  Pilate: Behold Jesus, […] the King of the Jews!
+`Pilate lo Jézus [?] king Jew(ish)`
+
+> John 19:14, "Behold your King!", and Barabbas from all four gospels.
+
+## 046v — crucify him, the second time
+
+**1**  […] and the angel […] Bethlehem […]
+`[?] in_turn angel Bethlehem [?]`
+
+**2**  And the Jews cried: the cross for the Lord! Pilate: the Lord is accursed,
+`and shout Jew(ish) +cross Lord Pilate cursed Lord`
+
+**3**  […] if ye will the Lord. He said […] […]
+`[?] if want Lord +say [?] [?]`
+
+**4**  truly […]; and Pilate said to the soldiers, lead the Lord
+`righteous(ly) [?] and say Pilate to soldier go Lord`
+
+**5**  into the house. And a second time the Lord […] went into the house,
+`inside house and two Lord [?] go on-house`
+
+**6**  and Pilate cried: Behold Jesus […]
+`and shout Pilate lo Jézus [?]`
+
+**7**  the King of the Jews! […] and the angel |
+`king Jew(ish) [?] in_turn angel | to`
+
+**8**  [to] Bethlehem […] and […]
+`Bethlehem [?] and [?]`
+
+**9**  the Jews: the cross for the Lord! Pilate: the Lord is accursed, this
+`Jew(ish) +cross Lord Pilate cursed Lord this`
+
+**10**  Pilate, if ye will the Lord. He said […] […]
+`Pilate if want Lord +say [?] [?]`
+
+**11**  truly […]; and Pilate said to the soldiers, lead the Lord
+`righteous(ly) [?] and say Pilate to soldier go Lord`
+
+## 047r — the third time, and Caesar
+
+**1**  into the house. And a third time the Lord […] went into the house,
+`inside-house and +three Lord [?] go on-house`
+
+**2**  and Pilate cried: Behold Jesus […]
+`and shout Pilate lo Jézus [?]`
+
+**3**  the King of the Jews! […] and the angel
+`king Jew(ish) [?] in_turn angel`
+
+**4**  [to] Bethlehem […]; and there cried
+`to-Bethlehem [?] and shout`
+
+**5**  the Jews: the cross for the Lord! Pilate: the Lord is accursed […]
+`Jew(ish) +cross Lord Pilate cursed Lord [?]`
+
+**6**  Pilate, if ye will the Lord. He said […] |
+`Pilate if want Lord +say [?] | [?]`
+
+**7**  Caesar truly […]. And then the Jews
+`emperor righteous(ly) [?] +and_then Jew(ish)`
+
+**8**  […] that the Lord is King of the Jews […]
+`[?] this-Lord king Jew(ish) [?]`
+
+**9**  half […] the Lord, half […] one
+`half one Lord half-believe one`
+
+**10**  the Lord blasphemeth. And Pilate cried, Pilate,
+`blasphemer-Lord and shout Pilate this Pilate`
+
+**11**  and how […] in the Lord […] Pilate, that he is
+`and how? [?] inside Lord [?] Pilate this-Lord +<subject_marker>`
+
+> John 19:12, Caesar. The Ecce Homo is put three times, first second third,
+> the way the codex numbers everything.
+
+## 047v — Pilate washes his hands
+
+**1**  truly this man. And then Pilate […] water
+`righteous(ly) somebody +and_then Pilate [?] water`
+
+**2**  in a basin, and […] […]
+`inside one washdish and [?] [?]`
+
+**3**  brought it, and […] the two […]. And then
+`carry and [?] <of> two why?-in_turn +and_then`
+
+**4**  Pilate […]: I am innocent of this Lord's blood. And then
+`Pilate [?] innocent from <of>-Lord [?] +and_then`
+
+**5**  the Jews, because this was […] and […] the son;
+`Jew(ish) because this exist [?] and [?] son`
+
+**6**  and Pilate cried: whom will ye |
+`and shout Pilate who want | [?]`
+
+**7**  that I release, Barabbas or Jesus? And
+`to +say release Barabbas in_turn Jézus and`
+
+**8**  the Jews cried: release […] Barabbas,
+`shout Jew(ish) release [?] Barabbas`
+
+**9**  and Jesus to the cross! And then Pilate […]
+`in_turn Jézus +cross [?] +and_then Pilate understand-eat`
+
+**10**  the soldiers led the Lord […] into the house; and then Pilate,
+`soldier go Lord [?] on-house and then-exist Pilate this-who`
+
+**11**  the Lord went […] […] into the house; and Pilate cried |
+`Lord go [?] [?] on-house and shout Pilate | from`
+
+> Matthew 27:24, the basin and "I am innocent of the blood of this just
+> person", with the choice of Barabbas right after it.
+
+## 048r — the Reproaches: O my people, what have I done to thee
+
+**1**  […] this man truly took […] because
+`+<subject_marker> somebody righteous(ly) grab [?] because +<subject_marker>`
+
+**2**  […] the Lord […]; and the Lord […]
+`[?] Lord-to [?] and Lord [?]`
+
+**3**  Pilate went out of the house […] among […]
+`Pilate out(ward) go on-house [?] among from [?]`
+
+**4**  […] and the Lord Jesus cried: O my people,
+`[?] and shout Lord-Jézus people-chapter`
+
+**5**  the Lord's people, the Jews, who […] […]
+`<of>-Lord Jew(ish) who this-Lord [?] [?]`
+
+**6**  I loved this people […] […] the people,
+`to-love this-people-chapter [?] [?] people-chapter`
+
+**7**  the Lord's, the Jews, who […] this people, through sin
+`<of>-Lord Jew(ish) who this-Lord this-people-chapter through sin`
+
+**8**  […] I did good to this people […] the Lord
+`[?] this-people-to good [?] then-exist-Lord this-Lord`
+
+**9**  among this people did miracles. First, |
+`among this-people-to miracle do, first | this`
+
+**10**  this people went into Egypt […] as servants;
+`people-chapter go on-Egypt [?] living-servant this`
+
+**11**  over […] […] I divided
+`over [?] [?] divide`
+
+## 048v — forty years in the wilderness, and a cross for their Saviour
+
+**1**  in two parts, this people, over the sea;
+`on-two direction this-people-chapter over sea`
+
+**2**  through […] the Lord led them by day, and from the beginning
+`through [?] go-Lord +day in_turn from head`
+
+**3**  all […] to this people, the whole wide world |
+`each,_every [?] to-<of>-people-chapter ~the_whole_wide_world | this`
+
+**4**  I kept this people alive forty years in the wilderness,
+`people [?] living-Lord two-two-ten-year inside field`
+
+**5**  and the angel […] to this people;
+`in_turn angel [?] to-this-people-chapter`
+
+**6**  […] […] I did for the Lord's people,
+`[?] [?] do, people <of>-Lord`
+
+**7**  the Jews […]; they lifted up the Lord on Palm Sunday |
+`Jew(ish) [?] to-Lord-to lift_up on-Palm_Sunday | then`
+
+**8**  they would make the Lord king, a crown, and […]
+`chapter-Lord want king crown in_turn [?]`
+
+**9**  […] his […] lifted up upon the cross;
+`[?] <of>-Lord [?] +cross lift_up-to`
+
+**10**  and Pilate cried […] the Lord […]
+`and shout Pilate [?] Lord [?]`
+
+**11**  and the Lord […] the Jews; and then he said
+`and Lord [?] Jew(ish) and then-exist +say`
+
+> This is the Improperia, the Reproaches sung on Good Friday: *O my people,
+> what have I done unto thee? I brought thee out of Egypt, I divided the
+> sea, I led thee forty years through the wilderness, and thou hast
+> prepared a cross for thy Saviour.* It is liturgy, not gospel, and the
+> codex has it in order, with forty written the way it is written of the
+> flood.
+
+## 049r — the two thieves, and Mary Magdalene told
+
+**1**  They brought two thieves to the Lord Jesus, and set
+`to-go +say two ~thief to Lord-Jézus and put`
+
+**2**  […] upon the Lord Jesus; and of the two thieves |
+`+say [?] on-Lord-Jézus in_turn from two ~thief | carry`
+
+**3**  […] […] the good one […] […] the Lord Jesus.
+`+say [?] good from [?] [?] Lord-Jézus`
+
+**4**  And Saint John went up into Bethany, to
+`and to-go up holy-John inside Bethany to`
+
+**5**  Mary Magdalene: […] Master, the Lord liveth […]
+`two-Mary Magdalene good [?] Master living Lord [?]`
+
+**6**  to Mary Magdalene […]; and he said
+`to-Mary Magdalene [?] and +say +<subject_marker>`
+
+**7**  […]; Mary Magdalene went with John […] at that time
+`understand-go Mary Magdalene John [?] time`
