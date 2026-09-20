@@ -70,7 +70,7 @@ a gospel vocabulary behind it, which is a property of the codex they did not
 control; and the names it identifies cluster in the gospel text where a real
 paraphrase would put them, 87% of the time against a 50% chance.
 
-Finishing the translation was attempted thirteen ways. Ten failed, each
+Finishing the translation was attempted fourteen ways. Eleven failed, each
 against a bar set before the run and never moved. The eleventh was a specific
 prediction of mine and it was wrong: the alignment method had been pointed at
 the four canonical gospels, so the reference was rebuilt from the sources
@@ -113,9 +113,15 @@ the share of lines where every word has a reading went from 2.8% to 20.6%.
 So the obstacle has moved rather than gone. It used to be missing vocabulary.
 It is now missing grammar, and that is theirs to publish.
 
+The fourteenth asked whether unread codes one glyph away from a defined code
+are variant spellings. Its gate failed, so none were inferred, but their own
+dictionary declares 88 such variants that the loader had dropped, and those
+went in: 78.8% now.
+
 Everything that can be read is rendered, page by page, in
 `work/rohonc/translation/`. Each word is marked by how far it reads: one
-sense, several senses with theirs first, a composed reading, or no reading.
+sense, several senses with theirs first, a composed reading, a declared
+variant, or no reading.
 It is a rendering of their dictionary over their transcription, not their
 translation, and it stays private with the rest of the work.
 

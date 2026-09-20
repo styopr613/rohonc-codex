@@ -324,13 +324,15 @@ Defining the top 50 undefined codes would lift coverage from 62.1% to 73.1%;
 the top 100 to 76.0%; the top 200 to 79.1%; the top 500 to 84.1%. That is a
 work plan, and it is owed to the authors.
 
-## Extending the dictionary: thirteen attempts, a ceiling, and a way in
+## Extending the dictionary: fourteen attempts, a ceiling, and a way in
 
 Four words in ten have no gloss and another five in ten have several. Working
 out the undefined codes is the part of the problem nobody has done. It was
-tried thirteen ways. Ten failed outright. The tenth narrowed one code to a
+tried fourteen ways. Eleven failed outright. The tenth narrowed one code to a
 grammatical class and a semantic field without naming it. The twelfth and
-thirteenth passed, and between them they read 19% more of the book. The bar
+thirteenth passed, and between them they read 19% more of the book. The
+fourteenth failed its gate and still recovered 1.2% of the book, because what
+it recovered was Király and Tokai's own, not an inference. The bar
 was never moved. Two evaluation bugs were fixed and the runs repeated;
 neither fix changed a verdict. Five of the six were mechanical. The sixth was
 not, and did best.
@@ -770,17 +772,53 @@ one.
 Code: `ktsense.py`, `ktgrammar.py`. Saved runs: `work/rohonc/ktsense.txt`,
 `work/rohonc/ktgrammar.txt`.
 
+## The fourteenth: variant spellings
+
+What is left unread has a shape. Of the 22.4%, 31% is words that occur once,
+which no statistical method can reach and which in a real book are names,
+numbers and rare words. But 53% of it sits within one glyph of a code the
+dictionary defines: one glyph substituted, dropped or added. The book's
+commonest unread word, 337 occurrences, differs from *and* by its last
+glyph. Some of those are variant spellings. Some are different words that
+share two glyphs out of three.
+
+Király and Tokai's dictionary marks variant spellings itself, with "var."
+followed by the variant code. The loader keyed entries by headword and
+dropped them. 88 of the codes so marked are in the text and were unread, 356
+tokens, 1.2% of the book. Those are their readings and go in without a test,
+marked with a tilde on the page. *from-father ~Adam bow_down Lord* on the
+opening folio is one of them.
+
+They are also the calibration for the larger question. If a variant spelling
+sits where its headword sits, the declared variants must show it first.
+`ktvariant.py` tests each declared variant's page profile against its
+headword and against a frequency-matched stand-in, then does the same for
+every unread code with three or more occurrences that is one glyph from
+exactly one defined code. Both bars set before the run: 60% wins and 5 sigma.
+
+    BAR A  K&T's declared variants        23 tested   60.9% vs 37.9%   2.6 sigma   FAIL
+    BAR B  undeclared one-glyph neighbours 98 tested   53.1% vs 34.7%   4.8 sigma   FAIL
+
+Bar A fails, so the instrument cannot see variants at this sample size and
+bar B is not a result either way. Nothing is inferred. The 98 neighbours, 926
+tokens, 3.1% of the book, stay unread. The signal in both rows is real and
+points the right way, and the bar is the bar.
+
+Coverage goes from 77.6% to 78.8%, all of it theirs. Saved run:
+`work/rohonc/ktvariant.txt`.
+
 ## The rendering
 
 All of the above is put on the page. `kttranslate.py` writes the whole book
 in Király and Tokai's page order, one line of the codex per line of text,
-with every word rendered one of four ways and marked so the reader can see
+with every word rendered one of five ways and marked so the reader can see
 which. A dictionary word with one sense is printed as that sense. A
 dictionary word with several is printed as the sense they list first, and in
 the full version every sense follows after a slash. An undefined code that
-cuts into dictionary codes is printed as its parts joined by hyphens. A word
-with no reading is printed as `[?]`, and in the full version the glyph codes
-follow.
+cuts into dictionary codes is printed as its parts joined by hyphens. A
+variant spelling their own entry declares is printed as the headword with a
+tilde. A word with no reading is printed as `[?]`, and in the full version
+the glyph codes follow.
 
 The senses are printed in the order Király and Tokai list them, because
 their first sense is their headline sense. The shortest-sense rule that
@@ -793,12 +831,13 @@ whole page of that does not read. Their order gives *sun and moon write*,
       one sense                     3404   11.3%
       several senses               14109   47.0%
       by composition                5754   19.2%
-      no reading                    6730   22.4%
+      their variant spelling         356    1.2%
+      no reading                    6374   21.2%
     lines                           4372
-      every word read                901   20.6%
+      every word read                975   22.3%
 
-Those are the coverage figures of the previous two sections, seen from the
-page. The only difference is that 52 composed words whose every part has one
+Those are the coverage figures of the previous sections, seen from the
+page, with the declared variants added. The only difference is that 52 composed words whose every part has one
 sense are counted with composition here and with the single-sense words in
 `ktcoverage.py`, which is where the 11.3% and 11.5% part company.
 
@@ -868,6 +907,7 @@ repository staff; with it, this would probably be feasible.
     python ktcoverage.py      # how much can be read, and how much is translated
     python ktsense.py         # can context choose a sense (fails by half a point)
     python ktgrammar.py       # are the senses separable at all (no)
+    python ktvariant.py       # the fourteenth, variant spellings (fails; K&T's own go in)
     python kttranslate.py     # render the whole book, marked by how far each word reads
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs

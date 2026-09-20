@@ -10,26 +10,27 @@ unpublished.  Nothing here chooses between senses; that needs their grammar.
   word          dictionary word, one sense
   word/word     dictionary word, several senses, their first sense first
   word-word     undefined code read as the dictionary codes it cuts into
+  ~word         variant spelling their own entry marks "var.", read as the headword
   [?]           no reading
   |             unreadable glyph or gap in the transcription
 
 Of 29997 words: 3404 read with one sense (11.3%), 14109 carry several
-(47.0%), 5754 are read by composition (19.2%), 6730 have no
-reading (22.4%).  Lines with every word read: 901 of 4372
-(20.6%).
+(47.0%), 5754 are read by composition (19.2%), 356 are their
+declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with every word read: 975 of 4372
+(22.3%).
 
 
 === 004v ===
  1  time then-exist Lord God
- 2  [?] [?] and [?]
+ 2  [?] [?] and ~earth
  3  sun and moon write
  4  Elijah prophet say angel God
  5  [?] before [?] <preposition_of_genitive>-somebody
- 6  from-father [?] bow_down Lord
+ 6  from-father ~Adam bow_down Lord
  7  God on-on-sky [?] in_turn-brother
- 8  many [?] [?] and exist to-from-father God on-many angel
+ 8  many ~angel [?] and exist to-from-father God on-many angel
  9  on-angel two-half-hundred-year [?] before [?] <preposition_of_genitive>-somebody
-10  from-father [?] and angel [?] exist hide_oneself-angel and two [?]
+10  from-father ~Adam and angel [?] exist hide_oneself-angel and two ~angel
 11  and angel hide_oneself-angel pray and ten-ten-ten-ten [?] ten-ten-ten-ten night
 12  which hide_oneself-angel to hide_oneself-angel [?] on-in_turn-brother on-hell
 13  and two say angel to-Elijah Elijah and then-exist [?]
@@ -80,7 +81,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  7  prophet Elijah then-exist father son spirit to-go
  8  table [?] in_turn-brother on-this world and [?] | to
  9  [?] Lord-<suffix_of_divine_name> Adam [?] [?] and then-exist
-10  Adam [?] [?] earlier_mentioned [?] and [?] [?]
+10  Adam ~exist [?] earlier_mentioned [?] and [?] [?]
 11  [?] breathe on-Adam and living leave and
 12  Adam grab Lord-<suffix_of_divine_name> and Adam go inside
 13  Garden_of_Eden and each,_every [?] exist-chapter Adam
@@ -94,7 +95,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  [?] this yoke this-Adam through commandment not [?]
  6  this [?] [?] [?] [?] Adam exist [?]
  7  [?] die-Adam and then-exist Adam sleep inside | to
- 8  [?] and then-exist on-this [?] [?] from [?] and | then
+ 8  [?] and then-exist on-this [?] ~first from [?] and | then
  9  exist go holy-spirit inside [?] [?] this
 10  [?] this [?] and grab Lord-<suffix_of_divine_name> Adam
 11  [?] and [?] [?] say angel you
@@ -131,26 +132,26 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 001v ===
- 1  Lord-<suffix_of_divine_name> on-angel this [?] two from [?] and then-exist leave
+ 1  Lord-<suffix_of_divine_name> on-angel this ~out(ward) two from [?] and then-exist leave
  2  Lord-<suffix_of_divine_name> [?] inside [?] [?] Lord-<suffix_of_divine_name> <suffix_of_divine_name>
- 3  [?] why? [?] [?] [?] Lord-<suffix_of_divine_name>
- 4  [?] Lord-<suffix_of_divine_name> who-mouth [?] hide_oneself [?] [?]
- 5  who [?] [?] say Lord-<suffix_of_divine_name> why? [?]
+ 3  [?] why? [?] ~Adam [?] Lord-<suffix_of_divine_name>
+ 4  [?] Lord-<suffix_of_divine_name> who-mouth ~Adam hide_oneself [?] ~Adam
+ 5  who [?] [?] say Lord-<suffix_of_divine_name> why? ~Adam
  6  [?] [?] Eve [?] food [?]
  7  Lord-<suffix_of_divine_name> [?] heavenly [?] [?] Eve this-Lord-to
  8  [?] Lord-<suffix_of_divine_name> why? Eve [?] who Eve [?]
  9  [?] Lord-<suffix_of_divine_name> why? Eve [?] [?] [?]
-10  serpent [?] food [?] Lord-<suffix_of_divine_name> [?]
-11  to-one commandment this [?] [?] commandment [?]
+10  serpent [?] food [?] Lord-<suffix_of_divine_name> ~Adam
+11  to-one commandment this ~Adam [?] commandment ~carry
 
 
 === 007r ===
- 1  exist [?] to-to-this-who [?] in_turn why?-in_turn
- 2  [?] exist [?] earth [?]
- 3  want [?] food [?] in_turn [?] [?]
+ 1  exist ~Adam to-to-this-who [?] in_turn why?-in_turn
+ 2  [?] exist ~Adam earth [?]
+ 3  want [?] food ~grab in_turn [?] [?]
  4  exist through [?] and [?] exist painful
  5  [?] have in_turn this evil this-evil exist
- 6  [?] earth [?] [?] [?]
+ 6  [?] earth [?] ~and [?]
  7  evil this somebody create each,_every this serpent die and
  8  leave among [?] Lord-<suffix_of_divine_name> and go
  9  Lord-<suffix_of_divine_name> angel [?] fire
@@ -162,43 +163,43 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  [?] [?] Garden_of_Eden and one create
  2  [?] inside Garden_of_Eden a) angel [?] Lord-<suffix_of_divine_name>
  3  on-angel this table [?] from [?] and from two-two-two-two say | to
- 4  Elijah God angel Elijah then-exist Lord-<suffix_of_divine_name> [?]
+ 4  Elijah God angel Elijah then-exist Lord-<suffix_of_divine_name> ~Adam
  5  out(ward) [?] on-Garden_of_Eden and then-exist | [?]
- 6  [?] leave inside [?] many year and [?] [?] [?]
+ 6  [?] leave inside ~field many year and ~have ~Adam [?]
  7  descendant this-two to-son and firstborn exist Cain and two [?] exist
  8  Abel [?] [?] exist Seth and then-exist
- 9  [?] from eye-eye blind and then-exist go [?] inside [?]
+ 9  ~Adam from eye-eye blind and then-exist go ~Adam inside [?]
 10  son [?] and this son exist [?] son [?]
-11  [?] and then-exist say [?] carry [?] from [?]
+11  ~Adam and then-exist say ~Adam carry ~Adam from [?]
 
 
 === 006r ===
- 1  one [?] and then-exist branch [?] carry [?] through
- 2  [?] and then-exist through [?] [?] through eye see blind [?]
- 3  and healing leave [?] [?] and then-exist Seth go | [?]
+ 1  one ~branch and then-exist branch [?] carry [?] through
+ 2  ~light and then-exist through ~light [?] through eye see blind ~Adam
+ 3  and healing leave ~Adam [?] and then-exist Seth go | [?]
  4  [?] Garden_of_Eden and [?] Seth appear God
  5  angel [?] God angel Seth [?] and go [?] say Seth
- 6  from-father [?] Seth [?] go inside Garden_of_Eden | then
- 7  exist father [?] carry Seth from [?] branch
- 8  [?] [?] exist father [?] through sin and say [?]
- 9  [?] then-exist [?] carry Seth [?] through
-10  [?] and then-exist through [?] [?] through eye see blind [?]
-11  healing leave [?] [?] angel righteous(ly) [?] speak and then-exist
+ 6  from-father ~Adam Seth [?] go inside Garden_of_Eden | then
+ 7  exist father ~Adam carry Seth from [?] branch
+ 8  [?] [?] exist father ~Adam through sin and say ~Adam
+ 9  ~Adam then-exist [?] carry Seth [?] through
+10  ~light and then-exist through ~light [?] through eye see blind ~and
+11  healing leave ~Adam [?] angel righteous(ly) [?] speak and then-exist
 12  go angel inside Garden_of_Eden and Seth carry branch
 
 
 === 006v ===
- 1  on-Garden_of_Eden from [?] [?] exist [?] through
- 2  sin and then-exist [?] [?] [?] angel this branch
+ 1  on-Garden_of_Eden from [?] [?] exist ~Adam through
+ 2  sin and then-exist [?] ~exist ~grab angel this branch
  3  and then-exist branch [?] carry [?] father
- 4  [?] and then-exist [?] go inside one town
- 5  and [?] town exist [?] who exist [?]
+ 4  ~Adam and then-exist [?] go inside one town
+ 5  and [?] town exist [?] who exist ~Adam
  6  house and then-exist arrive can [?] [?] and inside each,_every from
  7  town can [?] [?] and [?] out(ward) town
  8  one [?] and then-exist Seth exist go this [?]
  9  and inside can [?] [?] and then-exist Seth say one
 10  [?] [?] [?] from-father spirit father [?] [?]
-11  [?] and [?] exist eye-eye blind who [?] exist Lord
+11  ~Adam and ~Adam exist eye-eye blind who ~Adam exist Lord
 12  God out(ward) [?] on-Garden_of_Eden on-angel and then-exist [?]
 13  from-see gospel and find [?] ten-two-two-ten-year and
 
@@ -206,9 +207,9 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 008r ===
  1  [?] and then-exist [?] time appear Lord-<suffix_of_divine_name> Noah
  2  and then-exist [?] Lord-<suffix_of_divine_name> Noah sad(ly)-Lord year [?] somebody on-<preposition_of_genitive> [?]
- 3  create because [?] this who carry <preposition_of_genitive> commandment [?] Lord-<suffix_of_divine_name> want each,_every
+ 3  create because [?] this who carry <preposition_of_genitive> commandment ~exist Lord-<suffix_of_divine_name> want each,_every
  4  destroy [?] Lord-<suffix_of_divine_name> Noah do, one exist Lord | [?]
- 5  [?] Lord exist on-two-two-ten cubit long in_turn [?]
+ 5  ~exist Lord exist on-two-two-ten cubit long in_turn [?]
  6  broad in_turn [?] lift_up [?] grab [?] each,_every create two-<infix_of_distributive_numeral>-two and
  7  [?] <preposition_of_genitive>-ark and then-exist this [?] this-Lord [?] go-Lord
  8  and then-exist [?] grab each,_every create two-<infix_of_distributive_numeral>-two and go before Lord-<suffix_of_divine_name>
@@ -223,7 +224,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  people exist until Abraham forefather [?] believe
  2  from Noah exist until Abraham [?] [?]
  3  God angel to-Elijah prophet Elijah inside this-and-this
- 4  believe one somebody [?] inside time
+ 4  believe one somebody ~be_saved inside time
  5  leave angel before Elijah prophet and this-and-this say
  6  [?] write Elijah prophet and [?] [?]
  7  inside [?] chapter [?] <preposition_of_genitive>-write
@@ -243,7 +244,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 11  [?] to-Lord peace
 12  and then-exist from see look_up
 13  Abraham and see
-14  understand-eat [?]
+14  understand-eat ~lamb
 15  on-understand-eat (thorn)bush
 
 
@@ -258,7 +259,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  8  believe righteous(ly) son living God each,_every somebody be_saved [?]
  9  one somebody [?] a) each,_every somebody be_saved yoke and
 10  somebody Lord [?] believe and one [?] [?]
-11  a) each,_every somebody be_damned from [?] [?] table until Abraham
+11  a) each,_every somebody be_damned from ~Adam [?] table until Abraham
 12  one hundred-year and ten-ten-year from Abraham [?] table [?]
 13  [?] [?] and [?] from Abraham until
 
@@ -274,12 +275,12 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  8  God and leave angel before David [?]
  9  from David king until virgin-Mary [?]
 10  [?] and [?] and one [?]
-11  [?] [?] and one [?] | two-two-two
+11  ~out(ward) [?] and one [?] | two-two-two
 12  [?] and [?] from David king until virgin-Mary
 
 
 === 015v ===
- 1  [?] from [?] [?] [?] until virgin-Mary | be_born
+ 1  [?] from [?] [?] ~out(ward) until virgin-Mary | be_born
  2  [?] [?] and one [?] and [?]
  3  and two-two-year and two-two-year
 
@@ -330,10 +331,10 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  Jézus and go Lord [?] exist gospel preach many who-and-this-and
  7  miracle do, and suffer Lord [?] and [?] from die
  8  stand_up-Lord and [?] be_saved each,_every [?] [?] and somebody Lord exist
- 9  [?] and leave [?] before holy-Anne_(mother_of_the_Virgin_Mary) and from-get_conceived happy
+ 9  [?] and leave ~angel before holy-Anne_(mother_of_the_Virgin_Mary) and from-get_conceived happy
 10  virgin-Mary and from Mary foetus carry nine moon in_turn ten foetus be_born and this
 11  out(ward) two moon and on-out(ward) [?] and on-six-year-to
-12  [?] from [?] [?] until virgin-Mary get_conceived and [?]
+12  ~out(ward) from [?] [?] until virgin-Mary get_conceived and [?]
 13  [?] and one hundred and [?] and
 
 
@@ -355,9 +356,9 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 018v ===
  1  have want to-girl this go holy-spirit to-each,_every have_mercy [?]
- 2  this-girl get_conceived son and [?] [?] exist [?]
+ 2  this-girl get_conceived son and ~son [?] exist [?]
  3  [?] virgin-Mary [?] [?] this say and [?] want from [?]
- 4  this [?] [?] Lord this [?] [?] then-exist girl [?]
+ 4  this [?] [?] Lord this [?] ~and then-exist girl [?]
  5  virgin-Mary commandment word to-Lord-hide_oneself Mary hide_oneself this [?] who girl
  6  exist angel say on-this say [?] father-<suffix_of_divine_name> virgin-Mary | holy
  7  spirit in_turn to-Lord [?] [?] go Lord-Jézus-Christ from-get_conceived Lord
@@ -380,13 +381,13 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  8  Joseph go very_old [?]
  9  inside exist-chapter [?] to-to Mary and this [?]
 10  Joseph exist [?] very_old [?]
-11  from son to-pleasing from Mary [?] and then-exist [?] on-be_born
-12  [?] [?] exist Jézus and from Lord go [?] exist
+11  from son to-pleasing from Mary [?] and then-exist ~son on-be_born
+12  [?] ~son exist Jézus and from Lord go [?] exist
 13  gospel [?] who-and-this-and miracle do, and suffer Lord [?]
 
 
 === 019v ===
- 1  Jew(ish) [?] and somebody to-Lord exist [?] [?]
+ 1  Jew(ish) [?] and somebody to-Lord exist ~believe [?]
  2  righteous(ly) son living God each,_every somebody be_saved and one
  3  somebody be_damned to and Lord [?] believe and one
  4  to [?] a) [?] somebody be_damned end this holy-gospel
@@ -419,14 +420,14 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 020v ===
  1  donkey exist hay put and then-exist very_old | [?]
- 2  [?] [?] begin-light [?] then-exist shoulder-to [?]
+ 2  [?] ~fire begin-light ~and then-exist shoulder-to [?]
  3  night time on-be_born son and son exist
  4  [?] Jézus time then-exist [?] [?]
  5  through light Bethlehem town and then-exist star
  6  see [?] and from [?] love-exist-to and then-exist
  7  on-star miracle time say angel understand-chapter [?]
  8  joy be_born king king [?] be_born inside
- 9  [?] town inside [?] inside donkey manger
+ 9  ~Bethlehem town inside [?] inside donkey manger
 10  [?] donkey love hay inside [?] [?]
 11  Christ Mary son and then-exist [?] go Bethlehem
 12  and then-exist [?] kneel_(down) and each,_every this exist kneel_(down)
@@ -448,7 +449,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  4  and escape inside Egypt-to and go each,_every this begin [?]
  5  out(ward)-out(ward) Egypt [?] this this angel [?] say [?] [?] end
  6  this holy-gospel time stand_up up [?] | [?]
- 7  [?] [?] grab Lord-Jézus-Christ and <preposition_of_genitive> mother and [?]
+ 7  [?] ~and grab Lord-Jézus-Christ and <preposition_of_genitive> mother and [?]
  8  year out(ward) then-exist | [?]
  9  [?] go inside Jerusalem [?] that_is on-be_born
 10  Lord-Jézus-Christ on-six-two-year time circumcise son
@@ -463,7 +464,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  on-Egypt earth inside each,_every town [?] [?]
  3  [?] evil pierce-pierce and | [?]
  4  [?] die from [?] leave-leave inside Egypt six-six-year
- 5  time say [?] angel [?]
+ 5  time say ~Gabriel angel [?]
  6  escape on-Egypt earth inside [?] town
  7  and [?] leave-leave [?]
  8  town six-six-year and [?] and this [?] table
@@ -486,7 +487,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 10  can show Lord-Jézus inside Capharnaum because from-healing living
 11  two servant one soldier and [?] [?]
 12  exist [?] in_turn-six-two can show Lord-Jézus
-13  inside Tyrus in_turn-chapter-in_turn to-to one [?] head
+13  inside Tyrus in_turn-chapter-in_turn to-to one ~woman head
 
 
 === 023r ===
@@ -502,19 +503,19 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 10  [?] [?] Christ [?] and miracle confess
 11  [?] Lord-Jézus righteous(ly) son God [?] confess [?]
 12  Lord-Jézus [?] Lord-Jézus righteous(ly) son God first confess
-13  [?] Lord-Jézus [?] and Elijah in_turn-two confess
+13  ~have Lord-Jézus [?] and Elijah in_turn-two confess
 
 
 === 023v ===
- 1  [?] Lord-Jézus from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord [?] confess [?] evil
- 2  [?] Lord-Jézus righteous(ly) son God in_turn-two-two confess [?]
+ 1  ~have Lord-Jézus from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord [?] confess ~evil evil
+ 2  [?] Lord-Jézus righteous(ly) son God in_turn-two-two confess ~have
  3  Lord-Jézus angel [?] Lord-Jézus righteous(ly) son God [?]
  4  confess [?] and earth sun [?]
  5  moon [?] Lord-Jézus righteous(ly) son God and this each,_every [?]
  6  [?] Lord-Jézus righteous(ly) son God first confess holy-Peter
  7  [?] and Elijah write holy-Luke then-exist
  8  Lord-Jézus inside thirty [?] time go Lord-Jézus [?]
- 9  Mount_Tabor and <preposition_of_genitive> apostle and be_glorified [?]
+ 9  Mount_Tabor and <preposition_of_genitive> apostle and be_glorified ~and
 10  see apostle [?] and Elijah [?] [?]
 11  and see light [?] and then-exist from-leave-leave | Lord
 12  Jézus and [?] and Elijah and then-exist apostle through
@@ -525,7 +526,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  hear this word say [?] <preposition_of_genitive> son and father [?] [?] [?]
  2  and then-exist home [?] not apostle and not each,_every [?]
  3  a) to-Lord-Jézus end this holy-gospel in_turn-two confess
- 4  [?] Lord-Jézus from-father <preposition_of_genitive>-Lord first on-Mount_Tabor
+ 4  ~have Lord-Jézus from-father <preposition_of_genitive>-Lord first on-Mount_Tabor
  5  in_turn-two on-Carmel to-mount because then-exist Lord-Jézus inside thirty
  6  [?] time go Lord-Jézus understand [?] holy-John
  7  [?] on-Carmel to-mount and then-exist Lord go | to
@@ -537,7 +538,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 024v ===
- 1  inside [?] dove [?] this-Lord <preposition_of_genitive> son
+ 1  inside ~shape,_form dove [?] this-Lord <preposition_of_genitive> son
  2  [?] spirit calm_down and Lord grab
  3  holy-spirit and Lord go inside [?]
  4  [?] Lord-Jézus ten-two-two-year [?] confess
@@ -565,14 +566,14 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  exist star see [?] and from [?] [?]
  4  and then-exist on-star miracle time say angel [?]
  5  [?] joy be_born king king [?]
- 6  be_born inside [?] town inside barn inside donkey
+ 6  be_born inside ~Bethlehem town inside barn inside donkey
  7  manger [?] donkey inside hay inside
  8  [?] [?] Christ Mary son and | then
  9  [?] [?] go Bethlehem and [?]
-10  [?] kneel_(down) and each,_every this [?] kneel_(down) | [?]
+10  [?] kneel_(down) and each,_every this ~exist kneel_(down) | ~exist
 11  [?] from [?] [?] to go [?] and
 12  [?] thanks and thanks grab end this holy-gospel
-13  [?] confess [?] Lord-Jézus [?]
+13  [?] confess ~have Lord-Jézus [?]
 
 
 === 026r ===
@@ -601,7 +602,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 027r ===
  1  mother happy virgin-Mary on-that_is confess happy | virgin
  2  Mary say angel God time exist Lord go Lord-<suffix_of_divine_name> <preposition_of_genitive>-Lord
- 3  angel happy virgin-Mary then-exist [?] from want-year to-house
+ 3  angel happy virgin-Mary then-exist ~out(ward) from want-year to-house
  4  virgin-Mary [?] and be_born and [?] [?]
  5  and one hundred and six-ten-year and [?] and and [?]
  6  time from-gate from-father-<suffix_of_divine_name> heaven because see hide_oneself each,_every
@@ -722,7 +723,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  and [?] Lord [?] from apostle betray and see-apostle among
  7  apostle say [?] Master [?] and [?]
  8  say Lord-Jézus and [?] [?] Lord-Jézus
- 9  [?] and [?] and say oh [?] [?]
+ 9  [?] and ~John and say oh [?] [?]
 10  from-judge Master Who_is_it? and then-exist lean_on
 11  [?] on-end Lord-Jézus [?] Master | [?]
 12  this-and-this say Lord-Jézus [?] this-Lord grab bite
@@ -740,7 +741,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  9  [?] do, and then-exist [?] apostle how?
 10  say Master speak a) understand apostle how? say Judas
 11  [?] buy [?] shepherd [?] because
-12  food apostle [?] judge because this exist Jew(ish) Easter
+12  food apostle ~exist judge because this exist Jew(ish) Easter
 
 
 === 032r ===
@@ -762,17 +763,17 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  [?] Lord-Jézus Peter first a) before [?]
  3  [?] Lord-to [?] exist deny and Peter say [?]
  4  emperor [?] Lord-Jézus Peter this [?] this
- 5  [?] that_is_why ask_(for) Lord you do_not [?]
+ 5  ~out(ward) that_is_why ask_(for) Lord you do_not [?]
  6  inside Lord stumble because exist apostle many sad(ly) on-Lord have
  7  in_turn one Jew(ish) exist judge and mouth
  8  can Lord say Lord-Jézus a) [?] and go Lord
  9  on-way because have Lord-Jézus then-exist Lord [?]
-10  Judas inside house [?] and many miracle
-11  and many [?] [?] Lord-Jézus on-way
+10  Judas inside house ~high_priest and many miracle
+11  and many ~preach [?] Lord-Jézus on-way
 
 
 === 033r ===
- 1  and speak holy-John many miracle and many [?]
+ 1  and speak holy-John many miracle and many ~preach
  2  [?] Lord-Jézus [?] but inside write not
  3  write and then-exist Lord six-six apostle [?] [?]
  4  exist one brook [?] and from apostle
@@ -783,7 +784,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  9  trespass Jerusalem in_turn-to-in_turn and [?] go-Lord on-Jerusalem and inside
 10  Jerusalem lo Lord [?] to Lord-Jézus and <preposition_of_genitive>-Lord apostle
 11  because want-Lord grab Lord-Jézus inside-garden capture
-12  [?] <preposition_of_genitive>-somebody father [?] [?] [?]
+12  [?] <preposition_of_genitive>-somebody father ~Adam [?] [?]
 
 
 === 033v ===
@@ -811,12 +812,12 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  8  and [?] go Lord [?] father-<suffix_of_divine_name> <preposition_of_genitive>-Lord and kneel_(down) | Lord
  9  Jézus [?] father-<suffix_of_divine_name> <preposition_of_genitive>-Lord [?] from | [?]
 10  father from Lord this suffering in_turn [?] pleasing in_turn
-11  [?] pleasing because this-father-<suffix_of_divine_name> [?] on-Lord [?] | <preposition_of_genitive>
+11  [?] pleasing because this-father-<suffix_of_divine_name> [?] on-Lord ~the_whole_wide_world | <preposition_of_genitive>
 
 
 === 034v ===
  1  father and go angel [?] high from-father-<suffix_of_divine_name> [?]
- 2  Lord this [?] this [?] this suffering [?]
+ 2  Lord this ~have this [?] this suffering [?]
  3  [?] angel [?] this-Lord offer [?]
  4  <preposition_of_genitive>-Lord fate <preposition_of_genitive>-father-<suffix_of_divine_name> son Jézus [?]
  5  each,_every [?] from-buy and leave-to-leave angel before
@@ -840,11 +841,11 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  9  ask_for_sign distinguish Lord James John [?] kiss
 10  Judas from Lord capture Jew(ish) and then-exist
 11  go Judas against Lord-Jézus and [?]
-12  [?] <preposition_of_genitive>-Lord hand because to-Jew(ish) ask_for_sign
+12  ~Judas <preposition_of_genitive>-Lord hand because to-Jew(ish) ask_for_sign
 
 
 === 035v ===
- 1  because exist similar John to-Lord-Jézus [?] shout | Lord
+ 1  because exist similar John to-Lord-Jézus ~and shout | Lord
  2  Jézus who(m)? search people <preposition_of_genitive>-Lord Jew(ish) and shout
  3  Jew(ish) [?] [?] Jézus [?] and shout
  4  Lord-Jézus from this-Lord if Lord search Jew(ish) and each,_every
@@ -863,13 +864,13 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  [?] hide_oneself <preposition_of_genitive>-club and [?] [?] and <preposition_of_genitive>
  3  Jew(ish) club [?] inside why?-in_turn because | Lord
  4  Jézus [?] [?] father-<suffix_of_divine_name> <preposition_of_genitive>-Lord to Jew(ish)
- 5  people [?] [?] [?] and [?] shout | Lord
+ 5  people ~and [?] [?] and [?] shout | Lord
  6  Jézus [?] search <preposition_of_genitive>-Lord Jew(ish)
  7  and shout Jew(ish) [?] [?]
  8  Jézus [?] and shout Lord-Jézus from this-Lord
  9  if Lord search Jew(ish) [?] shout Lord-Jézus
 10  grab Jew(ish) Lord because go [?] <preposition_of_genitive>-Lord father-<suffix_of_divine_name>
-11  and then-exist [?] from-leave-leave Jew(ish) Lord-Jézus [?]
+11  and then-exist ~Jew(ish) from-leave-leave Jew(ish) Lord-Jézus [?]
 
 
 === 036v ===
@@ -934,22 +935,22 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 039r ===
- 1  holy-Peter before [?] and then-exist Peter exist
- 2  see from-handmaid [?] Jew(ish) [?] handmaid this-Peter
+ 1  holy-Peter before ~gate and then-exist Peter exist
+ 2  see from-handmaid ~gate Jew(ish) [?] handmaid this-Peter
  3  apostle this Jézus say Peter [?] and-to-Lord-to [?]
  4  this two denial Lord-Jézus because say Peter [?] Lord | [?]
  5  to-Lord-to in_turn John [?] [?]
  6  acquaintance this high_priest say Caiaphas to-Jézus this-Lord say
  7  son God in_turn how? this righteous(ly) preach say Jézus
  8  to-Caiaphas from-judge-Caiaphas from [?] [?]
- 9  hear preach [?] [?] [?]
+ 9  hear preach [?] ~righteous(ly) [?]
 10  [?] Caiaphas this-Caiaphas and [?] inside Lord [?]
 11  Caiaphas-year [?] this-Lord [?] somebody say Caiaphas
 12  [?] Lord [?] [?] to-<preposition_of_genitive>-Caiaphas exist-exist
 
 
 === 039v ===
- 1  and this [?] two [?] and Lord [?] | to
+ 1  and this ~out(ward) two [?] and Lord [?] | to
  2  Pilate and from Lord [?] accuse [?]
  3  [?] Pilate go this-Lord half-believe and | then
  4  exist [?] many not-not on-Lord do,
@@ -993,7 +994,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  7  Pilate this-hide_oneself want [?] Lord [?] [?]
  8  [?] righteous(ly) [?] [?] [?]
  9  [?] grab Lord [?] and Lord [?]
-10  [?] <preposition_of_genitive>-Pilate [?] and then-exist [?] [?]
+10  ~Herod <preposition_of_genitive>-Pilate [?] and then-exist ~out(ward) [?]
 11  hour and then-exist Lord [?] [?]
 12  king and then-exist and [?] on-one
 
@@ -1015,7 +1016,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 042r ===
  1  people on-Lord [?] and Lord say son
- 2  God [?] [?] [?] say Lord and
+ 2  God [?] ~false [?] say Lord and
  3  [?] this exist-chapter destroy | want
  4  Lord this-Lord food [?] each,_every [?]
 
@@ -1023,7 +1024,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 042v ===
  1  and [?] to-this confess [?] Herod a) [?]
  2  Herod say Lord Herod [?] God this Lord son and
- 3  one say speak Lord-Jézus [?] Herod and
+ 3  one say speak Lord-Jézus ~against Herod and
  4  Herod [?] Herod [?] this-Herod king [?]
  5  this-Lord can Herod [?] this die [?] [?]
  6  this-Lord [?] Herod to say say Herod [?]
@@ -1037,7 +1038,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 043r ===
  1  one vessel water and [?] various
- 2  [?] before Lord-Jézus and Lord [?]
+ 2  [?] before Lord-Jézus and Lord ~ask_(for)
  3  Herod then-exist-Lord before miracle do,
  4  and yoke Lord-Jézus before and understand-eat
  5  miracle do, because then-exist [?] before
@@ -1046,7 +1047,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  8  Pilate to-<preposition_of_genitive>-Herod brother [?] who
  9  [?] this-Lord because on-Lord do, Pilate
 10  and Lord [?] before Pilate many [?]
-11  and this [?] six hour and Lord [?] before
+11  and this ~out(ward) six hour and Lord [?] before
 12  Pilate [?] Jew(ish) Pilate say this-Lord Pilate [?]
 
 
@@ -1056,7 +1057,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  [?] Pilate understand-eat soldier carry-soldier Pilate
  4  two [?] [?] and then-exist Pilate [?] carry
  5  two [?] [?] and Lord gate [?]
- 6  understand-eat [?] and grab Pilate | two
+ 6  understand-eat ~until and grab Pilate | two
  7  two soldier to Lord-Jézus and Lord exist whip and then-exist
  8  two from [?] flog Lord-Jézus in_turn-two Lord
  9  begin two [?] flog and then-exist two and from two [?]
@@ -1081,7 +1082,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 045v ===
  1  and Lord sit [?] inside one throne | on
- 2  middle [?] and then-exist kneel_(down) Pilate
+ 2  middle ~until and then-exist kneel_(down) Pilate
  3  before Lord-Jézus and say Pilate healing Lord king
  4  Jew(ish) and say Lord-Jézus to-Pilate [?]
  5  speak because this-Lord king Jew(ish) because | then
@@ -1167,7 +1168,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 048v ===
  1  on-two direction this-people-chapter over sea
  2  through [?] go-Lord [?] in_turn from head
- 3  each,_every [?] to-<preposition_of_genitive>-people-chapter [?] | this
+ 3  each,_every [?] to-<preposition_of_genitive>-people-chapter ~the_whole_wide_world | this
  4  people [?] living-Lord two-two-ten-year inside field
  5  in_turn angel [?] to-this-people-chapter
  6  [?] [?] do, people <preposition_of_genitive>-Lord
@@ -1179,8 +1180,8 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 049r ===
- 1  to-go [?] two [?] to Lord-Jézus and put
- 2  [?] [?] on-Lord-Jézus in_turn from two [?] | carry
+ 1  to-go [?] two ~thief to Lord-Jézus and put
+ 2  [?] [?] on-Lord-Jézus in_turn from two ~thief | carry
  3  [?] [?] good from [?] [?] Lord-Jézus
  4  and to-go up holy-John inside Bethany to
  5  two-Mary Magdalene good [?] Master living Lord [?]
@@ -1217,15 +1218,15 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 050v ===
- 1  [?] [?] foot [?]
+ 1  [?] ~and foot [?]
  2  and foot pierce and each,_every <preposition_of_genitive>-Lord [?] and | <preposition_of_genitive>
  3  Lord [?] inside Lord [?] inside Lord-Jézus-Christ
  4  and write Pilate on-one tablet Jézus
  5  [?] king Jew(ish) [?] Jew(ish)
  6  write Lord king Jew(ish) a) Lord write
  7  Jézus [?] [?] Pilate write [?]
- 8  [?] [?] write and two [?] to-Lord pierce
- 9  [?] and Lord among two [?] [?]
+ 8  [?] ~Pilate write and two ~thief to-Lord pierce
+ 9  [?] and Lord among two ~thief [?]
 10  [?] and this out(ward) nine hour [?] Lord-Jézus
 11  [?] from-father <preposition_of_genitive>-Lord God [?] ask_(for)-Lord
 
@@ -1252,7 +1253,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 052v ===
  1  and then-exist Lord-Jézus <preposition_of_genitive>-Lord [?] [?] [?] earth
  2  quake rock stone [?] sun and moon
- 3  this eclipse and each,_every [?] [?] this humble [?] each,_every
+ 3  this eclipse and each,_every [?] [?] this humble ~and each,_every
  4  create mourn then-exist Christ [?] Lord and go [?]
  5  one soldier on-Jerusalem blind and [?] soldier
  6  exist Longinus_<the_centurion,_who_pierced_Jesus’_side_on_the_cross> and pierce Jew(ish) spear [?]
@@ -1267,9 +1268,9 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  can Lord-Jézus-Christ and [?] inside Lord believe
  2  a) many judge [?] [?] home
  3  in_turn-two [?] sad(ly) accuse because [?] [?]
- 4  [?] [?] [?] [?] son God and
+ 4  [?] [?] ~execute [?] son God and
  5  sad(ly) go [?] [?] home and this
- 6  [?] out(ward) nine [?] and two-two from [?]
+ 6  [?] out(ward) nine ~hour and two-two from ~hour
  7  [?] suffer Lord-Jézus [?] [?]
  8  each,_every [?] home from [?] [?]
  9  in_turn apostle exist [?] go-go each,_every to-apostle [?] | on
@@ -1279,13 +1280,13 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 053v ===
  1  apostle cut_off and then-exist two somebody-have_mercy Jerusalem [?]
  2  and [?] exist [?] in_turn-two
- 3  [?] and then-exist two ask_(for) from Pilate
+ 3  ~Nicodemus and then-exist two ask_(for) from Pilate
  4  [?] Lord-Jézus and [?] two sufferer
  5  [?] Lord-Jézus and then-exist two go [?]
  6  exist Christ [?] and go [?] two
  7  many Jew(ish) and two people that_is good people have_mercy
  8  and then-exist two see virgin-Mary and [?]
- 9  Magdalene go many people on-Jerusalem and [?]
+ 9  Magdalene go many people on-Jerusalem and ~through
 10  startle because to Lord want Jew(ish) each,_every Lord [?] because
 
 
@@ -1294,14 +1295,14 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  because exist-Mary [?] escape [?]
  3  Jew(ish) and on-place exist this people then-exist
  4  from two-Mary to-people go-two-Mary and grab
- 5  [?] [?] [?] Lord-Jézus in_turn [?] three_nails
+ 5  ~Nicodemus [?] [?] Lord-Jézus in_turn [?] three_nails
  6  [?] grab holy-John [?] see | virgin
  7  Mary [?] grab virgin-Mary inside [?]
- 8  [?] [?] Nicodemus <preposition_of_genitive>-living-servant
+ 8  ~and [?] Nicodemus <preposition_of_genitive>-living-servant
  9  [?] and cover two body and [?] [?] and
 10  inside-put Nicodemus [?] Lord-Jézus and
 11  Lord inside burial_chamber close and leave [?] [?] to-Lord two-two soldier [?]
-12  [?] Jerusalem head [?] [?] go [?] end this
+12  [?] Jerusalem head ~and [?] go [?] end this
 13  holy-gospel
 
 
@@ -1378,8 +1379,8 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  write say holy-<name_of_a_prophet>
  6  because say [?] exist find
  7  inside <pertaining_to_the_Old_Testament> righteous(ly) write this word stand_up-Lord on-die-Lord
- 8  king to-Lord thanks [?] and destroy Lord [?] Christ and from
- 9  [?] [?] [?] can hide_oneself-angel [?] write | to
+ 8  king to-Lord thanks [?] and destroy Lord ~evil Christ and from
+ 9  [?] [?] ~evil can hide_oneself-angel [?] write | to
 10  holy-Mark inside [?] chapter-leave <preposition_of_genitive>-write then-exist Lord
 11  Christ [?] <preposition_of_genitive>-Lord soul breathe_out earth quake
 12  rock stone this [?] sun and moon this
@@ -1393,19 +1394,19 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  hour time go from-father God heaven
  6  on-<preposition_of_genitive>-father angel inside [?] Lord-Jézus and
  7  [?] from [?] in_turn angel inside burial_chamber [?]
- 8  in_turn to-Lord go-Lord [?] and [?] destroy and [?]
+ 8  in_turn to-Lord go-Lord [?] and ~evil destroy and [?]
  9  people die inside one hundred-year and inside | [?]
 10  [?] and inside [?] and [?] each,_every prophet
 11  go on-netherworld and [?] [?] soul each,_every [?] go Lord
-12  in_turn [?] soul inside [?] [?] Lord | [?]
+12  in_turn [?] soul inside ~evil [?] Lord | [?]
 
 
 === 058v ===
  1  holy-Augustine-church_father inside many-to-year and one soul [?]
- 2  [?] inside [?] land a) then-exist to-Lord
+ 2  ~go inside [?] land a) then-exist to-Lord
  3  to-soul-soul-soul-soul-soul go Lord and [?] [?] soul
  4  [?] [?] to-go Lord soul and Lord appear Lord
- 5  to-happy virgin-Mary and kneel_(down) [?] soul
+ 5  to-happy virgin-Mary and kneel_(down) ~Adam soul
  6  before to-happy virgin-Mary and girl [?]
  7  ask_(for) and bless-year to-happy virgin-Mary
  8  and to-soul-soul-soul each,_every leave before to-happy
@@ -1427,7 +1428,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  in_turn-chapter-in_turn and | exist-chapter
  7  [?] exist Emmaus and then-exist to-high-two-apostle from living
  8  Lord-Jézus and then-exist two speak how?-Lord this-Lord
- 9  exist righteous(ly) somebody righteous(ly) Lord [?] who-and-this-and
+ 9  exist righteous(ly) somebody righteous(ly) Lord ~preach who-and-this-and
 10  miracle do, [?] <preposition_of_genitive>-two-apostle Jew(ish)
 11  head execute time appear
 12  two-apostle Lord-Jézus shape,_form traveller and then-exist
@@ -1436,7 +1437,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 060r ===
  1  two-apostle [?] Lord-Jézus and two-apostle (begin_to)_talk and
  2  Lord from-speak [?] Lord-Jézus oh <preposition_of_genitive>-Lord
- 3  two-apostle [?] say two-apostle Lord how? say [?]
+ 3  two-apostle [?] say two-apostle Lord how? say ~among
  4  [?] have two-apostle because say exist Lord-Jézus-Christ
  5  apostle [?] two somebody from-Lord speak this-Lord two
  6  Lord apostle [?] Lord [?] Luke this [?]
@@ -1448,10 +1449,10 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 060v ===
- 1  eye-eye [?] [?] through light die [?] [?] | [?]
+ 1  eye-eye ~blind [?] through light die [?] [?] | [?]
  2  [?] body and evil obsessed_by_the_evil from-healing
  3  and Lord [?] exist from [?] [?]
- 4  stand_up-Lord and say one [?] [?]
+ 4  stand_up-Lord and say one [?] ~head
  5  news exist-Lord [?] stand_up-Lord news two
  6  apostle [?] believe who from Lord from die
  7  stand_up-Lord because [?] <preposition_of_genitive>-Lord brother-to
@@ -1465,7 +1466,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  [?] Lord-Jézus leave exist die son God
  3  [?] [?] from [?] from [?]
  4  [?] from father-<suffix_of_divine_name> [?] and begin through
- 5  explain Lord-Jézus from [?] [?] write
+ 5  explain Lord-Jézus from ~Adam ~trespass write
  6  say [?] Cleopas Luke this Lord to-two [?]
  7  want-Lord good say [?] Lord-Jézus from [?]
  8  [?] symbolize this Jézus execute how? | in_turn
@@ -1476,7 +1477,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 061v ===
  1  [?] symbolize this Jézus execute [?] [?]
  2  redeem each,_every [?] inside [?] this [?] and on-this Jézus
- 3  execute be_saved each,_every [?] gain [?]
+ 3  execute be_saved each,_every ~Adam gain [?]
  4  Lord-Jézus trespass Abraham Abraham symbolize this
  5  Jézus execute and say Lord-Jézus say exist [?]
  6  Abraham [?] <preposition_of_genitive>-Lord-<suffix_of_divine_name> Abraham grab
@@ -1513,7 +1514,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 063r ===
- 1  carry apostle two [?] [?] and wine [?]
+ 1  carry apostle two [?] ~water and wine [?]
  2  grab Lord-Jézus one [?] and [?]
  3  [?] this how? then-exist [?] [?]
  4  and from [?] and wine and cloud
@@ -1530,7 +1531,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  write holy-John
  3  inside two-ten-ten chapter-leave
  4  <preposition_of_genitive>-write time
- 5  [?] apostle inside Jerusalem
+ 5  ~find apostle inside Jerusalem
  6  inside [?] house six
  7  inside Lord house where Lord-<suffix_of_divine_name>
  8  Lord-Jézus dinner [?] and then-exist go holy-Thomas [?]
@@ -1569,10 +1570,10 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 064r ===
- 1  <preposition_of_genitive>-Lord sheep and Lord [?] <preposition_of_genitive>-Lord sheep and
- 2  this-Lord [?] <preposition_of_genitive>-Lord sheep [?] Lord-Jézus | then
- 3  exist one king and then-exist [?] two [?]
- 4  one [?] home good [?] in_turn-two farm_hand
+ 1  <preposition_of_genitive>-Lord sheep and Lord ~know <preposition_of_genitive>-Lord sheep and
+ 2  this-Lord ~know <preposition_of_genitive>-Lord sheep [?] Lord-Jézus | then
+ 3  exist one king and then-exist ~have two [?]
+ 4  one ~who home good [?] in_turn-two farm_hand
  5  [?] and then-exist from two [?] [?] from one
  6  herd sheep this king and then-exist go wolf
  7  this sheep and want this sheep [?]
@@ -1588,7 +1589,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  Lord-Jézus [?] good [?] from [?] put
  4  down <preposition_of_genitive>-Lord [?] to-<preposition_of_genitive>-Lord [?] and grab-Lord
  5  and one [?] [?] good [?] from [?]
- 6  [?] [?] <preposition_of_genitive>-Lord sheep and then-exist hear
+ 6  [?] ~gate <preposition_of_genitive>-Lord sheep and then-exist hear
  7  voice,_sound <preposition_of_genitive>-Lord-<suffix_of_divine_name> sheep [?] [?] go [?]
  8  Lord-Jézus apostle <preposition_of_genitive>-Lord [?] [?] one [?]
  9  and this-sheep want to-you [?] go and
@@ -1614,19 +1615,19 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  Lord [?] [?] [?] Lord-Jézus apostle <preposition_of_genitive>-Lord
  2  [?] [?] this-Lord you speak [?]
  3  Lord-Jézus do_not_pick fig on-thistle [?] on-fig and | [?]
- 4  food grape [?] [?] on-grapevine
+ 4  food grape [?] ~a) on-grapevine
  5  because [?] good tree this [?] grab | in_turn
  6  [?] die-evil tree this die-evil-hell grab
- 7  because good tree can die-evil-hell grab [?]
+ 7  because good tree can die-evil-hell grab ~a)
  8  each,_every [?] grab [?] die-evil tree
- 9  can [?] grab [?] each,_every die-evil-hell
+ 9  can [?] grab ~a) each,_every die-evil-hell
 10  grab [?] Lord-Jézus many people exist shout | on-judge
 11  year Lord to-Lord this somebody trespass this Lord preach and say Lord-Jézus
 
 
 === 066r ===
  1  and [?] somebody can-say-Lord go Lord-<suffix_of_divine_name> Lord [?] | <preposition_of_genitive>
- 2  somebody and [?] Lord each,_every [?] gain this somebody
+ 2  somebody and [?] Lord each,_every ~Adam gain this somebody
  3  [?] out(ward)-year somebody [?] <preposition_of_genitive>-Lord father-<suffix_of_divine_name> and this somebody
  4  each,_every somebody [?] inside [?] heavenly home <preposition_of_genitive>-Lord
  5  father-<suffix_of_divine_name> a) each,_every go somebody on-chapter-oh chapter-oh hell
@@ -1645,7 +1646,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  4  time say Lord-Jézus
  5  apostle <preposition_of_genitive>-Lord on-last dinner
  6  [?] [?] this-Lord you speak love
- 7  whatever you exist [?] from <preposition_of_genitive>-Lord-from father-<suffix_of_divine_name>
+ 7  whatever you exist ~ask_(for) from <preposition_of_genitive>-Lord-from father-<suffix_of_divine_name>
  8  inside <preposition_of_genitive>-Lord [?] each,_every you [?] grab
  9  from heavenly from this-Lord Christ and this say speak Lord-Jézus
 10  on-way apostle <preposition_of_genitive>-Lord and say oh <preposition_of_genitive>-Lord [?]
@@ -1659,7 +1660,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  if-to you this believe exist to-Lord
  6  this-Lord righteous(ly) son living God [?] and [?] | [?]
  7  [?] believe [?] because this-Lord who-go
- 8  on-die to-Lord-die [?] [?] this-Lord you [?]
+ 8  on-die to-Lord-die [?] ~ask_(for) this-Lord you [?]
  9  inside Lord [?] apostle because you exist apostle many sad(ly)
 10  on-Lord have because you apostle each,_every apostle | on-apostle-chapter
 11  [?] [?] go-go [?] and to-and one and
@@ -1673,7 +1674,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  somebody [?] you and exist apostle one
  6  God believe apostle and somebody exist out(ward) this [?]
  7  and one somebody be_saved a) each,_every somebody be_damned
- 8  [?] and somebody exist believe inside [?] this
+ 8  ~to and somebody exist believe inside [?] this
  9  [?] exist [?] because this to-Lord one God
 10  end this holy-gospel [?] have somebody ask_(for)
 11  inside Jézus [?] be_saved speak holy-Paul apostle
@@ -1753,7 +1754,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  inside commandment you exist <preposition_of_genitive>-Lord [?] carry-apostle
  2  say Lord-Jézus and somebody exist carry [?] [?]
  3  [?] you first [?] Lord love whatever | [?]
- 4  exist [?] from-father-<suffix_of_divine_name> from <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> inside
+ 4  exist ~ask_(for) from-father-<suffix_of_divine_name> from <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> inside
  5  <preposition_of_genitive>-Lord [?] each,_every you be_saved grab
  6  end this holy-gospel [?] have somebody ask_(for)
  7  inside-Jézus [?] [?] speak holy-Paul apostle
@@ -1780,16 +1781,16 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 071v ===
  1  [?] out(ward) on-hear how? one [?] each,_every
  2  to-<preposition_of_genitive>-Lord [?] and then-exist you
- 3  chase want apostle say [?] [?] [?] apostle-apostle
+ 3  chase want apostle say [?] ~out(ward) [?] apostle-apostle
  4  Master [?] and Lord Jew(ish) die and you
  5  exist many sad(ly) on-Lord have in_turn one [?]
- 6  joy [?] you sad(ly) exist [?] [?]
+ 6  joy [?] you sad(ly) exist [?] ~until
  7  [?] how? then-exist one baptize head
  8  son be_born [?] many not-not have in_turn | then
  9  exist be_born [?] on-son joy this-Peter
-10  and [?] sad(ly) [?] joy want many sad(ly)
-11  [?] and [?] on-judge-year in_turn you sad(ly) many
-12  joy [?] and [?] on-judge-year end this holy-gospel
+10  and ~you sad(ly) [?] joy want many sad(ly)
+11  ~out(ward) and [?] on-judge-year in_turn you sad(ly) many
+12  joy ~out(ward) and [?] on-judge-year end this holy-gospel
 
 
 === 072r ===
@@ -1817,15 +1818,15 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  8  be_damned [?] [?] and somebody exist Lord-to believe
  9  from exist many miracle do, each,_every inside <preposition_of_genitive>-Lord
 10  [?] exist somebody inside <preposition_of_genitive>-Lord | and-exist
-11  [?] [?] through light die from-see resurrect [?]
+11  [?] ~blind through light die from-see resurrect [?]
 
 
 === 073r ===
  1  exist somebody inside <preposition_of_genitive>-Lord [?] evil inside
  2  somebody exorcise exist serpent carry inside
- 3  hand [?] somebody can bite exist somebody inside
+ 3  hand ~exist somebody can bite exist somebody inside
  4  <preposition_of_genitive>-Lord [?] [?] [?] and what-to
- 5  who somebody [?] [?] exist somebody inside <preposition_of_genitive>-Lord
+ 5  who somebody ~exist [?] exist somebody inside <preposition_of_genitive>-Lord
  6  [?] [?] <preposition_of_genitive>-somebody why?-in_turn put
  7  [?] exist somebody from-healing each,_every inside <preposition_of_genitive>-Lord | and-exist-from
  8  [?] exist somebody many miracle do, and
@@ -1836,12 +1837,12 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 073v ===
  1  [?] and say Lord-Jézus apostle <preposition_of_genitive>-Lord go-apostle [?]
- 2  mount this-Lord want-Lord [?] righteous(ly) and the_whole_wide_world <preposition_of_genitive>-Lord | from
+ 2  mount this-Lord want-Lord ~out(ward) righteous(ly) and the_whole_wide_world <preposition_of_genitive>-Lord | from
  3  father-<suffix_of_divine_name> and trespass go-Lord from apostle in_turn apostle know Lord go apostle
  4  and then-exist from-see-Lord on-apostle and say-Lord [?] you
  5  and then-exist trespass go-Lord [?] and two from-see-Lord on-apostle
  6  and say-Lord [?] you and then-exist trespass go-Lord | on
- 7  [?] in_turn apostle know Lord Monday-apostle and [?] from-see-Lord on-apostle
+ 7  ~way in_turn apostle know Lord Monday-apostle and [?] from-see-Lord on-apostle
  8  and say-Lord [?] you and then-exist trespass go-Lord
  9  [?] and two-two from-see-Lord on-apostle and say-Lord [?] | [?]
 10  [?] and then-exist trespass go-Lord [?] and [?] | from
@@ -1865,7 +1866,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  Lord-Jézus this <preposition_of_genitive>-Lord son [?] father-<suffix_of_divine_name> <preposition_of_genitive>-somebody
  2  and-Lord inside [?] holy [?] <preposition_of_genitive>-father-<suffix_of_divine_name> go somebody
  3  inside king <preposition_of_genitive>-father-<suffix_of_divine_name> exist the_whole_wide_world <preposition_of_genitive>-Lord how? [?]
- 4  this and [?] [?] <preposition_of_genitive>-somebody each,_every year
+ 4  this and ~earth [?] <preposition_of_genitive>-somebody each,_every year
  5  grab-Lord somebody today’s year this-somebody trespass
  6  remit how?-to somebody remit <preposition_of_genitive>-somebody joy
  7  go somebody inside pleasing-chapter [?] from evil amen
@@ -1880,7 +1881,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  year write apostle literal in_turn two metaphoric and then-exist
  4  [?] [?] exist-to Lord-Jézus and then-exist
  5  go Lord-Jézus heaven [?] and Lord light from
- 6  [?] because want Lord-Jézus then-exist Lord
+ 6  ~leave because want Lord-Jézus then-exist Lord
  7  apostle God shine on-this [?] and then-exist-two
  8  appear two angel-angel white | [?]
  9  [?] [?] two angel-angel you
@@ -1888,7 +1889,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 075v ===
- 1  [?] [?] in_turn-chapter-end-chapter this joy
+ 1  ~leave [?] in_turn-chapter-end-chapter this joy
  2  want Lord go [?] judge living and die
  3  somebody and say-two this two angel-angel go-apostle inside
  4  apostle-oh-<suffix_of_divine_name>-chapter and Lord [?] [?]
@@ -1904,7 +1905,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  [?] to-apostle many say [?] write [?] [?]
  2  inside [?] chapter <preposition_of_genitive>-write time then-exist Lord-Jézus-Christ
  3  inside thirty year and [?] and [?] moon and [?] inside
- 4  time leave-to-leave apostle [?] Lord-Jézus [?] holy-Peter
+ 4  time leave-to-leave apostle ~to Lord-Jézus [?] holy-Peter
  5  [?] want-high this-Peter have_mercy [?] exist Peter
  6  [?] [?] Lord-Jézus-Christ Peter Peter | in_turn
  7  [?] [?] [?] one year through sin somebody
@@ -1914,7 +1915,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 076v ===
- 1  [?] on-water heaven [?] Peter Peter [?]
+ 1  ~leave on-water heaven [?] Peter Peter [?]
  2  [?] somebody among apostle you sin [?] from
  3  [?] somebody apostle [?] [?] [?] somebody | <preposition_of_genitive>
  4  [?] leave a) if-exist many [?] in_turn
@@ -1928,7 +1929,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 077r ===
  1  [?] somebody [?] have_mercy somebody in_turn from-rich-from [?]
- 2  somebody in_turn [?] righteous(ly) somebody or [?] somebody
+ 2  somebody in_turn [?] righteous(ly) somebody or ~judge somebody
  3  who speak holy-Paul [?] say Lord-Jézus-Christ this [?]
  4  somebody sin one [?] [?] be_saved and who-hide_oneself
  5  somebody [?] [?] on-sin to Lord-Jézus-Christ
@@ -1958,7 +1959,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  why?-in_turn because this exist righteous(ly) righteous(ly) [?] because
  4  false [?] [?] [?] righteous(ly) judge
  5  [?] [?] false judge in_turn false [?]
- 6  righteous(ly) somebody false from-judge be_damned [?] inside [?]
+ 6  righteous(ly) somebody false from-judge be_damned [?] inside ~evil
  7  [?] chapter-oh chapter-oh in_turn righteous(ly) [?] each,_every
  8  to-which-chapter righteous(ly) judge [?] judge-somebody false
  9  from-judge [?] to-which-chapter righteous(ly) judge Lord-<suffix_of_divine_name> speak each,_every write
@@ -1998,7 +1999,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  this holy-gospel write holy-Luke inside two chapter <preposition_of_genitive>-write time
  6  then-exist on-execute [?] [?] and | then
  7  Lord-exist [?] time leave apostle pray
- 8  inside Lord [?] where Lord-<suffix_of_divine_name> Lord-Jézus dinner do, [?]
+ 8  inside Lord ~until where Lord-<suffix_of_divine_name> Lord-Jézus dinner do, [?]
  9  ten-year and then-exist keep_going this ten-year time leave apostle on
 10  pray and leave-to-leave holy-Peter to virgin-Mary [?]
 
@@ -2045,7 +2046,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 082v ===
  1  somebody-Jew(ish)-apostle-Mary grab holy-spirit and two-year [?] from
  2  Jew(ish) [?] and [?] [?] [?] and
- 3  [?] [?] [?] [?] and from [?] grab | holy
+ 3  [?] ~son [?] ~son and from ~son grab | holy
  4  spirit [?] on-spirit holy-spirit each,_every | somebody-Jew(ish)
  5  [?] grab holy-spirit and believe | Lord
  6  Jézus-Christ [?] on-believe somebody want [?] [?]
@@ -2107,7 +2108,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  and among you through transgress one
  2  [?] God to-commandment each,_every [?] [?] grab before
  3  [?] to-Lord thanks Lord-<suffix_of_divine_name> because and somebody one
- 4  transgress how? then-exist each,_every [?] [?] somebody | because
+ 4  transgress how? then-exist each,_every [?] ~transgress somebody | because
  5  [?] exist Lord-<suffix_of_divine_name> grab on-angel <preposition_of_genitive>-Lord inside <pertaining_to_the_Old_Testament>
  6  word father Abraham [?] and [?] commandment
  7  [?] this [?] go be_saved among somebody Lord
@@ -2139,7 +2140,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  from-gate God angel heaven and from [?]
  4  fire [?] one [?] [?] say
  5  God angel Elijah this exist symbolize Lord-<suffix_of_divine_name> Lord | <preposition_of_genitive>
- 6  angel and then-exist grab holy-Elijah torch [?] torch
+ 6  angel and then-exist grab holy-Elijah torch ~and torch
  7  light in_turn this [?] [?] go to-Elijah from | two-two
  8  two-two [?] and each,_every [?] torch light in_turn
  9  holy-Elijah [?] [?] and inside Elijah from-until
@@ -2184,7 +2185,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  [?] inside <preposition_of_genitive>-Jézus
  7  [?] one
  8  somebody [?] one [?] inside heaven | in_turn-chapter
- 9  [?] [?] each,_every somebody be_damned judge somebody Christ | holy
+ 9  [?] ~a) each,_every somebody be_damned judge somebody Christ | holy
 10  Matthew speak [?] this somebody say this [?]
 11  son this [?] somebody trespass blind God and
 12  blind God somebody and [?] [?] somebody in_turn this
@@ -2198,10 +2199,10 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  chapter-oh [?] [?] from-judge be_damned somebody
  6  on-blind in_turn be_damned [?] be_damned exist somebody chapter-oh
  7  chapter-oh [?] [?] somebody be_damned exist somebody [?]
- 8  [?] inside [?] [?] [?] write somebody
- 9  inside [?] until to-die <preposition_of_genitive>-somebody [?] in_turn | on
+ 8  [?] inside ~evil [?] [?] write somebody
+ 9  inside ~evil until to-die <preposition_of_genitive>-somebody [?] in_turn | on
 10  die soul inside purification [?] until [?] in_turn | on
-11  [?] and soul and exist-exist-chapter inside [?] chapter-oh chapter-oh
+11  [?] and soul and exist-exist-chapter inside ~evil chapter-oh chapter-oh
 
 
 === 088v ===
@@ -2214,8 +2215,8 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  7  one rich-somebody
  8  and somebody-rich each,_every [?] and purple go-somebody-rich | and
  9  rich from [?] until [?] joy-rich and then-exist [?] go
-10  one [?] to-house this-rich and [?] exist each,_every from
-11  [?] until [?] [?] wound [?] time this rich
+10  one ~Lazarus to-house this-rich and ~Lazarus exist each,_every from
+11  [?] until [?] [?] wound ~Lazarus time this rich
 12  to [?] sit-rich somebody Lord [?] king-Lord [?]
 13  who-and-this-and Lord and then-exist rich exist this [?] ask_(for)
 
@@ -2223,10 +2224,10 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 089r ===
  1  alms and [?] alms [?] rich [?]
  2  a) [?] out(ward) chase and then-exist lie this
- 3  [?] out(ward) [?] to-<preposition_of_genitive>-rich [?] because exist [?] [?]
+ 3  [?] out(ward) ~gate to-<preposition_of_genitive>-rich [?] because exist [?] [?]
  4  exist [?] and then-exist want [?] trespass from crumbs [?]
  5  on-<preposition_of_genitive>-rich throne [?] [?] [?] and then-exist | have
- 6  rich many dog and go-dog this [?] [?]
+ 6  rich many dog and go-dog this [?] ~and
  7  lick-dog <preposition_of_genitive>-Lazarus [?] and Lazarus more
  8  exist from dog [?] have_mercy this Lazarus in_turn from-rich
  9  have_mercy [?] [?] have_mercy and then-exist this Lazarus
@@ -2237,23 +2238,23 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 089v ===
  1  [?] do, Lazarus angel father heaven and then-exist this
- 2  rich die and [?] [?] inside [?] bury and then-exist
- 3  suffer inside [?] this [?] see [?] and see Lazarus
+ 2  rich die and [?] [?] inside ~evil bury and then-exist
+ 3  suffer inside ~evil this ~rich see [?] and see Lazarus
  4  inside öl father Abraham and shout this rich
  5  father Abraham say-father Lazarus because-this from-understand [?] | <preposition_of_genitive>
  6  Lazarus little [?] immerge water and cool
  7  on-<preposition_of_genitive>-rich tongue [?] [?] soul <preposition_of_genitive>-rich and from
  8  [?] exist-exist-chapter <preposition_of_genitive>-rich [?] father Abraham | this
- 9  [?] son <preposition_of_genitive>-father-<suffix_of_divine_name> [?] good [?] [?]
+ 9  ~rich son <preposition_of_genitive>-father-<suffix_of_divine_name> [?] good [?] [?]
 10  Lazarus exist [?] [?] [?] in_turn [?] exist
 11  rich [?] [?] [?] grab-Lazarus trespass from crumbs
-12  [?] [?] throne [?] grab [?] [?] Lazarus [?]
+12  [?] [?] throne ~rich grab [?] ~rich Lazarus [?]
 
 
 === 090r ===
  1  say father Abraham grab-Lazarus [?] [?] [?] [?]
  2  father Abraham many chasm [?] or [?]
- 3  [?] netherworld most_high [?] [?] who-shout [?]
+ 3  [?] netherworld most_high ~evil [?] who-shout [?]
  4  father Abraham and Lazarus [?] inside öl father
  5  Abraham and two who-shout [?] father-<suffix_of_divine_name> Abraham
  6  go Lazarus [?] [?] [?] [?] trespass this-two-two <preposition_of_genitive>-rich
@@ -2275,7 +2276,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  8  holy-John inside two chapter | <preposition_of_genitive>
  9  write time go Nicodemus
 10  inside night to-Lord-Jézus
-11  because [?] Jew(ish) and
+11  because ~have Jew(ish) and
 12  [?] to-Lord go-this
 
 
@@ -2505,7 +2506,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  this have somebody Lord-<suffix_of_divine_name> Jézus Christ son <preposition_of_genitive>-God
  3  and Lord [?] [?] and earth
  4  and love <preposition_of_genitive>-somebody father son how?-to somebody [?]
- 5  in_turn [?] [?] somebody have somebody wealth see
+ 5  in_turn [?] ~rich somebody have somebody wealth see
  6  trespass blind God and somebody [?] have God somebody
  7  [?] love-rich-somebody how?-to somebody [?] exist | <preposition_of_genitive>
  8  [?] heaven land speak [?] and
@@ -2521,7 +2522,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  pleasing in_turn want-rich-somebody God love first love | <preposition_of_genitive>-rich
  6  somebody father son how?-to rich-somebody [?] God
  7  and good exist [?] love [?] [?]
- 8  land [?] [?] see-rich-somebody | [?]
+ 8  land ~evil [?] see-rich-somebody | [?]
  9  rich-somebody exist chapter-oh chapter-oh [?]
 10  in_turn-who-exist rich-somebody Lord apostle love each,_every somebody how?-to rich-somebody
 
@@ -2560,8 +2561,8 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  4  and [?] from-leave-to-leave [?] [?] and
  5  [?] get_raptured heaven [?] and [?] | [?]
  6  somebody [?] [?] Noah [?] [?] carry
- 7  [?] [?] and [?] leave-to-leave Noah [?] on-earth
- 8  [?] [?] through be_born two [?] [?]
+ 7  ~evil [?] and [?] leave-to-leave Noah [?] on-earth
+ 8  [?] [?] through be_born two [?] ~evil
  9  and son hide_oneself-angel and [?] evil exist Antichrist
 
 
@@ -2599,7 +2600,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  and before moon eclipse [?] quake rock
  7  stone [?] and on-sun eclipse each,_every
  8  [?] [?] this humble and each,_every create mourn
- 9  then-exist Christ [?] [?] Lord inside burial_chamber | put
+ 9  then-exist Christ [?] ~and Lord inside burial_chamber | put
 
 
 === 103r ===
@@ -2635,7 +2636,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  from hell fire and somebody Lord exist believe-chapter
  7  to righteous(ly) son living God each,_every somebody be_saved and one
  8  somebody be_damned to and Lord [?] believe and [?]
- 9  one to be_saved [?] each,_every somebody be_damned
+ 9  one to be_saved ~a) each,_every somebody be_damned
 
 
 === 104v ===
@@ -2661,7 +2662,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  Jew(ish) this-church_father [?] church_father [?] write inside
  6  six chapter say Lord-Jézus joy this-Lord this-Jew(ish) how?
  7  contain [?] righteous(ly) [?] this Jew(ish) this contain
- 8  [?] write love Lord-<suffix_of_divine_name> most_high [?] [?] each,_every <preposition_of_genitive>-somebody
+ 8  [?] write love Lord-<suffix_of_divine_name> most_high ~each,_every [?] each,_every <preposition_of_genitive>-somebody
  9  soul each,_every <preposition_of_genitive>-somebody might each,_every <preposition_of_genitive>-somebody heart and | <preposition_of_genitive>
 10  somebody exist-exist how?-to somebody [?] <preposition_of_genitive>-somebody [?]
 11  heaven land [?] Lord-Jézus righteous(ly) speak
@@ -2678,30 +2679,30 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  8  Lord-<suffix_of_divine_name> and exorcise on-<preposition_of_genitive>-Lord have_mercy and then-exist
  9  [?] [?] to-one place [?]
 10  Jericho in_turn-chapter-in_turn evening-from-to build-to and then-exist go
-11  [?] [?] [?] and then-exist [?] robber
+11  ~servant ~Adam [?] and then-exist [?] robber
 
 
 === 106r ===
- 1  and begin robber [?] [?] [?]
- 2  and then-exist this robber remit [?] grab
- 3  booty and [?] beat robber
- 4  die-this [?] and [?] and [?]
- 5  that_way go [?] one descendant-Abraham [?]
- 6  [?] on-see-descendant-Abraham [?] and | go
- 7  descendant-Abraham go [?] two [?] [?] [?] [?]
+ 1  and begin robber [?] ~rich ~find
+ 2  and then-exist this robber remit ~Adam grab
+ 3  booty and ~Adam beat robber
+ 4  die-this ~Adam and [?] and [?]
+ 5  that_way go ~on one descendant-Abraham [?]
+ 6  ~Adam on-see-descendant-Abraham [?] and | go
+ 7  descendant-Abraham go ~on two ~begin [?] [?] ~Adam
  8  [?] [?] and go [?]
- 9  [?] [?] good [?]
+ 9  ~Adam [?] good [?]
 10  [?] through go-two-Abraham that_way
 
 
 === 106v ===
- 1  go [?] one Samaritan on-Jerusalem <preposition_of_genitive>-Lord living-servant
+ 1  go ~on one Samaritan on-Jerusalem <preposition_of_genitive>-Lord living-servant
  2  and face [?] and have_mercy [?]
  3  [?] because pour-Lord wine [?]
  4  wound and have_mercy [?] long-Lord in_turn <preposition_of_genitive>-Lord believe
- 5  [?] [?] wound and [?] | put
- 6  Lord on-<preposition_of_genitive>-Lord shoulder and [?] from-carry to-Lord
- 7  on-lodging and [?] grab this innkeeper
+ 5  [?] [?] wound and ~Adam | put
+ 6  Lord on-<preposition_of_genitive>-Lord shoulder and ~Adam from-carry to-Lord
+ 7  on-lodging and ~Adam grab this innkeeper
  8  and innkeeper grab two [?] two denarius
  9  [?] this innkeeper this-innkeeper [?]
 10  carry [?] who to-whatever [?] | [?]
@@ -2847,7 +2848,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  head [?] on-find [?]
  4  execute head [?] vend head
  5  on-thirty to-one denarius [?] [?] | from
- 6  [?] head remit in_turn-chapter-in_turn [?] in_turn-chapter-in_turn go
+ 6  [?] head remit in_turn-chapter-in_turn ~until in_turn-chapter-in_turn go
  7  [?] head and [?] nine hundred to-thirty denarius
  8  and head [?] more grab [?] [?]
  9  Judas and [?] vend in_turn-two-two [?] write
@@ -2878,12 +2879,12 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  8  <preposition_of_genitive>-write time
  9  say Lord-Jézus apostle <preposition_of_genitive>-Lord
 10  and Jew(ish) people exist
-11  one [?] Lord-<suffix_of_divine_name> and then-exist have Lord-<suffix_of_divine_name> two son
+11  one ~rich Lord-<suffix_of_divine_name> and then-exist have Lord-<suffix_of_divine_name> two son
 12  angel soul and this younger soul-son then-exist soul ask_(for)
 
 
 === 113v ===
- 1  divide_into_parts <preposition_of_genitive>-soul-son father-<suffix_of_divine_name> and then-exist soul-son exist many [?]
+ 1  divide_into_parts <preposition_of_genitive>-soul-son father-<suffix_of_divine_name> and then-exist soul-son exist many ~rich
  2  grab father-<suffix_of_divine_name> because soul-son righteous(ly) [?] grab father-<suffix_of_divine_name> this
  3  <preposition_of_genitive>-soul-son father-<suffix_of_divine_name> and go soul-son far inside | town
  4  exist and leave soul-son inside land and | begin-soul
@@ -2904,7 +2905,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  a) this-soul-son leave and tasty bread eat have_mercy
  7  Lord-<suffix_of_divine_name> farm_hand servant a) this-soul-son eat [?]
  8  this [?] this-soul-son and [?]
- 9  <preposition_of_genitive>-soul-son from-father-<suffix_of_divine_name> want [?] soul-son [?] want-soul-son
+ 9  <preposition_of_genitive>-soul-son from-father-<suffix_of_divine_name> want [?] soul-son ~humble want-soul-son
 
 
 === 114v ===
@@ -2934,7 +2935,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 115v ===
  1  joy chapter-oh chapter-oh amen and | [?]
  2  father <preposition_of_genitive>-soul-son from-father-<suffix_of_divine_name> each,_every <preposition_of_genitive>-father-<suffix_of_divine_name> [?] [?]
- 3  [?] and [?] [?] apostle-father-<suffix_of_divine_name>-learn-angel
+ 3  [?] and [?] ~joy apostle-father-<suffix_of_divine_name>-learn-angel
  4  [?] word [?] and [?] [?] and [?] this
  5  firstborn exist-exist home because-exist on-field
  6  that_is inside angel joy and hear voice,_sound | to-<preposition_of_genitive>
@@ -2949,7 +2950,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  this father angel grab one [?] die and
  4  one loaf [?] love-exist this-angel
  5  from-joy <preposition_of_genitive>-angel [?] in_turn on-this soul-son joy
- 6  father and understand grab from this father many [?] | eye-say-hear
+ 6  father and understand grab from this father many ~rich | eye-say-hear
  7  [?] [?]
  8  this father <preposition_of_genitive>-angel from-father-<suffix_of_divine_name> son <preposition_of_genitive>-father-<suffix_of_divine_name> lo
  9  exist soul-son [?] | [?]
@@ -2976,7 +2977,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  farm people in_turn-two-two people exist [?]
  3  first say soldier people [?] go-soldier this-John
  4  on-learn on sleep learn exist soldier [?] be_saved | from
- 5  speak and soldier holy-John [?] <preposition_of_genitive>-soldier [?] and | <preposition_of_genitive>
+ 5  speak and soldier holy-John [?] <preposition_of_genitive>-soldier ~rich and | <preposition_of_genitive>
  6  soldier believe on-begin donate soldier God [?] blind
  7  and exist-soldier have_mercy-soldier and righteous(ly)-soldier exist | [?]
  8  [?] [?] land time say [?]
@@ -3040,7 +3041,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  <preposition_of_genitive>-somebody shoulder and go-somebody to-<preposition_of_genitive>-somebody friend and [?]
  2  and exist and-friend-neighbor say-somebody say exist | [?]
  3  somebody sheep [?] somebody exist this-this [?] and
- 4  good [?] joy [?] on-nine-ten and nine [?]
+ 4  good [?] joy ~a) on-nine-ten and nine [?]
  5  [?] Lord-Jézus then-exist one woman [?]
  6  and exist have ten drachma and then-exist this ten [?]
  7  Eve and exist light Eve | Mary-son
@@ -3065,8 +3066,8 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  and ten-ten-ten-ten and night which-hide_oneself-angel to-hide_oneself-angel
  2  on-heaven land [?] [?] [?] one
  3  order [?] [?] and then-exist this-Lord go-Lord from-father-<suffix_of_divine_name>
- 4  <preposition_of_genitive>-Lord from this-Lord want-Lord [?] [?] order angel and from
- 5  to-leave <preposition_of_genitive>-Lord [?] judge-year want-Lord <preposition_of_genitive>-Lord | from
+ 4  <preposition_of_genitive>-Lord from this-Lord want-Lord [?] ~begin order angel and from
+ 5  to-leave <preposition_of_genitive>-Lord ~until judge-year want-Lord <preposition_of_genitive>-Lord | from
  6  father-<suffix_of_divine_name> [?] from order on-place [?] [?] | exist
  7  Lord bow_down-Lord from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord on-heaven land
  8  [?] then-exist | go-Lord-father-<suffix_of_divine_name>-son-God-Jézus-holy-spirit
@@ -3146,7 +3147,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 124r ===
- 1  [?] hide_oneself-angel exist [?] father-<suffix_of_divine_name> on-heaven | in_turn-chapter
+ 1  [?] hide_oneself-angel exist ~bow_down father-<suffix_of_divine_name> on-heaven | in_turn-chapter
  2  [?] on-hell [?] Lord-Jézus leave Lord-father son
  3  spirit on-heaven [?] inside Garden_of_Eden
  4  [?] Lord-Jézus this table two from [?] and then-exist
@@ -3159,7 +3160,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 124v ===
  1  who this-Adam [?] say Lord-father-son-spirit
- 2  why? Adam [?] say [?] Eve
+ 2  why? Adam [?] say ~Adam Eve
  3  [?] [?] say Lord-father-son-spirit Eve
  4  heavenly say Eve which Eve this-Lord-to say
  5  Lord-father-son-spirit why? [?] which [?]
@@ -3185,9 +3186,9 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  <preposition_of_genitive>-Lord father son God spirit from-father God Jézus angel
  3  virgin-Mary Christ and apostle and Jew(ish) and somebody [?] and [?]
  4  [?] and each,_every heaven land Lord and [?]
- 5  each,_every earth and [?] and heaven land
+ 5  each,_every earth and ~evil and heaven land
  6  and go Lord-<suffix_of_divine_name> angel two earth [?]
- 7  [?] fire [?] and | [?]
+ 7  [?] fire [?] and | ~earth
  8  slide out(ward) on-inside Garden_of_Eden exorcise
 
 
@@ -3197,7 +3198,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  Garden_of_Eden a) angel [?] Lord-Jézus
  4  this table [?] from [?] say Lord-Jézus this [?] this
  5  drachma and exist lose then from [?] eat two
- 6  [?] and [?] and [?] slide out(ward)
+ 6  ~Adam and [?] and ~Adam slide out(ward)
  7  exorcise Lord-father son holy-spirit and then-exist hell
  8  evil from [?] grab from good
  9  one commandment God which-chapter [?] [?]
@@ -3206,7 +3207,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 126v ===
  1  Lord-father son spirit exist grab lose | [?]
  2  slide say Lord-Jézus [?] two can [?]
- 3  each,_every [?] this | [?] [?] have_mercy on-angel <preposition_of_genitive>-Lord
+ 3  each,_every ~until this | [?] [?] have_mercy on-angel <preposition_of_genitive>-Lord
  4  from-father-<suffix_of_divine_name> can [?] [?] [?] [?]
  5  exist be_born mother <preposition_of_genitive>-Lord love and [?] this-Lord from mother
  6  [?] be_born and [?] this-Lord [?] [?] in_turn
@@ -3294,7 +3295,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 130r ===
  1  die-die-Lord [?] Lord-Jézus then go-apostle preach and
- 2  [?] from Jerusalem [?] preach apostle on-each,_every the_whole_wide_world [?]
+ 2  ~begin from Jerusalem ~and preach apostle on-each,_every the_whole_wide_world [?]
  3  end this holy-gospel and leave among apostle Lord-Jézus
  4  begins [?]
  5  holy-gospel write
@@ -3365,7 +3366,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 133r ===
- 1  from [?] [?] [?] this [?] | [?]
+ 1  from ~Adam [?] [?] this [?] | [?]
  2  year and thirty six-year time appear God
  3  angel [?] prophet [?] God angel
  4  [?] Lord-<suffix_of_divine_name> [?] say-Lord exist this-year
@@ -3386,12 +3387,12 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  and from this-year two-two-ten-year and this two-two-ten-year then-exist
  7  time grab [?] [?] [?]
  8  and [?] get_raptured heaven high and from
- 9  [?] [?] exist [?] [?] [?]
-10  carry [?] [?] and [?] leave-to-leave Noah [?] on-earth
+ 9  [?] [?] exist ~Noah [?] [?]
+10  carry ~evil [?] and [?] leave-to-leave Noah [?] on-earth
 
 
 === 134r ===
- 1  [?] [?] through be_born two [?] [?] and
+ 1  [?] [?] through be_born two [?] ~evil and
  2  son hide_oneself-angel [?] evil exist | [?]
  3  baptize before gospel say
  4  Lord-Jézus leave-to-leave
@@ -3414,15 +3415,15 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  good-do, and then-exist Lord-<suffix_of_divine_name>-king | [?]
  7  righteous(ly)-good-do, [?] grab [?]
  8  this Lord-<suffix_of_divine_name>-king [?] angel-somebody [?] | <preposition_of_genitive>
- 9  somebody [?] [?] and [?] [?] and kneel_(down)-somebody
+ 9  somebody ~son [?] and [?] [?] and kneel_(down)-somebody
 10  this somebody this heavenly servant before this | Lord-<suffix_of_divine_name>
 
 
 === 135r ===
  1  king and Lord-<suffix_of_divine_name> begin [?] [?] [?]
  2  have [?] to [?] want somebody this Lord-<suffix_of_divine_name> [?]
- 3  remit indebted [?] see this Lord-<suffix_of_divine_name>-king [?]
- 4  [?] this servant <preposition_of_genitive>-Lord-<suffix_of_divine_name>-king somebody-servant and
+ 3  remit indebted ~and see this Lord-<suffix_of_divine_name>-king [?]
+ 4  ~humble this servant <preposition_of_genitive>-Lord-<suffix_of_divine_name>-king somebody-servant and
  5  somebody have_mercy this Lord-<suffix_of_divine_name>-king and somebody have_mercy each,_every [?]
  6  <preposition_of_genitive>-somebody sin and somebody go-angel <preposition_of_genitive>-somebody
  7  home and then-exist keep_going-somebody this heavenly servant
@@ -3446,7 +3447,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 136r ===
  1  from-father heaven [?] king each,_every heaven land
- 2  and on-earth each,_every king [?] from have_mercy [?]
+ 2  and on-earth each,_every king [?] from have_mercy ~servant
  3  believe <preposition_of_genitive>-Lord-<suffix_of_divine_name> one only_one Lord-<suffix_of_divine_name> [?]
  4  this Lord-<suffix_of_divine_name> have_mercy Lord [?] talent [?]
  5  one God-somebody and [?] exist indebted [?]
@@ -3466,13 +3467,13 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  heavenly servant and [?] go die angel before
  7  this king before Lord Christ one only_one
  8  Lord-<suffix_of_divine_name> [?] this king this [?] have_mercy | <preposition_of_genitive>
- 9  Lord from-father God to-hide_oneself [?] [?] Lord to and
+ 9  Lord from-father God to-hide_oneself [?] ~how? Lord to and
 10  king [?] have_mercy-Lord have_mercy-Lord [?]
 
 
 === 137r ===
  1  [?] talent in_turn this-somebody from God-somebody [?]
- 2  have_mercy [?] denarius [?] somebody grab this
+ 2  have_mercy [?] denarius ~and somebody grab this
  3  king Lord Christ and then-exist grab <preposition_of_genitive>-Lord-king
  4  evil [?] hell evil [?] this king
  5  Lord Christ each,_every [?] this [?] somebody suffering
@@ -3484,7 +3485,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 137v ===
  1  healing-girl through holy-Mary mother God [?] [?]
  2  king-Mary [?] wife [?] [?] | this
- 3  Mary one only_one virgin-girl this-Mary [?] Jézus without [?]
+ 3  Mary one only_one virgin-girl this-Mary ~get_conceived Jézus without [?]
  4  be_born-Mary [?] and from Lord-redeemer inside Lord | this-<the_name_of_the_author>
  5  somebody do_not_doubt-<the_name_of_the_author>-somebody [?] | this-<the_name_of_the_author>
  6  somebody this-Mary pray [?] | <preposition_of_genitive>-<the_name_of_the_author>
@@ -3494,7 +3495,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 138r ===
- 1  <suffix_of_divine_name> this-Mary-<suffix_of_divine_name> [?] this-Mary [?]
+ 1  <suffix_of_divine_name> this-Mary-<suffix_of_divine_name> [?] this-Mary ~among
  2  [?] [?] <preposition_of_genitive>-Mary son [?] go-Lord | from
  3  up <preposition_of_genitive>-Mary exist-exist-chapter Jézus Christ amen
  4  healing-girl through holy-Mary from grab-virgin-girl
@@ -3538,8 +3539,8 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  exist heaven land in_turn and somebody [?]
  7  have_mercy righteous(ly)-somebody to God blind and to <preposition_of_genitive>-somebody
  8  from-father son this somebody want Lord-<suffix_of_divine_name> cursed from
- 9  each,_every good [?] and each,_every have that_is each,_every [?] [?]
-10  [?] have-somebody be_damned-somebody and [?] cursed this
+ 9  each,_every good [?] and each,_every have that_is each,_every ~rich [?]
+10  [?] have-somebody be_damned-somebody and ~rich cursed this
 
 
 === 140r ===
@@ -3622,10 +3623,10 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 143r ===
  1  [?] and Lord want to God exist-exist-chapter [?]
  2  and [?] [?] [?] beat on-place [?]
- 3  out(ward) God exist-exist-chapter and [?] exist [?] farm
+ 3  out(ward) God exist-exist-chapter and [?] exist ~miracle farm
  4  and shout-to Lord-<suffix_of_divine_name> [?] on-angel | <preposition_of_genitive>
  5  Lord leave [?] [?] [?] <preposition_of_genitive>-Lord from-father [?]
- 6  to-love Lord exist [?] farm [?] [?] have
+ 6  to-love Lord exist ~miracle farm [?] [?] have
  7  [?] [?] [?] [?] [?] [?] this-Lord
  8  this [?] [?] [?] Lord [?] have_mercy [?]
  9  this [?] [?] in_turn [?] you Lord-<suffix_of_divine_name> say
@@ -3648,7 +3649,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  Lord [?] have_mercy [?] this have somebody carry
  3  commandment God [?] somebody to-many suffering
  4  chapter-oh chapter-oh amen write [?] | holy
- 5  [?] exist one [?] and [?]
+ 5  [?] exist one ~sheep and [?]
  6  [?] pray happy virgin-Mary [?] [?]
  7  year inside [?] exist one [?] | virgin
  8  Mary and then-exist [?] this [?] | virgin
@@ -3660,7 +3661,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  land [?] [?] pray
  3  and servant one [?] then-exist Mary each,_every [?]
  4  grab bread and [?] righteous(ly) [?]
- 5  then-exist year [?] inside time go this sheep
+ 5  then-exist year ~out(ward) inside time go this sheep
  6  this [?] virgin-Mary and say this sheep | Lord
  7  [?] grab heaven land [?] | virgin
  8  Mary [?] from speak and two say girl say
@@ -3673,7 +3674,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  4  [?] love this Mary want and then-exist Mary [?]
  5  servant fast and two healing-Mary pray and righteous(ly) [?]
  6  exist-today’s and [?] grab and then-exist
- 7  [?] two-year inside time go this sheep this
+ 7  ~out(ward) two-year inside time go this sheep this
  8  [?] virgin-Mary and say this sheep [?]
  9  grab heaven land [?] virgin-Mary
 
@@ -3748,45 +3749,45 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  write [?]
  7  one somebody on-Jerusalem
  8  inside [?] town
- 9  and then-exist and go [?] [?] and [?]
-10  appear one can-evil and then-exist [?]
+ 9  and then-exist and go ~Adam [?] and [?]
+10  appear one can-evil and then-exist ~Adam
 11  chapter-year [?] can-evil [?] and then-exist
 
 
 === 148v ===
- 1  escape [?] [?] and then-exist [?] | get_conceived
- 2  [?] inside one pit and then-exist [?]
- 3  [?] [?] on-one [?] because exist
+ 1  escape ~Adam [?] and then-exist ~Adam | get_conceived
+ 2  ~Adam inside one pit and then-exist [?]
+ 3  [?] ~Adam on-one [?] because exist
  4  protrude [?] and go two mouse one black
- 5  in_turn-two white and this [?] [?] two mouse
- 6  to-eat and then-exist see [?] [?]
+ 5  in_turn-two white and this [?] ~begin two mouse
+ 6  to-eat and then-exist see ~Adam [?]
  7  and see one evil [?] and
- 8  who-shout-to [?] [?] [?]
- 9  if [?] [?] this [?] this | can
+ 8  who-shout-to ~Adam [?] [?]
+ 9  if [?] [?] this ~Adam this | can
 
 
 === 149r ===
- 1  evil die if [?] bow_down [?] [?]
- 2  evil [?] [?] tear_apart and then-exist [?]
- 3  [?] through startle [?] and | go-die-Lord
+ 1  evil die if [?] bow_down ~Adam [?]
+ 2  evil [?] ~Adam tear_apart and then-exist ~Adam
+ 3  [?] through startle ~Adam and | go-die-Lord
  4  Christ one soldier-Lord-Jézus-die-Christ [?]
  5  [?] suffering and this | can
  6  evil [?] through [?] and
- 7  [?] grab this [?] | <preposition_of_genitive>
+ 7  ~Adam grab this [?] | <preposition_of_genitive>
  8  soldier-Lord-Jézus-die-Christ suffering lance [?]
  9  this soldier-Lord-Jézus-die-Christ [?] on-this
 
 
 === 149v ===
- 1  pit scatter [?] and then-exist [?] exist-Lord
+ 1  pit scatter ~Adam and then-exist ~Adam exist-Lord
  2  grab-Lord <preposition_of_genitive>-soldier-Lord-Jézus-die-Christ suffering lance
- 3  and [?] [?] this pit [?]
+ 3  and ~Adam ~out(ward) this pit [?]
  4  grab [?] this soldier-Lord-Jézus-die-Christ then-exist
  5  [?] [?] out(ward) grab-Lord on-this pit exist
- 6  [?] inside this pit and [?] because-exist | this
- 7  [?] this can-evil die that_is be_damned
- 8  exist exist [?] [?] [?]
- 9  [?] God-exist [?] [?] see [?]
+ 6  ~Adam inside this pit and [?] because-exist | this
+ 7  ~Adam this can-evil die that_is be_damned
+ 8  exist exist ~Adam [?] [?]
+ 9  ~Adam God-exist [?] [?] see ~Adam
 
 
 === 150r ===
@@ -3866,7 +3867,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  Lord-<suffix_of_divine_name> have_mercy somebody sin speak holy-John how?
  2  from thief and Christ [?] thief and then-exist thief
  3  on-go [?] Lord-Jézus on-place [?] [?] Lord-Jézus
- 4  righteous(ly) son God because-exist [?] thief holy-spirit
+ 4  righteous(ly) son God because-exist ~out(ward) thief holy-spirit
  5  have_mercy and shout-to [?] [?] | ask_(for)
  6  thief this-thief this-Lord remember on-thief
  7  then-to go-Lord inside <preposition_of_genitive>-Lord land [?]
@@ -3917,7 +3918,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  sad(ly) [?] leave and then-exist [?]
  4  this [?] daughter [?] daughter inside
  5  one house and then-exist many year out(ward) [?]
- 6  this [?] on-this [?] and then-exist | daughter
+ 6  this [?] on-this ~until and then-exist | daughter
  7  believe out(ward) go-daughter-believe to-home
  8  and then-exist go daughter-believe to-home this [?]
  9  [?] and begin-daughter-believe [?]
@@ -3951,9 +3952,9 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  this-daughter-believe have [?] wife
  2  then-exist this time and then-exist daughter-believe
  3  [?] inside night | escape-daughter
- 4  [?] and [?] | from-carry-daughter
+ 4  [?] and ~rich | from-carry-daughter
  5  [?] [?] | daughter-believe
- 6  [?] [?] can carry and then-exist
+ 6  [?] ~rich can carry and then-exist
  7  [?] | [?]
  8  son [?] and | [?]
  9  believe see and go this [?]
@@ -3979,7 +3980,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  inside [?] [?] <preposition_of_genitive>-daughter-Lord-Jézus-Christ-believe | from
  6  father-<suffix_of_divine_name> because from-father-<suffix_of_divine_name> <preposition_of_genitive>-daughter-Lord-Jézus-Christ wealth
  7  have remit [?] [?] [?] in_turn | then
- 8  exist [?] exist each,_every [?] [?] | [?]
+ 8  exist [?] exist each,_every [?] ~rich | [?]
  9  [?] [?] exist [?] [?] | from
 
 
@@ -3989,7 +3990,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  chapter-oh chapter-oh say this [?] [?]
  4  [?] [?] this | daughter-Lord-Jézus
  5  Christ-believe [?] grab | to
- 6  scatter each,_every [?] [?] and say this
+ 6  scatter each,_every [?] ~rich and say this
  7  [?] [?] [?] | this
  8  [?] this daughter-Lord-Jézus-Christ-believe | want
 
@@ -3997,7 +3998,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 158v ===
  1  [?] grab then-exist this time | [?]
  2  son righteous(ly) wife and [?] [?]
- 3  [?] Lord-daughter-Jézus-believe-Christ and | [?]
+ 3  ~until Lord-daughter-Jézus-believe-Christ and | [?]
  4  son-daughter-Lord-Jézus-Christ-believe living [?] [?]
  5  God the_whole_wide_world chapter-oh chapter-oh amen Lord-<suffix_of_divine_name> [?]
  6  before gospel write
@@ -4012,7 +4013,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  one [?] sin-this-from and then-exist find
  4  Lord-Jézus shore sea among one
  5  mount two somebody-spirit inside two somebody exist | six
- 6  [?] and [?] and six-ten and six [?] evil and how?
+ 6  [?] and [?] and six-ten and six ~evil evil and how?
  7  two somebody [?] find-two-somebody this [?] two somebody
  8  earlier_mentioned [?] in_turn [?] exist two somebody to-grab | Lord
 
@@ -4021,7 +4022,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  Jézus Christ and go two somebody to-Lord-Jézus and begin
  2  two somebody shout-to [?] [?] and Lord go before
  3  time love two somebody evil suffering Lord each,_every
- 4  die [?] many suffering [?] begin two somebody
+ 4  die [?] many suffering ~and begin two somebody
  5  evil ask_(for) inside [?] *food and
  6  then-exist two [?] evil exist [?]
  7  Lord-Jézus inside [?] *food because [?]
@@ -4042,11 +4043,11 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 160v ===
- 1  inside one [?] Lord-<suffix_of_divine_name> and through [?] Lord-Jézus inside
+ 1  inside one ~exist Lord-<suffix_of_divine_name> and through [?] Lord-Jézus inside
  2  one land [?] inside one in_turn-chapter-in_turn
  3  [?] home and then-exist [?] go-Lord-Jézus
  4  and [?] shout-to [?] and go-Lord
- 5  this-Lord want-Lord [?] from-high [?] [?] [?]
+ 5  this-Lord want-Lord [?] from-high [?] ~rich [?]
  6  prepare and-Lord [?] Lord-Jézus | inside-and
  7  [?] <preposition_of_genitive>-Lord town and this town | and
  8  [?] exist [?] and grab
@@ -4086,7 +4087,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  [?] and stretcher
  6  grab and put son stretcher
  7  on-<preposition_of_genitive>-son shoulder and go-somebody-son be_saved
- 8  <preposition_of_genitive>-somebody son [?] heaven end this holy-gospel
+ 8  <preposition_of_genitive>-somebody son ~home heaven end this holy-gospel
  9  Lord-Christ [?] die-somebody [?] stand_up resurrect-Lord | <preposition_of_genitive>
 
 
@@ -4122,7 +4123,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  two-two among man head because [?] [?]
  4  <pertaining_to_the_Old_Testament> word get_conceived out(ward) town to-from earlier_mentioned the_whole_wide_world and exist
  5  to son many people and then-exist leave-to-leave [?]
- 6  [?] among [?] from-two people people two
+ 6  [?] among ~gate from-two people people two
  7  and leave [?] and see Lord-Jézus many
  8  sad(ly) [?] this woman head [?]
  9  sad(ly) this how? then-exist this say Lord-Jézus stand_up | this
@@ -4145,7 +4146,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  son shoulder and son grab on-why?-in_turn Lord-Jézus and
  3  then-exist son exist grab-Lord <preposition_of_genitive>-son mother and
  4  go son temple mother [?] <preposition_of_genitive>-son temple mother
- 5  [?] heaven many joy in_turn one sad(ly) remit
+ 5  ~home heaven many joy in_turn one sad(ly) remit
  6  in_turn-two see-somebody can Lord-Jézus-Christ and Lord
  7  each,_every thanks grab-somebody end this holy-gospel [?] love
  8  write holy-Luke inside [?] chapter <preposition_of_genitive>-write
@@ -4214,7 +4215,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 
 === 167v ===
- 1  sense manage and then-exist [?] [?] [?] and then
+ 1  sense manage and then-exist [?] ~begin [?] and then
  2  somebody exist accuse one servant before
  3  <preposition_of_genitive>-manager somebody-Lord [?] this angel-servant
  4  each,_every <preposition_of_genitive>-Lord-rich-somebody | [?]
@@ -4242,7 +4243,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  somebody to-down [?] this and this [?] <preposition_of_genitive>-manager
  3  Lord-<suffix_of_divine_name>-rich-somebody [?] this two manager | have_mercy
  4  somebody [?] [?] divide_into_parts-two-manager-have_mercy-somebody
- 5  [?] among this manager this two indebted | alms
+ 5  ~and among this manager this two indebted | alms
  6  somebody and say this manager how_much? alms indebted
  7  <preposition_of_genitive>-manager Lord-rich-somebody [?] indebted alms
  8  [?] food wheat [?] this manager | sit
@@ -4311,7 +4312,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  7  hem this-woman healing-woman leave-woman and
  8  then-exist touch believe-exist Lord-Jézus | inside
  9  [?] healing-woman leave-woman and see Lord-Jézus
-10  on-people hand-Lord [?] many people [?] Lord-Jézus this
+10  on-people hand-Lord ~exist many people [?] Lord-Jézus this
 
 
 === 171v ===
@@ -4340,7 +4341,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 172v ===
  1  drink and [?] [?] Lord-Jézus this moon
- 2  [?] [?] say [?] news leave each,_every [?]
+ 2  [?] [?] say ~and news leave each,_every [?]
  3  earth end this holy-gospel Lord-<suffix_of_divine_name> [?]
  4  begins this [?]
  5  write holy-Stephen king
@@ -4391,14 +4392,14 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 174v ===
  1  go servant inside <preposition_of_genitive>-Lord to-house to-<preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> and | to
- 2  father-<suffix_of_divine_name> somebody exist [?] chapter-oh chapter-oh
+ 2  father-<suffix_of_divine_name> somebody exist ~joy chapter-oh chapter-oh
  3  amen and then-exist among-Lord this [?] to_whom [?]
  4  exist-Lord grab-Lord one [?] [?]
  5  [?] this rich Lord [?] servant [?]
  6  <preposition_of_genitive>-Lord rich say this servant [?] servant [?]
  7  [?] [?] [?] love-exist exist-rich [?] servant
  8  because this-Lord [?] have servant because then-exist this-servant
- 9  <preposition_of_genitive>-Lord rich lose [?] this-Lord exist [?]
+ 9  <preposition_of_genitive>-Lord rich lose ~servant this-Lord exist [?]
 
 
 === 175r ===
@@ -4408,9 +4409,9 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  4  this unhelpful servant high this-servant this | [?]
  5  exist this eye see [?] <preposition_of_genitive>-Lord to-house long this | love
  6  exist [?] inside <preposition_of_genitive>-Lord to-house [?] this rich
- 7  <preposition_of_genitive>-Lord [?] grab angel from this unhelpful [?]
+ 7  <preposition_of_genitive>-Lord ~servant grab angel from this unhelpful ~servant
  8  this one [?] and [?] grab angel from
- 9  [?] [?] [?] [?] ten have end this holy-gospel
+ 9  [?] ~servant [?] [?] ten have end this holy-gospel
 
 
 === 175v ===
@@ -4425,18 +4426,18 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 176r ===
  1  Lord-Jézus one well and sit Lord-Jézus to-this
  2  well because exist [?] get_tired-Lord in_turn apostle go-apostle
- 3  inside village [?] [?] living [?] exist-exist-chapter
+ 3  inside village [?] ~and living [?] exist-exist-chapter
  4  living and then-exist go one woman head | to
  5  this well and then-exist [?] this well [?]
  6  Lord-Jézus thirsty-Lord and [?] exist-Lord [?]
- 7  [?] [?] this of_an_alien_nation,_pagan how? this-Lord | dare
- 8  Lord from [?] [?] [?] this of_an_alien_nation,_pagan in_turn | this
+ 7  ~ask_(for) [?] this of_an_alien_nation,_pagan how? this-Lord | dare
+ 8  Lord from [?] [?] ~ask_(for) this of_an_alien_nation,_pagan in_turn | this
  9  Lord Jew(ish) [?] [?] on-drink Lord and
 
 
 === 176v ===
- 1  begin through speak [?] Lord-Jézus and [?] | [?]
- 2  this [?] [?] man and of_an_alien_nation,_pagan begin-Lord | [?]
+ 1  begin through speak [?] Lord-Jézus and [?] | ~judge
+ 2  this ~have [?] man and of_an_alien_nation,_pagan begin-Lord | [?]
  3  this-lift_up of_an_alien_nation,_pagan home do, [?] | do,
  4  [?] from-leave <preposition_of_genitive>-of_an_alien_nation,_pagan [?] this of_an_alien_nation,_pagan | on-<preposition_of_genitive>
  5  of_an_alien_nation,_pagan [?] which and from [?] this-Lord this-Lord descendant
@@ -4471,7 +4472,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  4  leave [?] far ten leper people and begin ten
  5  leper shout-to son David king have_mercy
  6  ten leper son and shout-to Lord-Jézus go ten
- 7  [?] and ten [?] priest and
+ 7  ~leper and ten [?] priest and
  8  [?] grab ten leper from [?] [?]
  9  Moses [?] and then-exist go ten leper | from
 
@@ -4556,7 +4557,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  Jézus Thomas [?] [?] put <preposition_of_genitive>-Thomas finger
  6  inside <preposition_of_genitive>-Lord wound [?] see believe and [?]
  7  Lord-Jézus <preposition_of_genitive>-Lord wound and say Lord-Jézus Thomas happy-to
- 8  from and somebody see [?] [?] [?] and | [?]
+ 8  from and somebody see [?] ~believe [?] and | [?]
  9  [?] and food see [?] believe end this holy-gospel
 
 
@@ -4588,7 +4589,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  [?] two-ten-ten [?] time to-sit [?]
  2  one to-of_an_alien_nation,_pagan [?] [?]
  3  exist Khosrow_(Chosroes)_<Sasanian_king> and then-exist grab on-Jerusalem
- 4  cross tree [?] tree exist Christ
+ 4  cross tree ~on tree exist Christ
  5  execute and tree [?] from-carry inside
  6  Ctesiphon_<city_in_Persia> town inside one tower
  7  and then-exist exist many year [?] [?]
@@ -4612,7 +4613,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  win emperor on-fight because lose to-of_an_alien_nation,_pagan
  2  emperor and then-exist two leave this to-of_an_alien_nation,_pagan emperor
  3  this Roman emperor and then-exist-two do_battle | [?]
- 4  inside-to-Lord-two [?] to-of_an_alien_nation,_pagan people [?] people among [?]
+ 4  inside-to-Lord-two ~and to-of_an_alien_nation,_pagan people [?] people among [?]
  5  die in_turn Jew(ish) people and to-of_an_alien_nation,_pagan [?] to-many [?] and
  6  then-exist people to-of_an_alien_nation,_pagan die and begin [?] [?]
  7  [?] on-to-of_an_alien_nation,_pagan earth and then-exist go Heraclius_<Byzantine_emperor>
@@ -4639,19 +4640,19 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  4  and then-exist Heraclius_<Byzantine_emperor> [?] go this to-of_an_alien_nation,_pagan
  5  [?] inside tower [?] Heraclius_<Byzantine_emperor> [?]
  6  believe <preposition_of_genitive>-Heraclius_<Byzantine_emperor> God in_turn the_whole_wide_world this
- 7  [?] [?] die say this | [?]
+ 7  [?] [?] die say this | ~exist
  8  [?] [?] and emperor [?] and
  9  then-exist do, Heraclius_<Byzantine_emperor> [?] each,_every
 
 
 === 185v ===
- 1  [?] tower [?] [?] tower God [?] grab
- 2  [?] [?] [?] son | from
+ 1  [?] tower [?] ~and tower God [?] grab
+ 2  ~and [?] [?] son | from
  3  [?] and son [?] leave [?] and
  4  grab cross tree and [?] from-carry inside
  5  Jerusalem town and then-exist [?] before | [?]
  6  [?] and then-exist [?] Jerusalem and to-gate God
- 7  angel [?] Jerusalem [?] shout-to angel Heraclius_<Byzantine_emperor>
+ 7  angel ~gate Jerusalem ~and shout-to angel Heraclius_<Byzantine_emperor>
  8  this-this Lord-Christ proud out(ward) on-Jerusalem carry cross tree
  9  [?] humble carry and then-exist sit down [?]
 
@@ -4659,7 +4660,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 186r ===
  1  and take_off [?] <preposition_of_genitive> [?] [?]
  2  [?] and bowed head carry cross tree inside
- 3  Jerusalem and then-exist from-gate God angel [?] Jerusalem
+ 3  Jerusalem and then-exist from-gate God angel ~gate Jerusalem
  4  and [?] many [?] [?] cross
  5  tree and cross [?] put [?] inside Jerusalem
  6  temple and [?] to-Lord thanks Lord-<suffix_of_divine_name>
@@ -4672,7 +4673,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  the_whole_wide_world world because this holy-cross tree this cross [?] <preposition_of_genitive>-somebody
  2  [?] and <preposition_of_genitive>-somebody [?] and this holy-cross tree this
  3  [?] <preposition_of_genitive>-somebody [?] against [?] and believe
- 4  evil [?] Lord-<suffix_of_divine_name> that_is against [?] evil
+ 4  evil ~evil Lord-<suffix_of_divine_name> that_is against ~evil evil
  5  inside Sunday
  6  create Lord-<suffix_of_divine_name>
  7  from world
@@ -4723,7 +4724,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  to Sunday from [?] Christ on-this world [?]
  6  and before Lord-Christ [?] nine moon and two Sunday inside
  7  Sunday [?] exist announce on-understand-chapter angel inside | [?]
- 8  [?] inside exist-exist-chapter happy virgin-Mary and | [?]
+ 8  ~Sunday inside exist-exist-chapter happy virgin-Mary and | [?]
  9  [?] Joseph inside Sunday [?] exist
 
 
@@ -4734,7 +4735,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  4  water wine inside Sunday [?] stand_up resurrect | Lord
  5  Jézus-Christ daughter one head inside Jerusalem inside Sunday
  6  [?] [?] on-Carmel to-mount and
- 7  appear holy-spirit inside [?] dove [?]
+ 7  appear holy-spirit inside ~shape,_form dove [?]
  8  this-Lord <preposition_of_genitive> son [?] spirit calm_down and
  9  Lord grab holy-spirit and Lord go inside [?]
 
@@ -4744,7 +4745,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  stand_up resurrect Lord-Jézus-Christ inside Nain town son
  3  one [?] [?] and before that_is [?] | exist
  4  Lord this [?] [?] son stand_up resurrect-Lord one
- 5  [?] through light inside Sunday Lord-Jézus-Christ [?]
+ 5  ~blind through light inside Sunday Lord-Jézus-Christ [?]
  6  [?] town then-chapter and go-Lord inside Jerusalem and
  7  <preposition_of_genitive>-Lord apostle inside Sunday [?] [?] inside Jerusalem
  8  on-one somebody hell exist-chapter then-exist-Lord
@@ -4803,13 +4804,13 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 192r ===
  1  year time carry wife virgin-Mary inside öl who temple
- 2  Lord-Jézus because which this-girl destroy righteous(ly) Lord [?] want-girl
+ 2  Lord-Jézus because which this-girl destroy righteous(ly) Lord ~a) want-girl
  3  out(ward) [?] from-salvation Jew(ish) and then-exist girl go this temple
  4  time go Simeon inside temple on-holy-spirit have_mercy
  5  and appear virgin-Mary [?] Simeon virgin-Mary
  6  grab-Simeon this son [?] this son Simeon
  7  [?] son carry inside <preposition_of_genitive>-Simeon why?-in_turn and kneel_(down)
- 8  Simeon before Lord-Jézus and Lord have_mercy [?]
+ 8  Simeon before Lord-Jézus and Lord have_mercy ~ask_(for)
  9  [?] Simeon Lord remit servant <preposition_of_genitive>-Lord peace [?]
 
 
@@ -4819,10 +4820,10 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  Simeon have_mercy-Lord and Lord grab inside öl
  4  and Lord carry inside Jerusalem temple and then-exist inside temple
  5  go-Lord-Simeon-Mary and raise Simeon Lord-Jézus
- 6  inside <preposition_of_genitive>-Simeon why?-in_turn [?] Simeon [?] from
+ 6  inside <preposition_of_genitive>-Simeon why?-in_turn [?] Simeon ~lo from
  7  [?] and [?] go-Lord on-heaven land
  8  on-this [?] Lord-Jézus-Christ and from Lord [?] and on-Lord exist
- 9  [?] each,_every [?] [?] and [?] exist leave chapter-oh
+ 9  [?] each,_every ~the_whole_wide_world [?] and [?] exist leave chapter-oh
 
 
 === 193r ===
@@ -4835,7 +4836,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  7  write and from holy-gospel that_is [?] Lord this-Lord holy-gospel [?]
  8  this-Lord exist-nine on-water create this-Lord blind through light [?]
  9  this-Lord evil on-people exorcise this-Lord [?] [?]
-10  [?] [?] who-and-this-and [?] from-healing-Lord this-Lord [?] holy-gospel
+10  [?] ~resurrect who-and-this-and [?] from-healing-Lord this-Lord [?] holy-gospel
 
 
 === 193v ===
@@ -4844,7 +4845,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  chapter <preposition_of_genitive>-write time
  4  then-exist Lord-Jézus inside
  5  thirty [?] time
- 6  preach inside | [?]
+ 6  preach inside | ~exist
  7  [?] and then-exist from-preach Lord-Jézus inside [?]
  8  and leave to-down on-preach and prepare to-Lord
  9  many people and then-exist go-Lord on-town and see
@@ -4871,7 +4872,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  Lord-Jézus need healing-somebody recovery [?] [?]
  6  [?] [?] recovery end this holy-gospel
  7  write holy-Matthew inside and chapter holy-Paul speak say | Lord
- 8  Jézus-Christ [?] [?] [?] [?] [?] create | to
+ 8  Jézus-Christ [?] [?] [?] [?] ~Adam create | to
  9  [?] [?] Lord-Jézus-Christ on-this world [?]
 
 
@@ -4938,11 +4939,11 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 197v ===
  1  people and apostle-somebody-Jew(ish) want what Lord go | deny
  2  somebody <preposition_of_genitive>-somebody the_whole_wide_world and grab <preposition_of_genitive>-somebody
- 3  [?] on-<preposition_of_genitive>-somebody shoulder and go-somebody what
+ 3  ~cross on-<preposition_of_genitive>-somebody shoulder and go-somebody what
  4  Lord [?] Lord-Jézus who this somebody [?] and this world | rich
  5  [?] then this somebody [?] grab <preposition_of_genitive>-somebody soul | to-rich
  6  [?] [?] Lord-Jézus good [?] this somebody [?] | <preposition_of_genitive>
- 7  somebody soul be_damned [?] [?] because many somebody
+ 7  somebody soul be_damned ~a) [?] because many somebody
  8  and somebody exist [?] [?] [?] be_saved-somebody each,_every
  9  somebody be_damned [?] [?] somebody exist from-judge [?]
 
@@ -4966,7 +4967,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  [?] prophet [?] | [?]
  4  apostle-somebody to-Lord [?]
  5  you [?] Lord [?] have_mercy [?] this exist
- 6  inside commandment somebody that_is and have somebody [?] commandment
+ 6  inside commandment somebody that_is and have somebody ~carry commandment
  7  God [?] [?] somebody [?] to-many | not-not
  8  not chapter-oh chapter-oh amen write [?] [?]
  9  <preposition_of_genitive>-somebody inside [?] land to-house die in_turn | on
@@ -5018,7 +5019,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  [?] [?] [?] [?] and this
  6  son exist [?] carry [?] go-die
  7  [?] and [?] to-Lord and son [?] and
- 8  then-exist exist [?] [?] and Jew(ish) [?]
+ 8  then-exist exist [?] [?] and Jew(ish) ~head
  9  how? [?] speak Lord-Jézus and [?] say Lord-Jézus parable
 
 
@@ -5049,7 +5050,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 202r ===
  1  Lord and say this king this-king and go-king inside
  2  <preposition_of_genitive>-Lord-king house want-king to-before [?]
- 3  <preposition_of_genitive>-Lord-king house and then-exist [?] this king
+ 3  <preposition_of_genitive>-Lord-king house and then-exist ~go this king
  4  inside <preposition_of_genitive>-Lord-king house and see this king
  5  one God-somebody ragged [?] and
  6  say that_is king this [?] [?] who somebody
@@ -5074,7 +5075,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  preach Lord-Jézus inside Jerusalem and to-leave Jew(ish) | to-Lord
  2  Jézus [?] [?] [?] [?] [?] righteous(ly)
  3  somebody and righteous(ly)-Lord prophet because righteous(ly) God way
- 4  go-Lord and Lord [?] king and [?]
+ 4  go-Lord and Lord ~have king and [?]
  5  [?] go [?] on-apostle how? [?] | want
  6  Lord grab from [?] do, | [?]
  7  [?] grab from each,_every somebody on-one [?]
@@ -5172,7 +5173,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  [?] one extort and leave far | [?]
  3  [?] [?] Zacchaeus
  4  Master this-Zacchaeus half grab
- 5  half-righteous(ly) <preposition_of_genitive>-Zacchaeus [?] God
+ 5  half-righteous(ly) <preposition_of_genitive>-Zacchaeus ~rich God
  6  [?] blind righteous(ly)-half in_turn leave far one
  7  among you in_turn-chapter-Jerusalem [?] | grab
  8  chapter-Jerusalem one denarius on-extort want-chapter-Jerusalem somebody
@@ -5217,9 +5218,9 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 209r ===
  1  heaven land and this [?] [?] [?] Lord-<suffix_of_divine_name> Moses
- 2  on-angel <preposition_of_genitive>-Lord time then-exist from [?] [?]
+ 2  on-angel <preposition_of_genitive>-Lord time then-exist from ~Adam [?]
  3  [?] Abraham one hundred-year and [?] from
- 4  Abraham [?] [?] [?] Moses [?]
+ 4  Abraham [?] ~out(ward) [?] Moses [?]
  5  and [?] from Abraham [?] Moses time
  6  first [?] Lord-<suffix_of_divine_name> Moses on-angel <preposition_of_genitive>-Lord and say
  7  God angel Moses because-this on-learn this Moses this
@@ -5243,7 +5244,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  then-exist Lord-Jézus
  6  inside thirty [?] time preach | Lord
  7  Jézus inside Jerusalem and then-exist [?] one somebody
- 8  before Lord-Jézus inside [?] somebody exist [?] evil
+ 8  before Lord-Jézus inside [?] somebody exist ~evil evil
  9  [?] Jew(ish) this-Lord hide_oneself-evil help
 
 
@@ -5253,7 +5254,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  do,-Lord [?] Lord-Jézus this [?] who-exist
  4  from evil exist pierce [?] Lord-Jézus [?]
  5  [?] inside somebody one unclean
- 6  [?] and go evil arid,_dry place and
+ 6  ~spirit and go evil arid,_dry place and
  7  [?] to-Lord place that_is on-virgin-from people and
  8  on-word people and exist [?] evil
  9  [?] this evil this-evil
@@ -5265,7 +5266,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  trespass [?] and exist [?] [?] evil and | go
  4  evil each,_every [?] [?] Lord-Jézus how? then-chapter this somebody
  5  one earlier_mentioned [?] and each,_every somebody [?] inside house
- 6  go-this [?] [?] one [?] head
+ 6  go-this ~and [?] one [?] head
  7  among this people Jew(ish) [?] [?] from womb
  8  [?] this-Lord carry and [?] from breast which | this
  9  Lord [?] [?] Lord-Jézus [?] [?] <preposition_of_genitive>-Lord mother
@@ -5326,7 +5327,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  7  write holy-John inside
  8  six-two chapter <preposition_of_genitive>-write
  9  time then-exist
-10  Lord-Jézus inside thirty | [?]
+10  Lord-Jézus inside thirty | ~begin
 11  [?] [?]
 
 
@@ -5371,14 +5372,14 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  Lord-Jézus and leave [?] Lord-Jézus and out(ward) | on
  4  temple and go-Lord and <preposition_of_genitive>-Lord apostle end this holy-gospel
  5  Lord-<suffix_of_divine_name> [?] because-exist inside Moses righteous(ly) write in_turn [?]
- 6  among you [?] somebody how? blasphemer and have
+ 6  among you ~begin somebody how? blasphemer and have
  7  somebody stone-stone-this and [?] out(ward) [?] [?]
  8  speak [?] prophet and holy-Moses [?] [?]
  9  [?] [?] [?] Lord create Lord-<suffix_of_divine_name> [?]
 
 
 === 014r ===
- 1  Lord-<suffix_of_divine_name> because go-Lord humble-Lord in_turn king exist [?] and [?]
+ 1  Lord-<suffix_of_divine_name> because go-Lord humble-Lord in_turn king exist [?] and ~earth
  2  and many miracle exist [?] and you Lord | on
  3  [?] and [?] from die stand_up and appear many people
  4  and exist-Lord to-you through stay [?]
@@ -5386,7 +5387,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  [?] on-each,_every people see leave-leave inside heaven
  7  land and on-leave-leave [?] [?] believe
  8  [?] righteous(ly) son living God and king each,_every king and
- 9  Lord each,_every Lord head Lord [?] and [?]
+ 9  Lord each,_every Lord head Lord [?] and ~earth
 
 
 === 014v ===
@@ -5397,7 +5398,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 011r ===
  1  exist Lord-Jézus thirty [?] time go | Lord
  2  Jézus on-Bethany inside Jerusalem six-six apostle and then-exist | go
- 3  Lord [?] [?] exist [?] [?] [?] because
+ 3  Lord [?] [?] exist [?] [?] ~until because
  4  trespass way people [?] and trespass through night
  5  [?] Lord-Jézus and then-exist-Lord go Lord-Jézus two apostle down
  6  Bethany because trespass [?] each,_every [?] way people
@@ -5457,7 +5458,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 010v ===
  1  [?] son [?] [?] this-Lord [?] king [?]
  2  Lord-Jézus then-exist this each,_every this [?] son [?] | speak
- 3  [?] then exist earth and rock-stone each,_every [?]
+ 3  ~son then exist earth and rock-stone each,_every [?]
  4  shout-to [?] this-Lord [?] king
  5  end this holy-gospel Lord-<suffix_of_divine_name> [?] and [?]
  6  [?] Jew(ish) and [?] Lord grab inside this in_turn-chapter-in_turn Jerusalem
@@ -5470,7 +5471,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  king each,_every king speak holy-<name_of_a_prophet> prophet and holy-<name_of_a_prophet>
  2  prophet [?] can [?] [?] [?] and [?]
  3  [?] and earth Lord each,_every Lord king each,_every king and
- 4  [?] love-two-exist predict <name_of_a_prophet> prophet and holy-<name_of_a_prophet>
+ 4  ~out(ward) love-two-exist predict <name_of_a_prophet> prophet and holy-<name_of_a_prophet>
  5  prophet and go Lord-Jézus [?] inside Bethany this [?]
  6  go [?] two [?] earth and this many thanks Lord do,
  7  in_turn [?] Lord [?] many sad(ly) [?] Lord-Jézus this
@@ -5487,7 +5488,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  <preposition_of_genitive>-from-see [?] heaven land and time pray two
  3  church_father on-Jerusalem [?] on-stone-tablet chisel because exist Lord-<suffix_of_divine_name> Moses
  4  [?] stone-tablet chisel on-angel <preposition_of_genitive>-Lord and write [?] commandment
- 5  to-Lord thanks Lord-<suffix_of_divine_name> time then-exist from [?] [?] [?] and
+ 5  to-Lord thanks Lord-<suffix_of_divine_name> time then-exist from ~Adam [?] [?] and
  6  [?] and time this [?] tablet Moses pray
  7  two church_father two high_priest-high_priest on-Jerusalem Gamaliel high_priest and Nicodemus
  8  high_priest and then-exist two servant hire_oneself_out on-apostle this two high_priest-high_priest
@@ -5499,7 +5500,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  2  exist two servant two this-two two apostle this-two two high_priest-high_priest
  3  in_turn this-two two apostle exist-two from [?] two on-believe
  4  [?] this exist time then [?] [?]
- 5  and then-exist Jew(ish) [?] to-down believe [?] Jew(ish)
+ 5  and then-exist Jew(ish) [?] to-down believe ~Christ Jew(ish)
  6  head and exist [?] [?] and exist
  7  somebody to-many [?] somebody [?] [?]
  8  each,_every somebody suffering in_turn [?] head | grab
@@ -5521,7 +5522,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 === 217v ===
  1  [?] out(ward) [?] [?] | and then-exist kneel_(down) holy-Stephen and | then
  2  exist pray-Stephen to-Lord to-thanks Lord-<suffix_of_divine_name> [?] and then
- 3  pray [?] Stephen to-Lord to-thanks Lord-<suffix_of_divine_name> and lift_up-Stephen
+ 3  pray ~redeem Stephen to-Lord to-thanks Lord-<suffix_of_divine_name> and lift_up-Stephen
  4  <preposition_of_genitive>-Stephen two-eye-eye heaven land and to-Lord [?]
  5  Lord-<suffix_of_divine_name> and this word say holy-Stephen to-Lord to-thanks Lord-<suffix_of_divine_name> through
  6  [?] Stephen this-Stephen this-Lord <preposition_of_genitive>-Stephen soul
@@ -5563,7 +5564,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  5  Christ believe and [?] [?] mother [?] [?] each,_every
  6  take_prisoner and [?] to-many [?] [?] [?]
  7  <preposition_of_genitive>-Lord [?] each,_every somebody to-you this-go-this
- 8  and then-exist [?] [?] grab mission many [?]
+ 8  and then-exist [?] [?] grab mission many ~rich
  9  and then-exist [?] [?] many servant on-mission
 
 
@@ -5621,7 +5622,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  3  one hour and from year before God
  4  inside Friday [?] quake from spirit
  5  first year from God first year in_turn on-fast | [?]
- 6  [?] before virgin-Mary inside [?] [?]
+ 6  [?] before virgin-Mary inside ~Sunday [?]
  7  quake and this and [?] [?] [?] on-heaven
  8  land living and confess to-literal-to and somebody
  9  [?] see [?] [?] to inside [?]
@@ -5632,7 +5633,7 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  1  [?] [?] [?] quake out(ward) first
  2  spirit Friday and [?] and [?] God from spirit two-two-year
  3  [?] from spirit [?] [?] quake and moon
- 4  in_turn on and year [?] [?]
+ 4  in_turn on and year [?] ~begin
  5  from-father <preposition_of_genitive>-somebody [?] from [?] [?] and
  6  [?] inside righteous(ly) [?] carry-Lord somebody [?]
  7  [?] and this each,_every [?] somebody [?]
@@ -5650,9 +5651,9 @@ reading (22.4%).  Lines with every word read: 901 of 4372
  6  son [?] [?] [?] [?]
  7  [?] in_turn <preposition_of_genitive>-from-see two-year [?]
  8  from-understand [?] understand be_born Lord-Jézus-Christ
- 9  on-this [?] [?] [?] and [?] and | nine-ten
+ 9  on-this [?] ~out(ward) [?] and [?] and | nine-ten
 10  year and nine-year and this symbolize nine [?] from-understand begin this [?]
-11  [?] be_born Lord-Jézus-Christ on-this world in_turn and [?] [?]
+11  [?] be_born Lord-Jézus-Christ on-this world in_turn and [?] ~out(ward)
 12  from-understand to-leave Lord-Jézus to-from-father <preposition_of_genitive>-Lord [?] [?]
 13  time say apostle Lord-Jézus Master when? exist understand [?] say
 
@@ -5700,9 +5701,9 @@ reading (22.4%).  Lines with every word read: 901 of 4372
 
 === 224v ===
  1  Lord-Jézus-Christ be_saved Lord [?]
- 2  [?] [?] living-exist <preposition_of_genitive>
+ 2  [?] ~son living-exist <preposition_of_genitive>
  3  say and this somebody on-food to-on in_turn
- 4  living woman [?] [?] on-Saturday inside
+ 4  living woman ~Matthew [?] on-Saturday inside
  5  [?] [?] Lord have_mercy you have_mercy
  6  [?]
  7  and through offer you have_mercy

@@ -201,8 +201,8 @@ def main():
         check(f"gate 5: {lab} {want}%", len(g) == 2 and g[1] == want, str(g))
     check("gate 5 FAIL and the 4% flaw recorded",
           "FAIL" in kdi and "top five 8%, top ten" in flat and "4%" in flat)
-    check("thirteen attempts stated",
-          "thirteen ways" in flat and "Ten failed outright" in flat)
+    check("fourteen attempts stated",
+          "fourteen ways" in flat and "Eleven failed outright" in flat)
     kcl = out("ktclass.txt")
     g = nums(kcl, "accuracy", 2)
     check("class gate 57.8% vs 46.9% baseline",
@@ -367,8 +367,8 @@ def main():
     cp = os.path.join(corpus.ROOT, "CONCLUSION.md")
     con = open(cp, encoding="utf-8").read() if os.path.exists(cp) else ""
     conf = " ".join(con.split())
-    check("CONCLUSION: thirteen attempts, ten failed",
-          "thirteen ways" in conf and "Ten failed" in conf)
+    check("CONCLUSION: fourteen attempts, eleven failed",
+          "fourteen ways" in conf and "Eleven failed" in conf and "78.8%" in conf)
     check("CONCLUSION: 1,282 codes and 58% to 78%",
           "1,282" in conf and "58% to 78%" in conf)
     check("CONCLUSION: wider corpus recorded as my wrong prediction",
@@ -437,12 +437,33 @@ def main():
     g = nums(kt, "by composition", 2)
     check("rendering: by composition 5754 = 19.2%",
           len(g) == 2 and g[0] == 5754 and close(g[1], 19.2, .02) and "19.2%" in flat, str(g))
+    g = nums(kt, "their variant spelling", 2)
+    check("rendering: declared variants 356 = 1.2%",
+          len(g) == 2 and g[0] == 356 and close(g[1], 1.2, .02) and "356" in flat, str(g))
     g = nums(kt, "no reading", 2)
-    check("rendering: no reading 22.4%",
-          len(g) == 2 and close(g[1], 22.4, .02), str(g))
+    check("rendering: no reading 21.2%",
+          len(g) == 2 and close(g[1], 21.2, .02) and "21.2%" in flat, str(g))
     g = nums(kt, "every word read", 2)
-    check("rendering: 901 lines fully read = 20.6%",
-          len(g) == 2 and g[0] == 901 and close(g[1], 20.6, .02) and "901" in flat, str(g))
+    check("rendering: 975 lines fully read = 22.3%",
+          len(g) == 2 and g[0] == 975 and close(g[1], 22.3, .02) and "975" in flat, str(g))
+    kv = out("ktvariant.txt")
+    g = nums(kv, "declared variants tested", 1)
+    check("variants: 23 declared tested", bool(g) and g[0] == 23, str(g))
+    g = nums(kv, "closer to headword than to stand-in", 1)
+    check("variants: bar A 60.9%", bool(g) and close(g[0], 60.9, .02) and "60.9%" in flat, str(g))
+    g = nums(kv, "one glyph from exactly one defined code", 4)
+    check("variants: 98 neighbours, 926 tokens, 3.1%",
+          len(g) == 4 and g[0] == 98 and g[1] == 926 and close(g[3], 3.1, .02)
+          and "926" in flat, str(g))
+    g = nums(kv, "closer to neighbour than to stand-in", 1)
+    check("variants: bar B 53.1%", bool(g) and close(g[0], 53.1, .02) and "53.1%" in flat, str(g))
+    sig = [float(x) for x in re.findall(r"sigma (-?\d+\.\d+)", kv)]
+    check("variants: 2.6 and 4.8 sigma, both FAIL",
+          len(sig) == 2 and close(sig[0], 2.6, .05) and close(sig[1], 4.8, .05)
+          and kv.count("->  FAIL") == 2 and "2.6 sigma" in flat and "4.8 sigma" in flat, str(sig))
+    g = nums(kv, "book coverage", 2)
+    check("variants: coverage 77.6% -> 78.8%",
+          len(g) == 2 and close(g[0], 77.6, .02) and close(g[1], 78.8, .02) and "78.8%" in flat, str(g))
     tr = os.path.join(WORK, "translation", "rohonc_reading.txt")
     trf = os.path.join(WORK, "translation", "rohonc_reading_full.txt")
     check("rendering: both files exist and cover 441 pages",

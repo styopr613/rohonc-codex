@@ -9,6 +9,8 @@ more. Each word is rendered one of four ways, and the marks say which:
     word-word       not in their dictionary, but cut cleanly into dictionary
                     codes by the construction ktname.py and ktsegment.py
                     gated (12.4 and 9.8 sigma). The hyphen marks the cut.
+    ~word           a variant spelling Kiraly & Tokai's own entry marks with
+                    "var." (ktvariant.py); read as the headword
     [?]             no reading. The code is neither defined nor cuttable.
 
 Two files are written.  The short one shows the first sense only, so a line
@@ -31,6 +33,7 @@ from collections import Counter
 import corpus
 import ktcoverage as C
 import ktdict
+import ktvariant as V
 import ktsegment as S
 
 OUT = os.path.join(os.path.dirname(corpus.DATA), "work", "rohonc", "translation")
@@ -86,19 +89,23 @@ def word(c, gl, full):
     return clean(ss[0]) if not full else "/".join(clean(x) for x in ss)
 
 
-def render_token(t, gl, seg, full):
+def render_token(t, gl, seg, full, var):
     if t in gl:
         return word(t, gl, full)
     if t in seg:
         return "-".join(word(p, gl, full) for p in seg[t])
+    if t in var:
+        return "~" + word(var[t], gl, full)
     return "[?]" if not full else f"[?{hx(t)}]"
 
 
-def kind(t, gl, seg):
+def kind(t, gl, seg, var):
     if t in gl:
         return "one" if len(gl[t]) == 1 else "many"
     if t in seg:
         return "cut1" if all(len(gl[p]) == 1 for p in seg[t]) else "cut"
+    if t in var:
+        return "var"
     return "none"
 
 
@@ -115,12 +122,13 @@ unpublished.  Nothing here chooses between senses; that needs their grammar.
   word          dictionary word, one sense
   word/word     dictionary word, several senses, their first sense first
   word-word     undefined code read as the dictionary codes it cuts into
+  ~word         variant spelling their own entry marks "var.", read as the headword
   [?]           no reading
   |             unreadable glyph or gap in the transcription
 
 Of {tot} words: {one} read with one sense ({pone:.1f}%), {many} carry several
-({pmany:.1f}%), {cut} are read by composition ({pcut:.1f}%), {none} have no
-reading ({pnone:.1f}%).  Lines with every word read: {full_lines} of {lines}
+({pmany:.1f}%), {cut} are read by composition ({pcut:.1f}%), {var} are their
+declared variant spellings ({pvar:.1f}%), {none} have no reading ({pnone:.1f}%).  Lines with every word read: {full_lines} of {lines}
 ({pfull:.1f}%).
 """
 
@@ -128,6 +136,7 @@ reading ({pnone:.1f}%).  Lines with every word read: {full_lines} of {lines}
 def main():
     gl, doc, seg = C.build()
     ORDER.update(ordered())
+    var = {v: h for v, (h, _) in V.readings()[6].items()}
     os.makedirs(OUT, exist_ok=True)
     kinds = Counter()
     lines = full_lines = 0
@@ -137,7 +146,7 @@ def main():
             if not toks:
                 continue
             lines += 1
-            ks = [kind(t, gl, seg) for t in toks]
+            ks = [kind(t, gl, seg, var) for t in toks]
             kinds.update(ks)
             full_lines += all(k != "none" for k in ks)
     tot = sum(kinds.values())
@@ -145,6 +154,7 @@ def main():
     stats = dict(tot=tot, one=kinds["one"], pone=kinds["one"] / tot * 100,
                  many=kinds["many"], pmany=kinds["many"] / tot * 100,
                  cut=cut, pcut=cut / tot * 100,
+                 var=kinds["var"], pvar=kinds["var"] / tot * 100,
                  none=kinds["none"], pnone=kinds["none"] / tot * 100,
                  lines=lines, full_lines=full_lines,
                  pfull=full_lines / lines * 100)
@@ -158,7 +168,7 @@ def main():
             for p in doc:
                 f.write(f"\n\n=== {p.page} ===\n")
                 for i, ln in enumerate(p.lines, 1):
-                    runs = [" ".join(render_token(t, gl, seg, full) for t in run)
+                    runs = [" ".join(render_token(t, gl, seg, full, var) for t in run)
                             for run in ln if run]
                     f.write(f"{i:2d}  " + " | ".join(runs) + "\n")
         print(f"wrote {path}")
@@ -172,6 +182,7 @@ def main():
     print(f"  several senses               {kinds['many']:6d}  {stats['pmany']:5.1f}%")
     print(f"  by composition               {cut:6d}  {stats['pcut']:5.1f}%")
     print(f"    every part one sense       {kinds['cut1']:6d}")
+    print(f"  their variant spelling       {kinds['var']:6d}  {stats['pvar']:5.1f}%")
     print(f"  no reading                   {kinds['none']:6d}  {stats['pnone']:5.1f}%")
     print(f"lines                          {lines:6d}")
     print(f"  every word read              {full_lines:6d}  {stats['pfull']:5.1f}%")

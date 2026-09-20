@@ -9,6 +9,7 @@ words                           29997
   several senses                14109   47.0%
   by composition                 5754   19.2%
     every part one sense           52
-  no reading                     6730   22.4%
+  their variant spelling          356    1.2%
+  no reading                     6374   21.2%
 lines                            4372
-  every word read                 901   20.6%
+  every word read                 975   22.3%
