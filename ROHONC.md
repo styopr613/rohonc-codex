@@ -1023,7 +1023,10 @@ son is born, John 16:21. It runs on to 074v without a break: the Great
 Commission, then **Mark 16:17-18 sign for sign and in order** -- cast out
 devils, speak with tongues, take up serpents, drink any deadly thing, lay
 hands on the sick -- then the ascension, then **the Lord's Prayer**, which
-the codex attributes to Matthew on the line after it ends. **It also repeats itself**: the Pauline passage at
+the codex attributes to Matthew on the line after it ends. Further on, at
+083v-084r, it explains the Trinity by the sun, its light and its warmth,
+and then tells **the legend of Augustine and the child on the seashore**
+who is emptying the sea into a hole with a spoon. **It also repeats itself**: the Pauline passage at
 068r comes round again almost word for word at 070v-071r, which is what a
 preaching or lectionary collection does and a continuous narrative does not. The codex **names Cleopas** at 061r:6, which is Luke
 24:18. The Emmaus stretch
