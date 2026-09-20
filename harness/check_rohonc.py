@@ -192,6 +192,16 @@ def main():
         g = nums(ka, lab, 2)
         check(f"gate 3: {lab} {want}%", len(g) == 2 and g[1] == want and f"{want}%" in flat, str(g))
     check("gate 3 FAIL at 30% bar", "FAIL" in ka and "Bar set at 30%" in flat)
+    kdi = out("ktdistrib_gate.txt")
+    g = nums(kdi, "tested", 1)
+    check("gate 5: 76 tested", bool(g) and g[0] == 76 and "76 codes tested" in flat, str(g))
+    for lab, want in (("neighbour #1 shares a gloss", 0), ("some neighbour in top 5", 8),
+                      ("some neighbour in top 10", 14)):
+        g = nums(kdi, lab, 2)
+        check(f"gate 5: {lab} {want}%", len(g) == 2 and g[1] == want, str(g))
+    check("gate 5 FAIL and the 4% flaw recorded",
+          "FAIL" in kdi and "top five 8%, top ten" in flat and "4%" in flat)
+    check("five attempts stated", "five ways" in flat and "bar was never moved" in flat)
 
     # ---- OCR ----
     oc = out("ocr_crossline.txt")

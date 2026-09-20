@@ -324,11 +324,13 @@ Defining the top 50 undefined codes would lift coverage from 62.1% to 73.1%;
 the top 100 to 76.0%; the top 200 to 79.1%; the top 500 to 84.1%. That is a
 work plan, and it is owed to the authors.
 
-## Extending the dictionary: three attempts, three failures
+## Extending the dictionary: five attempts, five failures
 
 Four words in ten have no gloss and another five in ten have several. Working
 out the undefined codes is the part of the problem nobody has done. It was
-tried three ways, each against a bar set before the run, and each failed.
+tried five ways, each against a bar set before the run, and each failed. The
+bar was never moved. Two evaluation bugs were fixed and the runs repeated;
+neither fix changed a verdict.
 
 **Bag-of-words alignment.** Read each page by the words the dictionary
 provides; find the gospel window it best matches. Real pages scored a median of
@@ -352,13 +354,42 @@ proposed "spoke" for the code glossed "say" and was scored wrong, so irregular
 verbs were folded — and a final run: 13 codes testable, true gloss first 8%,
 top five 15%, top twenty 23%. **Fail.** Not moved.
 
+**Distributional neighbours, gospels not used.** The first three all reached
+an unknown code through the gospel text, which is the weak link: the codex
+paraphrases rather than translates, draws on material the reference corpus does
+not contain, and every comparison passes through two translations. So drop the
+gospels and characterise a code by the codes around it, including the
+picture-caption blocks excluded elsewhere, since Tokai read many codes off the
+illustrations beside them. Hide a defined code, find its nearest neighbours by
+context alone, ask whether a neighbour shares a gloss. First run hid the eighty
+commonest codes at once and removed them from the context vocabulary too --
+they are the function words that give every other code its shape, so hiding
+them together destroyed the signal for all of them: 4%. Corrected to
+leave-one-out, with the rest of the dictionary still standing: 76 codes tested,
+nearest neighbour shares a gloss 0%, some neighbour in the top five 8%, top ten
+14%. **Fail.**
+
+There is signal in it. The code for God lands beside the codes for *god/holy*
+and *father*; the code for *give/take* beside *carry/come* and *exist*. It is
+real and far too weak to name anything.
+
 The failures are informative. The codex is a paraphrase drawing on apocrypha,
 Marian prayer and material Király calls "without known parallel", glossed to
 base-form English and matched against one modern translation of the canonical
 gospels. Verbal overlap at the word level is genuinely weak even where the
 localisation is right. What would make extension tractable is the grammar,
 which chooses among a code's senses, and that is the part its authors have not
-published — not because they are sitting on it, but because it is the work.
+published. Whether it exists in finished form is unknown: four papers were
+promised in 2018 and one has appeared, and the 2022 paper describes the grammar
+paper as held up. The dictionary is demonstrably real. A written grammar is a
+separate claim and nothing here bears on it.
+
+What the five failures have in common is that they are all mechanical. Kiraly
+and Tokai did not align corpora; they read, guessed from context, checked the
+guess everywhere else the code occurs, and revised — with the illustrations as
+entry points and a theologian's corpus of prayer, apocrypha and sermon material
+in mind. That is not a method this harness can run, and twenty years of it is
+not an afternoon.
 
 ## A third transcription from the scans: negative
 
@@ -398,6 +429,7 @@ repository staff; with it, this would probably be feasible.
     python ktlocalise.py      # localisation of pages to gospel passages
     python ktextend.py        # the two failed extension gates
     python ktalign.py         # the third, sequence alignment
+    python ktdistrib.py       # the fourth and fifth, distributional
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 

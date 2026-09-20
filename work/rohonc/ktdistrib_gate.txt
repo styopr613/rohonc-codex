@@ -1,0 +1,28 @@
+HELD-OUT GATE -- distributional neighbours, gospels not used
+
+ rank   freq  true gloss                nearest by context
+    -   1605  eleven                    ; becaus/order; away
+    -    934  thu                       first/one; away; eleven
+    -    604  exist                     carry/com; mary; other/rest
+    -    589  insid/within              ; first/one; afor/front
+    -    581  divin/husband/lord/perso  lik/want; ; away
+    -    545  human/man/somebody        bad/demon; away; 
+    -    457  away                      eleven; boy/son; thu
+    -    335  first/one                 completely/every; thu; insid/within
+    -    322  say/speech                carry/com; afraid/posses; divin/husband
+    -    309  completely/every/whol/wh  first/one; better/good; turn
+    6    307  carry/com/forward/lead/s  exist; giv/grab; say/speech
+    -    282  boy/son                   mother; away; die/kill
+    -    261  apostl/discipl/learn/tea  sunday/week; abid/dwell; look/mak
+    2    237  deifi/glorifi/god         eye/sight; god/holy; father/forefather
+    6    204  giv/grab/tak              carry/com; exist; human/man
+   10    192  becaus/order              ; eleven; end/sid
+    -    189  turn                      thu; completely/every; eleven
+    -    181  other/rest/second/two     exist; thu; dismis/forgiv
+
+tested 76 hidden codes
+  neighbour #1 shares a gloss    0  (0%)
+  some neighbour in top 5        6  (8%)
+  some neighbour in top 10      11  (14%)
+
+bar: top-5 >= 30%  ->  FAIL
