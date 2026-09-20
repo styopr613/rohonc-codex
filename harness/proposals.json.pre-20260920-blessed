@@ -643,10 +643,10 @@
   "evidence": "574 prefixed to the sign read as sheep. Three of its four occurrences are the three places the lost sheep belongs in Luke 15:4-5 -- 119r:8, 119r:9, 119r:10 -- and the fourth, 103v:2, stands beside the word soul. Read early in this work and recorded in prose, but never entered here, so it rendered nowhere until now"
  },
  "520060131520": {
-  "gloss": "the_poor_man/woman",
+  "gloss": "the poor man",
   "tier": "C",
   "n": 8,
-  "evidence": "a homograph, and K&T number it as one. Their entry for woman (060131060131) lists this exact spelling at 138r02 and their dictionary carries a second entry '520060131520 (2) -> woman' with no gloss of its own, which is why the code reads as undefined here. 138r02 is the Ave Maria and takes woman: 'blessed art thou among women, and blessed is the fruit of thy womb'. The other seven occurrences are the Dives and Lazarus block, Luke 16:19-31, and take the poor man: 'when the rich man was, this poor man asked' 088v:13; 'alms, and the poor man alms' 089r:1; 'the poor man would be fed with the offal from the rich man's table' 089r:4, 05; 'father Abraham, send Lazarus' 089v:5. Corrected 2026-09-20: the earlier entry read the poor man everywhere and did not know K&T had already read 138r02. It shares its first four glyphs with the sign read as 'the Baptist' and that tension is still unresolved"
+  "evidence": "the block is Dives and Lazarus, Luke 16:19-31: 'when the rich man was, this [poor man] asked' 088v:13; 'alms, and the [poor man] alms' 089r:1; 'the [poor man] would be fed with the crumbs at the rich man's table' 089r:4, 089r:5; 'father Abraham, Lazarus' 089v:5. It shares its first four glyphs with the sign read as 'the Baptist' and that tension is unresolved"
  },
  "520327": {
   "gloss": "sorrow",
@@ -1655,83 +1655,5 @@
   "tier": "B",
   "n": 1,
   "evidence": "K&T's bow-down (a10645) lists a spelling cited at 135v07, this word's only line, where their scaffold sign stands three words later: 'he [bowed] the head upon the scaffold' 135v:7"
- },
- "520ae05f6": {
-  "gloss": "blessed",
-  "tier": "A",
-  "n": 6,
-  "evidence": "K&T's own entry for bless (520461) lists 520ae05f6 as the spelling at 138r01, 02, 140r09 (2x), 10, 140v02 and glosses II. blessed 'e.g. 138r01'. Those six citations are exactly this sign's six tokens in the book. Ave Maria at 138r01-02: 'blessed art thou among women' (blessed-Mary, this-Mary, among), 'blessed is the fruit of thy womb'. Blessing formula at 140r09-140v02: blessed thy herd, blessed thy field, blessed thy harvest"
- },
- "670824670": {
-  "gloss": "lose",
-  "tier": "A",
-  "n": 2,
-  "evidence": "K&T's entry for lose (670966520) lists 670824670 as the spelling at 138v07 and 142r01. Those are this sign's only two occurrences"
- },
- "630670966670320": {
-  "gloss": "lost_and_damned",
-  "tier": "A",
-  "n": 2,
-  "evidence": "K&T's entry for be damned (520320) gives the expression 630670960670320 'lost, that is it was damned' at 139r06, 07, and their lose entry gives 670966670320 'lost, damned man' at the same two lines. 139r06 carries the phrase as one word and 139r06-07 carries it again split over the line break. Their 960 against the transcription's 966 is the only difference"
- },
- "6c1270a10003a10060": {
-  "gloss": "the_man",
-  "tier": "C",
-  "n": 2,
-  "evidence": "the other half of K&T's phrase 'lost, damned man' at 139r06, 07 (their entry for lose, 670966520). a10003a10060 is their own 'somebody'; the prefix 6c1270 occurs nowhere else in the book, so nothing can check it"
- },
- "520850520ae0": {
-  "gloss": "exorcise",
-  "tier": "A",
-  "n": 2,
-  "evidence": "K&T's entry for exorcise (520ae0520850) lists 520850520ae0, the same two pieces in the other order, at 137r04 and ? 150r08. Those are its only two occurrences. Their entry says exorcise stands often with 'evil', and 137r04 reads 'evil exorcise hell evil'"
- },
- "5400607a2": {
-  "gloss": "that",
-  "tier": "A",
-  "n": 2,
-  "evidence": "K&T gloss 5200607a2 as the conjunction 'that' (their 520060520 (2) entry, cited 019r02, 019v01, 027r11, 027v03, 061r01, 104r07) and attest the 520/540 swap in the same entry with 540060540 and 540060990. Both occurrences take it: 110v:2 'Titus, that not one stone upon another shall be left', 137r:5 'that we suffer'"
- },
- "446916b26": {
-  "gloss": "Saint_Augustine",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's Augustine entry (446b26) lists 446916b26 at 100v04, 107v02, 138v07, 144r05, 150v06, 07. Bare it stands once, at 144r05; the other citations are this word under a prefix (871446916b26, b60446916b26) or in their declared aggregate at 138v05"
- },
- "6d2964": {
-  "gloss": "have_compassion",
-  "tier": "B",
-  "n": 3,
-  "evidence": "Matthew 18, the unmerciful servant, which the book writes twice: 135r:2-3 'the lord [6d2964] remitted the debt' = Mt 18:27 'was moved with compassion and forgave him the debt'; 135v:4-5 and 136v:1-2 'the servant would not [6d2964] remit the debt and release him' = Mt 18:30 'and he would not'. All three occurrences are the same formula inside one parable, so nothing independent checks it"
- },
- "9555204f6": {
-  "gloss": "release",
-  "tier": "C",
-  "n": 2,
-  "evidence": "Mt 18:27 'loosed him, and forgave him the debt'. Stands at 135v:5 and 136v:2, both times directly after 'remit the debt', in the two copies of the same passage; the doubling is not an independent check"
- },
- "520b82": {
-  "gloss": "show",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry 520b81 'show (Jn 14, 8)' lists 520b82 as the spelling at 139r04, this sign's only occurrence. 139r04-05: Mary shows her son the breast that nursed the Lord"
- },
- "446a10003a10060916b26": {
-  "gloss": "Saint_Augustine",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's Augustine entry (446b26) records an aggregate at 138v05: '[aggr. 446 ... 916b26 138v05]', their Augustine written around their own word a10003a10060 'somebody'. It occurs once, after 00b670ae0670ae0"
- },
- "680ae0": {
-  "gloss": "exist",
-  "tier": "A",
-  "n": 11,
-  "evidence": "K&T's entry for exist (670ae0) lists 680ae0 among its variant spellings and cites 072v06, 138v07, 139v06, 140r05, 163rp1:05, 182v04, 05, 188r09. Bare it stands six times; it also heads 680ae0877 (3x) and closes 810680ae0"
- },
- "520060040050040030": {
-  "gloss": "cloud",
-  "tier": "B",
-  "n": 1,
-  "evidence": "K&T's entry for cloud (520060040050040) ends '?? 520060040050040030 138v08 cloud'. Their own two question marks; the sign occurs once, inside 630520060040050040030 at 138v08, where 630 is their preposition 'on, into'"
  }
 }
