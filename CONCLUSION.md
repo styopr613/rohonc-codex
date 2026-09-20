@@ -126,6 +126,18 @@ are variant spellings. Its gate failed, so none were inferred, but their own
 dictionary declares 88 such variants that the loader had dropped, and those
 went in: 78.8% now.
 
+Ninety-one folios are now translated, and two passages in them settle what
+kind of book it is. Folios 48 recto and verso are the Reproaches sung on Good
+Friday, and folio 52 verso is Longinus, the blind soldier healed by the blood
+from the spear, who appears in no gospel. It is a late-medieval devotional
+compilation, drawing on liturgy and legend as much as on scripture.
+
+Twenty-nine of the signs Kiraly and Tokai never defined have now been read,
+not by any of the seventeen statistical attempts, but by their own method:
+guess a sign from a passage whose story is known, then keep the guess only if
+it survives every other place the sign occurs. The method is written up in
+METHOD.md.
+
 Everything that can be read is rendered, page by page, in
 `work/rohonc/translation/`. Each word is marked by how far it reads: one
 sense, several senses with theirs first, a composed reading, a declared

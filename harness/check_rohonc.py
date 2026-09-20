@@ -531,6 +531,12 @@ def main():
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
 
+    check("ROHONC: the Reproaches and Longinus are named",
+          "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
+    check("ROHONC: METHOD.md and the 29 readings are stated",
+          "METHOD.md" in flat and "29 signs are read" in flat
+          and "22.3% to 30.5%" in flat)
+
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 

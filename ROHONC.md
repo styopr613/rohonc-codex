@@ -952,8 +952,8 @@ until they are asked.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and the first
-59 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
+With the rendering on the page it became possible to read it, and 91
+folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The content was not what this project assumed. It is not a gospel harmony.
 
 The opening is the **Life of Adam and Eve**, the apocryphal one and not
@@ -989,6 +989,34 @@ of a numeral. The book uses it to number the signs of Christ from first to
 eleventh and the witnesses who confessed him. That rule was read out of the
 text, not imported, and it is the second construction this project has
 recovered after the name-compounds.
+
+**More of what it is, from the Passion folios.** From 029r the book follows
+Matthew and John closely -- Malchus named and his ear put back, Caiaphas's
+counsel that one man should die, Peter's three denials counted first second
+third with the cock, Pilate and Herod, the basin, Barabbas, the purple robe
+and the crown, twelve legions of angels, the title on the cross and "what I
+have written I have written", the ninth hour, the sponge on the stick. But
+two passages are not gospel at all. Folios 048r-048v are the **Improperia**,
+the Reproaches sung on Good Friday: *O my people, what have I done unto thee?
+I brought thee out of Egypt, I divided the sea, I led thee forty years in the
+wilderness, and thou hast prepared a cross.* And 052v is **Longinus**, the
+blind soldier whose sight is restored by the blood from the spear wound,
+which is the Golden Legend. So the book draws on the liturgy and the legendary
+alongside the gospels, which is what a late-medieval devotional compilation
+does and what the reference corpus was rebuilt from.
+
+**The method that finally reads new words.** Seventeen gated attempts
+produced none. What produces them is Kiraly and Tokai's own loop, written up
+in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
+passage whose story is known, then carry the guess to every other occurrence
+in the book and keep it only if it survives all of them. 29 signs are read
+this way in `harness/proposals.json`, each with the folio and line of its
+decisive occurrences, graded A, B or C. Seventeen are A. They include the tally
+numerals one, three and five, the ordinal third, the cross (and with it the
+composition of the sign for crucified), bread, law, the subject marker, "on
+the third day", Nazareth, "be saved" and "believe". Rendered into the book
+with a plus sign so they can never be mistaken for Kiraly and Tokai's, they
+take the share of lines where every word is read from 22.3% to 30.5%.
 
 This is a translation of their dictionary over their transcription, not their
 translation, which is unpublished. Every gloss is theirs. The sentence-making
@@ -1054,6 +1082,7 @@ repository staff; with it, this would probably be feasible.
     python ktverse.py         # the sixteenth, anchors against the corpus (gate fails)
     python ktverse2.py        # the seventeenth, the refinement on a held-out half (fails)
     python kttranslate.py     # render the whole book, marked by how far each word reads
+    python ktcontext.py       # every occurrence of an unread sign, for checking a guess
     # the translation itself is read by hand: work/rohonc/translation/rohonc_translation.md
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
