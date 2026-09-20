@@ -10073,3 +10073,203 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > here, and the sister carries their "?? nun". The words on this page are
 > read and the story is not: whose thief, and who casts out whom, is not
 > settled by anything on the page.
+
+## 142v — the woman fasts and takes the host
+
+**1**  The woman: the father, to him in turn, who — this, to the wife — could do,
+`+woman +woman from-father to-to in_turn-who this to-to-wife can do,`
+
+**2**  how this woman could. The woman went into mercy, the woman;
+`how? this-+woman can +woman +woman inside have_mercy go +woman`
+
+**3**  of the woman the Lord; and then would say this chapter, sister:
+`<of>-+woman +woman Lord +and_then want say this chapter-+sister`
+
+**4**  to fast, the woman […]; and God. Here ends the chapter. She carried
+`to-fast +woman [?] and God exist-exist-chapter carry`
+
+**5**  the woman, within the woman's mouth; and the Lord is
+`+woman inside <of>-+woman +woman mouth and Lord exist`
+
+**6**  God. Here ends the chapter. She kissed the woman; the Lord would, this
+`God exist-exist-chapter +kiss +woman +woman want-Lord this`
+
+**7**  woman; mercy there is; and then the woman,
+`+woman +woman have_mercy exist and then-exist +woman`
+
+**8**  the woman, to fast, and took God. Here ends the chapter.
+`+woman to-fast and grab God exist-exist-chapter`
+
+**9**  And she carried the woman, within the woman's
+`and carry +woman +woman inside <of>-+woman +woman`
+
+> *Kiss* on line 6 is Király & Tokai's, cited at this line and at 143r01 and
+> 150v01, 02, which are its four occurrences in the book. The woman carries
+> God in her mouth: the host. The words are read; the story is not settled.
+
+## 143r — the face, the cloud, and the two grinding
+
+**1**  mouth; and the Lord would, to God. Here ends the chapter. She kissed;
+`+mouth and Lord want to God exist-exist-chapter +kiss`
+
+**2**  and the woman's face beat upon the place […]
+`and +woman +woman +face beat on-place [?]`
+
+**3**  outward. God. Here ends the chapter. And there was a miracle, a farm;
+`out(ward) God exist-exist-chapter and +<subject> exist ~miracle farm`
+
+**4**  and the Lord God cried out, in the cloud, to the angel | of
+`and shout-to Lord-<divine> on-+cloud on-angel | <of>`
+
+**5**  the Lord, leaving. O, to […] the woman, of the Lord, the father, the daughter,
+`Lord leave +oh to-[?] +woman <of>-Lord from-father +daughter`
+
+**6**  to love. The Lord is a miracle; the farm; the woman must
+`to-love Lord exist ~miracle farm +woman +woman have`
+
+**7**  the woman […] the woman […] this Lord;
+`+woman +woman [?] +woman +woman [?] this-Lord`
+
+**8**  this woman, the creature of the Lord: the sin, the mercy; and then
+`this +woman +woman ?creature Lord +sin have_mercy +and_then`
+
+**9**  this woman in turn, grinding as one — thou, Lord God, sayest
+`this +woman +woman in_turn grinding-+one you Lord-<divine> say`
+
+> *Mouth*, *kiss*, *face*, *cloud* and *daughter* on this page are all Király
+> & Tokai's own spellings, and every one of them is cited by them at the line
+> it stands on. Line 9 is Matthew 24:41, the two women grinding at the mill,
+> which is the first thing on these folios to put a verse behind the woman.
+
+## 143v — crucified, and the sin that dies
+
+**1**  the Lord God, in the cloud, to the angel of the Lord, this Lord, from Jesus; | and the Lord
+`Lord-<divine> +in_the_cloud on-angel <of>-Lord this-Lord from Jézus | and-Lord`
+
+**2**  was crucified. And then this wife, the Lord, of the wife, the Lord God,
+`+<subject> +crucified +and_then this wife Lord <of>-wife Lord God`
+
+**3**  of the wife mercy, to […] the woman, the brethren, this wife, through sin
+`<of>-wife have_mercy to-[?] +woman ?brethren this-wife through sin`
+
+**4**  against the Lord, could; and then the Lord God, this Lord, this
+`against <of>-Lord can +and_then Lord-<divine> this-Lord this`
+
+**5**  woman's sin — have mercy, Lord […] Lord, upon the sin.
+`+woman +woman sin have_mercy Lord [?] Lord on-sin`
+
+**6**  […] This says: the Son of God, the king of the high day, would the Lord,
+`[?] this say +<subject> son God high-+day-+king want Lord`
+
+**7**  heaven, earth […] in turn one.
+`heaven earth [?] a) one`
+
+**8**  A man's sin dies; that is, damned […] the man
+`somebody sin die that_is be_damned [?] somebody`
+
+**9**  damned. The Lord God, in turn: this man to the Lord, among the Lord
+`be_damned Lord God a) this somebody to-Lord among Lord`
+
+> The cloud on line 1 is the same formula as 143r:4 and 062r:9, the Lord God
+> crying out in the cloud to the angel; only 143r:4 carries the spelling
+> Király & Tokai cite, so the other two are read from the parallel.
+
+## 144r — Saint Augustine, and an image of the Virgin
+
+**1**  […] the people, the man, to the Lord God, this Lord — thou, creature
+`[?] people somebody to-Lord-<divine> this-Lord you ?creature`
+
+**2**  of the Lord, the sin, the mercy, […]; this must the man carry:
+`Lord +sin have_mercy [?] this have somebody carry`
+
+**3**  the commandment of God. The man is saved through many sufferings.
+`commandment God +be_saved somebody to-many suffering`
+
+**4**  O chapter, O chapter, amen. It is written by | holy
+`chapter-oh chapter-oh amen write +<subject> | holy`
+
+**5**  Saint Augustine: there was a woman, and a Lady
+`+Saint_Augustine exist one woman and +Lady`
+
+**6**  who prayed to the happy virgin Mary, outwardly, three
+`+<subject> pray happy virgin-Mary on-~out(ward) +three`
+
+**7**  years. In […] there was an image | of the virgin
+`year inside [?] exist one +image | virgin`
+
+**8**  Mary; and then […] this image | of the virgin
+`Mary and then-exist [?] this +image | virgin`
+
+**9**  Mary; and she said this: from the Lady, hear, Lady — and the man
+`Mary and say this from-+Lady hear-+Lady and somebody`
+
+> *Image* is Király & Tokai's, cited at lines 7 and 8 here and at 144v06,
+> 145r08, 145v09, 146v08, 147v05 and 151v04, and for these folios alone they
+> add the sense "? statue". *Lady* is their "<a female person>", which they
+> put across 144v-148r; this project's word for it is Lady, because on these
+> pages it stands as a title before the Virgin's name.
+
+## 144v — thou who holdest heaven and earth
+
+**1**  pray to the virgin Mary. The man would: "Good Queen, thou who holdest heaven
+`pray virgin-Mary want-somebody good +queen grab heaven`
+
+**2**  and earth" — this Lady would, the Lady, pray.
+`land this-+Lady want-+Lady pray`
+
+**3**  And she served one day; then Mary, every day,
+`and servant one +day then-exist Mary each,_every +day`
+
+**4**  she took bread, and […] truly, at the day's beginning.
+`grab bread and [?] righteous(ly) ~begin-+day`
+
+**5**  Then, the year out, in time, the woman went
+`then-exist year ~out(ward) inside time go this woman`
+
+**6**  to this image of the virgin Mary, and said this, the woman: | "Lord,
+`this +image virgin-Mary and say this woman | Lord`
+
+**7**  […] thou who holdest heaven and earth, Lady, | virgin
+`[?] grab heaven land +Lady | virgin`
+
+**8**  Mary." This Lady spoke from thence; and two said; the girl said:
+`Mary this-+Lady from speak and two say girl say`
+
+> The sheep sign on lines 5 and 6 is Király & Tokai's own homograph: their
+> entry gives sense (1) sheep, which is the Good Shepherd and the Lost Sheep
+> at 064 and 119-120, and sense (2) "<a female person>" for 144v-147v, which
+> is here. The page renders their first sense and the block means the woman.
+
+## 145r — how shall we creatures speak?
+
+**1**  "Queen, thou who holdest heaven and earth, Lady virgin Mary" —
+`+queen grab heaven land +Lady virgin-Mary`
+
+**2**  this woman spoke thus: how shall we creatures speak?
+`this-+a_female_person from speak how? ?how_shall_we ?creatures speak`
+
+**3**  How can she speak? Said this woman, this woman,
+`can speak say this woman this-+woman`
+
+**4**  […] love: this Mary would; and then Mary, the woman,
+`[?] love this Mary want and then-exist Mary +woman`
+
+**5**  served, fasted, and prayed two healings of Mary, and truly at the day's beginning
+`servant fast and two healing-Mary pray and righteous(ly) begin-+day`
+
+**6**  this day's; and […] she took; and then,
+`exist-today's and [?] grab and then-exist`
+
+**7**  two years out, in time, the woman went to this
+`~out(ward) two-year inside time go this woman this`
+
+**8**  image of the virgin Mary, and said, this woman: "Queen,
+`+image virgin-Mary and say this woman +queen`
+
+**9**  thou who holdest heaven and earth, Lady virgin Mary"
+`grab heaven land +Lady virgin-Mary`
+
+> The same scene as 144v, a year later: the woman comes back to the image and
+> says the same prayer. *A female person* on line 2 is Király & Tokai's,
+> cited at this line. "Two healings of Mary" on line 5 is their Hail-Mary
+> greeting sign counted, as the three Hail Marys were counted at 138v:6.

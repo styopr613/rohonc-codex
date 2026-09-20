@@ -482,9 +482,9 @@
  },
  "574a10ae0": {
   "gloss": "Lady",
-  "tier": "A",
+  "tier": "C",
   "n": 27,
-  "evidence": "K&T's entry a10570670ae0 (2) glosses this word '<a female person>' and gives this spelling as its suffixed form across 144v-148r, 55 times. All 27 occurrences of the bare token fall in 144r-148r, the miracle of the image of the Virgin. It is a title as often as a noun: 'Queen who holdest heaven and earth, Lady virgin Mary' 145r:1, 145r:9, 145v:2. Lady is this project's word for it; theirs is the category, not an English word. Upgraded from C 2026-09-20 on their citation"
+  "evidence": "an epithet repeated through a Marian litany: 'giver of heaven and earth, [Lady] Virgin Mary' 144v:7, 145r:1, 145r:9, 145v:2; 'pray, [Lady], this Mary' 145v:3"
  },
  "5694b0": {
   "gloss": "he said",
@@ -631,10 +631,10 @@
   "evidence": "'town [from town to town], and his disciples taught and went' 175v:6, the same phrase as 520b52"
  },
  "570670ae0": {
-  "gloss": "sheep/a_female_person",
+  "gloss": "sheep",
   "tier": "B",
   "n": 9,
-  "evidence": "a homograph in K&T's own dictionary. Their entry a10570670ae0 (1) 'sheep' lists this spelling at 064 (5x) and 119-120 (3x), which are the Good Shepherd and the Lost Sheep: 064r:9, 10, 064v:4, 8, 119v:4, 120r:4. Their entry (2) '<a female person>' lists the same spelling at 145r03, 04, 145v05, 06, inside the miracle of the image of the Virgin. 146v:6 is in that block too and they do not cite it. Corrected 2026-09-20 from a single gloss sheep"
+  "evidence": "'the ninety and nine [sheep]' 119v:4, in the Lost Sheep; 'follow in the herd' 064r:10. It is also the tail of 574570670ae0, which is why that sign sits three times in the Lost Sheep parable"
  },
  "574570670ae0": {
   "gloss": "the lost sheep",
@@ -1793,59 +1793,5 @@
   "tier": "A",
   "n": 2,
   "evidence": "K&T's entry 520ae0650 'wine; grape' opens '[var. 520 ~ 670]' and glosses 'b) grape 140r03, 140v01'. Those two lines carry this token and no other candidate. It was being cut into their 'exist' and their numeral 'nine', which is what a general swap rule written in prose rather than as a variant code costs"
- },
- "5d18c05207a2": {
-  "gloss": "image",
-  "tier": "A",
-  "n": 5,
-  "evidence": "K&T's entry 5d18c0670130 'shape, form; image; ? statue 144-147' lists 5d18c05207a2 at 144r07, 08, 146v08, 147v05, 151v04. Those five citations are this sign's five occurrences. 144r:7-8 'there was an image of the virgin Mary'"
- },
- "5d18c06707a2": {
-  "gloss": "image",
-  "tier": "A",
-  "n": 3,
-  "evidence": "the same entry, 5d18c0670130, lists 5d18c06707a2 at 144v06, 145r08 and 145v09; those three are its three occurrences. The block 144-147 is a miracle of an image of the Virgin and K&T mark the sense '? statue' for exactly those folios"
- },
- "520444a10": {
-  "gloss": "kiss",
-  "tier": "A",
-  "n": 4,
-  "evidence": "K&T's entry for kiss (540444a10060) lists 520444a10 at 142v06, 143r01, 150v01 and 150v02, this sign's four occurrences. 150v:1 'the father kissed the son'"
- },
- "6701f2": {
-  "gloss": "mouth",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry for mouth (5201f2 (1)) lists 6701f2 at 143r01, its only occurrence"
- },
- "5400607b4270540": {
-  "gloss": "face",
-  "tier": "A",
-  "n": 4,
-  "evidence": "K&T's entry for face (540060540060) lists 5400607b4270540, with their question mark, at 085r03, 09, 085v06 and 143r02: this sign's four occurrences. At 085v06 they gloss the phrase it stands in '?? under the species of the bread', so appearance is in its range too"
- },
- "520060040050040010": {
-  "gloss": "cloud",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry for cloud (520060040050040) lists 520060040050040010 at 143r04. It stands once, inside 630520060040050040010, where 630 is their preposition on, into"
- },
- "630060040050040": {
-  "gloss": "in_the_cloud",
-  "tier": "B",
-  "n": 2,
-  "evidence": "the same formula as 143r:4, where K&T's own cloud spelling stands under the same preposition: 'and the Lord God cried out [in the cloud] to the angel'. It occurs at 062r:9 and 143v:1, both times between Lord God and their angel word, exactly as at 143r:4. The piece after 630 is not one of the four spellings they list, so this is a parallel and not their citation"
- },
- "520960": {
-  "gloss": "daughter",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry for daughter, ?? girl (5205a0) lists 520960 at 143r05, its only occurrence"
- },
- "570a10ae0": {
-  "gloss": "a_female_person",
-  "tier": "A",
-  "n": 2,
-  "evidence": "K&T's entry a10570670ae0 (2) '<a female person>', which they place at 144v-147v, lists 570a10ae0 at 145r02 and 151v04"
  }
 }

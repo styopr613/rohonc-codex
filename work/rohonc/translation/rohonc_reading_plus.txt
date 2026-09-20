@@ -424,7 +424,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 020v ===
  1  donkey exist hay put and then-exist very_old | [?]
- 2  [?] ~fire begin-light ~and then-exist shoulder-to begin.
+ 2  girl-+mouth ~fire begin-light ~and then-exist shoulder-to begin.
  3  night time on-be_born son and son exist
  4  and-?shall_be_called Jézus time then-exist [?] [?]
  5  through light Bethlehem town and then-exist star
@@ -1300,7 +1300,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  Jew(ish) and on-place exist this people then-exist
  4  from two-Mary to-people go-two-Mary and grab
  5  ~Nicodemus +cross ?was_named Lord-Jézus in_turn +three three_nails
- 6  [?] grab holy-John [?] see | virgin
+ 6  [?] grab holy-John then-+mouth-Mary see | virgin
  7  Mary then-~exist grab virgin-Mary inside +bosom
  8  ~and ?afterward Nicodemus <preposition_of_genitive>-living-servant
  9  [?] and cover two body and then-~exist [?] and
@@ -1500,7 +1500,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  from-father Abraham from ?brethren Lord-<suffix_of_divine_name> [?].
  7  [?] and then-exist [?] [?]
  8  <preposition_of_genitive> [?] [?]-living want Lord slay and
- 9  shout Lord-<suffix_of_divine_name> [?] on-angel [?]
+ 9  shout Lord-<suffix_of_divine_name> +in_the_cloud on-angel [?]
 10  Abraham to-the_whole_wide_world +<subject_marker> Lord <preposition_of_genitive> love +this_is
 
 
@@ -1582,8 +1582,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  herd sheep this king and then-exist go wolf
  7  this sheep and want this sheep from-~carry
  8  and this farm_hand ?sons from ?sons [?]
- 9  this +sheep in_turn-this good ?sons home from ?sons
-10  redeem this +sheep and +sheep prepare inside herd
+ 9  this +sheep/a_female_person in_turn-this good ?sons home from ?sons
+10  redeem this +sheep/a_female_person and +sheep/a_female_person prepare inside herd
 11  and inside-good-exist-to grab and one from-~carry and
 
 
@@ -1591,11 +1591,11 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  in_turn-who +rebuke-trespass [?] this herd and go.
  2  wolf and sheep from-~carry +and_then
  3  Lord-Jézus to-+he_who good ?sons from ?sons put
- 4  down <preposition_of_genitive>-Lord [?] to-<preposition_of_genitive>-Lord +sheep and grab-Lord
+ 4  down <preposition_of_genitive>-Lord [?] to-<preposition_of_genitive>-Lord +sheep/a_female_person and grab-Lord
  5  and one [?] +he_who good ?sons from ?sons
  6  +<subject_marker> ~gate <preposition_of_genitive>-Lord sheep and then-exist hear
  7  voice,_sound <preposition_of_genitive>-Lord-<suffix_of_divine_name> sheep [?] ?sons go +and_then
- 8  Lord-Jézus apostle <preposition_of_genitive>-Lord ?creature-+one [?] one +sheep
+ 8  Lord-Jézus apostle <preposition_of_genitive>-Lord ?creature-+one [?] one +sheep/a_female_person
  9  and this-sheep want to-you [?] go and
 10  you exist each,_every one ?sons ?sons
 11  one to-Lord thanks Lord-<suffix_of_divine_name> end this holy-gospel
@@ -2111,13 +2111,13 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 085r ===
  1  and among you through transgress one
  2  +law God to-commandment each,_every somebody-+<subject_marker> [?] grab before
- 3  [?] to-Lord thanks Lord-<suffix_of_divine_name> because and somebody one
+ 3  +face to-Lord thanks Lord-<suffix_of_divine_name> because and somebody one
  4  transgress how? then-exist each,_every +law ~transgress somebody | because
  5  +<subject_marker> exist Lord-<suffix_of_divine_name> grab on-angel <preposition_of_genitive>-Lord inside <pertaining_to_the_Old_Testament>
  6  word father Abraham +seventy and +one-[?] commandment
  7  [?] this ?more_than_these go be_saved among somebody Lord
  8  Jew(ish) Jézus apostle-pagan ?above-high [?] son living God
- 9  Lord-Jézus-Christ and to-somebody from [?] and to-somebody soul
+ 9  Lord-Jézus-Christ and to-somebody from +face and to-somebody soul
 10  ~on-+cross-[?] and to-somebody +<subject_marker> <preposition_of_genitive> blood shed and somebody +<subject_marker>
 11  redeem-Lord from hell fire [?] somebody to-many from-until
 12  ten-+law +believe righteous(ly) +woman-[?] one God
@@ -2129,7 +2129,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  somebody ?answered to-many not-not-die chapter-oh chapter-oh
  4  amen speak holy-Augustine to-many +believe somebody inside
  5  God exist-exist-chapter [?] God can inside exist-exist-chapter.
- 6  to-from [?] exist-today’s on-place grab somebody
+ 6  to-from +face exist-today’s on-place grab somebody
  7  inside <preposition_of_genitive>-somebody mouth speak holy-Elijah prophet write.
  8  holy-<name_of_a_prophet> holy-Moses exist [?] fire on-each,_every ?people
  9  to-heaven high because-exist each,_every ?people destroy kneel_(down) one
@@ -2232,7 +2232,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  exist [?] and then-exist want ?the_poor_man/woman trespass from crumbs [?]
  5  on-<preposition_of_genitive>-rich throne [?] ?the_poor_man/woman [?] and then-exist | have
  6  rich many dog and go-dog this [?] ~and
- 7  lick-dog <preposition_of_genitive>-Lazarus [?] and Lazarus more
+ 7  lick-dog <preposition_of_genitive>-Lazarus wound-+mouth and Lazarus more
  8  exist from dog [?] have_mercy this Lazarus in_turn from-rich
  9  have_mercy +robe-Lazarus [?] have_mercy and then-exist this Lazarus
 10  die go angel heaven ?glory literal from-father God [?] this Lazarus and Lazarus
@@ -3045,7 +3045,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  <preposition_of_genitive>-somebody shoulder and go-somebody to-<preposition_of_genitive>-somebody friend and +neighbours
  2  and exist and-friend-neighbor say-somebody say exist | +found
  3  somebody sheep [?] somebody exist this-this +oh and
- 4  good on-+sheep joy ~a) on-nine-ten and nine +sheep
+ 4  good on-+sheep/a_female_person joy ~a) on-nine-ten and nine +sheep/a_female_person
  5  +and_then Lord-Jézus then-exist one woman ~head-chapter
  6  and exist have ten drachma and then-exist this ten ?loseth_one
  7  Eve and exist light Eve | Mary-son
@@ -3058,7 +3058,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  Eve joy a) on-food nine drachma +law end
  2  this holy-gospel then-exist-Lord [?] Lord-Jézus [?] sufferer
  3  gospel say Lord-Jézus apostle <preposition_of_genitive>-Lord and Jew(ish) people this-Lord
- 4  one Lord this +sheep because to-Lord this-Lord | [?]
+ 4  one Lord this +sheep/a_female_person because to-Lord this-Lord | [?]
  5  Lord nine order angel inside +heaven land
  6  +and_then Lord-Jézus then-exist-Lord bow_down from-father-<suffix_of_divine_name>
  7  heaven on-heaven land on-many angel
@@ -3618,18 +3618,18 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  <preposition_of_genitive>-+woman +the_Baptist/woman Lord +and_then want say this chapter-+sister
  4  to-fast +woman [?] and God exist-exist-chapter carry
  5  +woman inside <preposition_of_genitive>-+woman +the_Baptist/woman mouth and Lord exist
- 6  God exist-exist-chapter [?] +woman +the_Baptist/woman want-Lord this
+ 6  God exist-exist-chapter +kiss +woman +the_Baptist/woman want-Lord this
  7  +woman +the_Baptist/woman have_mercy exist and then-exist +woman
  8  +the_Baptist/woman to-fast and grab God exist-exist-chapter
  9  and carry +woman +the_Baptist/woman inside <preposition_of_genitive>-+woman +the_Baptist/woman
 
 
 === 143r ===
- 1  [?] and Lord want to God exist-exist-chapter [?]
- 2  and +woman +the_Baptist/woman [?] beat on-place [?]
+ 1  +mouth and Lord want to God exist-exist-chapter +kiss
+ 2  and +woman +the_Baptist/woman +face beat on-place [?]
  3  out(ward) God exist-exist-chapter and +<subject_marker> exist ~miracle farm
- 4  and shout-to Lord-<suffix_of_divine_name> [?] on-angel | <preposition_of_genitive>
- 5  Lord leave +oh to-[?] +the_Baptist/woman <preposition_of_genitive>-Lord from-father [?]
+ 4  and shout-to Lord-<suffix_of_divine_name> on-+cloud on-angel | <preposition_of_genitive>
+ 5  Lord leave +oh to-[?] +the_Baptist/woman <preposition_of_genitive>-Lord from-father +daughter
  6  to-love Lord exist ~miracle farm +woman +the_Baptist/woman have
  7  +woman +the_Baptist/woman [?] +woman +the_Baptist/woman [?] this-Lord
  8  this +woman +the_Baptist/woman ?creature Lord +sin have_mercy +and_then
@@ -3637,7 +3637,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 143v ===
- 1  Lord-<suffix_of_divine_name> [?] on-angel <preposition_of_genitive>-Lord this-Lord from Jézus | and-Lord
+ 1  Lord-<suffix_of_divine_name> +in_the_cloud on-angel <preposition_of_genitive>-Lord this-Lord from Jézus | and-Lord
  2  +<subject_marker> +crucified +and_then this wife Lord <preposition_of_genitive>-wife Lord God
  3  <preposition_of_genitive>-wife have_mercy to-[?] +the_Baptist/woman ?brethren this-wife through sin
  4  against <preposition_of_genitive>-Lord can +and_then Lord-<suffix_of_divine_name> this-Lord this
@@ -3653,99 +3653,99 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  Lord +sin have_mercy [?] this have somebody carry
  3  commandment God +be_saved somebody to-many suffering
  4  chapter-oh chapter-oh amen write +<subject_marker> | holy
- 5  +Saint_Augustine exist one ~sheep and ?Lady
+ 5  +Saint_Augustine exist one ~sheep and +Lady
  6  +<subject_marker> pray happy virgin-Mary on-~out(ward) +three
- 7  year inside [?] exist one [?] | virgin
- 8  Mary and then-exist [?] this [?] | virgin
- 9  Mary and say this from-?Lady hear-?Lady and somebody
+ 7  year inside [?] exist one +image | virgin
+ 8  Mary and then-exist [?] this +image | virgin
+ 9  Mary and say this from-+Lady hear-+Lady and somebody
 
 
 === 144v ===
  1  pray virgin-Mary want-somebody good +queen grab heaven
- 2  land this-?Lady want-?Lady pray
+ 2  land this-+Lady want-+Lady pray
  3  and servant one +day then-exist Mary each,_every +day
  4  grab bread and [?] righteous(ly) ~begin-+day
  5  then-exist year ~out(ward) inside time go this sheep
- 6  this [?] virgin-Mary and say this sheep | Lord
- 7  [?] grab heaven land ?Lady | virgin
- 8  Mary this-?Lady from speak and two say girl say
+ 6  this +image virgin-Mary and say this sheep | Lord
+ 7  [?] grab heaven land +Lady | virgin
+ 8  Mary this-+Lady from speak and two say girl say
 
 
 === 145r ===
- 1  +queen grab heaven land ?Lady virgin-Mary
- 2  [?] from speak how? ?how_shall_we ?creatures speak
- 3  can speak say this sheep this-+sheep
- 4  [?] love this Mary want and then-exist Mary +sheep
+ 1  +queen grab heaven land +Lady virgin-Mary
+ 2  this-+a_female_person from speak how? ?how_shall_we ?creatures speak
+ 3  can speak say this sheep this-+sheep/a_female_person
+ 4  [?] love this Mary want and then-exist Mary +sheep/a_female_person
  5  servant fast and two healing-Mary pray and righteous(ly) begin-+day
  6  exist-today’s and [?] grab and then-exist
  7  ~out(ward) two-year inside time go this sheep this
- 8  [?] virgin-Mary and say this sheep +queen
- 9  grab heaven land ?Lady virgin-Mary
+ 8  +image virgin-Mary and say this sheep +queen
+ 9  grab heaven land +Lady virgin-Mary
 
 
 === 145v ===
- 1  this-?Lady from speak and two say this sheep +queen
- 2  grab heaven land ?Lady virgin-Mary
- 3  pray ?Lady this Mary on-~out(ward) fast fast
- 4  girl ?Lady +queen grab heaven land
- 5  this-girl ?Lady speak this-+sheep [?] love
- 6  this-Mary want and then-exist Mary +sheep servant
+ 1  this-+Lady from speak and two say this sheep +queen
+ 2  grab heaven land +Lady virgin-Mary
+ 3  pray +Lady this Mary on-~out(ward) fast fast
+ 4  girl +Lady +queen grab heaven land
+ 5  this-girl +Lady speak this-+sheep/a_female_person [?] love
+ 6  this-Mary want and then-exist Mary +sheep/a_female_person servant
  7  on-out(ward) +three_days and +three healing-Mary pray and righteous(ly) begin-+day
  8  exist-today’s and [?] grab and then-exist out(ward).
- 9  +three_days inside time go this sheep this [?]
+ 9  +three_days inside time go this sheep this +image
 10  virgin-Mary and say this sheep +queen grab heaven
 
 
 === 146r ===
- 1  land ?Lady virgin-Mary this-?Lady from speak
+ 1  land +Lady virgin-Mary this-+Lady from speak
  2  and two say this sheep +queen grab heaven | town
- 3  exist ?Lady virgin-Mary this-?Lady from speak
- 4  get_angry this sheep remit go-?Lady <preposition_of_genitive>-?Lady
- 5  Lord say this sheep this-?Lady and go-?Lady
- 6  remit this Lord pray ?Lady and servant ?Lady
- 7  virgin-Mary on-out(ward) +three_days this-girl ?Lady +queen
- 8  grab heaven land this-?Lady and | go
- 9  ?Lady remit this Lord say this sheep this-Lord
+ 3  exist +Lady virgin-Mary this-+Lady from speak
+ 4  get_angry this sheep remit go-+Lady <preposition_of_genitive>-+Lady
+ 5  Lord say this sheep this-+Lady and go-+Lady
+ 6  remit this Lord pray +Lady and servant +Lady
+ 7  virgin-Mary on-out(ward) +three_days this-girl +Lady +queen
+ 8  grab heaven land this-+Lady and | go
+ 9  +Lady remit this Lord say this sheep this-Lord
 
 
 === 146v ===
- 1  go-?Lady [?] this-Lord this-?Lady want-Lord on-place
+ 1  go-+Lady [?] this-Lord this-+Lady want-Lord on-place
  2  girl +queen grab heaven land [?]
- 3  this sheep <preposition_of_genitive>-?Lady Lord and ?Lady grab
+ 3  this sheep <preposition_of_genitive>-+Lady Lord and +Lady grab
  4  this Lord one [?] [?] on-pierce and.
- 5  one [?] [?] and go-?Lady this | from
- 6  +sheep and then-[?] go-?Lady this sheep
+ 5  one [?] [?] and go-+Lady this | from
+ 6  +sheep/a_female_person and then-[?] go-+Lady this sheep
  7  and go many | inside time appear
- 8  ?Lady virgin-Mary inside [?] +woman +the_Baptist/woman +and_then
+ 8  +Lady virgin-Mary inside +image +woman +the_Baptist/woman +and_then
  9  [?] virgin-Mary grab +woman +the_Baptist/woman to this | [?]
 
 
 === 147r ===
  1  [?] from son inside +name virgin-Mary say this
- 2  sheep this-?Lady pray girl and servant ?Lady
+ 2  sheep this-+Lady pray girl and servant +Lady
  3  Mary on-~out(ward) +three this-living-+day +queen grab heaven
- 4  land Mary grab-girl ?Lady this son
- 5  want-?Lady son to this [?] put | grab
- 6  girl ?Lady son a) ?Lady grab one
- 7  [?] +and_then virgin-Mary go-?Lady to-?again king
- 8  and king grab ?Lady this [?] and ?brethren
- 9  this ?Lady say from-+king living-exist ?Lady do,
+ 4  land Mary grab-girl +Lady this son
+ 5  want-+Lady son to this [?] put | grab
+ 6  girl +Lady son a) +Lady grab one
+ 7  [?] +and_then virgin-Mary go-+Lady to-?again king
+ 8  and king grab +Lady this [?] and ?brethren
+ 9  this +Lady say from-+king living-exist +Lady do,
 
 
 === 147v ===
- 1  and then-exist go-?Lady this king and from from-[?]-+king
+ 1  and then-exist go-+Lady this king and from from-[?]-+king
  2  this [?] and grab [?] this sheep and | then
- 3  exist ?Pharisees leave ?Lady and then-exist ?Lady heavenly
- 4  host [?] servant ?Lady inside time appear
- 5  ?Lady [?] virgin-Mary inside [?] +woman +the_Baptist/woman
+ 3  exist ?Pharisees leave +Lady and then-exist +Lady heavenly
+ 4  host [?] servant +Lady inside time appear
+ 5  +Lady [?] virgin-Mary inside +image +woman +the_Baptist/woman
  6  on-each,_every people see +and_then [?] virgin-Mary this
- 7  sheep +this_is this ?Lady [?] love-girl | this
- 8  Mary this ?Lady somebody do, girl
- 9  exist-?Lady good ?Lady ?therefore [?] in_turn
+ 7  sheep +this_is this +Lady [?] love-girl | this
+ 8  Mary this +Lady somebody do, girl
+ 9  exist-+Lady good +Lady ?therefore [?] in_turn
 
 
 === 148r ===
- 1  exist-?Lady [?] [?] this ?Lady and
+ 1  exist-+Lady [?] [?] this +Lady and
  2  leave-chapter-leave [?] virgin-Mary before remit people.
  3  write [?].
  4  son [?].
@@ -3807,8 +3807,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 150v ===
- 1  son +oh <preposition_of_genitive>-son from-father [?] son father on-this
- 2  last year and then-exist son father [?] and cursed
+ 1  son +oh <preposition_of_genitive>-son from-father +kiss son father on-this
+ 2  last year and then-exist son father +kiss and cursed
  3  [?] +and_then that_is father exist [?] dog
  4  then-exist this-father exist father son apostle on-good ?therefore
  5  this-son on-this go-~son on-love son go-~son speak-[?]
@@ -3834,7 +3834,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  ?therefore ~exist-[?] and have a) exist ~son-sin remit
  2  you light to-leave then-+exist somebody see light and
  3  exist +forgiveness_of_sins to you go-+forgiveness_of_sins
- 4  inside [?] [?] +heart how? one [?]
+ 4  inside +image [?] +heart how? one +a_female_person
  5  +forgiveness_of_sins and exist-+forgiveness_of_sins [?]-+forgiveness_of_sins
  6  <preposition_of_genitive>-somebody son +forgiveness_of_sins you son
  7  in_turn-two and +<subject_marker> son from [?] son in_turn to-to
