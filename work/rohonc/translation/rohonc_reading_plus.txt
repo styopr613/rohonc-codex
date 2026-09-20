@@ -95,7 +95,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  5  +law this yoke this-Adam through commandment not [?]
  6  this [?] [?] [?] [?] Adam exist [?]
  7  [?] die-Adam and then-exist Adam sleep inside | to
- 8  [?] and then-exist on-this [?] ~first from [?] and | then
+ 8  [?] and then-exist on-this [?] ~first from +saying and | then
  9  exist go holy-spirit inside [?] +and_then this
 10  +<subject_marker> this [?] and grab Lord-<suffix_of_divine_name> Adam
 11  [?] and +it +heart say angel you
@@ -132,7 +132,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 001v ===
- 1  Lord-<suffix_of_divine_name> on-angel this ~out(ward) two from [?] and then-exist leave
+ 1  Lord-<suffix_of_divine_name> on-angel this ~out(ward) two from +saying and then-exist leave
  2  Lord-<suffix_of_divine_name> [?] inside [?] +and_then Lord-<suffix_of_divine_name> <suffix_of_divine_name>
  3  [?] why? +and_then ~Adam [?] Lord-<suffix_of_divine_name>
  4  +and_then Lord-<suffix_of_divine_name> who-mouth ~Adam hide_oneself +and_then ~Adam
@@ -162,7 +162,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 007v ===
  1  [?] [?] Garden_of_Eden and one create
  2  [?] inside Garden_of_Eden a) angel +and_then Lord-<suffix_of_divine_name>
- 3  on-angel this table +three from [?] and from two-two-two-two say | to
+ 3  on-angel this table +three from +saying and from two-two-two-two say | to
  4  Elijah God angel Elijah then-exist Lord-<suffix_of_divine_name> ~Adam
  5  out(ward) [?] on-Garden_of_Eden and then-exist | [?]
  6  [?] leave inside ~field many year and ~have ~Adam [?]
@@ -561,7 +561,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 
 === 025v ===
- 1  town and first before be_born one [?] exist
+ 1  town and first before be_born one +saying exist
  2  [?] star through light Bethlehem town and | then
  3  exist star see [?] and from [?] [?]
  4  and then-exist on-star miracle time say angel [?]
@@ -754,8 +754,8 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  7  judge that_is this-Lord go on-die Lord die because
  8  Lord Jew(ish) +crucified and this-Lord [?]
  9  [?] stand_up-Lord that_is_why ask_(for) Lord you
-10  do_not apostle inside Lord stumble because what-go [?]
-11  <preposition_of_genitive>-Lord father-<suffix_of_divine_name> [?] [?] +<subject_marker> Lord +crucified +and_then
+10  do_not apostle inside Lord stumble because what-go +saying
+11  <preposition_of_genitive>-Lord father-<suffix_of_divine_name> [?] +saying +<subject_marker> Lord +crucified +and_then
 
 
 === 032v ===
@@ -3116,7 +3116,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  3  +law this yoke this Adam through commandment [?] eat
  4  this [?] [?] [?] [?] Adam exist eat
  5  on-place die and then-exist Adam sleep inside [?]
- 6  and then-exist table first from [?] and then-exist go holy-spirit
+ 6  and then-exist table first from +saying and then-exist go holy-spirit
  7  inside [?] +and_then this +<subject_marker> this [?] and
  8  grab Lord-<suffix_of_divine_name> Adam [?] and +it +heart
  9  +and_then Lord-Jézus you mother and then-exist Adam
@@ -3150,7 +3150,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  [?] hide_oneself-angel exist ~bow_down father-<suffix_of_divine_name> on-heaven | in_turn-chapter
  2  [?] on-hell +and_then Lord-Jézus leave Lord-father son
  3  spirit on-heaven [?] inside Garden_of_Eden
- 4  +and_then Lord-Jézus this table two from [?] and then-exist
+ 4  +and_then Lord-Jézus this table two from +saying and then-exist
  5  leave Lord-father son spirit leave on-heaven land
  6  inside [?] say exist [?] | [?]
  7  spirit to-Adam Adam why? +and_then
@@ -3196,7 +3196,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  1  and put angel [?] on-gate [?]
  2  Garden_of_Eden and one create [?] inside
  3  Garden_of_Eden a) angel +and_then Lord-Jézus
- 4  this table +three from [?] say Lord-Jézus this +<subject_marker> this
+ 4  this table +three from +saying say Lord-Jézus this +<subject_marker> this
  5  drachma and exist lose then from [?] eat two
  6  ~Adam and [?] and ~Adam slide out(ward)
  7  exorcise Lord-father son holy-spirit and then-exist hell
@@ -3501,7 +3501,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  4  healing-girl through holy-Mary from grab-virgin-girl
  5  +believe this-<the_name_of_the_author>-somebody this-Mary exist <the_name_of_the_author>-somebody
  6  through have_mercy-virgin-girl and exist <the_name_of_the_author>-somebody [?]
- 7  [?] this [?] and inside each,_every [?] and | redeem
+ 7  [?] this [?] and inside each,_every +saying and | redeem
  8  Mary <the_name_of_the_author>-somebody [?] <preposition_of_genitive>-Mary through [?]
  9  through [?] son <preposition_of_genitive>-Mary Lord <preposition_of_genitive>-somebody Jézus Christ
 

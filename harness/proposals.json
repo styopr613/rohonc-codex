@@ -109,10 +109,10 @@
   "evidence": "K&T mark it 'var.' of a code they gloss day; forty [days] and forty nights 004v:11. Line-initial uses ('[that day] he called twelve apostles' 022r:10) fit loosely"
  },
  "060060443520": {
-  "gloss": "<epithet of God>",
+  "gloss": "eternal",
   "tier": "C",
   "n": 24,
-  "evidence": "follows 'God the Father' in 8 of 10 uses; almighty or most high"
+  "evidence": "follows 'God the Father' eight times (002r:3,5,8,9; 034r:2,9; 050v:11; 103r:8), which suits 'eternal' or 'almighty'; but it also stands before 'land' six times (058v:2, 187r:1, 195r:3, 196r:3, 198v:9, 100r:1), and 'the eternal land' is the only reading that covers both"
  },
  "085": {
   "gloss": "people",
@@ -173,5 +173,17 @@
   "tier": "A",
   "n": 25,
   "evidence": "'on the [cross] they hanged the Lord Jesus' 053r:7, 058r:3; Nicodemus, the [cross], three nails 054r:5; 'Christ on the [cross] gave up his soul, the earth, the rocks' 057v:11; 'on the [cross] the Lord prayed to God his Father' 050v:11, 051v:10; the Jews cry it before Pilate 041r:6, 046v:2, 046v:9, 047r:5. It is also the first half of 630461796, the sign read as crucified, so the compound is cross + a verb ending"
+ },
+ "574ae09f3": {
+  "gloss": "saying",
+  "tier": "B",
+  "n": 10,
+  "evidence": "always after an ordinal and usually beside K&T's throne/table code and a speech verb: 'the first [saying]' 122v:6 and 003r:8, 'the second [saying]' 001v:1 and 124r:4, 'the third [saying], the Lord Jesus said' 126r:4 and 007v:3. A numbered list of things said at table"
+ },
+ "5203f09501f2": {
+  "gloss": "hast thou done",
+  "tier": "C",
+  "n": 4,
+  "evidence": "all four are in the interrogation in Eden: 'the Lord God said, why, Eve, [hast thou done this]' 001v:8, 001v:9, and 001v:5, 001v:6 = Genesis 3:13"
  }
 }

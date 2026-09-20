@@ -84,8 +84,9 @@ starting.
   theirs and are not edited.
 - Do not spend more than a few minutes on a sign whose occurrences are all
   on untranslated pages. Translate the pages first; the sign gets easier.
-- Signs that occur once are done last, from the fully-read lines around
-  them, and stay tier C.
+- Signs that occur once are read from the line around them like any other
+  missing word. They stay tier C because nothing can check them, not because
+  they are out of reach.
 
 ## Would finding the real source text help? Measured: barely
 
@@ -123,23 +124,43 @@ be a key.
 ## Order of work
 
 1. The 163 multi-occurrence signs on translated pages, commonest first.
-   Twenty are done. The next are `285`, `084`, `6a6`, `520ae0850270ae0`,
-   then down the list.
+   Thirty-one are done. The next are `084`, `520ae0850270ae0`, `353`,
+   `670b06`, then down the list.
 2. Translate in page order from 036r, appending to the translation file in
    the established format. Every batch of six to eight folios, commit, then
    go back to step 1, because new pages make new signs readable.
-3. `harness/ktverse.py` ranks lines by how well they match the reference
+3. `python3 harness/ktgap.py --done` after each batch of folios, and fill
+   the one-word gaps on the pages just translated while the story is fresh.
+4. `harness/ktverse.py` ranks lines by how well they match the reference
    corpus; its top lines point at pages worth translating out of order
    (it found the Unmerciful Servant and the Lost Sheep). Use it when page
    order gets slow.
 
-**Where this ends.** Unread is 17.3% of the book. About 7% of the book is
-signs that occur once, which need their surrounding line fully read first and
-stay tier C. The other ~10% occurs three or more times and is reachable by
-the loop, but only once the folio it sits on has been translated -- 163 such
-signs are reachable today and the rest unlock as translation proceeds. So the
-two halves of the work feed each other, and the realistic floor for unread
-text is the hapax share, around 7%.
+## The third engine: lines that are one word short
+
+A sign that occurs once cannot be checked at a second occurrence. That is the
+only thing it lacks. It can still be READ, the way any missing word in a
+sentence is read, as soon as everything around it is readable.
+
+`harness/ktgap.py` finds those lines. Right now **1,534 lines of the codex --
+35% of them -- are exactly one word short**, and 584 of the missing words are
+one-offs. Another 1,010 lines are two words short and open up as soon as one
+of the two is read.
+
+    python3 harness/ktgap.py            # the count and the signs involved
+    python3 harness/ktgap.py --done     # only lines on folios already translated
+    python3 harness/ktgap.py --page 053r
+
+Work it the same way as the sign loop. On a translated folio the story is
+known, so the gap usually has one sensible filler. If the sign occurs more
+than once, check it at the others and it can reach tier A or B. If it occurs
+once, fill it, mark it tier C, and move on -- a tier C reading is still a
+reading, it just cannot be verified by repetition.
+
+The three engines feed each other and none of them has a floor. Translating a
+folio makes its signs reachable. Reading a sign closes gaps on every page it
+appears. Closing gaps makes more lines complete, which makes the next guess
+easier. Keep all three going rather than finishing one.
 
 ## After every change
 
