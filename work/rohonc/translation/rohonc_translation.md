@@ -5242,3 +5242,215 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > as we forgive them that trespass against us, and deliver us from evil.
 > Amen. The word rendered *year* on lines 4–5 is the same root the dictionary
 > gives as day or year, so *this day's bread* is the daily bread.
+
+## 075r — two men in white apparel
+
+**1**  In turn, out and out, two thousand years. And the third time said holy Peter:
+`in_turn out(ward)-to-out(ward) two-to-?thousand-year and +three say holy-Peter`
+
+**2**  Master, how shall the apostles […] write of the Lord? Lord Jesus said, one
+`Master how? apostle [?] Lord write say Lord-Jézus one`
+
+**3**  year write, apostles, literally; in turn the second, figuratively. And then
+`year write apostle literal in_turn two metaphoric and then-exist`
+
+**4**  the eternal […] was to Lord Jesus; and then
+`?eternal [?] exist-to Lord-Jézus and then-exist`
+
+**5**  Lord Jesus went into heaven, into glory; and the Lord's light
+`go Lord-Jézus heaven ?glory and Lord light from`
+
+**6**  departed, because Lord Jesus would have it so; then the Lord
+`~leave because want Lord-Jézus then-exist Lord`
+
+**7**  shone on the apostles of God, upon this world; and then the two
+`apostle God shine on-this ?world and then-exist-two`
+
+**8**  appeared, two angels, white […]
+`appear two angel-angel white | [?]`
+
+**9**  […] and then the two angels, to you
+`[?] +and_then two angel-angel you`
+
+**10**  apostles, O men, how see ye the Lord's joy? Jairus
+`apostle-oh-<suffix_of_divine_name>-chapter man how? Lord joy see Jairus`
+
+> Acts 1:10, *behold, two men stood by them in white apparel.* Lines 2–3 are
+> a note on how the apostles are to write: one literally, the other
+> figuratively, which is a commentator's remark, not a gospel verse.
+
+## 075v — he shall so come, to judge the quick and the dead
+
+**1**  he departed, from the eternal; in turn, to the end, this joy
+`~leave ?from_the_eternal in_turn-chapter-end-chapter this joy`
+
+**2**  the Lord would go to […] judge the living and the dead,
+`want Lord go on-[?] judge living and die`
+
+**3**  the man. And the two said, these two angels, go, apostles, into
+`somebody and say-two this two angel-angel go-apostle inside`
+
+**4**  the apostles, O; and the Lord […] the apostle-man.
+`apostle-oh-<suffix_of_divine_name>-chapter and Lord [?] apostle-somebody.`
+
+**5**  And […] they saw; the word was done by the two
+`and [?] see word do, two | angel`
+
+**6**  angels. Here ends this holy gospel. Love the Lord with all thy heart.
+`angel end this holy-gospel +the_Lord love Lord-<suffix_of_divine_name> ?with_all_thy_heart`
+
+**7**  The Lord spoke, the apostles, Lord Jesus Christ;
+`speak-Lord apostle Lord-Jézus-Christ`
+
+**8**  then the apostles prayed,
+`then-exist apostle pray`
+
+**9**  his son,
+`<preposition_of_genitive>-Lord son`
+
+**10**  this Father of the man
+`this father-<suffix_of_divine_name>-<preposition_of_genitive>-somebody`
+
+> Acts 1:11, *this same Jesus... shall so come in like manner*, with the
+> creed's *judge the quick and the dead* on line 2.
+
+## 076r — how oft shall my brother sin against me
+
+**1**  […] to the apostles many said […] written […] […]
+`[?] to-apostle many say [?] write [?] [?]`
+
+**2**  in the first chapter of his writing. At that time, then, Lord Jesus Christ
+`inside +one chapter <preposition_of_genitive>-write time then-exist Lord-Jézus-Christ`
+
+**3**  in the thirtieth year, and three days, and five months, and three days, at
+`inside thirty year and +three_days and +five moon and +three_days inside`
+
+**4**  that time left the apostles, to Lord Jesus; and then holy Peter
+`time leave-to-leave apostle ~to Lord-Jézus +and_then holy-Peter`
+
+**5**  answered, would the most high, this Peter, have mercy […] Peter is
+`+answered want-high this-Peter have_mercy [?] exist Peter`
+
+**6**  […] and then Lord Jesus Christ: Peter, Peter, in turn
+`[?] +and_then Lord-Jézus-Christ Peter Peter | in_turn`
+
+**7**  the brethren, one […] […] one year, through the sin of a man
+`?brethren +one-[?] [?] one year through sin somebody`
+
+**8**  against this Peter; have mercy, the man, if the man goes to mercy,
+`against this-Peter have_mercy somebody +<subject_marker> if go somebody-have_mercy`
+
+**9**  asks mercy, the man receives […] goes
+`ask_(for)-have_mercy-somebody +<subject_marker> grab [?] go`
+
+**10**  […] the man of mercy; and cried to Lord Jesus Christ
+`[?] somebody-have_mercy and shout-to Lord-Jézus-Christ`
+
+> Matthew 18:21, *Lord, how oft shall my brother sin against me, and I
+> forgive him?* The dating on line 3 is the codex's own, not the gospel's.
+
+## 076v — the catalogue of sins
+
+**1**  he departed on the water of heaven […] Peter, Peter, if rather
+`~leave on-water heaven [?] Peter Peter if-?but_rather`
+
+**2**  a man among the apostles sins against you […] from
+`+<subject_marker> somebody among apostle you sin [?] from`
+
+**3**  […] the man, the apostle, the sin […] […] the man, of
+`[?] somebody apostle +sin [?] [?] somebody | <preposition_of_genitive>`
+
+**4**  the man's sin, leave it; but if a man's sins are many, in turn
+`somebody-+sin leave a) if-exist many somebody-+sin in_turn`
+
+**5**  he who is a thief; in turn […]; in turn a shedder of blood, that is
+`thief-who in_turn [?] in_turn blood blood_shedder that_is`
+
+**6**  a killer of men; the man in turn […]; the man in turn from […]
+`people-die somebody in_turn [?] somebody in_turn from [?]`
+
+**7**  the man in turn proud; the man in turn a drinker; the man in turn many
+`somebody in_turn proud somebody in_turn drink somebody in_turn many`
+
+**8**  […]; the man in turn under many yokes; this Peter
+`[?] somebody in_turn many yoke-chapter somebody this-on-Peter`
+
+**9**  said Lord Jesus Christ, because Peter is […] in turn in […]
+`say Lord-Jézus-Christ because exist Peter [?] in_turn inside [?]`
+
+**10**  the man, this […] how then the man dies in turn
+`somebody this [?] how? then-exist somebody die in_turn`
+
+> A list of sins built on the repeated *in turn*: thief, shedder of blood,
+> manslayer, proud, drunkard. Catalogues like this belong to the confessional
+> handbook rather than to the gospel.
+
+## 077r — one sin, and whosoever sins is damned
+
+**1**  […] the man […] have mercy; the man in turn from riches […]
+`[?] somebody [?] have_mercy somebody in_turn from-rich-from [?]`
+
+**2**  the man in turn […] truly; the man, or the man judges
+`somebody in_turn [?] righteous(ly) somebody or ~judge somebody`
+
+**3**  of whom holy Paul speaks […] said Lord Jesus Christ, this […]
+`who speak holy-Paul [?] say Lord-Jézus-Christ this [?]`
+
+**4**  the man sins one sin […] he is saved; and he who hides
+`somebody sin one +sin [?] be_saved and who-hide_oneself`
+
+**5**  the man […] […] in sin, to Lord Jesus Christ
+`somebody [?] [?] on-sin to Lord-Jézus-Christ`
+
+**6**  one sin […] is saved; but every one, whosoever sins, is damned
+`one +sin [?] be_saved a) each,_every ?whosoever-+sin be_damned`
+
+**7**  said Lord Jesus Christ: Peter, Peter […] that is […]
+`say Lord-Jézus-Christ Peter Peter [?] that_is [?]`
+
+**8**  whosoever sins […] the apostle, this whosoever sins, from […] […]
+`?whosoever-+sin [?] apostle-this-?whosoever-+sin from [?] [?]`
+
+**9**  […] the man, of […] leaves […]
+`[?] somebody <preposition_of_genitive>-[?] leave [?]`
+
+**10**  the man […] the voice […] the brethren, the man says, this man
+`somebody [?] voice,_sound [?] ?brethren-exist somebody say somebody this`
+
+> Still Matthew 18, the sin of a brother and the forgiving of it.
+
+## 077v — go to him alone, then take two, then three
+
+**1**  he loves Lord Jesus Christ more than these. Lord Jesus Christ said to Peter:
+`+<subject_marker> love Lord-Jézus-Christ ?more_than_these say Lord-Jézus-Christ to-Peter`
+
+**2**  in turn […] the apostle-man among […]; the man who sins, go to
+`in_turn [?] apostle-somebody among [?] somebody-+sin go | to`
+
+**3**  Peter, […] the sin, to the house; and the man upon his sin
+`Peter [?]-+sin to-home and somebody-on-+sin`
+
+**4**  rebuke, because this man who sins suffers; in turn, to whom this man
+`admonish because this somebody-+sin sufferer in_turn to-which this-somebody`
+
+**5**  suffers […] the apostle, this whosoever sins, from […] […]
+`sufferer [?] apostle this ?whosoever-+sin from [?] [?]`
+
+**6**  he looks; of […] he leaves; but Peter goes, to Peter, two
+`from-see <preposition_of_genitive>-[?] leave a) go-Peter to-Peter two`
+
+**7**  […] the sin; and the man upon his sin rebuke, because this whosoever sins
+`[?]-+sin and somebody-on-+sin admonish because this ?whosoever-+sin`
+
+**8**  suffers; in turn, to whom this man suffers […] the apostle, this whosoever sins
+`sufferer in_turn to-which this-somebody sufferer [?] apostle this ?whosoever-+sin`
+
+**9**  from […] […] the man, of […] leaves; but
+`from [?] [?] somebody <preposition_of_genitive>-[?] leave a)`
+
+**10**  Peter goes, to Peter, a third time […] the sin, and the man
+`go Peter to-Peter +three [?]-+sin and somebody`
+
+> Matthew 18:15–17, and the codex counts the three steps with its own
+> ordinals: go alone first, then take two, then a third time. Line 1 is
+> *lovest thou me more than these*, John 21:15, put in front of it.
