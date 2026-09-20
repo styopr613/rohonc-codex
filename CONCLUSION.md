@@ -155,7 +155,7 @@ Jericho, the Kidron, the crown of thorns, the money changer, the leper, the
 paralytic, the host of the Eucharist, and the sign for the book's own author's
 name.
 
-Two hundred and eighty-four of the 441 folios are now translated, and two
+Two hundred and ninety of the 441 folios are now translated, and two
 passages in them settle what kind of book it is. Folios 48 recto and verso are the Reproaches sung on Good
 Friday, and folio 52 verso is Longinus, the blind soldier healed by the blood
 from the spear, who appears in no gospel. It is a late-medieval devotional
