@@ -6279,3 +6279,238 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > five brethren... they have Moses and the prophets.* The codex counts the
 > rich man's three cries with its own ordinals, second on line 5 and third on
 > line 11.
+
+## 090v — neither will they be persuaded, though one rose from the dead
+
+**1**  the rich man; father Abraham […] the prophet preaches, believe […]
+`rich father-<suffix_of_divine_name> Abraham [?] prophet preach believe [?]`
+
+**2**  […] good, the man Lazarus, believing
+`[?] good somebody-Lazarus believe-exist-exist`
+
+**3**  and the body rose from the dead, the poor man. Said father Abraham, in turn who […]
+`and body from die stand_up-somebody-?the_poor_man say father-<suffix_of_divine_name> Abraham in_turn-who [?]`
+
+**4**  the brethren, the prophet, let the brethren believe, and the preaching
+`brother prophet believe-brother-somebody and preach`
+
+**5**  and good, from the man […] […] the brethren believe; and the body
+`and good from somebody-+the_Baptist-[?] [?] exist-exist believe and body`
+
+**6**  rose from the dead, the man Lazarus […] this holy day. Here ends this holy gospel.
+`from die stand_up-somebody-Lazarus [?]-this-holy-+day end this holy-gospel`
+
+**7**  Here begins this holy gospel, written by
+`begins this holy-gospel write`
+
+**8**  holy John, in the second chapter of
+`holy-John inside two chapter | <preposition_of_genitive>`
+
+**9**  his writing. At that time Nicodemus came
+`write time go Nicodemus`
+
+**10**  by night to Lord Jesus,
+`inside night to-Lord-Jézus`
+
+**11**  because he feared the Jews; and
+`because ~have Jew(ish) and`
+
+**12**  […] to the Lord he came
+`[?] to-Lord go-this`
+
+> Luke 16:31, *neither will they be persuaded, though one rose from the
+> dead*, which the codex reads back onto Lazarus. Then Nicodemus. **The
+> citation on line 8 says John chapter two and the passage is John 3; it is
+> the one miss in the citation test.**
+
+## 091r — except a man be born again
+
+**1**  but by night to the Lord came Nicodemus. And then Nicodemus: O.
+`a) inside night to-Lord go-Nicodemus +and_then Nicodemus oh.`
+
+**2**  Nicodemus answered, this Nicodemus, this Lord Nicodemus believes.
+`<preposition_of_genitive>-Nicodemus +answered this-Nicodemus this-Lord believe-Nicodemus.`
+
+**3**  […] this Lord is truly the Son of the living God, because this Lord goes to heaven.
+`[?] this-Lord righteous(ly) son living God because this-Lord go on-heaven.`
+
+**4**  In turn […] and the Lord, this Lord truly the Son of the living God. And then
+`in_turn-[?] and-Lord this-Lord righteous(ly) son living God +and_then.`
+
+**5**  Lord Jesus, Nicodemus […] […] this Lord to you
+`Lord-Jézus Nicodemus [?] [?] this-Lord you.`
+
+**6**  speaks: and the man […] who believes in the Lord […] a second time
+`speak and somebody [?] exist to-Lord believe [?] two.`
+
+**7**  is born into this world, that one man is saved; but every man
+`be_born on-this ?world one somebody be_saved a) each,_every-somebody`
+
+**8**  is damned. Said Nicodemus, answering, how can this be, who a second time
+`be_damned say Nicodemus +answered how?-this can exist who to-two-before`
+
+**9**  a second time from his mother goes, Nicodemus, and a second time is born into this world?
+`two from <preposition_of_genitive> mother go-Nicodemus and two be_born-Nicodemus on-this ?world.`
+
+**10**  For this, thanks. Said Lord Jesus, Nicodemus […] this Lord, this
+`this thanks say Lord-Jézus Nicodemus [?] this-Lord this-donkey-to`
+
+> John 3:3–4, *except a man be born again, he cannot see the kingdom of God.
+> How can a man be born when he is old? can he enter the second time into his
+> mother's womb, and be born?*
+
+## 091v — born of water and of the Spirit, and God so loved the world
+
+**1**  this host, this Nicodemus, a second time born of his mother; but
+`this host this-Nicodemus two be_born from <preposition_of_genitive>-Nicodemus mother a)`
+
+**2**  this Lord speaks: then, born a second time, the man Nicodemus, of water and
+`this-Lord speak then two be_born-somebody-Nicodemus from water and`
+
+**3**  of the Holy Spirit, that one man Nicodemus is saved; but
+`from holy-spirit one somebody-Nicodemus be_saved a)`
+
+**4**  every man Nicodemus is damned. Said Lord Jesus, Nicodemus, in turn then
+`each,_every-somebody-Nicodemus be_damned say Lord-Jézus Nicodemus in_turn | then`
+
+**5**  this Lord to you began, the Lord, to preach of heaven
+`exist this-Lord you begin-Lord preach from-heaven`
+
+**6**  and earth, how you from […] left, Nicodemus
+`land how? you from [?] | leave-Nicodemus`
+
+**7**  the man; then can this world, Nicodemus, the man […]
+`somebody then-exist this ?world can Nicodemus-somebody [?]`
+
+**8**  he left, the brethren; this Lord to you preached, said the Lord
+`leave-to-leave ?brethren this-Lord you preach-Lord say | Lord`
+
+**9**  Jesus, Nicodemus: so did you love the Father, his God of heaven
+`Jézus Nicodemus [?]-+one you love father <preposition_of_genitive>-Lord God heaven`
+
+**10**  but the Father's only begotten Son, Jesus, that is, to the Lord, so
+`a) <preposition_of_genitive>-father-<suffix_of_divine_name> only_one son Jézus that_is to-Lord [?]-+one`
+
+**11**  did you love the Father, said Lord Jesus; and […] and the man, the Lord
+`you love father-<suffix_of_divine_name> say Lord-Jézus and [?] and somebody Lord`
+
+> John 3:5, *except a man be born of water and of the Spirit*, then John
+> 3:16, *God so loved the world, that he gave his only begotten Son*, which
+> line 10 gives with the word *only begotten* intact.
+
+## 092r — that whosoever believeth should not perish
+
+**1**  believes in the Son of the Father, the only begotten, Lord Jesus Christ, and one
+`believe son <preposition_of_genitive>-father-<suffix_of_divine_name> only_one Lord-Jézus-Christ and one`
+
+**2**  man Nicodemus is saved; but every man Nicodemus is damned. Said
+`somebody-Nicodemus be_saved a) each,_every-somebody-Nicodemus be_damned say`
+
+**3**  Lord Jesus, Nicodemus […] to the Lord goes the Father, his God of heaven;
+`Lord-Jézus Nicodemus [?] to-Lord go father <preposition_of_genitive>-Lord God heaven`
+
+**4**  he loved this Lord; this people he judges, but rather to the Lord goes the Father, the brethren, this Lord
+`love this-Lord this ?people judge ?but_rather to-Lord go father-<suffix_of_divine_name> ?brethren this-Lord`
+
+**5**  saved this world by his death; and […] is, to the Lord
+`this ?world be_saved on-<preposition_of_genitive>-Lord die and [?] exist to-Lord`
+
+**6**  believes, this man Nicodemus, and his Father
+`believe this somebody-Nicodemus exist and <preposition_of_genitive>-Lord father-<suffix_of_divine_name>`
+
+**7**  believes more than these; this one, one God. Said Lord Jesus […]
+`believe ?more_than_these this +one one God say Lord-Jézus [?]`
+
+**8**  one […] among you […] from
+`one ~exist-[?] among you [?] from`
+
+**9**  the dog and […] […] […] not; and said
+`dog and [?] [?] [?] not and say`
+
+**10**  Lord Jesus, and the man Nicodemus who does evil among you
+`Lord-Jézus and +<subject_marker> do_evil-somebody-Nicodemus among you`
+
+> John 3:16–18, *that whosoever believeth in him should not perish... he that
+> believeth not is condemned already.*
+
+## 092v — men loved darkness rather than light
+
+**1**  from the man Nicodemus who will not come to the light, but loves the darkness,
+`from somebody-Nicodemus not_want on-light go a) darkness love`
+
+**2**  the man Nicodemus; said Lord Jesus, and the true man Nicodemus, from
+`somebody-Nicodemus say Lord-Jézus and +<subject_marker> righteous(ly)-somebody-Nicodemus from`
+
+**3**  the man Nicodemus, the light, the man Nicodemus loves, and all come to the light
+`somebody-Nicodemus light love-somebody-Nicodemus and each,_every on-light | go`
+
+**4**  the man Nicodemus. Here ends this holy gospel. The Lord, with all thy heart, Lord.
+`somebody-Nicodemus end this holy-gospel Lord-<suffix_of_divine_name> ?with_all_thy_heart Lord`
+
+**5**  Here begins this holy gospel
+`begins this holy-gospel`
+
+**6**  written by holy Luke in
+`write holy-Luke inside`
+
+**7**  the fourteenth […] in his
+`14 [?] inside | <preposition_of_genitive>`
+
+**8**  writing. At that time
+`write time`
+
+**9**  Lord Jesus said to his apostles
+`say Lord-Jézus apostle`
+
+**10**  and to the Jewish
+`<preposition_of_genitive>-Lord and Jew(ish)`
+
+**11**  people: then
+`people-chapter | then-exist`
+
+**12**  a rich lord made, one rich man, many […]
+`rich-Lord-<suffix_of_divine_name> do, one rich somebody many [?]`
+
+> John 3:19–21, *men loved darkness rather than light.* Then the citation on
+> line 7 says **Luke chapter fourteen**, and what follows is the Great
+> Supper, Luke 14:16. That citation checks out.
+
+## 093r — a certain man made a great supper, and bade many
+
+**1**  And then the rich lord, among the rich lord's, the redeemer's day, three […]
+`and then-exist-rich-Lord-<suffix_of_divine_name> among-rich-Lord-<suffix_of_divine_name> redeemer-+day +three [?].`
+
+**2**  upon this […] said this rich lord to his living servant, go […]
+`on-this [?] say this-rich-Lord-<suffix_of_divine_name> <preposition_of_genitive>-Lord living-servant go-[?].`
+
+**3**  speak this word, go, the man; at that time all is finished, say.
+`this word speak-angel go-somebody time +<subject_marker> each,_every finished say.`
+
+**4**  This living servant, this […] […] lo, the living servant.
+`this-living-servant this [?] [?] lo living-servant.`
+
+**5**  Go to the rich lord's living man […] then the lord […]
+`go <preposition_of_genitive>-living-somebody-Lord-<suffix_of_divine_name> [?] then-chapter-Lord-<suffix_of_divine_name> [?]`
+
+**6**  of the lord […] said this first: not.
+`<preposition_of_genitive>-Lord-<suffix_of_divine_name> [?] say this first [?] not.`
+
+**7**  […] because […] a piece of ploughland; I must
+`[?] because [?] plough_land | want`
+
+**8**  […] go and see it, and I must, the ploughland […]
+`[?] +<subject_marker> [?] see and want plough_land [?].`
+
+**9**  he asks […] to speak […] he is to
+`ask_(for) [?] to-speak [?] exist-to`
+
+**10**  […] the lord; and said this second, lo.
+`[?] Lord-<suffix_of_divine_name> and say this two sense lo.`
+
+**11**  The living servant goes, the lord's living servant, this man
+`living-servant go <preposition_of_genitive>-living-servant Lord-<suffix_of_divine_name> this-somebody-sense`
+
+> Luke 14:16–19, *a certain man made a great supper, and bade many... and
+> they all with one consent began to make excuse. The first said unto him, I
+> have bought a piece of ground, and I must needs go and see it.* The codex
+> counts the excuses first, second, as the gospel does.

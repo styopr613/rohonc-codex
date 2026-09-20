@@ -978,7 +978,10 @@ follows. Seven were checked by hand:
     090v  John, second chapter      Nicodemus comes by night, ye must be born
                                     again                      John 3:1     OFF
 
-Seven of eight land on the right chapter of the right evangelist. The eighth
+    092v  Luke, fourteenth chapter  a certain man made a great supper, and
+                                    bade many                  Luke 14:16   OK
+
+Eight of nine land on the right chapter of the right evangelist. The eighth
 is off by one, and it is recorded as off rather than explained away. **A
 compiler who invents a script does not have to get the chapter numbers right,
 and this one mostly does.**
@@ -1009,7 +1012,7 @@ is offered as such.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 164
+With the rendering on the page it became possible to read it, and 170
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
