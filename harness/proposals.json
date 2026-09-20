@@ -569,5 +569,95 @@
   "tier": "C",
   "n": 102,
   "evidence": "Kiraly & Tokai gloss the doubled sign E540 E540 'want, will, auxiliary of future tense'. The single sign is not an entry but prefixes 48 word types the dictionary leaves undefined, in the position a future auxiliary takes. Read as a piece, not as a word: every host it unlocks is that host plus 'shall'"
+ },
+ "670ae0060788060270540": {
+  "gloss": "the Red Sea",
+  "tier": "B",
+  "n": 8,
+  "evidence": "'at that time Pharaoh the king went into [the Red Sea]' 187v:1; '[the Red Sea] flowed in upon Pharaoh the king' 187v:5 = Exodus 14"
+ },
+ "a104002b55203c4": {
+  "gloss": "sinners",
+  "tier": "C",
+  "n": 12,
+  "evidence": "ends in the sign read as sin, and stands where Luke 3 puts them: 'the farmers, the nations, were [sinners]' 117r:2; '[sinners], and John, to the disciples' 118r:2"
+ },
+ "520342": {
+  "gloss": "how shall we",
+  "tier": "C",
+  "n": 13,
+  "evidence": "one frame repeated as John the Baptist is questioned: 'the disciples were soldiers, [how shall we] be saved' 117r:4; 'the disciples were farmers, [how shall we] be saved' 117v:6 = Luke 3:10-14, what shall we do then"
+ },
+ "681ae0520250": {
+  "gloss": "inscription",
+  "tier": "C",
+  "n": 8,
+  "evidence": "'whose image, they said; this is the [inscription], the image' 203v:3, 203v:5 = Matthew 22:20, whose is this image and superscription"
+ },
+ "b26": {
+  "gloss": "the scribes",
+  "tier": "C",
+  "n": 8,
+  "evidence": "K&T's compound 916+b26 is glossed scribe: 'and [the scribes] would stone Saint Stephen the first martyr' 216r:9; 216v:10"
+ },
+ "5202da2da": {
+  "gloss": "creatures",
+  "tier": "C",
+  "n": 7,
+  "evidence": "both occurrences are the darkness at the crucifixion: 'this darkened, and all [creatures] bowed' 052v:3 and 058r:1, two lines before 'all creation mourned'"
+ },
+ "7c1910": {
+  "gloss": "likewise",
+  "tier": "C",
+  "n": 7,
+  "evidence": "'[likewise] the evil tree gives evil' 065v:6 = Matthew 7:18"
+ },
+ "060520444520ae0": {
+  "gloss": "was accused",
+  "tier": "C",
+  "n": 10,
+  "evidence": "'that steward [was accused], and then this steward' 169r:4, 169r:8 = Luke 16:1, the same was accused unto him"
+ },
+ "00b670ae0520ae0": {
+  "gloss": "apart",
+  "tier": "C",
+  "n": 9,
+  "evidence": "the same shape as 00b520ae0520ae0 read as apart: 'Peter, Master, how must this Lord teach [apart]' 074r:10"
+ },
+ "5405404b0": {
+  "gloss": "would say",
+  "tier": "C",
+  "n": 8,
+  "evidence": "K&T's doubled future auxiliary plus the speech root: 'that Stephen [would say], they stoned him' 217r:7"
+ },
+ "520b52011": {
+  "gloss": "from town to town",
+  "tier": "C",
+  "n": 10,
+  "evidence": "'town [from town to town], and his disciples taught and went' 175v:6, the same phrase as 520b52"
+ },
+ "570670ae0": {
+  "gloss": "sheep",
+  "tier": "B",
+  "n": 9,
+  "evidence": "'the ninety and nine [sheep]' 119v:4, in the Lost Sheep; 'follow in the herd' 064r:10. It is also the tail of 574570670ae0, which is why that sign sits three times in the Lost Sheep parable"
+ },
+ "574570670ae0": {
+  "gloss": "the lost sheep",
+  "tier": "B",
+  "n": 4,
+  "evidence": "574 prefixed to the sign read as sheep. Three of its four occurrences are the three places the lost sheep belongs in Luke 15:4-5 -- 119r:8, 119r:9, 119r:10 -- and the fourth, 103v:2, stands beside the word soul. Read early in this work and recorded in prose, but never entered here, so it rendered nowhere until now"
+ },
+ "520060131520": {
+  "gloss": "the poor man",
+  "tier": "C",
+  "n": 8,
+  "evidence": "the block is Dives and Lazarus, Luke 16:19-31: 'when the rich man was, this [poor man] asked' 088v:13; 'alms, and the [poor man] alms' 089r:1; 'the [poor man] would be fed with the crumbs at the rich man's table' 089r:4, 089r:5; 'father Abraham, Lazarus' 089v:5. It shares its first four glyphs with the sign read as 'the Baptist' and that tension is unresolved"
+ },
+ "520327": {
+  "gloss": "sorrow",
+  "tier": "C",
+  "n": 9,
+  "evidence": "always counted: 'five [sorrows], the Son of God, the first [sorrow]' 111r:1; 'the third [sorrow]' 111r:6; 'the fifth [sorrow]' 112v:3, with the Lord's eye deeply saddened two lines away at 111r:3"
  }
 }
