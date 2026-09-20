@@ -215,6 +215,17 @@ def main():
         g = nums(kc, str(k), 2, after="ceiling coverage")
         check(f"ceiling at k={k} is {want}%",
               len(g) == 2 and close(g[1], want) and f"{want}%" in flat, str(g))
+    kh = out("kthapax.txt")
+    g = nums(kh, "today", 4)
+    check("hapax support today: 60% median, 4.9% full",
+          len(g) == 4 and close(g[1], 60) and close(g[3], 4.9)
+          and "60% readable" in flat and "4.9%" in flat, str(g))
+    g = nums(kh, "+ all with 3+ occurrences", 4)
+    check("hapax support at ceiling: 83% median, 36.6% full",
+          len(g) == 4 and close(g[1], 83) and close(g[3], 36.6)
+          and "83%" in flat and "36.6% sit in a sentence" in flat, str(g))
+    check("ceiling overstatement corrected",
+          "not on decipherment" in flat and "said otherwise" in flat)
     lp = out("ktread_loop.txt")
     check("rejection loop recorded", "539 occurrences" in lp and "line-initial 72" in lp
           and "72 times and closes one 70" in flat and "Rejected." in flat)

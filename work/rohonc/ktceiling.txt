@@ -25,5 +25,7 @@ the best coverage any method could ever reach is
   10              152              77.8%
 
   2885 undefined codes occur exactly
-  once: 9.6% of the book, unfalsifiable by construction.
-  No method reaches them, and none ever will.
+  once: 9.6% of the book. They cannot be checked against
+  themselves. They can still be constrained by a sentence whose other
+  words are known -- see kthapax.txt -- so this is a ceiling on
+  self-verification, not on decipherment.

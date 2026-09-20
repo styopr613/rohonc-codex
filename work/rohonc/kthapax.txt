@@ -1,0 +1,8 @@
+WHAT SOLVING THE TESTABLE CODES DOES FOR THE UNTESTABLE ONES
+2885 hapax codes, 30124 tokens, coverage now 62.1%
+
+            dictionary state  coverage   median  >=80% of line    100%
+                       today     62.1%      60%          20.7%    4.9%
+          + top 50 undefined     73.1%      71%          39.2%   12.8%
+                   + top 200     79.1%      80%          51.9%   21.8%
+   + all with 3+ occurrences     86.4%      83%          67.3%   36.6%

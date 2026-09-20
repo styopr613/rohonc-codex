@@ -418,7 +418,17 @@ Its commonest followers are "in" (44), the numeral delimiter (39) and "and"
 **Rejected.**
 
 Two confident readings, two rejections, both on internal evidence alone, in two
-cycles. Rejection is cheap and reliable exactly where generation is not, which
+cycles. Three more followed on the two commonest undefined codes, with the
+frame evidence `ktsolve.py` assembles. The first follows "say" 66 times and
+"show" at 25x above chance, which reads as a quotative — but only 70 of its 539
+occurrences sit next to a speech verb, so the 2.16x lift is real and the
+absolute rate kills it. The second follows the numeral delimiter in 329 of its
+468 occurrences, which reads as a digit — but it precedes a delimiter only 4
+times, and a digit would appear on both sides, so it is something
+sentence-initial instead. A fixed pair of undefined codes occurring together
+127 times looked like a Passion formula in the folios where its contexts were
+first printed; across the whole book it is spread through every band but one,
+so it is grammatical, not narrative. Rejected, rejected, rejected. Rejection is cheap and reliable exactly where generation is not, which
 is the asymmetry the whole method runs on. It also did not converge: after two
 cycles on the single most testable code in the book, there is still no answer,
 and 127 of that code's appearances sit beside one other undefined code -- a
@@ -433,11 +443,25 @@ whole codex. A guess about them can never be carried anywhere, so it can never
 be rejected -- not by this harness and not by anyone.
 
 That is general. `ktceiling.py` measures it: 2,885 undefined codes occur exactly
-once, carrying 9.6% of the book, unfalsifiable by construction. If a code needs
-three occurrences to be testable at all, the best coverage any method could
-ever reach is 86.4%; at five occurrences, 82.3%. Picture captions concentrate
-the untestable, because a caption names what appears once. Tokai read *names*
-off the illustrations, and names recur; one-off scene vocabulary does not.
+once, carrying 9.6% of the book. If a code needs three occurrences to be
+checked against itself, that kind of verification tops out at 86.4% coverage;
+at five occurrences, 82.3%. Picture captions concentrate the one-off codes,
+because a caption names what appears once — which is why Tokai read *names* off
+the illustrations, names being the thing that recurs.
+
+**That is a ceiling on self-verification, not on decipherment, and an earlier
+version of this document said otherwise.** A one-off code cannot be carried to
+its other occurrences because it has none, but it is still constrained by the
+sentence around it, by a gospel parallel where the passage localises, and by
+any picture beside it. Those constraints tighten as the rest of the dictionary
+fills in, so the residue is not a wall but the last item in a sequence.
+`kthapax.txt` measures the effect: today a one-off code sits in a line 60%
+readable and only 4.9% sit in a fully readable sentence; solve every code with
+three or more occurrences and the median goes to 83%, two thirds sit in lines
+at least 80% readable, and **36.6% sit in a sentence where every other word is
+known**. That is the order the work has to be done in, and it is how Linear B
+finished — the one-off place names fell out once the grammar and common words
+were settled.
 
 The failures are informative. The codex is a paraphrase drawing on apocrypha,
 Marian prayer and material Király calls "without known parallel", glossed to
@@ -499,7 +523,8 @@ repository staff; with it, this would probably be feasible.
     python ktdistrib.py       # the fourth and fifth, distributional
     python ktread.py --hide 6 --skip 45   # the sixth, reading from context
     python ktreject.py        # the seventh, rejection scored distributionally
-    python ktceiling.py       # what any method could ever reach
+    python ktceiling.py       # the ceiling on self-verification
+    python ktsolve.py 3       # frame evidence for the top undefined codes
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 
