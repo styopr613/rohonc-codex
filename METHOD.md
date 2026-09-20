@@ -71,7 +71,19 @@ last three "Translate" commits; read their diffs to see what a batch is.
   `*` marks a translated folio.
 - `harness/ktgap.py --page FOLIO` / `--wide HEX` — lines one word short.
 - `harness/ktresidue.py` — unread words cut into readable pieces plus one
-  unknown, ranked by how many words each unknown blocks. `--audit` ranks
+  unknown, ranked by how many words each unknown blocks.
+- `harness/ktdouble.py` — **the passages the book writes twice.** It finds
+  every run of eight or more consecutive word types that occurs in two
+  places sixty tokens apart, merges them and prints the longest first.
+  There are 155 such runs. The creation narrative runs twice (002v-003v and
+  121v-123r), the Adam and Eve narrative twice (007r and 125r onward), John
+  16 twice (068v and 080r), the Bread of Life twice (030v and 095r), and
+  the Mark 16:16 creed four times. Use it before translating any folio:
+  `ktdouble.py --show 125r` prints both copies of every run on that page
+  side by side. The two copies are never equally readable, so the better
+  one reads the other's gaps, and a sign standing in the matching slot of a
+  parallel sentence is proved the way a formula slot is proved. That is
+  tier A evidence, not a guess. `--audit` ranks
   every existing reading by blast radius.
 
 ## The loop, per batch of six folios
@@ -94,7 +106,12 @@ last three "Translate" commits; read their diffs to see what a batch is.
    stayed, shed his blood, found, bound up, the Samaritan: fourteen tier A
    readings, each checked at every occurrence by their own citation list.
    When their citation names a line and the only unread word on that line
-   is yours, that word is theirs. Enter it tier A and say so.
+   is yours, that word is theirs. Enter it tier A and say so. When TWO
+   words on the line are unread and one citation covers them, you cannot
+   tell which they meant: leave both and say so on the page. That happened
+   twice, at 112v:1 and 114v:3.
+   Then run `ktdouble.py --show FOLIO`. If the page is a second copy of a
+   page elsewhere, read them together.
 4. **Translate the page whole,** not line by line. If a line makes no sense
    against the passage, the reading of something in it is wrong. The user's
    rule: *where it makes no sense it is either a flag and unique, or more
