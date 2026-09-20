@@ -521,6 +521,16 @@ def main():
     check("refinement: selected rule is proper names, dev 28.6%",
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
+    g = nums(kt, "proposed here", 2)
+    check("proposals: 1040 tokens = 3.5% rendered +word",
+          len(g) == 2 and g[0] == 1040 and close(g[1], 3.5, .02), str(g))
+    g = nums(kt, "lines with every word read", 2)
+    check("proposals: 1278 lines fully read with them",
+          len(g) == 2 and g[0] == 1278 and close(g[1], 29.2, .02), str(g))
+    check("proposals: file has tier A entries with evidence",
+          os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
+          and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
+
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 

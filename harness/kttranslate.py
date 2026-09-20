@@ -34,6 +34,8 @@ import corpus
 import ktcoverage as C
 import ktdict
 import ktvariant as V
+
+PROPOSALS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")
 import ktsegment as S
 
 OUT = os.path.join(os.path.dirname(corpus.DATA), "work", "rohonc", "translation")
@@ -89,24 +91,42 @@ def word(c, gl, full):
     return clean(ss[0]) if not full else "/".join(clean(x) for x in ss)
 
 
-def render_token(t, gl, seg, full, var):
+def render_token(t, gl, seg, full, var, prop=None):
     if t in gl:
         return word(t, gl, full)
     if t in seg:
         return "-".join(word(p, gl, full) for p in seg[t])
     if t in var:
         return "~" + word(var[t], gl, full)
+    if prop and t in prop:
+        return "+" + prop[t].replace(" ", "_")
     return "[?]" if not full else f"[?{hx(t)}]"
 
 
-def kind(t, gl, seg, var):
+def kind(t, gl, seg, var, prop=None):
     if t in gl:
         return "one" if len(gl[t]) == 1 else "many"
     if t in seg:
         return "cut1" if all(len(gl[p]) == 1 for p in seg[t]) else "cut"
     if t in var:
         return "var"
+    if prop and t in prop:
+        return "prop"
     return "none"
+
+
+def load_proposals(tiers=("A", "B")):
+    """{code: gloss} for the readings in proposals.json, tiers A and B only."""
+    if not os.path.exists(PROPOSALS):
+        return {}
+    raw = json.load(open(PROPOSALS, encoding="utf-8"))
+    out = {}
+    for h, v in raw.items():
+        if h.startswith("_") or v.get("tier") not in tiers:
+            continue
+        code = "".join(chr(0xE000 + int(h[i:i + 3], 16)) for i in range(0, len(h), 3))
+        out[code] = v["gloss"]
+    return out
 
 
 HEADER = """\
@@ -186,6 +206,36 @@ def main():
     print(f"  no reading                   {kinds['none']:6d}  {stats['pnone']:5.1f}%")
     print(f"lines                          {lines:6d}")
     print(f"  every word read              {full_lines:6d}  {stats['pfull']:5.1f}%")
+
+    # ---- a third rendering with this project's own proposed readings applied,
+    # marked with a plus so they can never be mistaken for K&T's. Tiers A and B.
+    prop = load_proposals()
+    kp = Counter()
+    fl = 0
+    for p in doc:
+        for ln in p.lines:
+            toks = [t for run in ln for t in run]
+            if not toks:
+                continue
+            ks = [kind(t, gl, seg, var, prop) for t in toks]
+            kp.update(ks)
+            fl += all(k != "none" for k in ks)
+    path = os.path.join(OUT, "rohonc_reading_plus.txt")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(HEADER.format(mode="First sense only, PLUS this project's proposed readings "
+                              "marked +word (harness/proposals.json, tiers A and B).", **stats))
+        for p in doc:
+            f.write(f"\n\n=== {p.page} ===\n")
+            for i, ln in enumerate(p.lines, 1):
+                runs = [" ".join(render_token(t, gl, seg, False, var, prop) for t in run)
+                        for run in ln if run]
+                f.write(f"{i:2d}  " + " | ".join(runs) + "\n")
+    print()
+    print("WITH THIS PROJECT'S PROPOSED READINGS (tiers A and B), marked +word")
+    print(f"  proposed here                {kp['prop']:6d}  {kp['prop']/tot*100:5.1f}%")
+    print(f"  no reading                   {kp['none']:6d}  {kp['none']/tot*100:5.1f}%")
+    print(f"  lines with every word read   {fl:6d}  {fl/lines*100:5.1f}%")
+    print(f"wrote {path}")
     return 0
 
 

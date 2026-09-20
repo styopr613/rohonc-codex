@@ -1,4 +1,7 @@
-# NEXT — Rohonc translation (updated 2026-09-20)
+# NEXT — read METHOD.md first
+
+**The method for reading unread signs is in `METHOD.md`.** Do that loop and the translation together, as METHOD.md says.
+
 
 ## Where it stands
 
