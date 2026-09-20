@@ -107,7 +107,14 @@ last three "Translate" commits; read their diffs to see what a batch is.
      stemmed to priest, priest to pri) and reported kissed and priests as
      free while kiss and priest were taken. Fixed to a fixed point; if the
      free list ever offers a word whose base form is taken, that is the bug
-     to look for.
+     to look for. The same fault came back in a second form on 2026-09-20:
+     the stemmer had no nominalising rules, so *judgment*, *appearance* and
+     *righteousness* reported free while *judge*, *appear* and *righteous*
+     were all taken, and a reading was nearly made on one of them. Endings
+     like -ment, -ance, -ness and -tion are stripped first now, longest
+     first, and the handful the rules cannot reach (salvation, forgiveness,
+     belief, wisdom, truth, life, death, creature) are aliased by hand, each
+     one checked against the dictionary before it went in.
    - **The King James book names do not survive a regex.** The first version
      of ktleft named each book by pattern-matching the Gutenberg heading,
      which merged 1 and 2 Kings, merged the gospel of John with the three

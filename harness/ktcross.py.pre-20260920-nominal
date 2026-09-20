@@ -56,14 +56,7 @@ theirs himself herself itself themselves myself yourself shall may might must
 unto thee thou thy thine ye upon into out up down over under again further once
 here there about against between during before after above below off""".split())
 
-# Nominalising endings go FIRST, longest first, so judgment reaches judge and
-# appearance reaches appear. Without them the pool called judgment, appearance,
-# righteousness and salvation free while judge, appear, righteous and save were
-# all taken, which is the same inflation as the KJV/Douay one and just as
-# silently wrong. Over-stemming errs towards TAKEN, the safe direction.
-SUFFIX = ("ousness", "iveness", "fulness", "ination", "ation", "ition",
-          "ance", "ence", "ment", "ness", "tion", "sion", "ity", "ful",
-          "iest", "ieth", "ing", "eth", "est", "ies", "ed", "es", "s", "e")
+SUFFIX = ("iest", "ieth", "ing", "eth", "est", "ies", "ed", "es", "s", "e")
 
 # Irregular forms the crude stemmer cannot reach. Without these the free list
 # offers came, went, took, saw, said and spake as words the book has never
@@ -118,16 +111,6 @@ IRREG = {
     "leapt": "leap", "crept": "creep", "swept": "sweep", "slept": "sleep",
     "felt": "feel", "dealt": "deal", "meant": "mean", "built": "build",
     "lent": "lend", "bent": "bend", "rent": "rend", "shed": "shed",
-    # Nominalisations the suffix rules cannot reach, each checked against the
-    # dictionary: the base form is one K&T actually gloss, so the derived word
-    # is not a word the book has never said.
-    "salvation": "save", "saviour": "save", "savior": "save",
-    "forgiveness": "forgive", "belief": "believe", "wisdom": "wise",
-    "temptation": "tempt", "creation": "create", "creature": "create",
-    "redemption": "redeem", "damnation": "damn", "confession": "confess",
-    "knowledge": "know", "truth": "true", "verily": "true", "verity": "true",
-    "life": "live", "living": "live", "alive": "live",
-    "death": "die", "dead": "die", "darkness": "dark",
 }
 
 
