@@ -1312,15 +1312,15 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 
 === 055r ===
  1  inside [?] chapter-leave <preposition_of_genitive>-write time then-exist
- 2  go [?] [?] burial_chamber Christ because-exist prepare
+ 2  go +the_three_Marys [?] burial_chamber Christ because-exist prepare
  3  [?] [?] this-cut_off [?] [?] Jézus
  4  Mary Salome and Mary James mother and
  5  Mary Magdalene and then-exist this-two-Mary [?] this-two-Mary
  6  among [?] [?]
  7  [?] from stone on-burial_chamber and then-exist | [?]
- 8  Mary to-burial_chamber Christ and see [?] [?]
- 9  +<subject_marker> burial_chamber from [?] and then-exist [?] inside this
-10  [?] and inside-to-go [?] and
+ 8  Mary to-burial_chamber Christ and see +the_three_Marys [?]
+ 9  +<subject_marker> burial_chamber from [?] and then-exist +the_three_Marys inside this
+10  [?] and inside-to-go +the_three_Marys and
 11  [?] see [?] Jézus a) see one
 
 
@@ -1329,7 +1329,7 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
  2  [?] [?] Jézus and then-exist Mary through
  3  startle because rather-Mary [?] +<subject_marker> how? ghost
  4  +and_then angel do_not [?] [?]
- 5  [?] through startle +rise mourn to-Lord from Jézus
+ 5  +the_three_Marys through startle +rise mourn to-Lord from Jézus
  6  execute +rise [?] a) [?]
  7  inside [?] and [?]
  8  <preposition_of_genitive>-Lord apostle and Peter [?] end this
@@ -1360,15 +1360,15 @@ declared variant spellings (1.2%), 6374 have no reading (21.2%).  Lines with eve
 === 057r ===
  1  Magdalene see-Magdalene Master inside [?] from gardener
  2  time leave Lord-Jézus-Christ middle living
- 3  among [?] Lord among this sister
+ 3  among +the_three_Marys Lord among this sister
  4  Jerusalem +and_then Lord-Jézus commandment God among
  5  you <preposition_of_genitive>-Lord have_mercy somebody to and believe
  6  inside Lord and inside <preposition_of_genitive>-Lord from father-<suffix_of_divine_name> [?]
  7  chapter-oh amen +and_then Lord-Jézus +<subject_marker>
- 8  [?] see-Mary inside burial_chamber brother-chapter
+ 8  +the_three_Marys see-Mary inside burial_chamber brother-chapter
  9  from Jézus execute and say Mary Magdalene [?]
 10  Lord-Mary see-Mary +rise on-die and
-11  leave Lord-Jézus-Christ among [?] this apostle holy-gospel
+11  leave Lord-Jézus-Christ among +the_three_Marys this apostle holy-gospel
 
 
 === 057v ===

@@ -185,5 +185,17 @@
   "tier": "C",
   "n": 4,
   "evidence": "all four are in the interrogation in Eden: 'the Lord God said, why, Eve, [hast thou done this]' 001v:8, 001v:9, and 001v:5, 001v:6 = Genesis 3:13"
+ },
+ "060060060607": {
+  "gloss": "the three Marys",
+  "tier": "B",
+  "n": 8,
+  "evidence": "three strokes plus K&T's sign for Mary. All 8 occurrences are in the tomb and resurrection scenes: 'the [three Marys] went to the tomb of Christ' 055r:2; the angel addressing them, 'be not afraid, he is risen, whom ye mourn' 055v:5; 055r:8,9,10 and 057r:3,8,11. Mark 16:1 names exactly three women and the codex names them two lines earlier at 055r:4"
+ },
+ "540ae0a10ae01f6": {
+  "gloss": "was named",
+  "tier": "C",
+  "n": 3,
+  "evidence": "'a blind soldier of Jerusalem, who [was named] — that soldier was Longinus' 052v:5-6; 'two merciful men of Jerusalem, who [was named] .. and the second Nicodemus' 053v:2. The third occurrence, 054r:5, does not fit and keeps this at C"
  }
 }

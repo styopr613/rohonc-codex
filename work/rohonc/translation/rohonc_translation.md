@@ -3807,3 +3807,199 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 
 **2**  and Mary would tell […]
 `and want say Mary from`
+
+## 057r — he stands among them
+
+**1**  Magdalene saw the Master in the form of a gardener.
+`Magdalene see-Magdalene Master inside [?] from gardener`
+
+**2**  At that time the Lord Jesus Christ stood in the midst, living,
+`time leave Lord-Jézus-Christ middle living`
+
+**3**  among the three Marys, the Lord, among these sisters
+`among +the_three_Marys Lord among this sister`
+
+**4**  of Jerusalem. And then the Lord Jesus [gave] the commandment of God among
+`Jerusalem +and_then Lord-Jézus commandment God among`
+
+**5**  you: his mercy to whoever believes
+`you <of>-Lord have_mercy somebody to and believe`
+
+**6**  in the Lord, and in his Father God […]
+`inside Lord and inside <of>-Lord from father-<divine> [?]`
+
+**7**  O! Amen. And then the Lord Jesus
+`chapter-oh amen +and_then Lord-Jézus +<subject_marker>`
+
+**8**  the three Marys; Mary saw within the tomb […]
+`+the_three_Marys see-Mary inside burial_chamber brother-chapter`
+
+**9**  […] Jesus whom they crucified; and Mary Magdalene said […]
+`from Jézus execute and say Mary Magdalene [?]`
+
+**10**  Mary saw the Lord risen from the dead; and
+`Lord-Mary see-Mary +rise on-die and`
+
+**11**  the Lord Jesus Christ stood among the three Marys […] the apostles. This holy gospel.
+`leave Lord-Jézus-Christ among +the_three_Marys this apostle holy-gospel`
+
+## 057v — an Old Testament prophecy, and Mark again
+
+**1**  Written by Saint […] the prophet,
+`write holy-<prophet>`
+
+**2**  the prophet, in the Old Testament, truly,
+`prophet <Old_Testament> righteous(ly)`
+
+**3**  the sixth chapter of his writing,
+`six chapter-leave <of>-write`
+
+**4**  and Saint Mark […]
+`in_turn holy-Mark [?]`
+
+**5**  it is written. Said Saint […] the prophet:
+`write say holy-<prophet>`
+
+**6**  because he saith […] it is found,
+`because say +<subject_marker> exist find`
+
+**7**  in the Old Testament is truly written this word: the Lord shall rise from the dead.
+`inside <Old_Testament> righteous(ly) write this word stand_up-Lord on-die-Lord`
+
+**8**  The King — thanks to the Lord […]; and the Lord Christ destroyed the evil one; and
+`king to-Lord thanks [?] and destroy Lord ~evil Christ and from`
+
+**9**  […] […] the evil one […] Lucifer. This is written |
+`[?] [?] ~evil can hide_oneself-angel +this_is write | to`
+
+**10**  Saint Mark, in the […] chapter of his writing: when the Lord
+`holy-Mark inside [?] chapter-leave <of>-write then-exist Lord`
+
+**11**  Christ upon the cross breathed out his soul, the earth quaked,
+`Christ +cross <of>-Lord soul breathe_out earth quake`
+
+**12**  the rocks and stones […]; the sun and the moon
+`rock stone this [?] sun and moon this`
+
+## 058r — the harrowing of hell
+
+**1**  were darkened; and all […] […] humbled themselves; and all creation mourned
+`eclipse and each,_every [?] [?] this humble and each,_every create mourn`
+
+**2**  when Christ was crucified. And four hours
+`then-exist Christ +crucified and two-two hour`
+
+**3**  the Lord Jesus suffered upon the cross; and the Lord within the tomb | the apostles laid him,
+`+cross suffer Lord-Jézus and Lord inside burial_chamber | put-apostle`
+
+**4**  […] and then they laid the Lord within the tomb; and
+`Mary-angel and then-exist-Lord inside burial_chamber lay Lord and`
+
+**5**  at that hour there came from God the Father in heaven,
+`hour time go from-father God heaven`
+
+**6**  from the Father, an angel into […] the Lord Jesus; and
+`on-<of>-father angel inside [?] Lord-Jézus and`
+
+**7**  […] […] and the angel within the tomb […]
+`[?] from [?] in_turn angel inside burial_chamber [?]`
+
+**8**  and the Lord went […], and destroyed the evil one; and […]
+`in_turn to-Lord go-Lord [?] and ~evil destroy and [?]`
+
+**9**  the people who died within a hundred years, and within | five
+`people die inside one hundred-year and inside | +five`
+
+**10**  […] and within […] and […] all the prophets
+`[?] and inside [?] and [?] each,_every prophet`
+
+**11**  went into hell; and […] three souls, all […] the Lord went,
+`go on-netherworld and [?] +three soul each,_every [?] go Lord`
+
+**12**  and the three souls within the evil one's […] the Lord |
+`in_turn +three soul inside ~evil [?] Lord | [?]`
+
+## 058v — Adam's soul kneels to the Virgin
+
+**1**  Saint Augustine the doctor: within many years, and one soul […]
+`holy-Augustine-church_father inside many-to-year and one soul [?]`
+
+**2**  went into the […] land; but when the Lord
+`~go inside [?] land a) then-exist to-Lord`
+
+**3**  went to the souls, the Lord, and […] three souls
+`to-soul-soul-soul-soul-soul go Lord and [?] +three soul`
+
+**4**  […] […] the Lord went to the souls; and the Lord appeared
+`[?] [?] to-go Lord soul and Lord appear Lord`
+
+**5**  to the blessed Virgin Mary; and Adam's soul knelt
+`to-happy virgin-Mary and kneel_(down) ~Adam soul`
+
+**6**  before the blessed Virgin Mary; and the maiden […]
+`before to-happy virgin-Mary and girl [?]`
+
+**7**  prayed; and blessed the blessed Virgin Mary;
+`ask_(for) and bless-year to-happy virgin-Mary`
+
+**8**  and all the souls stood before the blessed
+`and to-soul-soul-soul each,_every leave before to-happy`
+
+**9**  Virgin Mary; and within […] the souls, the Lord, the souls;
+`virgin-Mary and inside [?] soul Lord soul`
+
+**10**  and the Lord went to the souls; and then twenty-five(?)
+`and go Lord soul and then-exist two-ten-ten +five`
+
+**11**  hours; and this was […] the sixth hour.
+`hour and this out(ward) [?] six hour`
+
+> The descent into hell, from the Gospel of Nicodemus, with Augustine cited
+> by name. Adam's soul kneeling to the Virgin is later devotional material,
+> not the Gospel of Nicodemus.
+
+## 059r — one line
+
+**1**  And on the third day the Lord Jesus Christ rose from the dead.
+`to-and +on_the_third_day from die stand_up Lord-Jézus-Christ`
+
+## 059v — the road to Emmaus
+
+**1**  Here begins this holy gospel,
+`begins this holy-gospel`
+
+**2**  written by Saint Luke, in the first
+`write holy-Luke +one`
+
+**3**  [chapter] of his writing: at that time,
+`<of>-write time`
+
+**4**  when there went two
+`then-exist go two`
+
+**5**  apostles out of Jerusalem into a
+`apostle Jerusalem inside one`
+
+**6**  […] and |
+`in_turn-chapter-in_turn and | exist-chapter`
+
+**7**  […] was Emmaus; and then the two apostles […] of the living
+`[?] exist Emmaus and then-exist to-high-two-apostle from living`
+
+**8**  Lord Jesus; and then the two spoke of how the Lord
+`Lord-Jézus and then-exist two speak how?-Lord this-Lord`
+
+**9**  was truly a man, truly the Lord, preaching, and many
+`exist righteous(ly) somebody righteous(ly) Lord ~preach who-and-this-and`
+
+**10**  miracles he did […]; the two apostles; the Jews'
+`miracle do, [?] <of>-two-apostle Jew(ish)`
+
+**11**  chief crucified him. At that time there appeared
+`head execute time appear`
+
+**12**  to the two apostles the Lord Jesus, in the form of a traveller; and then
+`two-apostle Lord-Jézus shape,_form traveller and then-exist`
+
+> Luke 24:13–21, and the codex names Emmaus. As with the gardener, it
+> explains why they did not know him: he appeared in the form of a traveller.

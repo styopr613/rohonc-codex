@@ -952,7 +952,7 @@ until they are asked.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 91
+With the rendering on the page it became possible to read it, and 105
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The content was not what this project assumed. It is not a gospel harmony.
 
@@ -1009,14 +1009,14 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 31 signs are read
+in the book and keep it only if it survives all of them. 33 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
 decisive occurrences, graded A, B or C. Seventeen are A. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved" and "believe". Rendered into the book
 with a plus sign so they can never be mistaken for Kiraly and Tokai's, they
-take the share of lines where every word is read from 22.3% to 30.6%.
+take the share of lines where every word is read from 22.3% to 30.7%.
 
 **A third engine, and there is no floor.** A sign that occurs once cannot be
 checked at a second occurrence, and for a while this document treated that as
