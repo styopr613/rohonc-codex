@@ -6514,3 +6514,235 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > they all with one consent began to make excuse. The first said unto him, I
 > have bought a piece of ground, and I must needs go and see it.* The codex
 > counts the excuses first, second, as the gospel does.
+
+## 093v — I have bought five yoke of oxen
+
+**1**  then the lord; the man goes, of the lord […] said this
+`then-chapter-Lord-<suffix_of_divine_name> go-somebody-sense <preposition_of_genitive>-Lord-<suffix_of_divine_name> [?] say this`
+
+**2**  second man, this man cannot
+`two somebody-sense this-somebody-sense not`
+
+**3**  the man cannot, because the man has bought
+`can-somebody-sense because buy-somebody-sense`
+
+**4**  five yoke of oxen […] the man must
+`+five yoke sense [?] want-somebody-sense`
+
+**5**  the man goes […] the man must
+`go-somebody-sense [?] want-somebody-sense`
+
+**6**  […] thanks; he can […] […]
+`+<subject_marker> [?] thanks exist can [?] | [?]`
+
+**7**  […] […] believe; this living servant, to speak
+`[?] [?] +believe this-living-~servant to-speak`
+
+**8**  the man, before […] the lord said
+`somebody-sense before [?] Lord-<suffix_of_divine_name> say`
+
+**9**  this third man, lo, the living servant goes, the lord's living servant
+`this +three somebody-thief lo living-servant go <preposition_of_genitive>-living-servant`
+
+**10**  the lord; this third man, then the lord, the man goes
+`Lord-<suffix_of_divine_name> this-somebody-thief then-chapter-Lord-<suffix_of_divine_name> go-somebody-thief`
+
+**11**  of the lord […] said this third, this man
+`<preposition_of_genitive>-Lord-<suffix_of_divine_name> [?] say this +three thief this-somebody-thief`
+
+> Luke 14:19, *I have bought five yoke of oxen, and I go to prove them.* The
+> codex counts the three excuse-makers with its own ordinals.
+
+## 094r — go out into the highways and hedges
+
+**1**  the man cannot, and the man must go
+`not can-somebody-thief and to-go-somebody-thief`
+
+**2**  because the man must go, he has married; this man cannot
+`because to-go-somebody-thief marry this-somebody-thief not`
+
+**3**  the man cannot, and the man must go, and this and that
+`can somebody-thief and to-go-somebody-thief and this-and-this`
+
+**4**  the man […] said, to speak, the man is to
+`somebody-thief [?] say to-speak somebody-thief exist-to`
+
+**5**  of […] the lord; and then, and one goes, the man
+`<preposition_of_genitive>-[?] Lord-<suffix_of_divine_name> and then-exist and one | go-somebody`
+
+**6**  […] upon this, to the supper, said this
+`[?] on-this to-dinner-to say this`
+
+**7**  lord, that is, the people; and the people spoke of the lord […]
+`Lord-<suffix_of_divine_name> that_is people-chapter and people-chapter from-speak <preposition_of_genitive>-Lord-<suffix_of_divine_name> [?]`
+
+**8**  and the lord said to the living servant, go out into the roadside and the way
+`and say <preposition_of_genitive>-Lord-<suffix_of_divine_name> living-servant go on-(on_the)_roadside and on-way`
+
+**9**  and into the town, and to the town gate, and.
+`and on-town and on-gate town and.`
+
+**10**  […] within, the one-eyed, the blind, to be
+`[?] inside only_one-+day-~exist blind-eye | to-exist-chapter`
+
+**11**  […] the body hungry, and […] within the one-eyed, and […]
+`[?] body be_hungry and [?] inside only_one-+day-~exist and [?].`
+
+> Luke 14:21–23, *go out quickly into the streets and lanes of the city, and
+> bring in hither the poor, and the maimed, and the halt, and the blind...
+> go out into the highways and hedges.*
+
+## 094v — blessed is he that shall eat bread in the kingdom of God
+
+**1**  […] he found; every man went, the angel, into the lord's house
+`[?] find each,_every somebody go-angel inside <preposition_of_genitive>-Lord-<suffix_of_divine_name> house`
+
+**2**  said this living servant, the angel, Lord, it is done; and the mountain top, which the Lord
+`say this living-servant-angel Lord do, and mountain_peak who-Lord`
+
+**3**  said […] said this living servant, the angel […]
+`say [?] say this living-servant-angel [?]`
+
+**4**  one to the place, and to the place the living servant would go out
+`one to-place and to-place want living-servant-angel on-out(ward)`
+
+**5**  and then there rose at the table one Jew, and
+`and then-exist +rise to-throne one Jew(ish) and`
+
+**6**  cried out: blessed is he, from within the one-eyed, the blind, because
+`shout-to happy from inside only_one-+day-~exist blind-eye because`
+
+**7**  the one-eyed, of the blind, heaven and earth; and said Lord
+`only_one-+day-~exist <preposition_of_genitive>-blind-eye heaven land and say | Lord`
+
+**8**  Jesus truly, speaking to the Jew, more than these, within the one-eyed, heaven
+`Jézus righteous(ly) speak-Jew(ish) ?more_than_these inside only_one-+day-~exist heaven`
+
+**9**  and earth. And then this rich man, the lord […] […]
+`land +and_then this-rich somebody-Lord-<suffix_of_divine_name> [?] [?]`
+
+**10**  many, to go, the mouth […]
+`many to-go-mouth | [?]`
+
+**11**  the thief upon the rich lord's […] Here ends this holy gospel.
+`thief on-<preposition_of_genitive>-somebody-rich-Lord-<suffix_of_divine_name> [?] end this holy-gospel`
+
+> Luke 14:15, *blessed is he that shall eat bread in the kingdom of God*,
+> which the gospel puts in the mouth of one that sat at meat, exactly as
+> line 5 does here.
+
+## 095r — the bread blessed at the supper
+
+**1**  Here begins this holy gospel
+`begins this holy-gospel`
+
+**2**  written by holy John
+`write holy-John`
+
+**3**  in the sixth chapter of his writing.
+`inside six chapter <preposition_of_genitive>-write`
+
+**4**  At that time Lord Jesus said
+`time say Lord-Jézus`
+
+**5**  to his apostles and the Jewish
+`apostle <preposition_of_genitive>-Lord and Jew(ish)`
+
+**6**  people: ye
+`people-chapter you`
+
+**7**  shall eat of his, for ever,
+`exist <preposition_of_genitive>-Lord exist-exist-chapter`
+
+**8**  and of his shall ye
+`eat and <preposition_of_genitive>-Lord to-to-this`
+
+**9**  drink. And then Lord Jesus, with his apostles, at the last supper, this
+`drink +and_then Lord-Jézus apostle <preposition_of_genitive>-Lord last dinner-to this`
+
+**10**  at the last supper; and Lord Jesus took, in turn, one baked
+`on-last dinner and grab Lord-Jézus inside why?-in_turn one baked`
+
+**11**  cake, and Lord Jesus blessed this bread
+`„cake” and +blessed Lord-Jézus this +bread.`
+
+**12**  and […] before the Lord, Lord Jesus put it. And
+`and [?] before Lord put Lord-Jézus and.`
+
+> **John chapter six is what the page says, and John 6 is the Bread of Life.
+> That citation checks out.** The word for the loaf is Kiraly and Tokai's
+> own, left in their quotation marks.
+
+## 095v — except ye eat my flesh and drink my blood
+
+**1**  Lord Jesus took wine, one cup, and water into the cup
+`grab Lord-Jézus wine one cup and water inside cup`
+
+**2**  poured, and Lord Jesus blessed the wine and the water; and
+`pour and +blessed Lord-Jézus wine and water and`
+
+**3**  the wine and water before the Lord, Lord Jesus put. And then Lord
+`wine water before Lord put Lord-Jézus +and_then | Lord`
+
+**4**  Jesus: and the man who eats this bread, this man
+`Jézus and somebody exist this +bread eat this somebody`
+
+**5**  is called his own […] and the man […]
+`exist <preposition_of_genitive>-Lord ?shall_be_called [?] and somebody [?]`
+
+**6**  who eats this bread […] believes in the Lord
+`this +bread eat [?] Lord believe`
+
+**7**  every man is damned […] and the man who believes in the Lord
+`each,_every somebody be_damned cut_off-[?] and somebody exist Lord believe`
+
+**8**  […] from the altar, from the thirty, the holy host
+`[?] from altar(table) exist from thirty holy-host`
+
+**9**  eats […] […] every man shall be
+`eat [?] [?] each,_every somebody exist`
+
+**10**  living, for ever, amen. And then the Jews:
+`living chapter-oh chapter-oh amen +and_then Jew(ish)`
+
+**11**  how can this be, his own, to be eaten, and his
+`how? exist-+say <preposition_of_genitive>-Lord ?shall_be_called eat and <preposition_of_genitive>-Lord`
+
+> John 6:52–54, *how can this man give us his flesh to eat?... except ye eat
+> the flesh of the Son of man, and drink his blood, ye have no life in you.*
+> The wine mixed with water on line 1 is the liturgy, not the gospel.
+
+## 096r — whoso eateth my flesh hath eternal life
+
+**1**  drink of this? This pleasing, which this Lord speaks, because food
+`to-to-this drink this pleasing who this-Lord speak because food`
+
+**2**  the Jews, who […] […] and his body to eat
+`Jew(ish) who-[?] [?] and <preposition_of_genitive>-Lord body eat`
+
+**3**  and to drink of it; which is hidden, said this Lord Jesus, who is the Lord
+`and to-to-this drink which-hide_oneself say this Lord-Jézus who-Lord-exist`
+
+**4**  […] but said Lord Jesus, believe; then
+`[?] a) say Lord-Jézus to-believe then-exist`
+
+**5**  the man believes in the Lord, to the Lord, he who is truly the Son
+`believe-somebody inside Lord to-Lord this-?he_who righteous(ly) son`
+
+**6**  of the living God. And then Lord Jesus: his own, this is
+`living God +and_then Lord-Jézus <preposition_of_genitive>-Lord ?shall_be_called +this_is`
+
+**7**  truly to eat, and of his, this is truly to drink
+`righteous(ly) eat and <preposition_of_genitive>-Lord to-to-this +this_is righteous(ly) drink`
+
+**8**  And then Lord Jesus: then the man who eats this bread
+`+and_then Lord-Jézus then-exist somebody this +bread eat`
+
+**9**  is a man, an apostle […] upon his, never […]
+`exist somebody apostle [?] on-<preposition_of_genitive>-Lord not-not [?]`
+
+**10**  is from eating, how the bread of […]
+`exist from eat how? +bread <preposition_of_genitive>-[?]`
+
+> John 6:55, *my flesh is meat indeed, and my blood is drink indeed*, which
+> line 7 gives in both halves.
