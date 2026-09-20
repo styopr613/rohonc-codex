@@ -2504,3 +2504,251 @@ of them.
 > fourth is at 103v:2 beside the word *soul*. "Lost" works in all four. That
 > is Király and Tokai's own method — carry a guess to every occurrence and
 > keep it only if it survives — and this guess survives.
+
+---
+
+*From here on, words marked `+word` in the gloss are this project's own
+readings from `harness/proposals.json`, not Király and Tokai's.*
+
+## 036r — the third cry, and Jesus of Nazareth
+
+**1**  All the Jews fell backward […] the Lord Jesus […] […]
+`each,_every Jew(ish) back bow_down [?] Lord-Jézus [?] [?]`
+
+**2**  […] hidden […] staves; and […] […] and the
+`[?] hide_oneself <of>-club and [?] [?] and <of>`
+
+**3**  Jews' staves […] because | the Lord
+`Jew(ish) club [?] inside why?-in_turn because | Lord`
+
+**4**  Jesus […] […] God his Father, to the Jewish
+`Jézus [?] [?] father-<divine> <of>-Lord to Jew(ish)`
+
+**5**  people; and […] […]; and a third time he cried | the Lord
+`people ~and [?] [?] and +three shout | Lord`
+
+**6**  Jesus: Whom seek ye? The Lord's […] the Jews;
+`Jézus [?] search <of>-Lord Jew(ish)`
+
+**7**  and the Jews cried, they answered:
+`and shout Jew(ish) +say +answered`
+
+**8**  Jesus of Nazareth. And the Lord Jesus cried: I am he.
+`Jézus +Nazareth and shout Lord-Jézus from this-Lord`
+
+**9**  If ye seek the Lord — the Jews. And then the Lord Jesus cried:
+`if Lord search Jew(ish) +and_then shout Lord-Jézus`
+
+**10**  Take me, ye Jews, for I go […] to God my Father.
+`grab Jew(ish) Lord because go [?] <of>-Lord father-<divine>`
+
+**11**  And then the Jews […] the Jews, the Lord Jesus […]
+`and then-exist ~Jew(ish) from-leave-leave Jew(ish) Lord-Jézus [?]`
+
+> The exchange runs three times here, and John 18 gives it twice with the
+> third cry implied. "Jesus of Nazareth" is the answer, and it is the sign
+> this project read as Nazareth on its six occurrences.
+
+## 036v — Malchus, and the ear put back
+
+**1**  He cut off […] […] the ear of one of the Jews,
+`cut_off [?] [?] ear one Jew(ish)`
+
+**2**  and that Jew was Malchus. And then
+`and [?] Jew(ish) exist Malchus +and_then`
+
+**3**  the Lord Jesus [said]: Peter, Peter, […] thou hast cut off […] because
+`Lord-Jézus Peter Peter [?] cut_off [?] because and`
+
+**4**  the man Peter […] cut off from […]
+`somebody Peter [?] cut_off from [?]`
+
+**5**  […] […] die. And the Lord Jesus took the ear
+`[?] [?] die and grab Lord-Jézus this ear`
+
+**6**  and put it back in its place, and the ear was made
+`and [?] put on-place and healing ear`
+
+**7**  whole. And the Lord Jesus [did] that miracle before the heathen […]
+`leave-to-leave and from Lord-Jézus on-pagan miracle [?]`
+
+**8**  and […] said, and believed in the Lord; but his […] |
+`and [?] +say inside Lord believe a) <of>-Lord [?] | on`
+
+**9**  the Lord […]; and one of the Jews fled,
+`Lord [?] and escape one Jew(ish)`
+
+**10**  and believed in the Lord Jesus; and from […] the Lord Jesus
+`to-Lord believe Lord-Jézus and from [?] to-Lord [?] Lord-Jézus`
+
+**11**  all said […] these Jews went; and […] from […]
+`each,_every +say [?] this-who Jew(ish) go and [?] from [?]`
+
+**12**  […] And then the Lord could have fled — the Lord did not flee,
+`[?] and then-exist Lord want escape exist Lord not escape`
+
+**13**  but […] […] the apostles, the Jews […] […]
+`a) good [?] [?] apostle Jew(ish) [?] [?]`
+
+> John 18:10 names the servant Malchus, and Luke 22:51 has Jesus touch the
+> ear and heal it. The codex has both, and adds that the bystanders believed
+> because of it.
+
+## 037r — bound, and struck
+
+**1**  […] and […] led the Lord […]
+`[?] and [?] carry to-Lord [?]`
+
+**2**  the Lord Jesus; and then […] the hands of the Lord Jesus Christ
+`Lord-Jézus and then-exist [?] hand Lord-Jézus-Christ`
+
+**3**  […] all […] […] […]; and then […]
+`[?] each,_every to-<of>-Lord to-year-to [?] [?] and then-exist [?]`
+
+**4**  they went to the chief of the Jews […]; and then the Lord
+`go to-Jew(ish) head [?] and then-exist Lord`
+
+**5**  went down from the mountain; and many […] […]
+`go down on-to-mount and many [?] [?]`
+
+**6**  Jews upon the Lord Jesus, because one struck the Lord
+`Jew(ish) on-Lord-Jézus because Lord one [?] beat`
+
+**7**  […] […] secondly, to the Lord's house […] thirdly
+`[?] [?] in_turn-two to-Lord to-house [?] +third`
+
+**8**  […] no man at all had mercy on the Lord Jesus.
+`to-Lord [?] from not-not <of>-somebody have_mercy Lord-Jézus`
+
+**9**  And then through […] through […] […]
+`and then-exist through [?] through [?] [?]`
+
+**10**  and the Lord […] went over the bridge […]
+`and Lord [?] on-bridge go [?]`
+
+**11**  but the Lord on the bridge […]; and […] […]
+`a) Lord on-bridge [?] and to-Lord [?] [?]`
+
+**12**  no man had mercy on the Lord Jesus, because […] the Jews went
+`<of>-somebody have_mercy Lord-Jézus because Lord two [?] go Jew(ish)`
+
+## 038r — bound before Caiaphas
+
+**1**  […] they bound the Lord Jesus Christ; and then the Lord
+`[?] who-chain-to Lord-Jézus-Christ and then-exist Lord`
+
+**2**  […] and dragged him out […]; no man had mercy
+`exist and out(ward)-out(ward) draw [?] <of>-somebody have_mercy`
+
+**3**  on the Lord Jesus Christ. And then the Jews […] the Lord would
+`Lord-Jézus-Christ +and_then Jew(ish) [?] Lord want`
+
+**4**  the Jews went […] one […] the Lord |
+`Jew(ish) go [?] one [?] Lord | to`
+
+**5**  Pilate; secondly […] to Caiaphas; and | when
+`Pilate in_turn-two say [?] to-Caiaphas and | then`
+
+**6**  the Lord […] to Caiaphas the high priest. And then
+`exist Lord [?] to-Caiaphas high_priest +and_then`
+
+**7**  the Jews […] accused the Lord; and then
+`Jew(ish) [?] Lord [?] accuse and then-exist`
+
+**8**  the Lord […] before the high priest's house; and | when
+`Lord [?] before <priest> high_priest house and | then`
+
+**9**  the Lord […] […] the Lord this […]
+`exist Lord [?] [?] Lord this [?]`
+
+**10**  and then the Lord […] into a house; and | when
+`and then-exist Lord [?] inside one house and | then`
+
+**11**  the Lord […] one […] […] | not at all
+`exist Lord from-to-each,_every one [?] [?] | not-not`
+
+**12**  the Lord Jesus Christ said. And then Peter, one
+`+say Lord-Jézus-Christ +and_then Peter one`
+
+## 038v — the first denial, and Caiaphas's counsel
+
+**1**  of the Jews, this Malchus whose ear was cut off […]
+`Jew(ish) this Malchus ear cut_off [?]`
+
+**2**  Peter […] this Peter […] and this was
+`Peter [?] this-Peter and-to-Lord-to-Peter and this from`
+
+**3**  the first denial of the Lord Jesus, because Peter said […] the Lord, and denied him.
+`first denial Lord-Jézus because say Peter [?] Lord and-to-Lord-to`
+
+**4**  And […] the Lord Jesus [was brought] to Caiaphas the high priest; and | when
+`and [?] Lord-Jézus to-Caiaphas high_priest and | then-exist`
+
+**5**  he said, the Lord went before Caiaphas; and there cried
+`+say to-Lord go before Caiaphas and shout`
+
+**6**  the Jews […] […] this went […]
+`Jew(ish) [?] [?] go this [?]`
+
+**7**  this […] the Lord; and to the Lord […] of the apostles
+`this [?] Lord and to-Lord +<subject_marker> from apostle-exist-exist`
+
+**8**  […] […] all the people against the Lord […] | and
+`food [?] each,_every people on-Lord [?] | in_turn`
+
+**9**  the second said: the Son of God; the third said: the king.
+`two [?] say son God +third [?] king`
+
+**10**  Caiaphas said: it is written, it is good that one man
+`say say Caiaphas write +<subject_marker> good one Lord-somebody`
+
+**11**  should die rather than all […] […]; and […] […]
+`die [?] rather each,_every [?] [?] and [?] [?]`
+
+**12**  the high priest […] in the house, among the apostles Christ […]
+`apostle-high [?] inside house among apostle Christ look_up leave [?]`
+
+> Line 10 is John 11:50 and 18:14 — Caiaphas's counsel that it was expedient
+> that one man should die for the people. The denials are numbered as the
+> signs of Christ were: first, second, third.
+
+## 039r — the second denial
+
+**1**  Saint Peter before the gate; and then Peter was
+`holy-Peter before ~gate and then-exist Peter exist`
+
+**2**  seen by the maid at the Jews' gate. And then the maid [said] to Peter:
+`see from-handmaid ~gate Jew(ish) +and_then handmaid this-Peter`
+
+**3**  art thou an apostle of this Jesus? Peter said […] and denied him.
+`apostle this Jézus say Peter [?] and-to-Lord-to [?]`
+
+**4**  This was the second denial of the Lord Jesus, because Peter said […] the Lord |
+`this two denial Lord-Jézus because say Peter [?] Lord | [?]`
+
+**5**  and denied him. And John […] […]
+`to-Lord-to in_turn John [?] [?]`
+
+**6**  was known to the high priest. Caiaphas said to Jesus: sayest thou
+`acquaintance this high_priest say Caiaphas to-Jézus this-Lord say`
+
+**7**  the Son of God? And how dost thou truly preach? Jesus said
+`son God in_turn how? this righteous(ly) preach say Jézus`
+
+**8**  to Caiaphas […] Caiaphas […] answered […]
+`to-Caiaphas from-judge-Caiaphas from +say [?]`
+
+**9**  hear my preaching […] truly […]
+`hear preach [?] ~righteous(ly) [?]`
+
+**10**  And then Caiaphas, this Caiaphas, and […] in the Lord […]
+`+and_then Caiaphas this-Caiaphas and [?] inside Lord [?]`
+
+**11**  Caiaphas […] the Lord […] the man; Caiaphas said
+`Caiaphas-year [?] this-Lord [?] somebody say Caiaphas`
+
+**12**  […] the Lord […] […] to Caiaphas […]
+`[?] Lord [?] [?] to-<of>-Caiaphas exist-exist`
+
+> John 18:15–17: the maid at the door, the other disciple known to the high
+> priest, and Peter's denial. The codex names the disciple John.
