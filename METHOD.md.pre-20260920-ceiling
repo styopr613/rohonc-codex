@@ -9,36 +9,11 @@ last three "Translate" commits; read their diffs to see what a batch is.
 
 ## Standing orders
 
-1. **The target is 82%, not 98%.** Lines fully read stand at 62.4% today.
-   The 98% in the first version of this file was mine and it was wrong, and
-   the arithmetic behind it was wrong too. Measured on 2026-09-20: 2,275
-   words in the book have no reading, and 1,348 of them are signs that
-   occur exactly ONCE in the whole manuscript. The method here is guess from
-   one passage, then keep the guess only if it survives every other
-   occurrence. A sign that occurs once has no other occurrence, so it can
-   never be more than tier D: a guess about a line, not a reading of a sign.
-   Read every one of the 346 signs that occur twice or more, perfectly, and
-   lines fully read reach 82.0%. That is the ceiling of the honest method
-   and it is what to aim at. Past it, each further point costs about 90
-   one-off guesses and buys no checkable knowledge. Do not chase 98% by
-   filling single-hole lines with tier D; say the ceiling instead.
-
-   Nothing below stops until the user says stop. Do not end a turn to report
-   a batch; report only when you are blocked on something only the user can
+1. **The target is lines fully read at 98%.** It is at 59.1% today. Nothing
+   below stops until the user says stop. Do not end a turn to report a
+   batch; report only when you are blocked on something only the user can
    decide. The user has said, more than once, that stopping between batches
    is the single worst thing about this work.
-
-   Where the remaining work actually is, measured the same day:
-
-        374 unread signs are cited somewhere in K&T's own entries,
-            covering 599 of the 2,275 unread words. 124 of them occur
-            twice or more. This is the cheap tier A supply; step 3 below
-            is how to reach it.
-        155 passages are written twice, but ktdouble.py matches on token
-            types, so a sign occurring once can never fall inside a match.
-            A gapped alignment of the two copies would reach at most 278
-            of the 1,348 hapaxes, and only 64 of them sit right beside a
-            run that already matches.
 2. **Every turn does two things at once:** translate the next six folios in
    page order, and read the signs those pages make readable. Translating
    alone does not move the number; translating uses signs already known.
