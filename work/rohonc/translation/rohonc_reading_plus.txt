@@ -2303,8 +2303,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  from holy-spirit one somebody-Nicodemus be_saved a)
  4  each,_every-somebody-Nicodemus be_damned say Lord-Jézus Nicodemus in_turn | then
  5  exist this-Lord you begin-Lord preach from-heaven
- 6  land how? you from [?] | leave-Nicodemus
- 7  somebody then-exist this ?world can Nicodemus-somebody [?]
+ 6  land how? you from ?enter | leave-Nicodemus
+ 7  somebody then-exist this ?world can Nicodemus-somebody ?enter
  8  leave-to-leave ?brethren this-Lord you preach-Lord say | Lord
  9  Jézus Nicodemus [?]-+one you love father <preposition_of_genitive>-Lord God heaven
 10  a) <preposition_of_genitive>-father-<suffix_of_divine_name> only_one son Jézus that_is to-Lord [?]-+one
