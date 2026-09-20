@@ -1,0 +1,24 @@
+defined codes classified: {'noun': 63, 'verb': 82, 'grammatical': 21}
+
+noun         (n=18)  line_final=0.14  line_initial=0.13  nbr_gram=0.17  nbr_noun=0.10  nbr_verb=0.11  repeats_in_line=0.07
+verb         (n=30)  line_final=0.11  line_initial=0.16  nbr_gram=0.13  nbr_noun=0.11  nbr_verb=0.09  repeats_in_line=0.03
+grammatical  (n=16)  line_final=0.23  line_initial=0.11  nbr_gram=0.14  nbr_noun=0.11  nbr_verb=0.09  repeats_in_line=0.04
+
+undefined codes, nearest class (lower distance = closer):
+    n   peak band       nearest     noun    verb    gram
+   33  140-159          verb    0.064    0.064    0.088
+   31  140-159          noun    0.069    0.080    0.090
+   32  120-139   grammatical    0.064    0.075    0.062
+   35    0-19           noun    0.057    0.068    0.079
+   50  140-159          noun    0.044    0.045    0.056
+   25  160-179          verb    0.047    0.047    0.072
+   25   40-59           verb    0.068    0.047    0.075
+   30  180-199          verb    0.060    0.047    0.072
+   57  160-179          verb    0.034    0.023    0.044
+   40   80-99    grammatical    0.080    0.083    0.058
+
+GATE on 64 defined codes with 20+ occurrences
+accuracy 57.8%   majority baseline 46.9%
+   noun          11/ 18  (61%)
+   verb          20/ 30  (67%)
+   grammatical    6/ 16  (38%)

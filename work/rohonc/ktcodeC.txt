@@ -1,0 +1,10 @@
+CODE C -- the one surviving signal of ten attempts
+occurrences 35, in 31 lines
+
+         group  per line w/ C  all lines    lift
+     adversary           0.55       0.05  10.51x
+  throne/above           0.29       0.02  12.61x
+        speech           0.23       0.10   2.32x
+
+HELD OUT (outside folios 0-19, where the pattern was found):
+  C appears in 10 lines; adversary words 0.50/line vs 0.04 -> 12.13x

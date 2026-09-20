@@ -201,7 +201,22 @@ def main():
         check(f"gate 5: {lab} {want}%", len(g) == 2 and g[1] == want, str(g))
     check("gate 5 FAIL and the 4% flaw recorded",
           "FAIL" in kdi and "top five 8%, top ten" in flat and "4%" in flat)
-    check("nine attempts stated", "nine ways" in flat and "bar was never moved" in flat)
+    check("ten attempts stated", "ten ways" in flat and "Nine failed outright" in flat)
+    kcl = out("ktclass.txt")
+    g = nums(kcl, "accuracy", 2)
+    check("class gate 57.8% vs 46.9% baseline",
+          len(g) == 2 and close(g[0], 57.8) and close(g[1], 46.9)
+          and "57.8%" in flat and "46.9%" in flat, str(g))
+    check("class gate weakness stated", "38%" in flat and "below" in flat.lower())
+    kC = out("ktcodeC.txt")
+    g = nums(kC, "adversary", 3)
+    check("code C adversary lift 10.51x",
+          len(g) == 3 and close(g[2], 10.51, .02) and "10.5" in flat, str(g))
+    g = nums(kC, "C appears in", 4)
+    check("code C held out 12.13x",
+          bool(g) and close(g[-1], 12.13, .02) and "12.1" in flat, str(g))
+    check("code C not overclaimed",
+          "not a meaning" in flat and "narrowed field" in flat)
     kt = out("kttopical.txt")
     check("topical filter: 47 codes, two at 100%",
           "47 undefined codes" in kt and "100%" in kt

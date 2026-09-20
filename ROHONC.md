@@ -324,11 +324,12 @@ Defining the top 50 undefined codes would lift coverage from 62.1% to 73.1%;
 the top 100 to 76.0%; the top 200 to 79.1%; the top 500 to 84.1%. That is a
 work plan, and it is owed to the authors.
 
-## Extending the dictionary: nine attempts, a ceiling, and a filter
+## Extending the dictionary: ten attempts, a ceiling, and one survivor
 
 Four words in ten have no gloss and another five in ten have several. Working
 out the undefined codes is the part of the problem nobody has done. It was
-tried nine ways, each against a bar set before the run, and each failed. The
+tried ten ways. Nine failed outright; the tenth narrowed one code to a
+grammatical class and a semantic field without naming it. The
 bar was never moved. Two evaluation bugs were fixed and the runs repeated;
 neither fix changed a verdict. Five of the six were mechanical. The sixth was
 not, and did best.
@@ -455,6 +456,29 @@ What survives is a finding about the codex rather than a code: that stretch is
 about virgins, maidens and the kingdom of heaven, which is consistent with the
 parable of the ten virgins and does not depend on any code being solved.
 
+**A tenth attempt, and the one thing that has not broken.** `ktclass.py`
+drops the attempt to name a code and asks only what *kind* of word it is,
+fingerprinting it against classes built from Kiraly & Tokai's own glosses.
+Gated first: held-out defined codes are classified at 57.8% against a 46.9%
+majority baseline — a pass by less than a point, and *below* base rate on
+grammatical words at 38%. Weak, and reported as weak.
+
+Applied to the code that concentrates in folios 0–19 (35 occurrences, 71%
+there), it returns **noun**, on a method 61% accurate for nouns. That code is
+the one result of ten attempts that has survived a held-out test. Lines
+containing it carry adversary vocabulary — Lucifer, Satan, demon, Antichrist,
+the snake — at 10.5× the book's rate, and throne/above words at 12.6×. The
+adversary association is not an artefact of the section that suggested it: in
+the ten lines where the code appears *outside* folios 0–19, adversary words
+still run **12.1× above chance**.
+
+So: probably a noun, in the adversary field, with the association holding out
+of sample. That is a narrowed field and not a meaning. *Devil*, *serpent*,
+*dragon*, *enemy*, *pride*, *temptation* and a dozen others all still fit, and
+naming one would be precisely the confident nonsense that produced "end; side"
+earlier in this document. It is recorded at the strength the evidence carries
+and no further.
+
 **The ceiling.** The eighth line of attack, reading the illustrations, is how
 Tokai found his entry points, and the scans make it available: folios map to
 scan pages (a pencilled "42" on the left leaf of scan page 43 fixes it), and
@@ -547,6 +571,7 @@ repository staff; with it, this would probably be feasible.
     python ktceiling.py       # the ceiling on self-verification
     python ktsolve.py 3       # frame evidence for the top undefined codes
     python kttopical.py       # which undefined codes are worth attacking
+    python ktclass.py         # what kind of word an undefined code is
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 
