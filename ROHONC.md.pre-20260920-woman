@@ -1193,27 +1193,6 @@ Noah sign; that stays as their reading, with the doubt recorded on the page.
 Twenty stroke numerals that the renderer had been cutting at the wrong stroke
 (*three* + *two thousand* for *five thousand*) are now entered whole.
 
-**A second reading was wrong across five folios and is corrected in place.**
-A sign read here as *the Baptist* since 2026-09-19, and a second sign read as
-*baptism*, are Kiraly and Tokai's word for *woman*. Both words are built by
-doubling the same element, which they gloss *woman* on its own, so the Baptist
-and the woman are spelled alike; their own Baptist entry writes "but cp." at
-the place the two collide, and their woman entry cites 141v:6, 10, 11, 142r:1,
-142v:2, 2, 4, 5 and says the pair of signs across folios 141 to 147 is *woman*
-as well. The Baptist reading is right where the sign stands directly after
-Saint John at 116v-118r, which is exactly where they cite it, and it was wrong
-everywhere else. Folios 141v to 142r had been read as a passage about baptism
-and are a woman's life: she is in Rome, she fasts for years, she lives on the
-host, and one sign near the end is their *sister*, with their own "?? nun" on
-it. The sign that carries both words is now glossed with both, at tier B, and
-the block signs are graded A on their citations.
-
-The same batch found a variant rule that cost a reading. Their entry for
-*wine, grape* opens "[var. 520 ~ 670]", a swap written as prose rather than as
-a variant code, so the machine never applied it and cut their *grape* into
-their *exist* plus their numeral *nine* at 140r:3 and 140v:1, the two lines
-they cite for it.
-
 Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
 into pieces Kiraly and Tokai define; it was never given their own variant
 spellings, this project's read signs or the clause terminator as pieces.

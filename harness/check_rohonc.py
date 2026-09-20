@@ -559,6 +559,10 @@ def main():
     check("ROHONC: the apparatus check and the Elijah correction are recorded",
           "was read as Enoch" in flat and "father son" in flat
           and "ktlook.py --cite" in flat and "Saint Augustine the church father" in flat)
+    check("ROHONC: the Baptist/woman correction is recorded",
+          "read here as *the Baptist*" in flat and "141v:6, 10, 11" in flat
+          and "she lives on the" in flat
+          and "cut their *grape* into" in flat)
     check("ROHONC: Emmaus run translated and Cleopas named",
           "266\nfolios are translated" in doc and "names Cleopas" in flat
           and "of sin, and of righteousness, and of" in flat
