@@ -53,6 +53,12 @@ occurrence, which is the test that would make any of them real.
 | `E060 E060 E443 E520` | many | an epithet of God | Follows "God the Father" almost every time it appears. |
 | `E520 E3F0 E950 E1F2` | 3 here | **gave / ate** | 001v:5, 8, 9, in the interrogation of Eve. |
 
+**Numerals that resolved.** Their numbers are written as sums of their parts.
+`ten-ten-ten-ten` at 004v:11 and `two-two-ten` at 008r:11 both come to **forty**,
+and both sit where forty belongs — forty days and forty nights, and the forty
+days of rain. `two-<distributive infix>-two` at 008r:6 and 008r:8 is **two by
+two**, of every creature into the ark.
+
 ---
 
 ## 004v — the beginning: heaven, the angels, Lucifer
@@ -431,3 +437,320 @@ and it matches.
 > down the side of the page, once with "I" and twice with the genitive. The
 > codex does not inflect, so a name sign standing where a pronoun would stand
 > is how it says "I".
+
+---
+
+## 007r — the curse, and the sword at the gate
+
+**1**  Adam was, to him who […] and why […]
+`exist ~Adam to-to-this-who [?] in_turn why?-in_turn`
+
+**2**  […] Adam was of the earth […]
+`[?] exist ~Adam earth [?]`
+
+**3**  he would […] eat, and take, and […] […]
+`want [?] food ~grab in_turn [?] [?]`
+
+**4**  it was through […]; and […] was painful.
+`exist through [?] and [?] exist painful`
+
+**5**  […] shall be; and this evil — this evil is
+`[?] have in_turn this evil this-evil exist`
+
+**6**  […] the earth […] and […]
+`[?] earth [?] ~and [?]`
+
+**7**  evil. Man was made, all of this. The serpent dies; and
+`evil this somebody create each,_every this serpent die and`
+
+**8**  he departed from among […] the Lord God; and there went
+`leave among [?] Lord-<divine> and go`
+
+**9**  the Lord God, the angel […] fire,
+`Lord-<divine> angel [?] fire`
+
+**10**  a sword; and […] out | within
+`sword and [?] out(ward) | on-inside`
+
+**11**  Paradise. He drove them out, and set an angel […]
+`Garden_of_Eden exorcise and put angel [?]`
+
+> Genesis 3:24 — the angel and the flaming sword set at the gate.
+
+## 007v — outside the garden: Cain, Abel, Seth, and Adam goes blind
+
+**1**  […] […] Paradise; and one created
+`[?] [?] Garden_of_Eden and one create`
+
+**2**  […] within Paradise; but the angel […] the Lord God
+`[?] inside Garden_of_Eden a) angel [?] Lord-<divine>`
+
+**3**  with the angel […] from […] and from eight(?) said |
+`on-angel this table [?] from [?] and from two-two-two-two say | to`
+
+**4**  Elijah. The angel of God: Elijah, when the Lord God [drove] Adam
+`Elijah God angel Elijah then-exist Lord-<divine> ~Adam`
+
+**5**  out […] from Paradise; and then |
+`out(ward) [?] on-Garden_of_Eden and then-exist | [?]`
+
+**6**  […] he dwelt in the field many years; and Adam had […]
+`[?] leave inside ~field many year and ~have ~Adam [?]`
+
+**7**  offspring, these two sons. And the firstborn was Cain, and the second […] was
+`descendant this-two to-son and firstborn exist Cain and two [?] exist`
+
+**8**  Abel. […] […] was Seth. And then
+`Abel [?] [?] exist Seth and then-exist`
+
+**9**  Adam was blind in both eyes; and then Adam went into […]
+`~Adam from eye-eye blind and then-exist go ~Adam inside [?]`
+
+**10**  the son […]; and this son was […] the son […]
+`son [?] and this son exist [?] son [?]`
+
+**11**  Adam. And then Adam said: bring Adam from […]
+`~Adam and then-exist say ~Adam carry ~Adam from [?]`
+
+## 006r — Seth goes to Paradise for the branch
+
+**1**  a branch. And then the branch […] carry […] through
+`one ~branch and then-exist branch [?] carry [?] through`
+
+**2**  the light; and then by that light […], through the eye, blind Adam sees;
+`~light and then-exist through ~light [?] through eye see blind ~Adam`
+
+**3**  and Adam was made whole […]. And then Seth went |
+`and healing leave ~Adam [?] and then-exist Seth go | [?]`
+
+**4**  […] to Paradise; and […] to Seth appeared God's
+`[?] Garden_of_Eden and [?] Seth appear God`
+
+**5**  angel […] the angel of God [to] Seth […]; and he went […] Seth said:
+`angel [?] God angel Seth [?] and go [?] say Seth`
+
+**6**  Adam my father. Seth […] went into Paradise | when
+`from-father ~Adam Seth [?] go inside Garden_of_Eden | then`
+
+**7**  it was Adam his father. Seth brought from […] a branch.
+`exist father ~Adam carry Seth from [?] branch`
+
+**8**  […] […] Adam his father was, through sin; and Adam said,
+`[?] [?] exist father ~Adam through sin and say ~Adam`
+
+**9**  Adam, when […] Seth brought […] through
+`~Adam then-exist [?] carry Seth [?] through`
+
+**10**  the light; and then by that light […], through the eye, the blind man sees;
+`~light and then-exist through ~light [?] through eye see blind ~and`
+
+**11**  and Adam was made whole […]. The angel truly […] spoke; and then
+`healing leave ~Adam [?] angel righteous(ly) [?] speak and then-exist`
+
+**12**  the angel went into Paradise, and Seth carried the branch
+`go angel inside Garden_of_Eden and Seth carry branch`
+
+> This is the Legend of the Rood, in the *Life of Adam and Eve*: blind, dying
+> Adam sends Seth back to Paradise, and Seth returns with a branch. The codex
+> tells it twice over, lines 1–3 and 9–12, in nearly the same words.
+
+## 006v — the branch brought home, and a city
+
+**1**  out of Paradise, from […] […] Adam was, through
+`on-Garden_of_Eden from [?] [?] exist ~Adam through`
+
+**2**  sin. And then […] the angel gave(?) this branch;
+`sin and then-exist [?] ~exist ~grab angel this branch`
+
+**3**  and then the branch […] he carried […] to his father
+`and then-exist branch [?] carry [?] father`
+
+**4**  Adam. And then […] he went into a city,
+`~Adam and then-exist [?] go inside one town`
+
+**5**  and […] the city was […] where Adam was,
+`and [?] town exist [?] who exist ~Adam`
+
+**6**  a house. And then he came […] […]; and within, all from
+`house and then-exist arrive can [?] [?] and inside each,_every from`
+
+**7**  the city […] […]; and […] out of the city
+`town can [?] [?] and [?] out(ward) town`
+
+**8**  one […]; and then Seth went, this […]
+`one [?] and then-exist Seth exist go this [?]`
+
+**9**  and within […] […]; and then Seth said, one
+`and inside can [?] [?] and then-exist Seth say one`
+
+**10**  […] […] […] the Father, the Spirit, the Father […] […]
+`[?] [?] [?] from-father spirit father [?] [?]`
+
+**11**  Adam. And Adam was blind in both eyes — Adam, who was the Lord
+`~Adam and ~Adam exist eye-eye blind who ~Adam exist Lord`
+
+**12**  God's, [driven] out of Paradise by the angel; and then […]
+`God out(ward) [?] on-Garden_of_Eden on-angel and then-exist [?]`
+
+**13**  […] the gospel, and they found […] years(?); and
+`from-see gospel and find [?] ten-two-two-ten-year and`
+
+## 008r — Noah and the ark
+
+**1**  […] And then […] at that time the Lord God appeared to Noah;
+`[?] and then-exist [?] time appear Lord-<divine> Noah`
+
+**2**  and then […] the Lord God. Noah. The Lord grieved […] man […]
+`and then-exist [?] Lord-<divine> Noah sad(ly)-Lord year [?] somebody on-<of> [?]`
+
+**3**  that he had made them, because […] he who keeps his commandment. The Lord God would have all
+`create because [?] this who carry <of> commandment ~exist Lord-<divine> want each,_every`
+
+**4**  destroyed. […] The Lord God [said to] Noah: make one […] the Lord |
+`destroy [?] Lord-<divine> Noah do, one exist Lord | [?]`
+
+**5**  […] the Lord. It was forty(?) cubits long, and […]
+`~exist Lord exist on-two-two-ten cubit long in_turn [?]`
+
+**6**  broad; and […] lift up […] take […] of every creature two by two; and
+`broad in_turn [?] lift_up [?] grab [?] each,_every create two-<distributive>-two and`
+
+**7**  […] of the ark. And then this […] the Lord […] the Lord went;
+`[?] <of>-ark and then-exist this [?] this-Lord [?] go-Lord`
+
+**8**  and then […] he took of every creature two by two, and went before the Lord God;
+`and then-exist [?] grab each,_every create two-<distributive>-two and go before Lord-<divine>`
+
+**9**  and […] the Lord God, to the cup, and to the Lord […] and […]
+`and [?] Lord-<divine> to-cup and to-Lord [?] and [?]`
+
+**10**  the Lord God; all, two by two, [in every] direction […]
+`Lord-<divine> each,_every two-two direction [?] [?] [?] [?] [?]`
+
+**11**  and the rain came for forty days; and […] the cities were destroyed.
+`and go rain two-two-ten-year and [?] town destroy`
+
+**12**  The Lord God […]. The angel of God said [to] Elijah: the Lord God was [with] Noah;
+`Lord-<divine> [?] God angel Elijah say exist Lord-<divine> Noah`
+
+**13**  […] […] all this […] was; and the other […] departed; and this
+`[?] [?] each,_every this [?] exist and two [?] leave and this`
+
+## 008v — from Noah to Abraham
+
+**1**  the people were, until Abraham the forefather […] believed.
+`people exist until Abraham forefather [?] believe`
+
+**2**  From Noah it was, until Abraham […] […]
+`from Noah exist until Abraham [?] [?]`
+
+**3**  The angel of God to Elijah the prophet: Elijah, within this and that
+`God angel to-Elijah prophet Elijah inside this-and-this`
+
+**4**  believe. One man was saved in that time.
+`believe one somebody ~be_saved inside time`
+
+**5**  The angel departed from before Elijah the prophet; and this and that he said.
+`leave angel before Elijah prophet and this-and-this say`
+
+**6**  […] Elijah the prophet wrote; and […] […]
+`[?] write Elijah prophet and [?] [?]`
+
+**7**  within […] chapter […] of the writing.
+`inside [?] chapter [?] <of>-write`
+
+## 005r — Abraham and Isaac
+
+**1**  […] and the son went [with] the father |
+`[?] and go-son-father | [?]`
+
+**2**  the father; and a sheep, and a lamb.
+`father and one sheep and one lamb`
+
+**3**  […] the son; the father sacrificed […]; the father Abraham,
+`[?] son father sacrifice [?] father Abraham`
+
+**4**  for love of the Lord, […] the Lord God, the offering. Chapter. And then Isaac
+`from love Lord to-hide_oneself-Lord Lord-<divine> offering-chapter and then-exist Isaac`
+
+**5**  was […] […] who was […] Isaac […]
+`exist [?] [?] who exist [?] Isaac [?]`
+
+**6**  […] Abraham sacrificed, and drew out […]
+`[?] Abraham sacrifice and take_out [?]`
+
+**7**  […] […] […] Isaac he would slay;
+`understand-girl-chapter [?] [?] Isaac want slay`
+
+**8**  and the Lord God cried out from the cloud, by the angel of the Lord God,
+`and shout Lord-<divine> on-cloud on-angel <of>-Lord-<divine>`
+
+**9**  […] to Abraham […] […] who […]
+`leave-leave Abraham-to [?] [?] who [?]`
+
+**10**  Abraham. The Lord God. Love the Lord.
+`Abraham Lord-<divine> love Lord`
+
+**11**  […] peace to the Lord.
+`[?] to-Lord peace`
+
+**12**  And then he looked up and saw,
+`and then-exist from see look_up`
+
+**13**  Abraham, and saw
+`Abraham and see`
+
+**14**  […] a lamb
+`understand-eat ~lamb`
+
+**15**  in a thornbush.
+`on-understand-eat (thorn)bush`
+
+> Genesis 22:13, the ram caught in the thicket. The page is laid out in short
+> lines, which is why the last four are three or four words each.
+
+## 005v — the ram, and a prophecy of Christ
+
+**1**  And then he sacrificed the lamb […]; the Lord God from the cloud,
+`and then-exist from lamb sacrifice [?] Lord-<divine> on-cloud`
+
+**2**  by the angel of the Lord, said to Abraham […] within […]
+`on-angel <of>-Lord Abraham say [?] inside <of> understand-girl-chapter`
+
+**3**  A holy [Virgin]; of a virgin shall be born a son […]
+`one holy-<Virgin_Mary> from virgin-<Virgin_Mary> on-be_born son [?]`
+
+**4**  The son shall be […] Jesus; and the Lord went […]
+`son exist [?] Jézus and go Lord [?]`
+
+**5**  He preached the gospel, [did] many miracles […]
+`exist gospel preach many who-and-this-and miracle [?]`
+
+**6**  and the Lord suffered […]; and […] rose from the dead.
+`and suffer Lord [?] and [?] from die stand_up-Lord`
+
+**7**  […] the Lord God, by the angel, [to] Abraham; and […] the Lord's chapter is
+`[?] Lord-<divine> on-angel Abraham and from-and-see chapter-Lord exist`
+
+**8**  believe truly [in] the Son of the living God; every man is saved […]
+`believe righteous(ly) son living God each,_every somebody be_saved [?]`
+
+**9**  One man […]; but every man is saved [from] the yoke; and
+`one somebody [?] a) each,_every somebody be_saved yoke and`
+
+**10**  man […] the Lord […] believes; and one […] […]
+`somebody Lord [?] believe and one [?] [?]`
+
+**11**  but every man was damned, from Adam […] until Abraham,
+`a) each,_every somebody be_damned from ~Adam [?] table until Abraham`
+
+**12**  a hundred years and twenty years; from Abraham […] […]
+`one hundred-year and ten-ten-year from Abraham [?] table [?]`
+
+**13**  […] […] and […] from Abraham until
+`[?] [?] and [?] from Abraham until`
+
+> The angel gives Abraham the whole gospel in advance: a virgin's son named
+> Jesus, who preaches, works miracles, suffers, and rises. Then the book
+> starts counting years between the patriarchs, which is what a world
+> chronicle does.
