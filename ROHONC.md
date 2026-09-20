@@ -923,16 +923,18 @@ whole page of that does not read. Their order gives *sun and moon write*,
 *Elijah prophet say angel God*, *sit on throne from-father God*.
 
     words                          29997
-      one sense                     3404   11.3%
-      several senses               14109   47.0%
-      by composition                5754   19.2%
-      their variant spelling         356    1.2%
-      no reading                    6374   21.2%
+      one sense                     3440   11.5%
+      several senses               14233   47.4%
+      by composition                5811   19.4%
+      their variant spelling         357    1.2%
+      no reading                    6156   20.5%
     lines                           4372
-      every word read                975   22.3%
+      every word read               1041   23.8%
 
 Those are the coverage figures of the previous sections, seen from the
-page, with the declared variants added. The only difference is that 52 composed words whose every part has one
+page, with the declared variants and the clause terminator applied. They are
+Kiraly and Tokai's dictionary alone; this project's own readings are counted
+separately below. The only difference is that 52 composed words whose every part has one
 sense are counted with composition here and with the single-sense words in
 `ktcoverage.py`, which is where the 11.3% and 11.5% part company.
 
@@ -1016,7 +1018,7 @@ numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved" and "believe". Rendered into the book
 with a plus sign so they can never be mistaken for Kiraly and Tokai's, they
-take the share of lines where every word is read from 22.3% to 34.7%.
+take the share of lines where every word is read from 23.8% to 34.7%.
 
 **One of them is not a word.** E034 ends 293 words the dictionary does not
 define, and 99.7% of those words are the last word of their run, against

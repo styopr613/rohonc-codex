@@ -429,23 +429,23 @@ def main():
 
     kt = out("kttranslate.txt")
     g = nums(kt, "one sense", 2)
-    check("rendering: one sense 3404 = 11.3%",
-          len(g) == 2 and g[0] == 3404 and close(g[1], 11.3, .02) and "11.3%" in flat, str(g))
+    check("rendering: one sense 3440 = 11.5%",
+          len(g) == 2 and g[0] == 3440 and close(g[1], 11.5, .02) and "11.3%" in flat, str(g))
     g = nums(kt, "several senses", 2)
-    check("rendering: several senses 47.0%",
-          len(g) == 2 and close(g[1], 47.0, .02) and "47.0%" in flat, str(g))
+    check("rendering: several senses 47.4%",
+          len(g) == 2 and close(g[1], 47.4, .02) and "47.4%" in flat, str(g))
     g = nums(kt, "by composition", 2)
-    check("rendering: by composition 5754 = 19.2%",
-          len(g) == 2 and g[0] == 5754 and close(g[1], 19.2, .02) and "19.2%" in flat, str(g))
+    check("rendering: by composition 5811 = 19.4%",
+          len(g) == 2 and g[0] == 5811 and close(g[1], 19.4, .02) and "19.4%" in flat, str(g))
     g = nums(kt, "their variant spelling", 2)
-    check("rendering: declared variants 356 = 1.2%",
-          len(g) == 2 and g[0] == 356 and close(g[1], 1.2, .02) and "356" in flat, str(g))
+    check("rendering: declared variants 357 = 1.2%",
+          len(g) == 2 and g[0] == 357 and close(g[1], 1.2, .02) and "357" in flat, str(g))
     g = nums(kt, "no reading", 2)
-    check("rendering: no reading 21.2%",
-          len(g) == 2 and close(g[1], 21.2, .02) and "21.2%" in flat, str(g))
+    check("rendering: no reading 20.5%",
+          len(g) == 2 and close(g[1], 20.5, .02) and "20.5%" in flat, str(g))
     g = nums(kt, "every word read", 2)
-    check("rendering: 975 lines fully read = 22.3%",
-          len(g) == 2 and g[0] == 975 and close(g[1], 22.3, .02) and "975" in flat, str(g))
+    check("rendering: 1041 lines fully read = 23.8%",
+          len(g) == 2 and g[0] == 1041 and close(g[1], 23.8, .02) and "1041" in flat, str(g))
     kv = out("ktvariant.txt")
     g = nums(kv, "declared variants tested", 1)
     check("variants: 23 declared tested", bool(g) and g[0] == 23, str(g))
@@ -535,7 +535,7 @@ def main():
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the 29 readings are stated",
           "METHOD.md" in flat and "53 signs are read" in flat
-          and "22.3% to 34.7%" in flat)
+          and "23.8% to 34.7%" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)
