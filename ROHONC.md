@@ -1009,7 +1009,7 @@ is offered as such.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 143
+With the rendering on the page it became possible to read it, and 147
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the

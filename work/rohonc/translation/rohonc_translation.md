@@ -5454,3 +5454,141 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Matthew 18:15–17, and the codex counts the three steps with its own
 > ordinals: go alone first, then take two, then a third time. Line 1 is
 > *lovest thou me more than these*, John 21:15, put in front of it.
+
+## 078r — judge righteous judgment
+
+**1**  upon his sin rebuke, because this whosoever sins suffers; in turn, to whom this man
+`on-sin admonish because this ?whosoever-+sin sufferer in_turn to-which this-somebody`
+
+**2**  suffers, take him, whosoever sins […] from […] within
+`sufferer grab ?whosoever-+sin [?] from [?] inside`
+
+**3**  why in turn? because this is truly, truly, to whosoever sins; because
+`why?-in_turn because this exist righteous(ly) righteous(ly) to-?whosoever-+sin because`
+
+**4**  a false judge […] judges whosoever, truly judge
+`false ~judge-somebody [?] chapter-judge-?whosoever righteous(ly) judge`
+
+**5**  but rather every […] false judgment; in turn the false judge
+`?but_rather-each,_every [?] false judge in_turn false ~judge-somebody`
+
+**6**  the true man falsely judged is damned, in the evil
+`righteous(ly) somebody false from-judge be_damned +<subject_marker> inside ~evil`
+
+**7**  for ever; in turn the true judge, every one
+`+<subject_marker> chapter-oh chapter-oh in_turn righteous(ly) ~judge-somebody each,_every`
+
+**8**  to whom he judges truly […] the judge falsely
+`to-which-chapter righteous(ly) judge [?] judge-somebody false`
+
+**9**  judging, but rather to whom he judges truly; the Lord speaks, every writing
+`from-judge ?but_rather-each,_every to-which-chapter righteous(ly) judge Lord-<suffix_of_divine_name> speak each,_every write`
+
+**10**  and every prophet and every church father and every forefather and […]
+`and each,_every prophet and each,_every church_father and each,_every forefather and [?]`
+
+> John 7:24, *judge not according to the appearance, but judge righteous
+> judgment*, worked out at length against the false judge.
+
+## 079r — the orders of angels, and one word
+
+**1**  among all peoples, to eternal glory, most high, all the angels, the orders of angels
+`inside each,_every ?people to-?eternal ?glory most_high each,_every angel angel angel order`
+
+**2**  […] eat literally, from the one Lord, truly […] speaks holy Paul
+`[?] eat literal from one Lord righteous(ly) [?] speak holy-Paul`
+
+**3**  […] Paul's own, this Lord truly […] Lord Jesus Christ
+`[?] exist-exist <preposition_of_genitive>-Paul this-Lord righteous(ly) [?] Lord-Jézus-Christ`
+
+**4**  this Lord judges all peoples by one word […] the word, every
+`this-Lord exist judge each,_every ?people one word [?] word each,_every`
+
+**5**  man […] of the man, truly, good, mercy, saying, love, doing; and
+`somebody [?] <preposition_of_genitive>-somebody righteous(ly)-good-have_mercy-say-love-do, and`
+
+**6**  the Lord takes; this Lord truly […] and the Lord, every
+`grab Lord-<suffix_of_divine_name> +<subject_marker> this-Lord righteous(ly) [?] and Lord-<suffix_of_divine_name> each,_every`
+
+**7**  man receives […] from the Lord […] the man
+`somebody exist grab [?] exist from Lord-<suffix_of_divine_name> [?] somebody`
+
+**8**  the firstborn is damned, to be […] […] […]
+`firstborn exist be_damned to-exist-~exist [?] [?] [?]`
+
+**9**  damned […] […] […] and nine […]
+`be_damned [?] [?] [?] and nine [?]`
+
+> The nine orders of angels on line 1, which is Pseudo-Dionysius by way of
+> every medieval preaching book, and the judgment of all peoples by one word.
+
+## 080v — the apostles wait in prayer with Mary
+
+**1**  […] every good thing; and the apostles […] lift up […] […]
+`[?] each,_every good and exist apostle [?] who-go_up [?] [?]`
+
+**2**  […] ye shall have many miracles, says the mouth
+`[?] you exist many miracle say which-mouth-chapter-year`
+
+**3**  in the Old Testament word, and it lives; go before […] […]
+`inside <pertaining_to_the_Old_Testament> word and living-exist go before [?] [?]-[?]`
+
+**4**  […] the day of judgment. Here ends this teaching gospel. Here begins
+`[?] judge-+day end this +<subject_marker> learn holy-gospel begins`
+
+**5**  this holy gospel, written by holy Luke, in the second chapter of his writing. At that time,
+`this holy-gospel write holy-Luke inside two chapter <preposition_of_genitive>-write time`
+
+**6**  then, after the crucifixion of Lord Christ […] year; and then
+`then-exist on-execute Lord-~Christ [?]-year and | then`
+
+**7**  the Lord was […] year; at that time the apostles remained in prayer
+`Lord-exist [?]-year time leave apostle pray`
+
+**8**  in the Lord's, until where the Lord, Lord Jesus, made the supper; out
+`inside Lord ~until where Lord-<suffix_of_divine_name> Lord-Jézus dinner do, on-~out(ward)`
+
+**9**  ten years; and then this went on ten years; at that time the apostles remained in
+`ten-year and then-exist keep_going this ten-year time leave apostle on`
+
+**10**  prayer; and holy Peter left, to the Virgin Mary. And then
+`pray and leave-to-leave holy-Peter to virgin-Mary +and_then`
+
+> Acts 1:14, *these all continued with one accord in prayer and supplication,
+> with Mary the mother of Jesus.* The upper room is named as the place where
+> the supper was made.
+
+## 081r — the Spirit comes upon them
+
+**1**  holy Peter, the wife, to the apostles answered, speaking; understand, apostles, the Lord is
+`holy-Peter wife apostle-to +answered speak understand apostle exist-Lord`
+
+**2**  from […] the Holy Spirit goes, to Peter the rock […] this
+`from [?] go holy-spirit rock-to Peter [?]-+day this`
+
+**3**  is. And then the Virgin Mary, then the Father, from […]
+`exist +and_then virgin-Mary then-exist father-<suffix_of_divine_name> from [?]`
+
+**4**  the Holy Spirit goes; father Abraham, and Abraham
+`go holy-spirit father Abraham and Abraham`
+
+**5**  the spirit goes upon the eleven […] understand the spirit
+`spirit go on-ten-+one-[?] understand spirit`
+
+**6**  and the apostles, Mary, on high; go, upon this; said Lord Jesus, his Father,
+`and apostle-Mary to-high go on-this say say Lord-Jézus father-<suffix_of_divine_name> <preposition_of_genitive>-Lord`
+
+**7**  this Lord from […] goes, his own Holy Spirit
+`this-Lord from [?] go <preposition_of_genitive>-Lord exist-exist holy-spirit`
+
+**8**  and his mother. And then the Father, how, in what form would he go
+`and <preposition_of_genitive>-Lord mother +and_then father-<suffix_of_divine_name> how? shape,_form want go`
+
+**9**  if he goes into God, the Son, the Spirit; the Lord, Father, Son, Holy Spirit
+`if go inside God-son-spirit-Lord father son holy-spirit`
+
+**10**  […] this people crucified; and then the Father, holy
+`[?] this ?people +cross execute +and_then father-<suffix_of_divine_name> | holy`
+
+> Pentecost, Acts 2, with the eleven named on line 5 and the Trinity set out
+> on line 9.
