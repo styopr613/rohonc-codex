@@ -477,6 +477,15 @@ def main():
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
     check("translation: the file exists and covers 182 folios",
           md.count("\n## 0") + md.count("\n## 1") == 182, str(md.count("\n## 0")))
+    import re as _re
+    heads = set(_re.findall(r"^## (\d{3}[rv]) ", md, _re.M))
+    try:
+        import ktcontext as _X
+        done = _X.DONE
+    except Exception:
+        done = None
+    check("translation: ktcontext.DONE is derived from the file, not kept by hand",
+          done is not None and done == heads, f"{len(done or ())} vs {len(heads)}")
     check("translation: the book is identified, with its sources named",
           "Life of Adam and Eve" in md and "Legend of the Rood" in md
           and "Saint Matthew and Saint John" in md and "Elijah" in md)
