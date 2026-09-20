@@ -96,6 +96,20 @@ names, rather than the four canonical gospels alone. 1,746,498 words.
 - **York, Towneley, Chester and N-Town (Ludus Coventriae) play cycles** —
   archive.org scans of 19th- and early-20th-century editions, public domain.
 - **Caxton's *Golden Legend*** — archive.org, public domain.
+- ***Barlaam and Ioasaph***, attributed to St John Damascene, Woodward and
+  Mattingly's translation — Project Gutenberg ebook 749, public domain.
+  Added 2026-09-20. It carries the apologue of the man fleeing a unicorn who
+  falls into a pit and clings to a tree gnawed by two mice, which folio 148v
+  tells, and its moral names the falling man as "the race of Adam", which is
+  why the codex writes him with Király & Tokai's *Adam* sign.
+- **The Roman Missal, English, 1865** and **The Complete Office of Holy
+  Week, 1875** — archive.org scans, public domain. Added 2026-09-20 for the
+  liturgy: a 1593 Catholic reader is at least as much missal and breviary as
+  it is scripture, and the Reproaches of Good Friday that folio 048v tells
+  live there and in no Bible. Both are Google scans of two-column books, so
+  the Latin and English columns interleave and the OCR invents words; any
+  token absent from the 1.75M words of period English in ALL.txt is dropped
+  before use.
 
 Fetched at one request per 1.5 seconds with a descriptive user agent, which is
 the pace settled on after rate-limiting K&T's server earlier in this project.

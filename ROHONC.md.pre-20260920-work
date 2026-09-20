@@ -1327,67 +1327,6 @@ shows in the open when it tells the Good Samaritan a second time as the fall
 of Adam. The 253 unread signs sitting opposite a read word are candidates to
 check by hand and nothing may be graded above C on the alignment's say-so.
 
-**The nineteenth attempt: can a page be placed in a named source
-automatically? Declared, run four ways, failed all four.** Most of this book
-is not scripture but liturgy and legend, and those pages read as coherent
-and untestable because the candidate pooler needs a chapter and verse. Three
-source texts were fetched to close that gap: *Barlaam and Ioasaph*, which
-contains the apologue of the man in the pit that folio 148v tells; an 1865
-English Roman Missal, which contains the Reproaches of Good Friday that 048v
-tells; and the 1875 Office of Holy Week. `harness/ktwork.py` then tried to
-find WHERE in a named work a folio sits, using the folio's own readable
-words. The human asserts the work; the machine was only asked for the place.
-
-It never earned the right to answer. Each version was declared before it ran
-and each is recorded:
-
-    v1  count the distinct folio stems in a 150-word window; require the
-        best window to stand 4 sigma above the mean window.
-        Every folio cleared it at 4.2-4.6 sigma and every answer was wrong.
-        148v was placed in a passage about the devil renouncing the good,
-        because that passage contains man, evil, good, glory and honour.
-
-    v2  weight each matched stem by log(N/f), so a rare word counts for what
-        the work itself says it is worth; bar 6 sigma.
-        The Barlaam answer became RIGHT -- the best window is the apologue's
-        own interpretation, carrying the unicorn, the pit, the tree and the
-        two mice together -- but it scored 5.5 and 048v scored 4.5 and still
-        landed on Pilate's hall. A near miss is a miss; neither figure moved.
-
-    v3  drop the sigma bar, which was a chance calculation over windows that
-        share 149 of their 150 words, and use a matched control: 24 other
-        codex folios whose notes do not name the work, scored the same way
-        in the same work. The folio must beat all 24.
-        148v scored 57.0 against a best control of 98.2 and beat 5 of 24.
-        The control named its own cause: the score was a sum, so a folio
-        with sixty readable words beats one with twenty-three. 148v has 23.
-
-    v4  normalise -- the idf mass matched, over the idf mass of every folio
-        stem the work contains anywhere, which is bounded and comparable
-        across folios. Same control, same rank rule.
-        148v rose to beating 14 of 24 and still did not beat them all:
-        0.348 against a best control of 0.525. 048v beat 1 of 24.
-
-**The reason is worth more than the attempt, and it generalises.** A
-devotional page shares nearly all its vocabulary with any devotional text:
-lord, god, man, say, good, evil, heaven, sin. What would place a page is its
-rare words -- mouse, unicorn, pit, cruse -- and those are precisely the words
-this project cannot read yet, because rare words are the holes. The readable
-part of a folio is therefore its generic part, and generic vocabulary places
-nothing. Automatic localisation is weakest exactly where it would be most
-useful, and improves only as the holes close, which was the job it was meant
-to help with. No reading anywhere rests on it.
-
-The texts were kept, and they pay by hand rather than by machine. Reading
-*Barlaam* is what confirmed 148v: the man fleeing a unicorn, the pit, the
-tree caught at, the two mice one white and one black gnawing its root, the
-dragon below. The apologue's own moral says the unicorn "is the type of
-death, ever in eager pursuit to overtake the race of **Adam**" -- which is
-why the codex writes the falling man with Király and Tokai's *Adam* sign,
-and why 148r, the page before, says outright that the man who went down to
-Jericho is Adam. That is a person reading a source, which is the method that
-has worked all along.
-
 Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
 into pieces Kiraly and Tokai define; it was never given their own variant
 spellings, this project's read signs or the clause terminator as pieces.

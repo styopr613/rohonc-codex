@@ -131,36 +131,6 @@ IRREG = {
 }
 
 
-# ---- Cross-language synonyms: a judgment, and marked as one.
-#
-# Király & Tokai gloss into Hungarian and those glosses reach here in
-# English, so a candidate word can be a different English word for a sign
-# that is already read. The pool cannot see that: it offers *heathen*
-# because the dictionary says *pagan*, and *justice* and *charity* and
-# *chalice* because Douay uses those where the dictionary says righteous,
-# love and cup. Silently dropping them would hide a judgment; offering them
-# would waste a reading. They are listed here instead, each with the gloss
-# it duplicates, and reported as JUDGE rather than free or taken -- the same
-# principle as tier C, which marks a reading that cannot be checked rather
-# than suppressing it.
-#
-# Every entry was verified against the dictionary before it went in: the
-# word on the right is one K&T actually gloss. Words that merely feel
-# similar are NOT here -- *sepulchre* and *grave* are both absent from the
-# dictionary, so sepulchre stays a live candidate.
-SYNONYM = {
-    "heathen": "pagan",        # Douay's word for the dictionary's pagan
-    "justice": "righteous",    # Douay uses justice where the KJV uses righteousness
-    "charity": "love",         # Douay uses charity where the KJV uses love
-    "chalice": "cup",          # Douay uses chalice where the KJV uses cup
-    "meat": "food",            # KJV meat = food; Douay reads "at table" at Mark 16:14
-    "flesh": "body",
-    "tell": "say",
-    "arise": "rise",
-    "damsel": "girl",
-    "crowd": "people",
-}
-
 ACCENT = str.maketrans("áàâäãéèêëíìîïóòôöõúùûüýÁÀÂÄÃÉÈÊËÍÌÎÏÓÒÔÖÕÚÙÛÜÝ",
                        "aaaaaeeeeiiiiooooouuuuyAAAAAEEEEIIIIOOOOOUUUUY")
 
@@ -308,13 +278,6 @@ def main(argv):
             # words that every sign inventory already carries. Say so.
             if w.lower() in STOP or stem(w) in {stem(x) for x in STOP}:
                 print(f"  STOP   {w:16s} function word, not indexed -- these are all read already")
-                continue
-            base = SYNONYM.get(w.lower())
-            if base:
-                who = "; ".join(f"{sg} {g!r}" for sg, g in idx.get(stem(base), [])[:2])
-                print(f"  JUDGE  {w:16s} a synonym of {base!r}, which IS read: {who}")
-                print(f"         -- a judgment, not a measurement. If you read this sign as")
-                print(f"            {w!r} anyway, say in the evidence why it is not {base!r}.")
                 continue
             hits = idx.get(stem(w), [])
             if hits:

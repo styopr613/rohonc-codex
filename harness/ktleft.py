@@ -260,12 +260,32 @@ def pools_for(vvk, vvd, refs, idx, wide=0):
     k = pool(" ".join(t for _, t in passage(vvk, refs, wide)), idx)
     d = pool(" ".join(t for _, t in passage(vvd, refs, wide)), idx)
     both = {s: k[s] + d[s] for s in set(k) & set(d)}
-    return both, {s: d[s] for s in set(d) - set(k)}, {s: k[s] for s in set(k) - set(d)}
+    dro = {s: d[s] for s in set(d) - set(k)}
+    kjo = {s: k[s] for s in set(k) - set(d)}
+    # Pull out the cross-language synonyms and hand them back separately, so
+    # a judgment shows as a judgment instead of sitting in the pool looking
+    # like a measured candidate. See ktcross.SYNONYM.
+    syn = {}
+    for grp in (both, dro, kjo):
+        for st in [x for x in grp if any(K.stem(w) == x for w in K.SYNONYM)]:
+            syn[st] = grp.pop(st)
+    return both, dro, kjo, syn
 
 
 def show(p):
     return ", ".join("/".join(sorted(c)) for _, c in
                      sorted(p.items(), key=lambda x: -sum(x[1].values())))
+
+
+def synnote(syn):
+    """'heathen (pagan is read)' for each synonym pulled out of a pool."""
+    out = []
+    for st, c in syn.items():
+        w = sorted(c)[0]
+        base = K.SYNONYM.get(w.lower()) or next(
+            (K.SYNONYM[x] for x in K.SYNONYM if K.stem(x) == st), "?")
+        out.append(f"{'/'.join(sorted(c))} ({base} is read)")
+    return ", ".join(out)
 
 
 def page_holes(page, doc, gl, seg, var, prop, inv, cnt):
@@ -312,7 +332,7 @@ def cross(gl, doc, seg, var, prop, inv, idx, vv, vd, cited, cnt, wide):
     # "meat" for a codex that says "at table".
     pools = {}
     for pg, r in cited.items():
-        both, dro, _ = pools_for(vv, vd, r, idx, wide)
+        both, dro, _, _ = pools_for(vv, vd, r, idx, wide)
         pools[pg] = {**both, **dro}
     rows = []
     for b, occ in where.items():
@@ -341,7 +361,7 @@ def onehole(gl, doc, seg, var, prop, inv, idx, vv, vd, cited, cnt, wide):
     for p in doc:
         if p.page not in cited:
             continue
-        b_, d_, k_ = pools_for(vv, vd, cited[p.page], idx, wide)
+        b_, d_, k_, _ = pools_for(vv, vd, cited[p.page], idx, wide)
         pl = {**b_, **d_}
         kjonly = k_
         for i, ln in enumerate(p.lines, 1):
@@ -395,7 +415,7 @@ def main(argv):
             vs = passage(vv, r, wide)
             vsd = passage(vd, r, wide)
             if vs or vsd:
-                both, dro, kjo = pools_for(vv, vd, r, idx, wide)
+                both, dro, kjo, syn = pools_for(vv, vd, r, idx, wide)
                 print(f"    {len(vs)} KJV verse(s), {len(vsd)} Douay; "
                       f"{len(both)} words free in both, {len(dro)} Douay only, {len(kjo)} KJV only")
                 if both:
@@ -404,6 +424,9 @@ def main(argv):
                     print("    douay : " + show(dro))
                 if kjo:
                     print("    KJV   : " + show(kjo) + "   <- weakest, likely translator's wording")
+                if syn:
+                    print("    JUDGE : " + synnote(syn)
+                          + "   <- another English word for a sign already read")
             hs = page_holes(pg, doc, gl, seg, var, prop, inv, cnt)
             for i, miss, s in hs:
                 tag = " ".join(f"{h}(x{n})" for h, n in miss)
@@ -423,7 +446,7 @@ def main(argv):
     for pg, r in cited.items():
         vs = passage(vv, r, wide)
         nverse += len(vs)
-        b_, d_, _ = pools_for(vv, vd, r, idx, wide)
+        b_, d_, _, _ = pools_for(vv, vd, r, idx, wide)
         for s, c in {**b_, **d_}.items():
             byword[s].add(pg)
             forms[s].update(c)

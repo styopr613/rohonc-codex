@@ -1,0 +1,209 @@
+"""Locate a folio in a named non-biblical source, and pool candidates from it.
+
+Most of the Rohonc is not scripture. It is liturgy and legend -- the
+Reproaches of Good Friday, the apologue of the man in the pit, saints'
+lives, the Gospel of Nicodemus -- and those pages have been reading as
+"coherent but untestable", because ktleft.py can only pool from a chapter
+and verse. This closes that gap for the works whose texts are here.
+
+THE HUMAN ASSERTS THE WORK; THE MACHINE FINDS THE PASSAGE. A folio is only
+searched in a work its own translation note names. Nothing here decides that
+a page comes from Barlaam; a person already wrote that down. What this does
+is find where in Barlaam, and say whether that location is trustworthy.
+
+THE BAR, fixed before the first run and not moved.
+
+  Score a window of 150 words by how many DISTINCT content-word stems of the
+  folio's own reading it contains. Slide it over the whole work. Compare the
+  best window against every other window of the same work:
+
+      a localisation is USABLE only if the best window scores at least
+      4 standard deviations above the mean window, AND matches at least
+      6 distinct stems.
+
+  Anything weaker prints as NOT LOCALISED and yields no pool. This is a rank
+  statistic over the work itself, so it cannot be tuned after the fact: a
+  page that matches everything in a work equally matches nothing in it.
+
+OCR AND LATIN. The missal and the Holy Week office are Google scans of
+19th-century two-column books, so the Latin and the English interleave and
+the OCR invents words. A token is kept only if it occurs in the 1.75M words
+of period English already in data/ref/rohonc/ALL.txt. That drops "Popule",
+"metis" and "ingratUude" alike, and it is stated here rather than tuned:
+anything the reference English never says is not offered as a candidate.
+
+    python ktwork.py             # every folio whose note names a work here
+    python ktwork.py 148v 048v   # those folios: the located passage and pool
+    python ktwork.py --works     # the works, their files and their sizes
+"""
+import os
+import re
+import sys
+from collections import Counter
+
+import ktaffix as A
+import ktcross as K
+import ktleft as L
+import kttranslate as T
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+REF = os.path.join(os.path.dirname(HERE), "data", "ref", "rohonc")
+
+WINDOW = 150
+BAR_SIGMA = 4.0
+BAR_STEMS = 6
+
+# What a translation note may call a work -> the file that holds it.
+WORKS = [
+    (r"barlaam|josaphat|ioasaph|man in the (pit|well)", "barlaam.txt", "Barlaam and Ioasaph"),
+    (r"improperia|reproaches|good friday|holy week|missal|the mass\b",
+     "missal_roman_1865.txt", "Roman Missal (1865 English)"),
+    (r"improperia|reproaches|holy week|tenebrae",
+     "office_holy_week_1875.txt", "Office of Holy Week (1875)"),
+    (r"golden legend|voragine|caxton", "golden_legend.txt", "Caxton's Golden Legend"),
+    (r"nicodemus|protevangel|infancy|vita ada|life of adam|adam and eve|gospel of james",
+     "apocrypha_wake.txt", "Apocryphal gospels (Wake)"),
+    (r"york (play|cycle)", "plays_york.txt", "York plays"),
+    (r"towneley", "plays_towneley.txt", "Towneley plays"),
+    (r"chester (play|cycle)", "plays_chester.txt", "Chester plays"),
+    (r"n-town|ludus coventriae", "plays_ntown.txt", "N-Town plays"),
+]
+
+_LEX = None
+
+
+def lexicon():
+    """Every word the 1.75M words of period English in ALL.txt actually use."""
+    global _LEX
+    if _LEX is None:
+        p = os.path.join(REF, "ALL.txt")
+        if not os.path.exists(p):
+            _LEX = set()
+        else:
+            _LEX = set(re.findall(r"[a-z]+",
+                                  open(p, encoding="utf-8", errors="ignore").read().lower()))
+    return _LEX
+
+
+def tokens(path):
+    """The work as a list of lowercase English words, OCR noise dropped."""
+    lex = lexicon()
+    raw = re.findall(r"[A-Za-z]+",
+                     open(path, encoding="utf-8", errors="ignore").read())
+    return [w.lower() for w in raw if len(w) > 2 and (not lex or w.lower() in lex)]
+
+
+def page_stems(page, doc, gl, seg, var, prop, inv):
+    """The content-word stems this folio already reads, and its rendered lines."""
+    stems, lines = set(), []
+    stopstem = {K.stem(w) for w in K.STOP}
+    for p in doc:
+        if p.page != page:
+            continue
+        for i, ln in enumerate(p.lines, 1):
+            tk = [t for run in ln for t in run]
+            if not tk:
+                continue
+            s = " ".join(("[?]" if A.strip(t)[0] not in inv
+                          else T.render_token(t, gl, seg, False, var, prop)) for t in tk)
+            lines.append((i, s))
+            for w in re.findall(r"[a-zA-Z]+", s.replace("_", " ")):
+                lw = w.lower()
+                if len(lw) < 3 or lw in K.STOP:
+                    continue
+                st = K.stem(lw)
+                if st not in stopstem:
+                    stems.add(st)
+    return stems, lines
+
+
+def locate(toks, stems):
+    """(best score, index, mean, sd, n windows) for this page over this work."""
+    stemmed = [K.stem(w) for w in toks]
+    n = len(stemmed)
+    if n < WINDOW * 2:
+        return 0, 0, 0.0, 0.0, 0
+    have = Counter()
+    distinct = 0
+    scores = []
+    for i, st in enumerate(stemmed):
+        if st in stems:
+            if have[st] == 0:
+                distinct += 1
+            have[st] += 1
+        if i >= WINDOW:
+            out = stemmed[i - WINDOW]
+            if out in stems:
+                have[out] -= 1
+                if have[out] == 0:
+                    distinct -= 1
+        if i >= WINDOW - 1:
+            scores.append(distinct)
+    m = sum(scores) / len(scores)
+    sd = (sum((x - m) ** 2 for x in scores) / len(scores)) ** 0.5
+    best = max(scores)
+    return best, scores.index(best), m, sd, len(scores)
+
+
+def main(argv):
+    if "--works" in argv:
+        for pat, f, name in WORKS:
+            p = os.path.join(REF, f)
+            print(f"  {name:34s} {f:28s} "
+                  f"{os.path.getsize(p) if os.path.exists(p) else 0:>9d} bytes")
+        return 0
+
+    gl, doc, seg, var, prop, inv = K.build()
+    idx = K.taken_index(gl, prop)
+    want = [a for a in argv if re.fullmatch(r"\d{3}[rv]", a)]
+
+    pages = sorted({p.page for p in doc})
+    todo = []
+    for pg in pages:
+        note = K.note_for(pg)
+        if not note:
+            continue
+        for pat, f, name in WORKS:
+            if re.search(pat, note, re.I) and os.path.exists(os.path.join(REF, f)):
+                todo.append((pg, f, name))
+    if want:
+        todo = [t for t in todo if t[0] in want]
+    elif not todo:
+        print("no translated folio names a work whose text is here")
+        return 0
+
+    if not want:
+        print(f"{len({p for p, _, _ in todo})} folios name a work whose text is here")
+        for pg, f, name in todo:
+            print(f"  {pg}  {name}")
+        print("\nrun with folio numbers to locate and pool")
+        return 0
+
+    cache = {}
+    for pg, f, name in todo:
+        if f not in cache:
+            cache[f] = tokens(os.path.join(REF, f))
+        toks = cache[f]
+        stems, lines = page_stems(pg, doc, gl, seg, var, prop, inv)
+        best, at, m, sd, nw = locate(toks, stems)
+        sig = (best - m) / sd if sd else 0.0
+        ok = sig >= BAR_SIGMA and best >= BAR_STEMS
+        print(f"\n=== {pg} in {name}")
+        print(f"    {len(stems)} content stems on the folio; best window matches {best} "
+              f"of them, mean {m:.1f}, sd {sd:.1f}  ->  {sig:.1f} sigma over {nw} windows")
+        if not ok:
+            print(f"    NOT LOCALISED (bar: {BAR_SIGMA} sigma and {BAR_STEMS} stems). No pool.")
+            continue
+        win = toks[at:at + WINDOW]
+        print("    " + " ".join(win)[:520])
+        free = L.pool(" ".join(win), idx)
+        print(f"    {len(free)} content words in that passage carry no sign yet:")
+        print("      " + L.show(free))
+        for i, s in lines:
+            if "[?]" in s:
+                print(f"    {pg}:{i:<3d} {s[:140]}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv[1:]))

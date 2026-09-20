@@ -70,9 +70,25 @@ last three "Translate" commits; read their diffs to see what a batch is.
      sign stands on (`ktgrind.py HEX`) and check `ktcross.py --taken WORD`
      before entering. Two occurrences in the same retold sentence (the
      doubled Life of Adam on 007r/125r) is one passage, tier C.
-   - A word the pool calls free may be a synonym of one that is taken: it
-     lists tell, meat, flesh, arise, sepulchre, depart because K&T glossed
-     say, food, body, rise, grave, go away. Check the concept, not the word.
+   - **A word the pool calls free may be another English word for a sign
+     already read, and that is a judgment, so mark it as one.** K&T gloss
+     into Hungarian and it reaches here in English, so the pool offers
+     *heathen* where the dictionary says *pagan*, and Douay's own vocabulary
+     adds *justice*, *charity* and *chalice* where it says righteous, love
+     and cup. `ktcross.SYNONYM` holds the pairs found so far, each verified
+     against the dictionary before it went in, and both tools report them as
+     **JUDGE** — neither free nor taken:
+
+         JUDGE  heathen   a synonym of 'pagan', which IS read: a1b 'pagan'
+                -- a judgment, not a measurement. If you read this sign as
+                   'heathen' anyway, say in the evidence why it is not 'pagan'.
+
+     That is the tier C principle applied to candidates: a judgment marked
+     as one costs nothing, and an unmarked one is what a reviewer finds.
+     Words that merely feel similar stay OFF the list — *sepulchre* and
+     *grave* are both absent from the dictionary, so sepulchre is a live
+     candidate, not a synonym. Check the concept, not the word, and when you
+     overrule a JUDGE line, write down why.
    - **Pool from the Douay-Rheims, not the King James.** The book is a
      Catholic compilation and its author had the Vulgate; an English
      candidate list built off a Protestant translation manufactures
@@ -83,10 +99,28 @@ last three "Translate" commits; read their diffs to see what a batch is.
      where the Vulgate has *abundaverit*, Douay *abound*; *dust* at Genesis
      2:7 is the King James word where the Vulgate has *de limo terrae*,
      Douay *slime*, and dust properly belongs to Genesis 3:19, a different
-     Latin word. The clinching case is Mark 16:14, where the King James says
-     the eleven sat *at meat* and Douay says *at table* — and this project
-     had already read a sign as *at table* from K&T's own citations while the
-     King James pool was still offering *meat* as a candidate.
+     Latin word.
+
+     **The case that proves it is Mark 16:14, and it has no judgment in
+     it.** The King James says the eleven sat *at meat*; the Douay says they
+     were *at table*. This project had already read a sign as *at table*,
+     and not from any pool — from Kiraly and Tokai's own citations of their
+     *table* entry at 072r08, 072r11 and 191r04. The anchor was fixed by an
+     independent authority before the question arose, and the King James
+     pool was still offering *meat* as a candidate for that same verse. The
+     wrong source text was caught disagreeing with ground truth it had no
+     hand in setting.
+
+     That is also the answer to whether switching corpora was a correction
+     or a re-fit. The errors were not scattered: both readings that had to
+     be withdrawn failed in the same direction, towards King James wording,
+     and the Genesis one failed twice over — *dust* is not merely the wrong
+     English for *limo*, it is the right English for *pulvis* at Genesis
+     3:19, so the wrong gloss was also spending a word on a verse it does
+     not belong to. Random noise does not double-book a word onto the
+     correct verse for a different Latin lemma; a systematic, King-James-
+     shaped bias does, and removing the bias is a correction.
+
      ktleft.py now prints three classes and the order is the order of trust:
 
          both  : free in both translations, the safest candidates

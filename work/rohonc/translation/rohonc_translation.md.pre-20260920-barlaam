@@ -10481,7 +10481,7 @@ man, Király & Tokai's *Adam*, carries over the page turn. Then the book
 changes figure and tells the apologue of the Man in the Well — the man who
 flees, falls into a pit, catches at a tree, and does not see that two mice
 are gnawing the root of it. It is the best-travelled parable in medieval
-Europe, from *Barlaam and Ioasaph*, and the two mice are day and night.
+Europe, from *Barlaam and Josaphat*, and the two mice are day and night.
 
 **1**  The man fled across the field, and then the man | fell
 `escape ~Adam on-~field and then-exist ~Adam | get_conceived`
@@ -10510,30 +10510,15 @@ Europe, from *Barlaam and Ioasaph*, and the two mice are day and night.
 **9**  if the man goes back again; this man, this | can
 `if ?again go-~Adam this ~Adam this | can`
 
-> The apologue of the Man in the Well, from *Barlaam and Ioasaph*. The
-> source was fetched on 2026-09-20 (`data/ref/rohonc/barlaam.txt`) and it
-> matches this page point for point: *a man flying before the face of a
-> rampant unicorn ... he fell into a great pit; and as he fell, he stretched
-> forth his hands, and laid hold on a tree ... he looked and descried two
-> mice, the one white, the other black, that never ceased to gnaw the root
-> of the tree whereon he hung ... he looked down to the bottom of the pit
-> and espied below a dragon, breathing fire.* The codex has the flight, the
-> pit, the tree, the two mice with their colours, and on line 7 the evil one
-> below that cries out. *Mouse*, *black*, *white*, *tree* and *pit* are
-> Király & Tokai's own words, so the match is between their dictionary and
-> the source, not between two guesses of mine.
->
-> The detail that settles *the man* is in the apologue's own moral: *the
-> unicorn is the type of death, ever in eager pursuit to overtake the race
-> of **Adam**.* That is why the codex writes him with Király & Tokai's
-> *Adam* sign here, and why 148r, the page before, says outright that the
-> man going down to Jericho is Adam. The book uses Adam for mankind exactly
-> as its source does.
->
-> The passage was found by a person reading the text. An attempt to place
-> folios in named sources automatically is written up in ROHONC.md as the
-> nineteenth attempt; it failed its own test four times and nothing here
-> rests on it.
+> The apologue of the Man in the Well, from *Barlaam and Josaphat* and
+> retold all over medieval Europe. The man fleeing, the pit, the tree he
+> catches at, and the two mice — one black and one white, night and day —
+> gnawing it through are all here in order, and *mouse*, *black*, *white*
+> and *pit* are Király & Tokai's own words. This copy of the Golden Legend
+> in `data/ref/` does not contain Barlaam, so no passage is cited; the
+> identification is made from the codex's own words, not matched to a text.
+> *The man* throughout is their *Adam* sign, as on 148r, where the book says
+> outright that the man going down to Jericho is Adam.
 
 ## 149r — the lance of the soldier
 

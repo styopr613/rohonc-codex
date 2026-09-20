@@ -45,6 +45,7 @@ def close(a, b, tol=0.06):
 
 def main():
     doc = open(DOC, encoding="utf-8").read().replace("−", "-")
+    meth = open(os.path.join(corpus.ROOT, "METHOD.md"), encoding="utf-8").read()
     flat = " ".join(doc.split())
     print("figures quoted in ROHONC.md:\n")
 
@@ -574,6 +575,23 @@ def main():
           "eighteenth attempt" in flat and "Twelve of them -- 0.4% -- agree" in flat
           and "0.0% inside the matched run" in flat
           and "it is retelling" in flat and "ktpair.py" in flat)
+    check("METHOD: the Mark 16:14 closed loop and the systematic-bias argument",
+          "072r08, 072r11 and 191r04" in meth
+          and "hand in setting" in meth
+          and "double-book a word onto the" in meth
+          and "King-James-" in meth and "shaped bias" in meth)
+    check("METHOD: cross-language synonyms are marked JUDGE, not dropped",
+          "JUDGE" in meth and "which IS read" in meth
+          and "grave* are both absent" in meth
+          and "an unmarked one is what a reviewer finds" in meth)
+
+    check("ROHONC: the nineteenth attempt is recorded as a FAIL, four ways",
+          "nineteenth attempt" in flat and "failed all four" in flat
+          and "beat 5 of 24" in flat and "beating 14 of 24" in flat
+          and "0.348 against a best control of 0.525" in flat
+          and "rare words are the holes" in flat
+          and "the race of **Adam**" in flat)
+
     check("ROHONC: the Vulgate/Douay source tradition and the two corrections",
           "652 of them" in flat and "a third" in flat
           and "nisi abundaverit iustitia vestra" in flat
