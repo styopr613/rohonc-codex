@@ -1379,5 +1379,41 @@
   "tier": "B",
   "n": 3,
   "evidence": "K&T's middle (a10a13) cites a spelling at 111r08, this word's line. At 084r:9 it stands in their own 'morning, evening, noon' expression, which they cite at that line, so the midday sense holds there. At 111r:8 and 222v:7 it is their word and the sentence around it does not read"
+ },
+ "540b385e1060060371": {
+  "gloss": "the younger son",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's younger-brother sign (550b38) lists its spellings by line and cites 113r02, 113r12, 114r08, 114v01 and 115v08; this word stands at 114r:8 and 114v:1, and its companion 520b385e1060060371 at 115v:8. The tail 5e1060060371 is K&T's son. 'and this [younger son] went' 114r:8 = Luke 15:20"
+ },
+ "520b385e1060060371": {
+  "gloss": "the younger son",
+  "tier": "A",
+  "n": 1,
+  "evidence": "the same word with 520 for 540, at 115v:8, which K&T's younger-brother entry cites: 'and the son went, this [younger son], to his Father's heavenly house' 115v:8"
+ },
+ "540060990910": {
+  "gloss": "that",
+  "tier": "B",
+  "n": 2,
+  "evidence": "K&T's object conjunction 'that' (520060520) is cited by them at 091r03, 114v03 and 114v04; this word occurs exactly twice, at 114v:3 and 114v:4. The other unread word on those lines occurs six times, four of them on 006v, which their citation does not name, so the conjunction is this one"
+ },
+ "520b7e": {
+  "gloss": "robe",
+  "tier": "A",
+  "n": 2,
+  "evidence": "K&T's clothes sense of 520b7a is cited by them at 115r05, 06, 07 and 08; this word is 520b7a with one glyph changed, at 115r:5, beside their own sign for 'the most beautiful', which they gloss '(Lk 15,22)'. Luke 15:22, 'bring forth the best robe, and put it on him'. The same page then names the robe of love, of mercy, of righteousness"
+ },
+ "540ae00a20a2270ae0": {
+  "gloss": "bread",
+  "tier": "A",
+  "n": 3,
+  "evidence": "K&T's bread (520ae00a20a2ae0, already read here at 14 occurrences) with their Lord suffix 270 and 540 for 520. 'give us this day our daily [bread]' 074v:4 = Matthew 6:11, the Lord's Prayer; 'the [bread] and the wine' 063r:4 at the supper; 'a loaf of [bread]' 116r:4"
+ },
+ "670459520": {
+  "gloss": "was lost",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's lose sign (670966520) is cited by them at 116r09, this word's only line, where the only other unread word is a compound ending in their farm-hand sign, which they cite at the same line. The next line reads 'the son was dead, and is risen from death, and is saved': Luke 15:24, 'he was lost, and is found'"
  }
 }

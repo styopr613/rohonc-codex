@@ -8150,3 +8150,225 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Tokai's, each cited by them at exactly these lines. Lines 8-9 give the
 > standard allegory: the substance the son wastes is the five senses, listed
 > one by one and then named as five in a single compound sign.
+
+## 114r — the swine, the husks, and "I will arise and go to my father"
+
+**1**  […] this swineherd, evil; and the son of the soul began
+`[?] this pigman evil and begin-soul-son`
+
+**2**  of the evil swine […]; and the son of the soul, how shall he
+`<of>-evil pig [?] and soul-son ?how_shall_we`
+
+**3**  be fed? In turn the son of the soul began […] […] […] he who | sinned,
+`food a) begin-soul-son [?] [?] [?] ?he_who | +sin`
+
+**4**  from […] understood; and the son of the soul began to speak: my | Father
+`[?]-from understand and begin-soul-son speak have | from-father`
+
+**5**  God has hired men and servants, goodly, left over,
+`<divine> <of>-soul-son farm_hand and servant good leave`
+
+**6**  in turn; this son of the soul is left, and good bread they eat. Mercy,
+`a) this-soul-son leave and tasty bread eat have_mercy`
+
+**7**  Lord God! The hired men, the servants, in turn; this son of the soul eateth. And then
+`Lord-<divine> farm_hand servant a) this-soul-son eat +and_then`
+
+**8**  this younger son, this son of the soul, and the son of the soul went.
+`this +the_younger_son this-soul-son and go-soul-son.`
+
+**9**  The son of the soul would go to the Father […]; the son of the soul, humbled, would
+`<of>-soul-son from-father-<divine> want [?] soul-son ~humble want-soul-son`
+
+> Luke 15:15-18, the husks the swine did eat, and "how many hired servants
+> of my father's have bread enough and to spare, and I perish with hunger!
+> I will arise and go to my father." Király & Tokai's own hired-hand sign
+> stands on lines 5 and 7, cited by them at these lines.
+
+## 114v — the father sees him afar off; Father, I have sinned
+
+**1**  mercy, this; and this younger son went to his
+`have_mercy this and go this +the_younger_son to-<of>-soul-son`
+
+**2**  Father God. And the son of the soul saw afar off, this, his
+`father-<divine> and soul-son see far this <of>-soul-son`
+
+**3**  Father God; and the son of the soul began […] that, rightly,
+`father-<divine> and soul-son begin-soul-son [?] +that righteous(ly)`
+
+**4**  of his Father God, the son of the soul; and the son of the soul […] that,
+`<of>-father-<divine> soul-son and soul-son [?] +that`
+
+**5**  God, the son of the soul; and the son of the soul went, this son of the soul, before
+`God soul-son and go-soul-son this-soul-son before`
+
+**6**  his Father God; and the son of the soul knelt down before
+`<of>-soul-son father-<divine> and kneel_(down)-soul-son before`
+
+**7**  his Father God; and the Father God began to pray, the Father God
+`<of>-soul-son father-<divine> and father-<divine> begin pray father-<divine>`
+
+**8**  of the son of the soul asked, this son of the soul; this Father had mercy on the son of the soul,
+`<of>-soul-son ask_(for) this-soul-son this-father have_mercy-soul-son`
+
+**9**  who, this son of the soul, through the sin of the soul against this Father and against the Lord God
+`who this-soul-son through +sin-soul against this-father and against Lord-<divine>`
+
+> Luke 15:20-21, "when he was yet a great way off, his father saw him, and
+> had compassion", and "Father, I have sinned against heaven, and in thy
+> sight". The parable is told with the son named "the son of the soul"
+> almost every line, which is the allegory the page opened with on 113r.
+
+## 115r — bring forth the best robe: of love, of mercy, of righteousness
+
+**1**  and the son of the soul, mercy, this Father, of the son of the soul, all of the son of the soul,
+`and soul-son have_mercy this father <of>-soul-son each,_every <of>-soul-son`
+
+**2**  through the sin he who left, through the sin […]. And then this
+`through +sin ?he_who from-leave through +sin-[?] +and_then this`
+
+**3**  Father God of the son of the soul, the hired men and the servants, the holy apostles, the teaching,
+`<of>-soul-son from-father-<divine> farm_hand and servant holy-apostle-learn`
+
+**4**  and the angel went, the apostles, the teaching, the angel; and | they brought, the apostles, the teaching,
+`and angel go-apostle-learn-angel and | carry-apostle-learn`
+
+**5**  the angel, the most beautiful robe: the Lord's robe, that is love, the Lord God;
+`angel the_most_beautiful +robe Lord believe +<subj> love Lord-<divine>`
+
+**6**  the Lord's robe, that is mercy, the Lord God; the Lord's robe, that is | the Lord God;
+`Lord believe +<subj> have_mercy Lord-<divine> Lord believe +<subj> | Lord-<divine>`
+
+**7**  the Lord's robe, that is righteousness, the Lord God. And the son of the soul, from | the Father,
+`Lord +believe +<subj> righteous(ly) Lord-<divine> and soul-son from | father`
+
+**8**  the apostles, the teaching, the angels, within the law, to the Lord's faith; and | the son
+`apostle-learn-angel-angel inside +law to-Lord believe and | soul`
+
+**9**  of the soul went, the apostles, the teaching, the angels, into his Father God's house; there is
+`son go-apostle-learn-angel-angel inside <of>-father-<divine> house there exist`
+
+> Luke 15:22, "bring forth the best robe, and put it on him", read
+> allegorically: the robe is love, mercy and righteousness. Király & Tokai's
+> own sign for "the most beautiful", which they gloss with the verse, stands
+> on line 5, and the word after it is their clothes sign. That sign is a
+> homograph in their dictionary, faith and clothes both, and they cite the
+> clothes sense at lines 5 to 8. The rendering prints faith there; the robe
+> is what the passage wants, and it is their reading either way.
+
+## 115v — the elder brother in the field hears the music
+
+**1**  joy for ever and ever, amen. And | among this.
+`joy chapter-oh chapter-oh amen and | among-this.`
+
+**2**  The Father of the son of the soul, the Father God, all of the Father God […] […]
+`father <of>-soul-son from-father-<divine> each,_every <of>-father-<divine> [?] [?]`
+
+**3**  the neighbour; and the neighbour began to rejoice, the apostles, the Father God, the teaching, the angel,
+`?was_accused and begin-?was_accused ~joy apostle-father-<divine>-learn-angel`
+
+**4**  from […] the word […] and […] […]; and then was not this
+`from-[?] word [?] and [?] [?] and then-+is_not this`
+
+**5**  firstborn at home, because he was in the field.
+`firstborn exist-exist home because-exist on-field`
+
+**6**  That is: within, the angel's joy; and he heard a sound, | of
+`that_is inside angel joy and hear voice,_sound | to-<of>`
+
+**7**  the son of the soul, of the Father God, the heavenly house, that is, within the heavenly city
+`soul-son from-father-<divine> heaven house that_is inside heaven town`
+
+**8**  it is. And the son of the soul went, dying, this younger son, to
+`exist and go-soul-die-son this +the_younger_son on`
+
+**9**  his Father God's heavenly house; and the angel went,
+`<of>-soul-son from-father-<divine> heaven house and go-angel`
+
+> Luke 15:25, "now his elder son was in the field: and as he came and drew
+> nigh to the house, he heard musick and dancing". Király & Tokai cite their
+> own field sign at line 5 with the verse named.
+
+## 116r — he was lost, and is found; the end of the gospel
+
+**1**  this angel, the firstborn, was, to his angel, of the Father God.
+`this angel-firstborn exist-exist to-<of>-angel from-father-<divine>`
+
+**2**  And then his angel, of the Father God, of the Father God, his angel […]
+`+and_then <of>-angel from-father-<divine> from-father-<divine> <of>-angel [?]`
+
+**3**  this Father, the angel, took one, rejoiced, died; and
+`this father angel grab one +rejoiced die and`
+
+**4**  one loaf of bread, love was, this angel,
+`one loaf +bread love-exist this-angel`
+
+**5**  of the joy of his angel […]; in turn, on this the son of the soul, joy,
+`from-joy <of>-angel [?] in_turn on-this soul-son joy`
+
+**6**  the Father. And understanding he took from this Father: much wealth, the eye, speech, hearing,
+`father and understand grab from this father many ~rich eye-say-hear`
+
+**7**  love, mercy, faith, righteousness, the five senses. And then
+`love-have_mercy-believe-righteous(ly)-+five-sense +and_then`
+
+**8**  this Father, of his angel, of the Father God, the son, of the Father God: lo,
+`this father <of>-angel from-father-<divine> son <of>-father-<divine> lo`
+
+**9**  there is the son of the soul, who was lost, […]
+`exist soul-son +was_lost [?]`
+
+**10**  the servant; and the son of the soul was dead, and is risen from death, and is saved.
+`servant-and soul-son exist die and ?rise on-die +be_saved`
+
+**11**  The end of this holy gospel.
+`end this holy-gospel`
+
+> Luke 15:24 and 32, "this my son was dead, and is alive again; he was lost,
+> and is found". *Was lost* is Király & Tokai's, cited by them at line 9,
+> where the only other unread word is a compound ending in their hired-hand
+> sign, which they cite at the same line. Lines 6-7 close the allegory by
+> listing the five senses again, as 113v did.
+
+## 116v — John the Baptist, and the soldiers and publicans who came to him
+
+**1**  Before the gospel:
+`before gospel-+<subj>`
+
+**2**  written by holy John
+`write holy-John`
+
+**3**  the Baptist; this word is written.
+`+the_Baptist this word write`
+
+**4**  Then it was,
+`time then-exist`
+
+**5**  the Lord Jesus within his twentieth
+`Lord-Jézus inside two-ten-ten`
+
+**6**  year and within the ninth year, within
+`year and inside nine year inside`
+
+**7**  that time preached
+`time preach`
+
+**8**  holy John the Baptist, on Carmel, on the mount; and he went.
+`holy-John +the_Baptist on-Carmel to-mount and go.`
+
+**9**  This John, the two […], the soldiers, the Pharisees, the farmers, and the sinful
+`this-who John two-two [?] soldier Pharisee farm and sin`
+
+**10**  people; because there went soldiers, Pharisees, farmers, and sinners, to be taught
+`people because exist go soldier Pharisee farm and sin on-learn`
+
+**11**  by John on Carmel; and first the people were, the soldiers,
+`to-John on-Carmel on first people exist soldier`
+
+> Luke 3:12-14: "then came also publicans to be baptized ... and the
+> soldiers likewise demanded of him, saying, And what shall we do?" The
+> reading is ascribed on lines 2-3 to John the Baptist himself rather than
+> to an evangelist and a chapter, which is not the book's usual formula.
+> Carmel is Király & Tokai's gloss and it is Elijah's mountain, not the
+> Jordan; that stands as the book has it. Lines 5-6 put the Lord in his
+> twenty-ninth year, where Luke 3:23 says about thirty.

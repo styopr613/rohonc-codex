@@ -1028,7 +1028,7 @@ is offered as such.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 212
+With the rendering on the page it became possible to read it, and 218
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
@@ -1114,16 +1114,16 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 228 signs are read
+in the book and keep it only if it survives all of them. 234 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
-decisive occurrences, graded A, B, C or D. 75 are tier A, twenty of them
+decisive occurrences, graded A, B, C or D. 80 are tier A, twenty of them
 stroke numerals entered whole by their composition rule. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **59.6%**.
+lines where every word is read from 23.8% to **59.8%**.
 
 **Their apparatus reads more than their headwords.** Every entry in Kiraly
 and Tokai's dictionary cites folio and line for its examples and for each
