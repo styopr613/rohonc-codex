@@ -1929,3 +1929,238 @@ Family stayed twelve years in Egypt.
 > John 13:4–6, in order: he rose from supper, laid aside his garments, poured
 > water into a basin, and came to Simon Peter. Luke 22:15 is at line 2, and
 > Matthew 26:31, "all ye shall be offended", at line 4.
+
+---
+
+## 030r — Peter objects
+
+**1**  Master […] Peter […] the Lord […] washes my feet?
+`Master [?] this-Peter [?] this-Lord [?] foot wash`
+
+**2**  […] the Lord Jesus […] […] the Lord […] the feet
+`[?] Lord-Jézus [?] [?] this-Lord [?] foot`
+
+**3**  washed […] […] […] within […] […]
+`wash [?] [?] [?] inside [?] [?]`
+
+**4**  […] […] Master […] Peter, this
+`[?] [?] Master [?] this-Peter this`
+
+**5**  […] trespass; the Lord, the sufferer […]
+`[?] trespass this-Lord sufferer [?]`
+
+**6**  […] […] […] the Lord in heaven […] |
+`[?] [?] [?] this-Lord inside heaven [?] | [?]`
+
+**7**  […] the Lord took […] […]
+`[?] this-Lord grab-cut_off-to [?] [?]`
+
+**8**  washed; and all […] […] he washed; and | then
+`wash and each,_every [?] [?] wash and | then`
+
+**9**  […] […] the Lord washed their feet; and the feet
+`exist [?] [?] foot exist-Lord wash and foot`
+
+**10**  […] […] […] and the two of them from […] among the apostles, every one
+`[?] [?] [?] and two from [?] apostle middle each,_every`
+
+**11**  he washed; and the feet […] […] […] and
+`wash and foot [?] [?] [?] and`
+
+**12**  the Lord Jesus took […] his […] and
+`grab Lord-Jézus on-Lord <of>-Lord [?] and`
+
+> John 13:8, Peter's "thou shalt never wash my feet".
+
+## 030v — the bread, and the cup with water and wine
+
+**1**  The Lord Jesus sat at table with the apostles […]; the Lord Jesus looked […] the apostles
+`sit Lord-Jézus to-throne to-apostle [?] Lord-Jézus see [?] apostle`
+
+**2**  […] see how the Lord […] you […] from […]
+`to-Lord see how? this-Lord you [?] from [?]`
+
+**3**  and you shall eat […] […]; and took
+`and you understand-eat two [?] and grab`
+
+**4**  the Lord Jesus […] one baked loaf,
+`Lord-Jézus inside why?-in_turn one baked „cake”`
+
+**5**  and […] the Lord Jesus this […] and […]
+`and [?] Lord-Jézus this [?] and [?]`
+
+**6**  the Lord set it before them; and the Lord Jesus took
+`before Lord put Lord-Jézus and grab Lord-Jézus`
+
+**7**  wine in a cup, and poured water into the cup; and […]
+`wine one cup and water inside cup pour and [?]`
+
+**8**  the Lord Jesus, the wine and the water; and the wine and water
+`Lord-Jézus wine and water and wine water`
+
+**9**  the Lord Jesus set before them […] the Lord Jesus; and […]
+`before Lord put Lord-Jézus [?] Lord-Jézus and [?]`
+
+**10**  whoever eats of this […], that man shall be | the
+`exist this [?] eat this somebody exist | <of>`
+
+**11**  Lord's […] […]; and the man who […] this […]
+`Lord [?] [?] and somebody [?] this [?]`
+
+> Water poured into the wine is not in the gospels. It is the mixed chalice
+> of the Mass, so the page is describing the rite as much as the supper.
+
+## 031r — one of you shall betray me
+
+**1**  eats and believes in the Lord […]; every man is damned […]
+`eat and Lord believe each,_every somebody be_damned [?]`
+
+**2**  and the man who believes in the Lord […] is from
+`and somebody exist Lord believe [?] exist from`
+
+**3**  […] they ate the holy Host […] drank […]
+`thirty holy-host eat [?] drink [?]`
+
+**4**  that man shall live. O! O! Amen. […]
+`somebody exist living chapter-oh chapter-oh amen [?]`
+
+**5**  The Lord Jesus […] […]: one among you
+`Lord-Jézus [?] [?] one among you`
+
+**6**  and […] the Lord […] one of the apostles shall betray him. And the apostles looked among
+`and [?] Lord [?] from apostle betray and see-apostle among`
+
+**7**  the apostles, saying […] Master […] and […]
+`apostle say [?] Master [?] and [?]`
+
+**8**  the Lord Jesus said; and […] […] the Lord Jesus
+`say Lord-Jézus and [?] [?] Lord-Jézus`
+
+**9**  […] and John, and said: O […] […]
+`[?] and ~John and say oh [?] [?]`
+
+**10**  […] Master, who is it? And then he leaned
+`from-judge Master Who_is_it? and then-exist lean_on`
+
+**11**  […] upon the Lord Jesus […] Master |
+`[?] on-end Lord-Jézus [?] Master | [?]`
+
+**12**  thus said the Lord Jesus […]; the Lord took a morsel
+`this-and-this say Lord-Jézus [?] this-Lord grab bite`
+
+> John 13:25, "Lord, who is it?", with John leaning on him, and 13:26, the
+> sop. The dictionary has a word for "Who is it?" as a single code.
+
+## 031v — Satan enters into Judas
+
+**1**  […] It is he. And then […] […]
+`[?] That_is_it. and then-exist sleep [?]`
+
+**2**  upon the Lord Jesus; and he took this […]
+`on-end Lord-Jézus and grab this [?]`
+
+**3**  […] and […] the Lord Jesus […] this
+`[?] and [?] Lord-Jézus [?] this`
+
+**4**  […] And then […] Judas
+`[?] and then-exist [?] exist-Lord Judas`
+
+**5**  […] took; and then […] Judas
+`[?] grab and then-exist [?] Judas`
+
+**6**  […] In that place the devil entered into Judas.
+`[?] on-to-place hell evil inside Judas go-this`
+
+**7**  […] the Lord Jesus; the apostles weeping […]; and he took this
+`[?] Lord-Jézus apostle crying from somebody and grab this`
+
+**8**  […] the Son of God […] the Lord Jesus. Judas did
+`from son God [?] Lord-Jézus Judas do,`
+
+**9**  […] did; and then […] the apostles, how
+`[?] do, and then-exist [?] apostle how?`
+
+**10**  he said: Master, speak. But the apostles did not understand what Judas said.
+`say Master speak a) understand apostle how? say Judas`
+
+**11**  […] bought […] shepherd […] because
+`[?] buy [?] shepherd [?] because`
+
+**12**  […] the apostles […] because this was the Jews' Passover.
+`food apostle ~exist judge because this exist Jew(ish) Easter`
+
+> John 13:27, "Satan entered into him", and 13:28, "no man at the table knew
+> for what intent he spake this unto him."
+
+## 032r — Wednesday, and the silver
+
+**1**  and […] Judas; and he went [to] the Jews'
+`and [?] Judas and go Jew(ish)`
+
+**2**  chief in Jerusalem; because the Lord was […]. On Wednesday one of the apostles
+`head inside Jerusalem because Lord exist inside Wednesday from apostle`
+
+**3**  betrayed him — Judas — because he took for the Lord […]
+`betray Judas because exist to-Lord grab [?]`
+
+**4**  silver […] the Lord Jesus; the Lord's brethren; the Lord
+`silver [?] Lord-Jézus brother <of>-Lord this-Lord`
+
+**5**  goes to God his Father; and the Lord […] to you
+`go <of>-Lord father-<divine> and this-Lord you`
+
+**6**  the Holy Spirit shall come; and you shall […]
+`go holy-spirit and you exist see-two`
+
+**7**  […] that is, the Lord goes to his death; the Lord dies, because
+`judge that_is this-Lord go on-die Lord die because`
+
+**8**  the Lord, the Jews […]; and the Lord […]
+`Lord Jew(ish) [?] and this-Lord [?]`
+
+**9**  […] the Lord shall rise. Therefore the Lord asks you:
+`[?] stand_up-Lord that_is_why ask_(for) Lord you`
+
+**10**  do not, apostles, be offended in the Lord, because […]
+`do_not apostle inside Lord stumble because what-go [?]`
+
+**11**  [to] God his Father […] […] […] the Lord […] […]
+`<of>-Lord father-<divine> [?] [?] [?] Lord [?] [?]`
+
+> The codex dates the betrayal to a Wednesday, which is the traditional day
+> and not stated in any gospel.
+
+## 032v — Peter will deny him
+
+**1**  Peter: Master — Peter would […] the Lord; the Lord dies.
+`Peter Master this-Peter want food Lord this-Lord die`
+
+**2**  […] the Lord Jesus [to] Peter: first, but before […]
+`[?] Lord-Jézus Peter first a) before [?]`
+
+**3**  […] thou shalt deny the Lord. And Peter said […]
+`[?] Lord-to [?] exist deny and Peter say [?]`
+
+**4**  […] […] the Lord Jesus, Peter, this […] this
+`emperor [?] Lord-Jézus Peter this [?] this`
+
+**5**  […] Therefore the Lord asks you: do not […]
+`~out(ward) that_is_why ask_(for) Lord you do_not [?]`
+
+**6**  be offended in the Lord; because the apostles were very sorrowful for the Lord;
+`inside Lord stumble because exist apostle many sad(ly) on-Lord have`
+
+**7**  and one of the Jews was a judge; and the mouth
+`in_turn one Jew(ish) exist judge and mouth`
+
+**8**  […] the Lord Jesus said: but […]; and the Lord went
+`can Lord say Lord-Jézus a) [?] and go Lord`
+
+**9**  on the way, because the Lord Jesus […] when the Lord […]
+`on-way because have Lord-Jézus then-exist Lord [?]`
+
+**10**  Judas, in the house of the high priest; and many miracles
+`Judas inside house ~high_priest and many miracle`
+
+**11**  and much preaching […] the Lord Jesus, on the way.
+`and many ~preach [?] Lord-Jézus on-way`
