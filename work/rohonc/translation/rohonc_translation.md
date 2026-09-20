@@ -3570,3 +3570,240 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Longinus, the blind soldier whose sight is restored by the blood from the
 > spear wound, is not in any gospel. He is the Golden Legend, and Király and
 > Tokai's dictionary has a code glossed for him by name.
+
+## 053r — after the ninth hour
+
+**1**  […] the Lord Jesus Christ; and […] believed in the Lord,
+`can Lord-Jézus-Christ and [?] inside Lord believe`
+
+**2**  but many judged […] […] home.
+`a) many judge [?] [?] home`
+
+**3**  And the second said sorrowfully, accusing, because […] […]
+`in_turn-two +say sad(ly) accuse because [?] [?]`
+
+**4**  he said […] they crucified, saying, the Son of God; and
+`+say [?] ~execute +say son God and`
+
+**5**  sorrowfully they went, saying […] home; and this
+`sad(ly) go +say [?] home and this`
+
+**6**  […] was the ninth hour, and four hours from that hour
+`[?] out(ward) nine ~hour and two-two from ~hour`
+
+**7**  the Lord Jesus suffered upon the cross […] […]
+`+cross suffer Lord-Jézus [?] [?]`
+
+**8**  all […] home from […] […]
+`each,_every [?] home from [?] [?]`
+
+**9**  and the apostles […] went, every one of the apostles […] |
+`in_turn apostle exist [?] go-go each,_every to-apostle [?] | on`
+
+**10**  […] and one, and […]
+`[?] and one and understand-eat`
+
+## 053v — Joseph and Nicodemus ask for the body
+
+**1**  the apostles […]; and then two […] Jerusalem,
+`apostle cut_off and then-exist two somebody-have_mercy Jerusalem [?]`
+
+**2**  and […] was […]; and the second
+`and [?] exist [?] in_turn-two`
+
+**3**  Nicodemus; and then the two asked of Pilate
+`~Nicodemus and then-exist two ask_(for) from Pilate`
+
+**4**  […] the Lord Jesus; and […] the two, the sufferer
+`[?] Lord-Jézus and [?] two sufferer`
+
+**5**  […] the Lord Jesus; and then the two went […]
+`[?] Lord-Jézus and then-exist two go [?]`
+
+**6**  Christ was […]; and the two went […]
+`exist Christ [?] and go [?] two`
+
+**7**  many Jews; and the two were, that is, good and merciful men;
+`many Jew(ish) and two people that_is good people have_mercy`
+
+**8**  and then the two saw the Virgin Mary, and […]
+`and then-exist two see virgin-Mary and [?]`
+
+**9**  Magdalene. Many people went out of Jerusalem, and
+`Magdalene go many people on-Jerusalem and ~through`
+
+**10**  were afraid, because the Jews would […] the Lord, all […] because
+`startle because to Lord want Jew(ish) each,_every Lord [?] because`
+
+## 054r — taken down, and the tomb sealed
+
+**1**  this was […] | and […] went […] […]
+`this exist from | and [?] go [?] [?]`
+
+**2**  because Mary was […] fled […]
+`because exist-Mary [?] escape [?]`
+
+**3**  the Jews; and in that place were these people, when
+`Jew(ish) and on-place exist this people then-exist`
+
+**4**  the two Marys went to the people, and took
+`from two-Mary to-people go-two-Mary and grab`
+
+**5**  Nicodemus the Lord Jesus from the cross, and the three nails,
+`~Nicodemus +cross [?] Lord-Jézus in_turn +three three_nails`
+
+**6**  […] Saint John took […] saw | the Virgin
+`[?] grab holy-John [?] see | virgin`
+
+**7**  Mary […] took the Virgin Mary into […]
+`Mary [?] grab virgin-Mary inside [?]`
+
+**8**  and […] Nicodemus, with his servants'
+`~and [?] Nicodemus <of>-living-servant`
+
+**9**  […]; and the two covered the body, and […] […]; and
+`[?] and cover two body and [?] [?] and`
+
+**10**  Nicodemus laid the Lord Jesus within, and
+`inside-put Nicodemus [?] Lord-Jézus and`
+
+**11**  they closed the Lord within the tomb; and there stood, he said, four soldiers by the Lord […]
+`Lord inside burial_chamber close and leave [?] +say to-Lord two-two soldier [?]`
+
+**12**  […] the chief of Jerusalem; and […] went […]. Here ends this
+`[?] Jerusalem head ~and [?] go [?] end this`
+
+**13**  holy gospel.
+`holy-gospel`
+
+## 054v — a rubric, naming Mark
+
+**1**  Here begins this holy gospel, written by Saint Mark.
+`begins this holy-gospel write holy-Mark`
+
+> The fourth evangelist the codex names for itself, after Luke, Matthew and
+> John. What follows is Mark 16, and it follows it closely.
+
+## 055r — the three women at the tomb
+
+**1**  in the […] chapter of his writing: at that time, when
+`inside [?] chapter-leave <of>-write time then-exist`
+
+**2**  they went […] […] to the tomb of Christ, because they had prepared
+`go [?] [?] burial_chamber Christ because-exist prepare`
+
+**3**  […] […] […] […] Jesus:
+`[?] [?] this-cut_off [?] [?] Jézus`
+
+**4**  Mary Salome, and Mary the mother of James, and
+`Mary Salome and Mary James mother and`
+
+**5**  Mary Magdalene. And then these Marys […] these Marys
+`Mary Magdalene and then-exist this-two-Mary [?] this-two-Mary`
+
+**6**  among […] […]
+`among [?] [?]`
+
+**7**  […] the stone from the tomb; and then |
+`[?] from stone on-burial_chamber and then-exist | [?]`
+
+**8**  Mary came to the tomb of Christ, and saw […] […]
+`Mary to-burial_chamber Christ and see [?] [?]`
+
+**9**  the tomb […]; and then […] within this
+`+<subject_marker> burial_chamber from [?] and then-exist [?] inside this`
+
+**10**  […] and they went in […] and
+`[?] and inside-to-go [?] and`
+
+**11**  […] saw […] Jesus; but they saw one
+`[?] see [?] Jézus a) see one`
+
+> Mark 16:1 names exactly these three: Mary Magdalene, Mary the mother of
+> James, and Salome. The codex has all three, and the stone rolled away.
+
+## 055v — be not afraid, he is risen
+
+**1**  angel, sitting on the left side, from […] within
+`angel sit on-left_(side) direction from [?] inside exist`
+
+**2**  […] […] Jesus. And then Mary, through
+`[?] [?] Jézus and then-exist Mary through`
+
+**3**  was afraid, because Mary […] as a ghost.
+`startle because rather-Mary [?] +<subject_marker> how? ghost`
+
+**4**  And then the angel: be not […] […]
+`+and_then angel do_not [?] [?]`
+
+**5**  […] be not afraid. He is risen, whom ye mourn — the Lord Jesus,
+`[?] through startle +rise mourn to-Lord from Jézus`
+
+**6**  whom they crucified, is risen […]; but […]
+`execute +rise [?] a) [?]`
+
+**7**  within […] and […]
+`inside [?] and [?]`
+
+**8**  his apostles, and Peter […]. Here ends this
+`<of>-Lord apostle and Peter [?] end this`
+
+**9**  holy gospel. And […] these women went
+`holy-gospel and [?] go this woman`
+
+**10**  […] from the tomb of Christ; and |
+`head from this burial_chamber Christ and | [?]`
+
+**11**  Mary Magdalene went back to the tomb of Christ. At that time
+`[?] back Mary Magdalene to-burial_chamber Christ time`
+
+> Mark 16:5–7, including "tell his disciples and Peter", which is Mark's
+> detail and no one else's. The codex puts the angel on the left; Mark says
+> the right.
+
+## 056r — Mary Magdalene takes him for the gardener
+
+**1**  the Lord Jesus appeared to Mary Magdalene in the form of a
+`appear Lord-Jézus Mary Magdalene inside shape,_form from one`
+
+**2**  gardener. And then this gardener, the Lord Jesus Christ, | [said to] this
+`gardener +and_then this gardener-Lord-Jézus-Christ | this`
+
+**3**  woman: why […] woman, weepest thou for the Lord? He,
+`woman who-shore [?] woman mourn to-Lord this from`
+
+**4**  Jesus, whom they crucified, is risen, because
+`Jézus execute +rise [?] because`
+
+**5**  […] said […] […] […] light […]
+`say [?] [?] [?] light [?]`
+
+**6**  […] […] the tomb pierced, and the tomb
+`town-chapter-in_turn [?] burial_chamber pierce and burial_chamber +<subject_marker>`
+
+**7**  light […]; and […] […] is risen.
+`light from-gate and [?] can [?] +rise`
+
+**8**  And the Lord Jesus stood before Mary Magdalene
+`and leave Lord-Jézus before Mary Magdalene`
+
+**9**  in that place; Mary […] […]
+`on-to-place Mary [?] on-reason [?]`
+
+**10**  […] Master! And the Lord […] to Mary: go to the apostles.
+`this-Lord Master and Lord +<subject_marker> to-Mary-apostle go-Lord-apostle`
+
+**11**  And Mary went to these two sisters, the women,
+`and go-Mary to this two sister wife`
+
+> John 20:15, where she supposes him to be the gardener, and 20:17, go to my
+> brethren. The codex explains the mistake by saying he appeared in that
+> form.
+
+## 056v — two lines
+
+**1**  and then Mary went with these women,
+`and then-exist Mary understand-go-Mary this woman`
+
+**2**  and Mary would tell […]
+`and want say Mary from`
