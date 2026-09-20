@@ -3815,5 +3815,269 @@
   "tier": "A",
   "n": 1,
   "evidence": "their down entry lists this spelling at 054r01"
+ },
+ "540": {
+  "gloss": "name",
+  "tier": "B",
+  "n": 4,
+  "evidence": "their name entry declares the swap '520 ~ 540, 670, a10', which covers this spelling. A single glyph with a large reach, and they cite no line for it, so B"
+ },
+ "520833": {
+  "gloss": "cover",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their cover [corpse] entry lists this spelling at 055v02"
+ },
+ "540ae0520536526060": {
+  "gloss": "resurrect",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their resurrect entry lists this spelling at 060v01"
+ },
+ "520520460670570": {
+  "gloss": "lamb",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their lamb entry lists this spelling at 062r05"
+ },
+ "0602dd520": {
+  "gloss": "Isaac",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Isaac entry gives '(suffix?) 0602dd520 062r01, 05'"
+ },
+ "848670": {
+  "gloss": "offering",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their offering entry lists this spelling at 062r07"
+ },
+ "0607a2001796520": {
+  "gloss": "deadly_poison",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their entry lists 0607a2001796520 at 073r04, glossed 'deadly poison (Mk 16, 18)'"
+ },
+ "520716716": {
+  "gloss": "drink",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their drink entry lists this spelling at 073r04"
+ },
+ "520060060443559": {
+  "gloss": "heaven",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their heaven entry lists this spelling at 082v06"
+ },
+ "719520b31af8b31670": {
+  "gloss": "bury",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their '?? bury' entry (citing the Clementine Vulgate at Lk 16:22) lists 719520b31af8b31670 at 088r08. Two question marks of theirs"
+ },
+ "8c2540": {
+  "gloss": "head",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their dictionary gives 8c2540 its own entry and glosses the phrase it stands in at 088v10-11, 'from head to toe'"
+ },
+ "6701f0690": {
+  "gloss": "toe",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their dictionary gives 6701f0690 its own entry and glosses the phrase it stands in at 088v10-11, 'from head to toe'"
+ },
+ "a10774": {
+  "gloss": "table",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their table entry lists this spelling at 088v12"
+ },
+ "a97520100": {
+  "gloss": "take",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their grab, take entry lists this spelling at 089v12"
+ },
+ "520060421": {
+  "gloss": "swallow",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their '?? swallow' entry lists '?? 520060421 107v04'. Four question marks of theirs across the entry"
+ },
+ "8b7": {
+  "gloss": "good_news",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their news, gospel entry gives '?? 8b7 150r04'. Two question marks of theirs"
+ },
+ "5403623b0": {
+  "gloss": "Nazareth",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Nazareth entry lists this spelling at 160r04"
+ },
+ "520831916": {
+  "gloss": "repentance",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their repentance, penitence entry lists this spelling at 165v01"
+ },
+ "358a10": {
+  "gloss": "divide",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their divide into parts entry lists this spelling at 169r05"
+ },
+ "5201515202c0": {
+  "gloss": "priest",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their priest entry lists this spelling at 178r08"
+ },
+ "a18": {
+  "gloss": "host",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their host (of the Eucharist) entry lists a18 at 180v07"
+ },
+ "670320": {
+  "gloss": "be_damned",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their be damned entry lists this spelling at 182v04"
+ },
+ "271ae0670271ae0670": {
+  "gloss": "an_army",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their own entry for this word lists 271ae0670271ae0670 among its spellings; it is the word this project had been reading as an army from 045v:9, Matthew 26:53"
+ },
+ "280": {
+  "gloss": "up",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their adverb of direction entry (2c1) gives '? 280 185v01'. Their question mark"
+ },
+ "991b04": {
+  "gloss": "but",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their concessive conjunction entry gives 'in ligatures 991b04 185v09'"
+ },
+ "7c3910": {
+  "gloss": "who",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their relative pronoun who entry lists this spelling at 187v07"
+ },
+ "a10444ae0": {
+  "gloss": "heavenly",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their heavenly entry lists this spelling at 187v08"
+ },
+ "a10b52011": {
+  "gloss": "stay",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their stay entry gives '? a10b52011 180v07, 188r05'. Their question mark"
+ },
+ "520244ae0520": {
+  "gloss": "leper",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their leper entry lists this spelling at 193r10"
+ },
+ "520ae00e2": {
+  "gloss": "Capharnaum",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their Capharnaum entry lists this spelling at 193v07"
+ },
+ "00c670ae0670ae0": {
+  "gloss": "pray",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their pray entry lists this spelling at 198r04"
+ },
+ "7ba": {
+  "gloss": "water",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their water entry gives '? 7ba 201r09'. Their question mark"
+ },
+ "5401f54c0": {
+  "gloss": "Gabriel",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their Gabriel [angel] entry gives '?? 5401f54c0 202v02, 03'. Two question marks of theirs"
+ },
+ "520444060": {
+  "gloss": "friend",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their friend entry lists this spelling at 202v02"
+ },
+ "5407a0812": {
+  "gloss": "hand",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their hand entry (5207a0ae0) declares the swap 'ae0 ~ 812' and lists 5407a0812 at 202v03"
+ },
+ "a34": {
+  "gloss": "throw_out",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their throw out entry lists this spelling at 202v04"
+ },
+ "5401fa": {
+  "gloss": "today",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their today entry (Lk 19:5 and 9) gives '?? 5401fa 207v02'. Two question marks of theirs"
+ },
+ "6f6520007": {
+  "gloss": "money_changer",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their '? seller of doves (Lk 19, 45) or money changer' entry lists 6f6520007 at 010r04"
+ },
+ "6f6": {
+  "gloss": "money_changer",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their '? seller of doves or money changer' entry lists 6f6 at 010r04"
+ },
+ "4f3241": {
+  "gloss": "crown",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their verb crown [someone king] entry lists this spelling at 012v09"
+ },
+ "540ae0540060a101f6": {
+  "gloss": "name",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their name entry lists this spelling at 222r01"
+ },
+ "703": {
+  "gloss": "the_name_of_the_author",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their '? <the name of the author>' entry lists 703 across folio 222v, seven times, which is where this sign stands"
+ },
+ "715ae1ad3": {
+  "gloss": "Michael",
+  "tier": "B",
+  "n": 1,
+  "evidence": "their '<name of an angel> ?? Michael' entry lists 715ae1ad3 at 224r02. Two question marks of theirs"
+ },
+ "520966670": {
+  "gloss": "lose",
+  "tier": "A",
+  "n": 1,
+  "evidence": "their lose entry lists this spelling at 224v11"
  }
 }
