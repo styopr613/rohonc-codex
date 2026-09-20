@@ -324,13 +324,14 @@ Defining the top 50 undefined codes would lift coverage from 62.1% to 73.1%;
 the top 100 to 76.0%; the top 200 to 79.1%; the top 500 to 84.1%. That is a
 work plan, and it is owed to the authors.
 
-## Extending the dictionary: ten attempts, a ceiling, and one survivor
+## Extending the dictionary: thirteen attempts, a ceiling, and a way in
 
 Four words in ten have no gloss and another five in ten have several. Working
 out the undefined codes is the part of the problem nobody has done. It was
-tried ten ways. Nine failed outright; the tenth narrowed one code to a
-grammatical class and a semantic field without naming it. The
-bar was never moved. Two evaluation bugs were fixed and the runs repeated;
+tried thirteen ways. Ten failed outright. The tenth narrowed one code to a
+grammatical class and a semantic field without naming it. The twelfth and
+thirteenth passed, and between them they read 19% more of the book. The bar
+was never moved. Two evaluation bugs were fixed and the runs repeated;
 neither fix changed a verdict. Five of the six were mechanical. The sixth was
 not, and did best.
 
@@ -527,6 +528,154 @@ illustrations as entry points and a corpus of prayer, apocrypha and sermon
 material in mind. This was one pass. Twenty years of disciplined guessing is
 not an afternoon of it, and the discipline is the part that does the work.
 
+## The eleventh attempt, and a corpus that was not the problem
+
+Two things were tried after the class fingerprint, and both failed. They are
+recorded because the second one was a specific prediction that turned out to
+be wrong.
+
+**Do codes inherit meaning from the codes inside them?** 84% of undefined
+codes contain a shorter defined code as a contiguous substring, which is 35%
+of the book by tokens, and nobody had asked whether that containment carries
+meaning. It does not. Of 416 defined codes containing a defined code, 1.4%
+share a content stem with the code inside them, against 0.3% for a shuffled
+control: a ratio of 4.94 but only 4.7 sigma, against a bar of twice the
+control and 5 sigma set before the run. **Fail**, and the absolute rate makes
+it worse than the sigma does. Six real hits is not a method. Looking at the
+pairs shows why: the recurring initial signs open "denarius", "sin", "body",
+"blind" and "foot" alike. They are not morphemes. Code: `ktmorph.py`.
+
+**Was the aligner pointed at the wrong book?** The third attempt, sequence
+alignment, scored 15% against a 30% bar using the four canonical gospels as
+its reference. Király's 2022 paper says the codex is gospel paraphrase
+"intertwined with apocryphal scenes of the Virgin Mary, prayers, Old Testament
+reminiscences, allegorical expositions, and stories from the lives of saints",
+and names folios against specific sources: Seth at the gate of paradise (7v),
+the destruction of Jerusalem (111r-112r), the Invention of the Cross
+(182v-186v), Augustine and the boy on the shore (84r-v) and Barlaam's parable
+(148r-149v) all come from the Golden Legend; Lucifer sitting on God's throne,
+the Nativity details and the idols falling before the holy family in Egypt all
+come from the mystery cycles. The bag-of-words result supported the suspicion:
+real pages matched the gospels *worse* than shuffled bags of their own words,
+which is what a wrong reference looks like rather than a hopeless method.
+
+So the reference was rebuilt from the sources the paper names: the whole King
+James Bible, Wake's apocryphal New Testament, the York, Towneley, Chester and
+N-Town play cycles and Caxton's Golden Legend, 1,746,498 words in all. The
+aligner was not touched. Its one slow step was rewritten to use bisection
+instead of a linear scan, and the gospels-only run was repeated first to prove
+the rewrite changed nothing: 8% / 15% / 23%, identical to the saved baseline.
+
+On the wider corpus the same bar produced 4% first, **13% in the top five**,
+13% in the top twenty, on 23 testable codes rather than 13. **Fail**, and no
+better than the gospels alone. The corpus was not the problem. The prediction
+was mine, it was specific, and it was wrong. What remains is the explanation
+Király gives himself: the author worked from hearsay, gets biblical citations
+wrong, and tells stories in variants that exist in no known source.
+
+Code: `ktextend.py` takes the reference from `ROHONC_REF`; the corpus builder
+and both runs are in `work/rohonc/ktalign_gate_wide.txt`.
+
+## The twelfth and thirteenth: the codes are phrases
+
+Every attempt so far treated a code as an atom — an opaque symbol with a
+meaning to be guessed. That was the mistake, and the 2022 paper says so in
+passing. Describing folio 137v it notes that the codex does not inflect:
+instead of a pronoun or a conjugated verb, "the sign of the subject's name
+consistently stands", and it prints a line as `... bűn nélkül Jézus fogan
+te-Mária` — sin, without, Jesus, conceive, you-Mary — where *you-Mary* is
+written as a single code.
+
+That code is E569 E607. Both halves are in K&T's own dictionary: E569 is the
+second person singular pronoun with 932 occurrences, E607 is Mary. The
+compound is not in the dictionary. It is a phrase written without a space.
+
+The construction is not rare. Name signs are the most productive final
+elements in the book:
+
+        Lord      577 alone    1038 inside longer codes
+        Jesus      89 alone     558
+        Mary       59 alone     137
+        Christ     52 alone     111
+        Satan     156 alone     100
+
+Nearly every one of those compounds is undefined.
+
+**The twelfth attempt tests the construction without using K&T's glosses at
+all.** If a code ending in a name sign refers to that name, it should occur
+where the name occurs. For every undefined compound with five or more
+occurrences, all 37 candidate name signs were ranked by how well their own
+page profile matched the compound's, and the rank of the name the compound
+actually ends in was recorded. The control repeats the test on codes matched
+on frequency that do *not* end in a name sign, holding the book's topical
+structure, the profile measure and the frequency fixed.
+
+The bar, set before the run: the true name first for at least 40% of
+compounds, at least twice the control, at least 5 sigma. Result: **43.9%
+against 6.3%, a ratio of 6.94 at 12.4 sigma. Pass** — the first clean pass in
+twelve attempts. Code: `ktname.py`.
+
+**The thirteenth reads them.** If the compounds are phrases, a code should cut
+into a sequence of dictionary codes and read as the sequence. The first gate
+for that failed: of the codes K&T define, only 32 can be cut into other
+defined codes at all, and 3.1% of those have a composed gloss that hits the
+true gloss, 1.4 sigma. That is a fail and it stays one, but the held-out set
+is the wrong population — K&T define words, and the codes they left undefined
+are precisely the phrasal ones, so almost none of the construction under test
+is in the sample.
+
+A second gate was declared before it was run and tests the same claim on the
+population that matters, using distribution instead of glosses. If [A][B]
+means A combined with B, the compound should sit where A and B sit. Bar: the
+compound closer to its own parts than to frequency-matched stand-ins for at
+least 60% of codes, at least 5 sigma. Result on 316 codes: **77.5% against
+47.4%, 9.8 sigma. Pass.**
+
+So two independent gates hold, one on names and one on parts generally.
+
+**What it reads.** 1,282 of the 4,247 undefined code types cut cleanly into
+dictionary codes. They carry 5,754 tokens — 46% of the undefined text and 19%
+of the whole book. Coverage goes from 58.4% to **77.6%**.
+
+The commonest of them are not obscure:
+
+        534   Lord + Jesus
+        301   <genitive> + Lord
+        224   Lord + <divine-name suffix>
+        109   holy + Word
+         71   Lord + Jesus + Christ
+         70   from + father + <divine-name suffix>
+         62   virgin + Mary
+         43   holy + Pentecost
+         34   holy + Luke
+         30   holy + John
+
+Lord Jesus Christ, the Virgin Mary, Saint John, Saint Luke, God the Father,
+the Holy Word. A devotional book reading as one.
+
+The rendering picks one sense per part and sometimes picks badly — K&T list
+"widow" alongside "virgin" for E870 — so the glosses above are the
+construction, not a finished translation.
+
+**Code C is resolved.** The one survivor of the first ten attempts, 35
+occurrences, 71% in folios 0-19, classed as a noun in the adversary field with
+a held-out association at 12.1 times chance, is E950 EB61. EB61 is K&T's sign
+for angel / Lucifer / Satan. E950 is their "hide oneself". The adversary lift
+was never a semantic field to be inferred; the code contains the word Lucifer.
+What is left is the exact sense of the prefix, not the identity of the word.
+
+**What is new here and what is not.** The grammar is Király and Tokai's: they
+describe it, and they print the *you-Mary* example this work started from.
+What is new is that the construction is confirmed independently of their
+glosses, at 12.4 and 9.8 sigma against matched controls, and then applied
+across the whole book to produce 1,282 readings their published dictionary
+does not contain. The check that matters ran in the other direction too: the
+composition rule, applied blind to folio 137v, reproduces their published line
+— sin, without, Jesus, conceive, you-Mary — in order.
+
+Code: `ktname.py`, `ktsegment.py`. Saved runs: `work/rohonc/ktname.txt`,
+`work/rohonc/ktsegment.txt`.
+
 ## A third transcription from the scans: negative
 
 The pipeline splits each scanned opening at the gutter, finds the lit page
@@ -572,6 +721,10 @@ repository staff; with it, this would probably be feasible.
     python ktsolve.py 3       # frame evidence for the top undefined codes
     python kttopical.py       # which undefined codes are worth attacking
     python ktclass.py         # what kind of word an undefined code is
+    python ktmorph.py         # the eleventh, meaning inherited from a substring
+    ROHONC_REF=data/ref/rohonc/ALL.txt python ktalign.py   # the wider corpus
+    python ktname.py          # the twelfth, name-final compounds
+    python ktsegment.py       # the thirteenth, cutting codes into codes
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 

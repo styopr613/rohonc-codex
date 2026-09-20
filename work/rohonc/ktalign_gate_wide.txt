@@ -1,0 +1,25 @@
+HELD-OUT GATE -- sequence alignment
+
+ rank   freq  true gloss                  proposed
+    —   1601  eleven                      burial, him, cros, hundr
+    —    932  thu                         jesu, buri, doctor, command
+    —    601  exist                       cros, nam, plac, fall
+    —    589  insid/within                abraham, gat, unto, last
+    —    577  divin/husband/lord/person   deni, peopl, plac, law
+    —    455  away                        unto, preparation, man, hundr
+    1    335  first/one                   one, unto, servant, nam
+    —    321  say/speech                  invention, unto, releas, perl
+    —    307  carry/com/forward/lead/sen  gat, pour, burial, know
+    —    306  completely/every/whol/whol  last, observ, surpris, thing
+    —    278  boy/son                     make, unto, prais, lord
+    —    233  deifi/glorifi/god           buri, unto, anna, good
+    3    204  giv/grab/tak                maria, good, giv, crucifixion
+    —    192  becaus/order                prov, thi, great, lamentation
+    —    167  ish/jew                     servant, nam, son, coast
+
+tested 23 hidden codes
+  true gloss ranked #1    1  (4%)
+  true gloss in top 5     3  (13%)
+  true gloss in top 20    3  (13%)
+
+bar: top-5 >= 30%  ->  FAIL

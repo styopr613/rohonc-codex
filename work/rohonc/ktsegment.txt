@@ -1,0 +1,157 @@
+==========================================================================
+READING UNDEFINED CODES BY CUTTING THEM INTO DEFINED ONES
+==========================================================================
+defined codes cleanly cut into other defined codes   32
+  composed gloss hits the true gloss      3.1%
+  same test, parts' glosses shuffled      0.9%  (sd 1.56)
+  ratio 3.64x     sigma 1.4
+
+  BAR: hit >= 40%, ratio >= 2.0x, sigma >= 5.0   ->  FAIL
+
+undefined code types                  4247
+  cut cleanly into defined codes      1282  (30%)
+undefined tokens                     12484
+  now readable by composition         5754  (46% of undefined, 19% of the book)
+book coverage before    58.4%
+book coverage after     77.6%
+
+==========================================================================
+GATE B -- does a cut code sit where its own parts sit?
+==========================================================================
+segmentable undefined codes tested   316
+  closer to its own parts than to stand-ins    77.5%
+  same test, stand-ins on both sides           47.4%  (sd 3.09)
+  sigma 9.8
+
+  BAR: win >= 60% and sigma >= 5.0  ->  PASS
+
+==========================================================================
+THE READINGS
+==========================================================================
+Each code below is absent from K&T's dictionary and is read here as the
+sequence of dictionary codes it cuts into. The gloss shown picks the
+most specific sense of each part.
+
+      n  code                            reading
+    534  e270 e308                       lord + Jézus
+    467  e810 e670 eae0                  if + exist
+    301  eb60 e270                       <genitive pronoun> + lord
+    224  e270 e8c0                       lord + <suffix of divine name>
+    133  e520 e060 e270                  this + lord
+    109  e871 e3e2                       holy + Word
+     95  e670 e69c eae0                  chapter + oh
+     93  e520 e270                       to + lord
+     72  e569 e270                       so + lord
+     71  eb60 ea10 e003 ea10 e060        <genitive pronoun> + we
+     71  e270 e308 e754                  lord + Jézus + Christ
+     70  ea10 e9d3 e8c0                  the + father + <suffix of divine name>
+     62  e870 e607                       widow + Mary
+     61  e9d3 e8c0                       father + <suffix of divine name>
+     60  e630 e569                       at + so
+     52  e4a7 e270                       go + lord
+     51  ea10 e9d3                       the + father
+     44  eb60 e845                       <genitive pronoun> + book
+     43  e871 e817 eae0                  holy + man
+     40  e670 eae0 e670 eae0 e670        exist + exist + chapter
+     35  e950 eb61                       hide oneself + Satan
+     34  e871 e670 e090 eae0             holy + Luke
+     31  e812 e060 e060                  or + two
+     30  e871 e4a8 e4b1                  holy + John
+     25  e520 e100 e270                  give + lord
+     24  e060 e060 e060 e060             two + two
+     23  e810 e670 eae0 e270             if + exist + lord
+     22  e270 e754                       lord + Christ
+     22  e5e1 e060 e060 e371             soul + son
+     21  e812 e670 e812                  or + chapter + or
+     21  e7a0 e7a0 e850 e520 e520        shout + to
+     20  e630 eb61                       at + Satan
+     20  e520 e7a0 e812                  why? + or
+     19  e670 eae0 e270                  exist + lord
+     18  e810 e670                       if + chapter
+     18  e871 e920 eae0                  holy + Matthew
+     17  e630 e520 e060 e060 e443 e520   at + heaven
+     16  eb30 e520 eb30                  is + to + is
+     16  e630 e341                       at + place
+     15  e4a6 e670 eae0                  that + exist
+     15  e630 e270                       at + lord
+     15  eb33 e520                       like + to
+     14  e846 e670                       nation + chapter
+     14  e670 eae0 e670 eae0             exist + exist
+     13  e520 e454                       to + many
+     13  eb60 e5e1 e060 e060 e371        <genitive pronoun> + soul + son
+     13  e933 ea10 e003 ea10 e060        God + we
+     12  e670 eae0 e670                  exist + chapter
+     12  e520 e520                       to + to
+     12  e630 e3b1                       at + Jerusalem
+     12  e540 e540 e270                  want + lord
+     12  eb60 e9d3 e8c0                  <genitive pronoun> + father + <suffix of divine name>
+     12  e630 e7e0                       at + teach
+     12  e470 e270                       rich + lord
+     11  e630 e454                       at + many
+     11  eb60 e270 e8c0                  <genitive pronoun> + lord + <suffix of divine name>
+     11  e630 e520 eb06                  at + birth
+     11  e630 e520 e2c0 ea10 e850 e670   at + a
+     11  e630 e796                       at + die
+     11  e871 e152 e670 eae0             holy + Peter
+     11  e521 eb60 e270                  to + <genitive pronoun> + lord
+     11  e270 e520                       lord + to
+     11  e4a7 e7e1                       go + teach
+     11  e670 eae0 e0a2 e0a2 e270 eae0   exist + today’s
+     11  ea10 e003 ea10 e060 e520 e3c4   we + sin
+     10  e7a0 e080 e569 e080             who + who + so + who
+     10  e7a0 e670 eae0                  who + exist
+     10  e5ee e5ee                       six + six
+     10  e520 e390 ea10 eae0             to + happy
+     10  e630 e569 e569                  at + these
+     10  ea10 eac5                       the + Hail
+     10  e630 e071                       at + they all
+     10  eb60 e607                       <genitive pronoun> + Mary
+     10  e520 e060 e7a0                  this + who
+     10  e520 e460 e520 e460             not + not
+     10  e630 e7e1                       at + teach
+     10  e060 e060 e371 e270 e8c0        son + lord + <suffix of divine name>
+     10  e520 e5a0 e520 eb7a             girl + faith
+     10  e520 e060 e060 e507             to + of an alien nation, pagan
+      9  e569 e080 e569                  so + who + so
+      9  e520 e2c0 ea10 e850 e520        believe + eat
+      9  e4f1 eae0 e270                  rise + lord
+      9  e520 eb51                       to + house
+      9  e574 ea10 ea10 e456             live + serve
+      9  e4a7 ea10 e003 ea10 e060        go + we
+      9  e270 e8c0 ea10 ea10 e795        lord + <suffix of divine name> + king
+      8  e990 e060 e520                  jar + to
+      8  e870 e602                       widow + girl
+      8  ea10 e060 e0a2 eab0             the + gate
+      8  e060 e060 eae1                  two + day
+      8  e520 e2c3                       to + down
+      8  eb60 e060 e060 e371             <genitive pronoun> + son
+      8  e630 e520 e060 e234             at + execute
+      8  e4a4 e270                       say + lord
+      8  e470 ea10 e003 ea10 e060        rich + we
+      8  e270 e9d3                       lord + father
+      8  e630 e060 e4f0                  at + good
+      8  e871 e520 e2d1                  holy + Stephen
+      7  e569 e540 eae0 e540 eae0        so + man
+      7  e521 e569                       to + so
+      7  e521 e520 e2c0 ea10 e850 e670   to + a
+      7  e060 e060 e060 e060 e460 eae1   two + two + ten + day
+      7  eb30 eb30                       is + is
+      7  e520 e3c0                       to + glory
+      7  e812 e060 e060 e060 e060        or + two + two
+      7  e520 e270 e308                  to + lord + Jézus
+      7  e520 eb74                       to + mount
+      7  e060 e060 e7e1                  two + teach
+      7  e871 e540 e2c0 ea10             holy + Thomas
+      7  e630 e815                       at + last
+      7  e871 e670 e5d1 e360             holy + Elijah
+      7  ea10 e003 ea10 e060 e060 e540 eae0 e520  we + Nicodemus
+      7  ea10 eac5 e270                  the + Hail + lord
+      7  e796 ea10 e003 ea10 e060        die + we
+      7  eb60 e670 e592                  <genitive pronoun> + steward
+      6  e630 eb60                       at + <genitive pronoun>
+      6  e770 e770                       pass + pass
+      6  e630 e520 e152 e520 e9d1        at + Carmel
+      6  e520 e060 e152 e670 eae0        this + Peter
+      6  e630 e520 e3d0                  at + way
+
+  ... 1162 more

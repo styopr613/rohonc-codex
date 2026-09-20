@@ -1,0 +1,39 @@
+==========================================================================
+DO CODES ENDING IN A NAME SIGN REFER TO THAT NAME?
+==========================================================================
+candidate name signs            37
+undefined compounds, 5+ occurrences   57
+
+  true name ranked first, real compounds    43.9%
+  true name ranked first, matched control    6.3%  (sd 3.04)
+  ratio 6.94x      sigma 12.4
+
+  BAR: top-1 >= 40%, ratio >= 2.0x, sigma >= 5.0   ->  PASS
+
+the compounds, most frequent first:
+     n  code                               ends in    rank  best match
+   534  e270 e308                          Jézus         2  Lord
+   301  eb60 e270                          Lord          1  Lord
+   133  e520 e060 e270                     Lord          1  Lord
+   109  e871 e3e2                          Word         11  Jézus
+    93  e520 e270                          Lord          2  Jézus
+    72  e569 e270                          Lord          1  Lord
+    71  e270 e308 e754                     Christ        7  Peter
+    62  e870 e607                          Mary          1  Mary
+    52  e4a7 e270                          Lord          1  Lord
+    43  e871 e817 eae0                     Pentecost     1  Pentecost
+    35  e950 eb61                          Lucifer       2  Eve
+    30  e871 e4a8 e4b1                     John          1  John
+    25  e520 e100 e270                     Lord          2  Hail
+    23  e810 e670 eae0 e270                Lord          2  Simeon
+    22  e270 e754                          Christ       11  Sunday
+    20  e630 eb61                          Lucifer       7  Golgotha
+    19  e670 eae0 e270                     Lord          1  Lord
+    15  e630 e270                          Lord          2  Herod
+    12  e630 e3b1                          Jerusalem     1  Jerusalem
+    12  e540 e540 e270                     Lord          1  Lord
+    12  e470 e270                          Lord          1  Lord
+    11  e871 e152 e670 eae0                Peter         1  Peter
+    11  e521 eb60 e270                     Lord          2  Jerusalem
+    10  eb60 e607                          Mary          3  Christ
+    10  ea10 eac5                          Hail          2  Joseph

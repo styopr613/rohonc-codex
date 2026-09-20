@@ -21,6 +21,7 @@ defined. Below a stated bar it proposes nothing.
 """
 import math
 import re
+from bisect import bisect_left as _bisect_left
 from collections import Counter, defaultdict
 
 import ktextend as E
@@ -64,6 +65,26 @@ def build(gl):
     return doc, gstem, idf, names, gpos
 
 
+
+def _nearest(lst, i):
+    """Distance from i to the closest element of the sorted list `lst`.
+
+    Identical in value to min(abs(i - j) for j in lst); the positions are
+    built in increasing order so bisect gives the same answer without the
+    scan. Only the cost changes, never the result -- which matters, because
+    the gospels-only baseline has to reproduce exactly.
+    """
+    k = _bisect_left(lst, i)
+    best = None
+    if k < len(lst):
+        best = lst[k] - i
+    if k > 0:
+        d = i - lst[k - 1]
+        if best is None or d < best:
+            best = d
+    return best if best is not None else 0
+
+
 def locus(page, names, gpos):
     ns = Counter()
     for t in page.tokens:
@@ -74,9 +95,13 @@ def locus(page, names, gpos):
     if len(ns) < 2:
         return None
     best = None
+    others = [o for o in ns]
     for nm in ns:
+        rest = [gpos[o] for o in others if o != nm]
         for i in gpos[nm]:
-            d = sum(min(abs(i - j) for j in gpos[o]) for o in ns if o != nm)
+            d = 0
+            for lst in rest:
+                d += _nearest(lst, i)
             if best is None or d < best[1]:
                 best = (i, d)
     return best[0]

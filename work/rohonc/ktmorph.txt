@@ -1,0 +1,25 @@
+==========================================================================
+DO CODES INHERIT MEANING FROM THE CODES INSIDE THEM?
+==========================================================================
+defined codes            841
+  of these, containing a shorter defined code   517
+  testable pairs (both glossed)                 416
+
+  gloss overlap, real pairing         1.4%
+  gloss overlap, shuffled control     0.3%  (sd 0.24)
+  ratio 4.94x     sigma 4.7
+
+  BAR: ratio >= 2.0x and sigma >= 5.0  ->  FAIL
+
+examples of inherited meaning (container / part / shared):
+  [e4a7 e212]  <  [e4a7]   send
+  [e4c9 e060 e4f0 e4a4]  <  [e060 e4f0]   good
+  [e520 e310]  <  [e520]   away
+  [e540 e060 e7b4 e881]  <  [e540 e060 e7b4]   vineyard,worker
+  [e9d6 e9d3 e871 eae0]  <  [e9d3]   forefather
+  [ea32 ea32]  <  [ea32]   tortur
+
+position of the inherited part:
+  prefix     4/ 335  (1% inherit)
+  suffix     0/  88  (0% inherit)
+  infix      2/  94  (2% inherit)

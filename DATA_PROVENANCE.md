@@ -74,3 +74,29 @@ restricted to repository staff and was not obtained.
 - Benedek Lang, *The Rohonc Code: Tracing a Historical Riddle*, Penn State
   Press, 2021.
 - The anonymous author of the 2014 open transcription.
+
+## 4. `data/ref/rohonc/` — the wider reference corpus, 2026-09-20
+
+Built to retest the sequence aligner against the sources Király's 2022 paper
+names, rather than the four canonical gospels alone. 1,746,498 words.
+
+- **King James Bible** — Project Gutenberg ebook 10, public domain.
+- **Wake, *The suppressed Gospels and Epistles of the original New Testament***
+  — Gutenberg ebooks 6507–6515, public domain. Supplies the Protevangelium,
+  the infancy gospels and the Gospel of Nicodemus.
+- **York, Towneley, Chester and N-Town (Ludus Coventriae) play cycles** —
+  archive.org scans of 19th- and early-20th-century editions, public domain.
+- **Caxton's *Golden Legend*** — archive.org, public domain.
+
+Fetched at one request per 1.5 seconds with a descriptive user agent, which is
+the pace settled on after rate-limiting K&T's server earlier in this project.
+Five Golden Legend volumes and Nicholas Love's *Mirror* were not retrievable
+(HTTP 401/404); the corpus was built without them and the shortfall is
+recorded rather than papered over.
+
+Two editions of the York cycle were downloaded and only one was used. Repeated
+text distorts the inverse-document-frequency weighting the aligner depends on,
+so one edition per work is included.
+
+The corpus did not rescue the method: 13% in the top five against the same 30%
+bar, versus 15% on the gospels alone.

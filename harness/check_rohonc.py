@@ -201,7 +201,8 @@ def main():
         check(f"gate 5: {lab} {want}%", len(g) == 2 and g[1] == want, str(g))
     check("gate 5 FAIL and the 4% flaw recorded",
           "FAIL" in kdi and "top five 8%, top ten" in flat and "4%" in flat)
-    check("ten attempts stated", "ten ways" in flat and "Nine failed outright" in flat)
+    check("thirteen attempts stated",
+          "thirteen ways" in flat and "Ten failed outright" in flat)
     kcl = out("ktclass.txt")
     g = nums(kcl, "accuracy", 2)
     check("class gate 57.8% vs 46.9% baseline",
@@ -292,6 +293,75 @@ def main():
               and close(g[4], w[3]) and close(g[5], w[4]))
         check(f"MI row {lab}", ok and f"{w[0]:.4f}" in flat and f"{w[4]:.1f}%" in flat, str(g))
     check("MI disagreement dissolved", "no disagreement" in flat and "above 100%" in flat)
+
+    # --- the eleventh attempt: meaning inherited from a substring (FAIL)
+    km = out("ktmorph.txt")
+    g = nums(km, "gloss overlap, real pairing", 1)
+    check("ktmorph real 1.4%", bool(g) and close(g[0], 1.4, .05) and "1.4%" in flat, str(g))
+    g = nums(km, "gloss overlap, shuffled control", 1)
+    check("ktmorph control 0.3%", bool(g) and close(g[0], 0.3, .2) and "0.3%" in flat, str(g))
+    g = nums(km, "ratio", 2)
+    check("ktmorph 4.94x at 4.7 sigma",
+          len(g) == 2 and close(g[0], 4.94, .02) and close(g[1], 4.7, .05)
+          and "4.94" in flat and "4.7 sigma" in flat, str(g))
+    check("ktmorph recorded as a fail", "FAIL" in km and "84%" in flat and "416" in flat)
+
+    # --- the wider reference corpus (FAIL)
+    kw = out("ktalign_gate_wide.txt")
+    g = nums(kw, "true gloss in top 5", 2)
+    check("wide corpus top-5 13%",
+          len(g) == 2 and close(g[1], 13, .05) and "13% in the top five" in flat, str(g))
+    check("wide corpus still fails", "FAIL" in kw and "1,746,498" in flat)
+    ka = out("ktalign_gate.txt")
+    g = nums(ka, "true gloss in top 5", 2)
+    check("gospels baseline still 15%",
+          len(g) == 2 and close(g[1], 15, .05) and "8% / 15% / 23%" in flat, str(g))
+
+    # --- the twelfth: name-final compounds (PASS)
+    kn = out("ktname.txt")
+    g = nums(kn, "true name ranked first, real compounds", 1)
+    check("ktname real 43.9%", bool(g) and close(g[0], 43.9, .02) and "43.9%" in flat, str(g))
+    g = nums(kn, "true name ranked first, matched control", 2)
+    check("ktname control 6.3%", bool(g) and close(g[0], 6.3, .05) and "6.3%" in flat, str(g))
+    g = nums(kn, "ratio", 2)
+    check("ktname 6.94x at 12.4 sigma",
+          len(g) == 2 and close(g[0], 6.94, .02) and close(g[1], 12.4, .02)
+          and "6.94" in flat and "12.4 sigma" in flat, str(g))
+    check("ktname passes", "PASS" in kn)
+
+    # --- the thirteenth: segmentation (gate A fails, gate B passes)
+    ks = out("ktsegment.txt")
+    g = nums(ks, "composed gloss hits the true gloss", 1)
+    check("segment gate A 3.1%", bool(g) and close(g[0], 3.1, .05) and "3.1%" in flat, str(g))
+    g = nums(ks, "ratio", 2)
+    check("segment gate A 1.4 sigma",
+          len(g) == 2 and close(g[1], 1.4, .05) and "1.4 sigma" in flat, str(g))
+    g = nums(ks, "closer to its own parts than to stand-ins", 1)
+    check("segment gate B 77.5%", bool(g) and close(g[0], 77.5, .02) and "77.5%" in flat, str(g))
+    g = nums(ks, "same test, stand-ins on both sides", 2)
+    check("segment gate B control 47.4%",
+          bool(g) and close(g[0], 47.4, .02) and "47.4%" in flat, str(g))
+    g = nums(ks, "sigma", 1)
+    check("segment gate B 9.8 sigma", bool(g) and close(g[0], 9.8, .02) and "9.8 sigma" in flat, str(g))
+    check("segment gate A recorded as a fail and B as a pass",
+          "FAIL" in ks and "PASS" in ks and "32" in flat and "316" in flat)
+    g = nums(ks, "cut cleanly into defined codes", 2)
+    check("1,282 types cut (30%)",
+          len(g) == 2 and close(g[0], 1282, .001) and close(g[1], 30, .05)
+          and "1,282" in flat, str(g))
+    g = nums(ks, "now readable by composition", 3)
+    check("5,754 tokens, 46% of undefined, 19% of the book",
+          len(g) == 3 and close(g[0], 5754, .001) and close(g[1], 46, .05)
+          and close(g[2], 19, .05) and "5,754" in flat and "19%" in flat, str(g))
+    g = nums(ks, "book coverage before", 1)
+    check("coverage before 58.4%", bool(g) and close(g[0], 58.4, .02) and "58.4%" in flat, str(g))
+    g = nums(ks, "book coverage after", 1)
+    check("coverage after 77.6%", bool(g) and close(g[0], 77.6, .02) and "77.6%" in flat, str(g))
+    check("code C resolved, not overclaimed",
+          "E950 EB61" in flat and "contains the word Lucifer" in flat
+          and "exact sense of the prefix" in flat)
+    check("credit kept straight",
+          "The grammar is Kir" in flat and "1,282 readings" in flat)
 
     print(f"\n{'ALL FIGURES CHECK OUT' if not FAILS else 'MISMATCHED (' + str(len(FAILS)) + '): ' + '; '.join(FAILS)}")
     return 1 if FAILS else 0

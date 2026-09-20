@@ -29,7 +29,14 @@ from collections import Counter, defaultdict
 import ktdict
 import rohonc_kt as KT
 
-GOSPELS = "/opt/plaintextclassics/private/gospels/gospels.txt"
+import os as _os
+# The reference text. Defaults to the four canonical gospels, which is what
+# the first three extension attempts used. ROHONC_REF overrides it so the
+# same method can be rerun against the wider corpus K&T actually name
+# (apocrypha, mystery cycles, Golden Legend, Old Testament) without
+# changing a line of the method itself.
+GOSPELS = _os.environ.get(
+    "ROHONC_REF", "/opt/plaintextclassics/private/gospels/gospels.txt")
 WORD = re.compile(r"[a-z]+")
 META = re.compile(r"<[^>]*>")
 WINDOW = 70
