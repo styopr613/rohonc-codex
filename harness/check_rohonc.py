@@ -475,8 +475,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 147 folios",
-          md.count("\n## 0") + md.count("\n## 1") == 147, str(md.count("\n## 0")))
+    check("translation: the file exists and covers 152 folios",
+          md.count("\n## 0") + md.count("\n## 1") == 152, str(md.count("\n## 0")))
     check("translation: the book is identified, with its sources named",
           "Life of Adam and Eve" in md and "Legend of the Rood" in md
           and "Saint Matthew and Saint John" in md and "Elijah" in md)
@@ -545,8 +545,9 @@ def main():
           and "not a wall" in flat)
 
     check("ROHONC: Emmaus run translated and Cleopas named",
-          "147\nfolios are translated" in doc and "names Cleopas" in flat
+          "152\nfolios are translated" in doc and "names Cleopas" in flat
           and "of sin, and of righteousness, and of" in flat
+          and "child on the seashore" in flat
           and "sign for sign and in order" in flat
           and "It also repeats itself" in flat
           and "as Abraham gave" in flat and "Abraham stands for the Father" in flat

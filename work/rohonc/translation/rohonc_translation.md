@@ -5592,3 +5592,199 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 
 > Pentecost, Acts 2, with the eleven named on line 5 and the Trinity set out
 > on line 9.
+
+## 081v — cloven tongues like as of fire
+
+**1**  the Spirit took, upon the spirit, the form of fire
+`spirit grab on-spirit fire shape,_form`
+
+**2**  and the Spirit went out from the apostles, Mary, the Jews, and the man
+`and go spirit from somebody-apostle-Mary-Jew(ish) and somebody`
+
+**3**  this Spirit […] the apostles, the Jews; and it took, upon the spirit,
+`this spirit [?] apostle-Jew(ish) and grab on-spirit`
+
+**4**  the Spirit, the form of holy fire, and the Spirit went
+`spirit holy-fire shape,_form and go-spirit`
+
+**5**  out from the apostles, Mary, the Jews; and the man, the Spirit […]
+`from somebody-apostle-Mary-Jew(ish) and somebody spirit [?]`
+
+**6**  the apostles, Mary, the Jews, many […] […]
+`somebody-apostle-Mary-Jew(ish) many [?] [?]`
+
+**7**  many a wind, in that form […] in fire
+`many sough inside shape,_form [?] inside fire`
+
+**8**  in that form; and the Jews saw this fire,
+`inside shape,_form and see Jew(ish) this fire.`
+
+**9**  that form, and it came down upon this house where the apostles and Mary
+`shape,_form and bow_down on-this house where apostle-Mary`
+
+**10**  were at prayer. And then the Jews said, the chief, that is
+`on-pray +and_then-+say Jew(ish) ~head-chapter that_is`
+
+> Acts 2:2–3, *a rushing mighty wind... and there appeared unto them cloven
+> tongues like as of fire, and it sat upon each of them.* The wind is on line
+> 7 and the descent on the house on line 9.
+
+## 082r — the Jews see it, and three thousand are added
+
+**1**  the Lord; the apostles began to believe, every wind, and […] the Jews
+`Lord ~begin-believe apostle each,_every sough and [?] Jew(ish)`
+
+**2**  saw it, because […] the Jews […] every wind; and then
+`on-see because [?] Jew(ish) [?] each,_every sough and | then`
+
+**3**  the Jews were […] in the house where the apostles and Mary were at
+`exist Jew(ish) [?] inside house where apostle-Mary | on`
+
+**4**  prayer, to […] from the apostles and Mary at prayer, they left
+`pray to [?] from apostle-Mary on-pray leave`
+
+**5**  the heavenly word; thanks, apostles and Mary, to the Lord; thanks to the Lord God; and
+`heavenly word thanks apostle-Mary to-Lord thanks Lord God and`
+
+**6**  various […] […] and then the Jews […]
+`various [?] [?] +and_then Jew(ish) [?].`
+
+**7**  these apostles; the sons of Jerusalem saw how […] […] and then the apostles
+`this-apostle Jerusalem son see how? [?] [?] +and_then apostle`
+
+**8**  are apostles, Master, from […] the Holy Spirit goes […]
+`+<subject_marker> exist apostle Master from [?] go holy-spirit [?]`
+
+**9**  the apostles, the one who […] went from the people, the Jews, one […]
+`apostle +one-who food go from people-+day Jew(ish) +one-[?]`
+
+**10**  the people received belief in Lord Jesus Christ, and every
+`people-+day grab believe Lord-Jézus-Christ and each,_every`
+
+> Acts 2:6–12, the crowd hearing them, and then Acts 2:41, *and the same day
+> there were added unto them about three thousand souls*, which the next
+> folio counts.
+
+## 082v — three thousand added, and the Trinity begins
+
+**1**  man, Jew, apostle, Mary, received the Holy Spirit; and two years, three baptisms, from
+`somebody-Jew(ish)-apostle-Mary grab holy-spirit and two-year +three-+baptize from`
+
+**2**  the Jews […] and […] baptism […] three thousand, and
+`Jew(ish) [?] and [?] ?baptism-[?] +three-thousand-+day and`
+
+**3**  one […] son, seven sons; and from the son received holy
+`+one-[?]-[?] ~son +seven ~son and from ~son grab | holy`
+
+**4**  Spirit […] upon the spirit, the Holy Spirit, every man, Jew,
+`spirit [?] on-spirit holy-spirit each,_every | somebody-Jew(ish)`
+
+**5**  son […] received the Holy Spirit and believed in the Lord
+`~son-[?] grab holy-spirit and believe | Lord`
+
+**6**  Jesus Christ […] believing, the man would […]
+`Jézus-Christ [?] on-believe somebody want +one-can [?]`
+
+**7**  in turn […] Here ends this holy gospel, this Holy Spirit.
+`in_turn-[?] end this holy-gospel this holy-spirit.`
+
+**8**  […] from the Father, out and out, the Spirit proceeds; in turn the Son,
+`[?] on-father out(ward)-out(ward) go_out-spirit in_turn son`
+
+**9**  this Son, from the Father, sitteth; see, he is this […]
+`this-son from to-father-<suffix_of_divine_name> sit see ?he_is this | [?]`
+
+**10**  […] the Sun; this sun has three good things; first
+`[?] Sun this sun +<subject_marker> +three good first`
+
+> The three thousand of Acts 2:41 on line 2, then the folio turns to the
+> procession of the Spirit and sets up the sun analogy for the Trinity.
+
+## 083v — the sun, its light and its warmth
+
+**1**  is good […] he who is light; in turn the second is good, warmth; the third is good
+`+<subject_marker> good [?] ?he_who light in_turn-two +<subject_marker> good warmth +third +<subject_marker> good`
+
+**2**  from the Sun; the sun's light signifies the Son of God; in turn the warmth
+`from-Sun sun Sun light symbolize son God in_turn warmth`
+
+**3**  signifies the Holy Spirit; in turn the Sun itself signifies the Father; upon this Lord, from the Sun
+`symbolize holy-spirit in_turn from-Sun symbolize from-father-<suffix_of_divine_name> on-this-Lord from-Sun`
+
+**4**  proceeds the light, proceeds the warmth, proceeds the Son from the Father,
+`on-go_out light on-go_out warmth on-go_out son on-from-father-<suffix_of_divine_name>`
+
+**5**  proceeds the Holy Spirit from the Father; he is the sun,
+`on-go_out holy-spirit on-from-father-<suffix_of_divine_name> ?he_is sun`
+
+**6**  one form; this
+`one shape,_form | this`
+
+**7**  is one God; in turn who
+`+<subject_marker> one God in_turn-who`
+
+**8**  is, this can have, how
+`+<subject_marker> this can have how?`
+
+**9**  can heaven and earth
+`can heaven earth`
+
+**10**  quake, and in his […] prepare
+`quake and inside <preposition_of_genitive>-Lord [?] prepare`
+
+**11**  heaven, in turn, and the earth
+`heaven in_turn-chapter-in_turn-from-in_turn and earth`
+
+> The sun analogy for the Trinity: the sun itself is the Father, its light
+> the Son, its warmth the Spirit, and all three are one sun. Standard
+> patristic teaching, set out here as a numbered list.
+
+## 084r — Augustine and the child on the seashore
+
+**1**  At that time, then,
+`time then-exist`
+
+**2**  after the condemning of Lord Jesus
+`on-?condemned Lord-Jézus`
+
+**3**  Christ, in the sixtieth year, at that time
+`Christ six-ten-year time`
+
+**4**  holy Augustine went to the shore
+`go holy-Augustine shore`
+
+**5**  of the sea, because he would
+`sea because want`
+
+**6**  understand how it is
+`understand ?likewise`
+
+**7**  that three, Lord, Lord, Lord, Father,
+`+three Lord-Lord-Lord father`
+
+**8**  Son, Spirit, are one God; and this is one
+`son spirit one God and this exist one`
+
+**9**  […] in the evening […] at the going down of the sun; and then
+`[?] evening [?] sun on-go_out and then-exist`
+
+**10**  he found one little child on the shore; this
+`find one little son-Lord-<suffix_of_divine_name> on-shore this`
+
+**11**  […] that day the little child sat […] and
+`[?]-daily,_of_that_day sit son-Lord-<suffix_of_divine_name> little [?] and | <preposition_of_genitive>`
+
+**12**  the child […] one pit […] and
+`son-Lord-<suffix_of_divine_name> [?] one pit [?] and | <preposition_of_genitive>`
+
+**13**  the child carried in his hand one spoon, and this
+`son-Lord-<suffix_of_divine_name> hand one spoon carry-son-Lord-<suffix_of_divine_name> and this`
+
+**14**  that day the child scooped with this spoon into this pit, this child
+`[?]-daily,_of_that_day this spoon inside this pit scoop-son-Lord-<suffix_of_divine_name> this son`
+
+> **The legend of Saint Augustine and the child on the seashore**, who is
+> emptying the sea into a hole with a spoon, and tells Augustine that he will
+> sooner do that than understand the Trinity. It is in the Golden Legend,
+> which is in this project's reference corpus, and it follows directly from
+> the sun analogy on the folio before.
