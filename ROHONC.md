@@ -1011,14 +1011,21 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 53 signs are read
+in the book and keep it only if it survives all of them. 76 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
-decisive occurrences, graded A, B or C. Seventeen are A. They include the tally
+decisive occurrences, graded A, B or C. Twenty are A. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved" and "believe". Rendered into the book
 with a plus sign so they can never be mistaken for Kiraly and Tokai's, they
-take the share of lines where every word is read from 23.8% to 34.7%.
+take the share of lines where every word is read from 23.8% to **47.4%**.
+
+Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
+into pieces Kiraly and Tokai define; it was never given their own variant
+spellings, this project's read signs or the clause terminator as pieces.
+Cutting with the full readable inventory and repeating until nothing new
+appears took fully-read lines from 36.1% to 47.4% in one step, because every
+part of every compound had already been read on its own evidence.
 
 **One of them is not a word.** E034 ends 293 words the dictionary does not
 define, and 99.7% of those words are the last word of their run, against
@@ -1039,6 +1046,36 @@ occur once. A further 1,010 lines are two words short and open as soon as one
 of the two is read. So translating, reading signs and filling gaps each make
 the next one easier, and the limit is not a share of vocabulary but how much
 of the book has been worked.
+
+**Would another language be easier? Measured, and mostly no.** Kiraly and
+Tokai serve their dictionary in Hungarian as well as English, and it was
+fetched to settle a question this document has carried unresolved: whether
+the multiple senses per code are an artefact of English. The reasoning was
+that Hungarian is agglutinative, so *righteous, true, indeed, righteousness*
+would collapse onto one root where English splits them. Counting codes whose
+senses share a stem, over the multi-sense tokens of the text:
+
+    English, stemmed            0.9% all share   35.0% some   64.1% none
+    Hungarian, 3-char stem      6.3%             37.7%        56.0%
+    Hungarian, 4-char stem      7.2%             26.8%        66.0%
+    Hungarian, 5-char stem     10.0%             25.9%        64.1%
+    Hungarian, 6-char stem     12.4%             19.2%        68.3%
+
+Hungarian is somewhat more unified at the top -- the share where *every*
+sense shares a root goes from 0.9% to between 6% and 12% -- but the bulk does
+not move. Between 56% and 68% of multi-sense text has senses that share no
+root in Hungarian either, against 64% in English. **That is a second wrong
+prediction of mine on the same question, and it is recorded rather than
+dropped.** The senses are real, not translation noise.
+
+Where the language should still matter is the other failure. The anchor gate
+recovered a hidden word 18.4% of the time even where the source passage was
+verbatim, and the explanation offered was that the codex paraphrases a
+non-English text while the glosses are English. That explanation is now
+testable: run the same gate with the Hungarian glosses against a Hungarian
+corpus of the right period. The corpus would be the Hungarian codices of the
+1500s. Nothing here has done that, and until it is done the 18.4% ceiling
+stands as measured.
 
 This is a translation of their dictionary over their transcription, not their
 translation, which is unpublished. Every gloss is theirs. The sentence-making

@@ -522,11 +522,11 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 1416 tokens = 4.7% rendered",
-          len(g) == 2 and g[0] == 1416 and close(g[1], 4.7, .02), str(g))
+    check("proposals: 1638 tokens = 5.5% rendered",
+          len(g) == 2 and g[0] == 1638 and close(g[1], 5.5, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
-    check("proposals: 1516 lines fully read with them",
-          len(g) == 2 and g[0] == 1516 and close(g[1], 34.7, .02), str(g))
+    check("proposals: 2074 lines fully read with them",
+          len(g) == 2 and g[0] == 2074 and close(g[1], 47.4, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -534,8 +534,8 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the 29 readings are stated",
-          "METHOD.md" in flat and "53 signs are read" in flat
-          and "23.8% to 34.7%" in flat)
+          "METHOD.md" in flat and "76 signs are read" in flat
+          and "23.8% to **47.4%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)
@@ -543,6 +543,10 @@ def main():
     check("ROHONC: the gap engine and no floor",
           "1,528 lines" in flat and "one word short" in flat
           and "not a wall" in flat)
+
+    check("ROHONC: the Hungarian test, and the wrong prediction owned",
+          "Hungarian" in flat and "second wrong prediction" in flat
+          and "56.0%" in flat and "68.3%" in flat)
 
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)

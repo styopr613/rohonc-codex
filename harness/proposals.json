@@ -317,5 +317,143 @@
   "tier": "C",
   "n": 10,
   "evidence": "'we must die, [again] rise' 131v:2; '[again] the Lord shall rise, therefore the Lord asks you' 032r:9"
+ },
+ "060060060ae0": {
+  "gloss": "three",
+  "tier": "A",
+  "n": 6,
+  "evidence": "three tally strokes with the other numeral terminator, matching 060060060ae1 already read: '[seven], and when [three], then the Lord God appeared to Noah' 008r:1"
+ },
+ "520060540": {
+  "gloss": "that",
+  "tier": "B",
+  "n": 9,
+  "evidence": "all nine stand in one slot of the confession formula, introducing what is confessed: '[that] the Lord Jesus is truly the Son of God' 023r:11, 023r:12"
+ },
+ "060060060131520060131": {
+  "gloss": "baptize",
+  "tier": "B",
+  "n": 6,
+  "evidence": "K&T gloss the near-identical 060060131520060060131 'Christian, baptize', and all six occurrences are on the baptism pages, 024r:7 and 024r:8, beside John and Mount Carmel"
+ },
+ "152240574": {
+  "gloss": "Moses",
+  "tier": "B",
+  "n": 4,
+  "evidence": "paired with Elijah every time, on the Transfiguration pages: '[Moses] and Elijah' 023r:13 and 023v:7 = Matthew 17:3"
+ },
+ "5200605209d0": {
+  "gloss": "great",
+  "tier": "B",
+  "n": 2,
+  "evidence": "'then the angel said [great] joy, a king is born' 020v:7 and 025v:5 = Luke 2:10, good tidings of great joy"
+ },
+ "520ae0850270ae0": {
+  "gloss": "afterward",
+  "tier": "C",
+  "n": 35,
+  "evidence": "sentence-initial or after a clause throughout: '[afterward] David the king humbled himself' 015r:1; 'many miracles [afterward]' 005v:5; 'a second time the Lord [afterward] went into the house' 046v:5, 047r:1"
+ },
+ "152520ae0": {
+  "gloss": "with",
+  "tier": "C",
+  "n": 11,
+  "evidence": "'he gave a sign to tell the Lord from James and John, [with] a kiss' 035r:9; 'was [with] the feet, the Lord washed' 030r:9"
+ },
+ "991ae0910": {
+  "gloss": "but rather",
+  "tier": "C",
+  "n": 8,
+  "evidence": "'there are not many gods, [but rather] one God' 027v:10"
+ },
+ "630085": {
+  "gloss": "among the people",
+  "tier": "C",
+  "n": 6,
+  "evidence": "630 prefixed to 085 read as people: 'the Lord went [among the people], preached the gospel' 017v:6"
+ },
+ "060ae1": {
+  "gloss": "years",
+  "tier": "C",
+  "n": 6,
+  "evidence": "one stroke plus the numeral terminator, used as the counted unit: 'the Lord Jesus in thirty [years]' 023v:8 = Luke 3:23"
+ },
+ "a22a10": {
+  "gloss": "onward",
+  "tier": "C",
+  "n": 5,
+  "evidence": "'all men were damned, from Adam [onward] until Abraham' 005v:11"
+ },
+ "725": {
+  "gloss": "answered",
+  "tier": "C",
+  "n": 4,
+  "evidence": "both Eden occurrences are the interrogation: 'and then [answered] Eve' 001v:7, 'why, Eve? [answered] Eve' 001v:8"
+ },
+ "630340ae0": {
+  "gloss": "anointed",
+  "tier": "C",
+  "n": 4,
+  "evidence": "the same line twice on the Seth pages: 'through the light [anointed], through the eye the blind Adam sees' 006r:2, 006r:10, with the angel giving oil two lines later at 006v:2"
+ },
+ "b90574": {
+  "gloss": "Noah",
+  "tier": "C",
+  "n": 3,
+  "evidence": "'and when [Noah] took of every creature two by two and went before the Lord God' 008r:8"
+ },
+ "670060ae0": {
+  "gloss": "chapter",
+  "tier": "C",
+  "n": 2,
+  "evidence": "'the book of Saint Luke, [chapter] of his book, then said the angel' 018r:9; 027r:10"
+ },
+ "540060540": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 2,
+  "evidence": "the same confession slot as 520060540: '[that] the Lord Jesus is truly the Son of God, fourthly confessed' 023v:2"
+ },
+ "5203f3930": {
+  "gloss": "and his name",
+  "tier": "C",
+  "n": 2,
+  "evidence": "in the prophecy refrain, between the son and his naming: 'shall bear a son, [and his name], the son shall be Jesus' 005v:3, 017v:5"
+ },
+ "812060060060060060": {
+  "gloss": "fifth",
+  "tier": "A",
+  "n": 4,
+  "evidence": "812 prefixed to five tally strokes, exactly as 812 prefixed to three makes 'third' already read; and it lands in the numbered confession list: 'that the Lord Jesus is truly the Son of God, [fifthly]' 023v:3"
+ },
+ "b33910": {
+  "gloss": "he is",
+  "tier": "C",
+  "n": 21,
+  "evidence": "b33 plus the subject marker. '[he is] truly the Son of the living God, and King of all kings' 014r:8; 'in the Lord Jesus Christ, [he is] truly the Son of the living God' 118v:5"
+ },
+ "084": {
+  "gloss": "world",
+  "tier": "C",
+  "n": 36,
+  "evidence": "'born into this [world], that we be saved' 091r:7; 'father, son, man, pass to heaven and earth, to this [world]' 121v:9; 'this [world], or if the salt lose its savour' 108r:3 and 'a lamp, this [world]' 109r:1 = Matthew 5:13-15, ye are the salt of the earth and the light of the world; 'Queen Mary, lady of the [world]' 137v:2"
+ },
+ "4a74b0": {
+  "gloss": "brought",
+  "tier": "C",
+  "n": 17,
+  "evidence": "'and [they brought] the Lord Jesus to Caiaphas the high priest' 038v:4; 041r:9"
+ },
+ "7b3": {
+  "gloss": "brethren",
+  "tier": "C",
+  "n": 15,
+  "evidence": "opens Pauline passages: '[brethren], we shall be saved, Paul, first we ask' 068r:3; 070v:10"
+ },
+ "aca": {
+  "gloss": "is he",
+  "tier": "C",
+  "n": 8,
+  "evidence": "'ask this of the Lord: whose son [is he]?' 067r:1 = Matthew 22:42"
  }
 }

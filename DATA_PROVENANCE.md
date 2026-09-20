@@ -100,3 +100,14 @@ so one edition per work is included.
 
 The corpus did not rescue the method: 13% in the top five against the same 30%
 bar, versus 15% on the gospels alone.
+
+## 5. Kiraly & Tokai's Hungarian dictionary
+
+`data/rohonc/kt/dict_hu.json`, fetched 2026-09-20 from
+`http://rechnitzer-kodex.hu/api/GetDictionary/hu`, one request, same user
+agent and courtesy as the rest of that site. 979 entries, the same codes as
+the English file, with the glosses in Hungarian. It was fetched to test
+whether the multiple senses per code are an artefact of translating into
+English. They are not: see ROHONC.md. It is theirs, it is not republished
+here, and only derived statistics are reported.
+

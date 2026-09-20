@@ -86,6 +86,21 @@ def clean(s):
     return s.strip().replace(" ", "_")
 
 
+def seg_word(c, gl, var, prop, full):
+    """Render one piece of an extended segmentation."""
+    if c in gl:
+        return word(c, gl, full)
+    if c in var:
+        return "~" + word(var[c], gl, full)
+    if c in prop_ref:
+        g, tier = prop_ref[c]
+        return ("+" if tier in ("A", "B") else "?") + g.replace(" ", "_")
+    return "[?]"
+
+
+prop_ref = {}
+
+
 def word(c, gl, full):
     senses.code = c
     ss = senses(gl[c])
@@ -97,7 +112,7 @@ def render_token(t, gl, seg, full, var, prop=None):
     if t in gl:
         return word(t, gl, full) + mark
     if t in seg:
-        return "-".join(word(p, gl, full) for p in seg[t]) + mark
+        return "-".join(seg_word(p, gl, var, prop or {}, full) for p in seg[t]) + mark
     if t in var:
         return "~" + word(var[t], gl, full) + mark
     if prop and t in prop:
@@ -111,7 +126,7 @@ def kind(t, gl, seg, var, prop=None):
     if t in gl:
         return "one" if len(gl[t]) == 1 else "many"
     if t in seg:
-        return "cut1" if all(len(gl[p]) == 1 for p in seg[t]) else "cut"
+        return "cut1" if all(p in gl and len(gl[p]) == 1 for p in seg[t]) else "cut"
     if t in var:
         return "var"
     if prop and t in prop:
@@ -170,6 +185,7 @@ declared variant spellings ({pvar:.1f}%), {none} have no reading ({pnone:.1f}%).
 
 def main():
     gl, doc, seg = C.build()
+    types_all = {t for p in doc for t in p.tokens}
     ORDER.update(ordered())
     var = {v: h for v, (h, _) in V.readings()[6].items()}
     os.makedirs(OUT, exist_ok=True)
@@ -222,9 +238,35 @@ def main():
     print(f"lines                          {lines:6d}")
     print(f"  every word read              {full_lines:6d}  {stats['pfull']:5.1f}%")
 
+    # ---- extend the segmentation with everything now readable.
+    #
+    # ktsegment cuts a word into pieces Kiraly & Tokai define. Their own
+    # variant spellings, this project's readings and the clause terminator
+    # are all readable too, and a compound made of those pieces is just as
+    # readable as one made of theirs. Cutting with the full inventory, and
+    # repeating until nothing new appears, costs no guess at all: every part
+    # was already read on its own evidence.
+    prop = load_proposals()
+    prop_ref.update(prop)
+    inv = set(gl) | set(seg) | set(var) | set(prop)
+    xseg = dict(seg)
+    while True:
+        added = 0
+        for t in types_all:
+            b = A.strip(t)[0]
+            if b in inv:
+                continue
+            cut = S.segment(b, inv)
+            if cut and len(cut) >= 2:
+                xseg[b] = cut
+                inv.add(b)
+                added += 1
+        if not added:
+            break
+    seg = xseg
+
     # ---- a third rendering with this project's own proposed readings applied,
     # marked with a plus so they can never be mistaken for K&T's. Tiers A and B.
-    prop = load_proposals()
     kp = Counter()
     fl = 0
     for p in doc:
