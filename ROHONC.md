@@ -324,11 +324,11 @@ Defining the top 50 undefined codes would lift coverage from 62.1% to 73.1%;
 the top 100 to 76.0%; the top 200 to 79.1%; the top 500 to 84.1%. That is a
 work plan, and it is owed to the authors.
 
-## Extending the dictionary: fourteen attempts, a ceiling, and a way in
+## Extending the dictionary: sixteen attempts, a ceiling, and a way in
 
 Four words in ten have no gloss and another five in ten have several. Working
 out the undefined codes is the part of the problem nobody has done. It was
-tried fourteen ways. Eleven failed outright. The tenth narrowed one code to a
+tried sixteen ways. Thirteen failed outright. The tenth narrowed one code to a
 grammatical class and a semantic field without naming it. The twelfth and
 thirteenth passed, and between them they read 19% more of the book. The
 fourteenth failed its gate and still recovered 1.2% of the book, because what
@@ -807,6 +807,74 @@ points the right way, and the bar is the bar.
 Coverage goes from 77.6% to 78.8%, all of it theirs. Saved run:
 `work/rohonc/ktvariant.txt`.
 
+## The fifteenth and sixteenth: working backwards from the parts that are right
+
+Once the book could be read it became possible to ask the question a
+cryptanalyst would ask first. Some of the reading is certainly correct. Which
+parts, decided by something other than my say-so, and what can they prove?
+
+**The fifteenth: substitution frames.** Where the codex repeats a passage,
+breaks for exactly one code, and resumes identically, the two odd codes stand
+in the same slot of the same sentence. `ktanchor.py` finds those frames. The
+gate was declared at a context radius of three codes either side, and it
+returned **no testable case at all** — eleven frames in the whole book and
+none with both codes defined. That is not a near miss, it is a gate that
+cannot be run, and it is recorded as one rather than quietly re-declared at a
+radius that has cases. Run afterwards at radius two, and therefore not a
+pre-registered test, eighteen frames are testable and one shares a stem.
+
+Looking at what the frames contain shows the question was wrong again, in
+exactly the way `ktmorph.py` was wrong:
+
+    tax collector ~ scribe ~ prophet ~ sheep
+    Joachim ~ Satan
+    who ~ that ~ and
+
+Those are not noise. They are paradigms — the kinds of thing that can stand
+in one place in one sentence. A substitution frame finds word class, not word
+meaning, and asking it for synonyms was the mistake.
+
+**The sixteenth: anchors against the reference corpus.** `ktverse.py` scores
+every line of the codex against the 1,746,498-word corpus and takes the top
+5% by match as anchors, which is a rank rule and not a threshold that can be
+tuned afterwards. The gate, declared first: hide a defined code from an anchor
+line, relocate the passage using only the remaining codes so the hidden word
+plays no part in finding it, and ask whether the hidden gloss is in the window
+that comes back.
+
+    held-out codes tested                 925
+    gloss found in the relocated window   15.5%
+    same test against a random window      4.1%
+    ratio 3.75x    sigma 18.5             BAR 40% -> FAIL
+
+Real signal, 3.75 times the control, and nowhere near the bar. Nothing is read
+from a located passage by that route, and the bar was not moved.
+
+**What the anchor finder did do.** It located 213 lines, and the strongest
+were passages I had not reached by translating in order:
+
+    135r   the parable of the Unmerciful Servant      Matthew 18:23-35
+    119r   the parable of the Lost Sheep              Luke 15:2-5
+    080v   a citation of Saint Luke, chapter two
+    017v   Joachim and Anne at the Golden Gate
+    007v   the creation of Adam and Eve
+
+Two of those carry their own confirmation, independent of anything I read.
+Kiraly and Tokai's dictionary contains a code they gloss "adjective of the
+unmerciful servant", and it stands in 135r exactly where the fellow-servant
+stands; their dictionary also has *denarius*, the coin of that parable. And
+119r writes *ninety and nine* the way Luke writes it, ninety followed by nine,
+with ninety spelled nine-ten — a fifth independent confirmation of the numeral
+rule, from a page found by machine rather than chosen by me.
+
+**One code read the old way.** In 119r an undefined code stands in the three
+places the lost sheep belongs. It occurs four times in the whole book; the
+fourth is beside the word *soul*. "Lost" works in all four. That is Kiraly and
+Tokai's own method, carrying a guess to every occurrence and keeping it only
+if it survives everywhere, and it is one word, not a method.
+
+Saved runs: `work/rohonc/ktanchor.txt`, `work/rohonc/ktverse.txt`.
+
 ## The rendering
 
 All of the above is put on the page. `kttranslate.py` writes the whole book
@@ -955,6 +1023,8 @@ repository staff; with it, this would probably be feasible.
     python ktsense.py         # can context choose a sense (fails by half a point)
     python ktgrammar.py       # are the senses separable at all (no)
     python ktvariant.py       # the fourteenth, variant spellings (fails; K&T's own go in)
+    python ktanchor.py        # the fifteenth, substitution frames (gate untestable)
+    python ktverse.py         # the sixteenth, anchors against the corpus (gate fails)
     python kttranslate.py     # render the whole book, marked by how far each word reads
     # the translation itself is read by hand: work/rohonc/translation/rohonc_translation.md
     python ocr_crossline.py   # the scan-based attempt (slow)

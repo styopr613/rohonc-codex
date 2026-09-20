@@ -2,7 +2,7 @@
 
 ## Where it stands
 
-**59 of 441 folios are translated**, in
+**61 of 441 folios are translated**, in
 `work/rohonc/translation/rohonc_translation.md` — 674 lines of the codex,
 English first with the gloss underneath so every choice can be checked.
 
@@ -17,6 +17,11 @@ Done, in Kiraly & Tokai's page order:
     030r 030v 031r 031v 032r 032v             the washing, the Eucharist, the betrayal
     033r 033v 034r 034v 035r 035v             Gethsemane and the arrest
     137v                                      the Marian prayer K&T published
+    135r 119r                                 two parables found by ktverse.py
+
+`harness/ktverse.py` ranks every line by how well it matches the reference
+corpus. Its top 5% are the anchors, and they point at pages worth translating
+out of order. Rerun it and work down the list when page order gets slow.
 
 ## Resume at 036r
 

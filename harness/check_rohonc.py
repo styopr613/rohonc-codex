@@ -201,8 +201,8 @@ def main():
         check(f"gate 5: {lab} {want}%", len(g) == 2 and g[1] == want, str(g))
     check("gate 5 FAIL and the 4% flaw recorded",
           "FAIL" in kdi and "top five 8%, top ten" in flat and "4%" in flat)
-    check("fourteen attempts stated",
-          "fourteen ways" in flat and "Eleven failed outright" in flat)
+    check("sixteen attempts stated",
+          "sixteen ways" in flat and "Thirteen failed outright" in flat)
     kcl = out("ktclass.txt")
     g = nums(kcl, "accuracy", 2)
     check("class gate 57.8% vs 46.9% baseline",
@@ -367,8 +367,8 @@ def main():
     cp = os.path.join(corpus.ROOT, "CONCLUSION.md")
     con = open(cp, encoding="utf-8").read() if os.path.exists(cp) else ""
     conf = " ".join(con.split())
-    check("CONCLUSION: fourteen attempts, eleven failed",
-          "fourteen ways" in conf and "Eleven failed" in conf and "78.8%" in conf)
+    check("CONCLUSION: sixteen attempts, thirteen failed",
+          "sixteen ways" in conf and "Thirteen failed" in conf and "78.8%" in conf)
     check("CONCLUSION: 1,282 codes and 58% to 78%",
           "1,282" in conf and "58% to 78%" in conf)
     check("CONCLUSION: wider corpus recorded as my wrong prediction",
@@ -475,8 +475,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 59 folios",
-          md.count("\n## 0") + md.count("\n## 1") == 59, str(md.count("\n## 0")))
+    check("translation: the file exists and covers 61 folios",
+          md.count("\n## 0") + md.count("\n## 1") == 61, str(md.count("\n## 0")))
     check("translation: the book is identified, with its sources named",
           "Life of Adam and Eve" in md and "Legend of the Rood" in md
           and "Saint Matthew and Saint John" in md and "Elijah" in md)
@@ -486,6 +486,31 @@ def main():
     check("ROHONC: the four numeral checks are stated",
           "six-two` is eight" in doc and "six-six` is twelve" in doc
           and "forty days of rain" in flat)
+
+    ka = out("ktanchor.txt")
+    check("frames: radius 3 has no testable case, reported as such",
+          "frames where both codes are defined      0" in ka
+          and "cannot be run" in flat and "->  FAIL" in ka)
+    kvz = out("ktverse.txt")
+    g = nums(kvz, "held-out codes tested", 1)
+    check("anchors: 925 held-out codes tested",
+          bool(g) and g[0] == 925 and "925" in flat, str(g))
+    g = nums(kvz, "gloss found in the relocated window", 1)
+    check("anchors: recovery 15.5%",
+          bool(g) and close(g[0], 15.5, .02) and "15.5%" in flat, str(g))
+    g = nums(kvz, "same test against a random window", 2)
+    check("anchors: control 4.1%",
+          bool(g) and close(g[0], 4.1, .02) and "4.1%" in flat, str(g))
+    g = nums(kvz, "ratio", 2)
+    check("anchors: 3.75x at 18.5 sigma, FAIL",
+          len(g) == 2 and close(g[0], 3.75, .02) and close(g[1], 18.5, .05)
+          and "3.75" in flat and "18.5" in flat and "->  FAIL" in kvz, str(g))
+    g = nums(kvz, "anchors (top", 3)
+    check("anchors: 213 lines located",
+          bool(g) and 213 in [int(x) for x in g] and "213 lines" in flat, str(g))
+    check("anchors: both parables named with their confirmation",
+          "Unmerciful Servant" in flat and "Lost Sheep" in flat
+          and "denarius" in flat and "ninety and nine" in flat)
 
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
