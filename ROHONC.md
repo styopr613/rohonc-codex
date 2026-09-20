@@ -770,6 +770,52 @@ one.
 Code: `ktsense.py`, `ktgrammar.py`. Saved runs: `work/rohonc/ktsense.txt`,
 `work/rohonc/ktgrammar.txt`.
 
+## The rendering
+
+All of the above is put on the page. `kttranslate.py` writes the whole book
+in Király and Tokai's page order, one line of the codex per line of text,
+with every word rendered one of four ways and marked so the reader can see
+which. A dictionary word with one sense is printed as that sense. A
+dictionary word with several is printed as the sense they list first, and in
+the full version every sense follows after a slash. An undefined code that
+cuts into dictionary codes is printed as its parts joined by hyphens. A word
+with no reading is printed as `[?]`, and in the full version the glyph codes
+follow.
+
+The senses are printed in the order Király and Tokai list them, because
+their first sense is their headline sense. The shortest-sense rule that
+`ktsegment.py` uses for its readings table picks "so" for the pronoun they
+gloss "this / you", "exist" for the copula and "lord" over "Lord", and a
+whole page of that does not read. Their order gives *sun and moon write*,
+*Elijah prophet say angel God*, *sit on throne from-father God*.
+
+    words                          29997
+      one sense                     3404   11.3%
+      several senses               14109   47.0%
+      by composition                5754   19.2%
+      no reading                    6730   22.4%
+    lines                           4372
+      every word read                901   20.6%
+
+Those are the coverage figures of the previous two sections, seen from the
+page. The only difference is that 52 composed words whose every part has one
+sense are counted with composition here and with the single-sense words in
+`ktcoverage.py`, which is where the 11.3% and 11.5% part company.
+
+It is a rendering, not a translation. Nothing in it chooses between senses,
+and the section above shows that context cannot do that choosing, so a reader
+has to. What it gives that reader is the whole book on one page, with every
+word that can be read, marked by how much to trust it. Folio 137v, the page
+Király and Tokai published, reads on it as *healing-girl through holy-Mary
+mother God*, *Mary one only_one virgin-girl this-Mary Jesus without*, *be_born-
+Mary and from Lord-redeemer inside Lord*, with the author's name sign
+following *this* and the genitive down the right margin.
+
+Output: `work/rohonc/translation/rohonc_reading.txt` (first sense only) and
+`rohonc_reading_full.txt` (every sense). Code: `kttranslate.py`. Both files
+are built from their dictionary and stay private with the rest of the work
+until they are asked.
+
 ## A third transcription from the scans: negative
 
 The pipeline splits each scanned opening at the gutter, finds the lit page
@@ -822,6 +868,7 @@ repository staff; with it, this would probably be feasible.
     python ktcoverage.py      # how much can be read, and how much is translated
     python ktsense.py         # can context choose a sense (fails by half a point)
     python ktgrammar.py       # are the senses separable at all (no)
+    python kttranslate.py     # render the whole book, marked by how far each word reads
     python ocr_crossline.py   # the scan-based attempt (slow)
     python check_rohonc.py    # every figure above, against the saved runs
 

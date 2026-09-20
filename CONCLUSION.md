@@ -113,6 +113,12 @@ the share of lines where every word has a reading went from 2.8% to 20.6%.
 So the obstacle has moved rather than gone. It used to be missing vocabulary.
 It is now missing grammar, and that is theirs to publish.
 
+Everything that can be read is rendered, page by page, in
+`work/rohonc/translation/`. Each word is marked by how far it reads: one
+sense, several senses with theirs first, a composed reading, or no reading.
+It is a rendering of their dictionary over their transcription, not their
+translation, and it stays private with the rest of the work.
+
 Details in [`ROHONC.md`](ROHONC.md), including a first attempt at the
 orientation question that failed its own control and was thrown away, and a
 third transcription attempted from the scans that failed for lack of

@@ -1,0 +1,14 @@
+wrote /home/ubuntu/voynich/work/rohonc/translation/rohonc_reading.txt
+wrote /home/ubuntu/voynich/work/rohonc/translation/rohonc_reading_full.txt
+
+======================================================================
+THE RENDERING
+======================================================================
+words                           29997
+  one sense                      3404   11.3%
+  several senses                14109   47.0%
+  by composition                 5754   19.2%
+    every part one sense           52
+  no reading                     6730   22.4%
+lines                            4372
+  every word read                 901   20.6%

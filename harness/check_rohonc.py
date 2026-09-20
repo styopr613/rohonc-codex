@@ -427,6 +427,31 @@ def main():
           "does not support it" in flat and "the instrument is wrong" in flat
           and "has not been shown" in flat)
 
+    kt = out("kttranslate.txt")
+    g = nums(kt, "one sense", 2)
+    check("rendering: one sense 3404 = 11.3%",
+          len(g) == 2 and g[0] == 3404 and close(g[1], 11.3, .02) and "11.3%" in flat, str(g))
+    g = nums(kt, "several senses", 2)
+    check("rendering: several senses 47.0%",
+          len(g) == 2 and close(g[1], 47.0, .02) and "47.0%" in flat, str(g))
+    g = nums(kt, "by composition", 2)
+    check("rendering: by composition 5754 = 19.2%",
+          len(g) == 2 and g[0] == 5754 and close(g[1], 19.2, .02) and "19.2%" in flat, str(g))
+    g = nums(kt, "no reading", 2)
+    check("rendering: no reading 22.4%",
+          len(g) == 2 and close(g[1], 22.4, .02), str(g))
+    g = nums(kt, "every word read", 2)
+    check("rendering: 901 lines fully read = 20.6%",
+          len(g) == 2 and g[0] == 901 and close(g[1], 20.6, .02) and "901" in flat, str(g))
+    tr = os.path.join(WORK, "translation", "rohonc_reading.txt")
+    trf = os.path.join(WORK, "translation", "rohonc_reading_full.txt")
+    check("rendering: both files exist and cover 441 pages",
+          os.path.exists(tr) and os.path.exists(trf)
+          and open(tr, encoding="utf-8").read().count("\n=== ") == 441)
+    check("rendering: the 137v line reads as documented",
+          os.path.exists(tr) and "virgin-girl this-Mary" in open(tr, encoding="utf-8").read()
+          and "virgin-girl this-Mary" in flat)
+
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 
