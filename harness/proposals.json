@@ -4079,5 +4079,35 @@
   "tier": "A",
   "n": 1,
   "evidence": "their lose entry lists this spelling at 224v11"
+ },
+ "6703b15202d46f8": {
+  "gloss": "Zacchaeus",
+  "tier": "A",
+  "n": 5,
+  "evidence": "K&T's Zacchaeus entry heads 6703b15402d46f8 and declares the swap '540 ~ 520' in the same breath, which makes this their own spelling. Their citations for the word run across 207r, 207v, 208r and 208v, and this sign's five occurrences are 207v:5, 208r:6, 7, 9 and 209v:4"
+ },
+ "391a10ae0": {
+  "gloss": "happy",
+  "tier": "B",
+  "n": 4,
+  "evidence": "one glyph from K&T's 390a10ae0 'happy', and all four occurrences stand immediately before their virgin Mary, which is where the book says 'happy virgin Mary' over and over (138v:2, 139r:1, 139r:3). 146v:9, 147v:5, 147v:6 and 148r:2 are the close of the miracle of the image. The formula is the check; K&T do not cite these lines"
+ },
+ "152670327ae0": {
+  "gloss": "<someone_Seth_meets>",
+  "tier": "A",
+  "n": 4,
+  "evidence": "K&T's entry for the epithet family gives '152520327ae0 006v (4x) <someone Seth meets>'. This sign is that spelling with one glyph changed and it stands four times on 006v and nowhere else, which is their count and their folio exactly. The gloss is their category, not an English word: they did not identify the figure either"
+ },
+ "680ae0877": {
+  "gloss": "be_saved",
+  "tier": "A",
+  "n": 3,
+  "evidence": "K&T's exist entry (670ae0) lists 680ae0 among its variant spellings, citing 072v06, 138v07, 139v06, 140r05, 182v04, 05 and 188r09; 520ae0877 and 670ae0877 are already read as 'be saved'. All three occurrences take it: 072v:7 is Mark 16:16 'he that believeth and is baptized shall be saved', 152r:2 sets it against 'damned', 182v:5 repeats the formula"
+ },
+ "521774": {
+  "gloss": "at_table",
+  "tier": "A",
+  "n": 3,
+  "evidence": "K&T's table entry cites their 774 at 072r08, 072r11, 088v12 and 191r04. This sign stands at 072r:8, 072r:11 and 191r:4 -- three of those four lines -- and carries their 774 under a preposition. It is Mark 16:14, 'afterward he appeared unto the eleven as they sat at meat, and upbraided them with their unbelief': the codex has 'the apostles sat at table in Jerusalem, in the Lord's house' and then 'began to admonish them on believing'"
  }
 }
