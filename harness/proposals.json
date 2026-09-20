@@ -691,10 +691,10 @@
   "evidence": "Mary is called its queen at 137v:2; Stephen sees it opened at 217v:8; and the parables of the field, the drachma and the farm at 117r-119v are each likened to it. 443 is the piece already read as eternal in 060060443520"
  },
  "a615fb": {
-  "gloss": "talent",
+  "gloss": "gold",
   "tier": "C",
-  "n": 7,
-  "evidence": "counted with three and five before a rich lord and his servants on 173r-174v, the parable of the talents; every occurrence is in that one passage so nothing checks it"
+  "n": 8,
+  "evidence": "corrected 2026-09-20; this was read 'talent' and the talent is the sign next to it. K&T's entry glosses the word 'talent ... or gold (monetary unit)' and cites 540250 for talent at 173-175; this sign stands between the numeral and their talent every time it occurs ('three [this] talents' 173r:3, 174r:6, 174r:9; 'five [this] talents' 173r:4, 173v:9, 174r:2; 'one [this] talent' 173r:2, 174v:4). Gold is the reading that makes those phrases read, and nothing in the book checks it"
  },
  "531ae0": {
   "gloss": "therefore",
@@ -1925,5 +1925,17 @@
   "tier": "B",
   "n": 5,
   "evidence": "one glyph from three spellings of emperor already read (520ae0520250 and 540ae0520250 emperor, 681ae0520250 inscription-of-the-emperor). 019v:10 is Luke 2:1 word for word, 'there went out a decree from the emperor that all the world should be [taxed]'; 203r-203v is the tribute money, where K&T's own gloss at 203v03 and 203v05 is 'this is the inscription of the emperor'. All five occurrences take it. Not cited by K&T at these lines, so B"
+ },
+ "540250": {
+  "gloss": "talent",
+  "tier": "A",
+  "n": 12,
+  "evidence": "K&T's talent entry (540242, 'cp. Mt 18, 24 and 25, 15; or gold, monetary unit') reads '540250 173-175 (11x)'. Folios 173r-175r are the parable of the talents and this sign stands twelve times there and nowhere else"
+ },
+ "541": {
+  "gloss": "<end_of_line_mark>",
+  "tier": "B",
+  "n": 8,
+  "evidence": "not a word: a mark. All 8 occurrences are on folio 193r and all 8 are the last token of their line, ending 8 of that folio's 10 lines. Words in general are line-final 16.7% of the time, so 8 of 8 is about one chance in two million. It appears nowhere else in the book. This is the same kind of evidence that identified E034 as the clause terminator (99.7% run-final over 293 tokens), on a much smaller sample and confined to one page, so B rather than A"
  }
 }

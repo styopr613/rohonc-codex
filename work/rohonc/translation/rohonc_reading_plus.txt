@@ -1026,7 +1026,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 042v ===
- 1  and [?] to-this confess [?] Herod a) say.
+ 1  and [?] to-this confess +talent Herod a) say.
  2  Herod say Lord Herod [?] God this Lord son and
  3  one say speak Lord-Jézus ~against Herod and
  4  Herod [?] Herod [?] this-Herod king this-Herod.
@@ -4359,9 +4359,9 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 173r ===
  1  +<subject_marker> before Lord exist ~among-Lord and then-exist grab-Lord
- 2  one servant one ?talent [?] in_turn-two
- 3  grab-Lord +three ?talent [?] +third grab-Lord
- 4  +five ?talent [?] +and_then this rich-Lord each,_every until
+ 2  one servant one ?gold +talent in_turn-two
+ 3  grab-Lord +three ?gold +talent +third grab-Lord
+ 4  +five ?gold +talent +and_then this rich-Lord each,_every until
  5  this [?] +five sense have_mercy pray.
  6  alms believe [?] servant mouth
  7  this-Lord go to-[?] +be_saved ?how_shall_we living-servant and Lord grab priest
@@ -4378,27 +4378,27 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  among this rich-Lord <preposition_of_genitive>-Lord servant before rich-Lord
  7  [?] +three +<subject_marker> servant exist-Lord grab-Lord | <preposition_of_genitive>
  8  Lord rich +and_then this rich-Lord this one to_whom
- 9  +<subject_marker> exist-Lord grab-Lord +five ?talent.
-10  [?] +and_then this rich-Lord [?] servant ?how_shall_we-somebody
+ 9  +<subject_marker> exist-Lord grab-Lord +five ?gold.
+10  +talent +and_then this rich-Lord [?] servant ?how_shall_we-somebody
 
 
 === 174r ===
  1  <preposition_of_genitive>-Lord rich say this servant ?how_shall_we-somebody to-pleasing Lord-<suffix_of_divine_name> and
- 2  [?] +five ?talent earlier_mentioned [?] +and_then this rich Lord
+ 2  [?] +five ?gold earlier_mentioned +talent +and_then this rich Lord
  3  go-servant inside <preposition_of_genitive>-Lord to-house to-<preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> and
  4  to-father-<suffix_of_divine_name> somebody exist joy-somebody chapter-oh
  5  chapter-oh amen and then-exist among-Lord this two
- 6  to_whom +<subject_marker> exist-Lord +grab-Lord +three ?talent [?]
+ 6  to_whom +<subject_marker> exist-Lord +grab-Lord +three ?gold +talent
  7  +and_then this rich-Lord [?] servant ?how_shall_we-somebody | <preposition_of_genitive>
  8  Lord rich say this servant ?how_shall_we-somebody to-pleasing Lord-<suffix_of_divine_name>
- 9  and [?] +three ?talent earlier_mentioned [?] +and_then this rich Lord
+ 9  and [?] +three ?gold earlier_mentioned +talent +and_then this rich Lord
 
 
 === 174v ===
  1  go servant inside <preposition_of_genitive>-Lord to-house to-<preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> and | to
  2  father-<suffix_of_divine_name> somebody exist ~joy chapter-oh chapter-oh
  3  amen and then-exist among-Lord this +three to_whom +<subject_marker>
- 4  exist-Lord grab-Lord one ?talent [?]
+ 4  exist-Lord grab-Lord one ?gold +talent
  5  +and_then this rich Lord [?] servant ?how_shall_we-somebody
  6  <preposition_of_genitive>-Lord rich say this servant [?] servant [?]
  7  [?] [?] [?] love-exist exist-rich [?] servant
@@ -4414,8 +4414,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  exist this eye see [?] <preposition_of_genitive>-Lord to-house long this | love
  6  exist go-~servant inside <preposition_of_genitive>-Lord to-house +and_then this rich
  7  <preposition_of_genitive>-Lord ~servant grab angel from this unhelpful ~servant
- 8  this one [?] and [?] grab angel from
- 9  +believe ~servant +servant [?] ten have end this holy-gospel
+ 8  this one +talent and +talent grab angel from
+ 9  +believe ~servant +servant +talent ten have end this holy-gospel
 
 
 === 175v ===
@@ -4831,15 +4831,15 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 193r ===
- 1  chapter-oh amen end this holy-gospel Lord-<suffix_of_divine_name> +<subject_marker> love this [?]
- 2  out(ward) high-Moses righteous(ly) inside +one chapter ?he_who exist write write [?]
- 3  holy-Simeon +three_days on-this world from-go-Simeon say Christ apostle [?]
- 4  <preposition_of_genitive>-Lord announce +<subject_marker> Simeon inside netherworld holy-from-father | [?]
- 5  ?coming <preposition_of_genitive>-Lord and see +be_saved you and many [?]
- 6  [?] exist inside netherworld from father-holy and prophet-holy. [?]
- 7  write and from holy-gospel that_is [?] Lord this-Lord holy-gospel [?]
- 8  this-Lord exist-nine on-water create this-Lord blind through light [?]
- 9  this-Lord evil on-people exorcise this-Lord [?] [?]
+ 1  chapter-oh amen end this holy-gospel Lord-<suffix_of_divine_name> +<subject_marker> love this +<end_of_line_mark>
+ 2  out(ward) high-Moses righteous(ly) inside +one chapter ?he_who exist write write +<end_of_line_mark>
+ 3  holy-Simeon +three_days on-this world from-go-Simeon say Christ apostle +<end_of_line_mark>
+ 4  <preposition_of_genitive>-Lord announce +<subject_marker> Simeon inside netherworld holy-from-father | on-+<end_of_line_mark>
+ 5  ?coming <preposition_of_genitive>-Lord and see +be_saved you and many +<end_of_line_mark>
+ 6  [?] exist inside netherworld from father-holy and prophet-holy. +<end_of_line_mark>
+ 7  write and from holy-gospel that_is [?] Lord this-Lord holy-gospel +<end_of_line_mark>
+ 8  this-Lord exist-nine on-water create this-Lord blind through light +<end_of_line_mark>
+ 9  this-Lord evil on-people exorcise this-Lord [?] +<end_of_line_mark>
 10  [?] ~resurrect who-and-this-and [?] from-healing-Lord this-Lord +cross holy-gospel
 
 
