@@ -1,0 +1,31 @@
+reference corpus 1746498 words, 174647 windows
+folios cited in evidence or already translated: 212
+held-out fully-read lines with 3+ content stems: 1208
+
+GATE A  held-out generalisation   lines 1208
+  observed mean score           16.38
+  frequency-matched control     15.78  sd 0.05
+  ratio 1.04x  (bar 1.5)     sigma 12.5  (bar 5.0)
+  ->  FAIL
+
+GATE B  this project's readings   lines 413
+  observed mean score           16.22
+  frequency-matched control     15.83  sd 0.08
+  ratio 1.02x  (bar 1.3)     sigma 4.7  (bar 3.0)
+  ->  FAIL
+
+GATE C  diagnostic: codes whose presence lowers the match
+  153 codes occur on 8+ held-out lines; mean over all lines 16.38
+     delta     n     mean  code / reading
+     -2.57    10    13.81  755670b26              Saul                           K&T
+     -1.72     8    14.66  a10570670ae0           sheep                          K&T
+     -1.65     8    14.73  060131060131           woman                          K&T
+     -1.57    20    14.81  5202c1a57520           head                           K&T
+     -1.47     9    14.92  540060540060540ae0     land                           K&T
+     -1.46    10    14.93  5207a0812              why?-as                        K&T compound
+     -1.44     9    14.95  520060060060131060060371 ?baptism-son                   K&T compound
+     -1.30    10    15.09  a90                    begin                          K&T
+     -1.14    31    15.24  a10a10795              king                           K&T
+     -1.10    13    15.28  670ae0670ae0670        exist-exist-chapter            K&T compound
+     -1.07    61    15.31  8c1211690              time                           K&T
+     -1.03    11    15.35  a109d3                 the-father                     K&T compound
