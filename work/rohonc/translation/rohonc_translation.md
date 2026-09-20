@@ -3376,3 +3376,197 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 
 **7**  […]; Mary Magdalene went with John […] at that time
 `understand-go Mary Magdalene John [?] time`
+
+## 049v — over the Cedron, and Simon carries it
+
+**1**  The Lord went, he said, to the Cedron; and then the Lord went
+`go this-Lord +say exist Cedron and then-exist go Lord`
+
+**2**  over the Cedron; and then
+`+say over-exist Cedron and then-exist`
+
+**3**  down […] […] the Lord Jesus; and […] |
+`to-down [?] [?] Lord-Jézus and [?] | from`
+
+**4**  […] the Lord Jesus […]; and the Jews knelt
+`[?] Lord-Jézus [?] and kneel_(down) Jew(ish)`
+
+**5**  before the Lord Jesus, and […] Hail,
+`before Lord-Jézus and [?] healing`
+
+**6**  Jesus! […] And there came to the Lord | the Virgin
+`Jézus [?] and leave-to-leave to-Lord | virgin`
+
+**7**  Mary; and Simon carried it for the Lord; and | when
+`Mary and Lord Simon [?] carry and | then`
+
+**8**  the Jews […] within […]
+`exist Jew(ish) [?] inside [?]`
+
+**9**  and […] […] upon the earth, and
+`and [?] [?] on-earth and`
+
+**10**  […] believed in the Lord Jesus […] […]
+`[?] believe on-Lord-Jézus food [?]`
+
+**11**  […] the Lord […] the Lord Jesus, and
+`[?] Lord [?] Lord-Jézus and`
+
+> Simon of Cyrene, Matthew 27:32.
+
+## 050r — laid upon the cross
+
+**1**  the Virgin Mary came to the Lord Jesus; and |
+`leave-to-leave virgin-Mary to-Lord-Jézus and | from`
+
+**2**  […] […] his bonds. And then
+`[?] [?] <of>-Lord handcuffs +and_then`
+
+**3**  the Lord Jesus […] his […] said,
+`Lord-Jézus [?] <of>-Lord [?] +say`
+
+**4**  […] […] this, in the commandment […] his apostles;
+`trespass [?] this inside commandment this [?] <of>-Lord apostle`
+
+**5**  and the Jews saw […] the whole wide world
+`and see Jew(ish) [?] good the_whole_wide_world`
+
+**6**  To his passion the Lord went; and […] said, in
+`on-suffering-year go Lord and [?] +say inside`
+
+**7**  the Lord believed; and they laid the Lord upon the cross,
+`Lord believe and to-Lord place_onto +cross`
+
+**8**  and the Lord […] one […]
+`and Lord [?] one why?-in_turn`
+
+**9**  and the two […] the cross, and could
+`and two [?] +cross and can`
+
+**10**  […] and […] […]
+`[?] and why?-in_turn [?]`
+
+**11**  and […] […]; and his feet could
+`and why?-in_turn [?] and <of>-Lord foot can`
+
+## 050v — the title, and the ninth hour
+
+**1**  […] and the feet […]
+`[?] ~and foot [?]`
+
+**2**  and they pierced the feet; and all his […]; and | the
+`and foot pierce and each,_every <of>-Lord [?] and | <of>`
+
+**3**  Lord […] in the Lord […] in the Lord Jesus Christ.
+`Lord [?] inside Lord [?] inside Lord-Jézus-Christ`
+
+**4**  And Pilate wrote upon a tablet: Jesus
+`and write Pilate on-one tablet Jézus`
+
+**5**  […] King of the Jews. And then the Jews:
+`[?] king Jew(ish) +and_then Jew(ish)`
+
+**6**  write that the Lord said he is King of the Jews. But the Lord's writing,
+`write Lord king Jew(ish) a) Lord write`
+
+**7**  Jesus […]. And then Pilate: what I have written
+`Jézus [?] +and_then Pilate write +<subject_marker>`
+
+**8**  Pilate has written. And the two thieves; with the Lord they nailed them
+`[?] ~Pilate write and two ~thief to-Lord pierce`
+
+**9**  to the cross, and the Lord among the two thieves […]
+`+cross and Lord among two ~thief [?]`
+
+**10**  […]. And this was at the ninth hour. And then the Lord Jesus
+`+say and this out(ward) nine hour +and_then Lord-Jézus`
+
+**11**  on the cross prayed to God his Father […]
+`+cross from-father <of>-Lord God [?] ask_(for)-Lord`
+
+> John 19:19–22, the title and "what I have written I have written", and
+> Matthew 27:46, the ninth hour.
+
+## 051v — three nails, and the sponge on a stick
+
+**1**  […] Mary's […]; but his three nails, long, with which
+`[?] <of>-Mary [?] a) <of>-Lord three_nails long this-who`
+
+**2**  they nailed the Lord to the cross. And then the Lord Jesus […] the Lord; and | the
+`this-Lord pierce to-cross +and_then Lord-Jézus [?] Lord and | <of>`
+
+**3**  Lord's apostles, when they bought […] sweet, and
+`Lord apostle then-exist buy exist-nine sweet and`
+
+**4**  wine; the apostles took […] the Jews' chief; and
+`wine grab apostle Jew(ish) head and`
+
+**5**  the Lord […]; but […] […] and the Lord | took
+`Lord [?] a) [?] [?] in_turn Lord | grab`
+
+**6**  […] vinegar; and […]; and the Lord,
+`+say vinegar and [?] and Lord`
+
+**7**  they took wine upon a sponge on a stick, and
+`wine grab +say on-one sponge_(hyssop?)_on_a_stick and`
+
+**8**  held the sponge to the Lord's face […]; and the wine
+`then-exist-Lord sponge face [?] and wine`
+
+**9**  […] his mouth […] […]. And then | the Lord
+`grab mouth [?] [?] +and_then | Lord`
+
+**10**  Jesus upon the cross [prayed to] God his Father in heaven […]
+`Jézus +cross from-father <of>-Lord God heaven [?]`
+
+**11**  […] his Father […] into his Father's hands.
+`this-Lord this-father <of>-Lord [?] inside <of>-father-<divine>`
+
+> John 19:29, the sponge on hyssop, and Luke 23:46, "Father, into thy hands".
+
+## 052r — two lines
+
+**1**  […] and […] to the Lord Jesus, his […] […]
+`why?-in_turn and from to-Lord-Jézus <of>-Lord [?] [?]`
+
+**2**  Here ends […] […] […] the Passion of the Lord Jesus.
+`end this [?] [?] [?] suffering Lord-Jézus`
+
+## 052v — the earthquake, and Longinus
+
+**1**  And then the Lord Jesus, his […] […] upon the cross; the earth
+`and then-exist Lord-Jézus <of>-Lord [?] [?] +cross earth`
+
+**2**  quaked, the rocks and the stones […]; the sun and the moon
+`quake rock stone [?] sun and moon`
+
+**3**  were darkened; and all […] […] humbled themselves; and all
+`this eclipse and each,_every [?] [?] this humble ~and each,_every`
+
+**4**  creation mourned, when Christ the Lord was crucified. And there came
+`create mourn then-exist Christ +crucified Lord and go [?]`
+
+**5**  one soldier from Jerusalem, blind; and that soldier
+`one soldier on-Jerusalem blind and [?] soldier`
+
+**6**  was Longinus; and the Jews' spear pierced
+`exist Longinus and pierce Jew(ish) spear [?]`
+
+**7**  the Lord Jesus Christ; and […] the spear
+`Lord-Jézus-Christ and can [?] spear on`
+
+**8**  […] the Lord Jesus Christ; and the soldier, the blood splashed
+`[?] Lord-Jézus-Christ how? soldier [?] splash`
+
+**9**  from the Lord Jesus upon his eyes, and through it he saw, and the soldier was healed;
+`to-to-to Lord-Jézus on-place through see and healing soldier`
+
+**10**  and the soldier believed in the Lord Jesus Christ,
+`leave and grab soldier believe Lord-Jézus-Christ`
+
+**11**  and the soldier was baptized, and saw […]
+`and soldier see-baptize and see [?]`
+
+> Longinus, the blind soldier whose sight is restored by the blood from the
+> spear wound, is not in any gospel. He is the Golden Legend, and Király and
+> Tokai's dictionary has a code glossed for him by name.
