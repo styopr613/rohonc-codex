@@ -6031,3 +6031,251 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 `this can then-exist want-Lord heaven earth quake`
 
 > The torch figure carried through to the Nativity and the cross.
+
+## 087v — the blind of God
+
+**1**  […] the gospel written
+`~exist-chapter gospel write`
+
+**2**  by holy Matthew […]
+`holy-Matthew [?]`
+
+**3**  of his writing, who is
+`<preposition_of_genitive>-write who-exist-to`
+
+**4**  whosoever is an apostle, this from this
+`?whosoever-apostle this from this`
+
+**5**  […] the son […]
+`[?] son [?]`
+
+**6**  afterwards, in Jesus'
+`?afterward inside <preposition_of_genitive>-Jézus`
+
+**7**  name, one
+`and-~exist-exist-from-+name one`
+
+**8**  man is saved, one […] in heaven; in turn
+`somebody +be_saved one [?] inside heaven | in_turn-chapter`
+
+**9**  the day is not so; every man is damned, judged, the man, by Christ. Holy
+`+day-exist ~a) each,_every somebody be_damned judge somebody Christ | holy`
+
+**10**  Matthew speaks […] this man says, this […]
+`Matthew speak [?] this somebody say this [?]`
+
+**11**  the son, this […] the man trespasses, blind to God, and
+`son this [?] somebody trespass blind God and`
+
+**12**  blind to God is the man, and […] […] the man in turn, this
+`blind God somebody and [?] [?] somebody in_turn this`
+
+> A sermon on the man who is blind to God, leading into the rich man of the
+> next folio.
+
+## 088r — the rich man, and the soul in purgatory
+
+**1**  the man is rich, he has wealth, he sees, blind
+`somebody rich have-somebody wealth see blind`
+
+**2**  he goes […] or sits, and […] asks of this
+`go [?] or sit and [?] exist ask_(for) from this`
+
+**3**  man alms, in Jesus' name […]
+`somebody alms inside Jézus and-~exist-exist-from-+name [?]`
+
+**4**  the blind, the high receives; the man is damned, the man, for
+`blind high-grab somebody be_damned exist somebody chapter-oh`
+
+**5**  ever […] […] judged and damned, the man
+`chapter-oh [?] [?] from-judge be_damned somebody`
+
+**6**  upon the blind; in turn damned, whosoever is damned, the man, for
+`on-blind in_turn be_damned ?whosoever be_damned exist somebody chapter-oh`
+
+**7**  ever […] saved; the man is damned, the man […]
+`chapter-oh [?] +be_saved somebody be_damned exist somebody [?]`
+
+**8**  whosoever, in the evil […] […] it is written, the man
+`?whosoever inside ~evil [?] [?] write somebody`
+
+**9**  in the evil until the death of the man […] in turn upon
+`inside ~evil until to-die <preposition_of_genitive>-somebody and-[?]-from-+name in_turn | on`
+
+**10**  death the soul is in purification […] until the day of judgment; in turn upon
+`die soul inside purification [?] until judge-+day in_turn | on`
+
+**11**  the day of judgment, and the soul, and for ever in the evil, for ever
+`judge-+day and soul and exist-exist-chapter inside ~evil chapter-oh chapter-oh`
+
+> Purgatory is named outright on line 10, which is a doctrine of the Latin
+> church and not a gospel text.
+
+## 088v — there was a certain rich man, clothed in purple
+
+**1**  Here begins this holy gospel
+`begins this holy-gospel`
+
+**2**  written by holy Luke in
+`write holy-Luke inside`
+
+**3**  the sixth […] of his writing.
+`six [?] <preposition_of_genitive>-write`
+
+**4**  At that time Lord Jesus said
+`time say Lord-Jézus`
+
+**5**  to his apostles, and the Jewish
+`apostle <preposition_of_genitive>-Lord and Jew(ish)`
+
+**6**  people, there was a rich man,
+`people-chapter exist-rich`
+
+**7**  one rich man,
+`one rich-somebody`
+
+**8**  and the rich man, every […] and purple the rich man wore, and
+`and somebody-rich each,_every [?] and purple go-somebody-rich | and`
+
+**9**  the rich man from day to day made merry; and then […] came
+`rich from +day until +day joy-rich and then-exist [?] go`
+
+**10**  one Lazarus to the rich man's house; and Lazarus was all over
+`one ~Lazarus to-house this-rich and ~Lazarus exist each,_every from`
+
+**11**  […] until […] […] wounds, Lazarus; at that time this rich man
+`[?] until [?] [?] wound ~Lazarus time this rich`
+
+**12**  to […] the rich man sat, the man, the Lord […] the Lord king […]
+`to [?] sit-rich somebody Lord [?] king-Lord [?]`
+
+**13**  this and that, the Lord; and then the rich man, this poor man asked
+`who-and-this-and Lord and then-exist rich exist this ?the_poor_man ask_(for)`
+
+> Luke 16:19–20, *there was a certain rich man, which was clothed in purple
+> and fine linen, and fared sumptuously every day: and there was a certain
+> beggar named Lazarus, which was laid at his gate, full of sores.*
+
+## 089r — the dogs licked his sores, and angels carried him
+
+**1**  alms; and the poor man, alms […] the rich man […]
+`alms and ?the_poor_man alms [?] rich [?]`
+
+**2**  but the poor man he drove out; and then this poor man lay
+`a) ?the_poor_man out(ward) chase and then-exist lie this`
+
+**3**  outside the gate of the rich man, alone, because the poor man was […]
+`?the_poor_man out(ward) ~gate to-<preposition_of_genitive>-rich exist-+one because exist ?the_poor_man [?]`
+
+**4**  was […]; and then the poor man desired the crumbs that fell […]
+`exist [?] and then-exist want ?the_poor_man trespass from crumbs [?]`
+
+**5**  from the rich man's table […] the poor man […]; and then
+`on-<preposition_of_genitive>-rich throne [?] ?the_poor_man [?] and then-exist | have`
+
+**6**  the rich man had many dogs, and the dogs came, this […] and
+`rich many dog and go-dog this [?] ~and`
+
+**7**  the dogs licked Lazarus […] and Lazarus more
+`lick-dog <preposition_of_genitive>-Lazarus [?] and Lazarus more`
+
+**8**  was of the dogs […] mercy, this Lazarus; in turn from the rich man
+`exist from dog [?] have_mercy this Lazarus in_turn from-rich`
+
+**9**  mercy […] […] mercy; and then this Lazarus
+`have_mercy [?] [?] have_mercy and then-exist this Lazarus`
+
+**10**  died, went with angels to heaven, to glory, literally, from God the Father […] this Lazarus, and Lazarus
+`die go angel heaven ?glory literal from-father God [?] this Lazarus and Lazarus`
+
+**11**  the angels took, and carried Lazarus into the bosom of Abraham
+`grab-angel and Lazarus carry inside öl Abraham`
+
+**12**  the forefather. And then this rich man saw this miracle, of this Lazarus
+`forefather and then-exist see this miracle this rich from this Lazarus`
+
+> Luke 16:21–22, *the dogs came and licked his sores... the beggar died, and
+> was carried by the angels into Abraham's bosom.* The word for bosom is
+> Kiraly and Tokai's own Hungarian gloss, *öl*, left as they give it.
+
+## 089v — in hell he lifted up his eyes
+
+**1**  […] Lazarus did, the angels, the Father, heaven; and then this
+`[?] do, Lazarus angel father heaven and then-exist this`
+
+**2**  rich man died, and this rich man […] in the evil was buried; and then
+`rich die and this-~rich [?] inside ~evil bury and then-exist`
+
+**3**  he suffered in the evil, this rich man; he looked up and saw Lazarus
+`suffer inside ~evil this ~rich see ~trespass-~rich and see Lazarus`
+
+**4**  in the bosom of father Abraham, and this rich man cried
+`inside öl father Abraham and shout this rich`
+
+**5**  father Abraham, said the father, Lazarus, because this […] the poor man, of
+`father Abraham say-father Lazarus because-this from-understand ?the_poor_man | <preposition_of_genitive>`
+
+**6**  Lazarus, a little […] dip in water, and cool it
+`Lazarus little [?] immerge water and cool`
+
+**7**  on the rich man's tongue […] […] the soul of the rich man; and from
+`on-<preposition_of_genitive>-rich tongue [?] [?] soul <preposition_of_genitive>-rich and from`
+
+**8**  […] for ever, of the rich man. And then father Abraham: this
+`[?] exist-exist-chapter <preposition_of_genitive>-rich +and_then father Abraham | this`
+
+**9**  rich man, son of the Father, this rich man had good things […] he is
+`~rich son <preposition_of_genitive>-father-<suffix_of_divine_name> this-~rich good [?] ?he_is`
+
+**10**  Lazarus was […] […] the people; in turn this rich man was
+`Lazarus exist [?] [?] ?people in_turn this-~rich exist`
+
+**11**  rich […] […] this rich man, Lazarus took the crumbs that fell
+`rich [?] [?] this-~rich grab-Lazarus trespass from crumbs`
+
+**12**  […] the rich man's table; the rich man took […] the rich man, Lazarus […]
+`[?] [?]-~rich throne ~rich grab [?] ~rich Lazarus [?]`
+
+> Luke 16:23–25, *in hell he lift up his eyes... send Lazarus, that he may
+> dip the tip of his finger in water, and cool my tongue... Son, remember
+> that thou in thy lifetime receivedst thy good things.*
+
+## 090r — a great gulf fixed, and they have Moses and the prophets
+
+**1**  said father Abraham, take Lazarus […] […] the people. And then
+`say father Abraham grab-Lazarus [?] [?] ?people +and_then`
+
+**2**  father Abraham: a great chasm between the rich man […] or […]
+`father Abraham many chasm among-~rich-[?] or [?]`
+
+**3**  this is the netherworld, most high, evil upon evil; who cries, this […]
+`+this_is netherworld most_high ~evil on-~evil who-shout this-[?]`
+
+**4**  father Abraham; and Lazarus […] in the bosom of father
+`father Abraham and Lazarus [?] inside öl father`
+
+**5**  Abraham; and a second time this rich man cried, father Abraham,
+`Abraham and two who-shout this-~rich father-<suffix_of_divine_name> Abraham`
+
+**6**  send Lazarus […] […] […] the rich man has, the trespass, these two, of the rich man
+`go Lazarus [?] [?] [?] have-~rich trespass this-two-two <preposition_of_genitive>-rich`
+
+**7**  brethren, because the brethren […] of the rich man, how in this rich man's suffering
+`~exist-exist because ~exist-exist [?] from-~rich how? inside this-rich suffer`
+
+**8**  because these brethren, the man sins, from […] then is damned
+`because this ~exist-exist somebody sin from [?] then-exist be_damned`
+
+**9**  the man, as the rich man, this rich man is damned. Said father Abraham, they have
+`somebody how?-rich this-rich be_damned say father-<suffix_of_divine_name> Abraham have`
+
+**10**  the brethren, the trespass, this prophet, and preaching, because this prophet preaches
+`exist-exist trespass this prophet and preach because this prophet preach`
+
+**11**  evil; the man, the brethren […] and a third time he cried, this
+`evil somebody brother [?] and +three who-shout this`
+
+> Luke 16:26–29, *between us and you there is a great gulf fixed... I have
+> five brethren... they have Moses and the prophets.* The codex counts the
+> rich man's three cries with its own ordinals, second on line 5 and third on
+> line 11.
