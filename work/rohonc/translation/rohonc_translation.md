@@ -5788,3 +5788,246 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > sooner do that than understand the Trinity. It is in the Golden Legend,
 > which is in this project's reference corpus, and it follows directly from
 > the sun analogy on the folio before.
+
+## 084v — thou shalt sooner empty the sea
+
+**1**  And then holy Augustine, this […] child,
+`+and_then holy-Augustine this [?] son-Lord-<suffix_of_divine_name>`
+
+**2**  what does this child want? Said the child, this:
+`who this want-son-Lord-<suffix_of_divine_name> say want-son-Lord-<suffix_of_divine_name> this.`
+
+**3**  that day into this pit I scoop. Said holy Augustine, this
+`[?]-daily,_of_that_day inside this pit scoop say holy-Augustine | this`
+
+**4**  child, can this child do it? What
+`son-Lord-<suffix_of_divine_name> this can-son-Lord-<suffix_of_divine_name> do, who | this`
+
+**5**  child, this, that day, into this pit the child scoops
+`son-Lord-<suffix_of_divine_name> this [?]-daily,_of_that_day inside this pit scoop-son-Lord-<suffix_of_divine_name>`
+
+**6**  said this […] child; first this child, can
+`say this [?] son-Lord-<suffix_of_divine_name> first this-son this | can`
+
+**7**  the child do it, and this Augustine, upon leaving
+`son-Lord-<suffix_of_divine_name> do, a)-who this-Augustine on-chapter-leave-this`
+
+**8**  and the child […] saw the word afterwards, before
+`and son-Lord-<suffix_of_divine_name> [?] see word ?afterward before`
+
+**9**  holy Augustine; and he could tell many this […] in writing […]
+`holy-Augustine and can to-many this [?] on-write [?]`
+
+**10**  but believe truly, this woman, one God, of
+`a) +believe righteous(ly) this-woman one God | <preposition_of_genitive>`
+
+**11**  the man, heaven and earth, that is, he has
+`somebody-+<subject_marker> heaven land that_is have`
+
+**12**  carries the law of God […] sin, the man is saved
+`carry +law God [?] +sin somebody be_saved`
+
+**13**  the man answered, to many, he shall never die, for
+`somebody ?answered to-many not-not-die chapter-oh chapter-oh`
+
+**14**  ever, amen; speaks […] […] his own
+`amen speak [?] [?] exist-exist <preposition_of_genitive>`
+
+> The child tells Augustine he will sooner empty the sea into the pit than
+> understand the Trinity, and Augustine goes away and writes of it.
+
+## 085r — one commandment broken is all of them broken
+
+**1**  and among you, through transgressing one
+`and among you through transgress one`
+
+**2**  of God's laws, the commandment, every man […] receives before
+`+law God to-commandment each,_every somebody-+<subject_marker> [?] grab before`
+
+**3**  […] thanks to the Lord, because if a man one
+`[?] to-Lord thanks Lord-<suffix_of_divine_name> because and somebody one`
+
+**4**  transgresses, how then is he a transgressor of every law? because
+`transgress how? then-exist each,_every +law ~transgress somebody | because`
+
+**5**  it is the Lord's; he received it from his angel, in the Old
+`+<subject_marker> exist Lord-<suffix_of_divine_name> grab on-angel <preposition_of_genitive>-Lord inside <pertaining_to_the_Old_Testament>`
+
+**6**  Testament word, father Abraham […] ten and one commandment
+`word father Abraham [?]-ten and +one-[?] commandment`
+
+**7**  […] this, more than these, go and be saved among men; the Lord
+`[?] this ?more_than_these go be_saved among somebody Lord`
+
+**8**  of the Jews, Jesus, apostle to the gentiles, most high […] the Son of the living God
+`Jew(ish) Jézus apostle-pagan ?above-high [?] son living God`
+
+**9**  Lord Jesus Christ; and to the man from […] and to the man the soul
+`Lord-Jézus-Christ and to-somebody from [?] and to-somebody soul`
+
+**10**  upon the cross […] and for the man his blood was shed, and the man
+`~on-+cross-[?] and to-somebody +<subject_marker> <preposition_of_genitive> blood shed and somebody +<subject_marker>`
+
+**11**  the Lord redeemed from hell fire […] the man, to many, until
+`redeem-Lord from hell fire [?] somebody to-many from-until`
+
+**12**  the ten laws; believe truly, be baptized […] one God
+`ten-+law +believe righteous(ly) ?baptism-[?] one God`
+
+> James 2:10, *whosoever shall keep the whole law, and yet offend in one
+> point, he is guilty of all*, set against the ten commandments.
+
+## 085v — Elijah calls down fire
+
+**1**  of the man, heaven and earth, that is, he has
+`<preposition_of_genitive>-somebody +<subject_marker> heaven land that_is have`
+
+**2**  carries the law of God […] sin, the man is saved
+`carry +law God [?] +sin somebody be_saved`
+
+**3**  the man answered, to many, he shall never die, for
+`somebody ?answered to-many not-not-die chapter-oh chapter-oh`
+
+**4**  ever, amen. Speaks holy Augustine, to many: believe, the man, in
+`amen speak holy-Augustine to-many +believe somebody inside`
+
+**5**  God for ever […] God can, for ever.
+`God exist-exist-chapter [?] God can inside exist-exist-chapter.`
+
+**6**  […] this day, in the place, the man receives
+`to-from [?] exist-today’s on-place grab somebody`
+
+**7**  in his mouth; speaks holy Elijah the prophet, it is written.
+`inside <preposition_of_genitive>-somebody mouth speak holy-Elijah prophet write.`
+
+**8**  Holy the prophet, holy Moses, there was […] fire upon all peoples
+`holy-<name_of_a_prophet> holy-Moses exist [?] fire on-each,_every ?people`
+
+**9**  to heaven on high, because all peoples were destroyed; kneeled one
+`to-heaven high because-exist each,_every ?people destroy kneel_(down) one`
+
+**10**  holy Elijah the prophet. At that time, then, the Lord destroyed
+`holy-Elijah prophet time then-exist Lord-<suffix_of_divine_name> destroy-Lord`
+
+**11**  the earth; there was fire in one place, and […] from
+`earth exist fire inside one place and [?] | from`
+
+**12**  piercing […] to the Lord, in water; upon this the destroying was three
+`pierce [?] to-to Lord-<suffix_of_divine_name> inside water on-this destroy exist +three`
+
+> 1 Kings 18:36–38, Elijah at Carmel, the water poured over the altar and the
+> fire of the Lord falling.
+
+## 086r — the torch lit from heaven
+
+**1**  twenty years and six years; at that time holy Elijah kneeled
+`two-two-ten-year and six-year time kneel_(down) holy-Elijah`
+
+**2**  and prayed; thanks to the Lord; and fire
+`and pray to-Lord thanks Lord-<suffix_of_divine_name> to fire`
+
+**3**  from the gate of God, the angel of heaven; and rather
+`from-gate God angel heaven and from ?but_rather`
+
+**4**  fire […] one […] […] said
+`fire [?] one [?] [?] say`
+
+**5**  the angel of God: Elijah, this signifies the Lord, the Lord of
+`God angel Elijah this exist symbolize Lord-<suffix_of_divine_name> Lord | <preposition_of_genitive>`
+
+**6**  angels. And then holy Elijah took a torch, and the torch
+`angel and then-exist grab holy-Elijah torch ~and torch`
+
+**7**  gave light; in turn this […] […] went to Elijah, from twenty
+`light in_turn this [?] [?] go to-Elijah from | two-two`
+
+**8**  twenty peoples, and every one […] the torch gave light; in turn
+`two-two people-+day and each,_every from-[?] torch light in_turn`
+
+**9**  holy Elijah […] […] and in Elijah, until
+`holy-Elijah [?] [?] and inside Elijah from-until`
+
+**10**  until; and then holy Elijah, then, forty
+`from-until +and_then holy-Elijah then-exist | two-two-two-two`
+
+**11**  days. This is written by holy Moses in the Old Testament word.
+`ten-+day +this_is write holy-Moses inside <pertaining_to_the_Old_Testament> word`
+
+> The fire from heaven becomes a torch, and the torch a figure, which the
+> next folio applies to the Virgin.
+
+## 086v — the torch signifies the Virgin
+
+**1**  it signifies […] […] the angel from the Father, for ever
+`symbolize [?] [?] exist angel from-father inside exist-exist-chapter`
+
+**2**  to the blessed Virgin Mary, one son, the Lord […] signifies
+`to-happy virgin-Mary son one Lord-<suffix_of_divine_name> [?] symbolize`
+
+**3**  the man, for ever […] received, upon the Lord
+`somebody exist-exist-chapter [?] exist grab | on-Lord`
+
+**4**  Jesus Christ; it signifies the torch, for ever, to the blessed Virgin
+`Jézus-Christ symbolize torch exist-exist-chapter to-happy | virgin`
+
+**5**  Mary; then Mary conceived the Lord, and Jesus saved the whole wide
+`Mary then-exist-Mary get_conceived Lord-<suffix_of_divine_name> and Jézus be_saved each,_every the_whole_wide_world`
+
+**6**  world; and Christ […] of the man, and the Lord, the head […]
+`?world and Christ [?]-to-[?] <preposition_of_genitive>-somebody and Lord ~head-[?]-~son`
+
+**7**  heaven and earth […] signifies, for ever, Lord Jesus
+`heaven and earth [?] symbolize exist-exist-chapter Lord-Jézus`
+
+**8**  Christ […] the fire signifies the Lord, and every one can […] God the Father
+`Christ [?] symbolize fire Lord-<suffix_of_divine_name> and can each,_every | father-God`
+
+**9**  Lord Jesus Christ, the angel, the Holy Spirit, Mary, the apostles, one […]
+`Lord-Jézus-Christ-angel-holy-spirit-Mary-apostle one [?]`
+
+**10**  God […] and this […] is, until the crucifying
+`God [?] and this [?] exist from-until on-execute`
+
+**11**  of Lord Jesus Christ, at thirty, in […] the Lord's year, upon the whole wide world
+`Lord-Jézus-Christ on-thirty inside [?] Lord-year on-each,_every the_whole_wide_world ?world`
+
+> The torch lit but not consumed is read as the Virgin, which is the same
+> figure the burning bush usually carries. Typology of this kind is why the
+> book keeps saying *signifies*.
+
+## 087r — the torch and the light
+
+**1**  and the man who eats this day […] the Son
+`and somebody exist this exist-today’s eat [?] son`
+
+**2**  of God […] every man shall be saved; and one
+`God [?] each,_every somebody +be_saved and one`
+
+**3**  man […] Elijah signifies, for ever, the blessed
+`somebody [?] Elijah symbolize exist-exist-chapter to-happy`
+
+**4**  Virgin Mary, how from Mary the torch gave light at his coming
+`virgin-Mary how? from-Mary torch light then-?coming`
+
+**5**  the Lord created of the man, and the cross could, to one
+`create-Lord <preposition_of_genitive>-somebody and can +cross to-one`
+
+**6**  man's death, but all peoples die; this one, one man
+`somebody die a) each,_every ?people die this-+one one somebody`
+
+**7**  could, God, everything, in his mouth receives, because the Lord
+`can God each,_every inside <preposition_of_genitive>-somebody mouth grab because Lord-<suffix_of_divine_name>`
+
+**8**  […] for ever, but rather […] God is
+`[?] exist-exist-chapter +but_rather [?] God-+<subject_marker>`
+
+**9**  many […] and […] and from […] […]
+`many [?] and [?] and from [?] [?]`
+
+**10**  the earth […] and heaven on high, and God is
+`earth [?] and heaven high and God-+<subject_marker>`
+
+**11**  this can; then the Lord would have heaven and earth quake
+`this can then-exist want-Lord heaven earth quake`
+
+> The torch figure carried through to the Nativity and the cross.
