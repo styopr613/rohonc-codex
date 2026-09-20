@@ -36,104 +36,77 @@ import kttranslate as T
 HERE = os.path.dirname(os.path.abspath(__file__))
 KJV = os.path.join(os.path.dirname(HERE), "data", "ref", "rohonc", "bible_kjv_verses.txt")
 
-# The 66 books in canonical order, which is the order the Gutenberg King James
-# prints them. Books are assigned by POSITION, not by parsing the heading:
-# the headings are inconsistent prose ("The Second Book of the Kings", "The
-# Revelation of Saint John the Devine") and guessing a short name from them
-# silently merged 1 and 2 Kings, merged the gospel of John with the three
-# epistles of John, and lost Samuel altogether. "Kings 19:6" then fetched
-# 2 Kings 19 (Rabshakeh and Assyria) for a note that meant 1 Kings 19 (the
-# cake and the cruse of water), and the shared-word intersection reported
-# "rabshakeh" as a candidate for two folios about Elijah.
-CANON = """Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth
-1Samuel 2Samuel 1Kings 2Kings 1Chronicles 2Chronicles Ezra Nehemiah Esther Job
-Psalms Proverbs Ecclesiastes Song Isaiah Jeremiah Lamentations Ezekiel Daniel
-Hosea Joel Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah
-Malachi Matthew Mark Luke John Acts Romans 1Corinthians 2Corinthians Galatians
-Ephesians Philippians Colossians 1Thessalonians 2Thessalonians 1Timothy
-2Timothy Titus Philemon Hebrews James 1Peter 2Peter 1John 2John 3John Jude
-Revelation""".split()
+BOOKS = ("Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth Samuel Kings "
+         "Chronicles Ezra Nehemiah Esther Job Psalms Psalm Proverbs Ecclesiastes Isaiah "
+         "Jeremiah Lamentations Ezekiel Daniel Hosea Joel Amos Jonah Micah Zechariah Malachi "
+         "Matthew Mark Luke John Acts Romans Corinthians Galatians Ephesians Philippians "
+         "Colossians Thessalonians Timothy Hebrews James Peter Jude Revelation").split()
+ALIAS = {"Psalm": "Psalms"}
 
-# What a citation may call each book. A bare name with no ordinal means the
-# FIRST book of that name, which is what "Kings 19:6" meant in every note
-# this project wrote.
-NAMES = ("Genesis Exodus Leviticus Numbers Deuteronomy Joshua Judges Ruth Samuel "
-         "Kings Chronicles Ezra Nehemiah Esther Job Psalms Psalm Proverbs "
-         "Ecclesiastes Song Isaiah Jeremiah Lamentations Ezekiel Daniel Hosea Joel "
-         "Amos Obadiah Jonah Micah Nahum Habakkuk Zephaniah Haggai Zechariah "
-         "Malachi Matthew Mark Luke John Acts Romans Corinthians Galatians "
-         "Ephesians Philippians Colossians Thessalonians Timothy Titus Philemon "
-         "Hebrews James Peter Jude Revelation Apocalypse").split()
-ALIAS = {"Psalm": "Psalms", "Apocalypse": "Revelation", "Canticles": "Song"}
+REF = re.compile(r"\b(%s)\b\.?\s*(\d+)(?::(\d+)(?:\s*[-–]\s*(\d+))?)?|(?<![\d:])(\d+):(\d+)(?:\s*[-–]\s*(\d+))?"
+                 % "|".join(BOOKS))
 
-ORD = {"1": "1", "2": "2", "3": "3", "i": "1", "ii": "2", "iii": "3",
-       "first": "1", "second": "2", "third": "3"}
-
-REF = re.compile(
-    r"\b(?:(1|2|3|I{1,3}|First|Second|Third)\s+)?(%s)\b\.?\s*"
-    r"(\d+)(?::(\d+)(?:\s*[-\u2013]\s*(\d+))?)?"
-    r"|(?<![\d:])(\d+):(\d+)(?:\s*[-\u2013]\s*(\d+))?" % "|".join(NAMES),
-    re.I)
 
 def verses():
-    """{(book, chapter, verse): text} from the Gutenberg King James.
-
-    Two things the first version of this got wrong. Books were named by
-    regex off the heading, which merged 1 and 2 Kings; they are assigned by
-    canonical position here, advancing at each "1:1". And a verse was only
-    recognised at the start of a line, but the King James wraps and a new
-    verse often begins mid-line, so each verse swallowed the start of the
-    next one and every pool was inflated with a neighbouring verse's words.
-    """
+    """{(book, chapter, verse): text} from the Gutenberg King James."""
     out = {}
     if not os.path.exists(KJV):
         return out
-    text = open(KJV, encoding="utf-8", errors="ignore").read()
-    marks = list(re.finditer(r"(?<![\d:])(\d+):(\d+)\s", text))
-    bi = -1
-    for k, m in enumerate(marks):
-        ch, v = int(m.group(1)), int(m.group(2))
-        if ch == 1 and v == 1:
-            bi += 1
-        if bi < 0 or bi >= len(CANON):
-            continue
-        end = marks[k + 1].start() if k + 1 < len(marks) else len(text)
-        body = " ".join(text[m.end():end].split())
-        out[(CANON[bi], ch, v)] = body
+    book, heading, cur, buf = None, "", None, []
+    for raw in open(KJV, encoding="utf-8", errors="ignore"):
+        line = raw.rstrip("\n")
+        m = re.match(r"^(\d+):(\d+)\s(.*)", line)
+        if m:
+            if cur:
+                out[cur] = " ".join(buf)
+            ch, v = int(m.group(1)), int(m.group(2))
+            if ch == 1 and v == 1:
+                book = short(heading)
+            cur, buf = (book, ch, v), [m.group(3)]
+        elif line.strip():
+            if cur and buf:
+                buf.append(line.strip())
+            heading = line.strip()
+        else:
+            if cur:
+                out[cur] = " ".join(buf)
+                cur, buf = None, []
+    if cur:
+        out[cur] = " ".join(buf)
     return out
 
 
-def canon(name, ordinal):
-    """A cited name plus an optional ordinal -> the canonical book key."""
-    name = ALIAS.get(name.title(), name.title())
-    n = ORD.get((ordinal or "").lower(), "")
-    if n and n + name in CANON:
-        return n + name
-    if name in CANON:
-        return name
-    for b in CANON:                      # bare "Kings" means 1 Kings
-        if b.endswith(name):
-            return b
-    return name
+def short(heading):
+    h = heading.replace("The Revelation of Saint John the Devine", "Revelation")
+    h = re.sub(r"^The .*?Called ", "", h)
+    h = re.sub(r"^The Gospel According to Saint ", "", h)
+    h = re.sub(r"^The Acts of the Apostles", "Acts", h)
+    h = re.sub(r"^The (General )?Epistle .* to the ", "", h)
+    h = re.sub(r"^The (General )?Epistle .* of ", "", h)
+    h = re.sub(r"^The (First|Second|Third) Book of (the )?", "", h)
+    h = re.sub(r"^The Book of (the )?", "", h)
+    h = re.sub(r"^The (Song of |Lamentations of |Proverbs)", lambda m: m.group(0)[4:], h)
+    h = re.sub(r"^The ", "", h)
+    return h.split()[-1] if h.split() else h
 
 
 def refs_in(note):
     """[(book, chapter, v_from, v_to)] -- a bare C:V takes the last-named book."""
     out, book = [], None
     for m in REF.finditer(note):
-        if m.group(2):
-            book = canon(m.group(2), m.group(1))
-            ch = int(m.group(3))
-            if m.group(4):
-                a = int(m.group(4))
-                b = int(m.group(5)) if m.group(5) else a
+        if m.group(1):
+            book = ALIAS.get(m.group(1), m.group(1))
+            ch = int(m.group(2))
+            if m.group(3):
+                a = int(m.group(3))
+                b = int(m.group(4)) if m.group(4) else a
                 out.append((book, ch, a, b))
             else:
                 out.append((book, ch, 1, 999))
         elif book:
-            a = int(m.group(7))
-            b = int(m.group(8)) if m.group(8) else a
-            out.append((book, int(m.group(6)), a, b))
+            a = int(m.group(6))
+            b = int(m.group(7)) if m.group(7) else a
+            out.append((book, int(m.group(5)), a, b))
     return out
 
 
