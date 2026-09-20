@@ -9843,3 +9843,233 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > lines 6 and 7 are Király & Tokai's, cited at these exact lines; *lost and
 > damned* is written as one word on line 6 and split across the line break
 > from line 6 to line 7, which is how the two halves were read.
+
+## 139v — the curse and the blessing
+
+**1**  So speaks holy Moses to Aaron; of Moses it is:
+`speak holy-Moses Aaron <of>-Moses exist-exist`
+
+**2**  this people, the man, is cursed from every
+`exist this people somebody exist through cursed from each,_every`
+
+**3**  good. That is, therefore the man is saved; in turn, whoever is
+`good that_is ?therefore +be_saved-somebody in_turn and somebody exist`
+
+**4**  merciful, righteous, to God blind, and to his
+`have_mercy-somebody righteous(ly)-somebody God blind and to <of>-somebody`
+
+**5**  brother as to himself, to his own.
+`from-father son how?-to somebody +himself <of>-somebody.`
+
+**6**  There is heaven and earth; in turn, whoever is
+`exist heaven land in_turn and somebody +exist`
+
+**7**  merciful, righteous to God, blind, and to his
+`have_mercy righteous(ly)-somebody to God blind and to <of>-somebody`
+
+**8**  brother: this man the Lord God would. Cursed from
+`from-father son this somebody want Lord-<divine> cursed from`
+
+**9**  every good; and all he has, that is, all his riches […]
+`each,_every good +be_saved and each,_every have that_is each,_every ~rich [?]`
+
+**10**  […] what the man has is damned, and the rich man cursed. This
+`[?] have-somebody be_damned-somebody and ~rich cursed this`
+
+> Deuteronomy 28, the blessings and the curses, which run from here to
+> 140v. *Brother* on lines 5 and 8 is Király & Tokai's own father+son, and
+> *himself* on line 5 is theirs too, cited at this line. Lines 3 to 8 are one
+> formula said twice and its sense is not settled; "to God blind" is what the
+> words say and it is not yet clear what it means.
+
+## 140r — cursed be thy herd and thy field
+
+**1**  the man. Of the Lord the herd, cursed; of the Lord the field;
+`somebody Lord-<divine> <of> herd cursed Lord-<divine> <of> field`
+
+**2**  then the man's harvest, the field, cursed; of the Lord, his
+`then-this-somebody harvest field cursed Lord-<divine> <of>-somebody`
+
+**3**  […] then the man's grape, harvest, […]
+`[?] then-this-somebody +grape harvest [?].`
+
+**4**  cursed, this man of the Lord, within his house.
+`cursed this-somebody Lord-<divine> inside <of>-somebody home`
+
+**5**  There is this man […] […] damned, O chapter,
+`+exist this-somebody [?] [?] be_damned-somebody chapter-oh`
+
+**6**  O chapter; into hell the man falls; in turn, whoever is | merciful,
+`chapter-oh inside hell somebody +fall_down in_turn and somebody exist | have_mercy`
+
+**7**  righteous, the man, to God blind, this, to his
+`somebody righteous(ly) somebody to God blind this <of>-somebody`
+
+**8**  brother as to himself, this man.
+`from-father son how?-to somebody +himself this-somebody.`
+
+**9**  Blessed of the Lord the herd; blessed of the Lord the
+`+blessed Lord-<divine> <of> herd +blessed Lord-<divine> <of>`
+
+**10**  field; then the man's field, harvest, blessed;
+`field then-this-somebody field harvest +blessed`
+
+> Deuteronomy 28:17-18 and then 28:3-5, the curse and the blessing in the same
+> words with one word changed, which is how *blessed* was read: Király &
+> Tokai's own entry gives that spelling here, and the curse standing opposite
+> it says the same thing twice over. *Grape* on line 3 is theirs, cited at
+> this line; it had been cut into their "exist" and their numeral "nine",
+> because the rule that makes it a variant is written in their prose and not
+> as a variant code.
+
+## 140v — write it, and pray to the virgin Mary
+
+**1**  of the Lord the […]; then the man's […], grape.
+`Lord-<divine> <of> [?] then-this-somebody [?] +grape.`
+
+**2**  Harvest blessed, this man of the Lord, and within his | house in turn
+`harvest +blessed this-somebody Lord-<divine> and inside <of>-somebody | ~home-in_turn`
+
+**3**  […] and in every place […] the man is left, the man is saved,
+`[?] and each,_every to-place [?] leave-somebody +be_saved-somebody`
+
+**4**  there is. O chapter, O chapter, amen. It is written, it is said:
+`exist chapter-oh chapter-oh amen write speak`
+
+**5**  all the wide […], to the pleasure of the Father God, and the Son of the Father God.
+`each,_every +wide [?] pleasing from-father-<divine> in_turn son <of>-father-<divine>.`
+
+**6**  Pray to the virgin Mary, believe; to all who would, the Lord
+`pray from virgin-Mary +believe to each,_every want Lord`
+
+**7**  the Father God hears; all the wide people the Lord would, to his will
+`from-father-<divine> hear each,_every +wide ?people want Lord to-+will`
+
+**8**  do; and the Lord: whoever is righteous, believe,
+`do, and Lord somebody exist righteous(ly) +believe`
+
+**9**  the man. This the apostles all wrote, because every man's sin
+`somebody this +<subject> apostle each,_every write because each,_every somebody sin`
+
+**10**  goes to the virgin Mary for mercy. Believe, man.
+`go-somebody to virgin-Mary have_mercy +believe somebody.`
+
+> *Wide* on lines 5 and 7 is Király & Tokai's, cited at both, and they gloss
+> the phrase it stands in as "the whole wide world"; *will* on line 7 is
+> theirs with two question marks on it.
+
+## 141r — the fruit of Mary
+
+**1**  Because of this, pray to Mary: the fruit of Mary, the son,
+`because this from Mary pray <of>-Mary +fruit son`
+
+**2**  to all the wide world; because the Lord Christ made the law among
+`to-each,_every +wide ?world because Lord Christ +law do, among`
+
+**3**  men, among the Father God's, of the Lord, because they are many.
+`somebody among from-father-<divine> <of>-Lord because +<subject> many.`
+
+**4**  Have mercy, Lord Christ, on every man's sin, speaks the holy church
+`have_mercy Lord Christ to-each,_every somebody sin speak holy-<church_father>`
+
+**5**  father; then this man is, from many a man's sin,
+`church_father then-exist this somebody exist from many somebody sin`
+
+**6**  […] left, the man, of the man, the heart of the Lord, because this is
+`[?] leave-somebody <of>-somebody Lord-+heart because +this_is.`
+
+**7**  the creature of the Lord: the sin, the mercy […]; this is within the man's law,
+`?creature Lord +sin have_mercy [?] this exist inside +law somebody`
+
+**8**  that is; and the man must carry the law of God, | as the scribes say,
+`that_is and have somebody carry +law God | ~exist-?the_scribes`
+
+**9**  […] the sin; the man is saved through many sufferings.
+`[?] +sin somebody +be_saved-somebody to-many suffering`
+
+> *Fruit* on line 1 is Király & Tokai's own, and they gloss the whole phrase
+> at this line: "Mary's fruit, her son".
+
+## 141v — a woman in Rome
+
+**1**  O chapter, O chapter, amen. It is written by the name | of
+`chapter-oh chapter-oh amen write +<subject> +name | <of>`
+
+**2**  the man; in heaven and earth, until he dies; in turn upon
+`somebody inside heaven land until die in_turn | on`
+
+**3**  death. Here ends the chapter. And the soul. O chapter, O chapter, amen.
+`die exist-exist-chapter and soul chapter-oh chapter-oh amen`
+
+**4**  There was in Rome a
+`exist inside +Rome one`
+
+**5**  woman, the head, and
+`+woman +woman head and`
+
+**6**  then, it is believed, the woman
+`then-exist +believe-+woman`
+
+**7**  in Rome […]
+`inside +Rome [?]`
+
+**8**  every day two: God. Here ends the chapter.
+`each,_every +day two God exist-exist-chapter`
+
+**9**  She took, and fasted […] […]; she fasted to […], the woman,
+`+grab and fast [?] [?] +<subject> fast to-[?] +woman`
+
+**10**  many years; and the woman would give thanks; this […] fasted one
+`many year and +woman want thanks this [?] fast one`
+
+**11**  […]; and the woman took this holy host, and then
+`[?] and +woman grab this holy-host and then-exist`
+
+> A correction, and a large one. This block was reading "baptism" and "the
+> Baptist" and it is a woman. Király & Tokai's entry for *woman* cites
+> 141v06, 10, 11, 142r01, 142v02, 02, 04, 05 for the first sign, and says the
+> pair of signs across folios 141 to 147 is *woman* as well. Both words are
+> reduplications of their 060131, which alone is *woman*, and their own
+> Baptist entry writes "but cp." at the collision. The Baptist reading is
+> right where the sign stands after Saint John at 116v-118r, which is where
+> they cite it, and it was wrong everywhere else. *Rome* on lines 4 and 7 is
+> theirs, cited at both, with their question mark on it.
+
+## 142r — the woman who lived on the host
+
+**1**  The woman took, and cried out; the woman was lost and died;
+`+woman grab and shout-to +lose die-+woman +woman`
+
+**2**  and then she carried the host; and then the woman […] was;
+`and then-exist carry host and then-exist +woman +woman [?] exist`
+
+**3**  she took it to the place; hungering, she left […] this day's
+`grab on-place *hunger leave [?] exist-today's`
+
+**4**  food. The woman ate many years […]; the woman understood
+`eat +woman +woman many year [?] +<subject> +woman +woman understand`
+
+**5**  Christ in the high heavens, the Holy Spirit, spirit to spirit, from the woman;
+`Christ on-heaven +high holy-spirit to-spirit from +woman`
+
+**6**  living […] […] there were two; the woman's head, in Rome;
+`living-[?] [?] exist two +woman +woman head inside +Rome`
+
+**7**  and then the woman, through sin, the woman went out;
+`and then-exist +woman +woman through sin +woman +woman out(ward)`
+
+**8**  of the woman the Lord, who was a thief, did; and then
+`<of>-+woman +woman Lord thief-who do, and then-exist`
+
+**9**  the woman cast out; the Lord, upon the Lord, had mercy; and
+`+woman +woman exorcise Lord on-<of>-Lord have_mercy and`
+
+**10**  one sister went; and then, O, of
+`go one +sister +and_then +oh | <of>`
+
+> A woman who fasts for years and lives on the host. *High* on line 5 is
+> Király & Tokai's, in their own phrase "the high heavens" cited at this
+> line; *lose* on line 1 and *sister* on line 10 are theirs too, both cited
+> here, and the sister carries their "?? nun". The words on this page are
+> read and the story is not: whose thief, and who casts out whom, is not
+> settled by anything on the page.

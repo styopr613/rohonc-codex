@@ -475,10 +475,10 @@
   "evidence": "'said Nicodemus, [he answered]: how can this be?' 091r:8 = John 3:9; 'and then Saint Thomas [answered]' 130v:1 = John 14:5; 'and then Saint Philip [answered]' 130v:3 = John 14:8"
  },
  "520060131": {
-  "gloss": "the_Baptist/woman",
+  "gloss": "the Baptist",
   "tier": "B",
   "n": 46,
-  "evidence": "a homograph, and K&T say so themselves. Their entry for the Baptist (060060131520060131) lists this spelling at 116v02-03, 08, 117r05, 117v01, 07 and 118r04, which are the six that stand directly after Saint John; their John entry cross-refers to it. Their entry for woman lists the same shapes and writes 'but cp. ->' at the Baptist entry where the two collide, because both words are reduplications of their 060131, which alone is woman. In 141v-147 and at 189v03, 04 (the widow of Nain) it is woman; after their three-fold baptize at 165r-182v it is the baptism formula. Corrected 2026-09-20 from a single gloss 'the Baptist'"
+  "evidence": "stands immediately after Saint John six times in one block: 116v:8, 117r:5, 117v:1, 117v:7, 118r:4; and it is the second half of the compound read as baptize at 024r:7"
  },
  "574a10ae0": {
   "gloss": "Lady",
@@ -535,10 +535,10 @@
   "evidence": "WAS 'from town to town' (tier C) from 102r:6-7 alone, and that was too narrow: the word is the 'to' in 'town [to] town, temple [to] temple, field [to] field' there. Elsewhere 'from Abraham [until] Moses' 209r:4, 209r:5; 'from Adam [until] this' 133r:1; '[until] the birth of the Lord Jesus Christ' 223v:11; '[until] Abraham a hundred years' 209r:3"
  },
  "520060060060131": {
-  "gloss": "woman",
-  "tier": "A",
-  "n": 28,
-  "evidence": "corrected 2026-09-20; this was read 'baptism' and that was wrong. K&T's entry for woman (060131060131) lists 520060060060131 at 141v06, 10, 11, 142r01, 142v02, 02, 04, 05, and lists the compound 520060060060131 + 520060131 across folios 141-147 as woman as well. All 28 occurrences fall in 141v-159v. The block reads as the life of a woman who fasts, receives the host, goes to Rome and is called sister, not as baptism"
+  "gloss": "baptism",
+  "tier": "C",
+  "n": 33,
+  "evidence": "520 plus three strokes plus the same 131 that ends the sign read as 'the Baptist': '[baptism], the Baptist, the head' 141v:5"
  },
  "5ee060": {
   "gloss": "seven",
@@ -1733,65 +1733,5 @@
   "tier": "B",
   "n": 1,
   "evidence": "K&T's entry for cloud (520060040050040) ends '?? 520060040050040030 138v08 cloud'. Their own two question marks; the sign occurs once, inside 630520060040050040030 at 138v08, where 630 is their preposition 'on, into'"
- },
- "6707a1670": {
-  "gloss": "Rome",
-  "tier": "A",
-  "n": 3,
-  "evidence": "K&T's entry 5207a1520 reads 'II. 6707a1670 141v04, 07, 142r06 ? Rome (or ?? monastery)'. Those three citations are this sign's only three occurrences. Their question mark is theirs; the block around it is a woman who fasts, takes the host and is called sister"
- },
- "6709a3670": {
-  "gloss": "wide",
-  "tier": "A",
-  "n": 3,
-  "evidence": "K&T's entry 5209a3520 (1) lists 6709a3670 as the spelling at 140v05, 07 and 141r02, which are its only three occurrences, and glosses the expression it stands in, 071 + this word + 084, as '? the whole wide world'. 071 is their 'every, all', so this is the middle word. 141r02 reads 'to every [wide] world'"
- },
- "670990670": {
-  "gloss": "will",
-  "tier": "B",
-  "n": 1,
-  "evidence": "K&T's entry 5209a3520 (2) 'will' ends its variant list '?? 670990670 140v07'. Two question marks of theirs. It occurs once, inside 521670990670 at 140v07, after 'the Lord would'"
- },
- "648": {
-  "gloss": "fall_down",
-  "tier": "A",
-  "n": 2,
-  "evidence": "K&T's entry a10645 'bow down, fall down' lists 648 at 140r06 and a10648 at 049v04, this sign's two occurrences. 049v:4 'fell down before the cross of the Lord Jesus and knelt'; 140r:6 'in hell we fall'"
- },
- "0b0": {
-  "gloss": "high",
-  "tier": "A",
-  "n": 3,
-  "evidence": "K&T's entry 152 (1) 'high, tall; the Most High' lists the expression 060060443520 + 0b0 at 142r05 among its spellings of 'the high heavens'. 142r:5 'Christ into the high heavens'; the other two take the same word above: 165v:5 'therefore love the Lord God above', 208r:7 'love the Lord God above all creatures'"
- },
- "ae0670ae0b20": {
-  "gloss": "sister",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry b33670ae0b20 '? sister; ?? nun' lists ae0670ae0b20 at 142r10, its only occurrence. Their question marks"
- },
- "2704c80604f0": {
-  "gloss": "fruit",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry 4c90604f04a4 'grape, fruit' ends 'c) allegorical b606072704c80604f0060060371 141r01 Mary's fruit, [her] son'. Their aggregate is Mary + this word + their son, and 141r01 reads 'of Mary the [fruit], the son'"
- },
- "a10003a102c8": {
-  "gloss": "himself",
-  "tier": "A",
-  "n": 2,
-  "evidence": "K&T's entry for somebody (a10003a10060) lists the pair a10003a10060 + a10003a102c8 at 139v05 and 140r08 and glosses it 'himself/herself'. Those are this sign's two occurrences and both stand directly after their somebody"
- },
- "670100": {
-  "gloss": "grab",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry for grab, take (520100) lists 670100 at 141v09 and 174r06. It stands once in the transcription, at 141v09"
- },
- "670ae0650": {
-  "gloss": "grape",
-  "tier": "A",
-  "n": 2,
-  "evidence": "K&T's entry 520ae0650 'wine; grape' opens '[var. 520 ~ 670]' and glosses 'b) grape 140r03, 140v01'. Those two lines carry this token and no other candidate. It was being cut into their 'exist' and their numeral 'nine', which is what a general swap rule written in prose rather than as a variant code costs"
  }
 }
