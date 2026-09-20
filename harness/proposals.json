@@ -2339,5 +2339,203 @@
   "tier": "A",
   "n": 3,
   "evidence": "their ox entry (540060ae06c3) lists 540060890570 at 093v04 and 06 (2x)"
+ },
+ "5402c17d3": {
+  "gloss": "sacrifice",
+  "tier": "A",
+  "n": 3,
+  "evidence": "their sacrifice entry lists 5402c17d3 at 061v07, 062r05 and 09"
+ },
+ "7807802c05201f1": {
+  "gloss": "verily",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their amen, verily entry lists 7807802c05201f1 at 065v02 and 091r05, the second half of their 'verily, verily' at 065v02"
+ },
+ "0d30014c8540": {
+  "gloss": "grape",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their grape entry (4c90604f04a4) lists 0d30014c8540 at 070r04"
+ },
+ "7e1acd": {
+  "gloss": "apostolic_letter",
+  "tier": "A",
+  "n": 5,
+  "evidence": "their apostle entry (7e1) gives 'expr. 7e1acd 076r01, 077r03, 079r03, 084v14, 127v08 apostolic letter'. Five citations for five occurrences"
+ },
+ "4a78a9": {
+  "gloss": "go_to",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their go, come, send entry (4a7) gives '4a78a9 082r01, 03 go to'"
+ },
+ "a10500520060": {
+  "gloss": "tie_up",
+  "tier": "A",
+  "n": 3,
+  "evidence": "their tie (up) entry lists a10500520060 at 043v12, 061v09 and 062r07"
+ },
+ "520250": {
+  "gloss": "emperor",
+  "tier": "A",
+  "n": 3,
+  "evidence": "their emperor entry (520ae0520250) gives 'suff. 520250 186r06', and glosses 019v10 'emperor Augustus'"
+ },
+ "a25": {
+  "gloss": "not",
+  "tier": "B",
+  "n": 2,
+  "evidence": "their entry 5200607a2 (3) gives '[var. ? a25 005v10] ... ?? negation not [be saved]'. Their question mark on the spelling and two more on the sense"
+ },
+ "7708f0": {
+  "gloss": "out",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their adverb of direction out(ward) entry (770) lists 7708f0 at 016v11"
+ },
+ "9909909b2": {
+  "gloss": "have",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their have, possess entry lists 9909909b2 at 017r03 and 009r03"
+ },
+ "5209a37a0": {
+  "gloss": "wide",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their entry 5209a3520 (1) lists 5209a37a0 at 017r12 and 017v08; the phrase they gloss is 'the whole wide world'"
+ },
+ "282a106026701f2": {
+  "gloss": "Joseph",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their Joseph entry lists 282a106026701f2 at 019r07 and 08. Joseph is spelled eleven ways in this book and their entry declares the swaps: '602 ~ 604, 606; 670 ~ 520'"
+ },
+ "286a106066701f2": {
+  "gloss": "Joseph",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's Joseph entry declares the swap '602 ~ 604, 606', which makes this their headword spelling with the licensed 606. It stands at 021v:2, 'the angel said, understand, old Joseph'"
+ },
+ "286a106025201f2": {
+  "gloss": "Joseph",
+  "tier": "A",
+  "n": 1,
+  "evidence": "K&T's Joseph entry declares the swap '670 ~ 520', which makes this their headword spelling with the licensed 520. 053v:2 'and he was named Joseph'"
+ },
+ "286a10604670": {
+  "gloss": "Joseph",
+  "tier": "B",
+  "n": 2,
+  "evidence": "the Joseph stem 286a10 with the 604 K&T declare licensed, shortened. Both occurrences are the flight into Egypt: 022r:4 'died ... left in Egypt twelve years', 022r:5 'the angel Gabriel said to Joseph'. Not cited by them"
+ },
+ "286a10602": {
+  "gloss": "Joseph",
+  "tier": "B",
+  "n": 1,
+  "evidence": "the Joseph stem with K&T's own 602, shortened. 021v:6 'this holy gospel, at that time, stood up ... Joseph'"
+ },
+ "286a10606": {
+  "gloss": "Joseph",
+  "tier": "B",
+  "n": 1,
+  "evidence": "the Joseph stem with the 606 K&T declare licensed, shortened. 027v:1 'confess, holy old Joseph'"
+ },
+ "286a10604520": {
+  "gloss": "Joseph",
+  "tier": "B",
+  "n": 1,
+  "evidence": "the Joseph stem with K&T's licensed 604 and 520. 022r:1 'into the land of Egypt ... and the Lord went, Joseph'"
+ },
+ "286a10605670ae0": {
+  "gloss": "Joseph",
+  "tier": "B",
+  "n": 1,
+  "evidence": "the Joseph stem, at 026v:9, in the block that names Joseph five lines running"
+ },
+ "286a10": {
+  "gloss": "Joseph",
+  "tier": "C",
+  "n": 1,
+  "evidence": "the bare Joseph stem, once, at 020v:1: 'the donkey is, the hay is put, and then old Joseph'. Two glyphs only, so nothing checks it but the passage"
+ },
+ "5511a1520060": {
+  "gloss": "sky",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their sky, heaven entry lists 5511a1520060 at 023v04 and 025v13"
+ },
+ "657": {
+  "gloss": "up",
+  "tier": "B",
+  "n": 2,
+  "evidence": "their adverb of direction entry (2c1) ends '?? 657 047v10, 11'. Two question marks of theirs"
+ },
+ "52027d": {
+  "gloss": "give_up_the_ghost",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their entry for breathe out or give out [soul] lists 52027d at 052v01 and 180r08"
+ },
+ "2a4": {
+  "gloss": "up",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their adverb of direction entry (2c1) lists 2a4 at 060v03 and 05"
+ },
+ "670060990": {
+  "gloss": "but",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their concessive conjunction entry (5200607a2 (2)) lists 670060990 at 009r07 and 181v08, glossed 'but, however, in turn'"
+ },
+ "a10af9670": {
+  "gloss": "redeem",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their redeem, rescue entry (a10461) lists a10af9670 at 074v07, 103v03 and 117v03"
+ },
+ "8010f4": {
+  "gloss": "good_news",
+  "tier": "B",
+  "n": 2,
+  "evidence": "their news, gospel entry ends '?? 8010f4 086v01, 03'. Two question marks of theirs"
+ },
+ "5207a3670a1a": {
+  "gloss": "and",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their coordinating conjunction entry lists 5207a3670a1a at 095v06 and 09"
+ },
+ "2db2daae0": {
+  "gloss": "tree",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their tree entry lists 2db2daae0 at 148v03 and 05; the Holy Rood is in the same entry"
+ },
+ "7b17a0783a10360812": {
+  "gloss": "return",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their return entry lists 7b17a0783a10360812 at 160v06 and 179r01"
+ },
+ "646": {
+  "gloss": "pierce",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their pierce, nail entry (649 (1)) lists 646 at 044v04 and 181r01, and glosses 044v04 'they pierced a crown of thorns in his head'"
+ },
+ "1f6670ae05203c5": {
+  "gloss": "lie",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their verb lie entry lists 1f6670ae05203c5 at 164r04, 220r02 and 220v06"
+ },
+ "5203d5": {
+  "gloss": "water",
+  "tier": "A",
+  "n": 2,
+  "evidence": "their water entry (520060050040) lists 5203d5 at 176r06 and 08"
  }
 }
