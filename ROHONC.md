@@ -1088,7 +1088,7 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 155 signs are read
+in the book and keep it only if it survives all of them. 159 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
 decisive occurrences, graded A, B, C or D. 26 are tier A. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
@@ -1096,7 +1096,7 @@ composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **58.1%**.
+lines where every word is read from 23.8% to **58.4%**.
 
 Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
 into pieces Kiraly and Tokai define; it was never given their own variant

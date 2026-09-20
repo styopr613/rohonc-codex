@@ -781,10 +781,10 @@
   "evidence": "five of them broken for three thousand people 022v:2, and barley loaves with two fishes 212v:5 and 212v:6, which is John 6:9"
  },
  "520b78": {
-  "gloss": "the Mount of Olives",
+  "gloss": "mount",
   "tier": "B",
   "n": 5,
-  "evidence": "over the brook Cedron into it 033r:7 and the garden in it 033r:8 (John 18:1); Jesus sits on it 212r:5 (Matthew 24:3); and it is a mountain peak at 033v:11"
+  "evidence": "CORRECTION: read here as the Mount of Olives until 2026-09-20, which fits four of five but not 108r:6, where the source is a city that is set on an HILL, Matthew 5:14. The plain sense mount or hill fits all five: over the brook Cedron into it 033r:7, a mountain peak 033v:11, Jesus sits on it 212r:5"
  },
  "5203f0255": {
   "gloss": "heaven",
@@ -935,5 +935,47 @@
   "tier": "C",
   "n": 8,
   "evidence": "all eight are on 004r, the Lucifer boast in the Life of Adam and Eve, and every one stands immediately before a possessor and the word for throne: above his father's throne 004r:2 and 004r:7, above the Lord's throne 004r:8. That is I will exalt my throne above the stars of God"
+ },
+ "520180": {
+  "gloss": "city",
+  "tier": "A",
+  "n": 5,
+  "evidence": "Bethlehem the city at 046v:8, 047r:4 and 111r:4, and twice on 108r:6 in a city that is set on an hill cannot be hid, Matthew 5:14, where the page names its own source as Matthew chapter five"
+ },
+ "588": {
+  "gloss": "hid",
+  "tier": "C",
+  "n": 1,
+  "evidence": "one occurrence, at the end of 108r:6, closing a city that is set on an hill cannot be HID, Matthew 5:14. Read against the source passage the page names, not from the line alone"
+ },
+ "702670ae0": {
+  "gloss": "giveth light",
+  "tier": "C",
+  "n": 2,
+  "evidence": "both on 108v, which cites Matthew chapter five: at line 7 before the candle and the lamp, and at line 10 before unto all that are in the house, which is Matthew 5:15-16"
+ },
+ "a10003a10a20": {
+  "gloss": "neighbour",
+  "tier": "B",
+  "n": 3,
+  "evidence": "the same frame that gave a10003a10411: love him as thy neighbour at 099r:4 and 099r:7, and at 100r:1 the neighbour is thy eternal riches"
+ },
+ "5203f0224": {
+  "gloss": "heaven",
+  "tier": "B",
+  "n": 2,
+  "evidence": "the Lord made heaven and earth at 099r:3, the same pairing that gave 5203f0255"
+ },
+ "a10456": {
+  "gloss": "servant",
+  "tier": "B",
+  "n": 5,
+  "evidence": "136v is the Unmerciful Servant, Matthew 18:23-35: the servant is brought before the king at 136v:6, the king has mercy on that servant at 136v:8, and 136v:9-10 has that servant twice more with the forgiving. 175r:9 is the other servant parable, the talents"
+ },
+ "569a10456": {
+  "gloss": "that servant",
+  "tier": "B",
+  "n": 2,
+  "evidence": "the same sign with the demonstrative, at 136v:9 and twice at 136v:10, which is the lord of that servant in Matthew 18:27"
  }
 }

@@ -157,6 +157,33 @@ than once, check it at the others and it can reach tier A or B. If it occurs
 once, fill it, mark it tier C, and move on -- a tier C reading is still a
 reading, it just cannot be verified by repetition.
 
+## The strongest engine: the page against its source
+
+Do not read a one-off sign from its own line. Read it from the whole page,
+against the passage the page is telling. The codex names its source for
+every reading in a fixed formula -- *written by holy John, in the sixteenth
+chapter of his writing* -- and seven of the eight citations checked so far
+land on the right chapter of the right evangelist. The content is standard.
+So a gap is not a mystery, it is a slot in a text you can go and read.
+
+    python3 ktpage.py 108r "salt of the earth"
+
+prints the folio as far as it reads, with every gap marked, and beside it
+the passages in the reference corpus that contain the phrase. Then the hole
+in the line is whatever the source has in that slot. That is a reading
+against an outside text rather than a guess, so it earns tier C, not D.
+
+This is what found *city*: folio 108r says Matthew chapter five, the source
+is *a city that is set on an hill cannot be hid*, and the same sign stands
+beside Bethlehem on three other folios. It also caught a wrong reading of
+mine in the same line -- the sign I had read as *the Mount of Olives* is
+plainly *hill* there, so it is now *mount*, which fits all five of its
+occurrences instead of four.
+
+Work this way folio by folio. Identify the passage from the rendering, pull
+it, fill the gaps, and check every fill at the sign's other occurrences
+before entering it.
+
 ## The fourth engine: read the piece, not the word
 
 Most unread words are compounds. Run `python3 ktresidue.py` and it cuts every
