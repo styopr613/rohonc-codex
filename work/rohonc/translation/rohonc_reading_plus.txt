@@ -725,7 +725,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  somebody exist living chapter-oh chapter-oh amen +and_then
  5  Lord-Jézus [?] +<subject_marker> one among you
  6  and [?]-+<subject_marker> Lord +name-+one from apostle betray and see-apostle among
- 7  apostle say holy-?with Master +who_is_it and [?].
+ 7  apostle say holy-?with Master +who_is_it and ?struck-to.
  8  say Lord-Jézus and [?] [?] Lord-Jézus
  9  ?with and ~John and say oh <preposition_of_genitive>-?with ~exist-exist
 10  from-judge Master Who_is_it? and then-exist lean_on
@@ -882,7 +882,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  and ?was_named Jew(ish) exist Malchus +and_then
  3  Lord-Jézus Peter Peter ?blind cut_off +sword because and
  4  somebody Peter +sword cut_off from +sword.
- 5  [?] somebody-+<subject_marker> die and grab Lord-Jézus this ear
+ 5  ?struck somebody-+<subject_marker> die and grab Lord-Jézus this ear
  6  and ear-+<subject_marker> put on-place and healing ear
  7  leave-to-leave and from Lord-Jézus on-pagan miracle ~exist-+who-Lord-~exist
  8  and [?] +say inside Lord believe a) <preposition_of_genitive>-Lord [?] | on
@@ -1171,7 +1171,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 048v ===
  1  on-two direction this-people-chapter over sea
- 2  through [?] go-Lord +day in_turn from head
+ 2  through ?struck go-Lord +day in_turn from head
  3  each,_every +sky to-<preposition_of_genitive>-people-chapter ~the_whole_wide_world | this
  4  people [?] living-Lord two-two-ten-year inside field
  5  in_turn angel +bread to-this-people-chapter

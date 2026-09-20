@@ -4163,11 +4163,5 @@
   "tier": "C",
   "n": 2,
   "evidence": "John 3:5, 'Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God'. Folio 091v gives the verse almost entire on lines 1-4: born of Nicodemus's mother, born of water and of the holy Spirit, saved, damned. The passage pool (ktleft.py, John 3:5 and 3:16 with no widening) leaves exactly three content words with no sign: cannot, enter, begotten. begotten is 3:16 and the codex already reads 'only_one son' for 'only begotten Son' at 091v:10. cannot is excluded because the positive 'can' stands in the same line, 091v:7 'this world can Nicodemus-somebody [enter]'. 091v:6 reads 'the land (kingdom), how do you [enter]' and 'leave-Nicodemus'. Both occurrences are on this folio and this verse, so nothing in the book can check it: tier C, a reading of the passage rather than of the sign."
- },
- "520154": {
-  "gloss": "struck",
-  "tier": "C",
-  "n": 2,
-  "evidence": "John 18:10, Douay-Rheims: 'Then Simon Peter, having a sword, drew it and STRUCK the servant of the high priest and cut off his right ear. And the name of the servant was Malchus.' Folio 036v gives the whole verse round the hole: line 1 'cut off with the sword the ear of one Jew', line 2 'and the Jew was named Malchus', lines 3-4 Peter and the sword, and line 6 'put the ear back in its place and healed it', which is Luke 22:51. Every content word of the verse is read except one, and the Douay pool leaves exactly that one: struck. (The King James word for it is 'smote', which the tool now marks as the weaker class; 'drew' is already read as K&T's 60c.) The second occurrence, 048v:2, is on a page with no chapter and verse cited -- the Improperia of Good Friday, which is not in the reference corpus -- and the line is too broken to confirm or refute. So this is a reading of one passage with nothing in the book to test it: tier C."
  }
 }
