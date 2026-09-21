@@ -4869,7 +4869,9 @@ words. There are 15 of them now.
   8  <preposition_of_genitive>-somebody from-father son how?-to somebody neighbour | <preposition_of_genitive>
   9  somebody <subject_marker> heaven land end this holy-gospel
 
-## 167r
+## 167r — a certain rich man had a steward
+
+> This holy gospel begins, written by holy Luke in the sixth chapter of the writing: the time the Lord Jesus said to the apostles of the Lord, and to the Jewish people: there was a certain rich man, who left in his sight, a steward over the rich man's goods | — sight, speech, life, hearing, soul, mind, reason, sense — all to manage; and the man began, the steward, this rich man's sight, speech, life, hearing, soul, mind, reason,
 
   1  begins this holy-gospel
   2  write holy-Luke
@@ -4882,7 +4884,9 @@ words. There are 15 of them now.
   9  and begin-somebody-manager this rich <preposition_of_genitive>-Lord-rich-somebody
  10  see-say-living-hear-soul-exist-exist-chapter-reason
 
-## 167v
+## 167v — the same was accused unto him
+
+> sense to manage; and then he began, the man, and then a man came to accuse one servant before the steward; the man's lord spoke to the servant, this serving angel: all of the rich man's | […] soul, mind, reason, sense […] sense, the word, he scattered; be humble, this rich Lord God | this rich man. The man, and then, to the account: therefore many of the rich man's, the steward; and he heard this, the steward, this said from the steward's rich lord […] and | sorrowing
 
   1  sense manage and then-exist <subject_marker> ~begin man* and then
   2  somebody exist accuse one servant before
@@ -4894,7 +4898,9 @@ words. There are 15 of them now.
   8  manager and hear this manager this say from
   9  <preposition_of_genitive>-manager Lord-rich-somebody [...] and | sad(ly)
 
-## 168r
+## 168r — what shall I do?
+
+> the steward, the steward left off; and then this steward, the weeping steward […] and […] […] and […] […] the steward […]; and he found one accusation against the steward, and then this steward had two debtors | of the steward, a man of mercy and of alms; and | then there was, among the steward's, this one debtor of mercy; and this said, the steward: how much mercy dost thou owe the steward? […] And then the debtor of mercy: a hundred measures of oil. And then this steward sat him down, the man of mercy,
 
   1  manager leave-manager and_then this manager crying-manager
   2  [...] and [...] [...] and [...] [...]
@@ -4906,7 +4912,9 @@ words. There are 15 of them now.
   8  and_then indebted have_mercy-somebody hundred* measure
   9  oil and_then this manager sit-have_mercy-somebody
 
-## 168v
+## 168v — sit down quickly, and write fifty
+
+> to write down fifty, in turn fifty | mercy, the man, down […] this, and this […] of the steward's rich Lord God; and then these two, the steward | mercy, the man […] […] divided into two parts, the steward of mercy, and among these, the steward, these two debtors | alms, the man; and this said, the steward: how much alms dost thou owe, to the steward's rich lord? And then the debtor of alms: a hundred measures of wheat. And then this steward | sat the man of alms down, to write down | from five,
 
   1  to-down and write fifty in_turn five-rich-ten | have_mercy
   2  somebody to-down [...] this and this [...] <preposition_of_genitive>-manager
@@ -4918,7 +4926,9 @@ words. There are 15 of them now.
   8  hundred* food wheat and_then this manager | sit
   9  alms-somebody to-down and write from | five
 
-## 169r
+## 169r — the lord commended the unjust steward
+
+> thirty, in turn twenty, the man of alms, down […] this, and these two […] […] of the steward's rich Lord God; and in turn […] he took, this, the steward's rich Lord God, because the steward was found accused; and then this steward, these two, the steward's men of alms […] […] | divided, the steward's two men of alms. And then the Lord Jesus: O, of the Lord, son; have, apostles, truly: the steward was have, apostles, found accused, because the Lord, this Lord, this rich Lord God, the man; the Lord took to you many riches,
 
   1  thirty in_turn two-ten-rich alms-somebody to-down [...]
   2  this and this two [...] [...] <preposition_of_genitive>-manager Lord-<suffix_of_divine_name>-rich-somebody
@@ -4930,7 +4940,9 @@ words. There are 15 of them now.
   8  have-apostle was_accused* find because-Lord this-Lord this
   9  rich-Lord-<suffix_of_divine_name>-somebody grab-Lord you many rich
 
-## 169v
+## 169v — the goods are the senses
+
+> the Lord took to you sight, the Lord took to you speech, the Lord took to you life, the Lord took to you hearing, the Lord took to you soul, the Lord took | is he yours? The mind the Lord took to you, reason the Lord took to you, sense the Lord took. To you, all of the rich Lord God's | sight, speech, life, hearing, soul, mind, reason, sense; and the apostles and the Jews are, truly, stewards over | sight, speech, life, hearing, soul, mind, reason, sense, in turn, in this world; the rich man has these apostles and Jews found accused.
 
   1  grab-Lord you see grab-Lord you
   2  say grab-Lord you living grab-Lord you

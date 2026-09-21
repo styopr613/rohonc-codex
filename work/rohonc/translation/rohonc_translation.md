@@ -11775,3 +11775,217 @@ in Király & Tokai's dictionary, so the person is not named here.
 > and with thy whole strength... Thou shalt love thy neighbour as thyself.*
 > The codex attributes it to Moses, which is right -- it is Deuteronomy -- and
 > it keeps all four "with all thy" clauses.
+
+## 167r — a certain rich man had a steward
+
+**1**  This holy gospel begins,
+`begins this holy-gospel`
+
+**2**  written by holy Luke
+`write holy-Luke`
+
+**3**  in the sixth chapter of the writing:
+`inside six chapter <of>-write`
+
+**4**  the time the Lord Jesus said
+`time say Lord-Jézus`
+
+**5**  to the apostles of the Lord, and to the Jewish
+`apostle <of>-Lord and Jew(ish)`
+
+**6**  people: there was a certain rich man, who left in his sight,
+`people exist one rich-?whosoever who leave-from-rich-see`
+
+**7**  a steward over the rich man's goods | — sight, speech, life, hearing,
+`manager on-<of>-Lord-rich-somebody | rich-see-say-living-hear`
+
+**8**  soul, mind, reason, sense — all to manage;
+`soul-exist-exist-chapter-reason-sense each,_every manage`
+
+**9**  and the man began, the steward, this rich man's
+`and begin-somebody-manager this rich <of>-Lord-rich-somebody`
+
+**10**  sight, speech, life, hearing, soul, mind, reason,
+`see-say-living-hear-soul-exist-exist-chapter-reason`
+
+> Luke 16:1, Douay: *There was a certain rich man who had a steward: and the
+> same was accused unto him, that he had wasted his goods.* The codex names
+> the goods, and they are not goods: sight, speech, life, hearing, soul, mind,
+> reason, sense. It is expounding the parable as a man's stewardship of his
+> own faculties, which is how the preachers of the period read it, and it
+> repeats the same eight-word chain four times over the next three folios.
+
+## 167v — the same was accused unto him
+
+**1**  sense to manage; and then he began, the man, and then
+`sense manage and then-exist <subject> ~begin ?man and then`
+
+**2**  a man came to accuse one servant before
+`somebody exist accuse one servant before`
+
+**3**  the steward; the man's lord spoke to the servant, this serving angel:
+`<of>-manager somebody-Lord say-~servant this angel-servant`
+
+**4**  all of the rich man's | […] soul,
+`each,_every <of>-Lord-rich-somebody | [?]-soul.`
+
+**5**  mind, reason, sense […] sense,
+`exist-exist-chapter-reason-sense [?] sense`
+
+**6**  the word, he scattered; be humble, this rich Lord God | this rich man.
+`word scatter humble this rich-rich-Lord-<divine> | this-rich.`
+
+**7**  The man, and then, to the account: therefore many of the rich man's,
+`somebody and_then to-?the_account many ?therefore <of>-Lord-rich-somebody`
+
+**8**  the steward; and he heard this, the steward, this said from
+`manager and hear this manager this say from`
+
+**9**  the steward's rich lord […] and | sorrowing
+`<of>-manager Lord-rich-somebody [?] and | sad(ly)`
+
+> Luke 16:2: *Give an account of thy stewardship, for now thou canst be
+> steward no longer.* The account is already read as a sign of K&T's, and the
+> scattering of the goods is Luke's *dissipasset*.
+
+## 168r — what shall I do?
+
+**1**  the steward, the steward left off; and then this steward, the weeping steward
+`manager leave-manager and_then this manager crying-manager`
+
+**2**  […] and […] […] and […] […]
+`[?] and [?] [?] and [?] [?]`
+
+**3**  the steward […]; and he found one accusation against the steward,
+`manager [?] and one ?was_accused find-manager`
+
+**4**  and then this steward had two debtors | of
+`and then-exist have this manager two indebted | <of>`
+
+**5**  the steward, a man of mercy and of alms; and | then
+`manager ?man have_mercy and alms and | then`
+
+**6**  there was, among the steward's, this one debtor of mercy; and this said,
+`exist among-manager this one indebted have_mercy and say this`
+
+**7**  the steward: how much mercy dost thou owe the steward? […]
+`manager how_much? have_mercy indebted <of>-manager [?]`
+
+**8**  And then the debtor of mercy: a hundred measures
+`and_then indebted have_mercy-somebody hundred* measure`
+
+**9**  of oil. And then this steward sat him down, the man of mercy,
+`and_then this manager sit-have_mercy-somebody`
+
+> Luke 16:3-6, Douay: *And the steward said within himself: What shall I do...
+> To dig I am not able; to beg I am ashamed... Therefore calling together
+> every one of his lord's debtors, he said to the first: How much dost thou
+> owe my lord? But he said: An hundred barrels of oil. And he said to him:
+> Take thy bill and sit down quickly, and write fifty.* The sitting down is
+> here, and the hundred is here. The codex has renamed the two debtors mercy
+> and alms, which is its exposition again.
+
+## 168v — sit down quickly, and write fifty
+
+**1**  to write down fifty, in turn fifty | mercy,
+`to-down and write fifty in_turn five-rich-ten | have_mercy`
+
+**2**  the man, down […] this, and this […] of the steward's
+`somebody to-down [?] this and this [?] <of>-manager`
+
+**3**  rich Lord God; and then these two, the steward | mercy,
+`Lord-<divine>-rich-somebody and_then this two manager | have_mercy`
+
+**4**  the man […] […] divided into two parts, the steward of mercy,
+`somebody [?] [?] divide_into_parts-two-manager-have_mercy-somebody`
+
+**5**  and among these, the steward, these two debtors | alms,
+`~and among this manager this two indebted | alms`
+
+**6**  the man; and this said, the steward: how much alms dost thou owe,
+`somebody and say this manager how_much? alms indebted`
+
+**7**  to the steward's rich lord? And then the debtor of alms:
+`<of>-manager Lord-rich-somebody and_then indebted alms`
+
+**8**  a hundred measures of wheat. And then this steward | sat
+`hundred* food wheat and_then this manager | sit`
+
+**9**  the man of alms down, to write down | from five,
+`alms-somebody to-down and write from | five`
+
+> Luke 16:7: *Then he said to another: And how much dost thou owe? Who said:
+> An hundred quarters of wheat. He said to him: Take thy bill, and write
+> eighty.* The codex's two debtors owe oil and wheat in Luke's order, and the
+> hundred is written with its own numerals both times.
+
+## 169r — the lord commended the unjust steward
+
+**1**  thirty, in turn twenty, the man of alms, down […]
+`thirty in_turn two-ten-rich alms-somebody to-down [?]`
+
+**2**  this, and these two […] […] of the steward's rich Lord God;
+`this and this two [?] [?] <of>-manager Lord-<divine>-rich-somebody`
+
+**3**  and in turn […] he took, this, the steward's rich Lord God,
+`in_turn [?] grab this <of>-manager Lord-<divine>-rich-somebody`
+
+**4**  because the steward was found accused; and then this steward,
+`because manager ?was_accused find and_then this manager`
+
+**5**  these two, the steward's men of alms […] […] | divided,
+`this two-manager-alms-somebody [?] [?] | divide`
+
+**6**  the steward's two men of alms. And then the Lord Jesus:
+`two-manager-alms-somebody and_then Lord-Jézus`
+
+**7**  O, of the Lord, son; have, apostles, truly: the steward was
+`oh <of>-Lord son have-apostle righteous(ly) manager exist`
+
+**8**  have, apostles, found accused, because the Lord, this Lord, this
+`have-apostle ?was_accused find because-Lord this-Lord this`
+
+**9**  rich Lord God, the man; the Lord took to you many riches,
+`rich-Lord-<divine>-somebody grab-Lord you many rich`
+
+> Luke 16:8: *And the lord commended the unjust steward, forasmuch as he had
+> done wisely.* The eighty of the gospel is written here as thirty and twenty
+> and five, which is the codex's own arithmetic and not Luke's.
+
+## 169v — the goods are the senses
+
+**1**  the Lord took to you sight, the Lord took to you
+`grab-Lord you see grab-Lord you`
+
+**2**  speech, the Lord took to you life, the Lord took to you
+`say grab-Lord you living grab-Lord you`
+
+**3**  hearing, the Lord took to you soul, the Lord took | is he
+`hear grab-Lord you soul grab-Lord | ?is_he`
+
+**4**  yours? The mind the Lord took to you, reason
+`yours exist-exist-chapter grab-Lord you reason`
+
+**5**  the Lord took to you, sense the Lord took.
+`grab-Lord you sense grab-Lord.`
+
+**6**  To you, all of the rich Lord God's | sight, speech,
+`you each,_every <of>-Lord-<divine>-rich-somebody | rich-see-say.`
+
+**7**  life, hearing, soul, mind, reason, sense;
+`living-hear-soul-exist-exist-chapter-reason-sense`
+
+**8**  and the apostles and the Jews are, truly, stewards over | sight, speech,
+`and exist-apostle-Jew(ish) righteous(ly) manager inside | rich-see-say`
+
+**9**  life, hearing, soul, mind, reason, sense,
+`living-hear-soul-exist-exist-chapter-reason-sense`
+
+**10**  in turn, in this world; the rich man has these apostles and Jews found accused.
+`in_turn inside this world rich have this-apostle-Jew(ish) ?was_accused find`
+
+> This is the page the whole parable was being told for. The rich man is God,
+> the goods are the eight faculties the codex has been listing since 167r, and
+> every man is the steward who will be called to account for them. The
+> eight-word chain is written out in full four times on this folio alone, which
+> is why the signs in it are among the best attested in the book.
