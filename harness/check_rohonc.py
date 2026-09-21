@@ -543,8 +543,8 @@ def main():
     check("proposals: 3667 tokens = 12.2% rendered",
           len(g) == 2 and g[0] == 3667 and close(g[1], 12.2, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
-    check("proposals: 3595 lines fully read with them",
-          len(g) == 2 and g[0] == 3595 and close(g[1], 82.2, .02), str(g))
+    check("proposals: 3596 lines fully read with them",
+          len(g) == 2 and g[0] == 3596 and close(g[1], 82.3, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -552,8 +552,8 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "1382 signs are read" in flat
-          and "23.8% to **82.2%**" in flat)
+          "METHOD.md" in flat and "1510 signs are read" in flat
+          and "23.8% to **82.3%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)

@@ -76,12 +76,24 @@ without spaces, which is the central fact Kiraly and Tokai established about
 it. A `~` marks a spelling their own apparatus files as a variant. A `|` is a
 gap or an unreadable glyph in the transcription.
 
-**Why the dark places are not filled in.** It would be easy to print a
-plausible word in every bracket. The project measured what such a word is
-worth: against Kiraly and Tokai's own hidden dictionary entries, the best
-candidate drawn from a folio's cited passage was right **0.0%** of the time.
-So the ellipsis stays. An edition that guesses everywhere is not more complete
-than one that does not; it is only harder to check.
+**What a bracket is worth.** The brackets are guesses, and they are printed
+because a reader asked for the book completed rather than left in holes. Each
+one was made by reading the line and the passage the folio itself cites, and
+choosing the word that passage supplies for that slot. None of them is
+verified, none is counted in the figures above, and the project measured what
+a guess of this kind is worth before printing any: on words as rare as these,
+the folio's cited passage contains the true word only 7.8% of the time, and
+when it is there the best candidate is right about one time in four. Against
+Kiraly and Tokai's own hidden entries the top candidate scored 0.0%.
+
+Three quarters of the content guesses do land on a word that actually stands
+in the verse the folio cites, which is the only part of this that can be
+checked from inside the book. Read a bracket as a suggestion by an editor who
+knows the source and does not know the word.
+
+`[...]` is still used where even a guess would be dishonest: damaged lines,
+folios that cite no source, and slots where the passage offers two candidates
+with nothing to choose between them.
 
 ## What this edition is worth, in numbers
 

@@ -1176,7 +1176,7 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 1382 signs are read
+in the book and keep it only if it survives all of them. 1510 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
 decisive occurrences, graded A, B, C or D. 476 are tier A, twenty of them
 stroke numerals entered whole by their composition rule. They include the tally
@@ -1185,7 +1185,7 @@ composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **82.2%**.
+lines where every word is read from 23.8% to **82.3%**.
 
 **The book writes the creation twice, line for line.** Folios 121v-123r are
 the same text as 002v-003v, sentence for sentence in the same order: the
