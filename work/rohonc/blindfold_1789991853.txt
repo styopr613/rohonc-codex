@@ -1,0 +1,290 @@
+GATE 4b BLIND SAMPLE. 25 signs, seed 1789991853.
+K&T read every one of these. Their gloss is NOT in this file.
+Write one reading per sign on the READING: line. Then score.
+
+=== 5209a8540   x5 occurrence(s)
+  031v:7   +and_then Lord-Jézus apostle <<MASKED 5209a8540>> from somebody and <<MASKED 520100>> this
+      cites: John 13:27, John 13:28
+      free in that passage: doest, enter, intent, morsel, purpo, quickly, sop
+  066r:6   fire there exist see grinding tooth <<MASKED 5209a8540>>
+      cites: Matthew 8:12, John 14:2
+      free in that passage: cast, child, exterior, gnash, outer, weep
+  070r:7   +fire there exist see grinding tooth <<MASKED 5209a8540>> chapter-oh
+      cites: John 15:6, John 15:9
+      free in that passage: burn, cast, continu, wither
+  110r:4   +and_then Lord-Jézus then-exist this-Lord son God <<MASKED 5209a8540>>
+      cites: Luke 19:41-44
+      free in that passage: another, belong, cast, child, city, compa, enemy, flat, hadst, hast, knew, least, near, round, straiten, trench, visit, weep
+  202v:5   [?]-~exist exist see grinding +tooth <<MASKED 5209a8540>> chapter-oh
+      cites: Matthew 22:13
+      free in that passage: cast, exterior, gnash, outer, waiter, weep
+      one glyph: 520131540 = eclipse; darken
+      one glyph: 52023b540 = awake; stay awake; watch
+  READING: weep
+
+=== 470   x30 occurrence(s)
+  088r:1   somebody <<MASKED 470>> have-somebody wealth see blind
+  088v:9   <<MASKED 470>> from +day until +day joy-rich and then-exist +that_way go
+      cites: Luke 16:19-20
+      free in that passage: beggar, certain, fin, linen, rich, sor, sumptuously
+  088v:11  +head until +toe ?covered wound ~Lazarus time this <<MASKED 470>>
+  088v:13  who-and-this-and <<MASKED 270>> and then-exist <<MASKED 470>> exist this ?the_poor_man/woman ask_(for)
+  089r:1   alms and ?the_poor_man/woman alms +take <<MASKED 470>> °desired
+      cites: Luke 16:21-22
+      free in that passage: beggar, desir, moreover, rich, sor
+  089r:6   <<MASKED 470>> many dog and go-dog this +Lazarus ~and
+  READING: rich man
+
+=== b25   x5 occurrence(s)
+  017v:13  +five_thousand and one <<MASKED b25>> and +fifty and
+  027r:5   and one <<MASKED b25>> and six-ten-year and +five and and moon.
+  098v:5   light lamp <<MASKED b25>> exist light <preposition_of_genitive>-[?] exist-exist-chapter
+      cites: Luke 11:33
+      free in that passage: candl, neither, putt, secret
+  112r:7   ?take head and +say nine <<MASKED b25>> to-thirty denarius
+  119r:5   <<MASKED b25>> sheep inside field and then-exist lose one
+      cites: Luke 15:2-5, Matthew 18:12-13
+      free in that passage: astray, desert, go, hundr, murmur, ninety, seek, spok, think
+  READING: hundred
+
+=== 2daae0   x2 occurrence(s)
+  066v:7   <<MASKED 2daae0>> <<MASKED aca670813>> exist ~ask_(for) from <preposition_of_genitive>-Lord-from father-<suffix_of_divine_name>
+      cites: John 14:13-14
+      free in that passage: whatsoever
+  070v:3   °whatsoever <<MASKED aca670813>> first +say <<MASKED 270>> love <<MASKED 2daae0>> ?is_he
+      cites: John 14:13
+      free in that passage: whatsoever
+  READING: anything
+
+=== 520060961ae0   x1 occurrence(s)
+  009r:7   <<MASKED 520060961ae0>> believe +but and happy-to from and food see
+      cites: John 20:26-29
+      free in that passage: answer, door, eight, hast, hither, lord, midst, reach, shut, thrust, yet
+      structure: 520060 = this; does not; <personal pronoun 1p. Sg.>; do not
+      one glyph: 520060270ae0 = foot
+      one glyph: 520060962ae0 = regive; give back
+      one glyph: 5200601a2ae0 = herd
+  READING: faithless (unbelieving)
+
+=== 5200607d0812   x2 occurrence(s)
+  110r:10  ~exist-+say <<MASKED 5200607d0812>> die and exist many misery ~on-this
+      cites: Luke 19:41-44
+      free in that passage: another, belong, cast, child, city, compa, enemy, flat, hadst, hast, knew, least, near, round, straiten, trench, visit, weep
+  142r:3   <<MASKED 520100>> on-place <<MASKED 5200607d0812>> leave °nothing exist-today’s
+      structure: 520060 = this; does not; <personal pronoun 1p. Sg.>; do not
+  READING: stone
+
+=== 6b1ae0520ae0   x11 occurrence(s)
+  007v:8   Abel +third and-before-end-+name exist <<MASKED 6b1ae0520ae0>> and then-exist
+  006r:3   and healing leave ~Adam °sick and then-exist <<MASKED 6b1ae0520ae0>> go °to_Paradise
+  006r:4   +gate/open <<MASKED 5406e4624>> and then-~exist <<MASKED 6b1ae0520ae0>> appear God
+  006r:5   angel +and_then God angel <<MASKED 6b1ae0520ae0>> °answered and go +one say <<MASKED 6b1ae0520ae0>>
+  006r:5   angel +and_then God angel <<MASKED 6b1ae0520ae0>> °answered and go +one say <<MASKED 6b1ae0520ae0>>
+  006r:6   from-father ~Adam <<MASKED 6b1ae0520ae0>> +<subject_marker> go inside <<MASKED 5406e4624>> then
+      one glyph: 520ae0520ae0 = friend; neighbor; compatriot; brother
+      one glyph: 690ae0520ae0 = spirit; spiritual(ly)
+  READING: Seth
+
+=== 553   x2 occurrence(s)
+  035v:7   <<MASKED 553>> grab-+say inside why?-in_turn because Lord-Jézus ?as
+      cites: John 18:4-8
+      free in that passage: answer, backward, go, seek, soon, therefor
+  036r:3   Jew(ish) <<MASKED 553>> grab-+say inside why?-in_turn because <<MASKED 270>>
+      cites: John 18:1
+      free in that passage: accord, alway, anna, another, answer, backward, band, blow, caipha, captain, cau, certainly, chief, coal, cold, counsel, court, crew, custom, defil, deliver, doctrin, door, early, end, enter, expedient, fault, gav, go, governor, hall, hast, henc, kinsman, lantern, law, lest, maid, malefactor
+  READING: soldiers
+
+=== 520092520   x11 occurrence(s)
+  072v:11  [?]-+name ~blind through light die from-see <<MASKED 520092520>> stand_up.
+      cites: Mark 16:15-16, Matthew 28:19
+      free in that passage: condemn, therefor
+  131r:10  die carry-?the_Sadducees on-+rise <<MASKED 520092520>> and this exist
+      cites: Matthew 22:23, Luke 24:43
+      free in that passage: remain, resurrec, sadduc
+  131v:2   have die-somebody ?again stand_up <<MASKED 520092520>> on-place stand_up <<MASKED 520092520>>
+      cites: Acts 3:6, Mark 16:16
+      free in that passage: condemn, non, peter, walk
+  131v:2   have die-somebody ?again stand_up <<MASKED 520092520>> on-place stand_up <<MASKED 520092520>>
+  162v:1   <<MASKED 270>> from-father-<suffix_of_divine_name> can first stand_up <<MASKED 520092520>> Lord-Jézus
+      cites: Mark 5:41, John 11:43, Luke 7:14
+      free in that passage: bier, cumi, interpret, loud, near, still, talitha, young
+  162v:3   somebody stand_up <<MASKED 520092520>> Lord-Jézus +Lazarus inside Jerusalem in_turn
+      one glyph: 520060520 = whose; which; what; that; to whom
+      one glyph: 5201c0520 = there
+      one glyph: 520156520 = painful
+      one glyph: 5201a5520 = back
+      one glyph: 5201d3520 = lose
+      one glyph: 52023d520 = thistle
+  READING: resurrection
+
+=== a109d9   x1 occurrence(s)
+  207r:2   ?extorter one <<MASKED a109d9>> and leave far +name-Jerusalem
+      cites: Luke 19:8
+      free in that passage: fourfold, lord, restor, wrong, zacheu
+  READING: fourfold
+
+=== 69cae0   x8 occurrence(s)
+  031r:9   ?with and ~John and say <<MASKED 69cae0>> <preposition_of_genitive>-?with ~exist-exist
+      cites: John 13:25, John 13:26
+      free in that passage: answer, dipp, iscariot, lord, lying, reach, sop, therefor
+  060r:2   <<MASKED 270>> from-speak +and_then Lord-Jézus <<MASKED 69cae0>> <preposition_of_genitive>-Lord
+      cites: Luke 24:17-20
+      free in that passage: another, answer, chief, cleopha, communic, concern, condemn, deliver, discour, hast, manner, mighty, princ, ruler, stranger, walk, work
+  062r:2   want +sacrifice +and_then +Isaac <<MASKED 69cae0>>
+      cites: Genesis 22:1
+      free in that passage: afar, amongst, answer, aram, ass, azau, bathuel, beersheba, beget, behind, bersab, bethuel, brier, burnt, buz, camuel, cas, catch, che, child, cleav, concubin, early, eight, enemy, gaham, go, hast, hazo, holocaust, horn, hus, huz, instead, jedlaph, jehovahjireh, jidlaph, kemuel, knif, lad
+  066v:10  on-way apostle <preposition_of_genitive>-Lord and say <<MASKED 69cae0>> <preposition_of_genitive>-Lord son.
+      cites: John 14:13-14
+      free in that passage: whatsoever
+  067r:4   Lord-Jézus <<MASKED 69cae0>> <preposition_of_genitive>-Lord son this-Lord this exorcise
+      cites: Matthew 22:42, Matthew 16:16
+      free in that passage: answer, peter, think
+  069v:7   inside °my_Father's_house +and_then Lord-Jézus apostle <preposition_of_genitive>-Lord <<MASKED 69cae0>> <preposition_of_genitive>
+      cites: John 15:1-5, John 15:2
+      free in that passage: cannot, husbandman, neither, noth, purg
+      structure: 52069cae0 = precious stone; jewel
+      structure: 67069cae0-dfe067069cae0 = for ever and ever; everlasting
+      structure: 7e169cae0670ae0 = Galilee
+  READING: answer
+
+=== 520460520460520460   x23 occurrence(s)
+  028r:7   holiday exist Jew(ish) Easter +this_is begin <<MASKED 520460520460520460>>
+  029r:5   from <<MASKED 520460520460520460>> <preposition_of_genitive>.
+  033v:2   °withdrawn <<MASKED 520460520460520460>> not-to and then-exist from-to <<MASKED 270>>
+      cites: Luke 22:41
+      free in that passage: cast, kneel, withdrawn
+  033v:7   from +not_take-father from <<MASKED 270>> this <<MASKED 520460520460520460>> in_turn
+  034r:2   father-<suffix_of_divine_name> ?eternal from +not_take-father from <<MASKED 270>> this <<MASKED 520460520460520460>>
+      cites: Luke 22:44, Matthew 26:1
+      free in that passage: abroad, adjur, afar, agony, alabaster, although, alway, ancient, another, answer, appoint, apprehend, asleep, assembl, azym, becam, bethania, bewray, bitterly, blasphem, box, brak, brok, buffet, caipha, cannot, certain, chief, city, cloud, club, consult, could, council, court, covenant, crew, deliver, dipp, discover
+  034r:4   Lord-Jézus because °in_an_agony Lord-Jézus how?-?first <<MASKED 270>> <<MASKED 520460520460520460>>
+      structure: 520460 = not
+  READING: pray
+
+=== 466520ae0   x3 occurrence(s)
+  005r:7   understand-girl-chapter +sword +who Isaac want <<MASKED 466520ae0>>
+      cites: Genesis 22:13
+      free in that passage: amongst, behind, brier, burnt, catch, go, holocaust, horn, instead, ram, stead, thicket
+  061v:10  <<MASKED 520100>> +sword who +Isaac want <<MASKED 466520ae0>>
+      cites: Genesis 22:6
+      free in that passage: burnt, go, holocaust, knif, wood
+  062r:8   <preposition_of_genitive> +Isaac [?]-living want <<MASKED 270>> <<MASKED 466520ae0>> and
+      cites: Genesis 22:1
+      free in that passage: afar, amongst, answer, aram, ass, azau, bathuel, beersheba, beget, behind, bersab, bethuel, brier, burnt, buz, camuel, cas, catch, che, child, cleav, concubin, early, eight, enemy, gaham, go, hast, hazo, holocaust, horn, hus, huz, instead, jedlaph, jehovahjireh, jidlaph, kemuel, knif, lad
+      one glyph: 060520ae0 = donkey
+      one glyph: 570520ae0 = ark
+      one glyph: 552520ae0 = fig; fig tree
+      one glyph: 702520ae0 = torch; lamp
+      one glyph: 705520ae0 = long
+  READING: ram
+
+=== ad2520   x2 occurrence(s)
+  187v:1   time <<MASKED ad2520>> king inside +the_Red_Sea go-king
+      cites: Exodus 14:27-28, Exodus 16:15
+      free in that passage: another, chariot, child, egyptian, fle, former, horsemen, israel, lord, manhu, midst, morn, neither, overthrew, pharao, pharaoh, remain, shut, signif, strength, stretch, wav, wist
+  187v:5   +the_Red_Sea close_in <<MASKED ad2520>> king and then-exist to-go
+  READING: Pharaoh
+
+=== 521687520   x1 occurrence(s)
+  019v:10  +emperor each,_every ?world <<MASKED 521687520>> go +law in_turn-chapter-in_turn and then
+      cites: Luke 2:1
+      free in that passage: caesar, decr, enroll, go
+  READING: enroll
+
+=== 5406e4624   x12 occurrence(s)
+  002v:13  <<MASKED 5406e4624>> and each,_every +heart exist-chapter Adam
+      cites: Genesis 2:7
+      free in that passage: becam, dust, lord, nostril, slim
+  001r:11  ?from_the_eternal in_turn-[?] inside <<MASKED 5406e4624>> say
+  007r:11  <<MASKED 5406e4624>> exorcise and put angel +sword
+      cites: Genesis 3:24
+      free in that passage: cast, cherubim, driv, east, eden, paradi, pleasur
+  007v:1   on-~gate ?cherub <<MASKED 5406e4624>> and one create
+  007v:2   °cherubim inside <<MASKED 5406e4624>> a) angel +and_then Lord-<suffix_of_divine_name>
+  006r:4   +gate/open <<MASKED 5406e4624>> and then-~exist <<MASKED 6b1ae0520ae0>> appear God
+  READING: Paradise
+
+=== 2c1   x6 occurrence(s)
+  002r:4   angel believe servant stand_up <<MASKED 2c1>> and then-exist stand_up
+  021v:3   stand_up <<MASKED 2c1>> and <<MASKED 520100>> this son and <preposition_of_genitive> this son mother.
+      cites: Matthew 2:13, Luke 2:21
+      free in that passage: accomplish, child, depart, eight, fle, fly, lord, seek, young
+  021v:6   this holy-gospel time stand_up <<MASKED 2c1>> +the_aged +Joseph
+  049r:4   and to-go <<MASKED 2c1>> holy-John inside Bethany to
+  138r:3   <<MASKED 2c1>> <preposition_of_genitive>-Mary exist-exist-chapter Jézus Christ amen
+  138v:2   speak holy-<name_of_a_church_father> church_father from <<MASKED 390a10ae0>> virgin-Mary +who <<MASKED 2c1>>
+  READING: he
+
+=== a10520060520   x1 occurrence(s)
+  170v:7   joy in_turn then-exist go apostle on-joy <<MASKED a10520060520>> exist
+      cites: Matthew 9:14-15, Matthew 9:18
+      free in that passage: ador, bridechamber, bridegroom, certain, child, lord, oft, often, ruler, worshipp
+      structure: 520060 = this; does not; <personal pronoun 1p. Sg.>; do not
+      structure: 520060520 = whose; which; what; that; to whom
+      one glyph: a10060520 = bite
+  READING: bridegroom
+
+=== a72060060   x2 occurrence(s)
+  208v:8   righteous(ly) [?]-[?]-+baptize holy-~Sunday and <<MASKED a72060060>> holy-this-somebody ?from
+      cites: Exodus 20:3-8
+      free in that passage: ador, beneath, child, fourth, graven, guiltl, hat, iniqu, jealou, lord, mighty, sabbath, shew, strang, third, thyself, visit
+  209v:2   °to_keep holy-~Sunday and <<MASKED a72060060>> holy-this-somebody ?from mother temple
+      structure: 060060 = the others, the rest; two; other; second
+  READING: other
+
+=== 520178   x6 occurrence(s)
+  003r:2   each,_every righteous(ly) °nor <<MASKED 520178>> and thirsty °nor this-Adam and
+  003r:3   one living die sin have <<MASKED 520178>> thirsty to-to-this-who
+  094r:11  °maimed body <<MASKED 520178>> and +thirst inside only_one-+day-~exist and [?]-?first.
+      cites: Luke 14:21-23
+      free in that passage: angry, city, compel, feebl, halt, hast, hedg, highway, hither, lan, lord, maim, quickly, room, street, yet
+  122r:9   <<MASKED 520100>> each,_every righteous(ly) °nor <<MASKED 520178>> and thirsty °nor this-Adam
+      cites: Genesis 2:7, Genesis 2:15
+      free in that passage: becam, dre, dust, eden, lord, nostril, paradi, pleasur, slim
+  122v:1   and one living-die-sin have <<MASKED 520178>> thirsty to-to-this-who.
+      cites: Genesis 2:17, Genesis 2:21-22
+      free in that passage: asleep, cast, cau, instead, lord, soever, surely, thereof
+  201v:6   <<MASKED 520178>> and +thirst and °feeble God blind and
+      cites: Matthew 22:9-10, Luke 14:21
+      free in that passage: angry, bid, city, feebl, furnish, go, guest, halt, highway, hither, lan, lord, maim, marriag, quickly, street, therefor
+  READING: hungry
+
+=== 630520414520850   x1 occurrence(s)
+  035v:1   because exist <<MASKED 630520414520850>> John to-Lord-Jézus ~and shout <<MASKED 270>>
+      cites: John 18:4-8
+      free in that passage: answer, backward, go, seek, soon, therefor
+  READING: Judas
+
+=== 201ae0   x4 occurrence(s)
+  029v:10  and one <<MASKED 201ae0>> and then-exist water inside <<MASKED 201ae0>>
+      cites: John 13:4-6, Luke 22:15, Matthew 26:31
+      free in that passage: abroad, asid, basin, bason, desir, flock, gar, gird, lord, pasch, peter, putt, scandaliz, smit, strik, supper, therefor, towel
+  029v:10  and one <<MASKED 201ae0>> and then-exist water inside <<MASKED 201ae0>>
+  029v:12  carry inside <<MASKED 201ae0>> water this-who Lord-Jézus +and_then holy-Peter
+  047v:2   inside one <<MASKED 201ae0>> and [?]-+Pilate exist.
+      cites: Matthew 27:24
+      free in that passage: could, noth, prevail, tumult
+  READING: basin
+
+=== 706   x1 occurrence(s)
+  105r:2   ?he_who +say-church_father must do, how? this-[?] <<MASKED 706>>
+      cites: Luke 10:25-28, Deuteronomy 6:5
+      free in that passage: answer, certain, eternal, hast, law, lawyer, lord, neighbour, strength, thyself
+  READING: life
+
+=== 27b   x7 occurrence(s)
+  017r:6   gate this Joachim_(the_father_of_Virgin_Mary) leave <preposition_of_genitive>-Joachim_(the_father_of_Virgin_Mary) wife <<MASKED 27b>> and ?conceived
+  017v:1   God angel holy-Anne_(mother_of_the_Virgin_Mary) have this <<MASKED 27b>> +<subject_marker> Lord-<suffix_of_divine_name> have_mercy hear
+  017v:2   Lord-<suffix_of_divine_name> <preposition_of_genitive>-Anne_(mother_of_the_Virgin_Mary) ?as-reason go <<MASKED 27b>> to home and
+  017v:3   on-golden gate leave <<MASKED 27b>> <preposition_of_genitive>-Lord Joachim_(the_father_of_Virgin_Mary) and from-get_conceived one
+  103v:8   <<MASKED 27b>> this <<MASKED 27b>> be_born
+  103v:8   <<MASKED 27b>> this <<MASKED 27b>> be_born
+  READING: woman
+
+=== a100607b6670   x1 occurrence(s)
+  203v:1   Lord-Jézus carry-+say <<MASKED 270>> <<MASKED a100607b6670>> and carry-+say
+      cites: Matthew 22:20-21
+      free in that passage: caesar, inscrip, render, superscrip, therefor
+      structure: a10060 = look; seem; see; make seen; show
+  READING: image
+
