@@ -1,0 +1,10 @@
+LEAVE-ONE-OUT: can the guess procedure recover words the book already reads?
+  trial set: rare words only (<=3 occurrences), passage widened by 0
+  hidden words tested                      400
+  answer was present in the passage pool   31  (7.8%)
+
+  top candidate correct, over ALL trials   8  (2.0%)
+  in top three, over ALL trials            18  (4.5%)
+
+  top candidate correct, when present      8  (25.8%)
+  in top three, when present               18  (58.1%)
