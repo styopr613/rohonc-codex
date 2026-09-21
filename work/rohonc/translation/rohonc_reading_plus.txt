@@ -1761,7 +1761,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
 === 070v ===
  1  inside commandment you exist <preposition_of_genitive>-Lord +law-love-ten carry-apostle
  2  say Lord-Jézus and somebody exist carry °in_my_name this-?Pharisees-+one
- 3  °whatsoever you first +say Lord love whatever | ?is_he
+ 3  °must you first +say Lord love whatever | ?is_he
  4  exist ~ask_(for) from-father-<suffix_of_divine_name> from <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> inside
  5  <preposition_of_genitive>-Lord +name each,_every you be_saved grab
  6  end this holy-gospel ?whatsoever have somebody ask_(for)
@@ -3795,7 +3795,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
  6  ~Adam inside this pit and die-~Adam because-exist | this
  7  ~Adam this can-evil die that_is be_damned
  8  exist exist ~Adam °is_baptized +be_saved.
- 9  ~Adam God-exist °condemned °not see ~Adam
+ 9  ~Adam God-exist °baptized °not see ~Adam
 
 
 === 150r ===
@@ -4874,7 +4874,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
 
 === 194v ===
  1  and Lord +say this-Lord exist sin ?therefore from-salvation-Lord and
- 2  [?] Lord-Jézus °they_that_are_well +humble +and_then Lord-Jézus °a_physician
+ 2  [?] Lord-Jézus °they_that_are_well +humble +and_then Lord-Jézus °answered
  3  to-Lord this-Lord go-Lord to-righteous_man on-this ?world a) to-sin
  4  +and_then Lord-Jézus you righteous_man +and_then
  5  Lord-Jézus need healing-somebody recovery +but_rather need.
@@ -5642,7 +5642,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
  2  spirit Friday and ?years and +three_days God from spirit two-two-year
  3  °a_wind from spirit °shall_come +earth quake and moon
  4  in_turn on and year +<subject_marker> ~begin
- 5  from-father <preposition_of_genitive>-somebody °the_kingdom from °render ?whosoever and
+ 5  from-father <preposition_of_genitive>-somebody °heaven from °render ?whosoever and
  6  °within inside righteous(ly) +believe carry-Lord somebody °shall_be_saved
  7  +not_believe and this each,_every ?therefore-have_mercy somebody °shall_perish
  8  and somebody want Christ against leave somebody God learn

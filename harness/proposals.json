@@ -276,7 +276,7 @@
   "tier": "A"
  },
  "0600601f7060060460ae1": {
-  "evidence": "138v:1 'amen this PRAY have from [x] MERCY'; the folio note says this is the devotion of the THREE Hail Marys said in Augustine's name. A numeral built from two strokes, a mark, two strokes and K&T's ten.",
+  "evidence": "138v:1, its only occurrence, and the reading is not supported by the way this book writes numbers. Numerals here are tally strokes followed by a ten or hundred or thousand multiplier, closed by ae1. This sign is 060 060 1f7 060 060 460 ae1 -- two strokes, 1f7, two strokes, TEN, the numeral end mark -- which reads as two and twenty, not as three. The glyph 1f7 always stands between two equal runs of strokes: 0600600600601f7060060060060 is four and four, and 0800800800801f7080080080080 is the same shape built from K&T's 'and'. The line is a prayer, 'amen, this prayer, have, from ___, have mercy', so a count of repetitions would suit it. Left as it stands rather than guessed again, with the tally written down against a later pass.",
   "gloss": "three",
   "n": 1,
   "tier": "G"
@@ -294,8 +294,8 @@
   "tier": "C"
  },
  "060060443670": {
-  "evidence": "223r:5.",
-  "gloss": "the_kingdom",
+  "evidence": "223r:5. The sign is 060060443 with a 670 ending, and that root is K&T's heaven: their 520060060443520 is 'heaven' and the expression 060060443520 with 152 after it is 'the high heavens'. Their own substitution rule for that word licenses 520060060443670, the same ending as ours. It was read here as 'the kingdom', which is the phrase 'kingdom of heaven' standing in for the word actually written. The line reads 'from the Father, of somebody, HEAVEN, from, render, whosoever'.",
+  "gloss": "heaven",
   "n": 1,
   "tier": "G"
  },
@@ -402,8 +402,8 @@
   "tier": "A"
  },
  "0607a3": {
-  "evidence": "149v:9, on the folio citing Mark 16:16, 'but he that believeth not shall be condemned'.",
-  "gloss": "condemned",
+  "evidence": "149v:9, and the change is forced by the line above it. 149v:8 reads 'exist exist Adam ___ shall be saved' with the sign 0607a3670ae0, read here as IS BAPTIZED -- that sign is this one with K&T's 670ae0, their be, added to it. A root cannot be 'baptized' in one line and 'condemned' in the next. The folio cites Mark 16:16, 'He that believeth and is baptized shall be saved: but he that believeth not shall be condemned', and 149v:9 runs 'Adam, God is, ___ not, see, Adam' -- the negated half of the same sentence, ending in SEE, as John 3:3 ends 'he cannot see the kingdom of God'. So the sign is the verb being negated, not the punishment. Read as BAPTIZED to agree with the compound; BELIEVE would do as well and cannot be told apart here, and 7a3 does sit inside 7a3520b7a, read here as 'faith'.",
+  "gloss": "baptized",
   "n": 1,
   "tier": "G"
  },
@@ -696,7 +696,7 @@
   "tier": "G"
  },
  "121121": {
-  "evidence": "008r:13 'Noah remain every this [x] exist and two [y] leave'; Noah's three sons.",
+  "evidence": "008r:13, its only occurrence. The glyph 121 occurs nowhere else in the book except doubled here, so nothing outside this line can check it. The reading 'three' has no tally behind it: this book counts with repeated 060 strokes, and a doubling would be two rather than three. The line is Noah -- 'Noah, remain, every, this ___ exist, and TWO sons, leave' -- and Genesis gives him three sons, which is where the three came from. The two on the same line is written the book's own way and this is not.",
   "gloss": "three",
   "n": 1,
   "tier": "G"
@@ -1146,8 +1146,8 @@
   "tier": "A"
  },
  "270990": {
-  "evidence": "070v:3, the same verse.",
-  "gloss": "whatsoever",
+  "evidence": "070v:3, its only occurrence, on the folio citing John 14:13. It was read as 'whatsoever', which duplicates a word already on the same line: 2daae0, three places later, is K&T's own 'whatever'. The sign is 270, their Lord, plus 990, the glyph in their 9909909b6 'have, must'. Its only sibling in the book is 270990ae0, this sign with their ae0 on the end, read here as 'expedient' at 038v:6 for John 11:50, 'it is EXPEDIENT for you that one man should die for the people' -- which in the Vulgate is expedit, it is needful. One root, one sense: MUST. The line then reads 'must you first say, Lord, love, whatever'.",
+  "gloss": "must",
   "n": 1,
   "tier": "G"
  },
@@ -1650,7 +1650,7 @@
   "tier": "G"
  },
  "418ae0": {
-  "evidence": "197v:9, the same verse.",
+  "evidence": "197v:9, Matthew 16:27, 'then will he render to every man according to his WORKS'. The sign is 418 with K&T's ae0 on it, and 418 alone stands one line earlier at 197v:8 in Matthew 16:26, 'what exchange shall a man give for his soul', read here as 'shall render'. One stem, a verb of rendering or doing, with the suffix making the noun of it -- his doings, his works. The two readings are consistent with each other and with the two verses; noted here because a shared stem glossed two ways is usually a mistake and this one is not.",
   "gloss": "his_works",
   "n": 1,
   "tier": "G"
@@ -2268,7 +2268,7 @@
   "tier": "C"
  },
  "520060520957": {
-  "evidence": "137r:6, the same verse.",
+  "evidence": "137r:6, Matthew 18:33, 'Shouldst not thou then have had compassion also on thy fellow servant, EVEN AS I had compassion on thee?' -- and the two signs before it on the line are read 'shouldst not thou' and 'had compassion', so the verse is being followed word by word. Noted against a later pass: this sign ends in 520957, which at 218v:9 is read on its own as 'cried with a loud voice' for Acts 7:60. 520060 is one of the commonest openers in the book, so the two may share nothing but a spelling, and neither has a second occurrence to decide it.",
   "gloss": "even_as_I",
   "n": 1,
   "tier": "G"
@@ -2958,7 +2958,7 @@
   "tier": "B"
  },
  "520270272": {
-  "evidence": "087r:8 and, as 520254270 / 520254270910, 087r:9 and 087r:10; the torch and sun figure runs through this folio.",
+  "evidence": "087r:8, its only occurrence, on the folio that runs the sun analogy for the Trinity -- one sun, and from it the light and the warmth, which 083v states in the same words. Two other signs on the same folio are also read here as the sun: 520254270910 on line 9 and 520254270 on line 10, which are one word with and without K&T's subject marker. This is a different sign carrying the same gloss, and only the analogy supports it. All three occur once each and only here, so nothing in the book can separate them. Recorded rather than changed: if one of the three is something else -- a moon, a fire, a likeness -- this is the one to suspect, because the other two share a spelling.",
   "gloss": "the_sun",
   "n": 1,
   "tier": "G"
@@ -3108,8 +3108,8 @@
   "tier": "G"
  },
  "5202e5": {
-  "evidence": "194v:2, the same verse.",
-  "gloss": "a_physician",
+  "evidence": "194v:2, and changed for consistency with its own compound. 041r:5 reads 'how? ___ inside the Lord, NOTHING, and shout' with the sign 5205202e5, read here as ANSWERED -- and that sign is this one with a second 520, K&T's verbal prefix, in front of it. The book doubles that prefix elsewhere (520520 prints 'to-to'). So the two are one word and both slots take a speech verb. 194v:2 is Matthew 9:12, which opens 'But Jesus hearing it, SAID: they that are in health need not a physician', and the line runs 'Lord Jesus, they that are well, humble, and then, Lord Jesus, ___' -- the said, not the physician. The physician was read from the verse; the line has the speaking.",
+  "gloss": "answered",
   "n": 1,
   "tier": "G"
  },
