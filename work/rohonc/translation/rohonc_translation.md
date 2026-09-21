@@ -14626,3 +14626,385 @@ in Király & Tokai's dictionary, so the person is not named here.
 > vain... Remember that thou keep holy the sabbath day.* The codex attributes
 > them to "father Abraham" rather than Moses, which is its own slip and one it
 > makes more than once.
+
+## 209r — from Adam to Abraham to Moses
+
+**1**  heaven and earth; and these three laws the Lord God confirmed to Moses
+`heaven land and this three law confirm Lord-<divine> Moses`
+
+**2**  by the Lord's angel; the time, then, from Adam onward
+`on-angel <of>-Lord time then-exist from ~Adam onward.*`
+
+**3**  until Abraham, one hundred years and […] years; from
+`until Abraham one hundred-year and [?]-year from`
+
+**4**  Abraham out until Moses, three thousand
+`Abraham <subject> ~out(ward) until Moses ~begin-+three_thousand`
+
+**5**  and fifty; from Abraham until Moses, the time
+`and fifty from Abraham until Moses time`
+
+**6**  the Lord God first confirmed to Moses by the Lord's angel; and
+`first confirm Lord-<divine> Moses on-angel <of>-Lord and say`
+
+**7**  God's angel said: Moses, because of this, teach, Moses, this
+`God angel Moses because-this on-learn this Moses this`
+
+**8**  people the three laws of the Lord; because of this let the people believe in one
+`people three law <of>-Lord because-this people believe one`
+
+> A chronology of the sort every medieval handbook carries, from Adam to
+> Abraham to Moses. The codex's figures are its own and match no standard
+> reckoning.
+
+## 209v — the three laws, and what Zacchaeus kept
+
+**1**  God; second, take not God's name in vain; third, God's law:
+`God two God name in_vain grab three God law`
+
+**2**  […] the holy Sunday and the feast, this holy man, from the mother, the temple;
+`[?] holy-~Sunday and feast holy-this-somebody from* mother temple`
+
+**3**  let a man hear the preaching. This is God's law; and the law a man
+`preach hear-somebody this God law and law somebody exist`
+
+**4**  bears; every such man is saved. And this Zacchaeus
+`carry each,_every somebody exist be_saved and this Zacchaeus`
+
+**5**  […] the word, loved, and bore these three laws of the Lord God. Here ends this
+`[?] word love and carry this three law Lord-<divine> end this`
+
+**6**  teaching, the holy gospel. The Lord God, with all thy heart.
+`learn holy-gospel Lord-<divine> ?with_all_thy_heart*`
+
+## 210r — a man possessed brought before the Lord
+
+**1**  This holy gospel begins,
+`begins this holy-gospel`
+
+**2**  written by holy Matthew, in
+`write holy-Matthew inside`
+
+**3**  the fourteenth […] chapter | of
+`14-+one [?] chapter | <of>`
+
+**4**  the writing: the time,
+`write time`
+
+**5**  then, the Lord Jesus,
+`then-exist Lord-Jézus`
+
+**6**  in his thirty-third year, the time | the Lord
+`inside thirty ~begin-+three_days time preach | Lord`
+
+**7**  Jesus preached in Jerusalem; and then they brought one man
+`Jézus inside Jerusalem and then-exist brought* one somebody`
+
+**8**  before the Lord Jesus, in […]; the man was evil, the evil one in him;
+`before Lord-Jézus inside [?] somebody exist ~evil evil`
+
+**9**  and then the Jews: this Lord, by Lucifer, the help
+`and_then Jew(ish) this-Lord hide_oneself-evil help`
+
+> Matthew 12:22-24, Douay: *Then was offered to him one possessed with a
+> devil... But the Pharisees hearing it, said: This man casteth not out
+> devils but by Beelzebub the prince of the devils.* The accusation is on
+> line 9, and the codex uses its own Lucifer sign for the prince of devils.
+
+## 210v — the unclean spirit walks through dry places
+
+**1**  of the evil, from the people he casts out. And then the Lord Jesus: this Lord
+`evil inside from people exorcise and_then Lord-Jézus this-Lord`
+
+**2**  […] of the Lord's Father God; and this Lord, of the Father God, can
+`[?] <of>-Lord from-father-<divine> and this-Lord <of>-father-<divine> can`
+
+**3**  do it, the Lord. And then the Lord Jesus: this, therefore, is pleasing; who is
+`do,-Lord and_then Lord-Jézus this therefore-pleasing who-exist`
+
+**4**  from the evil, he is pierced. And then the Lord Jesus: then
+`from evil exist pierce and_then Lord-Jézus then-exist.`
+
+**5**  he casts out from a man one unclean
+`exorcise inside somebody one unclean`
+
+**6**  spirit, and the evil one goes to a dry place, and
+`~spirit and go evil arid,_dry place and`
+
+**7**  […] to the Lord, the place, that is, to the virgin, from the people, and
+`[?] to-Lord place that_is on-virgin-from people and`
+
+**8**  to the word, the people; and there is […] the evil one's
+`on-word people and exist [?] evil`
+
+**9**  lodging; and then this evil one, this evil
+`lodging-+and_then this evil this-evil`
+
+> Matthew 12:43, Douay: *And when an unclean spirit is gone out of a man he
+> walketh through dry places seeking rest, and findeth none.* The dry place
+> is on line 6 and K&T gloss the sign as "arid, dry".
+
+## 211r — seven other spirits worse than himself
+
+**1**  and the evil one goes […] because from the evil, love, sin, the sinful man;
+`and go-evil [?] because from evil love sin somebody-sin`
+
+**2**  and he takes […] seven evil ones, from the evil,
+`and exist grab [?] seven evil from evil`
+
+**3**  trespass, mourning; and there are […] seven evil ones; and | they go,
+`trespass mourn and exist [?] seven evil and | go`
+
+**4**  the evil ones, all seven. And then the Lord Jesus: how then this man,
+`evil each,_every seven and_then Lord-Jézus how? then-chapter this somebody`
+
+**5**  the one aforesaid […] and every man, O, into the house
+`one earlier_mentioned [?] and each,_every somebody oh inside house`
+
+**6**  goes, this; and there stood up again one […] chief
+`go-this ~and stand_up-?again one [?]-to-[?] head`
+
+**7**  among this people, the Jews; and then: blessed is the womb
+`among this people Jew(ish) and_then blessed from womb`
+
+**8**  which bore this Lord, and blessed are the breasts which | this
+`which-+<subject> this-Lord carry and blessed from breast which | this`
+
+**9**  Lord did nurse. And then the Lord Jesus: blessed is the Lord's mother,
+`Lord nurse and_then Lord-Jézus blessed <subject> <of>-Lord mother`
+
+> Matthew 12:45, Douay: *Then he goeth, and taketh with him seven other
+> spirits more wicked than himself.* Then Luke 11:27, folded in: *a certain
+> woman from the crowd, lifting up her voice, said to him: Blessed is the womb
+> that bore thee, and the paps that gave thee suck.*
+
+## 211v — rather, blessed are they that hear the word of God
+
+**1**  the virgin Mary, which bore the Lord; and blessed are the breasts which
+`virgin-Mary which-+<subject> to-Lord carry and blessed from breast which`
+
+**2**  did nurse the Lord; and even more blessed are the people, and God said:
+`to-Lord nurse even_more and blessed from people and God say.`
+
+**3**  let a man hear, and say, and let a man bear it. Here ends this
+`hear-somebody and say <subject> carry-somebody end this`
+
+**4**  holy gospel. The Lord God, with all thy heart.
+`holy-gospel Lord-<divine> ?with_all_thy_heart*`
+
+**5**  This holy gospel begins,
+`begins this holy-gospel`
+
+**6**  written by holy John
+`write holy-John`
+
+> Luke 11:28, Douay: *Yea rather, blessed are they who hear the word of God,
+> and keep it.* The "even more" on line 2 is the *quinimmo* of that verse,
+> and the hearing and keeping are both on line 3.
+
+## 212r — whence shall we buy bread?
+
+**1**  in the sixth chapter of the writing: the time, then, the Lord Jesus
+`inside six chapter <of>-write time then-exist Lord-Jézus`
+
+**2**  in his thirty-third year, the time the Lord Jesus sat | by
+`inside thirty ~begin-+three_days time sit Lord-Jézus | on`
+
+**3**  the Red Sea […]; and the Lord went through,
+`the_Red_Sea [?] and Lord through`
+
+**4**  the Lord Jesus went through the Red Sea to one
+`go-Lord Lord-Jézus through the_Red_Sea to-one`
+
+**5**  mount; and the Lord Jesus sat upon this mount,
+`mount and sit Lord-Jézus to-this to-mount`
+
+**6**  and […] the Lord's two eyes to heaven […] and
+`and [?] <of>-Lord two eye heaven [?] and`
+
+**7**  the Lord Jesus saw, upon every side, […] people coming to the Lord; and
+`see Lord-Jézus on-each,_every two-two [?] people to-Lord and`
+
+**8**  they came; and then the Lord Jesus: Philip, this people | take,
+`go and_then Lord-Jézus Philip this people | grab`
+
+**9**  the Lord's apostle Philip, to eat. And then holy Philip answered:
+`apostle-Lord-Philip eat and_then holy-Philip answered`
+
+> John 6:3-5, Douay: *Jesus therefore went up into a mountain, and there he
+> sat with his disciples... When Jesus therefore had lifted up his eyes, and
+> seen that a very great multitude cometh to him, he said to Philip: Whence
+> shall we buy bread, that these may eat?* The lifting of the eyes, the
+> multitude and Philip by name are all here.
+
+## 212v — five barley loaves and two fishes
+
+**1**  then two hundred pennyworth would not be enough,
+`then-exist have two-hundred denarius who-exist people`
+
+**2**  this day's bread to buy, therefore, for the people. And then
+`exist-today’s buy therefore* people enough and_then`
+
+**3**  holy Andrew answered: this […] one
+`holy-Andrew answered <subject> this [?] one.`
+
+**4**  […] son; and the son has five
+`[?] son and have son five.`
+
+**5**  loaves of barley bread, and two fishes.
+`loaves barley bread and two fish`
+
+**6**  And the apostles brought these five loaves of barley
+`and carry apostle this loaves five barley`
+
+**7**  bread and these two fishes before the Lord Jesus;
+`bread and this two fish before Lord-Jézus`
+
+**8**  and the Lord Jesus took this bread and
+`and grab Lord-Jézus this bread and`
+
+**9**  these two fishes; and this bread and
+`this two fish and this bread and`
+
+> John 6:7-9, Douay: *Two hundred pennyworth of bread is not sufficient for
+> them... There is a boy here that hath five barley loaves, and two fishes.*
+> Philip, Andrew, the two hundred pence, the five barley loaves and the two
+> fishes are every one of them in John and every one of them here.
+
+## 213r — twelve baskets full
+
+**1**  these two fishes the Lord Jesus blessed; and then the Lord Jesus to the apostles
+`this two fish bless* Lord-Jézus and_then Lord-Jézus apostle`
+
+**2**  of the Lord: apostles, sit this people down upon the grass; and the Lord Jesus divided
+`<of>-Lord sit-apostle down this people on-grass and on-divide_into_parts`
+
+**3**  this bread to the apostles, and these two fishes, in turn, the apostles to this
+`Lord-Jézus this bread apostle and this two fish in_turn apostle this`
+
+**4**  people; and then the apostles, every apostle took his portion,
+`people and then-exist apostle each,_every apostle-[?] portion grab-apostle`
+
+**5**  and then the apostles to the whole wide world, upon eating; and then | the Lord
+`and then-exist apostle-[?] to the_whole_wide_world on eat and_then | Lord`
+
+**6**  Jesus to the Lord's apostles: go, apostles, and take this, of the
+`Jézus apostle <of>-Lord go-apostle and grab-apostle this from`
+
+**7**  leftovers; and into baskets the apostles, of the leftovers, twelve
+`leftovers and on-basket apostle from leftovers six-six`
+
+**8**  filled up; and then the Lord Jesus to the Lord's apostles: go out among
+`fill_up and_then Lord-Jézus apostle <of>-Lord go this out(ward) among`
+
+**9**  this people; and then the apostles carried the twelve baskets filled up out
+`people and then-exist apostle carry basket six-six fill_up out(ward)`
+
+> John 6:10-13, Douay: *Now there was much grass in the place. The men
+> therefore sat down... Gather up the fragments that remain, lest they be
+> lost. They gathered up therefore, and filled twelve baskets.* The grass, the
+> sitting, the gathering and the twelve baskets are all here, and K&T's own
+> dictionary carries the sign for the leftovers.
+
+## 213v — this is of a truth the prophet
+
+**1**  among this people, to the many; and this many people saw what the Lord Jesus could do,
+`among this people to-many and see this to-many people can Lord-Jézus`
+
+**2**  and all the people gave the Lord thanks; and this word they cried out,
+`and Lord each,_every people thanks grab and this word who-shout-to`
+
+**3**  thanks: there is God, by the letter, the most high; and the Lord took a man by name, he could,
+`thanks exist God literal-on most_high and the_Lord grab-somebody name-+one can`
+
+**4**  and a man could do this miracle; and he left, among
+`and somebody can this miracle do, and leave among`
+
+**5**  this people, the Lord Jesus. Here ends this holy gospel. The Lord God, with all thy heart.
+`this people Lord-Jézus end this holy-gospel Lord-<divine> ?with_all_thy_heart.`
+
+**6**  This holy gospel begins,
+`begins this holy-gospel`
+
+**7**  written by holy John, in
+`write holy-John inside`
+
+**8**  the eighth chapter of the writing:
+`six-two chapter <of>-write`
+
+**9**  the time, then,
+`time then-exist`
+
+**10**  the Lord Jesus, in his thirty- | third
+`Lord-Jézus inside thirty | ~begin`
+
+**11**  year, the time.
+`three_days time.`
+
+## 214r — he that is of God heareth the words of God
+
+**1**  The Lord Jesus preached in Jerusalem, and the Lord Jesus said to the Lord's apostles and to the Jewish
+`preach Lord-Jézus inside Jerusalem and say Lord-Jézus apostle <of>-Lord and Jew(ish)`
+
+**2**  people: he left behind one, afar, among you, apostles;
+`people leave-leave one far among you-apostle`
+
+**3**  and the Lord upbraided them for sin; and then the Lord Jesus: amen, amen,
+`and Lord on-sin admonish-chapter and_then Lord-Jézus amen amen`
+
+**4**  this Lord says to you, apostles, and […] from
+`this-Lord you-apostle speak-Lord and [?]-+<subject> from*`
+
+**5**  God: whosoever is of God heareth God's word; in turn whosoever, therefore,
+`God this whosoever-[?] God say hear in_turn and whosoever-[?] therefore*`
+
+**6**  is not of God, whosoever, God's word he heareth not. And this
+`from* God this whosoever-[?] God say therefore* hear and this`
+
+**7**  […] from the two […]; and then the Jews:
+`[?]-+<subject> from* two [?] and_then Jew(ish)`
+
+**8**  this Lord is a blasphemer; this Lord, Lucifer, the evil one,
+`this-Lord one blasphemer this-Lord hide_oneself-angel hide_oneself-evil`
+
+**9**  the evil, the Lord has; this Lord is one who began to believe
+`evil have-Lord this-Lord one ~begin-believe`
+
+> John 8:47-48, Douay: *He that is of God, heareth the words of God.
+> Therefore you hear them not, because you are not of God. The Jews therefore
+> answered, and said to him: Do not we say well that thou art a Samaritan, and
+> hast a devil?* The accusation is on line 8 and the codex makes it Lucifer.
+
+## 214v — before Abraham was made, I am
+
+**1**  and this Lord, on the holy feast, healed the sick. And then the Lord Jesus, in
+`and this-Lord on-holy-feast ill from-healing-Lord and_then Lord-Jézus inside`
+
+**2**  this […]: this Lord, through sin, this healing; you are sorrowful,
+`this [?] this-Lord through sin this healing <subject> you sad(ly)`
+
+**3**  love; this Lord, you, on the holy feast healed the sick.
+`love this-Lord you on-holy-feast ill from-healing-Lord`
+
+**4**  And then the Lord Jesus: amen, amen, this Lord
+`and_then Lord-Jézus amen amen this-Lord you`
+
+**5**  says to you; and whosoever, therefore, believes the Lord, that one
+`speak-Lord and whosoever-[?] therefore* Lord believe and one`
+
+**6**  therefore, whosoever, is saved; but every man is damned who remains; and | the man,
+`therefore-?whosoever-[?] be_saved a) each,_every somebody be_damned remain* and | somebody`
+
+**7**  the apostles said, is the Lord's; believe, whosoever lives | whosoever,
+`apostle-+say exist Lord believe from whosoever-[?] exist | living-?whosoever`
+
+**8**  one, the apostles said. Chapter. Chapter. He shall not die. And then
+`one-apostle-+say chapter-oh chapter-oh not die and_then`
+
+**9**  the Jews: Abraham of theirs, the black, believed God;
+`Jew(ish) <of>-+say Abraham black <subject> God believe`
+
+> John 8:51-52, Douay: *Amen, amen I say to you: If any man keep my word, he
+> shall not see death for ever. The Jews therefore said... Abraham is dead,
+> and the prophets.* The amen amen, the keeping and the not dying are here,
+> and the Jews' answer begins on line 9.
