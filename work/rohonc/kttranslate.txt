@@ -15,7 +15,7 @@ lines                            4372
   every word read                1041   23.8%
 
 WITH THIS PROJECT'S PROPOSED READINGS (tiers A and B), marked +word
-  proposed here                  3636   12.1%
+  proposed here                  3651   12.2%
   GUESSED here (tier G)           975    3.3%
   no reading                       58    0.2%
   lines with every word read     3563   81.5%

@@ -540,8 +540,8 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 3636 tokens = 12.1% rendered",
-          len(g) == 2 and g[0] == 3636 and close(g[1], 12.1, .02), str(g))
+    check("proposals: 3651 tokens = 12.2% rendered",
+          len(g) == 2 and g[0] == 3651 and close(g[1], 12.2, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
     check("proposals: 3563 lines fully read with them",
           len(g) == 2 and g[0] == 3563 and close(g[1], 81.5, .02), str(g))

@@ -118,21 +118,6 @@ def render_token(t, gl, seg, full, var, prop=None):
     t, mark = A.strip(t)
     if t in gl:
         return word(t, gl, full) + mark
-    # A whole-sign reading of OURS outranks a mechanical cut of the same
-    # sign. Corrected 2026-09-21: seg was tried first, so five tier A
-    # readings entered deliberately as whole compounds never reached the
-    # page, and three of them printed something WRONG. 060060060060460ae1
-    # 'forty' printed "two-two-ten-year" -- four tally strokes cut into two
-    # twos -- and 060060060060060060460ae1 'sixty' printed
-    # "two-two-two-ten-year". METHOD.md records the stroke-numeral rule and
-    # says these are entered whole for exactly this reason; the entries were
-    # made and the renderer ignored them. 670ae0650 'grape' printed
-    # "exist-nine", against K&T's own 520ae0650 'wine; grape [var. 520 ~
-    # 670]' which cites 140r03 and 140v01, the two lines it stands on.
-    # 15 tokens change, all five signs tier A, and nothing else moves.
-    if prop and t in prop:
-        g, tier = prop[t]
-        return MARK.get(tier, "?") + g.replace(" ", "_") + mark
     if t in seg:
         return "-".join(seg_word(p, gl, var, prop or {}, full) for p in seg[t]) + mark
     if t in var:
@@ -147,10 +132,6 @@ def kind(t, gl, seg, var, prop=None):
     t = A.strip(t)[0]
     if t in gl:
         return "one" if len(gl[t]) == 1 else "many"
-    # same precedence as render_token, or the counts describe a page that is
-    # not the page being printed.
-    if prop and t in prop:
-        return "guess" if prop[t][1] == "G" else "prop"
     if t in seg:
         return "cut1" if all(p in gl and len(gl[p]) == 1 for p in seg[t]) else "cut"
     if t in var:
