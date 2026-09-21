@@ -4223,23 +4223,5 @@
   "tier": "C",
   "n": 2,
   "evidence": "The creed formula, twice. 017r:11 reads 'the Lord crucified, and on the third day rose from the dead, and [ascended], saved'; 017v:8 reads 'the Lord rose, and [ascended], saved every wide people'. The clause that follows 'rose again the third day' in the creed is 'he ascended into heaven', and the codex gives the creed in full more than once (042v, 026v, 104r). ascend and descend both carry no sign; descend belongs before the rising, not after it, which is why this is read as ascend. Both occurrences are the same formula on consecutive folios, so nothing independent tests it: tier C."
- },
- "7e6": {
-  "gloss": "say",
-  "tier": "B",
-  "n": 14,
-  "evidence": "Proved by the codex writing the same formula twice, once with a read sign in the slot and once with this one. 069r:4 is 'miracle [7e6] which-mouth exist, inside the Old Testament word, and living exist'; 080v:2-3 is 'miracle SAY which-mouth-chapter-year, inside the Old Testament word, and living-exist'. The two folios carry one formula across a line break -- apostle / [5201d3] / who-go-up / language / [7e6] / [7f8] / you / exist / many / miracle / X / which-mouth -- and in the X slot 080v has 7e8, which K&T read as 'say'. The sign is therefore a second spelling or a close relative of 'say'; the book already carries 'say' on two signs (4a4, 7e8) and 'speak' on three (431a10, 520b83, 547431a10), so a further sign of that family is ordinary, not special pleading. Every one of the fourteen occurrences reads with it. Four of them stand immediately after 'language' on the Acts 2 folios (069r:3, 080v:1, 082r:6, 082r:7), which is Acts 2:4-11, speaking with tongues; two stand after 'begin' and 'Gentile' (176v:2, 177r:1), which is beginning to speak to the Gentiles; 015r:7 puts it between the angel's appearing to David and the angel's departing, in the sentence prophesying the son; 147v:4 gives it to the heavenly host. At 073v:1 and 076r:1 it stands beside the read 'say', which is the 'answered and said' doubling that runs through the Vulgate and every vernacular devotional book after it."
- },
- "520983": {
-  "gloss": "penance",
-  "tier": "C",
-  "n": 4,
-  "evidence": "All four occurrences are on 077r, a folio whose cited source is Matthew 18 and whose argument is the page's own: one sin repented is forgiven, unrepented sin damns. 077r:4 reads 'the man sins one sin, [x] he is saved'; 077r:6 reads 'one sin, [x] is saved; but every one, whosoever sins, is damned'; 077r:1 'the man [x], have mercy; the man in turn from riches'; 077r:2 'the man in turn [x] justly'. The word that makes one sin end in salvation and persistent sin end in damnation, in a Catholic book of 1593, is penance -- the Douay's own wording, 'do penance', where the King James has 'repent'. It is free in both translations and is not carried by any sign. JUDGMENT, MARKED AS ONE: K&T read 540831916 and 520831916 as 'repentance', and penance and repentance are one word in Hungarian (bunbanat). This is read as penance and not as a second sign for that word because the sacrament and the contrition are distinct in the doctrine the page is setting out, and because the repentance sign does not appear on 077r at all. A reviewer who rejects the distinction should read this sign as 'repentance'; the four lines complete either way."
- },
- "538": {
-  "gloss": "enemy",
-  "tier": "B",
-  "n": 3,
-  "evidence": "One formula, written three times on two folios: 046v:3 '[Pilate] if want Lord say [538] of-emperor', 046v:10 'Pilate if want Lord say [538] of-emperor', 047r:6 'Pilate if want Lord say [538] of-'. The folios are the Passion before Pilate -- 046v:2 has the Jews shouting for the cross, 046v:6-7 'and Pilate cried: behold Jesus, the King of the Jews'. The verse this formula is is John 19:12, Douay: 'If thou release this man, thou art not Caesar's friend.' 'release' is read (7114e1, 9555204f6), 'emperor' is read, and 'if', 'want' and 'say' are read, so the only word of the verse left for this sign is the one naming what Pilate would be to Caesar. 'friend' is carried by four other signs (520444962, 520ae0520ae0, 540444520ae0, 540444001) and none of them is on these lines, and there is no negative anywhere in the formula -- so the codex is not writing 'not Caesar's friend', it is writing the same thing the other way round, 'Caesar's enemy'. 'enemy' is free in both translations and is carried by no sign. Turning a negated noun into its opposite is ordinary in a vernacular paraphrase."
  }
 }

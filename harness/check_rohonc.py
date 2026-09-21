@@ -544,7 +544,7 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "702 signs are read" in flat
+          "METHOD.md" in flat and "705 signs are read" in flat
           and "23.8% to **61.1%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",

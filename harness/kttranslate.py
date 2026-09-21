@@ -44,13 +44,6 @@ PROPOSALS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.
 # so it can never be mistaken for a reading, and it is counted separately
 # everywhere -- a line carrying one is NOT a line with every word read.
 MARK = {"A": "+", "B": "+", "C": "?", "D": "?", "G": "\u00b0"}
-
-# How a reading is marked on the page. Tier G is a GUESS -- a word chosen from
-# the folio's own source passage and the words around the hole, with nothing
-# in the book able to test it. It is marked with a degree sign so that it can
-# never be mistaken for a reading, and it is counted separately everywhere:
-# a line containing one is NOT a line with every word read.
-MARK = {"A": "+", "B": "+", "C": "?", "D": "?", "G": "\u00b0"}
 import ktsegment as S
 
 OUT = os.path.join(os.path.dirname(corpus.DATA), "work", "rohonc", "translation")
