@@ -552,7 +552,7 @@ calls cost 31 cents.
 
     Test 14  outside reader, 20 real + 20 rotated pages    PASS
              rotated: 0 fills, 0 "matches" of 20; real: 69 fills, 13 of 18 "matches"; p 1.6e-06
-    Test 15  passage identification by the same reader     blocked at 4 of 40 calls: OpenRouter key monthly cap
+    Test 15  passage identification, outside reader       PASS   chapter 9/20 real vs 0/20 shuffled, p 0.002; reader V3.2, thinking off, $0.007
 
 The loop run by a reader who does not know which pages hold the wrong
 passage produces nothing from them. Cost so far $0.84 for Test 14.

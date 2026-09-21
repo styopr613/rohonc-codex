@@ -1,0 +1,29 @@
+{
+ "folio": "069v",
+ "cond": "real",
+ "reply": "{\"book\": \"John\", \"chapter\": 15, \"verses\": \"1-7\", \"confidence\": 0.9}",
+ "usage": {
+  "prompt_tokens": 313,
+  "completion_tokens": 30,
+  "total_tokens": 343,
+  "cost": 0.0001227,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0001227,
+   "upstream_inference_prompt_cost": 9.39e-05,
+   "upstream_inference_completions_cost": 2.88e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nfarm in_turn you vine_branch and go\n[?1] [?2] farm angel [?3] this [?4]\n[?5] and [?6] [?7] [?8]\n[?9] grab this cut_off and [?7] out(ward)\nway [?10] [?11] [?12] and somebody exist\ninside [?13] stay and [?14] exist\ninside [?15] [?11] [?12] apostle [?2] oh <preposition_of_genitive>\nLord son this [?16] can apostle [?17]\nunderstand who [?14] you [?18] speak\nLord and somebody exist [?2] [?19] [?20] from\nsomebody exist inside [?21] stay and [?14]\n"
+}

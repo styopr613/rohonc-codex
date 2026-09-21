@@ -1,0 +1,29 @@
+{
+ "folio": "064v",
+ "cond": "real",
+ "reply": "{\n  \"book\": \"John\",\n  \"chapter\": 10,\n  \"verses\": \"1-16\",\n  \"confidence\": 0.9\n}",
+ "usage": {
+  "prompt_tokens": 316,
+  "completion_tokens": 36,
+  "total_tokens": 352,
+  "cost": 0.00018,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00018,
+   "upstream_inference_prompt_cost": 0.000126,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\n[?1] [?2] out(ward) this herd and go.\nwolf and sheep [?3] [?4]\n[?5] [?6] good [?7] from [?7] put\ndown [?8] living [?9] sheep and [?10]\nand one [?11] [?12] good [?7] from [?7]\n[?13] gate [?8] sheep and [?14] hear\nvoice,_sound [?15] sheep [?16] [?7] go [?4]\n[?5] apostle [?8] [?17] [?18] one sheep\nand [?19] want [?20] blind go and\nyou exist each,_every one [?7] [?7]\none [?21] thanks [?22] end this [?23]\n"
+}

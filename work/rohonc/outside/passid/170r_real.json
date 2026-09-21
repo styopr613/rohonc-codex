@@ -1,0 +1,29 @@
+{
+ "folio": "170r",
+ "cond": "real",
+ "reply": "{\n  \"book\": \"Luke\",\n  \"chapter\": 15,\n  \"verses\": \"11-32\",\n  \"confidence\": 0.85\n}",
+ "usage": {
+  "prompt_tokens": 291,
+  "completion_tokens": 36,
+  "total_tokens": 327,
+  "cost": 0.0001675,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0001675,
+   "upstream_inference_prompt_cost": 0.0001135,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nend this [?1] speak [?2] have this\n[?3] righteous(ly) manager [?4] father\nson and among somebody son have somebody.\n[?5] find because [?6] [?7] exist\n[?5] somebody calm_down [?5] end\nthis [?1] [?8] [?9] [?10] [?9] [?11]\nbegins this [?1] write\n[?12] inside [?13] chapter <preposition_of_genitive>\nwrite [?2] inside [?14]\n[?14] chapter [?15] inside nine chapter\ntime [?16] [?17] inside\n"
+}

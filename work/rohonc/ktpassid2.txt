@@ -1,0 +1,31 @@
+TEST 15: PASSAGE IDENTIFICATION BY AN OUTSIDE READER, K&T'S WORDS ONLY
+  reader deepseek/deepseek-v3.2; 20 folios; seed 20260921
+
+    200v  cited Matthew 21   reader Luke 15                
+    081r  cited Acts 2    reader John 8                 
+    023r  cited John 4    reader John 9                 
+    069v  cited John 15   reader John 15                HIT
+    036r  cited John 18   reader Matthew 27             
+    190v  cited Luke 24   reader Luke 24                HIT
+    025r  cited Matthew 17   reader Luke 17                
+    221r  cited Acts 9    reader Acts 9                 HIT
+    171r  cited Mark 5    reader Mark 5                 HIT
+    064v  cited John 10   reader John 10                HIT
+    105r  cited Deuteronomy 6    reader Matthew 6              
+    101r  cited 1Kings 18   reader null                   
+    217r  cited Acts 6    reader Acts 7                 
+    171v  cited Matthew 9    reader Mark 5                 
+    096v  cited John 6    reader John 6                 HIT
+    095v  cited John 6    reader John 6                 HIT
+    216r  cited Acts 7    reader Acts 9                 
+    101v  cited Luke 2    reader Luke 2                 HIT
+    092r  cited John 3    reader John 3                 HIT
+    170r  cited Luke 8    reader Luke 15                
+
+  condition   chapter hit  book hit
+  real             9/20  45.0%    13/20  65.0%
+  shuffled         0/20   0.0%     3/20  15.0%
+  discordant folios real-only 9, shuffled-only 0, sign test p = 1.95e-03
+  Test 11's bag of stems on all 298 folios: top-1 12.4%
+  cost $0.007
+  BAR: p < 0.01 and real chapter hit >= 25%  ->  PASS

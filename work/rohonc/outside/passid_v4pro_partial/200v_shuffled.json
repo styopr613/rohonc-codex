@@ -1,12 +1,12 @@
 {
  "folio": "200v",
  "cond": "shuffled",
- "reply": "```json\n{\n    \"book\": \"John\",\n    \"chapter\": 9,\n    \"verses\": \"1-41\",\n    \"confidence\": 0.85\n}\n```",
+ "reply": "```json\n{\n  \"book\": null,\n  \"chapter\": null,\n  \"verses\": null,\n  \"confidence\": 0.0\n}\n```",
  "usage": {
-  "prompt_tokens": 400,
-  "completion_tokens": 40,
-  "total_tokens": 440,
-  "cost": 0.0001288,
+  "prompt_tokens": 394,
+  "completion_tokens": 35,
+  "total_tokens": 429,
+  "cost": 0.0003766,
   "is_byok": false,
   "prompt_tokens_details": {
    "cached_tokens": 0,
@@ -15,9 +15,9 @@
    "video_tokens": 0
   },
   "cost_details": {
-   "upstream_inference_cost": 0.0001288,
-   "upstream_inference_prompt_cost": 0.000112,
-   "upstream_inference_completions_cost": 1.68e-05
+   "upstream_inference_cost": 0.0003766,
+   "upstream_inference_prompt_cost": 0.0002758,
+   "upstream_inference_completions_cost": 0.0001008
   },
   "completion_tokens_details": {
    "reasoning_tokens": 0,

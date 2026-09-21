@@ -1,0 +1,29 @@
+{
+ "folio": "095v",
+ "cond": "shuffled",
+ "reply": "{\n  \"book\": \"John\",\n  \"chapter\": 9,\n  \"verses\": \"1-41\",\n  \"confidence\": 0.8\n}",
+ "usage": {
+  "prompt_tokens": 495,
+  "completion_tokens": 36,
+  "total_tokens": 531,
+  "cost": 0.0002695,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0002695,
+   "upstream_inference_prompt_cost": 0.0002155,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nfinger [?1] (some)one but body <man_suffering_from_some_kind_of_illness> sword alms body\nwhen? dog [?2] [?1] (some)one <man_suffering_from_some_kind_of_illness> sword dog\n(some)one sword Philip rain who? [?1] [?3] rain\nget_angry <man_suffering_from_some_kind_of_illness> <Christian_or_related_church_or_denomination> cover be_born [?4] from_the_two_of_them be_born <Christian_or_related_church_or_denomination>\ncover [?5] cut_off from_the_two_of_them <man_suffering_from_some_kind_of_illness> <Christian_or_related_church_or_denomination> cover\nbe_born [?4] from_the_two_of_them [?6] rain slide\nlong <Christian_or_related_church_or_denomination> where? [?7] <man_suffering_from_some_kind_of_illness> <Christian_or_related_church_or_denomination> cover rain slide\n[?8] neighbor throw_out cover neighbor yoke [?9]\nfrom_the_two_of_them [?6] [?10] long <Christian_or_related_church_or_denomination> cover\nten [?11] [?11] Lazarus [?3] Cedron\nhaughtily [?12] [?5] cut_off from_the_two_of_them <man_suffering_from_some_kind_of_illness> [?5]\n"
+}

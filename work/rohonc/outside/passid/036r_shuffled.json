@@ -1,0 +1,29 @@
+{
+ "folio": "036r",
+ "cond": "shuffled",
+ "reply": "{\n  \"book\": \"John\",\n  \"chapter\": 9,\n  \"verses\": \"1-41\",\n  \"confidence\": 0.8\n}",
+ "usage": {
+  "prompt_tokens": 401,
+  "completion_tokens": 36,
+  "total_tokens": 437,
+  "cost": 0.0002225,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0002225,
+   "upstream_inference_prompt_cost": 0.0001685,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nlong Cedron well Mount_Tabor [?1] [?2] [?3] [?4]\n[?5] division [?6] dog [?7] [?4] <man_suffering_from_some_kind_of_illness> wedding\nCedron who(m)? [?8] alms [?9] basket rain\nget_angry Sunday sufferer [?10] [?11] arrest Cedron\nchurch_father dog [?3] [?12] <man_suffering_from_some_kind_of_illness> [?13] That_is_it. rain\nget_angry [?14] Saint_Joachim_and_his_houseful [?11] Cedron\ndog That_is_it. Cedron [?15] [?16]\nget_angry [?17] dog That_is_it. [?2] neighbor [?18]\nhigh rain Saint_Joachim_and_his_houseful Cedron [?19] That_is_it. [?2]\nfinger Cedron rain basket nine abide [?11] [?10]\n<man_suffering_from_some_kind_of_illness> [?20] Cedron [?21] Cedron [?2] [?22]\n"
+}

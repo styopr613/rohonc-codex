@@ -1,0 +1,29 @@
+{
+ "folio": "216r",
+ "cond": "real",
+ "reply": "{\n  \"book\": \"Acts\",\n  \"chapter\": 9,\n  \"verses\": \"3-5\",\n  \"confidence\": 0.7\n}",
+ "usage": {
+  "prompt_tokens": 275,
+  "completion_tokens": 36,
+  "total_tokens": 311,
+  "cost": 0.0001595,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0001595,
+   "upstream_inference_prompt_cost": 0.0001055,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nangel and [?1] [?2] [?3] [?4] [?5]\n[?6] heaven land and [?3] one\nking [?7] inside throne sit and [?8]\narmy [?9] angel [?10] Jew(ish)\n[?11] one [?12] and.\n[?13] [?14] [?15] believe and.\n[?16] literal [?17] one son and this son.\nexist this Saul and [?17] exist this believe\nand from [?18] want [?19] [?2] [?20]\n"
+}

@@ -1,0 +1,29 @@
+{
+ "folio": "092r",
+ "cond": "real",
+ "reply": "```json\n{\"book\": \"John\", \"chapter\": 3, \"verses\": \"16-18\", \"confidence\": 0.9}\n```",
+ "usage": {
+  "prompt_tokens": 328,
+  "completion_tokens": 34,
+  "total_tokens": 362,
+  "cost": 0.00010126728,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00010126728,
+   "upstream_inference_prompt_cost": 8.799912e-05,
+   "upstream_inference_completions_cost": 1.326816e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nbelieve son [?1] only_one [?2] and one\n[?3] be_saved a) [?4] be_damned say\n[?5] Nicodemus [?6] [?7] go father [?8] God heaven\nlove [?9] this [?10] judge [?11] [?7] go [?12] [?13] [?9]\nthis [?14] be_saved [?15] die and [?16] exist [?7]\nbelieve this [?3] exist and [?8] [?12]\nbelieve [?17] this [?18] one God say [?5] [?19]\none [?20] among you [?21] from\ndog and [?22] [?23] [?24] not and say\n[?5] and [?25] [?26] among you\n"
+}

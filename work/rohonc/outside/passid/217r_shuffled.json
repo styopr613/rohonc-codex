@@ -1,0 +1,29 @@
+{
+ "folio": "217r",
+ "cond": "shuffled",
+ "reply": "```json\n{\n  \"book\": \"John\",\n  \"chapter\": 9,\n  \"verses\": \"1-41\",\n  \"confidence\": 0.85\n}\n```",
+ "usage": {
+  "prompt_tokens": 444,
+  "completion_tokens": 39,
+  "total_tokens": 483,
+  "cost": 0.00013026,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00013026,
+   "upstream_inference_prompt_cost": 0.00011544,
+   "upstream_inference_completions_cost": 1.482e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\n[?1] <man_suffering_from_some_kind_of_illness> [?2] announce Cedron appear [?3]\n[?4] [?5] <man_suffering_from_some_kind_of_illness> [?2] pigman\n[?6] [?7] [?8] alms be_deified take_off\n[?9] [?10] pigman [?11] <man_suffering_from_some_kind_of_illness> be_born contain\n[?12] <man_suffering_from_some_kind_of_illness> nine contain basket cover [?13] not_far <man_suffering_from_some_kind_of_illness> be_born contain\n<man_suffering_from_some_kind_of_illness> [?2] pigman [?6] [?14] alms take_off be_deified\nbasket pigman [?15] [?16] [?17] black alms\nget_frightened parable new [?18] call Judas apostle <Christian_or_related_church_or_denomination>\nhaughtily tablet <man_suffering_from_some_kind_of_illness> misery <Christian_or_related_church_or_denomination> [?16] <man_suffering_from_some_kind_of_illness> call\n"
+}

@@ -1,0 +1,29 @@
+{
+ "folio": "025r",
+ "cond": "shuffled",
+ "reply": "{\n  \"book\": \"null\",\n  \"chapter\": null,\n  \"verses\": null,\n  \"confidence\": 0.1\n}",
+ "usage": {
+  "prompt_tokens": 464,
+  "completion_tokens": 32,
+  "total_tokens": 496,
+  "cost": 0.000248,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.000248,
+   "upstream_inference_prompt_cost": 0.0002,
+   "upstream_inference_completions_cost": 4.8e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nfather chorus [?1] [?2] get_frightened baked generation basket cover\n[?2] alms yoke golden brother nine [?2] alms cover\n[?3] [?4] <man_suffering_from_some_kind_of_illness> [?5] nine alms [?6] brother\n[?5] donate but <Christian_or_related_church_or_denomination> Philip [?2]\n[?7] rain elongate_one’s_life <Christian_or_related_church_or_denomination> misery but baked <man_suffering_from_some_kind_of_illness> [?8]\nfather chorus [?9] <Christian_or_related_church_or_denomination> baked wedding <name_of_a_prophet> [?10] baked battle\n[?11] [?12] scaffold [?11] be_born rain [?13] baked cultivate\n[?2] search do_not [?14] baked battle [?15] Carmel.\ndog [?5] baked nine Philip [?2] <man_suffering_from_some_kind_of_illness> back.\nCarmel [?16] <man_suffering_from_some_kind_of_illness> be_born [?17] fresh father chorus [?1]\n[?2] get_frightened baked generation basket Augustus fresh [?18]\nfresh misery [?2] buy [?19] [?2]\ncan_not basket [?5] [?2] night altar-bread\n"
+}

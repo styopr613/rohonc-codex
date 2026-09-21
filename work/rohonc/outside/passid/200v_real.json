@@ -1,0 +1,29 @@
+{
+ "folio": "200v",
+ "cond": "real",
+ "reply": "{\n  \"book\": \"Luke\",\n  \"chapter\": 15,\n  \"verses\": \"11-32\",\n  \"confidence\": 0.8\n}",
+ "usage": {
+  "prompt_tokens": 302,
+  "completion_tokens": 36,
+  "total_tokens": 338,
+  "cost": 0.000173,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.000173,
+   "upstream_inference_prompt_cost": 0.000119,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\neach,_every die and [?1] [?2] son this [?3] say this son\n[?4] have [?5] lease Lord grab\nand [?6] [?4] see and go and son.\n[?7] [?8] [?9] son from [?10]\n[?11] [?12] [?13] [?14] and this\nson exist [?12] carry [?8] [?15]\n[?16] and [?17] [?18] and son [?19] and\n[?20] exist [?21] [?22] and Jew(ish) head\nhow? [?23] speak [?24] and [?25] say [?24] parable\n"
+}

@@ -1,0 +1,29 @@
+{
+ "folio": "069v",
+ "cond": "shuffled",
+ "reply": "```json\n{\n  \"book\": \"Luke\",\n  \"chapter\": 14,\n  \"verses\": \"12-24\",\n  \"confidence\": 0.85\n}\n```",
+ "usage": {
+  "prompt_tokens": 431,
+  "completion_tokens": 40,
+  "total_tokens": 471,
+  "cost": 0.00015426,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 64,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00015426,
+   "upstream_inference_prompt_cost": 0.00011586,
+   "upstream_inference_completions_cost": 3.84e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\ndinner new Judas Elizabeth dog nine\n[?1] [?2] dinner buy [?3] be_born [?4]\n[?5] dog [?6] [?7] [?8]\n[?9] finger be_born hire_oneself_out dog [?7] <the_name_of_the_centurion_in_Capharnaum>\nback [?10] [?11] [?12] <man_suffering_from_some_kind_of_illness> <Christian_or_related_church_or_denomination> cover\nalms [?13] heart <man_suffering_from_some_kind_of_illness> [?14] cover\nalms [?15] [?11] [?12] <name_of_a_prophet> [?2] tax_collector wedding\nrain baked be_born [?16] battle <name_of_a_prophet> [?17]\nafter cup [?14] Judas [?18] metaphoric\nrain <man_suffering_from_some_kind_of_illness> <Christian_or_related_church_or_denomination> cover [?2] [?19] [?20] neighbor\n<Christian_or_related_church_or_denomination> cover alms [?21] heart <man_suffering_from_some_kind_of_illness> [?14]\n"
+}

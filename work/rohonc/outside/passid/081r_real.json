@@ -1,0 +1,29 @@
+{
+ "folio": "081r",
+ "cond": "real",
+ "reply": "{\n  \"book\": \"John\",\n  \"chapter\": 8,\n  \"verses\": \"39-44\",\n  \"confidence\": 0.8\n}",
+ "usage": {
+  "prompt_tokens": 318,
+  "completion_tokens": 36,
+  "total_tokens": 354,
+  "cost": 0.000181,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.000181,
+   "upstream_inference_prompt_cost": 0.000127,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\n[?1] wife [?2] [?3] speak understand apostle [?4]\nfrom [?5] go [?6] [?7] Peter [?8] this\nexist [?9] [?10] [?11] [?12] from [?5]\ngo [?6] father Abraham and Abraham\nspirit go [?13] understand spirit\nand [?14] [?15] go [?16] say say [?17] [?12] [?18]\n[?19] from [?5] go [?18] [?20] [?6]\nand [?18] mother [?9] [?12] how? shape,_form want go\nif go inside [?21] father son [?6]\n[?22] this [?23] [?24] execute [?9] [?12] holy\n"
+}

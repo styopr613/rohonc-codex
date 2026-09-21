@@ -8,6 +8,14 @@ through OpenRouter, temperature 0 -- and asks which chapter the page
 retells. Our notes, our readings and our translation are not in the
 prompt.
 
+READER, changed before any scoring: Test 14's reader, DeepSeek V4 Pro,
+answered these pages with 45-55 thousand thinking tokens each, six
+minutes and twenty cents a page, and stopped at four of forty when the
+key's cap was reached. Those four replies are set aside in
+work/rohonc/outside/passid_v4pro_partial/ and not used. The reader here
+is DeepSeek V3.2 with thinking off, which answers in six seconds. A
+weaker reader is a harder test for the words, not an easier one.
+
   the first 20 folios of Test 14's sample (its REAL arm), rendered in
   K&T's words only, gaps as [?n]; halved from 40 before the run for cost
   CONTROL: the same 40 pages with K&T's glosses shuffled among their
@@ -41,7 +49,8 @@ import ktor
 import kttestlib as TL
 
 SEED = 20260921
-MODEL = B.MODEL
+MODEL = "deepseek/deepseek-v3.2"
+EXTRA = {"reasoning": {"enabled": False}}
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "work", "rohonc", "outside", "passid")
 
 PROMPT = """Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.
@@ -85,7 +94,7 @@ def main(argv):
                 pass
             os.remove(path)          # an empty reply (thinking budget spent) is fetched again
         if not os.path.exists(path):
-            txt, usage = ktor.ask(MODEL, prompt)
+            txt, usage = ktor.ask(MODEL, prompt, extra=EXTRA)
             json.dump({"folio": f, "cond": cond, "reply": txt, "usage": usage, "prompt": prompt},
                       open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 

@@ -449,15 +449,35 @@ agreement figure is reported as that.
 
 ## Test 15 — passage identification by an outside reader
 
-`harness/ktpassid2.py` · `work/rohonc/outside/passid/`
+`harness/ktpassid2.py` · `work/rohonc/ktpassid2.txt` ·
+`work/rohonc/outside/passid/` (every prompt and reply, raw)
 
-Declared and started: the first twenty folios of Test 14's sample in
-K&T's words only, the reader asked which chapter of the Bible each page
-retells, against the same pages with K&T's glosses shuffled. Bar: real
-beats shuffled at p < 0.01 and real chapter hits at least 25%. Four of
-forty calls returned before the OpenRouter key reached its monthly cap.
-Not scored. It resumes when the cap is raised; the four replies on disk
-are kept and the rest fetched.
+Gemini's first ask: someone independent identifies what each folio
+retells, from the dictionary alone. The first twenty folios of Test 14's
+sample, in K&T's words only, gaps as numbered blanks, and the reader asked
+which chapter of the Bible the page retells. Control: the same twenty
+pages with K&T's glosses shuffled among their signs. Halved from forty
+before the run for cost. The reader was changed before any scoring:
+Test 14's model took six minutes and twenty cents a page here and reached
+four of forty before the key's cap; those replies are set aside unused
+and the reader is DeepSeek V3.2 with thinking off, which is a weaker
+reader and so a harder test.
+
+    condition    chapter named is a cited chapter    book is a cited book
+    real                  9 / 20   45%                   13 / 20   65%
+    shuffled              0 / 20    0%                    3 / 20   15%
+
+    discordant folios: real-only 9, shuffled-only 0, sign test p = 0.002
+    Test 11's bag of stems over all 298 folios: top-1 12.4%
+    cost $0.007
+
+    BAR: p < 0.01 and real chapter hits >= 25%    PASS
+
+From K&T's words alone a reader who knows the Bible names the cited
+chapter on nine pages of twenty and the cited book on thirteen; from the
+same words on the wrong signs, never the chapter. Of the misses, four
+name the parallel telling of the same event, John 18 for Matthew 27,
+Mark 5 for Matthew 9, Acts 7 for Acts 6, and are counted as misses.
 
 ## Summary
 
@@ -478,7 +498,7 @@ are kept and the rest fetched.
              outside re-glossers                  68% and 71% agree with ours   PASS
     Test 13  underdetermination census            rivals 64.9%   FAIL; 0 of 94 readings satisfy the rule censused
     Test 14  blind rotated run, outside reader     rotated 0 fills, 0 matches; real 3.8 fills/page, 13/18   PASS
-    Test 15  passage identification, outside reader   started, blocked on the key cap, not scored
+    Test 15  passage identification, outside reader   chapter 9/20 vs 0/20 shuffled, p 0.002   PASS
 
 Where that leaves the 670 tier A/B readings. The passage map survives
 without them (Test 11), so Tests 1, 6 and 9 keep their target and their

@@ -1,0 +1,29 @@
+{
+ "folio": "096v",
+ "cond": "shuffled",
+ "reply": "{\"book\": \"Luke\", \"chapter\": 16, \"verses\": \"19-31\", \"confidence\": 0.9}",
+ "usage": {
+  "prompt_tokens": 461,
+  "completion_tokens": 29,
+  "total_tokens": 490,
+  "cost": 0.00013088,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00013088,
+   "upstream_inference_prompt_cost": 0.00011986,
+   "upstream_inference_completions_cost": 1.102e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nJudas who? from_the_two_of_them alms language basket ill [?1]\nten [?2] [?3] tower new <name_of_a_church_father> [?4] bosom\n[?5] [?6] [?7] <man_suffering_from_some_kind_of_illness> <Christian_or_related_church_or_denomination> cover be_born [?1] from_the_two_of_them\nneighbor <Christian_or_related_church_or_denomination> cover ten [?8] [?8] Lazarus\n<man_suffering_from_some_kind_of_illness> [?9] be_born tower [?10] [?9] nine\nrain neighbor [?11] [?12] [?6] [?7] <man_suffering_from_some_kind_of_illness> [?9]\n[?13] [?14] [?15] <man_suffering_from_some_kind_of_illness> <Christian_or_related_church_or_denomination> cover rain.\nslide neighbor <Christian_or_related_church_or_denomination> cover [?16] ten [?8]\n[?8] [?17] <man_suffering_from_some_kind_of_illness> <Christian_or_related_church_or_denomination> cover\nalms [?18] heart <man_suffering_from_some_kind_of_illness> [?9] cover\n"
+}

@@ -1,0 +1,29 @@
+{
+ "folio": "171v",
+ "cond": "real",
+ "reply": "{\n  \"book\": \"Mark\",\n  \"chapter\": 5,\n  \"verses\": \"21-43\",\n  \"confidence\": 0.9\n}",
+ "usage": {
+  "prompt_tokens": 280,
+  "completion_tokens": 36,
+  "total_tokens": 316,
+  "cost": 0.000162,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.000162,
+   "upstream_inference_prompt_cost": 0.000108,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nwoman [?1] believe [?2] do,\n[?3] say [?4] [?5] [?6] [?7] a)\nsay [?4] [?6] [?1] believe healing\ndo, and [?8]\n[?9] this head house and [?10]\n[?11] [?12] and see\n[?4] many sad(ly) [?13] [?4] [?14]\nexist this daughter [?15] [?16] [?17] and [?18]\n[?9] laugh [?4] [?13] [?9] see love this\n"
+}

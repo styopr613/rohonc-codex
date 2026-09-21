@@ -1,0 +1,29 @@
+{
+ "folio": "025r",
+ "cond": "real",
+ "reply": "{\n  \"book\": \"Luke\",\n  \"chapter\": 17,\n  \"verses\": \"11-19\",\n  \"confidence\": 0.7\n}",
+ "usage": {
+  "prompt_tokens": 371,
+  "completion_tokens": 36,
+  "total_tokens": 407,
+  "cost": 0.0002075,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0002075,
+   "upstream_inference_prompt_cost": 0.0001535,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nhell evil [?1] [?2] righteous(ly) son God because exist\n[?2] inside thirty year time go [?2] inside exist\n[?3] [?4] and [?5] go inside [?6] time\n[?5] kneel_(down) one somebody before [?2]\n[?7] Lord mouth somebody have one son and [?8]\nhell evil [?9] somebody son <preposition_of_genitive> apostle [?10] son can\n[?11] [?12] ask_(for) [?11] this Lord [?13] son say\n[?2] have_mercy gain [?14] son can [?15] healing.\nand [?5] son go before [?2] and way.\nhealing [?16] and this [?17] confess hell evil [?1]\n[?2] righteous(ly) son God because miracle confess [?18]\nconfess have [?2] angel [?19] [?2]\nChrist because [?5] [?2] be_born Bethlehem\n"
+}

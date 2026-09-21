@@ -1,0 +1,29 @@
+{
+ "folio": "190v",
+ "cond": "shuffled",
+ "reply": "{\n  \"book\": \"Luke\",\n  \"chapter\": 16,\n  \"verses\": \"19-31\",\n  \"confidence\": 0.8\n}",
+ "usage": {
+  "prompt_tokens": 453,
+  "completion_tokens": 36,
+  "total_tokens": 489,
+  "cost": 0.0002485,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0002485,
+   "upstream_inference_prompt_cost": 0.0001945,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\n[?1] [?2] alms ill [?3] [?4] [?5] <man_suffering_from_some_kind_of_illness> <name_of_a_prophet> [?3]\n[?6] Creator [?3] deserve alms sponge abandon\nheavenly [?7] [?3] deserve [?8] heavenly away [?9]\n[?3] deserve [?10] [?11] church_father\n[?12] [?13] [?3] deserve two <name_of_a_prophet> gain two\n<name_of_a_prophet> <man_suffering_from_some_kind_of_illness> nine alms ill [?12] alms but [?14] <man_suffering_from_some_kind_of_illness>\n[?15] [?14] cover brook new <name_of_a_prophet> [?16]\n[?17] cover reason dog persecute <man_suffering_from_some_kind_of_illness> [?18] [?19]\n<name_of_a_prophet> [?20] <man_suffering_from_some_kind_of_illness> [?21] <man_suffering_from_some_kind_of_illness> sword [?22] [?23]\nalms ill [?3] [?24] deserve alms be_deified month <name_of_a_prophet> wedding\n"
+}

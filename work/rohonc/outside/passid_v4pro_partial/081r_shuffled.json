@@ -1,23 +1,23 @@
 {
  "folio": "081r",
  "cond": "shuffled",
- "reply": "{\n  \"book\": \"Luke\",\n  \"chapter\": 16,\n  \"verses\": \"19-31\",\n  \"confidence\": 0.8\n}",
+ "reply": "```json\n{\n  \"book\": null,\n  \"chapter\": null,\n  \"verses\": null,\n  \"confidence\": 0.0\n}\n```",
  "usage": {
   "prompt_tokens": 373,
-  "completion_tokens": 36,
-  "total_tokens": 409,
-  "cost": 0.0002085,
+  "completion_tokens": 35,
+  "total_tokens": 408,
+  "cost": 0.0003647,
   "is_byok": false,
   "prompt_tokens_details": {
-   "cached_tokens": 128,
+   "cached_tokens": 0,
    "cache_write_tokens": 0,
    "audio_tokens": 0,
    "video_tokens": 0
   },
   "cost_details": {
-   "upstream_inference_cost": 0.0002085,
-   "upstream_inference_prompt_cost": 0.0001545,
-   "upstream_inference_completions_cost": 5.4e-05
+   "upstream_inference_cost": 0.0003647,
+   "upstream_inference_prompt_cost": 0.0002611,
+   "upstream_inference_completions_cost": 0.0001036
   },
   "completion_tokens_details": {
    "reasoning_tokens": 0,

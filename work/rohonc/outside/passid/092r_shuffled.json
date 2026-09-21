@@ -1,0 +1,29 @@
+{
+ "folio": "092r",
+ "cond": "shuffled",
+ "reply": "```json\n{\n  \"book\": \"Luke\",\n  \"chapter\": 8,\n  \"verses\": \"40-56\",\n  \"confidence\": 0.85\n}\n```",
+ "usage": {
+  "prompt_tokens": 424,
+  "completion_tokens": 40,
+  "total_tokens": 464,
+  "cost": 0.000103818,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.000103818,
+   "upstream_inference_prompt_cost": 9.0948e-05,
+   "upstream_inference_completions_cost": 1.287e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nslide baked [?1] how_much? [?2] <man_suffering_from_some_kind_of_illness> but\n[?3] painful Jairus [?4] where? cultivate\n[?5] Sun [?6] [?7] nine who? [?8] generation grass\nturn_toward [?9] be_born [?10] denarius [?11] [?7] nine [?12] [?13] [?9]\nbe_born [?14] painful [?15] sun <man_suffering_from_some_kind_of_illness> [?16] cover [?7]\nslide be_born [?3] cover <man_suffering_from_some_kind_of_illness> [?8] [?12]\nslide [?17] be_born [?18] but generation cultivate [?5] [?19]\nbut [?20] call Judas [?21] neighbor\npreach <man_suffering_from_some_kind_of_illness> [?22] [?23] [?24] garden <man_suffering_from_some_kind_of_illness> cultivate\n[?5] <man_suffering_from_some_kind_of_illness> [?25] [?26] call Judas\n"
+}

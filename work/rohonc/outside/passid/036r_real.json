@@ -1,0 +1,29 @@
+{
+ "folio": "036r",
+ "cond": "real",
+ "reply": "{\"book\": \"Matthew\", \"chapter\": 27, \"verses\": \"22-26\", \"confidence\": 0.85}",
+ "usage": {
+  "prompt_tokens": 347,
+  "completion_tokens": 30,
+  "total_tokens": 377,
+  "cost": 0.00011946,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 64,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00011946,
+   "upstream_inference_prompt_cost": 9.066e-05,
+   "upstream_inference_completions_cost": 2.88e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\neach,_every Jew(ish) back bow_down [?1] [?2] [?3] [?4]\n[?5] hide_oneself [?6] and [?7] [?4] and <preposition_of_genitive>\nJew(ish) club [?8] inside [?9] because Lord\nJézus pray do, [?10] [?11] to Jew(ish)\npeople and [?3] [?12] and [?13] shout Lord\nJézus [?14] search [?11] Jew(ish)\nand shout Jew(ish) [?15] [?16]\nJézus [?17] and shout [?2] from [?18]\nif Lord search Jew(ish) [?19] shout [?2]\ngrab Jew(ish) Lord because go hour [?11] [?10]\nand [?20] Jew(ish) [?21] Jew(ish) [?2] [?22]\n"
+}

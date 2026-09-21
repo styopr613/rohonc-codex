@@ -1,0 +1,29 @@
+{
+ "folio": "221r",
+ "cond": "real",
+ "reply": "{\n  \"book\": \"Acts\",\n  \"chapter\": 9,\n  \"verses\": \"10-17\",\n  \"confidence\": 0.9\n}",
+ "usage": {
+  "prompt_tokens": 301,
+  "completion_tokens": 36,
+  "total_tokens": 337,
+  "cost": 0.0001725,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0001725,
+   "upstream_inference_prompt_cost": 0.0001185,
+   "upstream_inference_completions_cost": 5.4e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nAnaniah and Paul [?1] and bow_down\n[?2] [?3] [?4] and put Ananiah [?5]\n[?6] [?7] because from Paul [?8] <preposition_of_genitive>\nLord [?6] carry Paul [?9] [?10] [?8] <preposition_of_genitive>\nLord [?6] confess Paul [?11] [?12]\nLord how? exist from Saul [?5] [?13] [?14]\nSaul and Saul [?15] [?5] [?13] through\n[?16] and two say [?17] [?12]\ngo Ananiah [?5] servant inside [?18] [?19]\n"
+}

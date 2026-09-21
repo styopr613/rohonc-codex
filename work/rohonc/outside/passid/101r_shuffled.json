@@ -1,0 +1,29 @@
+{
+ "folio": "101r",
+ "cond": "shuffled",
+ "reply": "{\n  \"book\": \"null\",\n  \"chapter\": null,\n  \"verses\": null,\n  \"confidence\": 0.2\n}",
+ "usage": {
+  "prompt_tokens": 404,
+  "completion_tokens": 32,
+  "total_tokens": 436,
+  "cost": 0.000218,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 128,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.000218,
+   "upstream_inference_prompt_cost": 0.00017,
+   "upstream_inference_completions_cost": 4.8e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nbrother donate [?1] dog Sunday [?2] arrest\ngive <man_suffering_from_some_kind_of_illness> finger generation buy cultivate generation buy [?3]\nbe_born [?4] [?2] <man_suffering_from_some_kind_of_illness> be_born <Christian_or_related_church_or_denomination> [?5]\ndog [?6] [?7] [?8] [?9] dog\n[?6] branch grass [?10] <man_suffering_from_some_kind_of_illness> [?11] [?3]\n<Christian_or_related_church_or_denomination> [?12] [?13] at_home [?3] [?14] Augustine\nchorus [?15] <man_suffering_from_some_kind_of_illness> [?16] [?17] at_home [?3] [?18]\n[?19] [?20] heaven night two [?21] chorus\n<man_suffering_from_some_kind_of_illness> baked [?22] <man_suffering_from_some_kind_of_illness> [?23] chorus cover awake\n"
+}
