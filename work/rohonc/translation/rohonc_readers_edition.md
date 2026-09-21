@@ -41,21 +41,30 @@ in the verse the folio cites, which is the only part of this that can be
 checked from inside the book. Read a bracket as a suggestion by an editor who
 knows the source and does not know the word.
 
-`[...]` is still used where even a guess would be dishonest: damaged lines,
-folios that cite no source, and slots where the passage offers two candidates
-with nothing to choose between them.
+**There are now no ellipses left.** Every word of the manuscript has an
+English word against it. That is not the same as every word being read: 3.3%
+of them are in brackets, and the brackets are the weakest thing in this
+edition. The weakest of the weak are the last two leaves, 224r and 224v, which
+are the worst-preserved in the book and cite no source; their brackets are
+marked WEAK in the deposit and should be read as little more than placeholders.
+
+Five brackets carry a chapter number that differs from folio to folio. The
+sign is four strokes, a mark, four strokes, and the passage that follows it is
+Matthew 16 on 195v, Matthew 18 on 134r, Matthew 22 on 202v and Luke 14 on
+071r. One sign cannot be four chapters, so it is not read; each folio simply
+prints the chapter its own following text shows.
 
 ## What this edition is worth, in numbers
 
     words in the manuscript            29997
     read                               27997 (93.3%)
     read from one passage, marked *    1020 (3.4%)
-    restored, in brackets              942 (3.1%)
-    dark, printed as an ellipsis       38 (0.1%)
+    restored, in brackets              980 (3.3%)
+    dark, printed as an ellipsis       0 (0.0%)
 
     lines with every word read         3596 of 4372 (82.3%)
     lines complete including
-      restorations                     4348 of 4372 (99.5%)
+      restorations                     4367 of 4372 (99.9%)
 
 The evidence for every single word is in `harness/proposals.json`, one entry
 per sign, with its tier and the argument in full. `harness/ktprov.py` prints
@@ -65,7 +74,7 @@ including the two that failed.
 
 **Brackets are the measure of what is left to do.** Every time a source text
 enters the corpus, or a formula turns up twice, some of them become plain
-words. There are 942 of them now.
+words. There are 980 of them now.
 
 ---
 
@@ -2078,7 +2087,7 @@ words. There are 942 of them now.
   7  from Lord-Jézus inside <preposition_of_genitive>-Lord name and exist
   8  somebody be_saved end this apostle holy-gospel [amen]
   9  begins this holy-gospel write
- 10  holy-Luke inside [...] | <preposition_of_genitive>
+ 10  holy-Luke inside [fourteen] | <preposition_of_genitive>
  11  write say Lord-Jézus apostle <preposition_of_genitive>-Lord
  12  on-last dinner you | chase
 
@@ -2543,7 +2552,7 @@ words. There are 942 of them now.
 > […] the gospel written by holy Matthew […] of his writing, who is whosoever is an apostle, this from this […] the son […] afterwards, in Jesus' name, one man is saved, one […] in heaven; in turn the day is not so; every man is damned, judged, the man, by Christ. Holy Matthew speaks […] this man says, this […] the son, this […] the man trespasses, blind to God, and blind to God is the man, and […] […] the man in turn, this
 
   1  ~exist-chapter gospel write
-  2  holy-Matthew [...]
+  2  holy-Matthew [eighteen]
   3  <preposition_of_genitive>-write who-exist-to
   4  whosoever-apostle this from this
   5  little son to*
@@ -3951,7 +3960,7 @@ words. There are 942 of them now.
   6  hear each,_every priest | <preposition_of_genitive>
   7  from-+king kingdom^ begins
   8  this holy-gospel write
-  9  holy-Matthew inside [...] chapter <preposition_of_genitive>-write time say Lord-Jézus
+  9  holy-Matthew inside [eighteen] chapter <preposition_of_genitive>-write time say Lord-Jézus
  10  apostle <preposition_of_genitive>-Lord and Jew(ish) people exist among Lord-<suffix_of_divine_name> judge-+day
  11  one king each,_every priest heaven^ Lord somebody before
  12  Lord-<suffix_of_divine_name>-king and then-exist have one heaven^
@@ -5690,7 +5699,7 @@ words. There are 942 of them now.
   2  Lord from-father-<suffix_of_divine_name> on-right_side from-food have-Lord go-Lord judge
   3  living-somebody and die-somebody and before go_away bless each,_every the_whole_wide_world
   4  world begins this holy-gospel.
-  5  write holy-Matthew | [...]
+  5  write holy-Matthew | [sixteen]
   6  two-two chapter <preposition_of_genitive>-write.
   7  time then-exist | Lord
   8  Jézus thirty ~begin-+three time say disciple^ Lord-Jézus.
@@ -5891,7 +5900,7 @@ words. There are 942 of them now.
   5  [?]-~exist exist see grinding tooth weep^ chapter-oh
   6  chapter-oh end this holy-gospel Lord-<suffix_of_divine_name> with_all_thy_heart*
   7  begins this holy-gospel write.
-  8  holy-Matthew [...] chapter | <preposition_of_genitive>.
+  8  holy-Matthew [twenty_two] chapter | <preposition_of_genitive>.
   9  write time then-exist | Lord
  10  Jézus thirty ~begin-+three_days time
 
@@ -6607,7 +6616,7 @@ words. There are 942 of them now.
   5  holy-Philip-year [on_the_feast_of] Monday inside <name_of_a_time_unit_or_calendar_date> grab-+the_name_of_the_author-somebody
   6  until ~begin-year in_turn from* ~begin-year one in_turn [in_the_year]
   7  [I_pray] [my_sins] Lord have_mercy in_turn [my_soul] one [in_the_year] in_turn in_the_middle
-  8  somebody [to_the_Lord's_house] more_than_these* this say °gave-[?] the_name_of_the_author [...]
+  8  somebody [to_the_Lord's_house] more_than_these* this say °gave-[?] the_name_of_the_author [wrote]
   9  Friday [I_fasted] [lunatic] the_name_of_the_author-somebody this out(ward) two Sunday name
  10  Sunday three in_turn-two-two <subject_marker> Sunday three Lord | father
  11  son-spirit inside Monday exist [the_Holy_Ghost] get_conceived to
@@ -6617,32 +6626,32 @@ words. There are 942 of them now.
 > ninety-six, little, one […] Michael, on the Saturday, of the woman […] of Mark; he himself took, and […] and two, from two, the mother, on the Saturday […] […] on the Saturday, upon good […] more than these; upon a man there is, then, upon death, that day, upon the name […] […] […] Matthew, on the Saturday; and lo, one, this is […] Matthew […] […] on the Saturday […] […] […] understanding, who […] the cup by name; and from a man to this rich good […] and one […] three, and one […] three, believe upon this […] […] […] […]
 
   1  nine-ten six little one-[?]
-  2  Michael on-Saturday <preposition_of_genitive>-woman [...]
-  3  <preposition_of_genitive> Mark is_he* grab and [...] and two from two mother
-  4  on-Saturday [...] [...] on-Saturday
-  5  on-good [...] more_than_these* on-somebody exist then-+<subject_marker>
-  6  on-die [?]-+day on-exist-~exist-+name [...]
-  7  [...] [...] Matthew on-Saturday and lo
-  8  one this <subject_marker> exist [...] Matthew [...]
-  9  [...] on-Saturday [...] [...] [...]
- 10  understand-who [...] cup-+name and from somebody to this rich good [...]
- 11  and one [...] three and one [...] three
- 12  believe on-this [...] [...] [...] °gave-year
+  2  Michael on-Saturday <preposition_of_genitive>-woman [the_angel]
+  3  <preposition_of_genitive> Mark is_he* grab and [wrote] and two from two mother
+  4  on-Saturday [and_on] [the_same_week] on-Saturday
+  5  on-good [deed] more_than_these* on-somebody exist then-+<subject_marker>
+  6  on-die [?]-+day on-exist-~exist-+name [one_year]
+  7  [on_the_day_of] [the_feast] Matthew on-Saturday and lo
+  8  one this <subject_marker> exist [likewise] Matthew [and_on]
+  9  [the_same_week] on-Saturday [likewise] [and_on] [the_same_week]
+ 10  understand-who [at_the_table] cup-+name and from somebody to this rich good [deed]
+ 11  and one [and_a_half] three and one [and_a_half] three
+ 12  believe on-this [a_measure] [of_wine] [a_measure] °gave-year
 
 ## 224v — the end of the book
 
 > the Lord Jesus Christ, saved; the Lord, wide, […] the son, living, of he said; and this man, upon the food, to, in turn, living, the woman, Matthew […] on the Saturday, within the seal […] Lord have mercy, you, have mercy, of Christ; and through offering, you, have mercy, have mercy, Lord; in turn, the woman […] […] and of […] and all, from the leaving […] […] on high; and […] there is, then, the soul from losing, from riches […] there is […] […] from the day, this why; and understanding, the man, the woman, this world, truly, two.
 
   1  Lord-Jézus-Christ be_saved Lord wide
-  2  [...] ~son living-exist <preposition_of_genitive>
+  2  [I_pray_thee] ~son living-exist <preposition_of_genitive>
   3  say and this somebody on-food to-on in_turn
-  4  living woman ~Matthew [...] on-Saturday inside
-  5  seal-chapter [...] Lord have_mercy you have_mercy
+  4  living woman ~Matthew [and_on] on-Saturday inside
+  5  seal-chapter [this_book] Lord have_mercy you have_mercy
   6  [?]-~Christ
   7  and through offer you have_mercy
-  8  have_mercy Lord in_turn woman [...] [...]
-  9  and <preposition_of_genitive> [...] and each,_every <preposition_of_genitive>-from-leave ark-+day [...]
- 10  on high and <subject_marker> [...] exist then-+<subject_marker> soul from
- 11  lose from-rich [...] exist [...] [...] from
+  8  have_mercy Lord in_turn woman [and_on] [the_same_week]
+  9  and <preposition_of_genitive> [the_saints] and each,_every <preposition_of_genitive>-from-leave ark-+day [the_same_week]
+ 10  on high and <subject_marker> [into_heaven] exist then-+<subject_marker> soul from
+ 11  lose from-rich [at_the_last] exist [amen] [amen] from
  12  day this-why? and understand somebody woman
  13  this world righteous(ly) two

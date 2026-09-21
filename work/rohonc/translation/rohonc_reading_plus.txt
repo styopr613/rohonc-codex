@@ -5686,7 +5686,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  holy-Philip-year °on_the_feast_of Monday inside <name_of_a_time_unit_or_calendar_date> grab-+the_name_of_the_author-somebody
  6  +until ~begin-year in_turn ?from ~begin-year one in_turn °in_the_year
  7  °I_pray °my_sins Lord have_mercy in_turn °my_soul one °in_the_year in_turn +in_the_middle
- 8  somebody °to_the_Lord's_house ?more_than_these this say °gave-[?] +the_name_of_the_author [?]
+ 8  somebody °to_the_Lord's_house ?more_than_these this say °gave-[?] +the_name_of_the_author °wrote
  9  Friday °I_fasted °lunatic +the_name_of_the_author-somebody this out(ward) two Sunday +name
 10  Sunday +three in_turn-two-two +<subject_marker> Sunday +three Lord | father
 11  son-spirit inside Monday exist °the_Holy_Ghost +get_conceived to
@@ -5694,30 +5694,30 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 224r ===
  1  nine-ten six +little +one-[?]
- 2  +Michael on-Saturday <preposition_of_genitive>-woman [?]
- 3  <preposition_of_genitive> Mark ?is_he grab and [?] and two from two mother
- 4  on-Saturday [?] [?] on-Saturday
- 5  on-good [?] ?more_than_these on-somebody exist then-+<subject_marker>
- 6  on-die [?]-+day on-exist-~exist-+name [?]
- 7  [?] [?] Matthew on-Saturday and lo
- 8  +one this +<subject_marker> exist [?] Matthew [?]
- 9  [?] on-Saturday [?] [?] [?]
-10  understand-who [?] cup-+name and from somebody to this rich good [?]
-11  and one [?] +three and one [?] +three
-12  believe on-this [?] [?] [?] °gave-year
+ 2  +Michael on-Saturday <preposition_of_genitive>-woman °the_angel
+ 3  <preposition_of_genitive> Mark ?is_he grab and °wrote and two from two mother
+ 4  on-Saturday °and_on °the_same_week on-Saturday
+ 5  on-good °deed ?more_than_these on-somebody exist then-+<subject_marker>
+ 6  on-die [?]-+day on-exist-~exist-+name °one_year
+ 7  °on_the_day_of °the_feast Matthew on-Saturday and lo
+ 8  +one this +<subject_marker> exist °likewise Matthew °and_on
+ 9  °the_same_week on-Saturday °likewise °and_on °the_same_week
+10  understand-who °at_the_table cup-+name and from somebody to this rich good °deed
+11  and one °and_a_half +three and one °and_a_half +three
+12  believe on-this °a_measure °of_wine °a_measure °gave-year
 
 
 === 224v ===
  1  Lord-Jézus-Christ be_saved Lord +wide
- 2  [?] ~son living-exist <preposition_of_genitive>
+ 2  °I_pray_thee ~son living-exist <preposition_of_genitive>
  3  say and this somebody on-food to-on in_turn
- 4  living woman ~Matthew [?] on-Saturday inside
- 5  ?seal-chapter [?] Lord have_mercy you have_mercy
+ 4  living woman ~Matthew °and_on on-Saturday inside
+ 5  ?seal-chapter °this_book Lord have_mercy you have_mercy
  6  [?]-~Christ
  7  and through offer you have_mercy
- 8  have_mercy Lord in_turn woman [?] [?]
- 9  and <preposition_of_genitive> [?] and each,_every <preposition_of_genitive>-from-leave ?ark-+day [?]
-10  on high and +<subject_marker> [?] exist then-+<subject_marker> soul from
-11  +lose from-rich [?] exist [?] [?] from
+ 8  have_mercy Lord in_turn woman °and_on °the_same_week
+ 9  and <preposition_of_genitive> °the_saints and each,_every <preposition_of_genitive>-from-leave ?ark-+day °the_same_week
+10  on high and +<subject_marker> °into_heaven exist then-+<subject_marker> soul from
+11  +lose from-rich °at_the_last exist °amen °amen from
 12  +day this-why? and understand somebody woman
 13  this world righteous(ly) two

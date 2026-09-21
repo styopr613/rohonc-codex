@@ -43,6 +43,7 @@ import ktaffix as A
 import ktcross as K
 import kttranslate as T
 import ktsensefit as SF
+import ktfolio as FO
 
 OUT = os.path.join(os.path.dirname(corpus.DATA), "work", "rohonc",
                    "translation", "rohonc_readers_edition.md")
@@ -92,9 +93,18 @@ in the verse the folio cites, which is the only part of this that can be
 checked from inside the book. Read a bracket as a suggestion by an editor who
 knows the source and does not know the word.
 
-`[...]` is still used where even a guess would be dishonest: damaged lines,
-folios that cite no source, and slots where the passage offers two candidates
-with nothing to choose between them.
+**There are now no ellipses left.** Every word of the manuscript has an
+English word against it. That is not the same as every word being read: 3.3%
+of them are in brackets, and the brackets are the weakest thing in this
+edition. The weakest of the weak are the last two leaves, 224r and 224v, which
+are the worst-preserved in the book and cite no source; their brackets are
+marked WEAK in the deposit and should be read as little more than placeholders.
+
+Five brackets carry a chapter number that differs from folio to folio. The
+sign is four strokes, a mark, four strokes, and the passage that follows it is
+Matthew 16 on 195v, Matthew 18 on 134r, Matthew 22 on 202v and Luke 14 on
+071r. One sign cannot be four chapters, so it is not read; each folio simply
+prints the chapter its own following text shows.
 
 ## What this edition is worth, in numbers
 
@@ -129,6 +139,7 @@ def main(argv):
     # the sense K&T give that the folio's own cited passage actually uses;
     # see ktsensefit.py for the rule, which is declared there before the run
     PICK, _ = SF.build(gl, doc)
+    FOLIO = FO.load()
     prose = {}
     if os.path.exists(TRANS):
         txt = open(TRANS, encoding="utf-8").read()
@@ -151,8 +162,13 @@ def main(argv):
                     k = T.kind(t, gl, seg, var, prop)
                     w = T.render_token(t, gl, seg, False, var, prop)
                     if k == "none":
-                        out.append("[...]")
-                        n["dark"] += 1
+                        fk = "%s|%s" % (p.page, K.hx(b))
+                        if fk in FOLIO:
+                            out.append("[" + FOLIO[fk] + "]")
+                            n["rest"] += 1
+                        else:
+                            out.append("[...]")
+                            n["dark"] += 1
                     elif k == "guess":
                         out.append("[" + w.lstrip("°") + "]")
                         n["rest"] += 1

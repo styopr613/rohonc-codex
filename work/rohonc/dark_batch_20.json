@@ -1,0 +1,23 @@
+{
+ "_note": "The last 33, on the two most damaged folios of the manuscript. 224r and 224v are the worst-preserved leaves in the book and cite no source, so these are the weakest guesses in the edition. They are printed because the alternative is an ellipsis, and every one is bracketed.",
+ "4c0": ["wrote", "G", "222v:8 and 224r:3. 222v is the writer's own calendar of his days and carries K&T's 'the name of the author' six times; 224r:3 stands beside Mark. A scribe's verb fits both. WEAK."],
+ "5b37e0": ["the_angel", "G", "224r:2 'MICHAEL on SATURDAY of WOMAN [x]'; Michael is named in the line and K&T gloss a code they cite at 224r02 as the name of an angel. WEAK."],
+ "73b": ["and_on", "G", "224r:4, 224r:8, 224r:9, 224v:4 and 224v:8, five times, always beside a weekday on the two calendar folios. A connective in a list of days. WEAK."],
+ "8122b52b5ae0535": ["the_same_week", "G", "224r:4, 224r:9 twice, 224v:8 and 224v:9, five times on the calendar folios, always beside a weekday. WEAK."],
+ "84a": ["deed", "G", "224r:5 and 224r:10. WEAK."],
+ "060516": ["one_year", "G", "224r:6, after 'on die day on exist name'; the sign opens with K&T's 060 'one'. WEAK."],
+ "6305b2080670": ["on_the_day_of", "G", "224r:7, before Matthew and Saturday. WEAK."],
+ "52073b": ["the_feast", "G", "224r:7, the same line; it shares the root of 73b. WEAK."],
+ "aa4": ["likewise", "G", "224r:8 and 224r:9, both on the calendar folio. WEAK."],
+ "6308aa": ["at_the_table", "G", "224r:10, before 'cup name'. WEAK."],
+ "5200806a2": ["and_a_half", "G", "224r:11, twice in one line in the formula 'and one [x] THREE and one [x] THREE'. A number word in a repeated count. WEAK."],
+ "8a7ae0": ["a_measure", "G", "224r:12, twice in one line. K&T gloss a code they cite here as 'chain, enchain, hitch'. WEAK."],
+ "817": ["of_wine", "G", "224r:12, between the two. WEAK."],
+ "520309862670": ["I_pray_thee", "G", "224v:2, line-initial on the folio whose last lines are a prayer for mercy twice repeated. WEAK."],
+ "b13ae1": ["this_book", "G", "224v:5 'seal-chapter [x] Lord HAVE MERCY you HAVE MERCY'; the closing of the manuscript. WEAK."],
+ "77bae0": ["the_saints", "G", "224v:9. WEAK."],
+ "630003105": ["into_heaven", "G", "224v:10 'on HIGH and [x] exist then SOUL from'. WEAK."],
+ "8d3": ["at_the_last", "G", "224v:11, in the last legible line of the manuscript. WEAK."],
+ "a7c": ["amen", "G", "224v:11, in the last legible line. WEAK."],
+ "a65": ["amen", "G", "224v:11, the last legible word before the closing number. WEAK."]
+}
