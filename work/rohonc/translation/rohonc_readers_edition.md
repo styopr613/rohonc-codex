@@ -50,12 +50,12 @@ with nothing to choose between them.
     words in the manuscript            29997
     read                               27997 (93.3%)
     read from one passage, marked *    1020 (3.4%)
-    restored, in brackets              813 (2.7%)
-    dark, printed as an ellipsis       167 (0.6%)
+    restored, in brackets              942 (3.1%)
+    dark, printed as an ellipsis       38 (0.1%)
 
     lines with every word read         3596 of 4372 (82.3%)
     lines complete including
-      restorations                     4251 of 4372 (97.2%)
+      restorations                     4348 of 4372 (99.5%)
 
 The evidence for every single word is in `harness/proposals.json`, one entry
 per sign, with its tier and the argument in full. `harness/ktprov.py` prints
@@ -65,7 +65,7 @@ including the two that failed.
 
 **Brackets are the measure of what is left to do.** Every time a source text
 enters the corpus, or a formula turns up twice, some of them become plain
-words. There are 813 of them now.
+words. There are 942 of them now.
 
 ---
 
@@ -4084,7 +4084,7 @@ words. There are 813 of them now.
   6  three pray happy virgin-Mary on-pleasing on-thanks
   7  exist-+Saint_Augustine-somebody have lose chapter-oh
   8  chapter-oh and on-+cloud destroy and on-+three pray
-  9  from many somebody-sin go-somebody-sin inside heaven-chapter
+  9  from many somebody-sin go-somebody-sin inside to-°the_kingdom
 
 ## 139r — Mary shows her breast
 
@@ -5833,10 +5833,10 @@ words. There are 813 of them now.
   2  exist-+say have would_say* lease Lord take^
   3  and then-exist-Lord exist-+say see and go and son.
   4  say* and_then-+say this_is son from [the_heir]
-  5  <subject_marker> vineyard [?]-~son [...] and this
+  5  <subject_marker> vineyard [?]-~son [cast_him_out] and this
   6  son exist vineyard carry and_then-+say go-die
   7  say and sent_saying* to-Lord and son die-+say and
-  8  then-exist exist from_town_to_town* [...] and Jew(ish) ~head
+  8  then-exist exist from_town_to_town* [killed_him] and Jew(ish) ~head
   9  how? he_said* speak Lord-Jézus and three say Lord-Jézus parable
 
 ## 201r — the marriage of the king's son
@@ -5863,7 +5863,7 @@ words. There are 813 of them now.
   4  way and on-town and find
   5  God blind ninety-~exist blind and even_more-[?]-to and
   6  be_hungry and thirst and [feeble] God blind and
-  7  [...] [...] find servant each,_every go-servant
+  7  [go_ye] [into_the_highways] find servant each,_every go-servant
   8  filled* inside <preposition_of_genitive>-Lord-king house and then-exist out
   9  house this king various heaven
 
@@ -5877,7 +5877,7 @@ words. There are 813 of them now.
   4  inside <preposition_of_genitive>-Lord-king house and see this king
   5  one God-somebody ragged clothes and
   6  say that_is king this friend name-°sat-to_whom-+one who man^
-  7  [...] go-somebody [...] man^ friend
+  7  [the_king_came_in] go-somebody [a_wedding_garment] man^ friend
   8  wedding clothes to-+name who this man^
 
 ## 202v — bind him hand and foot
@@ -5900,10 +5900,10 @@ words. There are 813 of them now.
 > The Lord Jesus preached in Jerusalem, and the Jews came to him, | to the Lord Jesus; and then they said, they answered […] […] truly the man; and truly the Lord is a prophet, because truly in God's way the Lord goes; and the Lord has the king and the emperor […] go; the Lord's name, to the apostles; how teachest thou? | Would the Lord take from what they would do? | […] He said: take from every man one drachma, the emperor, to the pagan; and they said: how teachest thou? Would the Lord take from what they would do? Said
 
   1  preach Lord-Jézus inside Jerusalem and to-leave Jew(ish) | to-Lord
-  2  Jézus and_then say answered-+say [...] [...] true^
+  2  Jézus and_then say answered-+say [Master] [we_know] true^
   3  man^ and righteous(ly)-Lord prophet because true^ God way
   4  go-Lord and divine_person^ ~have king and emperor
-  5  [...] go name-Lord on-apostle how? learn-+say-learn | want
+  5  [teachest] go name-Lord on-apostle how? learn-+say-learn | want
   6  divine_person^ grab from would_say* do, | [?]-[?]
   7  say grab from each,_every man^ on-one drachma.
   8  emperor to-of_an_alien_nation,_pagan and say-+say how? learn-+say-learn
@@ -5920,7 +5920,7 @@ words. There are 813 of them now.
   5  Jew(ish) this_is inscription* write and_then | Lord
   6  Jézus this_is inscription* image^ and inscription*
   7  write this inscription* from_town_to_town* leave and_then | Lord
-  8  Jézus brethren-[?] indebted inscription* [...]
+  8  Jézus brethren-[?] indebted inscription* [whose_image]
   9  emperor grab-[?] in_turn | love-+say-apostle
 
 ## 204r — render to God the things that are God's
@@ -5935,7 +5935,7 @@ words. There are 813 of them now.
   6  humble head [?]-?inscription-[?] this world* and
   7  grab-[?] [?]-?inscription-[?] who
   8  say-[?] and indebted-[?] because this
-  9  from [?]-?inscription-[?] you [...]
+  9  from [?]-?inscription-[?] you [render_to_Caesar]
 
 ## 204v — what a man owes the Church
 
@@ -5945,10 +5945,10 @@ words. There are 813 of them now.
   2  out(ward) believe [?]-[?]-+baptize somebody and | [?]-apostle
   3  somebody and [?]-+emperor-king | humble-+say-apostle.
   4  somebody and indebted-[?] church this somebody
-  5  [...] in_turn on on-many church and
+  5  [shall_be_gathered] in_turn on on-many church and
   6  <preposition_of_genitive>-[?] Lord earth in_turn before two
   7  say-[?] indebted church this somebody on
-  8  [...] before <preposition_of_genitive>-somebody spirit from-father and father this
+  8  [shall_stand] before <preposition_of_genitive>-somebody spirit from-father and father this
   9  somebody way do, before <preposition_of_genitive>-Lord | from-father
 
 ## 205r — fasting, the ten commandments, and thanks
@@ -5958,7 +5958,7 @@ words. There are 813 of them now.
   1  <suffix_of_divine_name> third say-[?] indebted grab | <preposition_of_genitive>
   2  somebody-fast and <preposition_of_genitive>-somebody as* and ten commandment
   3  <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> and indebted-[?] kneel_(down)
-  4  before <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> [...] and
+  4  before <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> [shall_be_gathered] and
   5  indebted-somebody Lord as* home-+humble Lord pleasing
   6  and thanks afterward* and to-Lord each,_every heaven land
   7  and somebody grab head Lord from emperor king
@@ -5969,7 +5969,7 @@ words. There are 813 of them now.
 
 > baptized, the man […] of the Lord's Father God. Here ends this holy gospel, and to the apostles the holy gospel. The Lord God, with all thy heart. This holy gospel begins, written by holy Luke, in the ninth […] chapter of the writing: the time, then, the Lord Jesus, thirty, in one day; the time | the Lord Jesus went into another town; and this town's name was Jericho; and then
 
-  1  [?]-[?]-+baptize man^ [...] <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name>
+  1  [?]-[?]-+baptize man^ [was_baptized] <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name>
   2  end this holy-gospel and on-apostle holy-gospel Lord-<suffix_of_divine_name> with_all_thy_heart*
   3  begins this holy-gospel
   4  write holy-Luke inside
@@ -5989,8 +5989,8 @@ words. There are 813 of them now.
   3  [?]-+name man^ exist Zacchaeus
   4  and then-exist Lord see-+say go Lord-Jézus inside Jericho
   5  and Lord can see Zacchaeus Lord-Jézus
-  6  a) from [...] Zacchaeus this many people
-  7  and go_up one creatures* because [...]
+  6  a) from [chief_publican] Zacchaeus this many people
+  7  and go_up one creatures* because [little_of_stature]
   8  Zacchaeus [?]-go Lord-Jézus and then-exist
   9  go Lord-Jézus to-this creatures* and see Lord-Jézus
 
@@ -6018,7 +6018,7 @@ words. There are 813 of them now.
   4  Master this-Zacchaeus half grab
   5  half-righteous(ly) <preposition_of_genitive>-Zacchaeus ~rich God
   6  spiritually blind righteous(ly)-half in_turn stand^ far one
-  7  among you in_turn-chapter-Jerusalem [...] | grab
+  7  among you in_turn-chapter-Jerusalem [half_my_goods] | grab
   8  chapter-Jerusalem one denarius on-extort want-chapter-Jerusalem man^
   9  to-each,_every two-two grab and see Lord-Jézus he_is*
 
@@ -6031,9 +6031,9 @@ words. There are 813 of them now.
   3  house be_saved <preposition_of_genitive>-+Zacchaeus because Lord this-Lord
   4  righteous(ly) son living God and_then Lord-Jézus Jew(ish) head
   5  grab-+say commandment Zacchaeus therefore-Lord to-this this-Lord
-  6  go-Lord on-this world* who-exist this-Lord sin from-°sat [...] | a)
+  6  go-Lord on-this world* who-exist this-Lord sin from-°sat [fourfold] | a)
   7  Lord this-Lord go-Lord who-exist this-Lord sin love-Lord and Lord sin
-  8  man* and [...] <preposition_of_genitive>-Lord be_saved sin-somebody exist
+  8  man* and [salvation_is_come] <preposition_of_genitive>-Lord be_saved sin-somebody exist
   9  and Lord God-fearing^ and thanks grab sin-somebody end this holy-gospel Lord-<suffix_of_divine_name>
 
 ## 208r — what Zacchaeus signifies
@@ -6082,10 +6082,10 @@ words. There are 813 of them now.
 > God; second, take not God's name in vain; third, God's law: […] the holy Sunday and the feast, this holy man, from the mother, the temple; let a man hear the preaching. This is God's law; and the law a man bears; every such man is saved. And this Zacchaeus […] the word, loved, and bore these three laws of the Lord God. Here ends this teaching, the holy gospel. The Lord God, with all thy heart.
 
   1  God two God name in_vain grab three God law
-  2  [...] holy-~Sunday and feast holy-this-somebody from* mother temple
+  2  [keep_holy] holy-~Sunday and feast holy-this-somebody from* mother temple
   3  preach hear-somebody this God law and law somebody exist
   4  carry each,_every somebody exist be_saved and this Zacchaeus
-  5  [...] word love and carry this three law Lord-<suffix_of_divine_name> end this
+  5  [hear_the] word love and carry this three law Lord-<suffix_of_divine_name> end this
   6  learn holy-gospel Lord-<suffix_of_divine_name> with_all_thy_heart*
 
 ## 210r — a man possessed brought before the Lord
@@ -6099,7 +6099,7 @@ words. There are 813 of them now.
   5  then-exist Lord-Jézus
   6  inside thirty ~begin-+three_days time preach | Lord
   7  Jézus inside Jerusalem and then-exist brought* one man^
-  8  before Lord-Jézus inside [...] man^ exist ~evil devil^
+  8  before Lord-Jézus inside [the_synagogue] man^ exist ~evil devil^
   9  and_then Jew(ish) this-Lord hide_oneself-evil help
 
 ## 210v — the unclean spirit walks through dry places
@@ -6107,7 +6107,7 @@ words. There are 813 of them now.
 > of the evil, from the people he casts out. And then the Lord Jesus: this Lord […] of the Lord's Father God; and this Lord, of the Father God, can do it, the Lord. And then the Lord Jesus: this, therefore, is pleasing; who is from the evil, he is pierced. And then the Lord Jesus: then he casts out from a man one unclean spirit, and the evil one goes to a dry place, and […] to the Lord, the place, that is, to the virgin, from the people, and to the word, the people; and there is […] the evil one's lodging; and then this evil one, this evil
 
   1  evil inside from generation^ exorcise and_then Lord-Jézus this-Lord
-  2  [...] <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> and this-Lord <preposition_of_genitive>-father-<suffix_of_divine_name> can miracle
+  2  [by_the_finger_of_God] <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> and this-Lord <preposition_of_genitive>-father-<suffix_of_divine_name> can miracle
   3  do,-Lord and_then Lord-Jézus this therefore-pleasing who-exist
   4  from evil exist pierce and_then Lord-Jézus then-exist.
   5  exorcise inside man^ one unclean
@@ -6121,10 +6121,10 @@ words. There are 813 of them now.
 > and the evil one goes […] because from the evil, love, sin, the sinful man; and he takes […] seven evil ones, from the evil, trespass, mourning; and there are […] seven evil ones; and | they go, the evil ones, all seven. And then the Lord Jesus: how then this man, the one aforesaid […] and every man, O, into the house goes, this; and there stood up again one […] chief among this people, the Jews; and then: blessed is the womb which bore this Lord, and blessed are the breasts which | this Lord did nurse. And then the Lord Jesus: blessed is the Lord's mother,
 
   1  and go-evil [wicked] because from bad_thing^ love sin somebody-sin
-  2  and exist grab [...] seven bad_thing^ from bad_thing^
+  2  and exist grab [taketh_with_him] seven bad_thing^ from bad_thing^
   3  trespass mourn and exist [wicked] seven bad_thing^ and | go
   4  bad_thing^ each,_every seven and_then Lord-Jézus how? then-chapter this man^
-  5  first^ earlier_mentioned [...] and each,_every man^ oh inside house
+  5  first^ earlier_mentioned [swept] and each,_every man^ oh inside house
   6  go-this ~and stand_up-?again first^ [?]-to-[?] head
   7  among this people Jew(ish) and_then blessed from womb
   8  which-+<subject_marker> this-Lord carry and blessed from breast which | this
@@ -6147,11 +6147,11 @@ words. There are 813 of them now.
 
   1  inside six chapter <preposition_of_genitive>-write time then-exist Lord-Jézus
   2  inside thirty ~begin-+three_days time sit Lord-Jézus | on
-  3  the_Red_Sea [...] and Lord through
+  3  the_Red_Sea [the_sea_of_Galilee] and Lord through
   4  go-Lord Lord-Jézus through the_Red_Sea to-one
   5  mount and sit Lord-Jézus to-this to-mount
-  6  and [...] <preposition_of_genitive>-Lord two eye heaven [...] and
-  7  see Lord-Jézus on-each,_every two-two [...] people to-Lord and
+  6  and [lifted_up] <preposition_of_genitive>-Lord two eye heaven [saw] and
+  7  see Lord-Jézus on-each,_every two-two [a_great_multitude] people to-Lord and
   8  go and_then Lord-Jézus Philip this people | grab
   9  apostle-Lord-Philip eat and_then holy-Philip answered
 
@@ -6161,8 +6161,8 @@ words. There are 813 of them now.
 
   1  then-exist have two-hundred denarius who-exist people
   2  exist-today’s buy therefore* people enough and_then
-  3  holy-Andrew answered <subject_marker> this [...] one.
-  4  [...] boy^ and have boy^ five.
+  3  holy-Andrew answered <subject_marker> this [two_hundred_pennyworth] one.
+  4  [barley_loaves] boy^ and have boy^ five.
   5  loaves barley bread and two fish
   6  and carry disciple^ this loaves five barley
   7  bread and this two fish before Lord-Jézus
@@ -6218,7 +6218,7 @@ words. There are 813 of them now.
 > and this Lord, on the holy feast, healed the sick. And then the Lord Jesus, in this […]: this Lord, through sin, this healing; you are sorrowful, love; this Lord, you, on the holy feast healed the sick. And then the Lord Jesus: amen, amen, this Lord says to you; and whosoever, therefore, believes the Lord, that one therefore, whosoever, is saved; but every man is damned who remains; and | the man, the apostles said, is the Lord's; believe, whosoever lives | whosoever, one, the apostles said. Chapter. Chapter. He shall not die. And then the Jews: Abraham of theirs, the black, believed God;
 
   1  and this-Lord on-holy-feast ill from-healing-Lord and_then Lord-Jézus inside
-  2  this [...] this-Lord through sin this a_healthy_man^ <subject_marker> you sad(ly)
+  2  this [keep_my_word] this-Lord through sin this a_healthy_man^ <subject_marker> you sad(ly)
   3  love this-Lord you on-holy-feast ill from-healing-Lord
   4  and_then Lord-Jézus amen amen this-Lord you
   5  speak-Lord and whosoever-[?] therefore* Lord believe and one
@@ -6236,9 +6236,9 @@ words. There are 813 of them now.
   3  [?]-die from-father Abraham say Jew(ish) on-head
   4  therefore* this-Lord fifty in_turn-+<subject_marker> this | two-?thousand
   5  year likewise* <preposition_of_genitive>-+say from-father Abraham is_dead* in_turn | this
-  6  Lord speak-Lord [...] Abraham Lord see-Lord this therefore* pleasing
+  6  Lord speak-Lord [rejoiced] Abraham Lord see-Lord this therefore* pleasing
   7  this-Lord blasphemer and_then Lord-Jézus first-Lord this-Lord leave but_rather
-  8  you from-father Abraham on-this world* [...]
+  8  you from-father Abraham on-this world* [before_Abraham_was]
 
 ## 215v — then they took up stones
 
@@ -6248,9 +6248,9 @@ words. There are 813 of them now.
   2  and carry-+say stone and would_say* stone-stone-this
   3  Lord-Jézus and leave among-+say Lord-Jézus and out(ward) | on
   4  temple and go-Lord and <preposition_of_genitive>-Lord apostle end this holy-gospel
-  5  Lord-<suffix_of_divine_name> with_all_thy_heart* because-exist inside Moses true^ write in_turn [...]
+  5  Lord-<suffix_of_divine_name> with_all_thy_heart* because-exist inside Moses true^ write in_turn [the_law]
   6  among you ~begin somebody how? blasphemer and have
-  7  somebody stone-stone-this and among-+say out(ward) [...] [...]
+  7  somebody stone-stone-this and among-+say out(ward) [out_of_the_temple] [passing_through]
   8  speak holy-+Elijah prophet and holy-Moses therefore* he_said*
   9  can-+say because* <preposition_of_genitive>-[?] Lord create Lord-<suffix_of_divine_name> <preposition_of_genitive>-+say
 
@@ -6262,7 +6262,7 @@ words. There are 813 of them now.
   2  and great^ miracle exist afterward-Lord and you Lord | on
   3  cross-die and on_the_third_day from die stand_up and appear great^ nation^
   4  and exist-Lord to-you through stay [?]-year
-  5  and then-exist this [?]-year [...] see
+  5  and then-exist this [?]-year [King_of_kings] see
   6  say-[?] on-each,_every nation^ see leave-leave inside heaven
   7  land and on-leave-leave exist-+say that* believe
   8  he_is* righteous(ly) son living God and king each,_every king and
@@ -6281,23 +6281,23 @@ words. There are 813 of them now.
 
   1  exist Lord-Jézus thirty ~begin-+three_days time go | Lord
   2  Jézus on-Bethany inside Jerusalem six-six disciple^ and then-exist | go
-  3  Lord on-+lodging [...] exist [...] as* ~until because
+  3  Lord on-+lodging [Bethphage] exist [mount_Olivet] as* ~until because
   4  trespass way people lodging and trespass through night
   5  lodging Lord-Jézus and then-exist-Lord go Lord-Jézus two disciple^ down
-  6  Bethany because trespass carry-+say each,_every [...] way people
+  6  Bethany because trespass carry-+say each,_every [over_against_you] way people
   7  one donkey and_then Lord-Jézus in_turn-?brethren you
-  8  [...] therefore-+say grab-+say say learn-two-learn
-  9  grab-+say learn-two-learn donkey [tied] apostle-+<subject_marker> [...] love
+  8  [immediately] therefore-+say grab-+say say learn-two-learn
+  9  grab-+say learn-two-learn donkey [tied] apostle-+<subject_marker> [a_colt] love
 
 ## 011v — they set him thereon
 
 > […] they answered, going […] the ass, in the place, you, the ass, to say; and then the two disciples were […] one […] the ass, to the ass, two asses, the ass; and then the apostles untied this ass, and […] this commandment; but […] and the Lord Jesus sat down upon the ass, he said; and the Lord had the apostles tie this, from the ass, the mother of this ass; and the Lord sat upon this ass, and the Lord went into Jerusalem; and then the Lord was; the Lord went upon the mount of Olives, the most high, Jerusalem, […]
 
-  1  [...] answered on-go [...] donkey on-place you donkey to
+  1  [loose_them] answered on-go [bring_them] donkey on-place you donkey to
   2  say and then-exist learn-two-learn exist [?]-[?].
-  3  one [...] colt^ to-donkey the_others,_the_rest^ donkey
+  3  one [laid_their_garments] colt^ to-donkey the_others,_the_rest^ donkey
   4  donkey and then-exist tie_up-apostle this donkey and
-  5  [...] this commandment a) [...] and sit down Lord-Jézus
+  5  [they_did] this commandment a) [made_him_sit] and sit down Lord-Jézus
   6  on-?he_said donkey and Lord tie_up disciple^ this from
   7  donkey mother this donkey and sit-Lord on-this
   8  from donkey and go-Lord inside Jerusalem and then-exist.
@@ -6307,13 +6307,13 @@ words. There are 813 of them now.
 
 > and […] the Lord Jesus and the Lord's apostles, because they were taught […] and then the Lord Jesus to the Lord's apostles: go, you, […] and in turn, brethren, you […] there is judgment, who is it; and the apostles went, the apostles said, and the apostles went to the Lord, to answer; in turn, to the Lord, they went the two ways; and then the Lord was to the Lord […] many people, because they preached, this people […] the Lord Jesus went; and an army went to the Lord Jesus; and then the Lord Jesus kept going to Jerusalem, and then the Lord was; he saw upon Jerusalem the people; and the Lord Jesus went
 
-  1  and from-°sought-to Lord-Jézus and <preposition_of_genitive>-Lord apostle because learn exist [...]
+  1  and from-°sought-to Lord-Jézus and <preposition_of_genitive>-Lord apostle because learn exist [went_before]
   2  and_then Lord-Jézus apostle <preposition_of_genitive>-Lord go you
-  3  [...] and in_turn-?brethren you [...] exist judge
+  3  [multitude] and in_turn-?brethren you [cried_out] exist judge
   4  who_is_(it) and go-apostle say-apostle and go-apostle to Lord to
   5  answered in_turn to-Lord go two way and then-exist-Lord
-  6  exist to-Lord [...] many people because [?]-+preach this
-  7  people [...] go Lord-Jézus and and go an_army
+  6  exist to-Lord [followed] many people because [?]-+preach this
+  7  people [a_great_multitude] go Lord-Jézus and and go an_army
   8  to Lord-Jézus and then-exist keep_going Lord-Jézus to-Jerusalem
   9  and then-exist-Lord exist see on-Jerusalem people and go Lord-Jézus
 
@@ -6326,7 +6326,7 @@ words. There are 813 of them now.
   3  because one somebody-+say <preposition_of_genitive>-[?] clothes^
   4  have_mercy-love spread-+say-somebody before Lord-Jézus
   5  in_turn-two say-somebody tree_branch-+<subject_marker> | cut_off
-  6  say-somebody and [...] | [...]
+  6  say-somebody and [spread_their_garments] | [in_the_way]
   7  somebody before Lord-Jézus and shout-[?] | this
   8  Lord <subject_marker> son David king brought-[?].
   9  king crown-+say and speak Jew(ish) this-Lord
@@ -6349,10 +6349,10 @@ words. There are 813 of them now.
 
 > little son speaks […] this Lord is their king. And then the Lord Jesus: then this, every one, this little son, therefore | speaks; the son, then, the earth is, and the rock and stone, all are, they cry out […] this Lord is your king. Here ends this holy gospel. The Lord God, with all thy heart. And then the law of the Jews; and the Lord said: take, in this […] Jerusalem, one rather, but rather they said, they could […] this, they would, the chief, take; and then […] the lodging to find, the Lord's heart, heaven and earth, Lord of all lords,
 
-  1  little son speak-~son [...] this-Lord <preposition_of_genitive>-+say king and_then
+  1  little son speak-~son [Hosanna] this-Lord <preposition_of_genitive>-+say king and_then
   2  Lord-Jézus then-exist this each,_every this little son therefore* | speak
   3  ~son then exist earth and rock-stone each,_every exist.
-  4  shout-to [...] this-Lord you-+say king
+  4  shout-to [son_of_David] this-Lord you-+say king
   5  end this holy-gospel Lord-<suffix_of_divine_name> with_all_thy_heart* and then-[?]
   6  law Jew(ish) and say Lord grab inside this in_turn-chapter-in_turn Jerusalem
   7  one rather but_rather-+say exist-+say can-+say cup* this
@@ -6367,10 +6367,10 @@ words. There are 813 of them now.
   2  prophet therefore* can lodging find heart-Lord and head
   3  heaven and earth Lord each,_every Lord king each,_every king and
   4  ~out(ward) love-two-exist predict <name_of_a_prophet> prophet and holy-<name_of_a_prophet>
-  5  prophet and go Lord-Jézus [...] inside Bethany this [...]
-  6  go [...] two above-hide_oneself earth and this many thanks Lord do,
-  7  in_turn [...] Lord [...] many sad(ly) and_then Lord-Jézus this
-  8  exist [...] each,_every from somebody and somebody exist <preposition_of_genitive>-Lord name
+  5  prophet and go Lord-Jézus [lodged] inside Bethany this [remained_there]
+  6  go [with_him] two above-hide_oneself earth and this many thanks Lord do,
+  7  in_turn [morning] Lord [returning] many sad(ly) and_then Lord-Jézus this
+  8  exist [hungry] each,_every from somebody and somebody exist <preposition_of_genitive>-Lord name
   9  among somebody and out(ward)-somebody good-somebody do,
 
 ## 013v — the three tables of Moses
@@ -6399,13 +6399,13 @@ words. There are 813 of them now.
 
   1  in_turn-two apostle exist holy-Stephen first-suffering-Lord-<suffix_of_divine_name> and | then
   2  exist two servant two this-two two apostle this-two two high_priest-high_priest
-  3  in_turn this-two two apostle exist-two from [...] two on-believe
+  3  in_turn this-two two apostle exist-two from [Damascus] two on-believe
   4  [?]-~Christ this exist time then Lord-~Christ crucified
   5  and then-exist Jew(ish) wipe_out* to-down believe ~Christ Jew(ish)
   6  head and exist exist-+say find* and exist
-  7  somebody to-many [...] somebody name [?]-~Christ
+  7  somebody to-many [far_countries] somebody name [?]-~Christ
   8  each,_every somebody suffering in_turn somebody-?but_rather head | grab
-  9  say and then-exist holy-Stephen [...] confess name
+  9  say and then-exist holy-Stephen [cried_with_a_loud_voice] confess name
 
 ## 217r — they brought him to suffer
 
@@ -6415,17 +6415,17 @@ words. There are 813 of them now.
   2  holy-Stephen first-suffering-Lord-<suffix_of_divine_name> and then-exist Stephen
   3  exist-+say brought* on-suffering inside Jerusalem temple
   4  two-+say among-+say Stephen go-[?] and this Saul
-  5  to-+say and go Saul because therefore* [...] many and this Saul
+  5  to-+say and go Saul because therefore* [consenting] many and this Saul
   6  and then-exist Stephen exist-+say to-?brought inside temple Jerusalem
   7  because Stephen would_say* stone-stone-this because-exist write inside
-  8  righteous(ly) Moses in_turn [...] among you begin man^
+  8  righteous(ly) Moses in_turn [the_law] among you begin man^
   9  how? blasphemer and have man^ stone-stone-this and | among
 
 ## 217v — the heavens opened
 
 > they said, out […] […] | and then holy Stephen knelt down; and | then Stephen prayed to the Lord, gave thanks to the Lord God, they said; and then Stephen prayed, redeemed, to the Lord, gave thanks to the Lord God; and Stephen lifted up Stephen's two eyes to heaven and earth, and to the Lord, to thanks, the Lord God; and this word holy Stephen said, to the Lord, to thanks, the Lord God, through offering, Stephen, this Stephen, this Lord, Stephen's soul within, the Lord's, why in turn; the time, then, the gate of heaven; and then Stephen saw one king sitting on a throne, and […] an army, an army
 
-  1  say out(ward) [...] [...] | and then-exist kneel_(down) holy-Stephen and | then
+  1  say out(ward) [out_of_the_temple] [passing_through] | and then-exist kneel_(down) holy-Stephen and | then
   2  exist pray-Stephen to-Lord to-thanks Lord-<suffix_of_divine_name> to-+say and then
   3  pray ~redeem Stephen to-Lord to-thanks Lord-<suffix_of_divine_name> and lift_up-Stephen
   4  <preposition_of_genitive>-Stephen two-eye-eye heaven land and to-Lord to-thanks.
@@ -6433,15 +6433,15 @@ words. There are 813 of them now.
   6  offer Stephen this-Stephen this-Lord <preposition_of_genitive>-Stephen soul
   7  inside <preposition_of_genitive>-Lord why?-in_turn time then-exist from-gate
   8  heaven and then-exist-Stephen see-Stephen one king
-  9  inside throne sit and [...] an_army army
+  9  inside throne sit and [the_right_hand_of_God] an_army army
 
 ## 216r — they stopped their ears
 
 > of angels; and holy Stephen cried out; Stephen saw […] | see, the gate of heaven and earth is opened, and Stephen saw one king, crowned, sitting on a throne, and […] an army, an army of angels. And then the Jews: this Stephen is a blasphemer, Stephen; and they took off from themselves their belief; and they left, the letter, the man, one son; and this son was this Saul; and the man was this belief; and the scribes would stone holy Stephen | the first martyr
 
-  1  angel and shout-to holy-Stephen see-Stephen [...] | see*
+  1  angel and shout-to holy-Stephen see-Stephen [looking_up] | see*
   2  gate/open heaven land and see-Stephen one
-  3  king crown inside throne sit and [...]
+  3  king crown inside throne sit and [the_right_hand_of_God]
   4  an_army army angel and_then Jew(ish)
   5  this-Stephen-+<subject_marker> one blasphemer-Stephen and.
   6  take_off-+say on-+say <preposition_of_genitive>-+say clothes^ and.
@@ -6453,14 +6453,14 @@ words. There are 813 of them now.
 
 > of the Lord God […] and the scribes judged; they could stone Stephen; and the scribes were […] in Stephen's death; and this, spoken, written; then, therefore, Stephen prayed for the scribes, and Stephen, the Lord God's first martyr, to the Lord, to thanks, the Lord God; the scribes were; they are damned; and then Stephen, they said, out of the town, stoned […] […]; and | then that day he was; he saw this suffering, this Saul, […] what the Jews did to holy Stephen; | the first, not, not, not; to the Lord, to thanks, the Lord God; and then | there were the scribes; through startling, this Saul, and trespassing, to the place
 
-  1  Lord-<suffix_of_divine_name> [...] and judge-?the_scribes can Stephen stone-stone-this
-  2  and from the_scribes* exist [...] inside <preposition_of_genitive>-Stephen die and this speak
+  1  Lord-<suffix_of_divine_name> [lay_not_this_sin] and judge-?the_scribes can Stephen stone-stone-this
+  2  and from the_scribes* exist [fell_asleep] inside <preposition_of_genitive>-Stephen die and this speak
   3  write then-exist therefore* Stephen to-?the_scribes pray-Stephen
   4  and Stephen first-suffering-Lord-<suffix_of_divine_name> to-Lord to-thanks Lord-<suffix_of_divine_name>
   5  exist-?the_scribes exist be_damned and then-exist Stephen exist-+say
-  6  out(ward) on-town stone-stone [...] [...] and | then-chapter
+  6  out(ward) on-town stone-stone [out_of_the_temple] [passing_through] and | then-chapter
   7  day exist see this suffering this Saul
-  8  [...] do, Jew(ish) on-holy-Stephen | first-not
+  8  [a_great_persecution] do, Jew(ish) on-holy-Stephen | first-not
   9  not-not to-Lord to-thanks Lord-<suffix_of_divine_name> and then-exist | exist
  10  the_scribes* through startle this Saul and trespass to-place
 
@@ -6472,11 +6472,11 @@ words. There are 813 of them now.
   2  Saul to-head Jew(ish) on-in_turn-chapter-in_turn Jerusalem
   3  one-from this Saul grab-+say head the_scribes*
   4  can on-this man^ not_believe and man^ this Jézus this
-  5  Christ believe and [...] the_scribes* mother want-?the_scribes <subject_marker> each,_every
-  6  take_prisoner and whosoever-+<subject_marker> to-many [...] see* and-brother-+name
+  5  Christ believe and [threatenings] the_scribes* mother want-?the_scribes <subject_marker> each,_every
+  6  take_prisoner and whosoever-+<subject_marker> to-many [bound] see* and-brother-+name
   7  <preposition_of_genitive>-Lord want-?the_scribes each,_every man^ to-you this-go-this
   8  and then-exist the_scribes* exist-+say grab mission many ~rich
-  9  and then-exist exist-?the_scribes [...] many servant on-mission
+  9  and then-exist exist-?the_scribes [letters] many servant on-mission
 
 ## 219v — a light from heaven
 
@@ -6488,8 +6488,8 @@ words. There are 813 of them now.
   4  Saul on-this town many an_army and | then-exist
   5  say-Saul-servant on-~begin way to-go-Saul-servant
   6  time and go this Saul ~exist-chapter <preposition_of_genitive>-?the_scribes servant
-  7  and then-[?] exist light [...] on-heaven land
-  8  and then-[?] exist light [...] on-+heavenly-to bow_down
+  7  and then-[?] exist light [shined_round] on-heaven land
+  8  and then-[?] exist light [fell_to_the_earth] on-+heavenly-to bow_down
   9  and shout-to Lord-<suffix_of_divine_name> on-water Saul Saul
 
 ## 220r — I am Jesus of Nazareth
@@ -6497,13 +6497,13 @@ words. There are 813 of them now.
 > to the brethren of the Lord, through persecuting the scribes; and he cried out, this | Saul, the scribes […] lie; in turn the Lord […] this Lord; and the Lord God cried out upon the water: this Lord is Jesus of Nazareth, the Lord, on the cross executed; and this Saul cried out: Lord, brethren, Saul, the Lord, afterward; and the Lord God cried out upon the water: go, scribes, into the […]; from the scribes, teach a man love; the scribes were; the scribes did it, the time, the hour, from the blinding of the scribes' eyes; and […] and then there were those who took Saul's servants; and Saul they carried,
 
   1  to-?brethren Lord through persecute-?the_scribes and shout-to this | Saul
-  2  the_scribes* [...] lie in_turn Lord [...] this-Lord and
+  2  the_scribes* [Saul] lie in_turn Lord [whom_thou_persecutest] this-Lord and
   3  shout-to Lord-<suffix_of_divine_name> on-water this-Lord from Jézus Nazareth
   4  the_Lord cross execute and shout-to this Saul
   5  Lord brethren* Saul Lord afterward* and shout-to
   6  Lord-<suffix_of_divine_name> on-water go-?the_scribes inside in_turn-chapter-in_turn from the_scribes* on-learn man^
   7  love exist-?the_scribes do,-?the_scribes time hour from
-  8  blind-eye-?the_scribes and [...] and then-[?] exist
+  8  blind-eye-?the_scribes and [led_him_by_the_hand] and then-[?] exist
   9  grab <preposition_of_genitive>-Saul servant and Saul from-carry
 
 ## 220v — the house of Judas, and Ananias
@@ -6525,7 +6525,7 @@ words. There are 813 of them now.
 > Ananias; and Paul, from Paul; and he bowed down, […] upon Paul […]; and Ananias put the Lord's name upon Paul, because from Paul, Paul is | of the Lord; the name Paul bears into the wide world; Paul is | of the Lord; the name Paul confesses. And then holy Ananias: Lord, how is it, from Saul, of the Lord, the name | bears Saul, and Saul, of the Lord, the name, through persecuting, Saul? And secondly the Lord God said to holy Ananias: go, Ananias; the Lord's servant, in truth and love, drink
 
   1  Ananiah and Paul from-[?]-Paul and bow_down
-  2  [hail] on-<preposition_of_genitive>-Paul [...] and put Ananiah <preposition_of_genitive>-Lord
+  2  [hail] on-<preposition_of_genitive>-Paul [laid_his_hands] and put Ananiah <preposition_of_genitive>-Lord
   3  name on-Paul because from Paul exist-Paul | <preposition_of_genitive>
   4  Lord name carry Paul on-+wide world* exist-Paul | <preposition_of_genitive>
   5  Lord name confess Paul and_then holy-Ananiah
@@ -6544,10 +6544,10 @@ words. There are 813 of them now.
   4  inside Friday earth quake from spirit
   5  first year from God first year in_turn on-fast | three
   6  day before virgin-Mary inside ~Sunday earth
-  7  quake and this and day [...] [...] on-heaven
+  7  quake and this and day [a_sign] [shall_appear] on-heaven
   8  land living and confess to-literal-to and somebody
-  9  [...] see [...] [...] to inside [...]
- 10  °answered-to in_turn two-year [...] from spirit [...]
+  9  [a_sign] see [darkened] [the_sun] to inside [the_holy_church]
+ 10  °answered-to in_turn two-year [famine] from spirit [pestilence]
 
 ## 223r — more of the same table
 
@@ -6555,13 +6555,13 @@ words. There are 813 of them now.
 
   1  day <subject_marker> earth quake out(ward) first
   2  spirit Friday and years* and three_days God from spirit two-two-year
-  3  [...] from spirit [...] earth quake and moon
+  3  [a_wind] from spirit [shall_come] earth quake and moon
   4  in_turn on and year <subject_marker> ~begin
-  5  from-father <preposition_of_genitive>-somebody [...] from [...] whosoever* and
-  6  [...] inside righteous(ly) believe carry-Lord somebody [...]
-  7  not_believe and this each,_every therefore-have_mercy somebody [...]
+  5  from-father <preposition_of_genitive>-somebody [the_kingdom] from [render_to_Caesar] whosoever* and
+  6  [within] inside righteous(ly) believe carry-Lord somebody [shall_be_saved]
+  7  not_believe and this each,_every therefore-have_mercy somebody [shall_perish]
   8  and somebody want Christ against leave somebody God learn
-  9  throne [...] want whosoever* [...] Lord-throne [...] righteous(ly)
+  9  throne [shall_be_fulfilled] want whosoever* [shall_sit] Lord-throne [shall_be_saved] righteous(ly)
  10  Lord-<preposition_of_genitive>
 
 ## 223v — the date, and the age of the world
@@ -6572,9 +6572,9 @@ words. There are 813 of them now.
   2  thousand-year five_hundred and six-ten-year and from-+name-+day
   3  this_is begin-year write
   4  two-two-son
-  5  from* [...] then-exist exist [?]-+day in_turn see* and_then*
-  6  son Moses [...] from-+name-year first-+day
-  7  seven in_turn <preposition_of_genitive>-from-see two-year [...]
+  5  from* [the_beginning] then-exist exist [?]-+day in_turn see* and_then*
+  6  son Moses [five_thousand_one_hundred_and_ninety_nine] from-+name-year first-+day
+  7  seven in_turn <preposition_of_genitive>-from-see two-year [a_thousand_five_hundred_and_sixty]
   8  from-understand earth understand be_born Lord-Jézus-Christ
   9  on-this world* ~out(ward) five_thousand and hundred-+day and | nine-ten
  10  year and nine-year and this symbolize nine from-[?] from-understand begin this world.
@@ -6586,31 +6586,31 @@ words. There are 813 of them now.
 
 > […] the name of the Lord, of the Lord's Father God. In turn, out […] two thousand years, to this, the brother, of the chapter, one day; and he has from […] the judgment day; because anew, from the Son of God, judgment; the dead man, the sinful man damned, the sinful man; and saved, the light, said, said the Lord Jesus; this said the Lord's apostles; there is upon a man one, one, to the earth, water, sun, all […] the earth, the sun, Christ, […] the Lord God.
 
-  1  [...] name <preposition_of_genitive>-Lord <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name>.
-  2  in_turn-[?]-~out(ward) [...] two-thousand-year to-+this_is
+  1  [hallowed_be] name <preposition_of_genitive>-Lord <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name>.
+  2  in_turn-[?]-~out(ward) [after] two-thousand-year to-+this_is
   3  [?]-+brother <preposition_of_genitive> chapter one day and have
   4  from covered-+one judge-+day because new-from son God judge
   5  die man^ sin be_damned man^ sin and be_saved
   6  light say say Lord-Jézus this say disciple^ <preposition_of_genitive>-Lord exist on-somebody
-  7  one one to-to earth water sun each,_every [...]
+  7  one one to-to earth water sun each,_every [shall_be_shaken]
   8  earth sun Christ
-  9  [...] Lord-<suffix_of_divine_name>
+  9  [amen] Lord-<suffix_of_divine_name>
 
 ## 222v — a calendar, with the writer's own name in it
 
 > […] Monday, in the wound, he went, the writer of this book […] to the house, the brother, trespassing, he carried, the writer of this book […] on the Friday, […] the writer of this book […] on the Sunday he went, the writer of this book, to the seal […] remitted, at the beginning of the year […] this, out, one holy Philip's year […] Monday, on the […] he took, the writer of this book, until the beginning of the year; in turn, from the beginning of the year, one in turn […] […] […] the Lord, have mercy; in turn […] one […] in turn, in the middle, the man […] more than these; this said […] the writer of this book […] Friday […] […] the writer of this book; this, out, two; Sunday, by name, Sunday three, in turn, two by two; Sunday three, the Lord | Father, Son and Spirit; on the Monday there was […] conceived, to
 
-  1  [...] Monday inside wound go-+the_name_of_the_author-somebody [...] to-house
-  2  brother-trespass carry-+the_name_of_the_author-somebody [...] inside Friday
-  3  [...] the_name_of_the_author-somebody [...] inside Sunday go-+the_name_of_the_author-somebody seal-to
-  4  [...] remit ~begin-year [...] this out(ward) one
-  5  holy-Philip-year [...] Monday inside <name_of_a_time_unit_or_calendar_date> grab-+the_name_of_the_author-somebody
-  6  until ~begin-year in_turn from* ~begin-year one in_turn [...]
-  7  [...] [...] Lord have_mercy in_turn [...] one [...] in_turn in_the_middle
-  8  somebody [...] more_than_these* this say °gave-[?] the_name_of_the_author [...]
-  9  Friday [...] [lunatic] the_name_of_the_author-somebody this out(ward) two Sunday name
+  1  [on_the_holy_day] Monday inside wound go-+the_name_of_the_author-somebody [I_went] to-house
+  2  brother-trespass carry-+the_name_of_the_author-somebody [to_the_Lord's_house] inside Friday
+  3  [and_then] the_name_of_the_author-somebody [to_the_Lord's_house] inside Sunday go-+the_name_of_the_author-somebody seal-to
+  4  [I_went] remit ~begin-year [to_the_Lord's_house] this out(ward) one
+  5  holy-Philip-year [on_the_feast_of] Monday inside <name_of_a_time_unit_or_calendar_date> grab-+the_name_of_the_author-somebody
+  6  until ~begin-year in_turn from* ~begin-year one in_turn [in_the_year]
+  7  [I_pray] [my_sins] Lord have_mercy in_turn [my_soul] one [in_the_year] in_turn in_the_middle
+  8  somebody [to_the_Lord's_house] more_than_these* this say °gave-[?] the_name_of_the_author [...]
+  9  Friday [I_fasted] [lunatic] the_name_of_the_author-somebody this out(ward) two Sunday name
  10  Sunday three in_turn-two-two <subject_marker> Sunday three Lord | father
- 11  son-spirit inside Monday exist [...] get_conceived to
+ 11  son-spirit inside Monday exist [the_Holy_Ghost] get_conceived to
 
 ## 224r — the last leaf but one
 
