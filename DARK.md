@@ -29,6 +29,18 @@ why a guess is tier G, is shown in brackets in the reader's edition, and is
 never counted as read. Guess anyway where the slot demands a word; the
 reader's edition front matter already explains what a bracket is worth.
 
+## The instrument that works best (added after the first seven batches)
+
+**Follow K&T's own citations back into the manuscript.** Their entries cite
+folio and line, including for variant spellings. 398 lines carrying a hole are
+cited somewhere in their dictionary. Where a line has ONE hole and the word
+their entry names is not already rendered elsewhere in that line, their entry
+names the hole, and the reading is tier A -- "proved by K&T citation" -- not a
+guess. This produced 44 readings including eleven tier A. The screen lives in
+the session notes; rebuild it with `ktlook.py --cite` or by indexing every
+`\d{3}[rv]\d{2}` in the raw entries. Check the negative case too: on 36 cited
+lines the named word was already in the line, and those are parked, not used.
+
 ## The tools (run from `harness/`)
 
     python3 ktdark.py dossier          the dossier for every unread sign, queue order

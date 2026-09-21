@@ -528,3 +528,33 @@ accident.
 Both now call one function, `_folios(md)`, with the regex `ktbump` always
 used. The rule: **if a figure is computed in two places, it will eventually
 disagree in one of them. Compute it once and call it twice.**
+
+## The dictionary cites the manuscript, and nobody had followed the citations back
+
+Kiraly & Tokai's entries are not just headword and gloss. They cite the folio
+and line where a word stands, and where a VARIANT spelling of it stands:
+"[var. 065v01, 218v09]", "185r07 Heraclius", "088v11 covered with wounds".
+
+That apparatus points at the manuscript. So it can be run backwards. For every
+line this project could not fully read, ask: does any K&T entry cite this exact
+line? 398 lines with a hole turned out to be cited. Where the line had exactly
+one hole AND the word their entry named was not already rendered somewhere else
+in that line, their entry names the hole.
+
+That produced 44 readings in one afternoon, including eleven at tier A, which
+is the tier reserved for "proved by K&T citation" and had almost never been
+reachable before: holy Anne, in Nain, the aged, fourteen, to Bethany, holy
+Mark, holy James, Heraclius, arrived, confess, exist. None of them is a guess.
+Each is Kiraly & Tokai's own reading of that line, in a spelling the open
+transcription writes differently from their headword.
+
+The rule this teaches: **before guessing what a source leaves dark, check
+whether the source has already answered somewhere else in its own apparatus.**
+The answer had been sitting in the dictionary for six years. It was missed
+because the variant reader keyed on headwords, so a form carrying a prefix --
+871 "holy" in front of Mark, of Anne, of James -- never matched.
+
+The same screen is what says NO, and says it far more often. On 36 of those
+cited lines the word K&T name is already rendered in the line, so their
+citation reaches a different token and cannot fill the hole. Those are parked
+with that written down, not quietly counted.
