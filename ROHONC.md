@@ -1694,6 +1694,84 @@ project's merge claims untestable by anything in the book, the shape of the
 remaining risk is clear enough to state: it is not that the key is wrong, it
 is that particular regions of it are unfalsifiable from the inside.
 
+## Gate 4: held-out rederivation, and a contaminated test
+
+The null control leaves one thing unmeasured, and it is the thing a reviewer
+cares most about: the JUDGMENT step. The tools propose candidates; a reader
+chooses. Nothing scored the reader. There is exactly one ground truth
+available for that -- Kiraly and Tokai's own dictionary -- so `ktrederive.py`
+hides part of it and asks whether the pipeline puts it back. Bars declared
+before the run.
+
+**Gate 4a, mechanical rederivation: FAIL, and at chance in the stratum that
+matters.** 10% of K&T's entries were masked, and for each masked sign the
+candidate set was built exactly as the pipeline builds one -- the folio's
+cited-passage pool minus every word spoken for, plus the glosses of any
+structural neighbours that survived masking. Control: the same with the
+tether cut.
+
+    ALL masked signs                     78 signs
+      true gloss in the candidate set    9.0%   control 4.6%   1.2 sigma
+    NO surviving structural neighbour    56 signs   <- the declared headline
+      true gloss in the candidate set    5.4%   control 4.6%   0.2 sigma
+    with a structural neighbour          22 signs
+      true gloss in the candidate set   18.2%   control 4.5%   2.9 sigma
+
+    top candidate correct, every stratum: 0.0%
+
+The headline stratum was declared in advance to be the one with no structural
+neighbour, because masked K&T signs are not a representative sample of the
+signs still dark: K&T glossed the words that had relatives in their own
+dictionary, and the 826 signs still unread occur once and have none. That
+stratum is at chance. **Mechanically, this pipeline cannot rederive a word it
+has not been given.** That is the same answer `ktguess.py` gave earlier at 5.8%
+presence, now confirmed against known ground truth, and it is why no mass
+guessing has ever been run.
+
+**Gate 4b, the judgment step: the test was INVALID, and the way it failed is
+worth more than the number.** Twenty-five masked signs were written to
+`work/rohonc/rederive_blind.txt` with every occurrence, the chapter and verse
+each folio cites, the surviving pool and any structural neighbours -- and no
+gloss. A reading was committed for each in writing before anything was
+revealed. The declared consequence bands were: 50%+ the judgment step does
+real work; 30-50% tier C means "more likely than not"; 15-30% passage-read
+tier C should become D; under 15% the class should be withdrawn.
+
+It scored **12 of 25, 48%**. And then the split that matters:
+
+    signs whose K&T entry had already been seen
+      in the same working session                 9 of 12    75.0%
+    signs that had not                            3 of 13    23.1%
+
+**A blind test run by a reader who has spent the day reading the dictionary is
+not blind.** Twelve of the twenty-five were signs this session had already
+met -- in a `--taken` check, in a `ktcover` decomposition, in the audit output
+that produced the child/little correction. The contamination was not
+anticipated when the sample was drawn, and it is visible in the result at
+three times the recovery rate. The 48% is therefore discarded. The 23.1% on
+the thirteen clean signs is the only valid estimate in the run, and the
+declared consequence for 15-30% was applied: **69 passage-read tier C readings
+were downgraded to tier D.** No reading was withdrawn and no evidence changed;
+the confidence label now says what it should have said.
+
+Two honest qualifications, both post-hoc and marked as such. The clean subset
+is thirteen signs, so the interval around 23% is very wide. And the scoring
+rule declared in advance -- a shared content stem with K&T's gloss -- is
+strict in a way that punishes the right answer in the wrong English: *pence*
+was scored a miss against their *denarius*, *dip* against *immerge*, *hunger*
+against *be hungry*, *cast out* against *exorcise*. Counting those as hits
+would give 8 of 13. The declared rule was not changed after the fact and the
+23.1% is what stands; the 62% is recorded here only so that a reviewer can see
+both and judge the scoring design, which is the part that deserves criticism.
+
+**What gate 4 settles.** The mechanical pipeline cannot manufacture a reading
+it was not given -- that is now measured against ground truth, not argued. The
+judgment step remains unmeasured, because the only person who could run the
+blind test had already read the answers. That gate is still open and it can
+only be closed by a reader who has not seen the dictionary: a different
+session, or a person. It is the single cheapest external check anyone could
+run on this work.
+
 ## A third transcription from the scans: negative
 
 The pipeline splits each scanned opening at the gutter, finds the lit page

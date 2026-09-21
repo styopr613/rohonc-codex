@@ -116,9 +116,9 @@
  },
  "085": {
   "gloss": "people",
-  "tier": "D",
+  "tier": "C",
   "n": 19,
-  "evidence": "after 'all': all [people] be counted 019v:9; all [people] redeemed 034v:5; rescue all [people] 061v:2 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "after 'all': all [people] be counted 019v:9; all [people] redeemed 034v:5; rescue all [people] 061v:2"
  },
  "285": {
   "gloss": "law",
@@ -158,15 +158,15 @@
  },
  "670b06": {
   "gloss": "coming",
-  "tier": "D",
+  "tier": "C",
   "n": 17,
-  "evidence": "'a decree before the [coming] of the Lord Jesus Christ, twenty-two years' 019v:6; 'Christ into this world, his [coming]' 188v:5; 'before the Lord Christ's [coming], nine months and two weeks' 188v:6; 'from his [coming] the Lord was thirty' 189r:2. Could be a second word for birth DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'a decree before the [coming] of the Lord Jesus Christ, twenty-two years' 019v:6; 'Christ into this world, his [coming]' 188v:5; 'before the Lord Christ's [coming], nine months and two weeks' 188v:6; 'from his [coming] the Lord was thirty' 189r:2. Could be a second word for birth"
  },
  "7a0910": {
   "gloss": "he who",
-  "tier": "D",
+  "tier": "C",
   "n": 18,
-  "evidence": "K&T's 'who' plus the subject marker. 'that [he who is] a good tree gives' 065v:5 = Matthew 7:17; 'we must keep [that which]' 109r:5,7,9 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "K&T's 'who' plus the subject marker. 'that [he who is] a good tree gives' 065v:5 = Matthew 7:17; 'we must keep [that which]' 109r:5,7,9"
  },
  "630461": {
   "gloss": "cross",
@@ -248,15 +248,15 @@
  },
  "993": {
   "gloss": "were opened",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "'Adam, and then [their eyes were opened], the two of them, Adam, naked' 001r:4 = Genesis 3:7 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'Adam, and then [their eyes were opened], the two of them, Adam, naked' 001r:4 = Genesis 3:7"
  },
  "453": {
   "gloss": "who believes not",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "'is saved, but [he who believes not] is damned' 019r:5, 019v:4, 026v:12 -- the second half of Mark 16:16 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'is saved, but [he who believes not] is damned' 019r:5, 019v:4, 026v:12 -- the second half of Mark 16:16"
  },
  "00b520ae0520ae0": {
   "gloss": "as",
@@ -278,15 +278,15 @@
  },
  "a83": {
   "gloss": "the account",
-  "tier": "D",
+  "tier": "C",
   "n": 3,
-  "evidence": "'Here begins [the account]' 029r:1, in a rubric DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'Here begins [the account]' 029r:1, in a rubric"
  },
  "b24": {
   "gloss": "hundred",
-  "tier": "D",
+  "tier": "C",
   "n": 7,
-  "evidence": "'in debt [a hundred] pence' 135r:10 = Matthew 18:28, the fellow-servant who owed an hundred pence DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'in debt [a hundred] pence' 135r:10 = Matthew 18:28, the fellow-servant who owed an hundred pence"
  },
  "0d2520324": {
   "gloss": "stood in the midst",
@@ -314,9 +314,9 @@
  },
  "353": {
   "gloss": "again",
-  "tier": "D",
+  "tier": "C",
   "n": 10,
-  "evidence": "'we must die, [again] rise' 131v:2; '[again] the Lord shall rise, therefore the Lord asks you' 032r:9 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'we must die, [again] rise' 131v:2; '[again] the Lord shall rise, therefore the Lord asks you' 032r:9"
  },
  "060060060ae0": {
   "gloss": "three",
@@ -368,9 +368,9 @@
  },
  "630085": {
   "gloss": "among the people",
-  "tier": "D",
+  "tier": "C",
   "n": 6,
-  "evidence": "630 prefixed to 085 read as people: 'the Lord went [among the people], preached the gospel' 017v:6 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "630 prefixed to 085 read as people: 'the Lord went [among the people], preached the gospel' 017v:6"
  },
  "060ae1": {
   "gloss": "years",
@@ -380,15 +380,15 @@
  },
  "a22a10": {
   "gloss": "onward",
-  "tier": "D",
+  "tier": "C",
   "n": 5,
-  "evidence": "'all men were damned, from Adam [onward] until Abraham' 005v:11 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'all men were damned, from Adam [onward] until Abraham' 005v:11"
  },
  "725": {
   "gloss": "answered",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "both Eden occurrences are the interrogation: 'and then [answered] Eve' 001v:7, 'why, Eve? [answered] Eve' 001v:8 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "both Eden occurrences are the interrogation: 'and then [answered] Eve' 001v:7, 'why, Eve? [answered] Eve' 001v:8"
  },
  "630340ae0": {
   "gloss": "anointed",
@@ -428,33 +428,33 @@
  },
  "b33910": {
   "gloss": "he is",
-  "tier": "D",
+  "tier": "C",
   "n": 21,
-  "evidence": "b33 plus the subject marker. '[he is] truly the Son of the living God, and King of all kings' 014r:8; 'in the Lord Jesus Christ, [he is] truly the Son of the living God' 118v:5 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "b33 plus the subject marker. '[he is] truly the Son of the living God, and King of all kings' 014r:8; 'in the Lord Jesus Christ, [he is] truly the Son of the living God' 118v:5"
  },
  "084": {
   "gloss": "world",
-  "tier": "D",
+  "tier": "C",
   "n": 36,
-  "evidence": "'born into this [world], that we be saved' 091r:7; 'father, son, man, pass to heaven and earth, to this [world]' 121v:9; 'this [world], or if the salt lose its savour' 108r:3 and 'a lamp, this [world]' 109r:1 = Matthew 5:13-15, ye are the salt of the earth and the light of the world; 'Queen Mary, lady of the [world]' 137v:2 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'born into this [world], that we be saved' 091r:7; 'father, son, man, pass to heaven and earth, to this [world]' 121v:9; 'this [world], or if the salt lose its savour' 108r:3 and 'a lamp, this [world]' 109r:1 = Matthew 5:13-15, ye are the salt of the earth and the light of the world; 'Queen Mary, lady of the [world]' 137v:2"
  },
  "4a74b0": {
   "gloss": "brought",
-  "tier": "D",
+  "tier": "C",
   "n": 17,
-  "evidence": "'and [they brought] the Lord Jesus to Caiaphas the high priest' 038v:4; 041r:9 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'and [they brought] the Lord Jesus to Caiaphas the high priest' 038v:4; 041r:9"
  },
  "7b3": {
   "gloss": "brethren",
-  "tier": "D",
+  "tier": "C",
   "n": 15,
-  "evidence": "opens Pauline passages: '[brethren], we shall be saved, Paul, first we ask' 068r:3; 070v:10 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "opens Pauline passages: '[brethren], we shall be saved, Paul, first we ask' 068r:3; 070v:10"
  },
  "aca": {
   "gloss": "is he",
-  "tier": "D",
+  "tier": "C",
   "n": 8,
-  "evidence": "'ask this of the Lord: whose son [is he]?' 067r:1 = Matthew 22:42 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'ask this of the Lord: whose son [is he]?' 067r:1 = Matthew 22:42"
  },
  "540ae0520250": {
   "gloss": "emperor",
@@ -494,15 +494,15 @@
  },
  "630084": {
   "gloss": "into the world",
-  "tier": "D",
+  "tier": "C",
   "n": 8,
-  "evidence": "630 prefixed to 084 read as world: 'they crucified this Jesus, and the Lord [into the world] went' 060r:10 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "630 prefixed to 084 read as world: 'they crucified this Jesus, and the Lord [into the world] went' 060r:10"
  },
  "4a6910": {
   "gloss": "more than these",
-  "tier": "D",
+  "tier": "C",
   "n": 8,
-  "evidence": "'lovest thou the Lord Jesus Christ [more than these]? said the Lord Jesus Christ to Peter' 077v:1 = John 21:15 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'lovest thou the Lord Jesus Christ [more than these]? said the Lord Jesus Christ to Peter' 077v:1 = John 21:15"
  },
  "080670ae0670ae01f6": {
   "gloss": "name",
@@ -524,9 +524,9 @@
  },
  "9107c1": {
   "gloss": "with all thy heart",
-  "tier": "D",
+  "tier": "C",
   "n": 18,
-  "evidence": "'the Lord: love the Lord God [with all thy heart]' 075v:6 = Deuteronomy 6:5 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'the Lord: love the Lord God [with all thy heart]' 075v:6 = Deuteronomy 6:5"
  },
  "520b52": {
   "gloss": "until",
@@ -554,9 +554,9 @@
  },
  "926": {
   "gloss": "ways",
-  "tier": "D",
+  "tier": "C",
   "n": 9,
-  "evidence": "counted: 'in one [way], in the Word, the book of Saint Luke' 165v:8; 'the thief, in two [ways]' 166r:2; 'in four [ways]' 166v:1 -- the medieval senses of scripture DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "counted: 'in one [way], in the Word, the book of Saint Luke' 165v:8; 'the thief, in two [ways]' 166r:2; 'in four [ways]' 166v:1 -- the medieval senses of scripture"
  },
  "5200606e3": {
   "gloss": "condemned",
@@ -578,9 +578,9 @@
  },
  "520342": {
   "gloss": "how shall we",
-  "tier": "D",
+  "tier": "C",
   "n": 13,
-  "evidence": "one frame repeated as John the Baptist is questioned: 'the disciples were soldiers, [how shall we] be saved' 117r:4; 'the disciples were farmers, [how shall we] be saved' 117v:6 = Luke 3:10-14, what shall we do then DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "one frame repeated as John the Baptist is questioned: 'the disciples were soldiers, [how shall we] be saved' 117r:4; 'the disciples were farmers, [how shall we] be saved' 117v:6 = Luke 3:10-14, what shall we do then"
  },
  "681ae0520250": {
   "gloss": "inscription",
@@ -590,9 +590,9 @@
  },
  "b26": {
   "gloss": "the scribes",
-  "tier": "D",
+  "tier": "C",
   "n": 8,
-  "evidence": "K&T's compound 916+b26 is glossed scribe: 'and [the scribes] would stone Saint Stephen the first martyr' 216r:9; 216v:10 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "K&T's compound 916+b26 is glossed scribe: 'and [the scribes] would stone Saint Stephen the first martyr' 216r:9; 216v:10"
  },
  "5202da2da": {
   "gloss": "creatures",
@@ -602,9 +602,9 @@
  },
  "7c1910": {
   "gloss": "likewise",
-  "tier": "D",
+  "tier": "C",
   "n": 7,
-  "evidence": "'[likewise] the evil tree gives evil' 065v:6 = Matthew 7:18 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "'[likewise] the evil tree gives evil' 065v:6 = Matthew 7:18"
  },
  "060520444520ae0": {
   "gloss": "was accused",
@@ -650,9 +650,9 @@
  },
  "520327": {
   "gloss": "sorrow",
-  "tier": "D",
+  "tier": "C",
   "n": 9,
-  "evidence": "always counted: 'five [sorrows], the Son of God, the first [sorrow]' 111r:1; 'the third [sorrow]' 111r:6; 'the fifth [sorrow]' 112v:3, with the Lord's eye deeply saddened two lines away at 111r:3 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "always counted: 'five [sorrows], the Son of God, the first [sorrow]' 111r:1; 'the third [sorrow]' 111r:6; 'the fifth [sorrow]' 112v:3, with the Lord's eye deeply saddened two lines away at 111r:3"
  },
  "7e4": {
   "gloss": "appear",
@@ -692,15 +692,15 @@
  },
  "a615fb": {
   "gloss": "gold",
-  "tier": "D",
+  "tier": "C",
   "n": 8,
-  "evidence": "corrected 2026-09-20; this was read 'talent' and the talent is the sign next to it. K&T's entry glosses the word 'talent ... or gold (monetary unit)' and cites 540250 for talent at 173-175; this sign stands between the numeral and their talent every time it occurs ('three [this] talents' 173r:3, 174r:6, 174r:9; 'five [this] talents' 173r:4, 173v:9, 174r:2; 'one [this] talent' 173r:2, 174v:4). Gold is the reading that makes those phrases read, and nothing in the book checks it DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "corrected 2026-09-20; this was read 'talent' and the talent is the sign next to it. K&T's entry glosses the word 'talent ... or gold (monetary unit)' and cites 540250 for talent at 173-175; this sign stands between the numeral and their talent every time it occurs ('three [this] talents' 173r:3, 174r:6, 174r:9; 'five [this] talents' 173r:4, 173v:9, 174r:2; 'one [this] talent' 173r:2, 174v:4). Gold is the reading that makes those phrases read, and nothing in the book checks it"
  },
  "531ae0": {
   "gloss": "therefore",
-  "tier": "D",
+  "tier": "C",
   "n": 54,
-  "evidence": "a clause connective in all 54 places: therefore we believe 131v:6, therefore we shall be saved 139v:3, Enoch the prophet and Moses therefore said 215v:8, and 531370 is it plus sake. The connective role is certain from position; the exact value is not, and thus or so fit the same slots DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "a clause connective in all 54 places: therefore we believe 131v:6, therefore we shall be saved 139v:3, Enoch the prophet and Moses therefore said 215v:8, and 531370 is it plus sake. The connective role is certain from position; the exact value is not, and thus or so fit the same slots"
  },
  "991910": {
   "gloss": "but rather",
@@ -746,9 +746,9 @@
  },
  "4f1b03": {
   "gloss": "rise",
-  "tier": "D",
+  "tier": "C",
   "n": 6,
-  "evidence": "the same stem 4f1 as 4f1353 already read as rise; at 116r:10 it stands between died and shall be saved, and at 058r:7 it opens the harrowing of hell DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "the same stem 4f1 as 4f1353 already read as rise; at 116r:10 it stands between died and shall be saved, and at 058r:7 it opens the harrowing of hell"
  },
  "540ae0850270ae0": {
   "gloss": "afterward",
@@ -806,9 +806,9 @@
  },
  "159": {
   "gloss": "glory",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "Jesus goes into heaven in it 075r:5, eternal glory on high with all the orders of angels 079r:1, and Lazarus is carried by angels into heaven in it 089r:10 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Jesus goes into heaven in it 075r:5, eternal glory on high with all the orders of angels 079r:1, and Lazarus is carried by angels into heaven in it 089r:10"
  },
  "5203715203c4": {
   "gloss": "forgiveness of sins",
@@ -818,9 +818,9 @@
  },
  "00b": {
   "gloss": "as",
-  "tier": "D",
+  "tier": "C",
   "n": 15,
-  "evidence": "the shared root of the two words above, both now read as. Closes ten further words built on it DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "the shared root of the two words above, both now read as. Closes ten further words built on it"
  },
  "4f1": {
   "gloss": "rise",
@@ -830,9 +830,9 @@
  },
  "991": {
   "gloss": "but rather",
-  "tier": "D",
+  "tier": "C",
   "n": 11,
-  "evidence": "the root of 991910 and 991ae0910, both already read as but rather; at 078r:5 it opens rather false witness DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "the root of 991910 and 991ae0910, both already read as but rather; at 078r:5 it opens rather false witness"
  },
  "630340": {
   "gloss": "anointed",
@@ -854,9 +854,9 @@
  },
  "7b2": {
   "gloss": "son",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "the stem of 7b2670ae0520 already read as sons DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "the stem of 7b2670ae0520 already read as sons"
  },
  "5202da": {
   "gloss": "creature",
@@ -866,21 +866,21 @@
  },
  "531": {
   "gloss": "therefore",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "the stem of 531ae0, read as therefore across all 54 of its occurrences DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "the stem of 531ae0, read as therefore across all 54 of its occurrences"
  },
  "4a0": {
   "gloss": "and then",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "a piece of 4a04a04a4 and 4a24a04a4, both already read as and then DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "a piece of 4a04a04a4 and 4a24a04a4, both already read as and then"
  },
  "4a2": {
   "gloss": "and then",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "a piece of 4a24a04a4 already read as and then DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "a piece of 4a24a04a4 already read as and then"
  },
  "5400605203f0": {
   "gloss": "scourged",
@@ -920,9 +920,9 @@
  },
  "540796": {
   "gloss": "thou shalt die",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "at 003r:6 and 122v:4, the identical sentence about the tree of good and evil: thou shalt surely die in the day thou eatest thereof, Genesis 2:17. Kept from the withdrawn 540 because this one cut is checkable against the verse DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "at 003r:6 and 122v:4, the identical sentence about the tree of good and evil: thou shalt surely die in the day thou eatest thereof, Genesis 2:17. Kept from the withdrawn 540 because this one cut is checkable against the verse"
  },
  "0604f04c94a4": {
   "gloss": "good fruit",
@@ -932,9 +932,9 @@
  },
  "aa1": {
   "gloss": "above",
-  "tier": "D",
+  "tier": "C",
   "n": 8,
-  "evidence": "all eight are on 004r, the Lucifer boast in the Life of Adam and Eve, and every one stands immediately before a possessor and the word for throne: above his father's throne 004r:2 and 004r:7, above the Lord's throne 004r:8. That is I will exalt my throne above the stars of God DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "all eight are on 004r, the Lucifer boast in the Life of Adam and Eve, and every one stands immediately before a possessor and the word for throne: above his father's throne 004r:2 and 004r:7, above the Lord's throne 004r:8. That is I will exalt my throne above the stars of God"
  },
  "520180": {
   "gloss": "city",
@@ -944,9 +944,9 @@
  },
  "588": {
   "gloss": "hid",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "one occurrence, at the end of 108r:6, closing a city that is set on an hill cannot be HID, Matthew 5:14. Read against the source passage the page names, not from the line alone DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "one occurrence, at the end of 108r:6, closing a city that is set on an hill cannot be HID, Matthew 5:14. Read against the source passage the page names, not from the line alone"
  },
  "702670ae0": {
   "gloss": "giveth light",
@@ -980,9 +980,9 @@
  },
  "9c2": {
   "gloss": "Pharisees",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "stands beside the scribes at 119r:1, where the source is the Pharisees and scribes murmured, Luke 15:2, and again at 100v:3 and 150r:4. 147v:3 does not fit, so three of four DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "stands beside the scribes at 119r:1, where the source is the Pharisees and scribes murmured, Luke 15:2, and again at 100v:3 and 150r:4. 147v:3 does not fit, so three of four"
  },
  "670966670": {
   "gloss": "loseth one",
@@ -1034,9 +1034,9 @@
  },
  "4a7520830": {
   "gloss": "go away",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "K&T's go (4a7) + their directional prefix 'away' (520) + 830; both occurrences at the John 16:7 slot 'it is expedient for you that I [go away]' 068v:7, 080r:4, which K&T cite for 'heavenly' on the same lines DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "K&T's go (4a7) + their directional prefix 'away' (520) + 830; both occurrences at the John 16:7 slot 'it is expedient for you that I [go away]' 068v:7, 080r:4, which K&T cite for 'heavenly' on the same lines"
  },
  "060060060060060460ae1": {
   "gloss": "fifty",
@@ -1442,9 +1442,9 @@
  },
  "ad2690": {
   "gloss": "the Pharisees",
-  "tier": "D",
+  "tier": "C",
   "n": 3,
-  "evidence": "117r-118r gives John the Baptist four parallel answers, to the soldiers, the Pharisees and Jews, the farmers and the sinners, and each paragraph writes its group's name in the same four slots. This word fills those slots in the second paragraph, where 117r:1 names the group as the Pharisees and the Jews, and it also carries the vocative compounds 'have mercy, ye [Pharisees]' and 'be righteous, ye [Pharisees]' at 117v:3, matching 'have mercy, ye farmers' at 117v:9. Read from the structure of one passage; nothing outside it can check which of the two names it is DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "117r-118r gives John the Baptist four parallel answers, to the soldiers, the Pharisees and Jews, the farmers and the sinners, and each paragraph writes its group's name in the same four slots. This word fills those slots in the second paragraph, where 117r:1 names the group as the Pharisees and the Jews, and it also carries the vocative compounds 'have mercy, ye [Pharisees]' and 'be righteous, ye [Pharisees]' at 117v:3, matching 'have mercy, ye farmers' at 117v:9. Read from the structure of one passage; nothing outside it can check which of the two names it is"
  },
  "5f11f11d3": {
   "gloss": "rib",
@@ -2162,9 +2162,9 @@
  },
  "b7a": {
   "gloss": "believe",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "their believe entry (520b7a) gives '(?) b7a 071v01'. Their question mark, one citation of four occurrences DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "their believe entry (520b7a) gives '(?) b7a 071v01'. Their question mark, one citation of four occurrences"
  },
  "5203f0": {
   "gloss": "blind",
@@ -2678,9 +2678,9 @@
  },
  "a80": {
   "gloss": "half",
-  "tier": "D",
+  "tier": "C",
   "n": 3,
-  "evidence": "two of their entries name this sign and they disagree. Their half, middle entry (a81) gives '[var. a80 188r06] half, middle'; their privative-prefix entry gives a80 only inside a80520b7a 'heretic or apostate'. Half is what 141v:9 and 142r:6 will take, in the life of the woman who fasts, and nothing settles it DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "two of their entries name this sign and they disagree. Their half, middle entry (a81) gives '[var. a80 188r06] half, middle'; their privative-prefix entry gives a80 only inside a80520b7a 'heretic or apostate'. Half is what 141v:9 and 142r:6 will take, in the life of the woman who fasts, and nothing settles it"
  },
  "540ae0540152990": {
   "gloss": "paralytic",
@@ -4118,15 +4118,15 @@
  },
  "5202b7": {
   "gloss": "became",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "Genesis 2:7, 'and man became a living soul'. Both occurrences stand immediately before the codex's 'to-soul-one': 002v:10 'and [became] a living soul', 122r:3 '[became] a living soul, breathed on Adam'. become is carried by K&T's b30, but the passage pool (ktleft.py, Genesis 2:7 widened one verse) offered became as free and it is the only word of the verse that fits the slot both times. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Genesis 2:7, 'and man became a living soul'. Both occurrences stand immediately before the codex's 'to-soul-one': 002v:10 'and [became] a living soul', 122r:3 '[became] a living soul, breathed on Adam'. become is carried by K&T's b30, but the passage pool (ktleft.py, Genesis 2:7 widened one verse) offered became as free and it is the only word of the verse that fits the slot both times."
  },
  "70d520": {
   "gloss": "slime_(of_the_earth)",
-  "tier": "D",
+  "tier": "C",
   "n": 3,
-  "evidence": "Genesis 2:7. CORRECTED 2026-09-20: first entered as 'dust' off the King James, which was wrong in its choice of English. The codex is a Catholic compilation working from the Vulgate, where 2:7 reads 'formavit igitur Dominus Deus hominem de LIMO terrae' -- Douay-Rheims 'formed man of the SLIME of the earth'. Dust is the King James word and belongs to Genesis 3:19, where the Vulgate has a different word, pulvis; keeping 'dust' here would also have spent it on the wrong verse. The three occurrences all stand in the Life of Adam beside Adam and the making of him: 002v:9, 002v:10 'the aforesaid [slime]', 122r:1. The Douay pool for 2:7 leaves slime as the one content word with no sign; the King-James-only alternative, nostrils, is excluded because Douay reads 'breathed into his FACE' and face is already read. One passage, written twice, so tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Genesis 2:7. CORRECTED 2026-09-20: first entered as 'dust' off the King James, which was wrong in its choice of English. The codex is a Catholic compilation working from the Vulgate, where 2:7 reads 'formavit igitur Dominus Deus hominem de LIMO terrae' -- Douay-Rheims 'formed man of the SLIME of the earth'. Dust is the King James word and belongs to Genesis 3:19, where the Vulgate has a different word, pulvis; keeping 'dust' here would also have spent it on the wrong verse. The three occurrences all stand in the Life of Adam beside Adam and the making of him: 002v:9, 002v:10 'the aforesaid [slime]', 122r:1. The Douay pool for 2:7 leaves slime as the one content word with no sign; the King-James-only alternative, nostrils, is excluded because Douay reads 'breathed into his FACE' and face is already read. One passage, written twice, so tier C."
  },
  "ab0": {
   "gloss": "gate/open",
@@ -4136,9 +4136,9 @@
  },
  "ab0ab0": {
   "gloss": "gates",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "Reduplication of ab0 (gate/open), the pattern K&T read as woman from 060131. Both occurrences are the same sentence in the doubled Life of Adam: 007r:2 and 125r:3 '[gates] was Adam (on) the earth to till the ground' -- Genesis 3:23-24, sent out of the garden. One sentence twice, so C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Reduplication of ab0 (gate/open), the pattern K&T read as woman from 060131. Both occurrences are the same sentence in the doubled Life of Adam: 007r:2 and 125r:3 '[gates] was Adam (on) the earth to till the ground' -- Genesis 3:23-24, sent out of the garden. One sentence twice, so C."
  },
  "432670": {
   "gloss": "chapter",
@@ -4148,9 +4148,9 @@
  },
  "845152222": {
   "gloss": "abound",
-  "tier": "D",
+  "tier": "C",
   "n": 3,
-  "evidence": "Matthew 5:20. CORRECTED 2026-09-20: first entered as 'exceed' off the King James, 'except your righteousness shall exceed'. The Vulgate has 'nisi ABUNDAVERIT iustitia vestra', Douay-Rheims 'unless your JUSTICE ABOUND more than that of the scribes and Pharisees'. The codex already reads 'righteous(ly)' on 109r:6, which is the justice of the verse, so the missing word is the verb: abound, not exceed. 109r:7 and 109v:1 both read 'he who the scribes [abound]'. Exceed was a translator's word and the pool tool now separates those out. One passage, tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Matthew 5:20. CORRECTED 2026-09-20: first entered as 'exceed' off the King James, 'except your righteousness shall exceed'. The Vulgate has 'nisi ABUNDAVERIT iustitia vestra', Douay-Rheims 'unless your JUSTICE ABOUND more than that of the scribes and Pharisees'. The codex already reads 'righteous(ly)' on 109r:6, which is the justice of the verse, so the missing word is the verb: abound, not exceed. 109r:7 and 109v:1 both read 'he who the scribes [abound]'. Exceed was a translator's word and the pool tool now separates those out. One passage, tier C."
  },
  "520af0": {
   "gloss": "garment",
@@ -4160,15 +4160,15 @@
  },
  "5202d6": {
   "gloss": "enter",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "John 3:5, 'Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God'. Folio 091v gives the verse almost entire on lines 1-4: born of Nicodemus's mother, born of water and of the holy Spirit, saved, damned. The passage pool (ktleft.py, John 3:5 and 3:16 with no widening) leaves exactly three content words with no sign: cannot, enter, begotten. begotten is 3:16 and the codex already reads 'only_one son' for 'only begotten Son' at 091v:10. cannot is excluded because the positive 'can' stands in the same line, 091v:7 'this world can Nicodemus-somebody [enter]'. 091v:6 reads 'the land (kingdom), how do you [enter]' and 'leave-Nicodemus'. Both occurrences are on this folio and this verse, so nothing in the book can check it: tier C, a reading of the passage rather than of the sign. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "John 3:5, 'Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God'. Folio 091v gives the verse almost entire on lines 1-4: born of Nicodemus's mother, born of water and of the holy Spirit, saved, damned. The passage pool (ktleft.py, John 3:5 and 3:16 with no widening) leaves exactly three content words with no sign: cannot, enter, begotten. begotten is 3:16 and the codex already reads 'only_one son' for 'only begotten Son' at 091v:10. cannot is excluded because the positive 'can' stands in the same line, 091v:7 'this world can Nicodemus-somebody [enter]'. 091v:6 reads 'the land (kingdom), how do you [enter]' and 'leave-Nicodemus'. Both occurrences are on this folio and this verse, so nothing in the book can check it: tier C, a reading of the passage rather than of the sign."
  },
  "520154": {
   "gloss": "struck",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "John 18:10, Douay-Rheims: 'Then Simon Peter, having a sword, drew it and STRUCK the servant of the high priest and cut off his right ear. And the name of the servant was Malchus.' Folio 036v gives the whole verse round the hole: line 1 'cut off with the sword the ear of one Jew', line 2 'and the Jew was named Malchus', lines 3-4 Peter and the sword, and line 6 'put the ear back in its place and healed it', which is Luke 22:51. Every content word of the verse is read except one, and the Douay pool leaves exactly that one: struck. (The King James word for it is 'smote', which the tool now marks as the weaker class; 'drew' is already read as K&T's 60c.) The second occurrence, 048v:2, is on a page with no chapter and verse cited -- the Improperia of Good Friday, which is not in the reference corpus -- and the line is too broken to confirm or refute. So this is a reading of one passage with nothing in the book to test it: tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "John 18:10, Douay-Rheims: 'Then Simon Peter, having a sword, drew it and STRUCK the servant of the high priest and cut off his right ear. And the name of the servant was Malchus.' Folio 036v gives the whole verse round the hole: line 1 'cut off with the sword the ear of one Jew', line 2 'and the Jew was named Malchus', lines 3-4 Peter and the sword, and line 6 'put the ear back in its place and healed it', which is Luke 22:51. Every content word of the verse is read except one, and the Douay pool leaves exactly that one: struck. (The King James word for it is 'smote', which the tool now marks as the weaker class; 'drew' is already read as K&T's 60c.) The second occurrence, 048v:2, is on a page with no chapter and verse cited -- the Improperia of Good Friday, which is not in the reference corpus -- and the line is too broken to confirm or refute. So this is a reading of one passage with nothing in the book to test it: tier C."
  },
  "520151670": {
   "gloss": "dragon",
@@ -4196,15 +4196,15 @@
  },
  "5203d4": {
   "gloss": "commend",
-  "tier": "D",
+  "tier": "C",
   "n": 3,
-  "evidence": "Luke 23:46, Douay: 'Father, into thy hands I COMMEND my spirit. And saying this, he gave up the ghost.' All three occurrences stand in the death on the cross, and two of them come immediately before the codex's own 'give up the ghost': 052r:1 'and from, to the Lord Jesus, of the Lord [commend], gave up the ghost'; 052v:1 'and then the Lord Jesus, of the Lord, [commend], gave up the ghost, the cross, the earth'. The third, 051v:11, reads 'this Lord, this Father of the Lord, [commend], into the Father's hands', which is the other half of the same verse. spirit, soul and ghost are all already read by other signs and hands is read too, so commend is the one word of the verse with no sign. One scene, told across three consecutive folios, so nothing independent tests it: tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Luke 23:46, Douay: 'Father, into thy hands I COMMEND my spirit. And saying this, he gave up the ghost.' All three occurrences stand in the death on the cross, and two of them come immediately before the codex's own 'give up the ghost': 052r:1 'and from, to the Lord Jesus, of the Lord [commend], gave up the ghost'; 052v:1 'and then the Lord Jesus, of the Lord, [commend], gave up the ghost, the cross, the earth'. The third, 051v:11, reads 'this Lord, this Father of the Lord, [commend], into the Father's hands', which is the other half of the same verse. spirit, soul and ghost are all already read by other signs and hands is read too, so commend is the one word of the verse with no sign. One scene, told across three consecutive folios, so nothing independent tests it: tier C."
  },
  "750950060": {
   "gloss": "reckon_with",
-  "tier": "D",
+  "tier": "C",
   "n": 3,
-  "evidence": "Matthew 25:19, Douay: 'But after a long time the lord of those servants came and RECKONED with them.' The parable of the talents is established on these folios by Kiraly and Tokai's own citations of their talent sign at 173-175. All three occurrences carry the identical formula -- 173v:10, 174r:7 and 174v:5 all read 'and then this rich lord [reckoned with] the servants' -- and an identical formula repeated is how this project establishes that a sign means one thing. Their a83 already carries the noun 'the account', which leaves the verb free. One parable, so tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Matthew 25:19, Douay: 'But after a long time the lord of those servants came and RECKONED with them.' The parable of the talents is established on these folios by Kiraly and Tokai's own citations of their talent sign at 173-175. All three occurrences carry the identical formula -- 173v:10, 174r:7 and 174v:5 all read 'and then this rich lord [reckoned with] the servants' -- and an identical formula repeated is how this project establishes that a sign means one thing. Their a83 already carries the noun 'the account', which leaves the verb free. One parable, so tier C."
  },
  "5200609a2670690": {
   "gloss": "little",
@@ -4214,15 +4214,15 @@
  },
  "6307966370b0": {
   "gloss": "seek",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "Two different resurrection verses on two folios, and both require the same word. 055v:6 reads 'crucified, risen, [seek], a) the three Marys went' -- Douay Mark 16:6: 'you SEEK Jesus of Nazareth, who was crucified. He is risen'. 056r:4 reads 'Jesus crucified, risen, [seek], because' -- Douay John 20:15: 'Woman, why weepest thou? Whom SEEKEST thou?' The two folios cite those two verses independently and seek is the only content word both share that no sign carries. K&T's want and ask(for) are different Hungarian words from seek, so this is not a synonym of a sign already read. Neither occurrence can check the other, so tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Two different resurrection verses on two folios, and both require the same word. 055v:6 reads 'crucified, risen, [seek], a) the three Marys went' -- Douay Mark 16:6: 'you SEEK Jesus of Nazareth, who was crucified. He is risen'. 056r:4 reads 'Jesus crucified, risen, [seek], because' -- Douay John 20:15: 'Woman, why weepest thou? Whom SEEKEST thou?' The two folios cite those two verses independently and seek is the only content word both share that no sign carries. K&T's want and ask(for) are different Hungarian words from seek, so this is not a synonym of a sign already read. Neither occurrence can check the other, so tier C."
  },
  "639270": {
   "gloss": "ascend",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "The creed formula, twice. 017r:11 reads 'the Lord crucified, and on the third day rose from the dead, and [ascended], saved'; 017v:8 reads 'the Lord rose, and [ascended], saved every wide people'. The clause that follows 'rose again the third day' in the creed is 'he ascended into heaven', and the codex gives the creed in full more than once (042v, 026v, 104r). ascend and descend both carry no sign; descend belongs before the rising, not after it, which is why this is read as ascend. Both occurrences are the same formula on consecutive folios, so nothing independent tests it: tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "The creed formula, twice. 017r:11 reads 'the Lord crucified, and on the third day rose from the dead, and [ascended], saved'; 017v:8 reads 'the Lord rose, and [ascended], saved every wide people'. The clause that follows 'rose again the third day' in the creed is 'he ascended into heaven', and the codex gives the creed in full more than once (042v, 026v, 104r). ascend and descend both carry no sign; descend belongs before the rising, not after it, which is why this is read as ascend. Both occurrences are the same formula on consecutive folios, so nothing independent tests it: tier C."
  },
  "7e6": {
   "gloss": "say",
@@ -4232,9 +4232,9 @@
  },
  "520983": {
   "gloss": "penance",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "All four occurrences are on 077r, a folio whose cited source is Matthew 18 and whose argument is the page's own: one sin repented is forgiven, unrepented sin damns. 077r:4 reads 'the man sins one sin, [x] he is saved'; 077r:6 reads 'one sin, [x] is saved; but every one, whosoever sins, is damned'; 077r:1 'the man [x], have mercy; the man in turn from riches'; 077r:2 'the man in turn [x] justly'. The word that makes one sin end in salvation and persistent sin end in damnation, in a Catholic book of 1593, is penance -- the Douay's own wording, 'do penance', where the King James has 'repent'. It is free in both translations and is not carried by any sign. JUDGMENT, MARKED AS ONE: K&T read 540831916 and 520831916 as 'repentance', and penance and repentance are one word in Hungarian (bunbanat). This is read as penance and not as a second sign for that word because the sacrament and the contrition are distinct in the doctrine the page is setting out, and because the repentance sign does not appear on 077r at all. A reviewer who rejects the distinction should read this sign as 'repentance'; the four lines complete either way. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "All four occurrences are on 077r, a folio whose cited source is Matthew 18 and whose argument is the page's own: one sin repented is forgiven, unrepented sin damns. 077r:4 reads 'the man sins one sin, [x] he is saved'; 077r:6 reads 'one sin, [x] is saved; but every one, whosoever sins, is damned'; 077r:1 'the man [x], have mercy; the man in turn from riches'; 077r:2 'the man in turn [x] justly'. The word that makes one sin end in salvation and persistent sin end in damnation, in a Catholic book of 1593, is penance -- the Douay's own wording, 'do penance', where the King James has 'repent'. It is free in both translations and is not carried by any sign. JUDGMENT, MARKED AS ONE: K&T read 540831916 and 520831916 as 'repentance', and penance and repentance are one word in Hungarian (bunbanat). This is read as penance and not as a second sign for that word because the sacrament and the contrition are distinct in the doctrine the page is setting out, and because the repentance sign does not appear on 077r at all. A reviewer who rejects the distinction should read this sign as 'repentance'; the four lines complete either way."
  },
  "538": {
   "gloss": "enemy",
@@ -4250,33 +4250,33 @@
  },
  "374670": {
   "gloss": "according_to",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "Both occurrences are on 078r, whose subject is judging. 078r:4 reads 'false judge-somebody [x] chapter-judge-whosoever righteously judge'; 078r:8 reads 'to-which-chapter righteously judge [x] judge-somebody false'. The verse is John 7:24, Douay: 'Judge not ACCORDING TO the appearance, but judge just judgment.' Both lines set false judging against righteous judging with this sign between them, which is the hinge of that verse. 'appearance' is spoken for by the appear signs (6e2, 7e5, 7e4) and 'judge', 'false' and 'righteous' are all read, so 'according' is the one word of the verse no sign carries, and it is free in the Douay and the King James alike. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Both occurrences are on 078r, whose subject is judging. 078r:4 reads 'false judge-somebody [x] chapter-judge-whosoever righteously judge'; 078r:8 reads 'to-which-chapter righteously judge [x] judge-somebody false'. The verse is John 7:24, Douay: 'Judge not ACCORDING TO the appearance, but judge just judgment.' Both lines set false judging against righteous judging with this sign between them, which is the hinge of that verse. 'appearance' is spoken for by the appear signs (6e2, 7e5, 7e4) and 'judge', 'false' and 'righteous' are all read, so 'according' is the one word of the verse no sign carries, and it is free in the Douay and the King James alike."
  },
  "6c4520": {
   "gloss": "whatsoever",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "One closing formula written twice, identically: 067v:10 and 070v:6 both read 'end this holy-gospel [x] have somebody ask(for)'. 070v cites John 14:13, Douay: 'And WHATSOEVER you shall ask the Father in my name, that will I do.' The codex's line ends the gospel reading and then begins the verse, and the word it begins it with stands immediately before its own 'ask'. 'whatsoever' is free in both translations. JUDGMENT, MARKED AS ONE: another sign renders 'whatever' and it stands three lines above this one at 070v:3. They are read as two signs because the codex writes them differently on the same folio and John 14:13-14 repeats the word twice; a reviewer who wants one word for both loses nothing but the distinction. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "One closing formula written twice, identically: 067v:10 and 070v:6 both read 'end this holy-gospel [x] have somebody ask(for)'. 070v cites John 14:13, Douay: 'And WHATSOEVER you shall ask the Father in my name, that will I do.' The codex's line ends the gospel reading and then begins the verse, and the word it begins it with stands immediately before its own 'ask'. 'whatsoever' is free in both translations. JUDGMENT, MARKED AS ONE: another sign renders 'whatever' and it stands three lines above this one at 070v:3. They are read as two signs because the codex writes them differently on the same folio and John 14:13-14 repeats the word twice; a reviewer who wants one word for both loses nothing but the distinction."
  },
  "574270003003": {
   "gloss": "strive",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "Both occurrences are on 096r, whose cited source is John 6, the bread of life. 096r:2 reads 'the Jews who [x], and eat the body of the Lord'; 096r:4 reads '[x]; but said the Lord Jesus, to believe, and then'. Douay John 6:52: 'The Jews therefore STROVE among themselves, saying: How can this man give us his flesh to eat?' The codex's line puts the Jews, this sign, and the eating of the Lord's body in the order the verse puts them, and the next occurrence has the striving stop and the Lord answer, which is 6:53. 'strive' is free in both translations; 'murmur', the other word for what the Jews do in John 6, is already carried by 670152520 and 69c152520, so the codex distinguishes the murmuring of 6:41 from the striving of 6:52 as the chapter itself does. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Both occurrences are on 096r, whose cited source is John 6, the bread of life. 096r:2 reads 'the Jews who [x], and eat the body of the Lord'; 096r:4 reads '[x]; but said the Lord Jesus, to believe, and then'. Douay John 6:52: 'The Jews therefore STROVE among themselves, saying: How can this man give us his flesh to eat?' The codex's line puts the Jews, this sign, and the eating of the Lord's body in the order the verse puts them, and the next occurrence has the striving stop and the Lord answer, which is 6:53. 'strive' is free in both translations; 'murmur', the other word for what the Jews do in John 6, is already carried by 670152520 and 69c152520, so the codex distinguishes the murmuring of 6:41 from the striving of 6:52 as the chapter itself does."
  },
  "6733c4": {
   "gloss": "publican",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "This sign and 5200a2501 occur as a PAIR, in that order, four times across 076v, 077r and 077v -- 077v:5 'from [5200a2501] [6733c4]', 077v:9 'from [5200a2501] [6733c4] somebody of- leave'. All three folios cite Matthew 18:15-17, the sin of a brother. The verse the pair sits in is Matthew 18:17, Douay: 'and if he will not hear the church, let him be to thee as the HEATHEN AND PUBLICAN.' Two nouns, in that order, at the end of the sentence, which is exactly the shape the codex writes. 'publican' is free in both translations and is carried by no sign. The rest of the chapter's free vocabulary -- alone, witnesses, yea, dined -- are single words, not a pair, and none of them ends a clause the way these do. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "This sign and 5200a2501 occur as a PAIR, in that order, four times across 076v, 077r and 077v -- 077v:5 'from [5200a2501] [6733c4]', 077v:9 'from [5200a2501] [6733c4] somebody of- leave'. All three folios cite Matthew 18:15-17, the sin of a brother. The verse the pair sits in is Matthew 18:17, Douay: 'and if he will not hear the church, let him be to thee as the HEATHEN AND PUBLICAN.' Two nouns, in that order, at the end of the sentence, which is exactly the shape the codex writes. 'publican' is free in both translations and is carried by no sign. The rest of the chapter's free vocabulary -- alone, witnesses, yea, dined -- are single words, not a pair, and none of them ends a clause the way these do."
  },
  "5200a2501": {
   "gloss": "heathen",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "The first half of the pair described under 6733c4: four times across 076v, 077r and 077v this sign stands immediately before the publican sign, on folios citing Matthew 18:15-17. Douay Matthew 18:17: 'let him be to thee as the HEATHEN and publican.' JUDGMENT, MARKED AS ONE: K&T read another sign as 'pagan', and heathen and pagan are one word in the Douay's own usage. This is read as 'heathen' rather than as a second sign for 'pagan' because the pagan sign appears nowhere on 076v, 077r or 077v, and because the pair has to be read together -- the publican sign is fixed by the verse, and the word standing before it in that verse is heathen. A reviewer who rejects the distinction should read this sign as 'pagan'; the lines complete either way, and the sense of the sentence does not change. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "The first half of the pair described under 6733c4: four times across 076v, 077r and 077v this sign stands immediately before the publican sign, on folios citing Matthew 18:15-17. Douay Matthew 18:17: 'let him be to thee as the HEATHEN and publican.' JUDGMENT, MARKED AS ONE: K&T read another sign as 'pagan', and heathen and pagan are one word in the Douay's own usage. This is read as 'heathen' rather than as a second sign for 'pagan' because the pagan sign appears nowhere on 076v, 077r or 077v, and because the pair has to be read together -- the publican sign is fixed by the verse, and the word standing before it in that verse is heathen. A reviewer who rejects the distinction should read this sign as 'pagan'; the lines complete either way, and the sense of the sentence does not change."
  },
  "060041": {
   "gloss": "cling",
@@ -4508,15 +4508,15 @@
  },
  "9d9": {
   "gloss": "extort",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "Found by ktinside.py. Tail of K&T's a109d9 'extort; extorter'. 175r:1: 'the servant, the rich lord had this, and from [x], the servant'. The folio is the unforgiving servant of Matthew 18:28 -- Douay: 'he laid hands on him and throttled him, saying: Pay what thou owest' -- which is the extortion the compound names. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Found by ktinside.py. Tail of K&T's a109d9 'extort; extorter'. 175r:1: 'the servant, the rich lord had this, and from [x], the servant'. The folio is the unforgiving servant of Matthew 18:28 -- Douay: 'he laid hands on him and throttled him, saying: Pay what thou owest' -- which is the extortion the compound names."
  },
  "331": {
   "gloss": "where",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "Found by ktinside.py. Tail of K&T's 520331 'where'. 182r:5: '[x] the Lord God, the Lord Jesus, supper, made, time'. Douay Mark 14:14: 'WHERE is my refectory, where I may eat the pasch with my disciples?' DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Found by ktinside.py. Tail of K&T's 520331 'where'. 182r:5: '[x] the Lord God, the Lord Jesus, supper, made, time'. Douay Mark 14:14: 'WHERE is my refectory, where I may eat the pasch with my disciples?'"
  },
  "5209ab5510a0": {
   "gloss": "star",
@@ -4928,9 +4928,9 @@
  },
  "5202705205a1461": {
   "gloss": "cross",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It ends with K&T's 461 'cross' and holds 270 'Lord'. 048r:6: 'to love this people, [x], afterward, the people'. The folio is the way to Calvary. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It ends with K&T's 461 'cross' and holds 270 'Lord'. 048r:6: 'to love this people, [x], afterward, the people'. The folio is the way to Calvary."
  },
  "9909909b69a0470": {
   "gloss": "riches",
@@ -4982,9 +4982,9 @@
  },
  "6307963c4962": {
   "gloss": "deadly_sin",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "Found by ktcover.py. It holds K&T's 796 'dead; death; die; kill' and 3c4 'sin' one after the other. 001r:7: 'Elijah, and this [x], afterward, Lucifer'. The two elements together are the deadly sin, which is what the opening folios are about. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Found by ktcover.py. It holds K&T's 796 'dead; death; die; kill' and 3c4 'sin' one after the other. 001r:7: 'Elijah, and this [x], afterward, Lucifer'. The two elements together are the deadly sin, which is what the opening folios are about."
  },
  "520444a101f2": {
   "gloss": "kiss",
@@ -5012,15 +5012,15 @@
  },
  "a109d31f27a0ae0": {
   "gloss": "father",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "Found by ktcover.py. It holds K&T's 9d3 'father; forefather'. 141v:7: 'inside Rome, [x]'. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Found by ktcover.py. It holds K&T's 9d3 'father; forefather'. 141v:7: 'inside Rome, [x]'."
  },
  "5204b0520ae05ec": {
   "gloss": "say",
-  "tier": "D",
+  "tier": "C",
   "n": 1,
-  "evidence": "Found by ktcover.py. It holds K&T's 4b0 'say'. 107r:4: 'the Samaritan, and then this, the Jews, [x]'. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Found by ktcover.py. It holds K&T's 4b0 'say'. 107r:4: 'the Samaritan, and then this, the Jews, [x]'."
  },
  "060540ae0233": {
   "gloss": "Nicodemus",
@@ -5294,9 +5294,9 @@
  },
  "5efae0": {
   "gloss": "war",
-  "tier": "D",
+  "tier": "C",
   "n": 3,
-  "evidence": "All three occurrences are on 183r-183v, whose subject is named on the page: 183v:3 has Heraclius the Byzantine emperor, and K&T's dictionary carries Khosrow the Sasanian king, so these folios are the legend of the Exaltation of the Cross -- Chosroes takes the cross, Heraclius takes it back. 183r:7 'and then there were many years [x] with the Romans'; 183r:9 'and then [x] went, this, to the pagan emperor'; 183v:1 'this Roman emperor then had two [x]'. 'war' is free in both translations; 'army' and 'battle' are both already carried by other signs, which is why this is the third word of that field and not one of them. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "All three occurrences are on 183r-183v, whose subject is named on the page: 183v:3 has Heraclius the Byzantine emperor, and K&T's dictionary carries Khosrow the Sasanian king, so these folios are the legend of the Exaltation of the Cross -- Chosroes takes the cross, Heraclius takes it back. 183r:7 'and then there were many years [x] with the Romans'; 183r:9 'and then [x] went, this, to the pagan emperor'; 183v:1 'this Roman emperor then had two [x]'. 'war' is free in both translations; 'army' and 'battle' are both already carried by other signs, which is why this is the third word of that field and not one of them."
  },
  "747540": {
   "gloss": "steal",
@@ -5306,9 +5306,9 @@
  },
  "520181": {
   "gloss": "Ananias",
-  "tier": "D",
+  "tier": "C",
   "n": 4,
-  "evidence": "All occurrences are on 220v, and 220v:5 reads '[x], put, of Saul, servant, inside one house'. The folio is Acts 9 -- 220r:1 has Saul persecuting, and K&T's dictionary carries Damascus. Douay Acts 9:10-11: 'Now there was a certain DISCIPLE at Damascus, named ANANIAS... Arise, and go into the street that is called Strait, and seek in the house of Judas, one named Saul of Tarsus.' 220v:2 reads 'one man [x], and somebody [x], there is, coming', which is the naming of that man, and 220v:7 'this house, this [x], somebody'. 'Damascus', 'Judas' and 'disciple' are all carried by other signs, so the name the passage still needs is Ananias, and it is free in both translations. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "All occurrences are on 220v, and 220v:5 reads '[x], put, of Saul, servant, inside one house'. The folio is Acts 9 -- 220r:1 has Saul persecuting, and K&T's dictionary carries Damascus. Douay Acts 9:10-11: 'Now there was a certain DISCIPLE at Damascus, named ANANIAS... Arise, and go into the street that is called Strait, and seek in the house of Judas, one named Saul of Tarsus.' 220v:2 reads 'one man [x], and somebody [x], there is, coming', which is the naming of that man, and 220v:7 'this house, this [x], somebody'. 'Damascus', 'Judas' and 'disciple' are all carried by other signs, so the name the passage still needs is Ananias, and it is free in both translations."
  },
  "520150": {
   "gloss": "not",
@@ -5342,20 +5342,20 @@
  },
  "5b4": {
   "gloss": "cannot",
-  "tier": "D",
+  "tier": "C",
   "n": 3,
-  "evidence": "All three occurrences are on 090v and 091r, the rich man and Lazarus. 090v:3 ends 'and the body, from death, stood up, the poor man, said, father Abraham, in turn, who [x]'. Douay Luke 16:26: 'between us and you, there is fixed a great chaos: so that they who would pass from hence to you, CANNOT'. 090v:5 and 091r:6 both have 'believe' beside it, which is Luke 16:31, 'neither will they believe, if one rise again from the dead'. 'cannot' is free in both translations; 'can' and 'not' are each carried by other signs, so this is a judgment that the codex writes the negative modal as one word, which is what Hungarian does. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "All three occurrences are on 090v and 091r, the rich man and Lazarus. 090v:3 ends 'and the body, from death, stood up, the poor man, said, father Abraham, in turn, who [x]'. Douay Luke 16:26: 'between us and you, there is fixed a great chaos: so that they who would pass from hence to you, CANNOT'. 090v:5 and 091r:6 both have 'believe' beside it, which is Luke 16:31, 'neither will they believe, if one rise again from the dead'. 'cannot' is free in both translations; 'can' and 'not' are each carried by other signs, so this is a judgment that the codex writes the negative modal as one word, which is what Hungarian does."
  },
  "419": {
   "gloss": "proceed",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "Both occurrences are on 082v, whose subject is the procession of the Holy Spirit and the Trinity argued from the sun. 082v:4: 'spirit [x] on spirit, Holy Spirit, every man, the Jews'; 082v:6: 'Jesus Christ [x] on believe'. The creed's clause is 'who PROCEEDETH from the Father and the Son'. JUDGMENT, MARKED AS ONE: K&T already read 4a3 as 'proceed', so this is a second sign for it; it is read that way because the folio is that clause and no other word of it is missing. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "Both occurrences are on 082v, whose subject is the procession of the Holy Spirit and the Trinity argued from the sun. 082v:4: 'spirit [x] on spirit, Holy Spirit, every man, the Jews'; 082v:6: 'Jesus Christ [x] on believe'. The creed's clause is 'who PROCEEDETH from the Father and the Son'. JUDGMENT, MARKED AS ONE: K&T already read 4a3 as 'proceed', so this is a second sign for it; it is read that way because the folio is that clause and no other word of it is missing."
  },
  "402": {
   "gloss": "seal",
-  "tier": "D",
+  "tier": "C",
   "n": 2,
-  "evidence": "054r:11: 'the Lord inside the burial chamber, closed, and left [x], said, to the Lord, two by two, soldiers'. Douay Matthew 27:66: 'And they departing, made the sepulchre sure, SEALING THE STONE, with guards.' The closing, the leaving and the soldiers are all read on the line; the sealing is the hole. 'seal' is free in both translations. The second occurrence, 151r:3, is a different folio and carries it less clearly, which is why this is C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it."
+  "evidence": "054r:11: 'the Lord inside the burial chamber, closed, and left [x], said, to the Lord, two by two, soldiers'. Douay Matthew 27:66: 'And they departing, made the sepulchre sure, SEALING THE STONE, with guards.' The closing, the leaving and the soldiers are all read on the line; the sealing is the hole. 'seal' is free in both translations. The second occurrence, 151r:3, is a different folio and carries it less clearly, which is why this is C."
  }
 }

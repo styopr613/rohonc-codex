@@ -29,6 +29,23 @@ out from the sign itself against K&T's dictionary, so a reviewer can rerun it:
   guess          tier G. Marked in the text with a degree sign, never counted
                  as read.
 
+TESTABILITY IS A SEPARATE AXIS FROM CONFIDENCE, and it is reported apart
+because it is not the same question. A reading can be probably right and
+still be one the book can never check. Three classes, computed:
+
+  verified       the book itself checks it: the sign occurs more than once
+                 and every occurrence takes the reading, or some (word
+                 before, word after) frame carries both this sign and the
+                 sign it was anchored on.
+
+  testable       the sign occurs more than once, so a second occurrence
+                 could refuse it, but no shared frame confirms it.
+
+  untestable     the sign occurs ONCE and no frame confirms it. Nothing
+                 inside the codex can ever falsify this reading. Only a new
+                 source text, or Kiraly and Tokai's unpublished material,
+                 can reach it.
+
     python ktprov.py            the table
     python ktprov.py --list C   every reading of one tier, with its class
 """
@@ -40,6 +57,7 @@ import ktaffix as A
 import ktcross as K
 import ktnear as N
 import kttranslate as T
+import ktvarcheck as V
 
 
 def classify(h, kt_hexes, mine_hexes):
@@ -104,6 +122,39 @@ def main(argv):
     print("    of the KT-anchored: " + ", ".join(f"{k} {v}" for k, v in sub.most_common()))
     print(f"  judgments flagged in the evidence: "
           f"{sum(1 for r in rows.values() if r[4])}")
+
+    # ---- testability, computed the same way ktvarcheck computes it
+    unhex = {K.hx(c): c for c in list(gl) + list(prop_all)}
+    cache = {}
+
+    def sl(h):
+        if h not in cache:
+            cache[h] = V.slots(doc, gl, seg, var, prop, unhex[h])
+        return cache[h]
+
+    test = {}
+    for h, (tier, cls, why, n, j) in rows.items():
+        conf = False
+        if cls in ("KT-anchored", "KT-chained"):
+            hb = why.split()[-1]
+            if hb in unhex:
+                conf = bool(sl(h)[0] & sl(hb)[0])
+        if conf or (n > 1 and tier in ("A", "B")):
+            test[h] = "verified"
+        elif n > 1:
+            test[h] = "testable"
+        else:
+            test[h] = "untestable"
+    tn = Counter(test.values())
+    tw = Counter()
+    for h, k in test.items():
+        tw[k] += rows[h][3]
+    print("\nTESTABILITY -- can the codex itself ever refuse the reading?")
+    for k, note in (("verified", "every occurrence takes it, or a shared frame confirms it"),
+                    ("testable", "occurs more than once; a second occurrence could refuse it"),
+                    ("untestable", "occurs once, no frame; nothing inside the book can check it")):
+        print(f"  {k:11s} {tn[k]:5d} signs {tn[k]/len(test)*100:5.1f}%"
+              f"   {tw[k]:6d} word tokens {tw[k]/sum(tw.values())*100:5.1f}%   {note}")
 
     print("\nCROSS-TABLE, signs: tier down, provenance across")
     cl = ("KT-anchored", "KT-chained", "passage", "guess")

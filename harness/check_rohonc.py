@@ -718,6 +718,16 @@ def main():
           and "2.3 sigma, bar 5" in conf and "FAIL" in conf
           and "frequency-matched random assignment" in conf
           and "stop making it" in conf)
+    check("ROHONC: gate 4, rederivation failed and the blind test was contaminated",
+          "Gate 4: held-out rederivation, and a contaminated test" in doc
+          and "0.2 sigma" in flat and "23.1%" in doc and "75.0%" in doc
+          and "A blind test run by a reader who has spent the day reading the dictionary is not blind" in flat
+          and "69 passage-read tier C readings" in flat
+          and "top candidate correct, every stratum: 0.0%" in doc)
+    check("CONCLUSION: gate 4 reported with its consequence applied",
+          "ktrederive.py" in conf and "12 of 25, 48%" in conf
+          and "the test was INVALID" in conf
+          and "downgraded" in conf and "80.1% is unchanged" in conf)
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 

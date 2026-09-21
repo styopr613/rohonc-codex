@@ -251,6 +251,35 @@ somewhere in scripture. "It reads like the Bible" is therefore a weak claim
 and this project should stop making it. The claim that survives is narrower
 and much stronger: it reads like *the particular passage the folio cites*.
 
+**Gate 4, held-out rederivation: one failure and one invalid test, and both
+are reported.** `ktrederive.py` masks 10% of Kiraly and Tokai's dictionary and
+asks whether the pipeline puts it back.
+
+    GATE 4a  mechanical rederivation, no structural neighbour
+             5.4% against 4.6% with the tether cut
+             0.2 sigma, bar 5                                FAIL
+
+    GATE 4b  the judgment step, 25 masked signs read blind
+             12 of 25, 48%  --  but the test was INVALID
+
+Gate 4a says plainly what the mechanical part of this pipeline can do on its
+own: nothing. The top candidate was correct 0.0% of the time in every stratum.
+No reading in this project was ever made that way, and this is why.
+
+Gate 4b failed in a more interesting manner. Of the 25 masked signs, twelve
+had K&T entries this session had already met in some earlier check; those
+scored 75%, and the thirteen that were genuinely unseen scored 23.1%. **A
+blind test run by the reader who spent the day reading the dictionary is not
+blind.** The 48% is discarded. The declared consequence for the 15-30% band
+was applied without argument: 69 passage-read tier C readings were downgraded
+to tier D. The percentage of the book read did not move -- 80.1% is unchanged,
+because the downgrade is a confidence label, not a withdrawal.
+
+So the judgment step is still the unmeasured part of this work, and it can
+only be measured by a reader who has not seen Kiraly and Tokai's dictionary.
+That is the cheapest and most damaging external check available, and anyone
+may run it: `python ktrederive.py --dump` writes the sample.
+
 Where a hole cannot be read at all, the rendering now carries a fourth class.
 A **tier G** word is a guess: chosen by reading the line, its source passage
 and its neighbours, marked in the text with a degree sign (`°word`), and
