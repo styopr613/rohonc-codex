@@ -811,6 +811,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "520957": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "520967540": {
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
@@ -838,6 +842,10 @@
  "520ae0a10932a10670": {
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
+ "520af44d1796": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  },
  "520b36": {
   "state": "pass",
@@ -867,6 +875,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "531ae0b14ae0": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "533ae0": {
   "state": "pass",
   "why": "A FIXED PAIR with 493; see that entry. Verbatim repetition at 101r:8 and 134r:1 proved, words not named."
@@ -887,6 +899,14 @@
   "state": "pass",
   "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
+ "5401f2832060": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
+ "5402e4": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "5402f1": {
   "state": "pass",
   "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the same line, or their entry marks the citation with their own query. Checked in the citation pass and left dark."
@@ -906,6 +926,10 @@
  "540613663": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
+ },
+ "5407a35204b0": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  },
  "5408c1": {
   "state": "pass",
@@ -1003,9 +1027,21 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
+ "5b37e0": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "5c2": {
   "state": "pass",
   "why": "single glyph, two unrelated slots"
+ },
+ "5c6": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
+ "5d12c0": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  },
  "5d12c0952": {
   "state": "pass",
@@ -1059,6 +1095,22 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
+ "6096707a35c2": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
+ "612": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
+ "6300601fa670": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
+ "6300a2": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "630270010": {
   "state": "pass",
   "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the same line, or their entry marks the citation with their own query. Checked in the citation pass and left dark."
@@ -1066,6 +1118,10 @@
  "630286": {
   "state": "pass",
   "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "6304f8520336": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  },
  "6305201d9": {
   "state": "pass",
@@ -1095,6 +1151,10 @@
   "state": "pass",
   "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
+ "630950ae0988": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "630a100600608f37a0060060253540": {
   "state": "pass",
   "why": "10 glyphs, 204v/205r no source"
@@ -1102,6 +1162,10 @@
  "630b46ae0": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
+ "630ba1": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  },
  "6355202c1a30": {
   "state": "pass",
@@ -1311,6 +1375,14 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
+ "8a0": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
+ "8a5910": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "8a7ae0": {
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
@@ -1331,9 +1403,21 @@
   "state": "pass",
   "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
+ "8c7910": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "8d2": {
   "state": "pass",
   "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "8d9": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
+ "8db": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  },
  "8dd": {
   "state": "pass",
@@ -1341,7 +1425,7 @@
  },
  "8e4": {
   "state": "pass",
-  "why": "single glyph, no source"
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  },
  "915": {
   "state": "pass",
@@ -1419,6 +1503,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
+ "a10452520": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "a10520060950102520": {
   "state": "pass",
   "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
@@ -1467,9 +1555,17 @@
   "state": "pass",
   "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the same line, or their entry marks the citation with their own query. Checked in the citation pass and left dark."
  },
+ "a36": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "a38": {
   "state": "pass",
   "why": "single glyph, two unrelated slots"
+ },
+ "a3d": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  },
  "a42": {
   "state": "pass",
@@ -1507,6 +1603,10 @@
   "state": "pass",
   "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the same line, or their entry marks the citation with their own query. Checked in the citation pass and left dark."
  },
+ "a90480": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "a93": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
@@ -1531,9 +1631,17 @@
   "state": "pass",
   "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
+ "ac2": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
+ },
  "ac9634": {
   "state": "pass",
   "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the same line, or their entry marks the citation with their own query. Checked in the citation pass and left dark."
+ },
+ "ae01e1670": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  },
  "ae0652": {
   "state": "pass",
@@ -1562,5 +1670,9 @@
  "b601e0520ae0": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
+ "ba2569": {
+  "state": "pass",
+  "why": "K&T cite this folio line, but the word their entry names is already rendered elsewhere in the line, or their entry offers two candidates for it with no way to choose. Left dark."
  }
 }

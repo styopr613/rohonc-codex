@@ -938,7 +938,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  8  food +bread each,_every people on-Lord [?] | in_turn
  9  two say-+say say son God +third say-+say king
 10  say say Caiaphas write +<subject_marker> good one Lord-somebody
-11  die a)-+who rather each,_every +world +perish and [?] [?]
+11  die a)-+who rather each,_every +world +perish and then-?cup-+say [?]
 12  apostle-high inside-?brought inside house among apostle Christ look_up leave [?]
 
 
@@ -4199,7 +4199,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 166v ===
  1  on-two-two ?ways and [?] two-two man and son
- 2  grab two-two man and son carry out(ward) [?]
+ 2  grab two-two man and son carry out(ward) ?the_town_gate
  3  town on-believe +three-+baptize +the_Baptist/woman on-be_damned then-chapter
  4  son carry inside hell be_damned exist chapter-oh.
  5  chapter-oh [?] ?therefore +be_saved write inside
@@ -4648,7 +4648,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  and then-exist Heraclius_<Byzantine_emperor> +emperor go this to-of_an_alien_nation,_pagan
  5  +emperor inside tower +and_then Heraclius_<Byzantine_emperor> +emperor
  6  believe <preposition_of_genitive>-Heraclius_<Byzantine_emperor> God in_turn the_whole_wide_world this
- 7  [?] ~head-chapter die say this | ~exist
+ 7  +Heraclius ~head-chapter die say this | ~exist
  8  +emperor [?] and emperor ~head-grab and
  9  then-exist do, Heraclius_<Byzantine_emperor> +emperor each,_every
 
@@ -4659,7 +4659,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  +one-woman and son +emperor leave [?] and
  4  grab cross tree and +<subject_marker> from-carry inside
  5  Jerusalem town and then-exist [?] before | +army
- 6  +army and then-exist [?] Jerusalem and to-gate God
+ 6  +army and then-exist +arrived Jerusalem and to-gate God
  7  angel ~gate Jerusalem ~and shout-to angel Heraclius_<Byzantine_emperor>
  8  this-this Lord-Christ proud out(ward) on-Jerusalem carry cross tree
  9  +but humble carry and then-exist sit down [?]
@@ -4715,7 +4715,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 188r ===
  1  angel and this exist-today’s living people-+say | [?]-[?]-+one
  2  year and how? table-+say eat on-+say from eat +<subject_marker> leave
- 3  and then-exist this manna [?] bucket and
+ 3  and then-exist this manna ?take bucket and
  4  +say [?] ?brought [?] from manna thanks
  5  and pleasing do,-+say in_turn [?] Christ +stay daily,_of_that_day
  6  [?] manna and then-exist Lord-Jézus inside thirty ?half
@@ -4753,7 +4753,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  stand_up resurrect Lord-Jézus-Christ inside Nain town son
  3  one virgin-[?] +the_Baptist/woman and before that_is ?he_is | exist
  4  Lord this virgin-[?] +the_Baptist/woman son stand_up resurrect-Lord one
- 5  ~blind through light inside Sunday Lord-Jézus-Christ [?]
+ 5  ~blind through light inside Sunday Lord-Jézus-Christ ?by_the_wayside
  6  +Jericho town then-chapter and go-Lord inside Jerusalem and
  7  <preposition_of_genitive>-Lord apostle inside Sunday +the_Lord +cast_out-Lord inside Jerusalem
  8  on-one somebody hell exist-chapter then-exist-Lord
@@ -5051,7 +5051,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  God blind ?ninety-~exist blind and even_more-[?]-to and
  6  be_hungry and +thirst and °feeble God blind and
  7  [?] [?] find servant each,_every go-servant
- 8  [?] inside <preposition_of_genitive>-Lord-king house and then-exist +out
+ 8  ?filled inside <preposition_of_genitive>-Lord-king house and then-exist +out
  9  house this king various +heaven
 
 
@@ -5455,7 +5455,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  king Jew(ish) and this word shout-[?] thanks
  2  Lord each,_every people on-earth and angel ?from_the_eternal high and
  3  go Lord-Jézus inside temple Jerusalem and then-exist exist-Lord find
- 4  +money_changer and-Lord each,_every +money_changer out(ward) [?] | exorcise
+ 4  +money_changer and-Lord each,_every +money_changer out(ward) ?seller_of_doves | exorcise
  5  Lord +and_then Lord-Jézus this temple-+<subject_marker> pray house
  6  +name-+one house you +say do, one
  7  thief-+one-house and then-exist from one little son
@@ -5470,7 +5470,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  shout-to [?] this-Lord you-+say king
  5  end this holy-gospel Lord-<suffix_of_divine_name> ?with_all_thy_heart and then-[?]
  6  +law Jew(ish) and +say Lord grab inside this in_turn-chapter-in_turn Jerusalem
- 7  one rather ?but_rather-+say exist-+say can-+say [?] this
+ 7  one rather ?but_rather-+say exist-+say can-+say ?cup this
  8  ?would_say head grab and then-exist [?]
  9  +lodging +find +heart-Lord +heaven and earth Lord each,_every Lord
 
@@ -5508,8 +5508,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  exist two servant two this-two two apostle this-two two high_priest-high_priest
  3  in_turn this-two two apostle exist-two from [?] two on-believe
  4  [?]-~Christ this exist time then Lord-~Christ +crucified
- 5  and then-exist Jew(ish) [?] to-down believe ~Christ Jew(ish)
- 6  head and exist exist-+say [?] and exist
+ 5  and then-exist Jew(ish) ?wipe_out to-down believe ~Christ Jew(ish)
+ 6  head and exist exist-+say ?find and exist
  7  somebody to-many [?] somebody +name [?]-~Christ
  8  each,_every somebody suffering in_turn somebody-?but_rather head | grab
  9  +say and then-exist holy-Stephen [?] +confess +name
