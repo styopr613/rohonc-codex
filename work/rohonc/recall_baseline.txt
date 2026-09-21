@@ -1,0 +1,12 @@
+CANDIDATE-LIST RECALL, leave-one-out over 759 K&T entries (616 on a cited folio, 143 on none)
+
+  BASELINE  true gloss in today's list   32.5%   mean list size 96.0 words
+            tether-cut control           11.1%   7.9 sigma
+
+  why the rest miss (first reason that explains it):
+    HIT       200    32.5%
+    TAKEN     131    21.3%
+    NARROW     49     8.0%
+    CHAPTER    41     6.7%
+    BIBLE     164    26.6%
+    OUTSIDE    31     5.0%

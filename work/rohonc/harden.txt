@@ -1,0 +1,62 @@
+HARDENING OUR OWN 947 READINGS (tiers A-D). K&T's are not touched.
+
+  tier   readings  flagged
+  A           476       82
+  B           178       54
+  C           211      177
+  D            82       52
+
+  flags raised (a reading can raise several):
+    SOURCE      86
+    DUP         91
+    COLLIDE    216
+    BLAST       41
+    ALONE       61
+
+  365 readings of 947 want a human. 582 raise nothing.
+
+  WORST FIRST (most flags, then most occurrences, because a wrong sign
+  standing in many places does the most damage):
+
+    b26                    D  n=8    feeds=51   SOURCE,DUP,COLLIDE,BLAST     'the scribes'
+    520ae0850270ae0        C  n=35   feeds=2    SOURCE,DUP,COLLIDE           'afterward'
+    7b2670ae0520           C  n=18   feeds=1    SOURCE,DUP,COLLIDE           'sons'
+    060520444520ae0        C  n=10   feeds=2    SOURCE,DUP,COLLIDE           'was accused'
+    520151                 C  n=10   feeds=29   SOURCE,COLLIDE,BLAST         'remain'
+    5200607a0580           C  n=3    feeds=1    SOURCE,DUP,COLLIDE           'because'
+    531                    D  n=2    feeds=23   SOURCE,COLLIDE,BLAST         'therefore'
+    001                    D  n=1    feeds=24   COLLIDE,BLAST,ALONE          'first'
+    569afa812080           C  n=1    feeds=1    DUP,COLLIDE,ALONE            'Joachim'
+    570                    C  n=1    feeds=29   COLLIDE,BLAST,ALONE          'ark'
+    6c1270a10003a10060     C  n=1    feeds=2    DUP,COLLIDE,ALONE            'the_man'
+    991                    D  n=1    feeds=19   COLLIDE,BLAST,ALONE          'but rather'
+    4b0                    B  n=83   feeds=159  DUP,BLAST                    'say'
+    531ae0                 D  n=56   feeds=11   COLLIDE,BLAST                'therefore'
+    084                    D  n=39   feeds=7    DUP,COLLIDE                  'world'
+    ae0                    B  n=28   feeds=911  DUP,BLAST                    'day'
+    060                    A  n=24   feeds=1133 DUP,BLAST                    'one'
+    060060443520           C  n=24   feeds=11   SOURCE,COLLIDE               'eternal'
+    3c4                    B  n=23   feeds=43   DUP,BLAST                    'sin'
+    9107c1                 D  n=20   feeds=3    DUP,COLLIDE                  'with all thy heart'
+    7b3                    D  n=15   feeds=10   COLLIDE,BLAST                'brethren'
+    520b52                 B  n=14   feeds=4    SOURCE,DUP                   'until'
+    630060060443520        C  n=13   feeds=1    SOURCE,COLLIDE               'from the eternal'
+    a104002b55203c4        C  n=12   feeds=5    DUP,COLLIDE                  'sinners'
+    520b52011              C  n=10   feeds=1    DUP,COLLIDE                  'from town to town'
+    152222574              C  n=9    feeds=6    SOURCE,COLLIDE               'the scripture'
+    926                    D  n=9    feeds=1    SOURCE,COLLIDE               'ways'
+    5405404b0              C  n=8    feeds=1    DUP,COLLIDE                  'would say'
+    991ae0910              C  n=8    feeds=1    SOURCE,COLLIDE               'but rather'
+    a615fb                 D  n=8    feeds=2    SOURCE,COLLIDE               'gold'
+    5203f0                 C  n=7    feeds=44   COLLIDE,BLAST                'blind'
+    5694b0                 C  n=7    feeds=4    DUP,COLLIDE                  'he said'
+    630085                 D  n=7    feeds=2    SOURCE,COLLIDE               'among the people'
+    b24                    D  n=7    feeds=3    DUP,COLLIDE                  'hundred'
+    060ae1                 C  n=6    feeds=18   COLLIDE,BLAST                'years'
+    4f1b03                 D  n=6    feeds=1    SOURCE,COLLIDE               'rise'
+    680ae0                 A  n=6    feeds=4    SOURCE,DUP                   'exist'
+    159                    D  n=4    feeds=1    SOURCE,COLLIDE               'glory'
+    453                    D  n=4    feeds=1    SOURCE,COLLIDE               'who believes not'
+    5202da                 C  n=4    feeds=4    SOURCE,COLLIDE               'creature'
+
+  full list: --flag SOURCE | DUP | COLLIDE | BLAST | ALONE

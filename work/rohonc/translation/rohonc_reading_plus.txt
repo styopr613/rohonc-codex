@@ -216,7 +216,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  +seven and then-exist +three time appear Lord-<suffix_of_divine_name> Noah
  2  and then-exist +and_then Lord-<suffix_of_divine_name> Noah sad(ly)-Lord year ?brethren somebody on-<preposition_of_genitive> ?go_away
  3  create because °flood this who carry <preposition_of_genitive> commandment ~exist Lord-<suffix_of_divine_name> want each,_every
- 4  destroy +and_then Lord-<suffix_of_divine_name> Noah do, one exist Lord | ?ark
+ 4  destroy +and_then Lord-<suffix_of_divine_name> Noah do, one exist Lord | [?]
  5  ~exist Lord exist on-two-two-ten cubit long in_turn ?three_hundred
  6  broad in_turn +five lift_up +one-hide_oneself grab ?Noah each,_every create two-<infix_of_distributive_numeral>-two and
  7  °inside <preposition_of_genitive>-ark and then-exist this °dove this-Lord this-?Noah go-Lord
@@ -1671,7 +1671,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  8  on-die to-Lord-die +name-[?] ~ask_(for) this-Lord you °shall_be_raised
  9  inside Lord +herd apostle because you exist apostle many sad(ly)
 10  on-Lord have because you apostle each,_every apostle | on-apostle-chapter
-11  °oh_Lord chapter-?ark-to go-go +mourn and to-and one and
+11  °oh_Lord [?] go-go +mourn and to-and one and
 
 
 === 067v ===
@@ -3585,7 +3585,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  church_father then-exist this somebody exist from many somebody sin
  6  °narrow leave-somebody <preposition_of_genitive>-somebody Lord-+heart because +this_is.
  7  ?creature Lord +sin have_mercy °fruit this exist inside +law somebody
- 8  that_is and have somebody carry +law God | ~exist-?the_scribes
+ 8  that_is and have somebody carry +law God | [?]
  9  °bear +sin somebody +be_saved-somebody to-many suffering
 
 
@@ -4976,7 +4976,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  apostle-somebody to-Lord this-Lord.
  5  you ?creature Lord +sin have_mercy °fruit this exist
  6  inside commandment somebody that_is and have somebody ~carry commandment
- 7  God [?]-°bear +sin somebody +be_saved to-many | not-not
+ 7  God [?] +sin somebody +be_saved to-many | not-not
  8  not chapter-oh chapter-oh amen write +<subject_marker> +name
  9  <preposition_of_genitive>-somebody inside ?eternal land to-house die in_turn | on
 10  die exist-exist-chapter and soul chapter-oh chapter-oh amen
@@ -5548,32 +5548,32 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  take_off-+say on-+say <preposition_of_genitive>-+say believe and.
  7  leave-+say literal ?man one son and this son.
  8  exist this Saul and ?man exist this believe
- 9  and from ?the_scribes want stone-stone-this holy-Stephen | first-suffering
+ 9  and from [?] want stone-stone-this holy-Stephen | first-suffering
 
 
 === 216v ===
- 1  Lord-<suffix_of_divine_name> °lay_not_this_sin and judge-?the_scribes can Stephen stone-stone-this
- 2  and from ?the_scribes exist °fell_asleep inside <preposition_of_genitive>-Stephen die and this speak
- 3  write then-exist ?therefore Stephen to-?the_scribes pray-Stephen
+ 1  Lord-<suffix_of_divine_name> °lay_not_this_sin and [?] can Stephen stone-stone-this
+ 2  and from [?] exist °fell_asleep inside <preposition_of_genitive>-Stephen die and this speak
+ 3  write then-exist ?therefore Stephen [?] pray-Stephen
  4  and Stephen first-suffering-Lord-<suffix_of_divine_name> to-Lord to-thanks Lord-<suffix_of_divine_name>
- 5  exist-?the_scribes exist be_damned and then-exist Stephen exist-+say
+ 5  [?] exist be_damned and then-exist Stephen exist-+say
  6  out(ward) on-town stone-stone °out_of_the_temple °passing_through and | then-chapter
  7  +day exist see this suffering this Saul
  8  °a_great_persecution do, Jew(ish) on-holy-Stephen | first-not
  9  not-not to-Lord to-thanks Lord-<suffix_of_divine_name> and then-exist | exist
-10  ?the_scribes through startle this Saul and trespass to-place
+10  [?] through startle this Saul and trespass to-place
 
 
 === 219r ===
  1  and-brother-+name Lord-Jézus-Christ and go this
  2  Saul to-head Jew(ish) on-in_turn-chapter-in_turn Jerusalem
- 3  +one-from this Saul grab-+say head ?the_scribes
+ 3  +one-from this Saul grab-+say head [?]
  4  can on-this somebody +not_believe and somebody this Jézus this
- 5  Christ believe and °threatenings ?the_scribes mother want-?the_scribes +<subject_marker> each,_every
+ 5  Christ believe and °threatenings [?] mother [?] +<subject_marker> each,_every
  6  take_prisoner and ?whosoever-+<subject_marker> to-many °bound ?see and-brother-+name
- 7  <preposition_of_genitive>-Lord want-?the_scribes each,_every somebody to-you this-go-this
- 8  and then-exist ?the_scribes exist-+say grab mission many ~rich
- 9  and then-exist exist-?the_scribes °letters many servant on-mission
+ 7  <preposition_of_genitive>-Lord [?] each,_every somebody to-you this-go-this
+ 8  and then-exist [?] exist-+say grab mission many ~rich
+ 9  and then-exist [?] °letters many servant on-mission
 
 
 === 219v ===
@@ -5582,31 +5582,31 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  inside ?that believe Lord-Jézus Christ and then-exist go this-who
  4  Saul on-this town many +an_army and | then-exist
  5  +say-Saul-servant on-~begin way to-go-Saul-servant
- 6  time and go this Saul ~exist-chapter <preposition_of_genitive>-?the_scribes servant
- 7  and then-[?] exist light °shined_round on-heaven land
- 8  and then-[?] exist light °fell_to_the_earth on-+heavenly-to bow_down
+ 6  time and go this Saul ~exist-chapter [?] servant
+ 7  and [?] exist light °shined_round on-heaven land
+ 8  and [?] exist light °fell_to_the_earth on-+heavenly-to bow_down
  9  and shout-to Lord-<suffix_of_divine_name> on-water Saul Saul
 
 
 === 220r ===
- 1  to-?brethren Lord through persecute-?the_scribes and shout-to this | +Saul
- 2  ?the_scribes °Saul +lie in_turn Lord °whom_thou_persecutest this-Lord and
+ 1  to-?brethren Lord through [?] and shout-to this | +Saul
+ 2  [?] °Saul +lie in_turn Lord °whom_thou_persecutest this-Lord and
  3  shout-to Lord-<suffix_of_divine_name> on-water this-Lord from Jézus +Nazareth
  4  +the_Lord +cross execute and shout-to this Saul
  5  Lord ?brethren Saul Lord ?afterward and shout-to
- 6  Lord-<suffix_of_divine_name> on-water go-?the_scribes inside in_turn-chapter-in_turn from ?the_scribes on-learn somebody
- 7  love exist-?the_scribes do,-?the_scribes time hour from
- 8  ?blind-eye-?the_scribes and °led_him_by_the_hand and then-[?] exist
+ 6  Lord-<suffix_of_divine_name> on-water [?] inside in_turn-chapter-in_turn from [?] on-learn somebody
+ 7  love [?] [?] time hour from
+ 8  [?] and °led_him_by_the_hand and [?] exist
  9  grab <preposition_of_genitive>-Saul servant and Saul from-carry
 
 
 === 220v ===
  1  Saul servant inside in_turn-chapter-in_turn and Saul put servant
  2  one ?man ?Ananias and somebody ?Ananias exist ?coming
- 3  Gamaliel in_turn-chapter-in_turn and this Saul trespass exist-?the_scribes
- 4  on-?coming and then-[?] exist this Saul this
+ 3  Gamaliel in_turn-chapter-in_turn and this Saul trespass [?]
+ 4  on-?coming and [?] exist this Saul this
  5  ?Ananias put <preposition_of_genitive>-Saul servant inside one house
- 6  and then-[?] +three +lie-?the_scribes this Saul inside
+ 6  and [?] +three [?] this Saul inside
  7  this house this ?Ananias somebody and this somebody [?]-~exist-+name
  8  exist Judas and then-exist one somebody inside this in_turn-to-in_turn
  9  can somebody say to-high-understand in_turn [?]-~exist-+name somebody exist
@@ -5716,7 +5716,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  [?]-~Christ
  7  and through offer you have_mercy
  8  have_mercy Lord in_turn woman °and_on °the_same_week
- 9  and <preposition_of_genitive> °the_saints and each,_every <preposition_of_genitive>-from-leave ?ark-+day °the_same_week
+ 9  and <preposition_of_genitive> °the_saints and each,_every <preposition_of_genitive>-from-leave [?] °the_same_week
 10  on high and +<subject_marker> °into_heaven exist then-+<subject_marker> soul from
 11  +lose from-rich °at_the_last exist °amen °for_ever from
 12  +day this-why? and understand somebody woman

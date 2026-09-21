@@ -1,0 +1,19 @@
+VALIDATING THE KEY: K&T's own citations, against the manuscript
+  2081 distinct codes, 4678 citations
+
+  origin      cites  lands    rate  exact line
+  HEAD         2045   1825   89.2%       97.5%
+  VAR           735    584   79.5%       97.2%
+  EXPR          405     96   23.7%       93.8%
+  UNCERTAIN     337    199   59.1%       94.9%
+  OR             36     21   58.3%      100.0%
+  OTHER        1094    423   38.7%       92.6%
+
+  HEADWORDS, which are the key's own claim:
+    stands on the cited folio       89.2%
+    control, folio shuffled         1.9%
+    415.4 sigma against a bar of 5.0  -> PASS
+
+  RESIDUE: 220 headword citations on 117 codes miss their folio.
+  These are the ones to read by hand. Each is our parse, a spelling
+  the transcription writes differently, or their slip.

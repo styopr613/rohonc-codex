@@ -5657,6 +5657,12 @@
   "n": 1,
   "tier": "G"
  },
+ "570": {
+  "evidence": "K&T's entry 570520ae0 reads '008r04-05, 07 ark'. This sign is the head of their code and stands at 008r:4, the line they cite, in a sentence about Noah: 'destroy, and then the Lord, Noah, do, one exist Lord [x]'. A truncated spelling of their word.",
+  "gloss": "ark",
+  "n": 1,
+  "tier": "C"
+ },
  "570211520": {
   "evidence": "114r:3, on the folio citing Luke 15:16, 'he would fain have filled his belly with the husks the swine did eat'.",
   "gloss": "husks",
@@ -9355,15 +9361,9 @@
   "tier": "withdrawn"
  },
  "_withdrawn_570": {
-  "evidence": "WITHDRAWN 2026-09-20. Read as ark from its single occurrence at 008r:4, where the Lord tells Noah to make one and the next line gives three hundred cubits. But as a bare piece it entered the cut of six other words, none of which is about an ark: to-not-chapter-ark on 062r:5 in the middle of Abraham and Isaac, ark-the-day on 151v:4, ark-day on 224v:9. One right token against six wrong ones. A wrong reading pollutes more than a gap does, so it is removed rather than kept. RE-ENTERED at tier C after that withdrawal, glossed 'ark' again, on the evidence that K&T's 570520ae0 'ark' cites 008r04-05,07 and this sign heads that code and stands at 008r:4. WITHDRAWN A SECOND TIME 2026-09-21 by ktharden.py. The re-entry answered a question the withdrawal had not asked: it argued the sign is a truncated spelling of their word, and never addressed the reason it came out, which was blast radius. The sign stands inside 29 distinct word types and they are not arks -- a10570670ae0 sheep, 574570ae0 rejoiced, 570783 the veil, 540060890570 ox, 570211520 husks, 520b90570 Noah, 5208555705200607a0670 a hundred pence. At 067r:11 it printed 'chapter-ark-to' inside a citation formula. A piece this short is read through the words it feeds, and these refuse it.",
+  "evidence": "WITHDRAWN 2026-09-20. Read as ark from its single occurrence at 008r:4, where the Lord tells Noah to make one and the next line gives three hundred cubits. But as a bare piece it entered the cut of six other words, none of which is about an ark: to-not-chapter-ark on 062r:5 in the middle of Abraham and Isaac, ark-the-day on 151v:4, ark-day on 224v:9. One right token against six wrong ones. A wrong reading pollutes more than a gap does, so it is removed rather than kept.",
   "gloss": "ark",
   "n": 1,
-  "tier": "withdrawn"
- },
- "_withdrawn_b26": {
-  "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read as 'the scribes' from K&T's compound 916+b26 'scribe'. It stands on 8 lines, all in Acts 7-9 (216r, 216v, 219r, 220r), and the word is absent from the cited passage at every one of them. Two lines put it twice and neither reads: 219r:5 'threatenings [x] mother want-[x] every' and 220r:6 'go-[x] inside chapter from [x] on-learn somebody'. It is not 'disciples' either, which was the obvious candidate given Acts 9:1 'threatenings against the disciples' -- K&T's own 7e1 carries learn/teach/apostle/disciple and 7e1 stands in that same line at 220r:6 rendering 'on-learn'. So the slot is a word we have not identified. Previously downgraded C to D on 2026-09-21 by gate 4b. No replacement is entered: a fill that fails a clear occurrence is not entered at a lower tier, it is not entered. Prior gloss and evidence: {\"evidence\": \"K&T's compound 916+b26 is glossed scribe: 'and [the scribes] would stone Saint Stephen the first martyr' 216r:9; 216v:10 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.\", \"gloss\": \"the scribes\", \"n\": 8, \"tier\": \"D\"}",
-  "gloss": "_withdrawn_",
-  "n": 8,
   "tier": "withdrawn"
  },
  "a00": {
@@ -10558,6 +10558,12 @@
   "evidence": "'in debt [a hundred] pence' 135r:10 = Matthew 18:28, the fellow-servant who owed an hundred pence DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "hundred",
   "n": 7,
+  "tier": "D"
+ },
+ "b26": {
+  "evidence": "K&T's compound 916+b26 is glossed scribe: 'and [the scribes] would stone Saint Stephen the first martyr' 216r:9; 216v:10 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "gloss": "the scribes",
+  "n": 8,
   "tier": "D"
  },
  "b274b0": {
