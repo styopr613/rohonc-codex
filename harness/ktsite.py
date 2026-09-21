@@ -69,9 +69,9 @@ DOCS = [
      "the last 3.6% of the book, and what reading them taught"),
 ]
 
-NAV = [("index", "Overview"), ("reading", "The reading"), ("dictionary", "Dictionary"),
-       ("tests", "Tests"), ("method", "Method"), ("writeup", "Write-up"),
-       ("data", "Data")]
+NAV = [("index", "Overview"), ("script", "The script"), ("reading", "The reading"),
+       ("dictionary", "Dictionary"), ("tests", "Tests"), ("method", "Method"),
+       ("writeup", "Write-up"), ("data", "Data")]
 
 CREDIT = html.escape(COPY["credit_line"].strip())
 
@@ -117,6 +117,33 @@ main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:v
 .folio h2 small{font-family:"EB Garamond",serif;font-size:17px;color:var(--soft);letter-spacing:0;margin-left:10px;text-transform:none}
 .folio p{text-indent:0}
 .nof{color:var(--soft);font-style:italic}
+/* the script page */
+.demo{background:var(--paper2);border-radius:3px;padding:18px 20px;margin:1.2em 0}
+.demo h3{font-family:Cinzel,serif;font-weight:400;font-size:15px;letter-spacing:.08em;text-transform:uppercase;color:var(--rub);margin:0 0 10px}
+.sign{display:flex;flex-wrap:wrap;gap:18px;align-items:baseline}
+.sign .code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:15px;color:var(--soft);letter-spacing:.08em}
+.sign .gl{font-size:26px}
+.sign .glyph{font-family:"Rohonc Codex";font-size:34px;line-height:1.1}
+.sign .meta{font-size:15px;color:var(--soft);width:100%}
+.sign .ev{font-size:15.5px;width:100%;margin:0}
+.ctl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px}
+.ctl button{font:inherit;font-size:14px;letter-spacing:.06em;text-transform:uppercase;padding:7px 12px;border:1px solid var(--line);border-radius:3px;background:var(--paper);color:var(--ink);cursor:pointer}
+.ctl button:hover{border-color:var(--rub);color:var(--rub)}
+.ctl button.on{background:var(--rub);border-color:var(--rub);color:#fff}
+.ctl .sp{margin-left:auto;font-size:15px;color:var(--soft)}
+.parts{display:flex;flex-wrap:wrap;gap:10px;align-items:stretch;margin:2px 0 0}
+.parts .pc{background:var(--paper);border:1px solid var(--line);border-radius:3px;padding:8px 12px;min-width:92px}
+.parts .pc b{display:block;font-size:19px;font-weight:400}
+.parts .pc span{font-size:13px;color:var(--soft);font-family:ui-monospace,monospace}
+.parts .op{align-self:center;color:var(--rub);font-size:20px}
+.sums{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:15px;line-height:1.9}
+.sums b{color:var(--rub);font-weight:400}
+.gloss{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14.5px;line-height:1.8;overflow-x:auto}
+.gloss .m{border-bottom:2px solid var(--rub);cursor:help}
+.plates{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px;margin:1.2em 0}
+.plates figure{margin:0}
+.plates img{width:100%;display:block;border:1px solid var(--line);background:#fff}
+.plates figcaption{font-size:15.5px;color:var(--soft);padding-top:7px}
 /* the dictionary */
 .tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:1em 0 1.2em}
 .tools input{font:inherit;font-size:17px;padding:6px 10px;border:1px solid var(--line);border-radius:3px;background:#fffdf8;color:var(--ink);min-width:240px}
@@ -236,6 +263,28 @@ def proposals():
     return about, rows
 
 
+def sample_lines(folio="004v", first=10, last=11):
+    """A real stretch of the rendering, straight out of the reader's edition, so the
+    page explaining the marks is showing the book rather than an invented example."""
+    txt = read(os.path.join(TR, "rohonc_readers_edition.md"))
+    m = re.search(r"^## %s — .*?$(.*?)(?=^## )" % folio, txt, re.M | re.S)
+    if not m:
+        raise SystemExit("ktsite: no %s in the reader's edition" % folio)
+    out = []
+    for ln in m.group(1).split("\n"):
+        g = re.match(r"^\s{1,3}(\d+)\s\s(.*)$", ln)
+        if g and first <= int(g.group(1)) <= last:
+            out.append((g.group(1), g.group(2).rstrip()))
+    if not out:
+        raise SystemExit("ktsite: no lines %d-%d on %s" % (first, last, folio))
+    return out
+
+
+def plates():
+    p = os.path.join(WORK, "plates.json")
+    return json.load(open(p, encoding="utf-8")) if os.path.isfile(p) else []
+
+
 def folio_order():
     """Kiraly and Tokai's page order and this edition's folio titles, from the
     reader's edition headings."""
@@ -278,6 +327,7 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 
 <h2>What is here</h2>
 <div class="cards">
+<a class="card" href="/rohonc/script.html"><b>The script</b><span>{html.escape(COPY["card_script"].strip())}</span></a>
 <a class="card" href="/rohonc/reading.html"><b>The reading</b><span>{html.escape(COPY["card_reading"].strip())}</span></a>
 <a class="card" href="/rohonc/dictionary.html"><b>Dictionary</b><span>{html.escape(COPY["card_dictionary"].strip())}</span></a>
 <a class="card" href="/rohonc/tests.html"><b>Tests</b><span>{html.escape(COPY["card_tests"].strip())}</span></a>
@@ -369,6 +419,114 @@ fetch('/rohonc/data/dictionary.json').then(function(r){{return r.json();}}).then
                  body)
 
 
+def page_script(sample, pl, ktn):
+    rows = []
+    for n, line in sample:
+        cells = []
+        for w in line.split():
+            cls = "m" if ("-" in w or w.endswith("*") or w.startswith("[") or "~" in w) else ""
+            cells.append(f'<span class="{cls}">{html.escape(w)}</span>' if cls else html.escape(w))
+        rows.append(f'{n.rjust(3)}  ' + " ".join(cells))
+    gloss = "<br>".join(rows)
+    plate_html = "".join(
+        f'<figure><img src="/rohonc/plates/{html.escape(x["file"].replace(".png", ".jpg"))}" '
+        f'alt="folio {html.escape(x["folio"])} redrawn" loading="lazy">'
+        f'<figcaption>{html.escape(x["caption"])}</figcaption></figure>' for x in pl)
+    body = f"""
+<h1>The script</h1>
+{paras("script_intro", "lead")}
+
+<h2>One sign at a time</h2>
+{paras("script_signs")}
+<div class="demo">
+  <div class="sign" id="sg">
+    <span class="code" id="sgcode">…</span><span class="glyph" id="sgglyph" hidden></span>
+    <span class="gl" id="sggl"></span>
+    <span class="meta" id="sgmeta"></span><p class="ev" id="sgev"></p>
+  </div>
+  <div class="ctl">
+    <button id="sgnext">Another sign</button>
+    <button data-t="" class="on">Any tier</button><button data-t="A">A</button><button data-t="B">B</button><button data-t="C">C</button><button data-t="G">G</button>
+    <span class="sp" id="sgn"></span>
+  </div>
+</div>
+<p id="fontnote" class="nof">The signs are drawn in Király and Tokai's own font. This page does not host it; if you install it from <a href="https://rechnitzer-kodex.hu/" rel="noopener">their site</a> the drawn sign appears here beside its code.</p>
+
+<h2>A sign can be a whole phrase</h2>
+{paras("script_phrases")}
+<div class="demo"><h3>folio 137v</h3>
+  <div class="parts">
+    <div class="pc"><b>you</b><span>569 · 932 times</span></div>
+    <span class="op">+</span>
+    <div class="pc"><b>Mary</b><span>607 · 59 times alone</span></div>
+    <span class="op">=</span>
+    <div class="pc"><b>you-Mary</b><span>569607 · one sign</span></div>
+  </div>
+  <p class="nof" style="margin:12px 0 0">Both halves are in their dictionary. The joined sign is not, and it is written without a space. Reading signs apart this way produced 1,282 readings their dictionary does not contain.</p>
+</div>
+
+<h2>The numerals</h2>
+{paras("script_numerals")}
+<div class="demo"><h3>checked against a number the source supplies</h3>
+<div class="sums">
+ten·ten·ten·ten &nbsp;=&nbsp; 10 + 10 + 10 + 10 &nbsp;=&nbsp; <b>forty</b> &nbsp;&nbsp;the forty days and forty nights<br>
+two·two·ten &nbsp;=&nbsp; (2 + 2) × 10 &nbsp;=&nbsp; <b>forty</b> &nbsp;&nbsp;the forty days of rain<br>
+six·two &nbsp;=&nbsp; 6 + 2 &nbsp;=&nbsp; <b>eight</b> &nbsp;&nbsp;the circumcision on the eighth day<br>
+six·six &nbsp;=&nbsp; 6 + 6 &nbsp;=&nbsp; <b>twelve</b> &nbsp;&nbsp;the twelve apostles
+</div></div>
+
+<h2>The marks</h2>
+{paras("script_marks")}
+<div class="demo"><h3>folio 004v, lines {sample[0][0]} and {sample[-1][0]}, as this edition prints them</h3>
+<div class="gloss">{gloss}</div>
+<p class="nof" style="margin:12px 0 0">Underlined words carry a mark. <b>ten-ten-ten-ten</b> is the numeral above, read as the four signs it is built from. <b>hide_oneself-angel</b> is the fallen angel, one sign read as the smaller signs inside it. A <b>~</b> is a spelling their own apparatus files as a variant, and <b>*</b> is a word read from one passage only.</p>
+</div>
+
+<h2>The drawings</h2>
+{paras("script_plates")}
+<div class="plates">{plate_html}</div>
+
+<script>
+(function(){{
+var ROWS=[],T="",cur=null;
+var q=function(i){{return document.getElementById(i);}};
+function grp(c){{return c.replace(/(...)/g,'$1 ').trim();}}
+function pua(c){{var o="";for(var i=0;i+3<=c.length;i+=3){{o+=String.fromCharCode(0xE000+parseInt(c.substr(i,3),16));}}return o;}}
+var FONT=false;
+try{{
+  var cv=document.createElement('canvas').getContext('2d'), t=pua("060270910");
+  cv.font='34px serif'; var a=cv.measureText(t).width;
+  cv.font='34px "Rohonc Codex", serif'; var b=cv.measureText(t).width;
+  FONT=Math.abs(a-b)>0.5;   // fonts.check() answers true for any family that falls back, so measure instead
+}}catch(e){{}}
+if(FONT){{q('fontnote').hidden=true;}}
+function pick(){{
+  var pool=ROWS.filter(function(r){{return !T||r.tier===T;}});
+  if(!pool.length){{return;}}
+  var r=pool[Math.floor(Math.random()*pool.length)]; cur=r;
+  q('sgcode').textContent=grp(r.code);
+  if(FONT){{var g=q('sgglyph'); g.textContent=pua(r.code); g.hidden=false;}}
+  q('sggl').textContent=r.gloss;
+  q('sgmeta').textContent='tier '+r.tier+' · stands '+r.n+(r.n===1?' time':' times')+' in the book';
+  q('sgev').textContent=r.evidence||'';
+  q('sgn').textContent=pool.length.toLocaleString()+' signs in this tier';
+}}
+q('sgnext').addEventListener('click',pick);
+Array.prototype.forEach.call(document.querySelectorAll('.ctl button[data-t]'),function(b){{
+  b.addEventListener('click',function(){{
+    Array.prototype.forEach.call(document.querySelectorAll('.ctl button[data-t]'),function(x){{x.classList.remove('on');}});
+    b.classList.add('on'); T=b.getAttribute('data-t'); pick();}});}});
+fetch('/rohonc/data/dictionary.json').then(function(r){{return r.json();}}).then(function(j){{
+  ROWS=j.filter(function(r){{return r.tier!=='withdrawn'&&r.gloss;}}); pick();}})
+ .catch(function(){{q('sgcode').textContent='The dictionary file did not load.';}});
+}})();
+</script>
+"""
+    return shell("script", "The script",
+                 "How the Rohonc Codex's writing works: signs that stand for words and phrases, numerals that add and multiply, the marks this edition uses, and the manuscript's drawings redrawn.",
+                 body)
+
+
 def page_doc(slug, fname, title):
     text = read(os.path.join(ROOT, fname))
     return shell(slug, title, f"{title}: {fname} from the Rohonc Codex project, rendered as it stands in the repository.",
@@ -434,6 +592,8 @@ def main(argv):
         tiers[r["tier"]] = tiers.get(r["tier"], 0) + 1
     order = folio_order()
     eng = json.load(open(os.path.join(TR, "english.json"), encoding="utf-8"))
+    sample = sample_lines()
+    pl = plates()
 
     # data files
     files = []
@@ -448,6 +608,16 @@ def main(argv):
                      ("rohonc_readers_edition.md", "the reader's edition: every folio, its English, and its marked lines")):
         copy(os.path.join(TR, fn), os.path.join(out, "data", fn))
         files.append((f"/rohonc/data/{fn}", fn, desc, os.path.join(out, "data", fn)))
+
+    if pl:
+        from PIL import Image
+        os.makedirs(os.path.join(out, "plates"), exist_ok=True)
+        for x in pl:
+            srcp = os.path.join("/opt/publish-app/data/u1/books/20260921-052535-r0hc/img", x["file"])
+            if os.path.isfile(srcp):
+                im = Image.open(srcp).convert("RGB")
+                im.thumbnail((1400, 1400), Image.LANCZOS)
+                im.save(os.path.join(out, "plates", x["file"].replace(".png", ".jpg")), "JPEG", quality=84)
 
     runs = []
     for fn in sorted(os.listdir(WORK)):
@@ -479,6 +649,7 @@ def main(argv):
     # pages
     w = lambda name, s: open(os.path.join(out, name), "w", encoding="utf-8").write(s)
     w("index.html", page_index(fig, summary, ktn, newpara, tiers, len(order)))
+    w("script.html", page_script(sample, pl, ktn))
     rd, n_eng = page_reading(order, eng)
     w("reading.html", rd)
     w("dictionary.html", page_dictionary(about, rows, ktn))
@@ -488,7 +659,7 @@ def main(argv):
     w("outside-grok.html", page_outside("tests", "grok_tests.md", "Outside review: Grok 4.7"))
     w("data.html", page_data(files, runs, outside))
     print(f"wrote {out}: {len(order)} folios ({n_eng} with English), {len(rows)} dictionary rows, "
-          f"{len(DOCS) + 5} pages, {len(runs)} runs")
+          f"{len(DOCS) + 6} pages, {len(runs)} runs, {len(pl)} plates")
     return 0
 
 

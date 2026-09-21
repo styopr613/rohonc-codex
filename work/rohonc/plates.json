@@ -1,0 +1,57 @@
+[
+ {
+  "folio": "016r",
+  "gid": "20260921-212548-qxz7",
+  "file": "plate-016r.jpg",
+  "caption": "Folio 016r. The meeting at the church, where the Joachim and Anne cycle begins.",
+  "size": [
+   1680,
+   2000
+  ],
+  "master": "/home/ubuntu/rohonc-plates/plate-016r.png"
+ },
+ {
+  "folio": "045r",
+  "gid": "20260921-212646-6kad",
+  "file": "plate-045r.jpg",
+  "caption": "Folio 045r. A crowned figure enthroned between a serpent and an armed man.",
+  "size": [
+   1703,
+   2000
+  ],
+  "master": "/home/ubuntu/rohonc-plates/plate-045r.png"
+ },
+ {
+  "folio": "052r",
+  "gid": "20260921-212735-6w6f",
+  "file": "plate-052r.jpg",
+  "caption": "Folio 052r. The cross on the altar, between the two towers.",
+  "size": [
+   1715,
+   2000
+  ],
+  "master": "/home/ubuntu/rohonc-plates/plate-052r.png"
+ },
+ {
+  "folio": "078v",
+  "gid": "20260921-212825-ua6c",
+  "file": "plate-078v.jpg",
+  "caption": "Folio 078v. The saltire, with a figure in each quarter.",
+  "size": [
+   1676,
+   2000
+  ],
+  "master": "/home/ubuntu/rohonc-plates/plate-078v.png"
+ },
+ {
+  "folio": "083r",
+  "gid": "20260921-212916-5hnj",
+  "file": "plate-083r.jpg",
+  "caption": "Folio 083r. The great diagram of circles, with the city inside the ring.",
+  "size": [
+   1672,
+   2000
+  ],
+  "master": "/home/ubuntu/rohonc-plates/plate-083r.png"
+ }
+]

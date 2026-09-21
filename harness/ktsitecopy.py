@@ -30,7 +30,9 @@ OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ktsite_copy.json
 KEYS = ["tagline", "intro", "how_far", "tiers", "new_here_lead", "is_it_true",
         "card_reading", "card_dictionary", "card_tests", "card_method", "card_writeup",
         "card_data", "edition", "credit", "reading_lead", "dictionary_lead", "data_lead",
-        "outside_lead", "credit_line"]
+        "outside_lead", "credit_line", "card_script", "script_intro", "script_signs",
+        "script_numerals", "script_phrases", "script_shuffle_lead", "script_marks",
+        "script_plates"]
 
 
 def fact_sheet():
@@ -94,6 +96,41 @@ FIGURES (these exact numbers may be used; no others. Every percentage is a share
 - {len(order)} folios; English was written for {n_eng} of them; the rest carry
   too little gloss to say anything true.
 
+THE SCRIPT ITSELF (for the page about it)
+- The writing runs right to left. The codex dates itself 1593.
+- It is logographic: a sign stands for a word or a whole phrase, not a sound.
+  Kiraly and Tokai established this. Several hundred signs are in use.
+- Phrases are written WITHOUT a space. The example Kiraly and Tokai print from
+  folio 137v is "sin, without, Jesus, conceive, you-Mary", where you-Mary is a
+  single sign made of their sign for the second person pronoun (932 occurrences)
+  joined to their sign for Mary. This project confirmed the construction
+  independently of their glosses and then applied it across the book.
+- Name signs are the most productive final element: Lord stands alone 577 times
+  and inside longer signs 1038 times; Jesus 89 and 558; Mary 59 and 137.
+- Numerals are strokes that ADD, and a "ten" written after a group multiplies
+  that group by ten. Checked four times against a number the source supplies:
+  ten-ten-ten-ten is forty at the forty days and forty nights; two-two-ten is
+  also forty at the forty days of rain; six-two is eight at the circumcision on
+  the eighth day; six-six is twelve at the twelve apostles.
+- One grammar rule was recovered from the numerals: the sign Kiraly and Tokai
+  gloss "introducing the next item in a list" makes an ordinal when it stands in
+  front of a numeral. The book uses it to number the signs of Christ first to
+  eleventh.
+- Where the signs came from is NOT settled and this project does not claim to
+  know. The script occurs in no other document. What can be said is structural:
+  a logographic script is not tied to any one language, since a sign meaning
+  "Lord" can be voiced in whatever the reader speaks. That is an argument from
+  the structure of the script, not a tested result, and must be offered as such.
+- The marks in the rendering: a plain word is read; a word with * was read from
+  one passage with nothing in the book able to refuse it; a word in [brackets]
+  is a restoration and is counted as read nowhere; a hyphen inside a word means
+  one sign read as the smaller signs it is built from; a ~ marks a spelling
+  their own apparatus files as a variant.
+- The drawings: 26 folios carry pictures, 49 pictures in all. The plates in this
+  edition were REDRAWN by an image model from the library's low-resolution scan,
+  because no print-quality scan is available. They are new drawings that follow
+  the scribe's composition, not reproductions, and every caption says so.
+
 THE TESTS
 - Every bar was declared in the test's own docstring before it ran, and none
   was moved. Failures are recorded beside passes.
@@ -156,6 +193,14 @@ reading_lead     one paragraph at the top of the reading page
 dictionary_lead  two paragraphs at the top of the dictionary page (how the signs are written, what is and is not included)
 data_lead        one paragraph at the top of the data page
 outside_lead     one paragraph introducing an outside reviewer's specification, quoted whole
+card_script      one sentence for a link card to a page about the script itself
+script_intro     2 paragraphs opening a page about the script: what kind of writing it is, and what is not known about where it came from
+script_signs     one paragraph introducing a shuffler that shows one sign's reading at a time
+script_numerals  one paragraph explaining how the numerals work, using the checked examples
+script_phrases   one paragraph explaining that phrases are written without a space, using the you-Mary example
+script_shuffle_lead  one sentence above the shuffler's controls
+script_marks     one paragraph explaining the marks used in the rendering
+script_plates    one paragraph introducing the redrawn plates, saying plainly that they are redrawings and why
 credit_line      one sentence, at most 35 words, for the foot of every page: whose dictionary this rests on, that their translation is unpublished, and that the readings here are this project's own
 
 FACT SHEET

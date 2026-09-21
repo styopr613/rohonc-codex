@@ -32,8 +32,6 @@ import sys
 
 import corpus
 
-PLATES = os.path.join(corpus.ROOT, "work", "rohonc", "plates.json")
-
 ED = os.path.join(corpus.ROOT, "work", "rohonc", "translation",
                   "rohonc_readers_edition.md")
 RT = os.path.join(corpus.ROOT, "work", "rohonc", "translation",
@@ -565,27 +563,6 @@ def build():
         chapters.append(ch)
 
     # ---- BOOK TWO: the folios themselves --------------------------------
-    # Where each plate goes. Three of the illustrated leaves carry a drawing and
-    # no text at all, so the rendering has no page for them and Book Two never
-    # prints them. They are still leaves of the book: each is placed after the
-    # last leaf before it that the edition does print, and its caption says the
-    # leaf has no text on it.
-    def leaf(pg):
-        return (int(pg[:3]), 0 if pg[3] == "r" else 1)
-
-    have = {pg for pg, _, _, _ in fol}
-    plate = {}
-    if os.path.isfile(PLATES):
-        for x in json.load(open(PLATES, encoding="utf-8")):
-            pg = x["folio"]
-            if pg in have:
-                plate.setdefault(pg, []).append(x)
-                continue
-            before = [q for q in have if leaf(q) < leaf(pg)]
-            if not before:
-                continue
-            x = dict(x, textless=True)
-            plate.setdefault(max(before, key=leaf), []).append(x)
     for bi, (start, pname, pblurb) in enumerate(bounds):
         end = bounds[bi + 1][0] if bi + 1 < len(bounds) else len(fol)
         run = fol[start:end]
@@ -595,20 +572,6 @@ def build():
             for pg, title, prose, lines in grp:
                 body.append("**%s**%s" % (pg, (" — " + title) if title else ""))
                 body.append("")
-                # The manuscript draws its scenes, and the drawing is evidence
-                # nobody used while reading. No print-quality scan of this book
-                # exists, so a plate here is a REDRAWING made from the library's
-                # low-resolution scan, and its caption says so every time.
-                for x in plate.get(pg, []):
-                    # the NAME CARRIES ITS EXTENSION: gen.img_src looks up
-                    # img/<name> on disk and silently embeds nothing when the
-                    # name does not resolve to a file.
-                    body.append("[img:%s|%s%s Redrawn from the manuscript's own "
-                                "drawing; not a reproduction.]"
-                                % (x["file"], x["caption"],
-                                   " The leaf carries the drawing and no text."
-                                   if x.get("textless") else ""))
-                    body.append("")
                 # The English written from the gloss alone and leak-checked.
                 # Eight folios lost theirs and print their lines bare; that is
                 # what a refused folio is supposed to look like.
