@@ -13408,3 +13408,214 @@ in Király & Tokai's dictionary, so the person is not named here.
 > was Cleophas, answered.* Kiraly and Tokai's dictionary carries both Emmaus
 > and Cleopas. Luke names only Cleopas; the codex names the second traveller
 > as Luke himself, which is the old tradition and not the gospel.
+
+## 191r — the Ascension, and the two men in white
+
+**1**  the Lord, the gate; and then, after the Lord Christ's execution, in the twelfth year, the time
+`Lord gate and then-exist on-execute Lord-Christ six-two-year time`
+
+**2**  the Lord Jesus appeared, on a Sunday, in Jerusalem, to the Lord's twelve apostles,
+`appear Lord-Jézus inside Sunday inside Jerusalem six-six apostle <of>-Lord`
+
+**3**  to the whole wide world, and to Thomas; and then, after the Lord Christ's execution, | in the twentieth
+`to-the_whole_wide_world Thomas and then-exist on-execute Lord-Christ | one-ten-+one-ten`
+
+**4**  […] year, the time the apostles sat at table in Jerusalem, in the Lord's house
+`[?]-year time sit apostle at_table inside Jerusalem inside Lord house`
+
+**5**  where the Lord God, the Lord Jesus, made the supper; the time there appeared
+`where Lord-<divine> Lord-Jézus dinner do, time appear`
+
+**6**  two, from the execution of the Lord Christ, from town to town | […]
+`two-?from execute Lord-Christ from_town_to_town* | [?]-[?]`
+
+**7**  the year; and he left, to the Lord's Father, to the eternal town;
+`year and to-leave to-<of>-Lord from-father-<divine> from_the_eternal* town-chapter-in_turn`
+
+**8**  and there appeared two angels in white clothes,
+`and two appear two angel-angel white clothes`
+
+**9**  and then the two angels: you, apostles,
+`and_then two angel-angel you apostle-oh-<divine>-chapter`
+
+> Acts 1:9-10, Douay: *he was raised up: and a cloud received him out of their
+> sight... behold two men stood by them in white garments.* The white
+> garments are here and the sign for the clothes was read from this very
+> line.
+
+## 191v — why stand you looking up to heaven?
+
+**1**  which and how? The Lord, joy, see […]; he left, into heaven | the town;
+`what-+who how? Lord joy see [?] leave-chapter-leave on-heaven | town`
+
+**2**  this joy is to be, the Lord would […] on the judgment year, to judge whosoever liveth
+`exist-to this joy want-Lord [?] on-+judge-year judge whosoever_liveth*`
+
+**3**  and the dead; this word, from the Lord, the living Lord; and in this world | the Lord
+`and dead this word <subject> from Lord living-Lord and on-this world* | from-go`
+
+**4**  went into heaven, in turn […] the Lord, with all thy heart, the Lord God, with all thy heart, pleasing and thanks.
+`Lord on-heaven in_turn-[?] Lord ?with_all_thy_heart Lord-<divine> ?with_all_thy_heart pleasing and thanks`
+
+**5**  This holy gospel begins,
+`begins this holy-gospel`
+
+**6**  written by holy Luke
+`write holy-Luke`
+
+**7**  in the second chapter of the writing:
+`inside two chapter <of>-write`
+
+**8**  the time, because the time
+`time because time`
+
+**9**  the virgin Mary, at the coming
+`virgin-Mary on-?coming`
+
+**10**  of the Lord Jesus | […]
+`Lord-Jézus | [?]-[?]`
+
+> Acts 1:11: *Ye men of Galilee, why stand you looking up to heaven? This
+> Jesus who is taken up from you into heaven, shall so come, as you have seen
+> him going into heaven.* The creed's "to judge the living and the dead" is
+> on line 2.
+
+## 192r — Simeon in the temple
+
+**1**  the year; the time the virgin Mary carried, as a wife, in her lap, to the temple
+`year time carry wife virgin-Mary inside öl who temple`
+
+**2**  the Lord Jesus; because this girl would destroy — truly the Lord, but the girl would
+`Lord-Jézus because which this-girl destroy righteous(ly) Lord ~a) want-girl`
+
+**3**  out […] the salvation of the Jews; and then the girl went to this temple;
+`out(ward) [?] from-salvation Jew(ish) and then-exist girl go this temple`
+
+**4**  the time Simeon went into the temple, by the Holy Spirit, in mercy,
+`time go Simeon inside temple on-holy-spirit have_mercy`
+
+**5**  and the virgin Mary appeared; and then Simeon, the virgin Mary,
+`and appear virgin-Mary and_then Simeon virgin-Mary`
+
+**6**  Simeon took this son, more than these, this son, Simeon;
+`grab-Simeon this son more_than_these* this son Simeon`
+
+**7**  […] he carried the son within, Simeon, why in turn; and Simeon knelt down
+`[?] son carry inside <of>-Simeon why?-in_turn and kneel_(down)`
+
+**8**  before the Lord Jesus, and asked the Lord for mercy;
+`Simeon before Lord-Jézus and Lord have_mercy ~ask_(for)`
+
+**9**  and then Simeon: Lord, dismiss thy servant in peace.
+`and_then Simeon Lord remit servant <of>-Lord peace <subject>`
+
+> Luke 2:27-29, Douay: *And he came by the Spirit into the temple. And when
+> his parents brought in the child Jesus... he also took him into his arms,
+> and blessed God, and said: Now thou dost dismiss thy servant, O Lord,
+> according to thy word in peace.* The Spirit, the taking into the arms and
+> the Nunc dimittis are all here in order.
+
+## 192v — mine eyes have seen thy salvation
+
+**1**  Simeon: for which two reasons? Simeon's two eyes have seen salvation | of
+`Simeon who-two-why? see two <of>-Simeon eye-eye be_saved | <of>`
+
+**2**  Simeon; and holy Simeon blessed the Lord Jesus; and Simeon's
+`Simeon and bless Lord-Jézus holy-Simeon and sin`
+
+**3**  sin the Lord had mercy on; and the Lord took him in his lap,
+`Simeon have_mercy-Lord and Lord grab inside öl`
+
+**4**  and the Lord carried him into the temple at Jerusalem; and then into the temple
+`and Lord carry inside Jerusalem temple and then-exist inside temple`
+
+**5**  went the Lord, Simeon and Mary; and Simeon raised the Lord Jesus
+`go-Lord-Simeon-Mary and raise Simeon Lord-Jézus`
+
+**6**  within, Simeon, why in turn; and then Simeon: lo, from
+`inside <of>-Simeon why?-in_turn and_then Simeon ~lo from`
+
+**7**  the Lamb; and the Lord went upon heaven and earth,
+`lamb and the_Lord go-Lord on-heaven land`
+
+**8**  upon this world, the Lord Jesus Christ; and from the Lord, the cross; and upon the Lord there is
+`on-this world* Lord-Jézus-Christ and from Lord cross-[?] and on-Lord exist`
+
+**9**  blessing, all the wide world; and blessing there is; he left. Chapter.
+`bless each,_every ~the_whole_wide_world world* and bless exist leave chapter-oh`
+
+> Luke 2:30: *Because my eyes have seen thy salvation.* The Lamb on line 6 is
+> John 1:29, folded in -- the codex does this constantly, and it is why its
+> gospel readings so rarely match one book cleanly.
+
+## 193r — Simeon carries the news to the fathers in hell
+
+**1**  Chapter. Amen. Here ends this holy gospel. The Lord God's love. This,
+`chapter-oh amen end this holy-gospel Lord-<divine> <subject> love this`
+
+**2**  out of high Moses, truly, in one chapter, he who is written, written:
+`out(ward) high-Moses righteous(ly) inside one chapter he_who* exist write write`
+
+**3**  holy Simeon, three days from going out of this world, said: Christ, the apostles
+`holy-Simeon three_days on-this world from-go-Simeon say Christ apostle`
+
+**4**  of the Lord, announce; Simeon, in the netherworld, to the holy fathers, | at
+`<of>-Lord announce <subject> Simeon inside netherworld holy-from-father | on-+`
+
+**5**  the coming of the Lord: and see, you are saved, and many
+`coming* <of>-Lord and see be_saved you and many`
+
+**6**  in judgment who are in the netherworld, from the holy fathers and the holy prophets.
+`judge-+<subject> exist inside netherworld from father-holy and prophet-holy.`
+
+**7**  Written; and from the holy gospel, that is […] the Lord, this Lord, the holy gospel:
+`write and from holy-gospel that_is [?] Lord this-Lord holy-gospel`
+
+**8**  this Lord, the nine, upon the water created; this Lord gave light to the blind;
+`this-Lord exist-nine on-water create this-Lord blind through light`
+
+**9**  this Lord cast the evil out of the people; this Lord the dead
+`this-Lord evil on-people exorcise this-Lord dead`
+
+**10**  raised and resurrected; and this and that; the leper the Lord healed; this Lord, the cross, the holy gospel.
+`rise* ~resurrect who-and-this-and leper from-healing-Lord this-Lord cross holy-gospel`
+
+> The Gospel of Nicodemus again: Simeon dies, goes down to the fathers in
+> limbo, and tells them Christ is coming. It is the same source as the
+> harrowing pages earlier in the book.
+
+## 193v — the call of Matthew at the receipt of custom
+
+**1**  This holy gospel begins,
+`begins this holy-gospel`
+
+**2**  written by holy Matthew, in the […]
+`write holy-Matthew inside and`
+
+**3**  chapter of the writing: the time,
+`chapter <of>-write time`
+
+**4**  then, the Lord Jesus, in his
+`then-exist Lord-Jézus inside`
+
+**5**  thirtieth year, the time
+`thirty years* time`
+
+**6**  he preached in | there was
+`preach inside | ~exist`
+
+**7**  […] and then the Lord Jesus preached in Capharnaum,
+`[?] and then-exist from-preach Lord-Jézus inside Capharnaum`
+
+**8**  and left off, down, from preaching; and many people made ready
+`and leave to-down on-preach and prepare to-Lord`
+
+**9**  to him; and then the Lord went into the town, and saw,
+`many people and then-exist go-Lord on-town and see`
+
+**10**  the Lord Jesus, holy Matthew sitting at the receipt of custom; and then the Lord Jesus
+`Lord-Jézus on-tax_collector sit holy-Matthew and_then Lord-Jézus`
+
+> Matthew 9:9, Douay: *Jesus saw a man sitting in the custom house, named
+> Matthew; and he saith to him: Follow me.* K&T's dictionary carries the
+> tax-collector sign, so the reading of the line is theirs.

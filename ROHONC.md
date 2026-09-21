@@ -1090,7 +1090,7 @@ deleted, because a translator's word can still be a true paraphrase.
 
 ## What the book says
 
-With the rendering on the page it became possible to read it, and 363
+With the rendering on the page it became possible to read it, and 369
 folios are translated in `work/rohonc/translation/rohonc_translation.md`.
 The most recent twenty run from 060r to 068v without a break: the road to
 Emmaus, Thomas, the Good Shepherd, the false prophets and the two trees, the
