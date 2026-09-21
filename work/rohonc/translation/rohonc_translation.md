@@ -15692,3 +15692,321 @@ in Király & Tokai's dictionary, so the person is not named here.
 > street that is called Strait, and seek in the house of Judas, one named Saul
 > of Tarsus.* The three days, Ananias and the house of Judas are all here --
 > and Ananias is the name this project read from this very folio.
+
+## 221r — a vessel to bear my name
+
+**1**  Ananias; and Paul, from Paul; and he bowed down,
+`Ananiah and Paul from-[?]-Paul and bow_down`
+
+**2**  […] upon Paul […]; and Ananias put the Lord's
+`[?] on-<of>-Paul [?] and put Ananiah <of>-Lord`
+
+**3**  name upon Paul, because from Paul, Paul is | of
+`name on-Paul because from Paul exist-Paul | <of>`
+
+**4**  the Lord; the name Paul bears into the wide world; Paul is | of
+`Lord name carry Paul on-+wide world* exist-Paul | <of>`
+
+**5**  the Lord; the name Paul confesses. And then holy Ananias:
+`Lord name confess Paul and_then holy-Ananiah`
+
+**6**  Lord, how is it, from Saul, of the Lord, the name | bears
+`Lord how? exist from Saul <of>-Lord [?]-~exist-+name | carry`
+
+**7**  Saul, and Saul, of the Lord, the name, through
+`Saul and Saul <subject> <of>-Lord [?]-~exist-+name through`
+
+**8**  persecuting, Saul? And secondly the Lord God said to holy Ananias:
+`persecute-Saul and two say Lord-<divine> holy-Ananiah`
+
+**9**  go, Ananias; the Lord's servant, in truth and love, drink
+`go Ananiah <of>-Lord servant inside righteous(ly)-love drink`
+
+> Acts 9:13-15, Douay: *Lord, I have heard by many of this man, how much evil
+> he hath done to thy saints in Jerusalem... And the Lord said to him: Go thy
+> way; for this man is to me a vessel of election, to carry my name before the
+> Gentiles.* Ananias's objection and the Lord's answer are both here, and the
+> name borne into the world is on lines 3-5.
+
+## 221v — a table of earthquakes and eclipses
+
+**1**  Before the Spirit, on the Friday, the earth, one
+`before spirit inside Friday earth one`
+
+**2**  quake; on the Spirit, on the Wednesday, the moon eclipsed
+`quake on-spirit inside Wednesday moon eclipse`
+
+**3**  one hour; and from the year before God,
+`one hour and from year before God`
+
+**4**  on the Friday, the earth quaked, from the Spirit;
+`inside Friday earth quake from spirit`
+
+**5**  the first year from God, the first year, in turn, on the fast | three
+`first year from God first year in_turn on-fast | three`
+
+**6**  days before the virgin Mary; on the Sunday the earth
+`day before virgin-Mary inside ~Sunday earth`
+
+**7**  quaked; and this, and the day […] […] upon heaven
+`quake and this and day [?] [?] on-heaven`
+
+**8**  and earth, living, and confessing, to the letter; and a man
+`land living and confess to-literal-to and somebody`
+
+**9**  […] sees […] […] to, within […]
+`[?] see [?] [?] to inside [?]`
+
+**10**  […] in turn, two years […] from the Spirit […]
+`[?] in_turn two-year [?] from spirit [?]`
+
+> A table of portents by weekday, of the kind chronicles and almanacs carry.
+> These last folios are the most damaged in the book and the least readable.
+
+## 223r — more of the same table
+
+**1**  the day the earth quaked, out, the first
+`day <subject> earth quake out(ward) first`
+
+**2**  Spirit, Friday; and the years and three days of God, from the Spirit, twenty-two years
+`spirit Friday and years* and three_days God from spirit two-two-year`
+
+**3**  […] from the Spirit […] the earth quaked, and the moon
+`[?] from spirit [?] earth quake and moon`
+
+**4**  in turn, upon; and the year, at the beginning,
+`in_turn on and year <subject> ~begin`
+
+**5**  from the Father of a man […] from […] whosoever; and
+`from-father <of>-somebody [?] from [?] whosoever* and`
+
+**6**  […] in truth believing, the Lord bears the man […]
+`[?] inside righteous(ly) believe carry-Lord somebody [?]`
+
+**7**  believeth not; and this, every one, therefore have mercy, man […]
+`not_believe and this each,_every therefore-have_mercy somebody [?]`
+
+**8**  and the man would, Christ, against, leave; the man, God, learn,
+`and somebody want Christ against leave somebody God learn`
+
+**9**  the throne […] would, whosoever […] the Lord's throne […] truly
+`throne [?] want whosoever* [?] Lord-throne [?] righteous(ly)`
+
+**10**  of the Lord.
+`Lord-<of>`
+
+## 223v — the date, and the age of the world
+
+**1**  From the leaving of the Lord Jesus Christ to the Lord's Father, out,
+`from* to-leave Lord-Jézus-Christ from-father <of>-Lord out(ward)`
+
+**2**  a thousand years, five hundred and sixty years; and by name, that day,
+`thousand-year five_hundred and six-ten-year and from-+name-+day`
+
+**3**  thus, the beginning of the year, written.
+`this_is begin-year write`
+
+**4**  Twenty-two sons.
+`two-two-son`
+
+**5**  From […] then it was, that day, in turn, see; and then
+`from* [?] then-exist exist [?]-+day in_turn see* and_then*`
+
+**6**  the son, Moses […] by name, the year, the first day,
+`son Moses [?] from-+name-year first-+day`
+
+**7**  seven, in turn, from the seeing, two years […]
+`seven in_turn <of>-from-see two-year [?]`
+
+**8**  from the understanding, the earth; understanding; the Lord Jesus Christ was born
+`from-understand earth understand be_born Lord-Jézus-Christ`
+
+**9**  into this world, out, five thousand and a hundred days, and | ninety
+`on-this world* ~out(ward) five_thousand and hundred-+day and | nine-ten`
+
+**10**  years, and nine years; and this signifies nine, from the understanding, the beginning of this world,
+`year and nine-year and this symbolize nine from-[?] from-understand begin this world.`
+
+**11**  until the Lord Jesus Christ was born into this world; in turn, and from, out,
+`until be_born Lord-Jézus-Christ on-this world in_turn and from-[?] ~out(ward)`
+
+**12**  from the understanding, to the leaving of the Lord Jesus to the Lord's Father, eternal, in turn […]
+`from-understand to-leave Lord-Jézus to-from-father <of>-Lord eternal* in_turn-[?]`
+
+**13**  the time the apostles said to the Lord Jesus: Master, when shall the judgment day be? Said
+`time say apostle Lord-Jézus Master when? exist understand judge-+day say`
+
+> **Two dates, and both of them matter.** Line 9-10 gives the age of the world
+> at the Nativity as five thousand, one hundred and ninety-nine -- the figure
+> of the Roman Martyrology's Christmas proclamation, *anno a creatione mundi
+> quinquies millesimo centesimo nonagesimo nono*. That is a liturgical
+> number, and its presence here is another sign that the compiler worked from
+> a missal.
+>
+> Lines 1-2 give a thousand five hundred and sixty years since the
+> Ascension. Read as a date of composition that is the 1560s, which sits
+> inside the range the manuscript's paper has always been given and close to
+> the Tridentine missal and breviary of 1570 and 1568. This project does not
+> claim it as the date of the book; it is what the line says, and the line is
+> damaged on both sides.
+
+## 222r — when shall the judgment day be?
+
+**1**  […] the name of the Lord, of the Lord's Father God.
+`[?] name <of>-Lord <of>-Lord from-father-<divine>.`
+
+**2**  In turn, out […] two thousand years, to this,
+`in_turn-[?]-~out(ward) [?] two-thousand-year to-+this_is`
+
+**3**  the brother, of the chapter, one day; and he has
+`[?]-+brother <of> chapter one day and have`
+
+**4**  from […] the judgment day; because anew, from the Son of God, judgment;
+`from [?] judge-+day because new-from son God judge`
+
+**5**  the dead man, the sinful man damned, the sinful man; and saved,
+`die somebody sin be_damned somebody sin and be_saved`
+
+**6**  the light, said, said the Lord Jesus; this said the Lord's apostles; there is upon a man
+`light say say Lord-Jézus this say apostle <of>-Lord exist on-somebody`
+
+**7**  one, one, to the earth, water, sun, all […]
+`one one to-to earth water sun each,_every [?]`
+
+**8**  the earth, the sun, Christ,
+`earth sun Christ`
+
+**9**  […] the Lord God.
+`[?] Lord-<divine>`
+
+> Matthew 24:3: *Tell us when shall these things be? and what shall be the
+> sign of thy coming, and of the consummation of the world?*
+
+## 222v — a calendar, with the writer's own name in it
+
+**1**  […] Monday, in the wound, he went, the writer of this book […] to the house,
+`[?] Monday inside wound go-+the_name_of_the_author-somebody [?] to-house`
+
+**2**  the brother, trespassing, he carried, the writer of this book […] on the Friday,
+`brother-trespass carry-+the_name_of_the_author-somebody [?] inside Friday`
+
+**3**  […] the writer of this book […] on the Sunday he went, the writer of this book, to the seal
+`[?] the_name_of_the_author-somebody [?] inside Sunday go-+the_name_of_the_author-somebody seal-to`
+
+**4**  […] remitted, at the beginning of the year […] this, out, one
+`[?] remit ~begin-year [?] this out(ward) one`
+
+**5**  holy Philip's year […] Monday, on the […] he took, the writer of this book,
+`holy-Philip-year [?] Monday inside <date> grab-+the_name_of_the_author-somebody`
+
+**6**  until the beginning of the year; in turn, from the beginning of the year, one in turn […]
+`until ~begin-year in_turn from* ~begin-year one in_turn [?]`
+
+**7**  […] […] the Lord, have mercy; in turn […] one […] in turn, in the middle,
+`[?] [?] Lord have_mercy in_turn [?] one [?] in_turn in_the_middle`
+
+**8**  the man […] more than these; this said […] the writer of this book […]
+`somebody [?] more_than_these* this say [?] the_name_of_the_author [?]`
+
+**9**  Friday […] […] the writer of this book; this, out, two; Sunday, by name,
+`Friday [?] [?] the_name_of_the_author-somebody this out(ward) two Sunday name`
+
+**10**  Sunday three, in turn, two by two; Sunday three, the Lord | Father,
+`Sunday three in_turn-two-two <subject> Sunday three Lord | father`
+
+**11**  Son and Spirit; on the Monday there was […] conceived, to
+`son-spirit inside Monday exist [?] get_conceived to`
+
+> **Kiraly and Tokai's dictionary carries a sign they gloss as "the name of the
+> author", and it stands six times on this one folio.** Whatever the compiler
+> called himself, he signed his book here, in a calendar of his own days --
+> where he went, what he carried, what he took. It is the only page in the
+> manuscript that is about the man who made it.
+
+## 224r — the last leaf but one
+
+**1**  ninety-six, little, one […]
+`nine-ten six little one-[?]`
+
+**2**  Michael, on the Saturday, of the woman […]
+`Michael on-Saturday <of>-woman [?]`
+
+**3**  of Mark; he himself took, and […] and two, from two, the mother,
+`<of> Mark is_he* grab and [?] and two from two mother`
+
+**4**  on the Saturday […] […] on the Saturday,
+`on-Saturday [?] [?] on-Saturday`
+
+**5**  upon good […] more than these; upon a man there is, then,
+`on-good [?] more_than_these* on-somebody exist then-+<subject>`
+
+**6**  upon death, that day, upon the name […]
+`on-die [?]-+day on-exist-~exist-+name [?]`
+
+**7**  […] […] Matthew, on the Saturday; and lo,
+`[?] [?] Matthew on-Saturday and lo`
+
+**8**  one, this is […] Matthew […]
+`one this <subject> exist [?] Matthew [?]`
+
+**9**  […] on the Saturday […] […] […]
+`[?] on-Saturday [?] [?] [?]`
+
+**10**  understanding, who […] the cup by name; and from a man to this rich good […]
+`understand-who [?] cup-+name and from somebody to this rich good [?]`
+
+**11**  and one […] three, and one […] three,
+`and one [?] three and one [?] three`
+
+**12**  believe upon this […] […] […] […]
+`believe on-this [?] [?] [?] [?]`
+
+> The last two folios are the most damaged in the manuscript and the least
+> read: 22 of the 29 unread words on 224r have no reading at all. What can be
+> made out is a calendar -- Michael, Mark, Matthew, Saturdays -- of the same
+> kind as 222v.
+
+## 224v — the end of the book
+
+**1**  the Lord Jesus Christ, saved; the Lord, wide,
+`Lord-Jézus-Christ be_saved Lord wide`
+
+**2**  […] the son, living, of
+`[?] ~son living-exist <of>`
+
+**3**  he said; and this man, upon the food, to, in turn,
+`say and this somebody on-food to-on in_turn`
+
+**4**  living, the woman, Matthew […] on the Saturday, within
+`living woman ~Matthew [?] on-Saturday inside`
+
+**5**  the seal […] Lord have mercy, you, have mercy,
+`seal-chapter [?] Lord have_mercy you have_mercy`
+
+**6**  of Christ;
+`[?]-~Christ`
+
+**7**  and through offering, you, have mercy,
+`and through offer you have_mercy`
+
+**8**  have mercy, Lord; in turn, the woman […] […]
+`have_mercy Lord in_turn woman [?] [?]`
+
+**9**  and of […] and all, from the leaving […] […]
+`and <of> [?] and each,_every <of>-from-leave [?] [?]`
+
+**10**  on high; and […] there is, then, the soul from
+`on high and <subject> [?] exist then-+<subject> soul from`
+
+**11**  losing, from riches […] there is […] […] from
+`lose from-rich [?] exist [?] [?] from`
+
+**12**  the day, this why; and understanding, the man, the woman,
+`day this-why? and understand somebody woman`
+
+**13**  this world, truly, two.
+`this world righteous(ly) two`
+
+> The book ends in a prayer for mercy, twice repeated, and the last legible
+> word of the manuscript is a number. **All 441 folios are now rendered into
+> English.**

@@ -484,8 +484,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 433 folios",
-          len(_folios(md)) == 433, str(len(_folios(md))))
+    check("translation: the file exists and covers 441 folios",
+          len(_folios(md)) == 441, str(len(_folios(md))))
     import re as _re
     heads = set(_re.findall(r"^## (\d{3}[rv]) ", md, _re.M))
     try:
@@ -619,7 +619,7 @@ def main():
           and "she lives on the" in flat
           and "cut their *grape* into" in flat)
     check("ROHONC: Emmaus run translated and Cleopas named",
-          "433\nfolios are translated" in doc and "names Cleopas" in flat
+          "441\nfolios are translated" in doc and "names Cleopas" in flat
           and "of sin, and of righteousness, and of" in flat
           and "child on the seashore" in flat
           and "sign for sign and in order" in flat
