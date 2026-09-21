@@ -5303,5 +5303,29 @@
   "tier": "G",
   "n": 4,
   "evidence": "A GUESS. One formula four times on 004r: 'the cup, Lucifer, [x], the cup was hidden away, above'. The folio is the taking of the cup from before the throne -- the opening of the book, with the angel, the Father, the throne and Lucifer, and the cup hidden away six times in thirteen lines. The slot wants the act by which the cup leaves the throne, and 'steal' is free in both translations. Tagged as a guess because the folio cites no chapter and verse and the story is not in any text this project has in its corpus, so there is nothing to test it against; what the four lines prove is only that the codex writes one word there four times."
+ },
+ "520181": {
+  "gloss": "Ananias",
+  "tier": "C",
+  "n": 4,
+  "evidence": "All occurrences are on 220v, and 220v:5 reads '[x], put, of Saul, servant, inside one house'. The folio is Acts 9 -- 220r:1 has Saul persecuting, and K&T's dictionary carries Damascus. Douay Acts 9:10-11: 'Now there was a certain DISCIPLE at Damascus, named ANANIAS... Arise, and go into the street that is called Strait, and seek in the house of Judas, one named Saul of Tarsus.' 220v:2 reads 'one man [x], and somebody [x], there is, coming', which is the naming of that man, and 220v:7 'this house, this [x], somebody'. 'Damascus', 'Judas' and 'disciple' are all carried by other signs, so the name the passage still needs is Ananias, and it is free in both translations."
+ },
+ "520150": {
+  "gloss": "not",
+  "tier": "C",
+  "n": 4,
+  "evidence": "K&T read 540520150 as 'do not', and this sign is its tail. 038v:3 and 039r:4 are the same formula on consecutive folios: 'the first denial of the Lord Jesus, because Peter said: [x] the Lord'. Douay Luke 22:57: 'Woman, I know him NOT'; Matthew 26:70: 'I know not what thou sayest'; John 18:17: 'I am not'. Every denial in every gospel turns on the negative, and the codex has written the word 'denial' on both lines already, so what Peter SAYS is the hole. 042v:8 and 118v:1 take it too. The book carries several negatives on several signs, which is why this is C: it is a further one, not a new word."
+ },
+ "5200607a0580": {
+  "gloss": "because",
+  "tier": "C",
+  "n": 3,
+  "evidence": "It begins with K&T's 5200607a0 'because; just as; so that; that; what', leaving 580 over. 129r:1: 'and can, the apostle, [x], the Lord Jesus, to Christ, because therefore'; 128v:8: '[x] the Lord, who, this Lord, to you'; 215v:9: 'can say, [x], of, the Lord created, the Lord God'."
+ },
+ "5205240606a3": {
+  "gloss": "witness",
+  "tier": "C",
+  "n": 3,
+  "evidence": "One glyph from 5209500606a3, which this project reads as 'bones' -- that neighbour is no help, and the reading comes from the passage. All three occurrences are on 076v and 077r, whose cited source is Matthew 18:15-17. 076v:2: 'somebody among the apostles, you, sin, [x], from'. Douay Matthew 18:16: 'take with thee one or two more: that in the mouth of two or three WITNESSES every word may stand.' 'witness' is free in both translations and is the one noun of that verse no sign carries; 'alone', 'yea' and 'dined', the other free words of the chapter, are not nouns that recur. At 076v:3 and 077r:8 it stands beside the heathen-and-publican pair of 18:17, one verse later, which is where the codex has been working."
  }
 }
