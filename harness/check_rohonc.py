@@ -540,11 +540,11 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 3629 tokens = 12.1% rendered",
-          len(g) == 2 and g[0] == 3629 and close(g[1], 12.1, .02), str(g))
+    check("proposals: 3643 tokens = 12.1% rendered",
+          len(g) == 2 and g[0] == 3643 and close(g[1], 12.1, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
-    check("proposals: 3542 lines fully read with them",
-          len(g) == 2 and g[0] == 3542 and close(g[1], 81.0, .02), str(g))
+    check("proposals: 3554 lines fully read with them",
+          len(g) == 2 and g[0] == 3554 and close(g[1], 81.3, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -553,7 +553,7 @@ def main():
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
           "METHOD.md" in flat and "1779 signs are read" in flat
-          and "23.8% to **81.0%**" in flat)
+          and "23.8% to **81.3%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)

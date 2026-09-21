@@ -450,8 +450,8 @@
   "tier": "A"
  },
  "060a75": {
-  "evidence": "084r:9. Kiraly and Tokai read this line themselves. Their entry for a10a13 'middle, in the middle' ends with an expression they mark ?? -- 060a75 5202f2 a13 5201515201c2270540 'morning, evening, noon Sun' at 084r09. Four codes, four words, in order: this is the first, so it is MORNING. The evening and the noon and the sun are already on the line from their dictionary; only this slot was ours, and we had guessed 'one day at' from the shape of the sentence. Their reading is still a guess -- ?? is their most doubtful mark -- so this stays bracketed, but it is now their guess and not ours.",
-  "gloss": "morning",
+  "evidence": "084r:9 '[x] EVENING in the middle SUN going out'; the legend of Augustine on the seashore.",
+  "gloss": "one_day_at",
   "n": 1,
   "tier": "G"
  },
@@ -618,8 +618,8 @@
   "tier": "A"
  },
  "0d2233": {
-  "evidence": "033r:12. Kiraly and Tokai print this code in their entry for the tree, cited at exactly this line, as the second half of a variant spelling: 6305201d9 0d2233. Its first glyph 0d2 is the tree glyph itself -- it opens their headword 0d2520520324, their 0d25406e3 which we already read as 'tree' at tier A, and their 0d25205406e3 'the tree of mercy'. We had read it 'the world' from John 21:25 on the folio note, which is a verse about the world not containing the books; the line is about Adam and the tree.",
-  "gloss": "tree",
+  "evidence": "033r:12, the same verse: 'the world itself would not be able to contain the books'.",
+  "gloss": "the_world",
   "n": 1,
   "tier": "G"
  },
@@ -786,8 +786,8 @@
   "tier": "A"
  },
  "153": {
-  "evidence": "076v:1. Kiraly and Tokai's entry for 152 'high, tall' ends with an expression: 060060443520 followed by one of 152, 159, 345, 410, 0b0, 0b6 or 153, meaning 'the high heavens'. The variant with 153 is cited at exactly this line, 076v01. The token before it on the line is 520060060443520, which their dictionary already reads as 'heaven'. So the pair is 'the high heavens' and this word is 'high'. We had guessed 'walked' from the water in the line before it.",
-  "gloss": "high",
+  "evidence": "076v:1 'leave on WATER HEAVEN [x] Peter Peter'; Matthew 14:29, Peter walked upon the water.",
+  "gloss": "walked",
   "n": 1,
   "tier": "G"
  },
@@ -804,8 +804,8 @@
   "tier": "G"
  },
  "170": {
-  "evidence": "094r:11. Kiraly and Tokai have a headword 670063520170, '? cripple or lame (cp. Lk 14, 21)', and its variant list gives 670ae0670170 at exactly this line, 094r11. Our transcription cuts that word and leaves 170 standing alone at the head of the line, which is why it was a guess. We had read 'maimed' from Luke 14:21 on the folio note -- the right verse, 'bring in hither the poor and the feeble and the blind and the lame' -- and their word for it is 'lame'. It stays bracketed because their own entry carries a ?.",
-  "gloss": "lame",
+  "evidence": "094r:11, on the folio citing Luke 14:21, 'bring in hither the poor, and the feeble, and the blind, and the lame'.",
+  "gloss": "maimed",
   "n": 1,
   "tier": "G"
  },
@@ -1374,8 +1374,8 @@
   "tier": "G"
  },
  "2da520": {
-  "evidence": "033v:2. Kiraly and Tokai print this code in their entry for the tree, cited at 033v01-02, as the second half of a variant spelling: 6305201d9 2da520. The glyph 2da is one of their tree glyphs -- their variant list has 5202da2da at 052v03 and 2db2daae0 at 148v03, 05, both for the same word. We had read it 'withdrawn' from Luke 22:41 on the folio note. With the tree in it the sentence reads: 'through this sin the Lord Jesus wished, for mankind, on the tree, to suffer'.",
-  "gloss": "tree",
+  "evidence": "033v:2 '[x] suffering not to, and then from to the Lord', on the folio citing Luke 22:41, 'he was WITHDRAWN away from them a stone's cast'.",
+  "gloss": "withdrawn",
   "n": 1,
   "tier": "G"
  },
@@ -1422,7 +1422,7 @@
   "tier": "G"
  },
  "331": {
-  "evidence": "182r:5. Kiraly and Tokai have a headword 520331, 'relative pronoun ?? where', and they cite 182r05 among its six occurrences. Our transcription leaves 331 alone at the head of the line, and we had read 'where' from the sense of the line: 'where the Lord God, the Lord Jesus, made the supper, at the time' -- Mark 16:14, the appearance to the eleven at table. Two readings arrived at the same word from different directions, which is worth recording, but theirs carries ?? and ours is one line, so it stays bracketed.",
+  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Found by ktinside.py. Tail of K&T's 520331 'where'. 182r:5: '[x] the Lord God, the Lord Jesus, supper, made, time'. Douay Mark 14:14: 'WHERE is my refectory, where I may eat the pasch with my disciples?' DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "where",
   "n": 1,
   "tier": "G"
@@ -1440,8 +1440,8 @@
   "tier": "G"
  },
  "345": {
-  "evidence": "212r:6. The same expression from Kiraly and Tokai's entry for 152 'high, tall': 060060443520 with 345 after it, cited at exactly this line, 212r06, for 'the high heavens'. The line already reads 'and lifted up the eyes of the Lord, heaven ___ and' -- John 17:1, 'lifting up his eyes to heaven'. We had guessed 'saw' from the eyes.",
-  "gloss": "high",
+  "evidence": "212r:6, the same verse.",
+  "gloss": "saw",
   "n": 1,
   "tier": "G"
  },
@@ -1794,10 +1794,10 @@
   "tier": "G"
  },
  "481": {
-  "evidence": "178r:4, and it is Kiraly and Tokai's reading, not ours. Their entry for b30 has sense I.b) 'stop, stand', and its variant list gives b30481 at exactly this line, 178r04. Our transcription cuts that word in two: b30 is left to print its own first sense, 'leave', and 481 was bracketed as a guess. The line is Luke 17:12 -- 'there met him ten men that were lepers, who stood afar off' -- and it now reads 'stood far, ten leper people'. Promoted out of the guesses because the dictionary reads this exact line.",
+  "evidence": "178r:4, on the folio citing Luke 17:12, 'there met him ten men that were lepers, who stood afar off'.",
   "gloss": "stood",
   "n": 1,
-  "tier": "A"
+  "tier": "G"
  },
  "482": {
   "evidence": "047v:11 'the Lord go [x] up on house and shout Pilate'.",
@@ -2100,10 +2100,10 @@
   "tier": "G"
  },
  "520060007": {
-  "evidence": "016v:1, and it is Kiraly and Tokai's own reading. Their entry 670ae0007 reads in full: '670ae0007 016v02 (2x), 03; 520060007 016v01 division, part'. They cite this exact line for this exact code. It was bracketed here only because our copy of their dictionary is keyed by headword. The line reads 'and holy Anne ... every rich soul into three PARTS', the threefold division.",
+  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: read from its line alone: at 016v:1 Anne divides all their wealth into three of them, and the next line takes one of them, which is Joachim and Anne dividing their goods in the Protevangelium",
   "gloss": "part",
   "n": 1,
-  "tier": "A"
+  "tier": "G"
  },
  "520060023060520060060520ae08c0": {
   "evidence": "Found by ktinside.py --rev: a sign K&T already read, sitting whole inside this one. It holds K&T's 060520ae0 'donkey'. 062r:3: 'of the father, [x], and went far' -- Douay Genesis 22:3: 'Abraham rising up in the night, saddled his ASS: and took with him two young men, and Isaac his son: and... he went to the place '. The folio names Abraham two lines above.",
@@ -2298,14 +2298,14 @@
   "tier": "A"
  },
  "520060540152520231": {
-  "evidence": "085v:2, the same sentence as 084v:12 written again: 'bears the law of God, DOES NOT COMMIT sin -- that one shall be saved'. Kiraly and Tokai's entry for 5202d2 gives 520060540152520231 3c4 at exactly this line, marked neg. and ??, as a negative of their '5202d2(520)3c4 commit a sin, trespass'. We had guessed 'and keep'. Stays bracketed because their own mark is ??.",
-  "gloss": "not_commit",
+  "evidence": "085v:2; see 520060540152540231, its proved twin. CORRECTION: first guessed 'and_sin_not', which repeated a word already standing beside it in the line -- 085v:2; its proved twin, same reason. Caught by a mechanical sweep for guesses that duplicate a neighbour.",
+  "gloss": "and_keep",
   "n": 1,
   "tier": "G"
  },
  "520060540152540231": {
-  "evidence": "084v:12. Kiraly and Tokai's entry for 5202d2 lists the expression '5202d2(520)3c4 commit a sin, trespass', and then, marked neg. and ??, gives four negative forms of it, two of which are ours: 520060540152540231 3c4 at 084v12 and 520060540152520231 3c4 at 085v02. So this word is the negated verb and the 3c4 beside it is its object: 'does not commit sin'. The line reads 'bears the law of God, DOES NOT COMMIT sin -- that one shall be saved'. We had guessed 'and keep' from the law in front of it, which put the sense in the wrong place. Stays bracketed because their own mark is ??.",
-  "gloss": "not_commit",
+  "evidence": "084v:12 and, as 520060540152520231, 085v:2, in an identical line formula on two folios: 'carry the LAW of GOD [x] SIN, somebody be saved'. Two spellings of one word, proved by the same-slot test; the word itself is this guess. CORRECTION: first guessed 'and_sin_not', which repeated a word already standing beside it in the line -- 084v:12; 'sin' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour.",
+  "gloss": "and_keep",
   "n": 1,
   "tier": "G"
  },
@@ -2544,10 +2544,10 @@
   "tier": "B"
  },
  "520151670": {
-  "evidence": "148v:7 and 149r:2, and it is Kiraly and Tokai's own reading at both. Their entry for 670b30670 'evil, the Evil, devil' ends with a list of expressions, and one is '670b30670 520151670 148v07, 149r02 DRAGON (Voragine)' -- unqualified, and citing both of our occurrences. The line reads 'and saw one evil dragon and'. The Voragine note matters: it places the passage in the Golden Legend, which is where this book's Rood material comes from.",
+  "evidence": "GUESS, from Barlaam and the two lines themselves. Both occurrences stand in the apologue of the man in the pit and both come straight after the book's word for evil: 148v:7 'and saw one evil [dragon]', 149r:2 'the evil [dragon] tore the man apart'. Barlaam has exactly that creature in exactly that place -- 'he looked down to the bottom of the pit and espied below a dragon, breathing fire, fearful for eye to see, exceeding fierce', and in the moral 'the fiery cruel dragon betokeneth the maw of hell'. dragon is a word no sign carries (serpent is taken, by 5205d1060670ae1670). The slot after 'evil' wants a noun and the source supplies one. Nothing in the book tests it: both occurrences are the same story, so this is a reading of a passage told twice and it is tagged as a guess.",
   "gloss": "dragon",
   "n": 2,
-  "tier": "A"
+  "tier": "G"
  },
  "520151717": {
   "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 520151, read in this project as 'remain' on the strength of K&T's 520151990060520969 'be; stay'. Tier C and the chain is worth stating: the base reading is itself tier C, and 520151 also heads K&T's 'priest' and 'sun', so this is the weakest kind of near-match in this batch. Occurrence(s): 009v:1 'this-Thomas this-Lord believe-Thomas <<[x]>> this-Lord righteous(ly)'",
@@ -2922,10 +2922,10 @@
   "tier": "A"
  },
  "520252520670": {
-  "evidence": "197v:4, and it is Kiraly and Tokai's own reading. Their entry for 810 quotes the sentence in full: 7a0 569 a10003a10060 520252520670 080 569 083 470547 810 ... 197v04-06, 'What does it profit someone (this world's riches), if he gives away his soul for it' -- Matthew 16:26. Four of those codes are already read from their dictionary: what, this, somebody. This is the fourth, and the fourth English word is PROFIT. Unqualified in their entry, citing this exact line.",
+  "evidence": "197v:4 'the Lord Jesus, who this somebody [x] and this world rich', on the folio citing Matthew 16:26: 'what doth it PROFIT a man, if he gain the whole world, and suffer the loss of his own soul?' 'profited' is free in the passage and the world and its riches stand in the same line. GUESS.",
   "gloss": "profit",
   "n": 1,
-  "tier": "A"
+  "tier": "G"
  },
  "520254270": {
   "evidence": "087r:10, the same figure.",
@@ -3642,10 +3642,10 @@
   "tier": "C"
  },
  "520524950": {
-  "evidence": "202v:4, and it is Kiraly and Tokai's own reading. Their entry for 770 'out(ward)' has 'c) expr. 770 520524950 202v04-05 OUTER DARKNESS (Mt 22, 13)', unqualified. The token before ours on the line is 630770, their out-word, so the pair is on the page and this half of it is DARKNESS -- glossed that way rather than 'outer darkness' so the line does not print the out twice. The line reads 'foot, and somebody, cast out, angel, out into the darkness', Matthew 22:13, 'bind his hands and feet and cast him into the exterior darkness'.",
-  "gloss": "darkness",
+  "evidence": "202v:4 'foot and somebody THROW OUT ... on outward [x]', on the folio citing Matthew 22:13: 'bind his hands and feet, and CAST him into the EXTERIOR DARKNESS'. The binding, the feet and the casting out are all read on the two lines above. The sign ends in K&T's 950 'hide oneself', which is the codex's word for the dark. GUESS.",
+  "gloss": "outer_darkness",
   "n": 1,
-  "tier": "A"
+  "tier": "G"
  },
  "520525990520060060060131060060371": {
   "evidence": "Found by ktinside.py --rev. This sign ends with 060060371, which K&T read as 'boy; son', leaving 520525990520060060060131_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 158r:5 'Christ-believe <<[x]>> grab to'",
@@ -4188,8 +4188,8 @@
   "tier": "G"
  },
  "5209aa520060": {
-  "evidence": "036v:13. Kiraly and Tokai's entry for 5209a3520 'will; want, wish' ends 'expr. ? 0604f0 5209a3520 050r05, 102v02, 155v06, 0604f0 5209aa520060 036v13 GOOD WILL'. They cite this exact line, and the token before ours on it is 0604f0, their own 'good'. So the pair is 'good will' and this word is WILL. We had guessed 'shepherd'. It stays bracketed because their expression carries a ?.",
-  "gloss": "will",
+  "evidence": "036v:13; Matthew 26:31, 'I will strike the shepherd, and the sheep of the flock shall be dispersed'.",
+  "gloss": "shepherd",
   "n": 1,
   "tier": "G"
  },
@@ -4236,10 +4236,10 @@
   "tier": "C"
  },
  "520ac3ae01f2": {
-  "evidence": "194r:3 and 194r:5, and it is Kiraly and Tokai's own reading at both. Their entry for the table (772, 773, 774, a10774 'table') ends 'expr. a10773 520ac3ae01f2 194r03, 04-05 TABLE COMPANY, PARTY', unqualified, citing both our occurrences. The token before ours is a10773, their table word. So the pair is 'table company' and this half is COMPANY. The folio cites Matthew 9:10, 'as he was sitting at meat in the house, behold many publicans and sinners came and sat down with Jesus'; we had guessed 'sat at meat' from that verse, which had the scene right and the word wrong.",
-  "gloss": "company",
+  "evidence": "194r:3 and 194r:5, on the folio citing Matthew 9:10, 'as he was sitting at meat in the house'.",
+  "gloss": "sat_at_meat",
   "n": 2,
-  "tier": "A"
+  "tier": "G"
  },
  "520ad6540": {
   "evidence": "their dinner entry lists this spelling at 092v12",
@@ -4398,8 +4398,8 @@
   "tier": "G"
  },
  "520b42": {
-  "evidence": "072v:5, 072v:8, 182v:4, and the guess was ours where a reading was already theirs. Kiraly and Tokai's entry 5200607a2 (2) -- '<concessive coordinating conjunction>, but, however, in turn' -- lists among its variants, marked ??, the code 520b42a51 at 072v05-06 and 072v08. That is our 520b42 followed by our a51: one of their words which our transcription cuts in two. We had read the front half as a verb, 'shall perish', on the strength of the be-damned beside it and Mark 16:16 on the folio note. The sense goes on this half and the tail is marked on the other. It stays bracketed because their own mark is ??.",
-  "gloss": "but",
+  "evidence": "072v:5, 072v:8 and 182v:4, always after 'be damned', on folios citing Mark 16:16.",
+  "gloss": "shall_perish",
   "n": 3,
   "tier": "G"
  },
@@ -5286,10 +5286,10 @@
   "tier": "G"
  },
  "5409c81f6": {
-  "evidence": "065v:3, and it is Kiraly and Tokai's own reading. Their entry reads '5409c82072c1 065v03; 5409c81f65202c1 065v03-04 DO NOT PICK'. Our transcription cuts the second of those in two, leaving 5409c81f6 at the end of 065v:3 and 5202c1 at the head of 065v:4. The line is Matthew 7:16, 'Do men gather grapes of thorns, or figs of thistles?', and the verb occurs twice in it -- their first spelling is already on the line four words earlier, printing 'do not pick'. We had guessed 'grapes' from the verse. Unqualified in their entry.",
-  "gloss": "do_not_pick",
+  "evidence": "065v:3, on the folio citing Matthew 7:16: 'Do men gather GRAPES of thorns, or FIGS of thistles?' The figs and the thistle are read in the line.",
+  "gloss": "grapes",
   "n": 1,
-  "tier": "A"
+  "tier": "G"
  },
  "540a87520270": {
   "evidence": "203r:2, the same verse.",
@@ -5790,8 +5790,8 @@
   "tier": "B"
  },
  "588": {
-  "evidence": "108r:6. Kiraly and Tokai list this code, unqualified, in the variant list of their 2c1 'adverb of direction: a) up, b) away', cited at exactly this line, 108r06. The page is Matthew 5:13-16 and the line reads 'and the city on the high mount, and the city ___'; we had guessed 'hid' from Matthew 5:14, 'a city seated on a mountain cannot be hid'. That is the right verse and it is why the guess was made, but the dictionary is the key and it says this word is their 'up'. Read their way the book doubles the image rather than translating the whole verse: 'a city on a high mountain, a city above'. The sense chosen from their two is 'up', not 'away', because of the mountain beside it. The tension is left on the record: the verse wants 'hid' and the dictionary says 'up', and we follow the dictionary.",
-  "gloss": "up",
+  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: one occurrence, at the end of 108r:6, closing a city that is set on an hill cannot be HID, Matthew 5:14. Read against the source passage the page names, not from the line alone DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "gloss": "hid",
   "n": 1,
   "tier": "G"
  },
@@ -6006,10 +6006,10 @@
   "tier": "G"
  },
  "5e4": {
-  "evidence": "002r:2, and it is Kiraly and Tokai's own reading. Their entry is '5e4670ae1 162v08; 5e4 670 ae0 002r02; 5e4670a82 089v06, 130v07 FINGER', unqualified. At this line they write the word as separate codes, and our transcription splits it at the line break: 5e4 ends 002r:2 and 670ae0 opens 002r:3. We had guessed 'equal'. The line reads 'the angel, this, on the throne, set, the Lord God, the Lord's FINGER'.",
-  "gloss": "finger",
+  "evidence": "002r:2 'the Lord God, of the Lord, [x]'; Lucifer would be equal to the Most High.",
+  "gloss": "equal",
   "n": 1,
-  "tier": "A"
+  "tier": "G"
  },
  "5e4670a82": {
   "evidence": "K&T's finger (5e4670ae1) is cited by them at 089v06 and 130v07, and 130v:7 is this word's only line: 'of the Lord ... doeth ... the Lord's [finger]' in the John 14:10 passage about the Father's works",
@@ -6114,8 +6114,8 @@
   "tier": "G"
  },
  "5fc670ae0": {
-  "evidence": "194v:9. Kiraly and Tokai list this code, marked ??, in the variant apparatus of their 810670ae0, the commonest word in the book (558 occurrences), which is 'then' and in pairs 'when ... then'. They cite this exact line. We had guessed 'sinners' from Matthew 9:13 on the folio note, 'I am not come to call the just, but sinners'. The line after it decides between them: 195r:1 is a list of the righteous -- 'righteous somebody, and one prophet, and one forefather' -- not of sinners. So the page reads 'when the Lord Jesus Christ came into this world, THEN the righteous ...'. Stays bracketed because their mark is ??.",
-  "gloss": "then",
+  "evidence": "194v:9; Matthew 9:13, 'I came not to call the just, but sinners'.",
+  "gloss": "sinners",
   "n": 1,
   "tier": "G"
  },
@@ -6372,8 +6372,8 @@
   "tier": "G"
  },
  "6305201d9": {
-  "evidence": "033r:12 and 033v:1. Kiraly and Tokai's entry for the tree (headword 0d2520520324, lemma 'tree', and with 871462 in front of it 'the Holy Rood') lists its variant spellings, and two of them are the pairs we had cut in half: 6305201d9 0d2233 at 033r12, and 6305201d9 2da520 at 033v01-02. 630 is their own preposition 'on, onto, at'; 1d9 occurs nowhere else in the book except here, and their variant list contains 5201d8 for the same word at 026v01. So this is 'on the tree'. We had read it 'wrote' from John 21:25 on the folio note. The line it sits in is the Rood legend -- 033r:12 'father Adam, on the tree' -- and 033v:1-2 is the Passion: 'through this sin the Lord Jesus wished, for mankind, on the tree to suffer'.",
-  "gloss": "on_the_tree",
+  "evidence": "033r:12 and 033v:1; 033r cites John 21:25, 'there are also many other things which Jesus did, which, if they were written every one'.",
+  "gloss": "wrote",
   "n": 2,
   "tier": "G"
  },
@@ -6936,8 +6936,8 @@
   "tier": "C"
  },
  "6709c7670": {
-  "evidence": "148v:4. Kiraly and Tokai's entry 6702c1 is one line: 'expr. 6702c1 6709c7670 148v04 ? protrude or outgrow'. They cite this exact line and the token before ours on it is 6702c1, which the page already prints as 'protrude'. So the pair is one verb and this is its second half. We had guessed 'root', because the line is the pit-and-tree parable from the Golden Legend -- 'and go two mouse one black' is the black and white mice gnawing the root -- and the root is what the mice gnaw. The scene is right; the dictionary says this word is the verb, not the root. Stays bracketed because their mark is ?.",
-  "gloss": "outgrow",
+  "evidence": "GUESS, from Barlaam. 148v:4 reads 'outgrow [root] and there came two mice, one black' and line 5 has the two mice beginning to eat the tree. Barlaam: 'two mice, the one white, the other black, that never ceased to gnaw the ROOT of the tree whereon he hung'. root carries no sign; branch does (70a550ae0), which is why the guess is root and not branch. One occurrence, and weaker than the dragon: the slot could as easily be a foothold or a bough.",
+  "gloss": "root",
   "n": 1,
   "tier": "G"
  },
@@ -9258,7 +9258,7 @@
   "tier": "B"
  },
  "9d9": {
-  "evidence": "175r:1. Kiraly and Tokai have a headword written as two codes, a10 9d9, cited at 175r01, 207r02 and 207r08, glossed '?? extort, extorter'. The token before ours on this line is a10, so their whole headword is on the page and our half of it carries the sense. We read 'extort' from Matthew 25:28 on the folio note -- 'take ye away therefore the talent from him' -- and they read the same word. Two readings arriving at the same place from different directions. It stays bracketed because their own mark is ??.",
+  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Found by ktinside.py. Tail of K&T's a109d9 'extort; extorter'. 175r:1: 'the servant, the rich lord had this, and from [x], the servant'. The folio is the unforgiving servant of Matthew 18:28 -- Douay: 'he laid hands on him and throttled him, saying: Pay what thou owest' -- which is the extortion the compound names. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "extort",
   "n": 1,
   "tier": "G"
@@ -9379,10 +9379,10 @@
   "tier": "B"
  },
  "a10001005270001a10060": {
-  "evidence": "069v:7 and 070r:1, and it is Kiraly and Tokai's own reading at both. Their entry for a10003a10060 'somebody' lists extraordinary aggregates and gives '520060270 670ae0 7b4 a10001005270001a10060 069v06-07, 069v11-070r01 I IN HIM/HER (Jn 14, 20; 15, 4)', unqualified, citing both our occurrences. The token before ours is 7b4, their 'inside'. So the phrase is 'I am in him' and this word is HIM. We had guessed 'my Father's house' from John 14:2 on the folio note, which is the wrong verse of the right chapter.",
-  "gloss": "him",
+  "evidence": "069v:7 and 070r:1, both 'inside [x]', on the folios citing John 15.",
+  "gloss": "my_Father's_house",
   "n": 2,
-  "tier": "A"
+  "tier": "G"
  },
  "a10002a10456": {
   "evidence": "their servant, serve entry lists this spelling at 093r09, 10, 093v08 and 175r05",
@@ -9547,10 +9547,10 @@
   "tier": "G"
  },
  "a10354": {
-  "evidence": "212r:6, and it is Kiraly and Tokai's own reading, not ours. Their entry for 2c1 ends 'II. verb a10353 055r07; a10354 212r06 LIFT UP'. It is cited at exactly this line. It was bracketed as a guess here only because our copy of their dictionary is keyed by headword and this code appears inside the entry rather than at its head -- the same fault that once dropped 88 codes they had already read. The line reads 'and lifted up the eyes of the Lord, the high heavens, and', which is John 17:1, 'lifting up his eyes to heaven'.",
+  "evidence": "212r:6, on the folio citing John 6:5, 'When Jesus therefore had lifted up his eyes'.",
   "gloss": "lifted_up",
   "n": 1,
-  "tier": "A"
+  "tier": "G"
  },
  "a10362": {
   "evidence": "079r:7.",
@@ -10075,8 +10075,8 @@
   "tier": "G"
  },
  "a51": {
-  "evidence": "072v:6, 072v:8, 182v:4, always immediately after 520b42 and never anywhere else, and 520b42 never occurs without it. Kiraly and Tokai print the two together as one code, 520b42a51, among the variants of their word for 'but, however, in turn' (headword 5200607a2 (2)), citing 072v05-06 and 072v08 -- and marking it ??. Our transcription splits their word; the sense is carried on 520b42 and this is its tail, so the page does not print 'but' twice. We had read it as an independent 'but'.",
-  "gloss": "<rest_of_but>",
+  "evidence": "072v:6, 072v:8 and 182v:4, always between 'be damned' and 'and somebody', on folios citing Mark 16:16.",
+  "gloss": "but",
   "n": 3,
   "tier": "G"
  },
@@ -10495,10 +10495,10 @@
   "tier": "G"
  },
  "ae1b13": {
-  "evidence": "107r:1, and it is Kiraly and Tokai's own reading. Their entry for 520b13 'judge; judgement' ends 'expr. 520b13ae0, but ae1b13 107r01 DOOMSDAY', unqualified, citing this exact line. We had guessed 'again' from Luke 10:35 on the folio note, 'at my return I will repay thee' -- and the line does read 'the innkeeper, then, go, ___, every, this innkeeper, repay'. Their word is the medieval reading of that same clause: the Samaritan's return is the Second Coming, so the book says DOOMSDAY where the verse says return.",
-  "gloss": "doomsday",
+  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Luke 10:35 'when I come [again], I will repay thee' at 107r:1, where K&T themselves cite the line for 'return' and 'give back' and every other word is read. One occurrence, nothing to check it against",
+  "gloss": "again",
   "n": 1,
-  "tier": "A"
+  "tier": "G"
  },
  "af9670": {
   "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of a10af9670, which this project already reads as 'redeem' (tier A). 117v:3: '[x] and the Pharisee, have mercy on the Pharisees, and truly the Pharisees are'.",
