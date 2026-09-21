@@ -3101,6 +3101,12 @@
   "n": 1,
   "tier": "A"
  },
+ "5202da": {
+  "evidence": "the stem of 5202da2da already read as creatures, the doubled form being the plural",
+  "gloss": "creature",
+  "n": 4,
+  "tier": "C"
+ },
  "5202da2da": {
   "evidence": "CORRECTED 2026-09-21 from 'creatures' by ktharden.py. It was read from the crucifixion darkness at 052v:3 and 058r:1, 'this darkened, and all [x] bowed', two lines before 'all creation mourned'. Those lines do not refuse a creature, but three others refuse it outright and they are one passage with a citation: 206r cites Luke 19:2-4 and 206v Luke 19:5-7, Zacchaeus. 206r:7 'and climbed up one [x], because he was little of stature' is Luke 19:4, the sycomore; 206r:9 'Jesus went to this [x]'; 206v:1 'Zacchaeus sat on this [x]', and 206v:2 has Jesus tell him to come DOWN. A creature is not climbed, sat in, or come down from. It is a tree. Corroborating the spelling, this project already reads 2db2daae0 as 'tree' and the two share the 2da element. Tier C and not higher: Luke 19 is one passage, and the three crucifixion occurrences plus 145r:2 are consistent with a tree without testing it. Prior gloss and evidence: {\"evidence\": \"both occurrences are the darkness at the crucifixion: 'this darkened, and all [creatures] bowed' 052v:3 and 058r:1, two lines before 'all creation mourned'\", \"gloss\": \"creatures\", \"n\": 7, \"tier\": \"C\"}",
   "gloss": "tree",
@@ -9328,12 +9334,6 @@
   "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read 'was accused' from Luke 16:1, 'the same was accused unto him that he had wasted his goods', for the unjust steward at 169r:4 and 169r:8. Those two lines do not cite Luke 16:1; they cite 16:8. And the sign stands on three other folios whose passages have no accusation in them and where it does not read: 107r:5 'and he said, he is the good neighbour [was accused]' is Luke 10:36-37, the Good Samaritan; 107r:3 the same passage; 115v:3 '[was accused] and began to [was accused], joy' is Luke 15:25, the prodigal's elder brother. A reading that fails a clear occurrence is not demoted, it comes out. No replacement is entered: the word must serve the steward, the Samaritan and the prodigal at once, and nothing offered by those three passages does. Prior gloss and evidence: {\"evidence\": \"'that steward [was accused], and then this steward' 169r:4, 169r:8 = Luke 16:1, the same was accused unto him\", \"gloss\": \"was accused\", \"n\": 10, \"tier\": \"C\"}",
   "gloss": "_withdrawn_",
   "n": 10,
-  "tier": "withdrawn"
- },
- "_withdrawn_5202da": {
-  "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Its whole evidence was inheritance: 'the stem of 5202da2da already read as creatures, the doubled form being the plural'. 5202da2da was corrected to 'tree' the same day on Luke 19's Zacchaeus, so the basis is gone. METHOD.md already names this as the mistake that cost the most time in the Rohonc work -- a code does not inherit its meaning from a code it contains, it COMBINES with it. Read on its own the four occurrences are not creatures and they are not trees: 141r:7 and 198v:5 both run '[x], Lord, sin, have mercy, fruit, this is', and 143r:8 is 'this woman, [x], Lord, sin, have mercy'. That is the Ave Maria -- blessed art thou among women and blessed is the fruit of thy womb, pray for us sinners -- which this book is known to carry. The slot is somewhere in that prayer and no single English word for it survives all four, so nothing is entered. Prior gloss and evidence: {\"evidence\": \"the stem of 5202da2da already read as creatures, the doubled form being the plural\", \"gloss\": \"creature\", \"n\": 4, \"tier\": \"C\"}",
-  "gloss": "_withdrawn_",
-  "n": 4,
   "tier": "withdrawn"
  },
  "_withdrawn_5203f0": {

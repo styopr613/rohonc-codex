@@ -760,10 +760,11 @@ It opens mid-sentence, because the rubric was on the leaf before: «of Lord
 sheep, and Lord know of Lord sheep» (064r). The Good Shepherd, John's tenth
 chapter. And at once the compiler does the thing he will do for two hundred
 leaves — he turns the image into a story with people in it. There is «one
-king» who «have two sons»: «one … home good son», and «in turn two farm hand
-son» (064r). The wolf comes; the hireling «leave this sheep»; the good son
-«redeem this sheep» (064r). Then back to the text: «good son … put down of
-Lord living to of Lord sheep» (064v) — he layeth down his life for the sheep —
+king» who «have two shepherd»: «one … home good shepherd», and «in turn two
+farm hand shepherd» (064r) — the shepherd of the household and the hired one.
+The wolf comes; the hired shepherd «leave this sheep»; the good one «redeem
+this sheep» (064r). Then back to the text: «good shepherd … put down of Lord
+living to of Lord sheep» (064v) — he layeth down his life for the sheep —
 and «one [fold]» (064v), and «hear voice, sound of Lord … sheep» (064v).
 
 Then a run of short readings, each with its rubric. Matthew's seventh chapter:

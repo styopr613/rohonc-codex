@@ -1261,7 +1261,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 052v ===
  1  and then-exist Lord-Jézus <preposition_of_genitive>-Lord ?commend +give_up_the_ghost +cross earth
  2  quake rock stone +rent sun and moon
- 3  this eclipse and each,_every ?creatures ?among_the_people this humble ~and each,_every
+ 3  this eclipse and each,_every ?tree ?among_the_people this humble ~and each,_every
  4  create mourn then-exist Christ +crucified Lord and go +say.
  5  one soldier on-Jerusalem blind and ?was_named soldier
  6  exist Longinus_<the_centurion,_who_pierced_Jesus’_side_on_the_cross> and pierce Jew(ish) spear ~exist-from-in_turn
@@ -1395,7 +1395,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 058r ===
- 1  eclipse and each,_every ?creatures ?into_the_world this humble and each,_every create mourn
+ 1  eclipse and each,_every ?tree ?into_the_world this humble and each,_every create mourn
  2  then-exist Christ +crucified and two-two hour
  3  +cross suffer Lord-Jézus and Lord inside burial_chamber | put-apostle
  4  Mary-angel and then-exist-Lord inside burial_chamber lay Lord and
@@ -1599,7 +1599,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  and one °fold +he_who good +shepherd from +shepherd
  6  +<subject_marker> ~gate <preposition_of_genitive>-Lord sheep and then-exist hear
  7  voice,_sound <preposition_of_genitive>-Lord-<suffix_of_divine_name> sheep [?] +shepherd go +and_then
- 8  Lord-Jézus apostle <preposition_of_genitive>-Lord ?creature-+one [?]-°by_night one +sheep/a_female_person
+ 8  Lord-Jézus apostle <preposition_of_genitive>-Lord [?] [?]-°by_night one +sheep/a_female_person
  9  and this-sheep want to-you [?] go and
 10  you exist each,_every one +shepherd +shepherd
 11  one to-Lord thanks Lord-<suffix_of_divine_name> end this holy-gospel
@@ -2607,7 +2607,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  Lord-+name and moon this eclipse before sun eclipse
  6  and before moon eclipse [?]-earth quake rock
  7  stone +rent and on-sun eclipse each,_every
- 8  ?creatures on-+world this humble and each,_every create mourn
+ 8  ?tree on-+world this humble and each,_every create mourn
  9  then-exist Christ +cross-[?] ~and Lord inside burial_chamber | put
 
 
@@ -3584,7 +3584,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  have_mercy Lord Christ to-each,_every somebody sin speak holy-<name_of_a_church_father>
  5  church_father then-exist this somebody exist from many somebody sin
  6  °narrow leave-somebody <preposition_of_genitive>-somebody Lord-+heart because +this_is.
- 7  ?creature Lord +sin have_mercy °fruit this exist inside +law somebody
+ 7  [?] Lord +sin have_mercy °fruit this exist inside +law somebody
  8  that_is and have somebody carry +law God | [?]
  9  °bear +sin somebody +be_saved-somebody to-many suffering
 
@@ -3636,7 +3636,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  Lord leave +oh to-[?] +the_Baptist/woman <preposition_of_genitive>-Lord from-father +daughter
  6  to-love Lord exist ~miracle farm +woman +the_Baptist/woman have
  7  +woman +the_Baptist/woman °suffered +woman +the_Baptist/woman °patiently this-Lord
- 8  this +woman +the_Baptist/woman ?creature Lord +sin have_mercy +and_then
+ 8  this +woman +the_Baptist/woman [?] Lord +sin have_mercy +and_then
  9  this +woman +the_Baptist/woman in_turn grinding-+one you Lord-<suffix_of_divine_name> say
 
 
@@ -3653,7 +3653,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 144r ===
- 1  ?heavenly people somebody to-Lord-<suffix_of_divine_name> this-Lord you ?creature
+ 1  ?heavenly people somebody to-Lord-<suffix_of_divine_name> this-Lord you [?]
  2  Lord +sin have_mercy ?seal-from this have somebody carry
  3  commandment God +be_saved somebody to-many suffering
  4  chapter-oh chapter-oh amen write +<subject_marker> | holy
@@ -3677,7 +3677,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 145r ===
  1  +queen grab heaven land +Lady virgin-Mary
- 2  this-+a_female_person from speak how? ?how_shall_we ?creatures speak
+ 2  this-+a_female_person from speak how? ?how_shall_we ?tree speak
  3  can speak say this sheep this-+sheep/a_female_person
  4  °said_to love this Mary want and then-exist Mary +sheep/a_female_person
  5  servant fast and two healing-Mary pray and righteous(ly) begin-+day
@@ -4974,7 +4974,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  Lord holy-<name_of_a_prophet> prophet and | holy
  3  +Elijah prophet °was_taken_up | +say
  4  apostle-somebody to-Lord this-Lord.
- 5  you ?creature Lord +sin have_mercy °fruit this exist
+ 5  you [?] Lord +sin have_mercy °fruit this exist
  6  inside commandment somebody that_is and have somebody ~carry commandment
  7  God [?] +sin somebody +be_saved to-many | not-not
  8  not chapter-oh chapter-oh amen write +<subject_marker> +name
@@ -5159,13 +5159,13 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  and then-exist Lord see-+say go Lord-Jézus inside +Jericho
  5  and Lord can see Zacchaeus Lord-Jézus
  6  a) from °chief_publican Zacchaeus this many people
- 7  and go_up one ?creatures because °little_of_stature
+ 7  and go_up one ?tree because °little_of_stature
  8  Zacchaeus [?]-go Lord-Jézus and then-exist
- 9  go Lord-Jézus to-this ?creatures and see Lord-Jézus
+ 9  go Lord-Jézus to-this ?tree and see Lord-Jézus
 
 
 === 206v ===
- 1  Zacchaeus sit on-this ?creatures
+ 1  Zacchaeus sit on-this ?tree
  2  +and_then Lord-Jézus Zacchaeus go to-down
  3  this-Lord today exist-Lord inside <preposition_of_genitive>-Zacchaeus
  4  house [?]-+day-Lord and joy leave-chapter-leave.
