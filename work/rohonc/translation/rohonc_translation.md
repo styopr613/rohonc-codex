@@ -12219,3 +12219,385 @@ in Király & Tokai's dictionary, so the person is not named here.
 > line 5 to "holy Stephen the king" is the codex's own and belongs to no
 > gospel; Stephen is Hungary's first king and its patron, which is the
 > strongest hint of provenance anywhere in the book.
+
+## 173r — one talent, three talents, five talents
+
+**1**  before the Lord; he was with the Lord; and then the Lord took
+`<subject> before Lord exist ~among-Lord and then-exist grab-Lord`
+
+**2**  one servant, one talent of gold; and in turn
+`one servant one gold* talent in_turn-two`
+
+**3**  the Lord took three talents of gold; the third the Lord took,
+`grab-Lord three gold* talent third grab-Lord`
+
+**4**  five talents of gold; and then this rich lord, all, until
+`five gold* talent and_then this rich-Lord each,_every until`
+
+**5**  this […]: five senses, mercy, prayer,
+`this [?] five sense have_mercy pray.`
+
+**6**  alms, faith […]; the servant's mouth,
+`alms believe [?] servant mouth`
+
+**7**  this Lord went to […]; be saved, how shall we, living servant; and the Lord took the priest,
+`this-Lord go to-[?] be_saved how_shall_we* living-servant and Lord grab priest`
+
+**8**  the high Magdalene day, the king, the Lord, to […], the farm, the people, the man,
+`high-Magdalene-+day king Lord to-[?] farm people somebody`
+
+**9**  soul, soul, soul, soul. Here ends this holy gospel. The Lord's love.
+`soul soul soul soul end this holy-gospel the_Lord love`
+
+> Matthew 25:15: *And to one he gave five talents, and to another two, and to
+> another one.* The codex gives five, three and one. Line 5 does to this
+> parable what 167r did to the Unjust Steward: the talents are glossed as the
+> five senses, mercy, prayer, alms and faith.
+
+## 173v — after a long time the lord came
+
+**1**  Many years passed; then this rich lord returned | to
+`many year exist then-exist return this rich-Lord | on`
+
+**2**  the lodging, because from the lodging the way of the people lay into the house of this
+`lodging because from* lodging way people inside house this`
+
+**3**  rich lord; and from the people, the servant carried this rich lord; and
+`rich-Lord and from people servant carry this rich-Lord and`
+
+**4**  then he went out | among the Lord's, this rich man
+`then-exist go out(ward) on | among-Lord this rich`
+
+**5**  and the Lord's living servants, the apostles, the angels; and then he did so
+`and <of>-Lord living-servant-apostle-angel and then-exist do,`
+
+**6**  among this rich lord's; the Lord's servant, before the rich lord
+`among this rich-Lord <of>-Lord servant before rich-Lord`
+
+**7**  […] the three servants stood; the Lord took | of
+`[?] three <subject> servant exist-Lord grab-Lord | <of>`
+
+**8**  the rich Lord; and then this rich lord, this one to whom
+`Lord rich and_then this rich-Lord this one to_whom`
+
+**9**  the Lord had given five talents of gold —
+`<subject> exist-Lord grab-Lord five gold.* talent`
+
+**10**  and then this rich lord reckoned with the servant: how shall the man
+`and_then this rich-Lord reckon_with* servant how_shall_we-somebody`
+
+> Matthew 25:19, Douay: *But after a long time the lord of those servants came,
+> and reckoned with them.* The reckoning formula stands on three consecutive
+> folios, 173v:10, 174r:7 and 174v:5, always in the same words, which is what
+> fixed the reading of that sign.
+
+## 174r — well done, good and faithful servant
+
+**1**  of the rich Lord? This servant said: how shall the man be pleasing to the Lord God? And
+`<of>-Lord rich say this servant how_shall_we-somebody to-pleasing Lord-<divine> and`
+
+**2**  he received the aforesaid five talents of gold; and then this rich lord:
+`receive* five gold* earlier_mentioned talent and_then this rich Lord`
+
+**3**  go, servant, into the Lord's house, to the Lord's Father, and
+`go-servant inside <of>-Lord to-house to-<of>-Lord from-father-<divine> and`
+
+**4**  to the Father; the man shall be a man of joy. Chapter.
+`to-father-<divine> somebody exist joy-somebody chapter-oh`
+
+**5**  Chapter. Amen. And then, among the Lord's, this second,
+`chapter-oh amen and then-exist among-Lord this two`
+
+**6**  to whom the Lord had given three talents of gold;
+`to_whom <subject> exist-Lord grab-Lord three gold* talent`
+
+**7**  and then this rich lord reckoned with the servant: how shall the man | of
+`and_then this rich-Lord reckon_with* servant how_shall_we-somebody | <of>`
+
+**8**  the rich Lord? This servant said: how shall the man be pleasing to the Lord God?
+`Lord rich say this servant how_shall_we-somebody to-pleasing Lord-<divine>`
+
+**9**  And he received the aforesaid three talents of gold; and then this rich lord:
+`and receive* three gold* earlier_mentioned talent and_then this rich Lord`
+
+> Matthew 25:21: *Well done, good and faithful servant... enter thou into the
+> joy of thy lord.* The codex renders the joy of the lord as going into the
+> Lord's house, to the Father, and adds its own Amen.
+
+## 174v — the third servant
+
+**1**  go, servant, into the Lord's house, to the Lord's Father, and | to
+`go servant inside <of>-Lord to-house to-<of>-Lord from-father-<divine> and | to`
+
+**2**  the Father; the man shall be in joy. Chapter. Chapter.
+`father-<divine> somebody exist ~joy chapter-oh chapter-oh`
+
+**3**  Amen. And then, among the Lord's, this third, to whom
+`amen and then-exist among-Lord this three to_whom <subject>`
+
+**4**  the Lord had given one talent of gold;
+`exist-Lord grab-Lord one gold* talent`
+
+**5**  and then this rich lord reckoned with the servant: how shall the man?
+`and_then this rich Lord reckon_with* servant how_shall_we-somebody`
+
+**6**  Of the rich Lord, this servant said […] servant […]
+`<of>-Lord rich say this servant [?] servant [?]`
+
+**7**  […] […] […] there is love, there is riches […] servant,
+`[?] [?] [?] love-exist exist-rich [?] servant`
+
+**8**  because this Lord […] the servant has, because then this servant
+`because this-Lord [?] have servant because then-exist this-servant`
+
+**9**  of the rich Lord lost the servant; this Lord is […]
+`<of>-Lord rich lose ~servant this-Lord exist [?]`
+
+> Matthew 25:24-25, Douay: *But he that had received the one talent, came and
+> said: Lord, I know that thou art a hard man; thou reapest where thou hast
+> not sown... and being afraid I went and hid thy talent in the earth.*
+
+## 175r — take the talent from him
+
+**1**  upon the servant; the rich man has this Lord, and from extortion upon the servant
+`on-~servant rich have this-Lord and from extort* on-~servant`
+
+**2**  he took; because this rich Lord God […] […] | […] said,
+`grab because this-rich Lord-<divine> [?] [?] | [?]-+say`
+
+**3**  the man; and he said; and then this rich lord:
+`man* and say and_then this-rich-Lord`
+
+**4**  this unprofitable servant, high, this servant, this | servant's love
+`this unhelpful servant high this-servant this | ~servant-love`
+
+**5**  is this: the eye sees the servant, the Lord's house is far off, this | love
+`exist this eye see servant <of>-Lord to-house long this | love`
+
+**6**  is: go, servant, into the Lord's house. And then this rich
+`exist go-~servant inside <of>-Lord to-house and_then this rich`
+
+**7**  Lord's servant, the angel, took from this unprofitable servant
+`<of>-Lord ~servant grab angel from this unhelpful ~servant`
+
+**8**  this one talent; and the angel took the talent from him
+`this one talent and talent grab angel from`
+
+**9**  and gave it to the faithful servant, the servant who has ten talents. Here ends this holy gospel.
+`believe ~servant servant talent ten have end this holy-gospel`
+
+> Matthew 25:28-30, Douay: *Take ye away therefore the talent from him, and
+> give it to him that hath ten talents... And the unprofitable servant cast ye
+> out into the exterior darkness.* The codex has the unprofitable servant, the
+> taking away, and the ten talents; the angel doing the taking is its own.
+
+## 175v — the Lord goes from town to town
+
+**1**  This holy gospel begins, written by holy Luke
+`begins this holy-gospel write holy-Luke`
+
+**2**  in the sixth chapter of the writing: the time,
+`inside six chapter <of>-write time`
+
+**3**  then, the Lord Jesus, in his thirtieth year;
+`then-exist Lord-Jézus inside thirty years*`
+
+**4**  the time the Lord Jesus went among the people, and the Lord's apostles, from town
+`time go Lord-Jézus among_the_people* and <of>-Lord apostle from town`
+
+**5**  to town, town; from temple to temple, temple; from
+`from_town_to_town* town from temple from_town_to_town* temple from`
+
+**6**  village to village, village; and the Lord's apostles; and they went
+`village from_town_to_town* village and <of>-Lord apostle and go`
+
+> Luke 8:1, Douay: *And it came to pass afterwards, that he travelled through
+> the cities and towns, preaching and evangelizing the kingdom of God; and the
+> twelve with him.* K&T's own dictionary carries a sign glossed "from town to
+> town", and the codex uses it three times in two lines.
+
+## 176r — the woman of Samaria at the well
+
+**1**  the Lord Jesus, to one well; and the Lord Jesus sat by this
+`Lord-Jézus one well and sit Lord-Jézus to-this`
+
+**2**  well, because there was […]; the Lord was wearied; in turn the apostles went,
+`well because exist [?] get_tired-Lord in_turn apostle go-apostle`
+
+**3**  the apostles, into the village for bread, and the living brethren, the mind,
+`inside village on-+bread ~and living brethren-+<subject> exist-exist-chapter`
+
+**4**  living; and then there came one chief woman | to
+`living and then-exist go one woman head | to`
+
+**5**  this well; and then she dipped […] this well; and then
+`this well and then-exist dip-[?] this well and_then`
+
+**6**  the Lord Jesus was thirsty, and […] the Lord asked her for water;
+`Lord-Jézus thirsty-Lord and [?]-[?]-+<subject> exist-Lord water ~ask_(for)`
+
+**7**  and then this woman of an alien nation: how is it, this Lord | dares,
+`and_then this of_an_alien_nation,_pagan how? this-Lord | dare`
+
+**8**  the Lord, to ask water of a pagan? This woman of an alien nation in turn: | this
+`Lord from pagan water ~ask_(for) this of_an_alien_nation,_pagan in_turn | this`
+
+**9**  Lord is a Jew; she dipped for the Lord […] to drink, the Lord, and
+`Lord Jew(ish) dip-+the_Lord [?] on-drink Lord and`
+
+> John 4:6-9, Douay: *Now Jacob's well was there. Jesus therefore being wearied
+> with his journey, sat thus on the well... There cometh a woman of Samaria, to
+> draw water. Jesus saith to her: Give me to drink... Then that Samaritan woman
+> saith to him: How dost thou, being a Jew, ask of me to drink, who am a
+> Samaritan woman?* The wearying, the sitting, the disciples gone for food, the
+> asking and the objection are all here in John's order.
+
+## 176v — the Lord begins to speak to the Gentiles
+
+**1**  he began to speak through the pagan, the Lord Jesus; and the woman of an alien nation | judged
+`begin through speak pagan Lord-Jézus and of_an_alien_nation,_pagan-+<subject> | ~judge`
+
+**2**  this; she had, to the pagan man; and of an alien nation the Lord began | to speak
+`this ~have to-+pagan man and of_an_alien_nation,_pagan begin-Lord | say`
+
+**3**  this: lift up, woman of an alien nation, do at home likewise, | do,
+`this-lift_up of_an_alien_nation,_pagan home do, likewise* | do,`
+
+**4**  pagan; she left off, the woman of an alien nation; and then this woman of an alien nation | upon
+`pagan from-leave <of>-of_an_alien_nation,_pagan and_then this of_an_alien_nation,_pagan | on-<of>`
+
+**5**  the alien nation […] which; and from […] this Lord, this Lord's descendant,
+`of_an_alien_nation,_pagan [?] which and from [?] this-Lord this-Lord descendant`
+
+**6**  the Lord, to the pleasing of the Lord, the prophet foretold; and the apostles went to the Lord,
+`Lord to-pleasing-Lord prophet predict and go apostle to-Lord`
+
+**7**  and the apostles began; the miracle upon the Lord; the Lord's love; the Lord spoke this | one baptism,
+`and begin-apostle miracle on-Lord love-Lord speak-Lord this | one-+baptize`
+
+**8**  two baptisms, the chief; and this woman of an alien nation believed in
+`two-+baptize head and believe this of_an_alien_nation,_pagan inside`
+
+**9**  the Lord Jesus; and the woman of an alien nation went to her own | […] from
+`Lord-Jézus and go of_an_alien_nation,_pagan to-<of>-of_an_alien_nation,_pagan | [?]-from`
+
+> John 4:16-19 and 4:28: *Go, call thy husband, and come hither... The woman
+> saith to him: Sir, I perceive that thou art a prophet... The woman therefore
+> left her waterpot, and went her way into the city.* The prophet and the
+> leaving and the going into the town are all here.
+
+## 177r — come, see a man who told me all things
+
+**1**  […] and then she went into the village, and the woman of an alien nation began to speak | this:
+`[?] and then-exist go inside village and begin-of_an_alien_nation,_pagan say | this`
+
+**2**  this people, sit; one Lord at the well, and even more from the Lord,
+`this people sit one Lord to-well even_more from-Lord`
+
+**3**  to the pleasing of the Lord, the prophet foretold through; because the alien woman's home
+`to-pleasing-Lord prophet through predict because <of>-of_an_alien_nation,_pagan home`
+
+**4**  he did; the love of the alien woman he did; the alien woman left off,
+`do, love-of_an_alien_nation,_pagan do, of_an_alien_nation,_pagan from-leave`
+
+**5**  the alien woman's all that she was and did […]; the alien woman said […]; and
+`<of>-of_an_alien_nation,_pagan each,_every exist-+who-+day [?] of_an_alien_nation,_pagan-+<subject> say-[?] and`
+
+**6**  then this people believed in the Lord, the man, the people; and
+`then-exist this people inside Lord-somebody believe-people and`
+
+**7**  the people went to this well, because they would pray to the Lord; | then
+`go-people this well because-Lord want-people pray | then`
+
+**8**  and the people were there, and the Lord preached one to two years.
+`exist and people exist-Lord preach one to-two-year`
+
+> John 4:29, Douay: *Come, and see a man who has told me all things whatsoever
+> I have done. Is not he the Christ?* And 4:40: *So when the Samaritans were
+> come to him, they desired that he would tarry there. And he abode there two
+> days.* The codex's two days have become two years, which is its own
+> reckoning, but the tarrying is right.
+
+## 177v — the gospel ends, and another begins
+
+**1**  and even more to the Lord Jesus; but the Lord went into Galilee,
+`and even_more-to Lord-Jézus a) to-go-Lord inside Galilee`
+
+**2**  to the town. Here ends this holy gospel. The Lord God, with all thy heart.
+`town end this holy-gospel Lord-<divine> ?with_all_thy_heart.`
+
+**3**  This holy gospel begins,
+`begins this holy-gospel`
+
+**4**  written by holy Luke, in
+`write holy-Luke inside`
+
+## 178r — the ten lepers
+
+**1**  the fifth chapter of the writing: the time, then, the Lord Jesus, in his thirty- | first
+`five chapter <of>-write time then-exist Lord-Jézus inside thirty | one`
+
+**2**  year; the time the Lord Jesus went into Jerusalem; and this one went, the Lord,
+`years* time go Lord-Jézus inside Jerusalem and go this-who Lord`
+
+**3**  and many people; and then the Lord Jesus went, the people, into the field, and
+`many people and then-exist go Lord-Jézus people on-+field-+one and`
+
+**4**  there stood […] afar off ten leprous people; and the ten
+`leave [?] far ten leper people and begin ten`
+
+**5**  lepers began to cry out: son of David, king, have mercy —
+`leper shout-to son David king have_mercy`
+
+**6**  the ten lepers, son; and they cried to the Lord Jesus; go, ten
+`ten leper son and shout-to Lord-Jézus go ten`
+
+**7**  lepers, and let the ten shew themselves to the priest; and
+`~leper and ten appear priest and`
+
+**8**  the priest took the ten lepers, from all that was […]
+`priest grab ten leper from each,_every-~exist [?]`
+
+**9**  in the law of Moses; and then the ten lepers went | from
+`Moses law and then-exist go ten leper | from`
+
+> Luke 17:12-14, Douay: *there met him ten men that were lepers, who stood afar
+> off; and lifted up their voice, saying: Jesus, master, have mercy on us. Whom
+> when he saw, he said: Go, shew yourselves to the priests.* The codex has the
+> standing afar off, the crying out, the ten, and the sending to the priest,
+> and it adds the law of Moses, which is where the shewing comes from
+> (Leviticus 14).
+
+## 178v — the priests dispute over them
+
+**1**  and they saw the lepers' minds; and then there were
+`see <of>-leper exist-exist-chapter and then-exist exist`
+
+**2**  lepers, the mind, healing; and one Wednesday, ten […]
+`leper exist-exist-chapter healing and one-+Wednesday ten [?]`
+
+**3**  […] […]; and then the ten lepers went, the ten people, there
+`[?] [?] and then-exist ten leper go-ten-people-exist-to`
+
+**4**  to the chief men of the Jews, before the priest; and then
+`head Jew(ish) before priest and_then`
+
+**5**  the priests of the Jews: how are you people, ten | lepers?
+`priest Jew(ish) how? you people ten | leper`
+
+**6**  Chapter. Said […] the lepers, from the people […] the lepers;
+`chapter say [?] leper from-people [?] leper.`
+
+**7**  the people were before the priest, among the priests, the Jews, the man;
+`people exist priest among priest Jew(ish)-somebody`
+
+**8**  they cast the priest out; the Jews said to the priest;
+`out(ward) cast_out priest Jew(ish) say priest.`
+
+**9**  the Jews: who of you men is healed? | said the leper
+`Jew(ish) who? you somebody from-healing | say-leper`
+
+> Luke 17:14: *And it came to pass, as they went, they were made clean.* The
+> dispute before the priests is not in Luke; the codex has built it out of the
+> same materials as the dispute in John 9 over the man born blind, which is the
+> kind of borrowing this compiler does throughout.
