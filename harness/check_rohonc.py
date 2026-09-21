@@ -39,6 +39,14 @@ def nums(text, label, count, after=None):
     return []
 
 
+def _folios(md):
+    """Every folio heading in the translation. Counted with one regex here
+    and in ktbump.py, because two different ways of counting the same thing
+    is how the count quietly stopped at folio 200r."""
+    import re as _r
+    return set(_r.findall(r"^## (\d{3}[rv]) ", md, _r.M))
+
+
 def close(a, b, tol=0.06):
     return abs(a - b) <= tol
 
@@ -476,8 +484,8 @@ def main():
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""
-    check("translation: the file exists and covers 381 folios",
-          md.count("\n## 0") + md.count("\n## 1") == 381, str(md.count("\n## 0")))
+    check("translation: the file exists and covers 387 folios",
+          len(_folios(md)) == 387, str(len(_folios(md))))
     import re as _re
     heads = set(_re.findall(r"^## (\d{3}[rv]) ", md, _re.M))
     try:
@@ -611,7 +619,7 @@ def main():
           and "she lives on the" in flat
           and "cut their *grape* into" in flat)
     check("ROHONC: Emmaus run translated and Cleopas named",
-          "381\nfolios are translated" in doc and "names Cleopas" in flat
+          "387\nfolios are translated" in doc and "names Cleopas" in flat
           and "of sin, and of righteousness, and of" in flat
           and "child on the seashore" in flat
           and "sign for sign and in order" in flat
@@ -736,6 +744,10 @@ def main():
           "A checker that compares two stale things agrees with itself" in meth
           and "61.1%" in meth and "80.1%" in meth
           and "the check is a mirror" in meth)
+    check("METHOD: the count that stopped counting at folio 200r",
+          "A count that quietly stopped counting" in meth
+          and "silently wrong from 200r on" in meth
+          and "Compute it once and call it twice" in meth)
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 

@@ -511,3 +511,20 @@ which cost a fortnight of quietly wrong figures:
 **A generated figure is only as fresh as the artefact it is generated from.
 If a checker reads a saved run, something must regenerate that run in the
 same breath, or the check is a mirror.**
+
+## A count that quietly stopped counting
+
+The checker verified that the translation file covers N folios with
+
+    md.count("\n## 0") + md.count("\n## 1") == N
+
+which is correct for folios 004v to 199v and silently wrong from 200r on.
+The moment the translation crossed into the two-hundreds, six folios stopped
+being counted, and the failure surfaced as a bare mismatch with a number
+nobody could explain. `ktbump.py` computed the live figure with a regex and
+the checker counted it a different way; the two agreed for months by
+accident.
+
+Both now call one function, `_folios(md)`, with the regex `ktbump` always
+used. The rule: **if a figure is computed in two places, it will eventually
+disagree in one of them. Compute it once and call it twice.**

@@ -75,8 +75,12 @@ def main(argv):
     s = sub(s, r'"\d+ signs are read" in flat\n\s+and "23\.8% to \*\*[\d.]+%\*\*" in flat',
             f'"{L["signs"]} signs are read" in flat\n          and "23.8% to **{L["fpct"]:.1f}%**" in flat', "check signs", changes)
     s = sub(s, r'"\d+\\nfolios are translated" in doc', f'"{L["folios"]}\\nfolios are translated" in doc', "check folios doc", changes)
-    s = sub(s, r'check\("translation: the file exists and covers \d+ folios",\n\s+md\.count\("\\n## 0"\) \+ md\.count\("\\n## 1"\) == \d+',
-            f'check("translation: the file exists and covers {L["folios"]} folios",\n          md.count("\\n## 0") + md.count("\\n## 1") == {L["folios"]}', "check folios file", changes)
+    # Count folio headings with the SAME regex live() uses. The old form
+    # counted only "## 0" and "## 1", which silently stopped counting when
+    # the translation reached folio 200r -- six folios went missing and the
+    # checker failed with a number nobody could explain.
+    s = sub(s, r'check\("translation: the file exists and covers \d+ folios",\n\s+len\(_folios\(md\)\) == \d+',
+            f'check("translation: the file exists and covers {L["folios"]} folios",\n          len(_folios(md)) == {L["folios"]}', "check folios file", changes)
     if not dry:
         open(p, "w", encoding="utf-8").write(s)
     print("changed:", changes if changes else "nothing")

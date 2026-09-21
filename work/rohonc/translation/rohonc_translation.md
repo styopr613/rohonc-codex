@@ -14023,3 +14023,212 @@ in Király & Tokai's dictionary, so the person is not named here.
 > Matthew 21:28-31: *Son, go work to day in my vineyard... Which of the two
 > did the father's will? They say to him: The first.* The question put back to
 > the chief priests is on lines 7-9, exactly where Matthew has it.
+
+## 200r — he let out the vineyard to husbandmen
+
+**1**  said, to the pagan, the priest; and whosoever would be named, in turn went to the pagan;
+`say-to-+pagan priest* and name-+who-want in_turn go-to-+pagan`
+
+**2**  and then the Lord Jesus spoke truly; and secondly the Lord Jesus said
+`and_then Lord-Jézus righteous(ly)-+say speak and two say Lord-Jézus`
+
+**3**  a parable, and said: there was one rich lord who let out on lease
+`parable say exist grab one rich-Lord on-lease`
+
+**4**  the Lord's vineyard to husbandmen, the farm, the Lord's vineyard; and then
+`<of>-Lord vineyard_worker farm <of>-Lord vineyard and then-exist`
+
+**5**  the vineyard, many years he bore it, to take, to remit
+`vineyard-+say many year carry-+say to-+say grab remit`
+
+**6**  the vineyard's lease; and then this rich lord | of
+`vineyard lease and_then this rich-Lord | <of>`
+
+**7**  the Lord's servants, prophets and angels, the prophets and angels went, this lease
+`Lord servant prophet and angel go-prophet-angel this lease`
+
+**8**  from them to ask, the prophets and angels; and | the prophets
+`from* say ask_(for)-prophet-angel and | prophet`
+
+**9**  and angels, the lease they would not take from them, but rather
+`angel lease to-+say grab-+say but_rather`
+
+> Matthew 21:33-35, Douay: *There was a man an householder, who planted a
+> vineyard... and let it out to husbandmen... And he sent his servants to the
+> husbandmen, that they might receive the fruits thereof. And the husbandmen
+> laying hands on his servants, beat one and killed another.* The codex names
+> the servants as the prophets and the angels, which is the standard reading
+> of the parable and not Matthew's wording.
+
+## 200v — last of all he sent his son
+
+**1**  they all died; and the Lord's son went; this rich lord said to this son:
+`each,_every die and go-Lord <of>-Lord son this rich-Lord say this son`
+
+**2**  they will have, they would say, the lease the Lord will take;
+`exist-+say have would_say* lease Lord grab`
+
+**3**  and then the Lord was; they saw, and went; and the son
+`and then-exist-Lord exist-+say see and go and son.`
+
+**4**  they said; and then, thus: the son from […]
+`say* and_then-+say this_is son from [?]`
+
+**5**  the vineyard […] the son […]; and this
+`<subject> vineyard [?]-~son [?] and this`
+
+**6**  son is the vineyard's heir; and then they carried him off to die,
+`son exist vineyard carry and_then-+say go-die`
+
+**7**  they said; and […] to the Lord; and the son died, they said; and
+`say and [?] to-Lord and son die-+say and`
+
+**8**  then it was, from town to town […] and the Jews, the chief men:
+`then-exist exist from_town_to_town* [?] and Jew(ish) ~head`
+
+**9**  how? he said; spoke the Lord Jesus; and thirdly the Lord Jesus said a parable,
+`how? he_said* speak Lord-Jézus and three say Lord-Jézus parable`
+
+> Matthew 21:37-39, Douay: *And last of all he sent to them his son, saying:
+> They will reverence my son. But the husbandmen seeing the son, said among
+> themselves: This is the heir: come, let us kill him... And taking him, they
+> cast him forth out of the vineyard, and killed him.* The heir is on line 6.
+
+## 201r — the marriage of the king's son
+
+**1**  and said: there was one king in a land, and then
+`say exist one king inside land and then-exist`
+
+**2**  he had one son; and the king would make
+`have one son and son want king`
+
+**3**  a wedding; and then, among this king's,
+`wedding as* and then-exist among this king`
+
+**4**  all the Lord king's, in turn […] to this wedding; and | then,
+`each,_every <of>-Lord king in_turn-[?] on-this wedding and | then`
+
+**5**  therefore, not one went to this wedding; this king
+`therefore* one go on-this wedding get_angry this`
+
+**6**  grew angry; and then, thus, the people; and he spoke, the people
+`king and_then that_is people and speak people`
+
+**7**  of the Lord, out, in turn, the whole wide world, to the supper; and then the Lord Jesus: what did
+`<of>-Lord out in_turn the_whole_wide_world dinner-to and_then Lord-Jézus who do,`
+
+**8**  this king? He said to the Lord's servants: all, from the town,
+`this king say <of>-Lord servant each,_every from town.`
+
+**9**  destroy with fire and with water; and then this king
+`destroy fire and* water and_then this king`
+
+> Matthew 22:2-7, Douay: *The kingdom of heaven is likened to a king, who made
+> a marriage for his son... But they neglected: and went their ways... But
+> when the king had heard of it, he was angry, and sending his armies, he
+> destroyed those murderers, and burnt their city.* The anger and the burning
+> are both here; the water is the codex's own.
+
+## 201v — go out into the highways
+
+**1**  said to the Lord's servants: go, and speak this word, to the understanding, to the hidden;
+`<of>-Lord servant go and this word speak-understand-hide_oneself exist`
+
+**2**  leave them behind, and let them be among those at this wedding; and then
+`leave-to-leave and exist among on-this wedding and_then`
+
+**3**  this Lord king's servants went, to the blind, to the hidden, and
+`this Lord-king <of>-Lord servant go-?blind-hide_oneself and`
+
+**4**  the way, and to the town; and they found
+`way and on-town and find`
+
+**5**  the blind of God […] blind, and even more […] and
+`God blind [?] blind and even_more-[?]-to and`
+
+**6**  the hungry and the thirsty, and […] the blind of God, and
+`be_hungry and thirst and [?] God blind and`
+
+**7**  […] […] the servants found; all the servants went,
+`[?] [?] find servant each,_every go-servant`
+
+**8**  […] into the Lord king's house; and then, out of
+`[?] inside <of>-Lord-king house and then-exist out`
+
+**9**  the house, this king, the various heaven
+`house this king various heaven`
+
+> Matthew 22:9-10, Douay: *Go ye therefore into the highways; and as many as
+> you shall find, call to the marriage. And his servants going forth into the
+> ways, gathered together all that they found, both bad and good.* The blind
+> and the hungry are Luke 14:21 folded in, which is the codex's habit.
+
+## 202r — the man without a wedding garment
+
+**1**  Lord; and this king said, this king; and the king went into
+`Lord and say this king this-king and go-king inside`
+
+**2**  the Lord king's house; the king would go before, out of
+`<of>-Lord-king house want-king to-before on-+out`
+
+**3**  the Lord king's house; and then this king went
+`<of>-Lord-king house and then-exist ~go this king`
+
+**4**  into the Lord king's house; and this king saw
+`inside <of>-Lord-king house and see this king`
+
+**5**  one man of God in ragged clothes; and
+`one God-somebody ragged clothes and`
+
+**6**  thus the king said: this friend […] which man
+`say that_is king this friend [?] who somebody`
+
+**7**  […] the man went […] the man, friend,
+`[?] go-somebody [?] somebody friend`
+
+**8**  the wedding clothes, by name, which this man
+`wedding clothes to-+name who this somebody`
+
+> Matthew 22:11-12, Douay: *And the king went in to see the guests: and he saw
+> there a man who had not on a wedding garment. And he saith to him: Friend,
+> how camest thou in hither not having on a wedding garment?* The friend and
+> the wedding garment are both here, and the codex renders the missing garment
+> as ragged clothes, which is K&T's own word.
+
+## 202v — bind him hand and foot
+
+**1**  said, in the Lord God's house of heaven, that day; good, said this king,
+`say inside <of>-Lord-<divine> heaven house [?]-+day good say this king`
+
+**2**  Gabriel, friend, brother by name, this most high […] the will;
+`Gabriel friend brother-+name this-high [?] will`
+
+**3**  Gabriel spoke and said: bind the man's hands and
+`speak-+Gabriel say tie_(up) somebody hand and.`
+
+**4**  feet, and cast the man out, the angel, outside […]
+`foot and somebody throw_out angel on-out(ward) [?]`
+
+**5**  […] there is; see, the grinding of teeth, weeping. Chapter.
+`[?]-~exist exist see grinding tooth crying chapter-oh`
+
+**6**  Chapter. Here ends this holy gospel. The Lord God, with all thy heart.
+`chapter-oh end this holy-gospel Lord-<divine> ?with_all_thy_heart`
+
+**7**  This holy gospel begins, written by
+`begins this holy-gospel write.`
+
+**8**  holy Matthew, […] chapter | of
+`holy-Matthew [?] chapter | <of>.`
+
+**9**  the writing: the time, then, | the Lord
+`write time then-exist | Lord`
+
+**10**  Jesus, in his thirty-third year, the time
+`Jézus thirty ~begin-+three_days time`
+
+> Matthew 22:13, Douay: *Then the king said to the waiters: Bind his hands and
+> feet, and cast him into the exterior darkness: there shall be weeping and
+> gnashing of teeth.* The binding, the casting out, the weeping and the
+> gnashing are all here. The codex names the servant who does it **Gabriel**,
+> which no gospel does.
