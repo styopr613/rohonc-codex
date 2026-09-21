@@ -42,6 +42,20 @@ THE FLAGS, DECLARED BEFORE THE RUN.
            62. Measuring containment would have sent a reader after 41
            readings on a danger most of them do not have.
 
+  INHERIT  The reading's evidence rests on another sign -- it names that
+           sign's hex -- and that sign has since been withdrawn, or its own
+           gloss no longer says what this evidence quotes it as saying. The
+           basis is gone and the reading has to be remade or dropped.
+
+           Added 2026-09-21 after this shape produced two of the eight errors
+           found that day. 5202da 'creature' rested on "the stem of 5202da2da
+           already read as creatures"; 5202da2da was corrected to 'tree'. 7b2
+           'son' rested on "the stem of 7b2670ae0520 already read as sons";
+           that was corrected to 'shepherd'. Both were withdrawn. METHOD.md
+           names inheritance as the costliest mistake in this work -- a code
+           COMBINES with what it contains, it does not inherit from it -- and
+           until now nothing checked for it mechanically.
+
   ALONE    Tier C or D, occurs once, on a folio with no citation we can look
            up. Nothing internal and nothing external can test it. Not a
            fault -- a statement of what is not knowable, kept countable.
@@ -75,6 +89,10 @@ BLAST_GLYPHS = 3
 BLAST_TYPES = 10
 
 
+def load_all():
+    return json.load(open(OURS, encoding="utf-8"))
+
+
 def load_ours():
     p = json.load(open(OURS, encoding="utf-8"))
     return {k: v for k, v in p.items()
@@ -85,6 +103,11 @@ def load_ours():
 def main(argv):
     gl, doc, seg, var, prop, inv = K.build()
     ours = load_ours()
+    allprop = load_all()
+    withdrawn = {k[len("_withdrawn_"):] for k in allprop
+                 if k.startswith("_withdrawn_")}
+    # a sign withdrawn and re-entered under a different gloss is NOT orphaned
+    withdrawn -= set(ours)
     vv, vd = L.verses(), L.verses_dr()
 
     # where every sign stands, and what the renderer prints for each token
@@ -171,6 +194,43 @@ def main(argv):
         if len(N.glyphs(h)) < BLAST_GLYPHS and feeds[h] >= BLAST_TYPES:
             flags.append("BLAST")
 
+        ev = v.get("evidence", "")
+        hexes = [(m.start(), m.group()) for m in
+                 re.finditer(r"\b[0-9a-f]{3,}\b", ev) if m.group() != h]
+        if any(x in withdrawn for _, x in hexes):
+            flags.append("INHERIT")
+        else:
+            # gloss drift: "<hex> ... read as <word>" where <word> is no
+            # longer in that sign's gloss. Two guards, both learned the hard
+            # way on 2026-09-21 when this flag fired on four readings that
+            # were fine. (1) The claim must attach to the NEAREST PRECEDING
+            # hex -- "ab0 (gate/open), the pattern K&T read as woman from
+            # 060131" says woman of 060131, not of ab0. (2) Both glosses must
+            # carry a content stem. "and then" stems to nothing, so comparing
+            # it to anything returns empty and looks like a mismatch; that
+            # alone raised 4a0 and 4a2, whose basis is weak but intact.
+            for m in re.finditer(r"read as ([a-z][a-z ]{2,30})", ev):
+                # the hex must sit IMMEDIATELY before the claim -- both real
+                # cases read "the stem of <hex> already read as <word>", a gap
+                # of nine characters. Widening it to any preceding hex made
+                # the flag fire on "ab0 (gate/open), the pattern K&T read as
+                # woman from 060131", where the claim belongs to the sign
+                # named AFTER it. Fifteen characters is the whole rule and it
+                # is deliberately narrow: this flag exists to catch one
+                # sentence shape this project actually writes.
+                before = [x for pos, x in hexes
+                          if pos < m.start() <= pos + len(x) + 15]
+                if not before:
+                    continue
+                other = before[-1]
+                og = allprop.get(other)
+                if not (isinstance(og, dict) and og.get("gloss")):
+                    continue
+                claim, now = R.stems(m.group(1)), R.stems(og["gloss"])
+                if claim and now and not (claim & now):
+                    flags.append("INHERIT")
+                    break
+
         if tier in ("C", "D") and len(occ) <= 1 and not cited:
             flags.append("ALONE")
 
@@ -185,7 +245,7 @@ def main(argv):
         rs = [r for r in rows if r[1] == t]
         print(f"  {t:5s} {len(rs):9d} {sum(1 for r in rs if r[6]):8d}")
     print(f"\n  flags raised (a reading can raise several):")
-    for f in ("SOURCE", "DUP", "COLLIDE", "BLAST", "ALONE"):
+    for f in ("SOURCE", "DUP", "COLLIDE", "BLAST", "INHERIT", "ALONE"):
         print(f"    {f:8s} {cnt[f]:5d}")
     print(f"\n  {len(flagged)} readings of {len(rows)} want a human. "
           f"{len(rows)-len(flagged)} raise nothing.")
@@ -218,7 +278,7 @@ def main(argv):
             flagged, key=lambda r: (-len(r[6]), -r[3]))[:40]:
         print(f"    {h:22s} {tier}  n={n:<4d} feeds={fd:<4d} "
               f"{','.join(flags):28s} '{gloss[:26]}'")
-    print(f"\n  full list: --flag SOURCE | DUP | COLLIDE | BLAST | ALONE")
+    print(f"\n  full list: --flag SOURCE | DUP | COLLIDE | BLAST | INHERIT | ALONE")
     return 0
 
 

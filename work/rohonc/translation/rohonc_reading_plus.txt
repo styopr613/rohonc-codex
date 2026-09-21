@@ -133,7 +133,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  see +it Adam and then-exist +it Adam
  6  be_ashamed_of_sg and six say God angel to-Elijah prophet.
  7  Elijah and this ?deadly_sin ?afterward hide_oneself-angel
- 8  from-father ?eternal ?son-+<subject_marker> hide_oneself-angel exist bow_down | father
+ 8  from-father ?eternal [?] hide_oneself-angel exist bow_down | father
  9  <suffix_of_divine_name> ?from_the_eternal in_turn-brother ?hell and +seven say
 10  God angel to-Elijah prophet Elijah leave Lord-<suffix_of_divine_name>
 11  ?from_the_eternal in_turn-[?] inside Garden_of_Eden say
@@ -571,7 +571,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 025v ===
  1  town and first before be_born one +saying exist
  2  +sky star through light Bethlehem town and | then
- 3  exist star see +shepherd and from +rejoiced ?son-before.
+ 3  exist star see +shepherd and from +rejoiced [?].
  4  and then-exist on-star miracle time say angel °shepherds
  5  +great joy be_born king king +<subject_marker>
  6  be_born inside ~Bethlehem town inside barn inside donkey
@@ -1351,7 +1351,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  gardener +and_then this gardener-Lord-Jézus-Christ | this
  3  woman who-shore °came woman mourn to-Lord this from
  4  Jézus execute +rise ?seek because
- 5  say ?son-before °risen see-[?] light on-+heaven
+ 5  say [?] °risen [?] light on-+heaven
  6  town-chapter-in_turn ?stooped_down burial_chamber pierce and burial_chamber +<subject_marker>
  7  light from-gate and +verily can +that +rise
  8  and leave Lord-Jézus before Mary Magdalene
@@ -1574,7 +1574,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  8  inside ten chapter <preposition_of_genitive>-write
  9  time say Lord-Jézus
 10  on-who-+who-to dinner apostle
-11  <preposition_of_genitive>-Lord this-Lord good ?son-before in_turn you from apostle
+11  <preposition_of_genitive>-Lord this-Lord good [?] in_turn you from apostle
 
 
 === 064r ===
@@ -2695,9 +2695,9 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  and then-exist this robber remit ~Adam grab
  3  booty and ~Adam beat robber
  4  die-this ~Adam and +half_dead and +half_alive
- 5  that_way go ~on one descendant-Abraham ?son-to
+ 5  that_way go ~on one descendant-Abraham [?]
  6  ~Adam on-see-descendant-Abraham long-~Adam and | go
- 7  descendant-Abraham go ~on two ~begin descendant-?the_scripture ?son-to ~Adam
+ 7  descendant-Abraham go ~on two ~begin descendant-?the_scripture [?] ~Adam
  8  [?]-descendant-?the_scripture long-~Adam and go °by_chance
  9  ~Adam can-two-Abraham-?the_scripture good ?afterward
 10  long-~Adam through go-two-Abraham that_way
@@ -2906,7 +2906,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 114r ===
  1  ?son this pigman evil and begin-soul-son
- 2  <preposition_of_genitive>-evil pig ?son and soul-son ?how_shall_we
+ 2  <preposition_of_genitive>-evil pig [?] and soul-son ?how_shall_we
  3  food a) begin-soul-son +name-from-+name °husks °swine ?he_who | +sin
  4  [?]-from understand and begin-soul-son speak have | from-father
  5  <suffix_of_divine_name> <preposition_of_genitive>-soul-son farm_hand and servant good leave
@@ -3155,7 +3155,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 124r ===
- 1  ?son-+<subject_marker> hide_oneself-angel exist ~bow_down father-<suffix_of_divine_name> on-heaven | in_turn-chapter
+ 1  [?] hide_oneself-angel exist ~bow_down father-<suffix_of_divine_name> on-heaven | in_turn-chapter
  2  +day-exist on-hell +and_then Lord-Jézus leave Lord-father son
  3  spirit on-heaven in_turn-[?] inside Garden_of_Eden
  4  +and_then Lord-Jézus this table two from +saying and then-exist
@@ -4299,7 +4299,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 170v ===
  1  thirty ?years time go Lord-Jézus inside Jerusalem temple and | then
- 2  exist inside temple go Lord-Jézus and see-Lord ?son many joy
+ 2  exist inside temple go Lord-Jézus and see-Lord [?] many joy
  3  and many sad(ly) and from-to-far exist apostle holy-John
  4  +three-+baptize +the_Baptist/woman and then-exist leave Lord-Jézus +and_then apostle
  5  +answered apostle fast-apostle and +Pharisee fast in_turn <preposition_of_genitive>-Lord apostle
