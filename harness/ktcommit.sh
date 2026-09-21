@@ -11,6 +11,14 @@ set -u
 cd "$(dirname "$0")" || exit 1
 msg="${1:-}"
 if [ -z "$msg" ]; then echo "usage: ./ktcommit.sh \"commit message\""; exit 2; fi
+# Regenerate the saved run BEFORE ktbump reads it. This was a real failure:
+# work/rohonc/kttranslate.txt had not been regenerated for days, so ktbump
+# carried 61.1% lines-fully-read into ROHONC.md while the live figure was
+# 80.1%, and check_rohonc.py passed -- because it compared the prose against
+# the same stale file. A checker that compares two stale things agrees with
+# itself. The saved run is now rebuilt on every commit.
+python3 kttranslate.py > ../work/rohonc/kttranslate.txt 2>/dev/null || {
+  echo "kttranslate failed"; exit 1; }
 python3 ktbump.py > /tmp/ktbump.out 2>&1 || { cat /tmp/ktbump.out; echo "ktbump failed"; exit 1; }
 tail -1 /tmp/ktbump.out
 ok=1

@@ -1185,7 +1185,7 @@ composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **61.1%**.
+lines where every word is read from 23.8% to **80.1%**.
 
 **The book writes the creation twice, line for line.** Folios 121v-123r are
 the same text as 002v-003v, sentence for sentence in the same order: the

@@ -532,11 +532,11 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 2559 tokens = 8.5% rendered",
-          len(g) == 2 and g[0] == 2559 and close(g[1], 8.5, .02), str(g))
+    check("proposals: 3590 tokens = 12.0% rendered",
+          len(g) == 2 and g[0] == 3590 and close(g[1], 12.0, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
-    check("proposals: 2671 lines fully read with them",
-          len(g) == 2 and g[0] == 2671 and close(g[1], 61.1, .02), str(g))
+    check("proposals: 3503 lines fully read with them",
+          len(g) == 2 and g[0] == 3503 and close(g[1], 80.1, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -545,7 +545,7 @@ def main():
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
           "METHOD.md" in flat and "891 signs are read" in flat
-          and "23.8% to **61.1%**" in flat)
+          and "23.8% to **80.1%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)
@@ -732,6 +732,10 @@ def main():
           "rohonc_readers_edition.md" in conf and "ktreader.py" in conf
           and "27,937" in conf and "1,087" in conf
           and "decoration, not restoration" in conf)
+    check("METHOD: the stale saved run, and the rule it produced",
+          "A checker that compares two stale things agrees with itself" in meth
+          and "61.1%" in meth and "80.1%" in meth
+          and "the check is a mirror" in meth)
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 
