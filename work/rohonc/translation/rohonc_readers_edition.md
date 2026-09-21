@@ -4684,7 +4684,9 @@ words. There are 15 of them now.
   8  inside two-two chapter <preposition_of_genitive>-write time sit Lord-Jézus
   9  on-sea then-exist inside thirty two-year
 
-## 160v
+## 160v — the Lord returns to Capharnaum
+
+> Within, there was one of the Lord God, and through […] the Lord Jesus into one land […] into one […] […] the house; and then he was seen, the Lord Jesus going, and they began to cry out […], and the Lord went; this Lord would; he says from on high, of the rich […] he made ready, and the Lord Jesus returned | into the middle of the Lord's town; and this town | was named Capharnaum; and he took to himself three apostles, Peter and Paul and
 
   1  inside one ~exist Lord-<suffix_of_divine_name> and through [...] Lord-Jézus inside
   2  one land [...] inside one in_turn-chapter-in_turn
@@ -4696,7 +4698,9 @@ words. There are 15 of them now.
   8  was_named* exist Capharnaum and grab
   9  to-Lord three apostle Peter and Paul and
 
-## 161r
+## 161r — the paralytic, and the four who carried him
+
+> John; because then the Lord Christ would do a miracle, and every miracle the Lord had to confess; and then | he preached, the Lord, in Capharnaum; and many people made ready to him, and then they carried one upon an ass before the Lord Jesus, within | two by two, the men, at the head. Among them: faith, love, hope, mercy; and | they could not — the four friends of the paralytic — so instead, up onto the temple they went, the four friends; and the temple they pierced through, the four friends, to let him down
 
   1  John because then-exist Lord Christ miracle do, want
   2  Lord-to each,_every miracle confess have and then-exist | preach
@@ -4708,7 +4712,9 @@ words. There are 15 of them now.
   8  go <the_four_friends_of_the_paralytic_man_in_Lk_5,_17ff> and temple
   9  through pierce <the_four_friends_of_the_paralytic_man_in_Lk_5,_17ff> to-?again
 
-## 161v
+## 161v — thy sins are forgiven thee
+
+> onto the roof; and a man, with a rope, | let down faith, love, hope, mercy, to the Lord, before the Lord Jesus Christ; the Lord Jesus saw, and was saved the man; from the faith of the two and two, what and who, and a man had mercy, the Lord Jesus Christ; and then the Lord Jesus: son, of the Lord believing son, loving son, hoping son, | mercy; the son shall have health, the son; and then the Lord was there […]; the Lord, the Jews, the Lord Jesus; and then the Lord Jesus […] | said: believe, man, love, hope, man, have mercy, man; there is […] a man, or rise, and go, man.
 
   1  on-roof and somebody rope | go-+believe-love-hope
   2  have_mercy Lord before Lord-Jézus-Christ see Lord-Jézus be_saved
@@ -4721,7 +4727,9 @@ words. There are 15 of them now.
   9  somebody-hope-somebody-have_mercy-somebody exist [...]
  10  have-somebody or rise and* go-somebody
 
-## 162r
+## 162r — rise, take up thy bed and walk
+
+> The Jews said […] | said: believe, man, love, man, hope, man, have mercy, man; there is, therefore, a man, said the Lord Jesus truly; the Jews spoke, and then | the Lord Jesus took […] of the son | faith, love, hope, mercy, that day; and the stretcher he took, and put the son on the stretcher, upon the son's shoulder; and the man went, and the son was saved, the man's son, home to heaven. Here ends this holy gospel. The Lord Christ raised three dead, stood them up, the Lord | of
 
   1  say Jew(ish) [...] | say-believe-somebody-love-somebody
   2  hope-somebody-have_mercy-somebody exist therefore* have-somebody
@@ -4733,7 +4741,9 @@ words. There are 15 of them now.
   8  <preposition_of_genitive>-somebody son ~home heaven end this holy-gospel
   9  Lord-Christ three die-somebody <subject_marker> stand_up resurrect-Lord | <preposition_of_genitive>
 
-## 162v
+## 162v — the three whom the Lord raised
+
+> the Lord, of the Father; first he could stand up and raise, the Lord Jesus, one chief man's daughter in Jerusalem; and the second | dead man he stood up and raised, the Lord Jesus: Lazarus, in Jerusalem; | and the third dead man he stood up and raised, the Lord Jesus, at Nain; […] therefore stood up and raised the three dead to the Lord, the Lord Christ: rather, the daughter, Lazarus, the son; of the Father, of the Lord, he stood up and raised; of the Lord, why in turn, of the Lord the finger […] the miracle he did. | The Lord, Father, Son, God, Jesus, Holy Spirit, the Lord God, with all thy heart.
 
   1  Lord from-father-<suffix_of_divine_name> can first stand_up resurrect Lord-Jézus
   2  one head daughter inside Jerusalem in_turn-two | die
@@ -4745,7 +4755,9 @@ words. There are 15 of them now.
   8  finger [...] miracle do, | Lord
   9  father-<suffix_of_divine_name>-son-God-Jézus-holy-spirit Lord-<suffix_of_divine_name> with_all_thy_heart*
 
-## 163r
+## 163r — the widow of Nain
+
+> This holy gospel begins, written by holy Luke, in the […] chapter of the writing: the time, then, the Lord Jesus, in his thirty- | second year; the time he went, | the Lord Jesus, into one town; and this town's name was Nain; and the Lord went to the farm, and many people, and then to the Lord the seventy and the twelve apostles, and | then then the Lord Jesus kept going to this town, and then there died in this town the son of one widow woman.
 
   1  begins this holy-gospel
   2  write holy-Luke inside
@@ -4759,7 +4771,9 @@ words. There are 15 of them now.
  10  then-exist keep_going Lord-Jézus this town and then-exist
  11  die inside this town son one virgin-woman
 
-## 163v
+## 163v — weep not
+
+> and the son was carried; therefore the brethren of the son, the Lord God, the thief, therefore humble; the son was of the Lord God, therefore God had the son carried out of the town, two by two among the men, at the head, because they had him within. The word of the Old Testament: he was borne out of the town, to the aforesaid wide world; and there were to the son many people; and then they left behind an army, an army, among the gates, from the two peoples, the people, two; and they left […]; and the Lord Jesus saw many sorrowing; and then this woman, the chief, remained a widow, sorrowing, this one; how then this? Said the Lord Jesus: stand up | this
 
   1  and son carry therefore* brethren-~son Lord-<suffix_of_divine_name> thief therefore* humble
   2  son exist Lord-<suffix_of_divine_name> therefore* God have-~son out(ward) on-town
@@ -4771,7 +4785,9 @@ words. There are 15 of them now.
   8  sad(ly) and_then this woman head remain-+the_Baptist/woman
   9  sad(ly) this how? then-exist this say Lord-Jézus stand_up | this
 
-## 164r
+## 164r — young man, I say to thee, arise
+
+> the woman's son; and the Lord Jesus left off from the coffin, which within the coffin to the son, from the two by two men at the head; and the Lord Jesus touched, why in turn, from the coffin, which within the coffin lay dead, the son of this widow woman; and then | the Lord Jesus raised this son -- in this example, the son […] -- and he rose and sat up. How? As one prophet; and thus the Lord went; his descendant, to the pleasing of the Lord, the prophet foretold through this the Lord went; and then the Lord Jesus took the son, of the son | faith, love, hope […]; and | faith, love, hope
 
   1  woman <preposition_of_genitive> son and leave Lord-Jézus from coffin which inside coffin
   2  to-~son to-+son from two-two man head and
@@ -4783,7 +4799,9 @@ words. There are 15 of them now.
   8  go-Lord and_then Lord-Jézus grab-~son <preposition_of_genitive>-son | believe
   9  love-hope-[?] and | believe-love-hope
 
-## 164v
+## 164v — and he gave him to his mother
+
+> mercy, the day; and they put the son, faith, love, hope, mercy, | upon the son's shoulder; and the son took, why in turn, the Lord Jesus; and then the son was; the Lord took the son's mother, and the son went to the temple, the mother; he was saved; the son's temple, the mother, home to heaven; much joy, in turn, one sorrow remitted. And in turn the two of them could see the Lord Jesus Christ; and the Lord, every thanks they gave him. Here ends this holy gospel. The Lord's love. Written by holy Luke in the […] chapter of the writing. This woman signifies the mother, the temple, faith, the three baptisms,
 
   1  have_mercy day and put son believe-love-hope-have_mercy | on-<preposition_of_genitive>
   2  son shoulder and son grab on-why?-in_turn Lord-Jézus and
@@ -4795,7 +4813,9 @@ words. There are 15 of them now.
   8  write holy-Luke inside one-[?] chapter <preposition_of_genitive>-write
   9  this woman symbolize mother temple believe three-+baptize
 
-## 165r
+## 165r — what the widow and her son signify
+
+> the widow; the son signifies the soul of every man, that the Lord God, the Lord's heart, every man; this town signifies that, that he is saved, that […] the Lord Jesus Christ, all the wide world | this this is saved: every man who believes, the three baptisms, the widow […] the Lord saves, the Lord Jesus Christ, of the Father, of the Lord. In this gospel, as holy Luke writes, there went two by two men at the head, to the son; in this example the son […] and the son was dead; and the son they took and carried; therefore love | the Lord God. The thief, therefore, is humble; the Lord God, therefore, has
 
   1  the_Baptist/woman son symbolize soul each,_every somebody that* Lord-<suffix_of_divine_name> heart-Lord
   2  each,_every somebody this town symbolize that* that* be_saved
@@ -4807,7 +4827,9 @@ words. There are 15 of them now.
   8  exist die and son grab and carry therefore* love | Lord
   9  <suffix_of_divine_name> thief <subject_marker> therefore* exist humble Lord-<suffix_of_divine_name> therefore* have
 
-## 165v
+## 165v — the first of the four ways
+
+> the Lord God; and this, therefore, repentance […] took this son, this widow woman; and the son was carried out, into belief. The three baptisms, the widow: that is, the son cast out, remitted, saved, the damned son. Chapter. Chapter. In the gospel written by holy Luke, this example: therefore love the most high Lord God | from the letter, with all the heart; rather, love, and this, and the heart, love the son, and therefore the brethren. Then the dead son goes to the son, and leaves; therefore love on the first way. In the gospel written by holy Luke, this example: there were many thieves, but by name the son
 
   1  Lord-<suffix_of_divine_name> and this therefore* repentance [...] grab this son this
   2  virgin-woman and son carry out(ward) on-believe.
@@ -4819,7 +4841,9 @@ words. There are 15 of them now.
   8  on-one ways* inside gospel write holy-Luke
   9  this example* <subject_marker> exist many thief but-+name-to son
 
-## 166r
+## 166r — the second, third and fourth ways
+
+> in repentance took; then the dead son goes to the son. And the thief leaves, on the second way. In the gospel written by holy Luke, this example: therefore be humble, son, man; and the Lord God; then the dead son goes to the son, and leaves; therefore be humble, on the third way. In the gospel written by holy Luke, this example: therefore he has, the son, the Lord God, in all of the son's […] […] the son is within […] then the dead son goes to the son, and leaves; therefore he has
 
   1  on-repentance grab then-chapter die-son go to-son.
   2  and leave thief on-two ways* inside-gospel write
@@ -4831,7 +4855,9 @@ words. There are 15 of them now.
   8  [...] <subject_marker> exist son inside [...]
   9  then-chapter die-son go to-son and leave therefore* have
 
-## 166v
+## 166v — the whole law in two commandments
+
+> on the fourth way; and […] the two by two men, and the son they took, the two by two men, and carried the son out […] of the town, into belief; the three baptisms, the widow; into damnation, then the son is carried into hell, damned. Chapter. Chapter. […] therefore be saved. It is written in Moses, truly: love the Lord God most high with all thy heart, with all thy soul, with all thy might, with all thy heart; and of thy father's son, how a man loves his neighbour | of the man; heaven and earth. Here ends this holy gospel.
 
   1  on-two-two ways* and [...] two-two man and son
   2  grab two-two man and son carry out(ward) [...]
