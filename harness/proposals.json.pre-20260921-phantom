@@ -203,6 +203,12 @@
   "n": 3,
   "tier": "A"
  },
+ "060060060060060ae0": {
+  "evidence": "five strokes with the other numeral terminator",
+  "gloss": "five",
+  "n": 2,
+  "tier": "C"
+ },
  "060060060060060ae1": {
   "evidence": "five tally strokes plus the numeral terminator, the same shape as three+terminator already read: 'two months, and [five], and at six years' 017v:11",
   "gloss": "five",
@@ -9318,12 +9324,6 @@
   "tier": "G"
  },
  "_about": "Readings for signs Kiraly & Tokai leave undefined, made their way: guessed from one passage, then checked at every occurrence in the book. Tier A fits every occurrence checked or is proved by an identical formula or a numeral; B fits most; C is a guess. Keys are glyph codes minus E000, three hex digits per glyph.",
- "_withdrawn_060060060060060ae0": {
-  "evidence": "REMOVED 2026-09-21. A phantom: the sign does not exist in the manuscript. It occurs zero times as a token, and unlike the other eight readings with no standalone occurrence it is not inside any other token type either -- those eight are pieces that feed compounds, which is how this writing works. This one reads nothing at all. It is 'five' misspelled: the real signs are 060060060060060 (five tally strokes, 29 occurrences) and 060060060060060ae1 (four occurrences, the numeral-end marker ae1), both already entered at tier A and both correct. This entry ended in ae0 instead of ae1 and so matched nothing. It was carrying a stored n of 2 that no occurrence supports. Prior gloss and evidence: {\"evidence\": \"five strokes with the other numeral terminator\", \"gloss\": \"five\", \"n\": 2, \"tier\": \"C\"}",
-  "gloss": "_withdrawn_",
-  "n": 0,
-  "tier": "withdrawn"
- },
  "_withdrawn_060520444520ae0": {
   "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read 'was accused' from Luke 16:1, 'the same was accused unto him that he had wasted his goods', for the unjust steward at 169r:4 and 169r:8. Those two lines do not cite Luke 16:1; they cite 16:8. And the sign stands on three other folios whose passages have no accusation in them and where it does not read: 107r:5 'and he said, he is the good neighbour [was accused]' is Luke 10:36-37, the Good Samaritan; 107r:3 the same passage; 115v:3 '[was accused] and began to [was accused], joy' is Luke 15:25, the prodigal's elder brother. A reading that fails a clear occurrence is not demoted, it comes out. No replacement is entered: the word must serve the steward, the Samaritan and the prodigal at once, and nothing offered by those three passages does. Prior gloss and evidence: {\"evidence\": \"'that steward [was accused], and then this steward' 169r:4, 169r:8 = Luke 16:1, the same was accused unto him\", \"gloss\": \"was accused\", \"n\": 10, \"tier\": \"C\"}",
   "gloss": "_withdrawn_",
