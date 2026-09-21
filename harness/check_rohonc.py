@@ -686,10 +686,10 @@ def main():
           and "56.0%" in flat and "68.3%" in flat)
 
     check("CONCLUSION: the live figures and the honest ceiling",
-          "96.4% of the words now" in conf and "80.1% of the lines" in conf
+          "96.7% of the" in conf and "82.3% of the lines" in conf
           and "826" in conf and "83.5%" in conf
           and "no route past the mid-eighties" in conf
-          and "80.5% complete including guesses" in conf
+          and "99.9% complete including guesses" in conf
           and "2.1% -- mean the same thing" in conf
           and "370 signs covering 577 words" in conf
           and "Three hundred and fifteen of the 441 folios" in conf)
@@ -706,9 +706,9 @@ def main():
           "tier G" in conf and "degree sign" in conf
           and "is **not** counted as a line with every word read" in conf)
     check("CONCLUSION: the provenance and tier table",
-          "ktprov.py" in conf and "58.9%" in conf and "56.3%" in conf
+          "ktprov.py" in conf and "58.9%" in conf and "54.3%" in conf
           and "co-signed by the published work" in conf
-          and "462" in conf and "290 read from a passage" in conf)
+          and "476" in conf and "325 read from a passage" in conf)
     check("METHOD: a story that fits is not evidence, and its other half",
           "A story that fits is not evidence" in meth
           and "near is not the same" in meth
@@ -735,11 +735,12 @@ def main():
     check("CONCLUSION: gate 4 reported with its consequence applied",
           "ktrederive.py" in conf and "12 of 25, 48%" in conf
           and "the test was INVALID" in conf
-          and "downgraded" in conf and "80.1% is unchanged" in conf)
+          and "downgraded" in conf and "it was 80.1% before" in conf)
     check("CONCLUSION: the reader's edition and its apparatus",
           "rohonc_readers_edition.md" in conf and "ktreader.py" in conf
-          and "27,937" in conf and "1,087" in conf
-          and "decoration, not restoration" in conf)
+          and "27,997" in conf and "There are no ellipses left" in conf
+          and "tagged WEAK in the deposit" in conf
+          and "one time in four" in conf)
     check("METHOD: the stale saved run, and the rule it produced",
           "A checker that compares two stale things agrees with itself" in meth
           and "61.1%" in meth and "80.1%" in meth

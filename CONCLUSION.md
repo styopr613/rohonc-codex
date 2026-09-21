@@ -103,11 +103,14 @@ The grammar is theirs. What is new is checking it independently and running it
 across the whole book.
 
 It is worth being exact about what a percentage of the book means, because
-there are two numbers and one of them is much weaker. **96.4% of the words now
-have *a* reading, and 80.1% of the lines have every word read.** The second is
-the one that matters: a sentence with one unreadable word in it is not a
-sentence you can read. It stood at 2.8% before any of this, at 62.4% on the
-morning of 2026-09-20, and at 74.9% on the morning of 2026-09-21.
+there are three numbers and they mean very different things. **96.7% of the
+words have *a* reading; 82.3% of the lines have every word read; and 99.9% of
+the lines are complete once bracketed guesses are counted.** The middle one is
+the one that matters, because a sentence with one unreadable word in it is not
+a sentence you can read. It stood at 2.8% before any of this, at 62.4% on the
+morning of 2026-09-20, at 74.9% on the morning of 2026-09-21, and at 82.3%
+that evening. The third number is not a decipherment figure at all; it is the
+reader's edition having a word in every slot, 3.3% of them guesses.
 
 Even the word figure overstates how much is understood. Only about one word in
 eight has a single meaning with no choice to make; most carry several senses
@@ -115,7 +118,9 @@ each, and the rule for choosing between them is in the grammar paper Kiraly
 and Tokai have not published.
 
 **What moved it from 74.9% to 80.1% was not more reading of lines. It was three
-small instruments that read the dictionary instead.** Each asks a mechanical
+small instruments that read the dictionary instead.** (A fourth, described
+further down, took it from 80.1% to 82.3% by following Kiraly and Tokai's own
+folio-line citations back into the manuscript.) Each asks a mechanical
 question about the shape of a sign, and each found words that hours of reading
 passages had walked past:
 
@@ -173,7 +178,7 @@ the ceiling on its evidence unless Kiraly and Tokai's own apparatus happens to
 name it -- and that seam, which looked worked out at six signs, turned out to
 hold about seventy once the three instruments above were pointed at it.
 
-**What the 80.1% is made of.** A percentage without a tier distribution
+**What the 82.3% is made of.** A percentage without a tier distribution
 behind it is a claim, not a result. `ktprov.py` computes this and reads none
 of the prose of the evidence field -- every class is worked out from the sign
 itself against Kiraly and Tokai's dictionary, so a reviewer can rerun it.
@@ -181,39 +186,39 @@ itself against Kiraly and Tokai's dictionary, so a reviewer can rerun it.
     THE WHOLE RENDERING, WORD BY WORD          29,997 words
 
       K&T's dictionary, unchanged              17,673   58.9%
-      by composition of signs they read         7,617   25.4%
-      this project, anchored on a K&T entry     1,871    6.2%
+      by composition of signs they read         7,662   25.5%
+      this project, anchored on a K&T entry     1,886    6.3%
       this project, anchored on a reading
-        of its own                                277    0.9%
-      this project, read from a passage         1,457    4.9%
-      a tagged guess                               15    0.1%
-      no reading                                1,087    3.6%
+        of its own                                421    1.4%
+      this project, read from a passage         1,375    4.6%
+      a tagged guess, bracketed, never counted    975    3.3%
+      no reading at all                             5    0.0%
 
-    THIS PROJECT'S 891 READINGS, BY TIER
+    THIS PROJECT'S 1,786 ENTRIES, BY TIER
 
       A  survives every occurrence, or proved by an identical
-         formula, a numeral, or K&T's own citation          462
+         formula, a numeral, or K&T's own citation          476
       B  survives most occurrences                          178
-      C  one passage, or source-checked                     238
-      D  a single occurrence, read from one line              5
-      G  a guess, never counted as read                       8
+      C  one passage, or source-checked                     211
+      D  a single occurrence, read from one line             82
+      G  a guess, never counted as read                     839
 
-    THE SAME READINGS, BY WHERE THE WORD CAME FROM
+    THE 947 READINGS THAT ARE NOT GUESSES, BY WHERE THEY CAME FROM
 
-      anchored on a K&T entry        502 signs  56.3%
-        of which: holds one of theirs whole 257,
-        one glyph from one 171, sits inside one 74
-      anchored on a reading of ours   91 signs  10.2%
-      read from a passage            290 signs  32.5%
-      a tagged guess                   8 signs   0.9%
+      anchored on a K&T entry        514 signs  54.3%
+        of which: holds one of theirs whole 266,
+        one glyph from one 172, sits inside one 76
+      anchored on a reading of ours  108 signs  11.4%
+      read from a passage            325 signs  34.3%
       judgments flagged as such in the evidence: 4
 
-**Two thirds of this project's readings are co-signed by the published work**
--- they were got from Kiraly and Tokai's own entries by decomposition, by
-containment or by a single-glyph match, so the word is theirs and only the
-placement is ours. The 290 read from a passage are the ones that stand or fall
-on this project's evidence alone, and they are the ones a reviewer should go
-at first.
+**Two thirds of this project's non-guess readings are co-signed by the
+published work** -- they were got from Kiraly and Tokai's own entries by
+decomposition, by containment or by a single-glyph match, so the word is
+theirs and only the placement is ours. The 325 read from a passage are the
+ones that stand or fall on this project's evidence alone, and they are the
+ones a reviewer should go at first. The 839 tier G entries are not readings
+at all and are excluded from every figure above except their own line.
 
 **Two documents, because they have different jobs.** The deposit is strict:
 `harness/proposals.json` carries one entry per sign with its tier and the
@@ -228,16 +233,97 @@ apparatus every damaged classical text uses --
     [word]    restored: a guess from the folio's source and its neighbours
     [...]     dark
 
-    read                             27,937   93.1%
-    read from one passage, marked *     958    3.2%
-    restored, in brackets                15    0.1%
-    dark, printed as an ellipsis      1,087    3.6%
+    read                             27,997   93.3%
+    read from one passage, marked *   1,020    3.4%
+    restored, in brackets               980    3.3%
+    dark, printed as an ellipsis          0    0.0%
 
-The dark places are **not** filled in, and gate 4a is why: the best candidate
-a folio's cited passage can offer was right 0.0% of the time against Kiraly
-and Tokai's hidden entries. A bracket filled from a generator that is at
-chance is decoration, not restoration. The bracket count is the measure of
-what is left to do, and it falls every time a source text enters the corpus.
+**There are no ellipses left.** Every word of the manuscript has an English
+word against it. That is emphatically not the same as every word being read:
+3.3% are brackets and the brackets are the weakest thing in the edition. They
+were printed because a reader asked for the book completed rather than left in
+holes, and because a bracket that is visible on the page can be stripped out
+by anyone who wants only what is established.
+
+What a bracket is worth was measured before any were printed. On words as rare
+as these, the folio's cited passage contains the true word 7.8% of the time,
+and when it is there the best candidate is right about one time in four;
+against Kiraly and Tokai's hidden entries the top candidate scored 0.0%. What
+can be checked from inside the book is that three quarters of the content
+guesses land on a word that actually stands in the verse the folio cites. The
+weakest are the last two leaves, 224r and 224v, the worst-preserved in the
+manuscript, whose brackets are tagged WEAK in the deposit.
+
+Five brackets carry a chapter number that differs from folio to folio. One
+sign, written as four strokes, a mark and four strokes, stands in the
+chapter-citation slot on five folios, and the passage that follows it is
+Matthew 16 on 195v, Matthew 18 on 134r, Matthew 22 on 202v and Luke 14 on
+071r. One sign cannot be four chapters, so it is not read; `ktfolio.py` simply
+prints the chapter each folio's own following text shows.
+
+## The dictionary cites the manuscript, and the citations had never been followed back
+
+Kiraly and Tokai's entries carry an apparatus: the folio and line where a word
+stands, and where a *variant spelling* of it stands. "[var. 065v01, 218v09]".
+"185r07 Heraclius". "088v11 covered with wounds". That apparatus points at the
+manuscript, so it can be run backwards.
+
+For every line this project could not fully read, ask whether any K&T entry
+cites that exact line. 398 do. Where such a line has exactly one hole AND the
+word their entry names is not already rendered somewhere else in the line,
+their entry names the hole.
+
+That gave 44 readings in an afternoon, eleven at tier A -- the tier reserved
+for "proved by K&T citation", which had almost never been reachable before.
+Holy Anne. In Nain. The aged, which is Joseph's standing epithet. Holy Mark,
+holy James, Heraclius, arrived, fourteen, to Bethany, confess, exist. None is
+a guess; each is Kiraly and Tokai's own reading of that line, in a spelling
+the open transcription writes differently from their headword.
+
+It had been missed for six years, and the reason is exact: the variant reader
+keyed on headwords, so a form carrying a prefix -- their sign for "holy" in
+front of Mark, of Anne, of James -- never matched anything.
+
+The same screen is also what says no, and says it far more often. On 36 cited
+lines the word their entry names is already rendered in the line, so the
+citation reaches a different token and cannot fill the hole. Those are written
+down as failures, not quietly counted.
+
+## The dark words were never the main damage
+
+A finished page that read as word salad was assumed to be salad because of the
+holes. It was not. Measured across every folio that cites a chapter and verse:
+
+    rendered words with more than one K&T sense       9,437
+    the printed first sense IS in the cited passage   1,650
+    the first is NOT, but another sense of the
+      same entry IS -- the printed word is wrong      1,628
+    words with no reading at all, for comparison        322
+
+Wrong-sense words outnumbered dark words five to one. "somebody" where the
+verse says *man*. "each, every" where it says *whole*. "land" where it says
+*kingdom*. "apostle" where it says *disciple*. The renderer printed Kiraly and
+Tokai's first sense always -- which was itself an earlier fix, and only half
+the job.
+
+`ktsensefit.py` prints the sense the folio's own cited passage uses, choosing
+only among senses they published for that sign. 755 words on 222 folios.
+
+**The guard that made it honest.** The first version turned "and" into "also"
+87 times, "from" into "away" 29 times, "this" into "thus" 12 times. The cause
+was exact: a first sense like "and" contains no content word, so the test "is
+the first sense in the passage?" could never pass, and every such sign fell
+through to whatever later sense the passage happened to contain. A match on a
+word that common is chance. The rule now stops before it starts when the first
+sense is a function word. That one guard removed 610 changes and kept every
+good one.
+
+**What it costs, stated before it is used.** The rendering now fits the cited
+passage *by construction*. So the fit of a page to its passage can never again
+be evidence for the decipherment. Gate 2, which measured exactly that and
+returned 18.6 sigma, was run on the unfitted rendering and its number stands.
+Rerunning gate 2 after this would be circular and must not be done.
+
 
 **The null control, because a method that cannot fail proves nothing.**
 Three gates, each with its bar written down before the run, in
@@ -296,8 +382,8 @@ scored 75%, and the thirteen that were genuinely unseen scored 23.1%. **A
 blind test run by the reader who spent the day reading the dictionary is not
 blind.** The 48% is discarded. The declared consequence for the 15-30% band
 was applied without argument: 69 passage-read tier C readings were downgraded
-to tier D. The percentage of the book read did not move -- 80.1% is unchanged,
-because the downgrade is a confidence label, not a withdrawal.
+to tier D. The percentage of the book read did not move -- it was 80.1% before
+and after, because the downgrade is a confidence label, not a withdrawal.
 
 So the judgment step is still the unmeasured part of this work, and it can
 only be measured by a reader who has not seen Kiraly and Tokai's dictionary.
@@ -308,9 +394,10 @@ Where a hole cannot be read at all, the rendering now carries a fourth class.
 A **tier G** word is a guess: chosen by reading the line, its source passage
 and its neighbours, marked in the text with a degree sign (`°word`), and
 counted separately everywhere. A line containing one is **not** counted as a
-line with every word read. That is why two figures are printed -- 80.1% read,
-80.5% complete including guesses -- and the gap between them is exactly how
-much of the book is being guessed at.
+line with every word read. That is why two figures are printed -- **82.3%
+read, 99.9% complete including guesses** -- and the gap between them, 17.6
+points, is exactly how much of the book is being guessed at. It is a large
+gap and it is meant to be visible.
 
 The fifteenth, sixteenth and seventeenth tried to work backwards from the passages that
 are certainly right. All three failed their gates, the last one on a held-out half after the failure had been diagnosed, so that the retry could not be tuning. But the search that finds those
