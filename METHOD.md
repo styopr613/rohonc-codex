@@ -558,3 +558,41 @@ The same screen is what says NO, and says it far more often. On 36 of those
 cited lines the word K&T name is already rendered in the line, so their
 citation reaches a different token and cannot fill the hole. Those are parked
 with that written down, not quietly counted.
+
+## The dark words were not the main damage
+
+A finished page that reads as word salad was assumed to be salad because of
+the holes. It is not. Measured on every folio that cites a chapter and verse:
+
+    rendered words with more than one K&T sense       9437
+    the printed first sense IS in the cited passage   1650
+    the first is NOT but another sense of the same
+      entry IS -- the printed word is wrong           1628
+    words still dark, for comparison                   322
+
+So wrong-sense words outnumbered dark words five to one. "somebody" where the
+verse says man, "each, every" where it says whole, "land" where it says
+kingdom, "apostle" where it says disciple. The renderer printed K&T's first
+sense always, because a gloss set loses order and their raw entry keeps it --
+which was itself an earlier fix, and it was only half the job.
+
+`ktsensefit.py` prints the sense the folio's own cited passage uses, choosing
+only among senses Kiraly & Tokai published for that sign. 755 words on 222
+folios.
+
+**The guard that made it honest.** The first version moved 87 instances of
+"and" to "also", 29 of "from" to "away", 12 of "this" to "thus". The cause was
+exact: a first sense like "and" has no content word in it, so the test "is the
+first sense in the passage?" could never pass, and every such sign fell
+through to whatever later sense the passage happened to contain. A match on a
+word that common is chance. The rule now stops before it starts when the first
+sense is a function word. That single guard removed 610 changes and kept every
+good one.
+
+**What this costs, stated before it is used.** The rendering now fits the
+cited passage BY CONSTRUCTION. So the fit of a page to its passage can never
+again be evidence for the decipherment. Gate 2, which measured exactly that
+and returned 18.6 sigma, was run on the unfitted rendering and its number
+stands. Rerunning gate 2 after this would be circular and must not be done.
+That is written here so that nobody, including a later session of this
+project, does it by accident.

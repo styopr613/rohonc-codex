@@ -42,6 +42,7 @@ import corpus
 import ktaffix as A
 import ktcross as K
 import kttranslate as T
+import ktsensefit as SF
 
 OUT = os.path.join(os.path.dirname(corpus.DATA), "work", "rohonc",
                    "translation", "rohonc_readers_edition.md")
@@ -125,6 +126,9 @@ words. There are {rest} of them now.
 def main(argv):
     gl, doc, seg, var, prop, inv = K.build()
     T.prop_ref.update(prop)
+    # the sense K&T give that the folio's own cited passage actually uses;
+    # see ktsensefit.py for the rule, which is declared there before the run
+    PICK, _ = SF.build(gl, doc)
     prose = {}
     if os.path.exists(TRANS):
         txt = open(TRANS, encoding="utf-8").read()
@@ -156,7 +160,12 @@ def main(argv):
                         out.append(w.lstrip("?+") + "*")
                         n["soft"] += 1
                     else:
-                        out.append(w.lstrip("+?"))
+                        key = (p.page, K.hx(b))
+                        if key in PICK:
+                            out.append(PICK[key].strip().replace(" ", "_") + "^")
+                            n["fit"] += 1
+                        else:
+                            out.append(w.lstrip("+?"))
                         n["read"] += 1
                 out.append("|")
             if out and out[-1] == "|":

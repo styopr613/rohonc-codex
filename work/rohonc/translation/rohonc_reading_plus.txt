@@ -2234,7 +2234,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  a) ?the_poor_man/woman out(ward) chase and then-exist lie this
  3  ?the_poor_man/woman out(ward) ~gate to-<preposition_of_genitive>-rich exist-+one because exist ?the_poor_man/woman °full_of_sores
  4  exist °laid and then-exist want ?the_poor_man/woman trespass from crumbs ?the_dogs
- 5  on-<preposition_of_genitive>-rich throne °table ?the_poor_man/woman +take and then-exist | have
+ 5  on-<preposition_of_genitive>-rich throne °fell_from ?the_poor_man/woman +take and then-exist | have
  6  rich many dog and go-dog this +Lazarus ~and
  7  lick-dog <preposition_of_genitive>-Lazarus wound-+mouth and Lazarus more
  8  exist from dog +have have_mercy this Lazarus in_turn from-rich
@@ -2256,7 +2256,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  9  ~rich son <preposition_of_genitive>-father-<suffix_of_divine_name> this-~rich good °in_thy_lifetime ?he_is
 10  Lazarus exist °evil_things °now ?people in_turn this-~rich exist
 11  rich ?blind °lifted_up_his_eyes this-~rich grab-Lazarus trespass from crumbs
-12  ?the_dogs [?]-~rich throne ~rich grab °table ~rich Lazarus +take
+12  ?the_dogs [?]-~rich throne ~rich grab °fell_from ~rich Lazarus +take
 
 
 === 090r ===
@@ -2274,7 +2274,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 090v ===
- 1  rich father-<suffix_of_divine_name> Abraham +name-°vanished-from prophet preach believe °table
+ 1  rich father-<suffix_of_divine_name> Abraham +name-°vanished-from prophet preach believe °fell_from
  2  °neither good somebody-Lazarus believe-exist-exist
  3  and body from die stand_up-somebody-?the_poor_man/woman say father-<suffix_of_divine_name> Abraham in_turn-who ?cannot
  4  brother prophet believe-brother-somebody and preach
