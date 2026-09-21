@@ -37,13 +37,13 @@ than one that does not; it is only harder to check.
 
     words in the manuscript            29997
     read                               27945 (93.2%)
-    read from one passage, marked *    988 (3.3%)
-    restored, in brackets              59 (0.2%)
-    dark, printed as an ellipsis       1005 (3.4%)
+    read from one passage, marked *    990 (3.3%)
+    restored, in brackets              63 (0.2%)
+    dark, printed as an ellipsis       999 (3.3%)
 
-    lines with every word read         3531 of 4372 (80.8%)
+    lines with every word read         3532 of 4372 (80.8%)
     lines complete including
-      restorations                     3583 of 4372 (82.0%)
+      restorations                     3586 of 4372 (82.0%)
 
 The evidence for every single word is in `harness/proposals.json`, one entry
 per sign, with its tier and the argument in full. `harness/ktprov.py` prints
@@ -53,7 +53,7 @@ including the two that failed.
 
 **Brackets are the measure of what is left to do.** Every time a source text
 enters the corpus, or a formula turns up twice, some of them become plain
-words. There are 59 of them now.
+words. There are 63 of them now.
 
 ---
 
@@ -445,13 +445,13 @@ words. There are 59 of them now.
   1  have want to-girl this go holy-spirit to-each,_every have_mercy [...]
   2  this-girl get_conceived son and ~son shall_be_called* exist Jézus.
   3  and_then virgin-Mary blessed one-to this say and blessed want from Lord-<suffix_of_divine_name>.
-  4  this [...] <subject_marker> Lord this [...] ~and then-exist girl [...]
-  5  virgin-Mary commandment word to-Lord-hide_oneself Mary hide_oneself this [...] who girl
+  4  this [...] <subject_marker> Lord this overshadow* ~and then-exist girl [...]
+  5  virgin-Mary commandment word to-Lord-hide_oneself Mary hide_oneself this overshadow* who girl
   6  exist angel say on-this say pour_out father-<suffix_of_divine_name> virgin-Mary | holy
   7  spirit in_turn to-Lord [...] one go Lord-Jézus-Christ from-get_conceived Lord
   8  Christ and then-exist [...] virgin-Mary and_then angel Gabriel
   9  Mary have lo out(ward) six moon <preposition_of_genitive>-girl relative | holy-+name-chapter
- 10  Elizabeth who get_conceived Mary son holy-John [...] inside chapter <subject_marker>
+ 10  Elizabeth who get_conceived Mary son holy-John [barren] inside chapter <subject_marker>
  11  go chapter Lord-<suffix_of_divine_name> <preposition_of_genitive> have_mercy to-this have from John exist way
  12  do, Lord-Jézus-Christ that_is Lord [...] this
  13  Mary be_born and from Lord go Lord on-+world exist gospel preach
@@ -1538,7 +1538,7 @@ words. There are 59 of them now.
 
   1  inside seven chapter-leave <preposition_of_genitive>-write time then-exist
   2  go the_three_Marys [...] burial_chamber Christ because-exist prepare
-  3  [...] another this-cut_off [...] exist-[?] Jézus
+  3  [spices] another this-cut_off [...] exist-[?] Jézus
   4  Mary Salome and Mary James mother and
   5  Mary Magdalene and then-exist this-two-Mary [...] this-two-Mary
   6  among [...] among-Mary-+the_three_Marys-[?]-+one-Mary
@@ -2605,7 +2605,7 @@ words. There are 59 of them now.
   5  father Abraham say-father Lazarus because-this from-understand the_poor_man/woman* | <preposition_of_genitive>
   6  Lazarus little finger immerge water and cool
   7  on-<preposition_of_genitive>-rich tongue [...] flame* soul <preposition_of_genitive>-rich and from
-  8  [...] exist-exist-chapter <preposition_of_genitive>-rich and_then father Abraham | this
+  8  [remember] exist-exist-chapter <preposition_of_genitive>-rich and_then father Abraham | this
   9  ~rich son <preposition_of_genitive>-father-<suffix_of_divine_name> this-~rich good [...] he_is*
  10  Lazarus exist [...] [...] people* in_turn this-~rich exist
  11  rich blind* [...] this-~rich grab-Lazarus trespass from crumbs
@@ -4903,7 +4903,7 @@ words. There are 59 of them now.
 > the steward, the steward left off; and then this steward, the weeping steward […] and […] […] and […] […] the steward […]; and he found one accusation against the steward, and then this steward had two debtors | of the steward, a man of mercy and of alms; and | then there was, among the steward's, this one debtor of mercy; and this said, the steward: how much mercy dost thou owe the steward? […] And then the debtor of mercy: a hundred measures of oil. And then this steward sat him down, the man of mercy,
 
   1  manager leave-manager and_then this manager crying-manager
-  2  [...] and [...] [...] and [...] [...]
+  2  [dig] and [...] [...] and [...] [...]
   3  manager [...] and one was_accused* find-manager
   4  and then-exist have this manager two indebted | <preposition_of_genitive>
   5  manager man* have_mercy and alms and | then

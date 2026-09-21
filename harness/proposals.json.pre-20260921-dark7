@@ -5639,35 +5639,5 @@
   "tier": "C",
   "n": 2,
   "evidence": "The sign ENDS in Kiraly & Tokai's own 574 'cattle; life; living; living being', and 75% of it is covered by read pieces (their 'little' and their distributive infix). At 089r:4 it stands IMMEDIATELY AFTER the word CRUMBS on the folio citing Luke 16:21: 'desiring to be filled with the crumbs that fell from the rich man's table: and no one did give him; moreover THE DOGS came and licked his sores.' The second occurrence, 089v:12, is the same Lazarus story one folio on. NAMED CONFLICT: a different sign is already rendered 'dog' at 150v:3, so either this is the codex writing one word two ways, which it demonstrably does at 055r:10 and 144v, or one of the two is wrong. Recorded rather than hidden."
- },
- "8a2ae0362": {
-  "gloss": "overshadow",
-  "tier": "C",
-  "n": 2,
-  "evidence": "Two occurrences, both on 018v, the folio citing Luke 1:35. At 018v:5 the sign stands immediately after K&T's 950 'hide oneself' written TWICE -- 'Mary hide-oneself, Mary hide-oneself, [x] who girl' -- and Luke 1:35 reads 'the power of the most High shall OVERSHADOW thee'. To overshadow is to cover in shadow, which is what that root says. The second occurrence, 018v:4, is the same sentence one line up. 'overshadow' is free: no other sign carries it. Source-checked at both occurrences."
- },
- "520222540ae0": {
-  "gloss": "barren",
-  "tier": "G",
-  "n": 1,
-  "evidence": "018v:10 'Elizabeth, who conceived Mary's son, holy John, [x], in chapter', on the folio citing Luke 1:36: 'Elizabeth thy cousin, she also hath conceived a son in her old age: and this is the sixth month with her that is called BARREN'. The cousin and the sixth month are both read on line 9. 75% of the sign is covered, ending in K&T's 540ae0 'exist', which is how 'is called' would be built. 'barren' is free. GUESS."
- },
- "8d4520": {
-  "gloss": "remember",
-  "tier": "G",
-  "n": 1,
-  "evidence": "089v:8 '[x] ... of the rich man, and then father Abraham', on the folio citing Luke 16:25: 'But Abraham said to him: Son, REMEMBER that thou didst receive good things in thy lifetime'. Abraham stands in the same line and the speech follows. 'remember' is free. GUESS."
- },
- "583": {
-  "gloss": "dig",
-  "tier": "G",
-  "n": 1,
-  "evidence": "168r:2 carries five holes in a row on the folio citing Luke 16:3, where the steward says: 'What shall I do, because my lord taketh away from me the stewardship? To DIG I am not able; to beg I am ashamed.' The sign is the first of the five and 'dig' is the first of the verbs, and it is free in the passage. The other four holes on that line are left dark because the verse supplies four more words with no way to order them. GUESS."
- },
- "362af3001060": {
-  "gloss": "spices",
-  "tier": "G",
-  "n": 1,
-  "evidence": "055r:3, line-initial, on the folio citing Mark 16:1: 'Mary Magdalene, and Mary the mother of James, and Salome brought sweet SPICES, that coming they might anoint him.' The three Marys stand on line 2, the tomb of Christ on line 2, and the names follow on lines 4 and 5. 'spices' is free and is the thing the verse is about. GUESS."
  }
 }
