@@ -4877,5 +4877,95 @@
   "tier": "C",
   "n": 1,
   "evidence": "Found by ktinside.py --rev. This sign ends with 520100, which K&T read as 'give; grab; take', leaving 9a4_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. The line counts nine hundred and thirty denarii, which is the remission arithmetic this part of the book keeps. Occurrence(s): 112r:7 '<<[x]>> head and +say nine hundred to-thirty denarius'"
+ },
+ "1525203262c02708c0a7b607871817ae0286a10606670": {
+  "gloss": "Mary_his_mother_the_Holy_Spirit_and_Joseph",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. Eighty-seven per cent of this sign is signs K&T already read, in this order: 'cut off', a gap of six digits, 'Lord', the suffix of the divine name, 'mother', 'Mary', 'holy', 'Holy Spirit', 'Joseph', 'chapter'. It is the whole of line 021v:14 by itself -- the codex writes a naming formula as one unspaced string, which is the central fact K&T established about this script. The folio is the finding in the temple. Read as the list its parts spell out; the six-digit gap is not accounted for."
+ },
+ "a10003a10a205203b15202d4": {
+  "gloss": "neighbour",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It begins with K&T's a10003a10a20 'neighbour' and then 520 'to' and 3b1 'Jerusalem', leaving 5202d4 over. 208r:8: 'and every man, how to somebody [x], and this.' Douay Luke 10:29: 'And who is my NEIGHBOUR?' -- the question that starts the good Samaritan, whose road runs down from Jerusalem."
+ },
+ "630360520060234": {
+  "gloss": "crucify",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It ends with K&T's 520060234 'crucify; execute'. 112r:2: 'there was the head, [x], the head, and said, can'."
+ },
+ "7b2520ae05202d8": {
+  "gloss": "son",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It begins with K&T's 7b2 'son' and then 520ae0520 'before'. 114r:2: 'of the evil, the pig, [x], and the soul of the son'. The folio is the prodigal son among the swine."
+ },
+ "630a10444520af6": {
+  "gloss": "another",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It holds a10444520, which this project already reads as 'another'."
+ },
+ "a105201d35201d3": {
+  "gloss": "lose",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It holds K&T's 5201d3520 'lose'. 022v:5: 'can show the Lord Jesus, then resurrect, [x]'."
+ },
+ "5200607a25000604b0": {
+  "gloss": "say",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It ends with K&T's 4b0 'say' and begins with their 5200607a2, a concessive conjunction. 200v:4: '[x], and then, this is the son, from'."
+ },
+ "6305401fa4c8ae1": {
+  "gloss": "today",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It holds K&T's 5401fa 'today', with 630 in front and their numeral-ending sign at the back. 073v:1: 'said, and said the Lord Jesus to the apostles of the Lord, go, apostles, [x]'."
+ },
+ "5202705205a1461": {
+  "gloss": "cross",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It ends with K&T's 461 'cross' and holds 270 'Lord'. 048r:6: 'to love this people, [x], afterward, the people'. The folio is the way to Calvary."
+ },
+ "9909909b69a0470": {
+  "gloss": "riches",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It ends with K&T's 470 'fortune; rich; riches'. 088r:5: 'chapter, [x], but somebody, from the judgment, damned, somebody'."
+ },
+ "570ae0a10ae0060": {
+  "gloss": "end",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It holds K&T's ae0a10ae0 'end; side'. 119r:6: 'among [x], somebody is'."
+ },
+ "5400609a2670a82": {
+  "gloss": "child",
+  "tier": "C",
+  "n": 5,
+  "evidence": "This is one of a family the codex builds on 9a2670: 5200609a2670690, which this project reads as 'child' from Augustine and the boy by the sea on 084v and Elijah on 086r, 5400609a2670a82 where the ending is K&T's a82 'little', 5400609a2670574 and 5200609a2670574 where it is their 574 'living', and 5400609a2670890. They differ only in the prefix (520060 / 540060) and the ending, which is how this script writes one word in several forms. Read as 'child'. Tier C, and the chain is worth saying plainly: the core 9a2670 is not itself read by K&T, and the family's anchor is this project's own tier-C reading of the 690 form, not theirs. Occurrence(s): 051v:9 'grab mouth <<[x]>> on-+pine +and_then Lord'; 087v:5 '<<[x]>> son [?]'"
+ },
+ "5200609a2670a82": {
+  "gloss": "child",
+  "tier": "C",
+  "n": 1,
+  "evidence": "This is one of a family the codex builds on 9a2670: 5200609a2670690, which this project reads as 'child' from Augustine and the boy by the sea on 084v and Elijah on 086r, 5400609a2670a82 where the ending is K&T's a82 'little', 5400609a2670574 and 5200609a2670574 where it is their 574 'living', and 5400609a2670890. They differ only in the prefix (520060 / 540060) and the ending, which is how this script writes one word in several forms. Read as 'child'. Tier C, and the chain is worth saying plainly: the core 9a2670 is not itself read by K&T, and the family's anchor is this project's own tier-C reading of the 690 form, not theirs. Occurrence(s): 106v:10 'carry on-~exist-this who to-whatever on-~Adam <<[x]>>'"
+ },
+ "5400609a2670574": {
+  "gloss": "child",
+  "tier": "C",
+  "n": 2,
+  "evidence": "This is one of a family the codex builds on 9a2670: 5200609a2670690, which this project reads as 'child' from Augustine and the boy by the sea on 084v and Elijah on 086r, 5400609a2670a82 where the ending is K&T's a82 'little', 5400609a2670574 and 5200609a2670574 where it is their 574 'living', and 5400609a2670890. They differ only in the prefix (520060 / 540060) and the ending, which is how this script writes one word in several forms. Read as 'child'. Tier C, and the chain is worth saying plainly: the core 9a2670 is not itself read by K&T, and the family's anchor is this project's own tier-C reading of the 690 form, not theirs. Occurrence(s): 034v:10 '+brother <preposition_of_genitive>-Lord and have-Lord-apostle one <<[x]>>'; 196r:7 '+<subject_marker> this <<[x]>> son one ?therefore +be_saved'"
+ },
+ "5200609a2670574": {
+  "gloss": "child",
+  "tier": "C",
+  "n": 2,
+  "evidence": "This is one of a family the codex builds on 9a2670: 5200609a2670690, which this project reads as 'child' from Augustine and the boy by the sea on 084v and Elijah on 086r, 5400609a2670a82 where the ending is K&T's a82 'little', 5400609a2670574 and 5200609a2670574 where it is their 574 'living', and 5400609a2670890. They differ only in the prefix (520060 / 540060) and the ending, which is how this script writes one word in several forms. Read as 'child'. Tier C, and the chain is worth saying plainly: the core 9a2670 is not itself read by K&T, and the family's anchor is this project's own tier-C reading of the 690 form, not theirs. Occurrence(s): 010v:1 '<<[x]>> son speak-~son [?] this-Lord <preposition_of_genitive>-+say king +and_then'; 010v:2 'Lord-Jézus then-exist this each,_every this <<[x]>> son ?therefore speak'"
  }
 }
