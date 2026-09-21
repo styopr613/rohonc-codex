@@ -4364,8 +4364,128 @@
  },
  "520151": {
   "gloss": "remain",
-  "tier": "B",
+  "tier": "C",
   "n": 10,
-  "evidence": "The head of K&T's 520151990060520969, which they read as 'be; stay'. Ten occurrences, and the sense holds at all ten: 008r:13 'Noah [x], all this, there was, and two, left'; 020r:3-4 '[x] there was, and in turn a donkey, aged Joseph', at the stable where the holy family stays because there is no room; 055r:11 '[x], saw, Jesus'; 071v:8 'a son is born, [x], many'; 074r:7 'know the Lord Jesus, and the Lord Jesus [x]'; 082v:9 'this son, from, to the Father, sits, sees, he is this [x]'; 098r:7; 016r:1; 214v:6 'whosoever is saved, but every one damned [x]'. 'abide' is carried by 990990990 and 'exist' by 670ae0, so this is the third of that family and the one K&T's compound points at."
+  "evidence": "The head of K&T's 520151990060520969, which they read as 'be; stay'. Ten occurrences, and the sense holds at all ten: 008r:13 'Noah [x], all this, there was, and two, left'; 020r:3-4 '[x] there was, and in turn a donkey, aged Joseph', at the stable where the holy family stays because there is no room; 055r:11 '[x], saw, Jesus'; 071v:8 'a son is born, [x], many'; 074r:7 'know the Lord Jesus, and the Lord Jesus [x]'; 082v:9 'this son, from, to the Father, sits, sees, he is this [x]'; 098r:7; 016r:1; 214v:6 'whosoever is saved, but every one damned [x]'. 'abide' is carried by 990990990 and 'exist' by 670ae0, so this is the third of that family and the one K&T's compound points at. WEAKENED AFTER A SECOND LOOK, and downgraded from B to C for it: this sign also heads K&T's 5201515202c1 'priest' and 5201515201c2270540 'sun', so being the head of their 'be; stay' does not by itself fix the sense the way the other compound arguments in this batch do. What carries the reading is that all ten occurrences take it."
+ },
+ "7b17a0783a10": {
+  "gloss": "return",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Head of K&T's 7b17a0783a10360458 'return', and of two forms this project already reads as 'return' (7b17a0783a10360812, 7b17a0783a10458). 055v:10: 'the head, from this burial chamber of Christ, and [x]'. The folio is the morning at the sepulchre."
+ },
+ "360458": {
+  "gloss": "return",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of the same compound, 7b17a0783a10360458 'return', whose head stands alone on the line above. 055v:11: '[x], back, Mary Magdalene, to the burial chamber of Christ'. Douay John 20:10-11: 'The disciples therefore departed again to their home. But Mary stood at the sepulchre without.' Two halves of one word of K&T's, on consecutive lines, both meaning the going back."
+ },
+ "7807802c0": {
+  "gloss": "verily",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Head of 7807802c05401f1 and 7807802c05201f1, both of which this project already reads as 'verily' (tier A). 056r:7: 'light, from the gate, and [x], can, that, rise'."
+ },
+ "ac03b7": {
+  "gloss": "rend",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's 540ac03b7 'break; split' and of 569ac03b7, which this project reads as 'rent' (tier A). 057v:12: 'rock, stone, this [x], sun and moon, this'. Douay Matthew 27:51: 'the earth quaked, and the ROCKS WERE RENT', with the darkening of the sun at 27:45 on the same page."
+ },
+ "670063": {
+  "gloss": "lame",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Head of K&T's 670063520170 'cripple; lame' and of 670063670170, which this project reads as 'lame'. Its tail, 520170, is read as 'lame' on the strength of the same compound. 060v:1: 'eyes, blind, through light, die, raised up, [x]' -- a folio of healings."
+ },
+ "7e10604f0610": {
+  "gloss": "grapevine",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's 5402707e10604f0610 'grapevine' and of 5202707e10604f0610, which this project already reads as 'grapevine' (tier A). 069v:3: '[x] and without name, vine branch'. The folio cites John 15:1-5, 'I am the true vine', and the vine-branch sign stands on the line beside it."
+ },
+ "8c1520": {
+  "gloss": "clothes",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Head of 8c1520b7a, which this project already reads as 'clothes' (tier A); 520b7a, its own tail, is K&T's 'clothes' as well. 075r:8: 'there appeared two angels, white [x]'. Douay Acts 1:10: 'behold two men stood by them in WHITE GARMENTS' -- the folio cites Acts 1 and the word 'white' is already on the line."
+ },
+ "5201c2270540": {
+  "gloss": "sun",
+  "tier": "B",
+  "n": 2,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's 5201515201c2270540 'sun'. 082v:10: '[x], Sun, this sun, three, good, first' -- the folio is the Trinity argued from the sun, its light and its heat, and K&T's own sun sign is on the same line, so the codex writes the word twice in two spellings. 074r:8: '[x] goes to the sky and blesses the whole wide world', which is the ascension with the sun's going as its figure."
+ },
+ "5201515201c2": {
+  "gloss": "sun",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Head of K&T's 5201515201c2270540 'sun', of which the tail is read as 'sun' above. 102v:4: 'fire, and then the Lord, the cross, [x]'. Tier C rather than B because this sign's first element, 520151, also heads K&T's 'priest' and 'be; stay', so the head alone does not fix the sense; the folio's fire and cross do."
+ },
+ "a10712520060": {
+  "gloss": "hang",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Head of K&T's a10712520060 / 060041 'cling; hang', whose tail this project already reads as 'cling'. 148v:2: 'Adam inside a pit, and then [x]'. This is the Barlaam and Josaphat exemplum: the man fleeing the unicorn falls into the pit, catches a tree and hangs there while two mice gnaw its root and a dragon waits below -- and the moral names the falling man as the race of Adam, which is why the codex writes him with K&T's Adam sign."
+ },
+ "670ae0b20": {
+  "gloss": "sister",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's b33670ae0b20 'nun; sister' and of ae0670ae0b20, which this project already reads as 'sister' (tier A). 179r:9: 'before the Lord's feet, and then the Lord, [x]'. Douay Luke 10:39-40: 'And she had a SISTER called Mary, who sitting also at the Lord's feet, heard his word... Lord, hast thou no care that my sister hath left me alone to serve?'"
+ },
+ "5402d46f8": {
+  "gloss": "Zacchaeus",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's 6703b15402d46f8 'Zacchaeus'. 207r:3: '[x] and then Zacchaeus' -- their full spelling of the name stands on the same line as the short one."
+ },
+ "9d69d3": {
+  "gloss": "patriarch",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Head of K&T's 9d69d3871ae0 'forefather; patriarch'. 026v:6: 'and to the day, the Lord God announced, Abraham [x]'."
+ },
+ "003a10060": {
+  "gloss": "man",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's a10003a10060 'human; man; somebody; we', and of 6c1270a10003a10060 which this project reads as 'the man'. 199v:3: '[x], vineyard, farm, said, brought the son, to this'. Douay Matthew 21:33: 'There was a MAN, a householder, who planted a VINEYARD' -- and 21:37, 'he sent to them his son'. The vineyard and the son are both already read on the line."
+ },
+ "8f05207a0ae0": {
+  "gloss": "sell",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's a108f05207a0ae0 'sale; sell; vend'. 112r:6: '[x], head, remit, in turn, until, go'. The folio is the remission arithmetic, which is where selling belongs in this book."
+ },
+ "af9670": {
+  "gloss": "redeem",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of a10af9670, which this project already reads as 'redeem' (tier A). 117v:3: '[x] and the Pharisee, have mercy on the Pharisees, and truly the Pharisees are'."
+ },
+ "a109c3": {
+  "gloss": "home",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's b64812a109c3 'at home; home'. 140v:3: '[x] and every, to the place, leave somebody, saved'."
+ },
+ "955520": {
+  "gloss": "release",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Head of 9555204f6, which this project already reads as 'release'. 197v:6: 'and then the Lord Jesus, good, this somebody [x]'."
+ },
+ "687520": {
+  "gloss": "home",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's 521687520 'back; home'. 019v:12: '[x], and then the two, Mary, aged Joseph'. Douay Luke 2:39: 'they returned into Galilee, to their city Nazareth', which is where this folio stands."
+ },
+ "060969": {
+  "gloss": "then",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's 520060969 'if; then'. 026v:7: 'the holy day arrived, [x], said, there was, said the Lord God, Abraham, to the angel'."
  }
 }
