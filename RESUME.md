@@ -13,9 +13,17 @@ it reports. The one thing no checker can do for you is its section 3, and that
 now has exactly one entry: **Enoch**, bracketed in all three places it stands
 in the manuscript and read in none.
 
-Open items: the book was built to scratch, not pushed to the shelf at
-`/opt/publish-app/data/u1/books/`; and `ktcommit.sh` still does not regenerate
-the reader's edition — see the traps section of `fix.md`.
+**Build straight to the shelf, always, without asking:**
+
+    python3 ktbook.py --shelf /opt/publish-app/data/u1/books/20260921-052535-r0hc
+
+That is the owner's private Book Maker shelf and it is where the book belongs
+the moment it builds. It is not publishing; `/var/www/oona13/library/` is the
+public Free Library and that one does need asking. Back up the old
+`book.json` first and never reuse a backup name.
+
+Open item: `ktcommit.sh` still does not regenerate the reader's edition — see
+the traps section of `fix.md`.
 
 What follows is the record of how it got here.
 
