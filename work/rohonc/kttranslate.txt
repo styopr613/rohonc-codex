@@ -16,8 +16,8 @@ lines                            4372
 
 WITH THIS PROJECT'S PROPOSED READINGS (tiers A and B), marked +word
   proposed here                  3667   12.2%
-  GUESSED here (tier G)           227    0.8%
-  no reading                      777    2.6%
-  lines with every word read     3579   81.9%
-  lines complete incl. guesses   3762   86.0%
+  GUESSED here (tier G)           370    1.2%
+  no reading                      616    2.1%
+  lines with every word read     3591   82.1%
+  lines complete incl. guesses   3888   88.9%
 wrote /home/ubuntu/voynich/work/rohonc/translation/rohonc_reading_plus.txt
