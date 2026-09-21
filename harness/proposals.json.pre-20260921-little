@@ -4207,10 +4207,10 @@
   "evidence": "Matthew 25:19, Douay: 'But after a long time the lord of those servants came and RECKONED with them.' The parable of the talents is established on these folios by Kiraly and Tokai's own citations of their talent sign at 173-175. All three occurrences carry the identical formula -- 173v:10, 174r:7 and 174v:5 all read 'and then this rich lord [reckoned with] the servants' -- and an identical formula repeated is how this project establishes that a sign means one thing. Their a83 already carries the noun 'the account', which leaves the verb free. One parable, so tier C."
  },
  "5200609a2670690": {
-  "gloss": "little",
-  "tier": "B",
+  "gloss": "child",
+  "tier": "C",
   "n": 3,
-  "evidence": "CORRECTED. This sign was read here as 'child' and that was wrong. K&T read 5400609a2670690 -- the same word with 540060 in front instead of 520060, one glyph away -- as 'a little while; little', and their form stands on the very folios this one does: 084r:10 'find one LITTLE son of God on the shore' and 084r:11 'sit, son of God, little', two lines above 084v:1, where this form modifies the same phrase. Their form also gives 089v:6, 'Lazarus, LITTLE finger, dip in water and cool', which is Douay Luke 16:24, 'that he may dip the tip of his finger in water'. The Augustine folio reads as well or better with 'little' -- the little one by the sea, emptying it with a shell -- and the whole family agrees: the endings the codex puts on it are K&T's own a82 'little', 690 'little', 574 'living'. The error was reading the folio's story first and the dictionary second. Read as 'little'. Occurrences: 084v:1, 084v:6 (Augustine and the little one by the sea), 086r:9 (Elijah)"
+  "evidence": "The child. 084v is the legend of Augustine and the boy by the sea, who says he will sooner empty the sea into his pit than Augustine will understand the Trinity: 084v:1 'and then holy Augustine, this [child], the son of the Lord God' and 084v:6 'said this [child], the son of the Lord God'. The third occurrence, 086r:9, stands beside Elijah, where the child is the widow's son. child carries no sign of its own (boy and son both do, and are used elsewhere on these same pages, which is why this one is read as child). Two different stories both take it, but neither can test the other: tier C."
  },
  "6307966370b0": {
   "gloss": "seek",
@@ -4945,28 +4945,28 @@
   "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It holds K&T's ae0a10ae0 'end; side'. 119r:6: 'among [x], somebody is'."
  },
  "5400609a2670a82": {
-  "gloss": "little",
-  "tier": "B",
+  "gloss": "child",
+  "tier": "C",
   "n": 5,
-  "evidence": "CORRECTED. This sign was read here as 'child' and that was wrong. K&T read 5400609a2670690 -- the same word with 540060 in front instead of 520060, one glyph away -- as 'a little while; little', and their form stands on the very folios this one does: 084r:10 'find one LITTLE son of God on the shore' and 084r:11 'sit, son of God, little', two lines above 084v:1, where this form modifies the same phrase. Their form also gives 089v:6, 'Lazarus, LITTLE finger, dip in water and cool', which is Douay Luke 16:24, 'that he may dip the tip of his finger in water'. The Augustine folio reads as well or better with 'little' -- the little one by the sea, emptying it with a shell -- and the whole family agrees: the endings the codex puts on it are K&T's own a82 'little', 690 'little', 574 'living'. The error was reading the folio's story first and the dictionary second. Read as 'little'. Occurrences: 051v:9, 087v:5, 087v:10, 087v:11, 107v:3"
+  "evidence": "This is one of a family the codex builds on 9a2670: 5200609a2670690, which this project reads as 'child' from Augustine and the boy by the sea on 084v and Elijah on 086r, 5400609a2670a82 where the ending is K&T's a82 'little', 5400609a2670574 and 5200609a2670574 where it is their 574 'living', and 5400609a2670890. They differ only in the prefix (520060 / 540060) and the ending, which is how this script writes one word in several forms. Read as 'child'. Tier C, and the chain is worth saying plainly: the core 9a2670 is not itself read by K&T, and the family's anchor is this project's own tier-C reading of the 690 form, not theirs. Occurrence(s): 051v:9 'grab mouth <<[x]>> on-+pine +and_then Lord'; 087v:5 '<<[x]>> son [?]'"
  },
  "5200609a2670a82": {
-  "gloss": "little",
-  "tier": "B",
+  "gloss": "child",
+  "tier": "C",
   "n": 1,
-  "evidence": "CORRECTED. This sign was read here as 'child' and that was wrong. K&T read 5400609a2670690 -- the same word with 540060 in front instead of 520060, one glyph away -- as 'a little while; little', and their form stands on the very folios this one does: 084r:10 'find one LITTLE son of God on the shore' and 084r:11 'sit, son of God, little', two lines above 084v:1, where this form modifies the same phrase. Their form also gives 089v:6, 'Lazarus, LITTLE finger, dip in water and cool', which is Douay Luke 16:24, 'that he may dip the tip of his finger in water'. The Augustine folio reads as well or better with 'little' -- the little one by the sea, emptying it with a shell -- and the whole family agrees: the endings the codex puts on it are K&T's own a82 'little', 690 'little', 574 'living'. The error was reading the folio's story first and the dictionary second. Read as 'little'. Occurrences: 106v:10"
+  "evidence": "This is one of a family the codex builds on 9a2670: 5200609a2670690, which this project reads as 'child' from Augustine and the boy by the sea on 084v and Elijah on 086r, 5400609a2670a82 where the ending is K&T's a82 'little', 5400609a2670574 and 5200609a2670574 where it is their 574 'living', and 5400609a2670890. They differ only in the prefix (520060 / 540060) and the ending, which is how this script writes one word in several forms. Read as 'child'. Tier C, and the chain is worth saying plainly: the core 9a2670 is not itself read by K&T, and the family's anchor is this project's own tier-C reading of the 690 form, not theirs. Occurrence(s): 106v:10 'carry on-~exist-this who to-whatever on-~Adam <<[x]>>'"
  },
  "5400609a2670574": {
-  "gloss": "little",
-  "tier": "B",
+  "gloss": "child",
+  "tier": "C",
   "n": 2,
-  "evidence": "CORRECTED. This sign was read here as 'child' and that was wrong. K&T read 5400609a2670690 -- the same word with 540060 in front instead of 520060, one glyph away -- as 'a little while; little', and their form stands on the very folios this one does: 084r:10 'find one LITTLE son of God on the shore' and 084r:11 'sit, son of God, little', two lines above 084v:1, where this form modifies the same phrase. Their form also gives 089v:6, 'Lazarus, LITTLE finger, dip in water and cool', which is Douay Luke 16:24, 'that he may dip the tip of his finger in water'. The Augustine folio reads as well or better with 'little' -- the little one by the sea, emptying it with a shell -- and the whole family agrees: the endings the codex puts on it are K&T's own a82 'little', 690 'little', 574 'living'. The error was reading the folio's story first and the dictionary second. Read as 'little'. Occurrences: 034v:10, 196r:7"
+  "evidence": "This is one of a family the codex builds on 9a2670: 5200609a2670690, which this project reads as 'child' from Augustine and the boy by the sea on 084v and Elijah on 086r, 5400609a2670a82 where the ending is K&T's a82 'little', 5400609a2670574 and 5200609a2670574 where it is their 574 'living', and 5400609a2670890. They differ only in the prefix (520060 / 540060) and the ending, which is how this script writes one word in several forms. Read as 'child'. Tier C, and the chain is worth saying plainly: the core 9a2670 is not itself read by K&T, and the family's anchor is this project's own tier-C reading of the 690 form, not theirs. Occurrence(s): 034v:10 '+brother <preposition_of_genitive>-Lord and have-Lord-apostle one <<[x]>>'; 196r:7 '+<subject_marker> this <<[x]>> son one ?therefore +be_saved'"
  },
  "5200609a2670574": {
-  "gloss": "little",
-  "tier": "B",
+  "gloss": "child",
+  "tier": "C",
   "n": 2,
-  "evidence": "CORRECTED. This sign was read here as 'child' and that was wrong. K&T read 5400609a2670690 -- the same word with 540060 in front instead of 520060, one glyph away -- as 'a little while; little', and their form stands on the very folios this one does: 084r:10 'find one LITTLE son of God on the shore' and 084r:11 'sit, son of God, little', two lines above 084v:1, where this form modifies the same phrase. Their form also gives 089v:6, 'Lazarus, LITTLE finger, dip in water and cool', which is Douay Luke 16:24, 'that he may dip the tip of his finger in water'. The Augustine folio reads as well or better with 'little' -- the little one by the sea, emptying it with a shell -- and the whole family agrees: the endings the codex puts on it are K&T's own a82 'little', 690 'little', 574 'living'. The error was reading the folio's story first and the dictionary second. Read as 'little'. Occurrences: 010v:1, 010v:2"
+  "evidence": "This is one of a family the codex builds on 9a2670: 5200609a2670690, which this project reads as 'child' from Augustine and the boy by the sea on 084v and Elijah on 086r, 5400609a2670a82 where the ending is K&T's a82 'little', 5400609a2670574 and 5200609a2670574 where it is their 574 'living', and 5400609a2670890. They differ only in the prefix (520060 / 540060) and the ending, which is how this script writes one word in several forms. Read as 'child'. Tier C, and the chain is worth saying plainly: the core 9a2670 is not itself read by K&T, and the family's anchor is this project's own tier-C reading of the 690 form, not theirs. Occurrence(s): 010v:1 '<<[x]>> son speak-~son [?] this-Lord <preposition_of_genitive>-+say king +and_then'; 010v:2 'Lord-Jézus then-exist this each,_every this <<[x]>> son ?therefore speak'"
  },
  "5ee990990990969": {
   "gloss": "six_hundred",
@@ -5045,29 +5045,5 @@
   "tier": "C",
   "n": 1,
   "evidence": "Found by ktcover.py. The same as 569afa812080 with a different first element -- K&T read 569 as a personal pronoun and 521 as a case marker, so this is the same name in another case. 019r:9: 'inside the chapter, [x], to Mary, and this aged one'."
- },
- "670ae00a20a2ae0": {
-  "gloss": "bread",
-  "tier": "B",
-  "n": 2,
-  "evidence": "Found by ktnear.py, which compares every unread sign against every read one at the level of whole glyphs and reports the pairs one glyph apart. It is 520ae00a20a2ae0, which this project already reads as 'bread' (tier A), with 670 where that has 520. Both occurrences want bread and nothing else: 172r:8 'and then the Lord Jesus carried, father, mother, WINE and [x]' -- wine and bread -- and 095r:12 'and [x], before the Lord, put, the Lord Jesus'."
- },
- "5201515204f0": {
-  "gloss": "priest",
-  "tier": "B",
-  "n": 2,
-  "evidence": "Found by ktnear.py, which compares every unread sign against every read one at the level of whole glyphs and reports the pairs one glyph apart. It is 5201515202c0, which this project already reads as 'priest', and K&T's 5201515202c1 'priest', with 4f0 in the last place instead. 134r:11: 'one king, every [x], the heavenly Lord, somebody, before' -- king and priest together, which is the pair this part of the book keeps. 134r:6: 'hear, every [x], of'."
- },
- "a1068d670": {
-  "gloss": "redeem",
-  "tier": "C",
-  "n": 2,
-  "evidence": "Found by ktnear.py, which compares every unread sign against every read one at the level of whole glyphs and reports the pairs one glyph apart. It is a10af9670, which this project already reads as 'redeem' (tier A), with 68d in the middle instead of af9. 120v:9: 'Mary, Christ, the apostles, the angels, judge, the living and the dead, [x]' -- the creed's judgment, with the redeeming beside it. 120v:2: 'on heaven, the land, on the evil, [x], one'."
- },
- "5402847a0": {
-  "gloss": "to",
-  "tier": "C",
-  "n": 2,
-  "evidence": "Found by ktnear.py, which compares every unread sign against every read one at the level of whole glyphs and reports the pairs one glyph apart. It is 5400607a0, which this project already reads as 'to' (tier A), with 284 where that has 060. 087v:5: 'little son [x]'; 196v:9: 'the apostles, this, from, little son [x], do'."
  }
 }

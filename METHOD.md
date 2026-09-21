@@ -416,3 +416,29 @@ subagents. Never `rm` a glob; backups `.pre`/`.post`, never reuse a name.
 Credit Király & Tokai for the dictionary, transcription and grammar; the
 readings in `proposals.json` and the translation are ours and say so. Fetch
 at 1.5s intervals. Private for now.
+
+## A reading of this project's own was wrong, and the instrument that caught it
+
+`ktnear.py` compares every unread sign against every sign K&T read at the
+level of whole glyphs and reports the pairs one glyph apart. On its first run
+it did not only find new words. It found that five signs this project had
+read as **child** are one glyph from K&T's `5400609a2670690`, which they read
+as *a little while; little* -- and that their form stands two lines above
+ours on the same folio, modifying the same phrase:
+
+    084r:10  find one LITTLE son-of-God on-shore this        <- K&T's sign
+    084r:11  sit son-of-God LITTLE                           <- K&T's sign
+    084v:1   and then holy-Augustine this CHILD son-of-God   <- ours, wrong
+    089v:6   Lazarus LITTLE finger immerge water and cool    <- K&T's sign
+
+089v:6 is Douay Luke 16:24, *that he may dip the TIP of his finger in water*.
+The reading was made by taking the folio's story first -- Augustine and the
+boy by the sea -- and the dictionary second. Taking the dictionary first gives
+*little*, which reads as well on the Augustine folio and better everywhere
+else. All five were corrected in place and the error is named in each.
+
+The rule this puts a number under: **before reading a sign from its context,
+check whether it is one glyph from a sign already read.** A scribe copying a
+long compilation spells one word several ways, and K&T's own apparatus records
+that with its var. entries -- so a near-match to their dictionary is evidence,
+and a story that fits is not.
