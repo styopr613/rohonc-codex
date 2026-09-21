@@ -12802,3 +12802,210 @@ in Király & Tokai's dictionary, so the person is not named here.
 > not faithless, but believing... Blessed are they that have not seen, and have
 > believed.* The shut doors, the midst, the peace, the finger and the blessing
 > are all here in John's order.
+
+## 182r — the appearance at table, and the sending out
+
+**1**  The Lord God, with all thy heart. And this […] the man said, the Lord Jesus […]
+`Lord-<divine> ?with_all_thy_heart and this [?] somebody say Lord-Jézus [?]`
+
+**2**  the man, the Lord, therefore, within that day […] the man; and then,
+`somebody Lord ?therefore inside-+day-[?] somebody and then-exist`
+
+**3**  after the Lord Christ was executed, in the […] year,
+`on-execute Lord-Christ [?]-year inside`
+
+**4**  the time the apostles sat at table in Jerusalem, in the Lord's house, | at
+`time sit apostle to-table inside Jerusalem inside Lord house | to`
+
+**5**  the place where the Lord God, the Lord Jesus, had made the supper; the time
+`where* Lord-<divine> Lord-Jézus dinner do, time`
+
+**6**  the Lord Jesus appeared to the Lord's apostles, in the mind, the man;
+`appear Lord-Jézus apostle <of>-Lord inside exist-exist-chapter somebody`
+
+**7**  and he sat with the apostles, outside, and began to upbraid them | for
+`and sit to-apostle to-+out and begin admonish | on`
+
+**8**  their belief; and the Lord Jesus said: go, apostles, | into
+`believe and say Lord-Jézus you go-apostle | on`
+
+**9**  the world; and be baptized in the Lord's […]
+`world* and exist two-+baptize the_Baptist/woman inside <of>-Lord exist-[?]`
+
+> Mark 16:14, Douay: *At length he appeared to the eleven as they were at
+> table: and he upbraided them with their incredulity.* This is the verse that
+> proved the Douay was the right corpus to work from: the sign here read as
+> *at table* was fixed years-worth of occurrences ago from Kiraly and Tokai's
+> own citations at 072r08, 072r11 and 191r04, while a King James pool was
+> still offering *at meat* for this verse. The upbraiding is on line 7.
+
+## 182v — baptize them in the name of the Father
+
+**1**  and let a man be baptized in the name of the Father
+`and somebody exist two-+baptize the_Baptist/woman inside name father-<divine>`
+
+**2**  and of the Son and of the Holy Spirit; and let him be to the Lord | to
+`and son and holy-spirit and exist Lord-to | to`
+
+**3**  believe; every such man is saved, and one
+`believe* each,_every somebody be_saved and one`
+
+**4**  is damned […] […]; and let a man be baptized
+`be_damned [?] [?] and somebody exist two-+baptize the_Baptist/woman`
+
+**5**  and be the Lord's; one is saved, but
+`and exist Lord-to one be_saved a)`
+
+**6**  every man is damned. Here ends this holy gospel. The Lord God's
+`each,_every somebody be_damned end this holy-gospel Lord-<divine> <subject>`
+
+**7**  love. Written by holy Luke in the second
+`love write holy-Luke inside two`
+
+**8**  chapter of the writing: the time,
+`chapter <of>-write time`
+
+**9**  then, after the execution
+`then-exist on-execute`
+
+> Matthew 28:19 and Mark 16:16, Douay: *Going therefore, teach ye all nations;
+> baptizing them in the name of the Father, and of the Son, and of the Holy
+> Ghost... He that believeth and is baptized, shall be saved: but he that
+> believeth not shall be condemned.* Both halves, in order.
+
+## 183r — Chosroes carries off the Cross
+
+**1**  of the Lord Christ, twenty-six days; the time of sitting at Jerusalem.
+`Lord-~Christ two-ten-ten six-+day time to-sit Jerusalem.`
+
+**2**  One of an alien nation there was, a man of substance, whose name
+`one to-of_an_alien_nation,_pagan exist-+talent name`
+
+**3**  was Chosroes; and then he seized upon Jerusalem,
+`exist Khosrow_(Chosroes)_<Sasanian_king> and then-exist grab on-Jerusalem`
+
+**4**  the tree of the Cross — the tree upon which Christ
+`cross tree ~on tree exist Christ`
+
+**5**  was executed — and the tree he carried off into
+`execute and tree <subject> from-carry inside`
+
+**6**  the town of Ctesiphon, into one tower;
+`Ctesiphon_<city_in_Persia> town inside one tower`
+
+**7**  and then there was war many years upon the Roman
+`and then-exist exist many year war* on-Roman.`
+
+**8**  emperor, whose name was Heraclius;
+`emperor name exist Heraclius_<Byzantine_emperor>`
+
+**9**  and then war went, this, to the pagan emperor.
+`and then-exist war* go this to-of_an_alien_nation,_pagan emperor`
+
+> The Exaltation of the Cross, as the Golden Legend tells it: Chosroes II of
+> Persia takes Jerusalem in 614 and carries off the relic of the True Cross;
+> the emperor Heraclius wars on him and brings it back in 628. Kiraly and
+> Tokai's own dictionary carries glosses for **Chosroes**, **Ctesiphon** and
+> **Heraclius**, so the identification of these folios is theirs. This is the
+> strongest non-biblical anchor in the book.
+
+## 183v — the sign given to Heraclius
+
+**1**  This Roman emperor then had two wars
+`this Roman emperor then-exist have two war*`
+
+**2**  to fight, sinned against; and then
+`on-fight sin_against and then-exist.`
+
+**3**  Heraclius the emperor had a small army;
+`little an_army have Heraclius_<Byzantine_emperor> emperor`
+
+**4**  and then he believed, as much as he could | from
+`and then-exist believe on-?as can | from-to`
+
+**5**  the Lord, giving thanks; the Lord God heard, the Lord God, the emperor's
+`Lord to-thanks Lord-<divine> hear Lord-<divine> <of>-+emperor.`
+
+**6**  prayer; and God's angel cried out upon the water;
+`as* and shout-to God angel on-water`
+
+**7**  Heraclius had it; the Lord God heard Heraclius's
+`have Heraclius_<Byzantine_emperor> hear Lord-<divine> <of>-Heraclius_<Byzantine_emperor>`
+
+**8**  prayer; and then God's angel, Heraclius, the daughter,
+`as* and_then God angel Heraclius_<Byzantine_emperor> daughter`
+
+**9**  had him write upon his armour the tree of the Cross, and
+`have write on-<armor> cross tree and`
+
+> The Constantine motif -- *in hoc signo vinces* -- transferred to Heraclius:
+> the sign of the Cross put on the armour before the battle. K&T gloss the
+> sign on line 9 as a kind of armour or weapon.
+
+## 184r — the battle, and the tower at Ctesiphon
+
+**1**  the emperor won the fight, because the pagan emperor lost,
+`win emperor on-fight because lose to-of_an_alien_nation,_pagan`
+
+**2**  the emperor; and then the two left, this pagan emperor
+`emperor and then-exist two leave this to-of_an_alien_nation,_pagan emperor`
+
+**3**  and this Roman emperor; and then the two did battle | upon the chapter,
+`this Roman emperor and then-exist-two do_battle | on-chapter-+one`
+
+**4**  within, to the Lord, the two; and the pagan people […] the people among […]
+`inside-to-Lord-two ~and to-of_an_alien_nation,_pagan people [?] people among [?]`
+
+**5**  died; in turn the Jewish people; and the pagan, to many […]; and
+`die in_turn Jew(ish) people and to-of_an_alien_nation,_pagan <subject> to-many [?] and`
+
+**6**  then the pagan people died, and they began to pierce […]
+`then-exist people to-of_an_alien_nation,_pagan die and begin pierce [?]`
+
+**7**  […] upon the pagan earth; and then Heraclius went
+`[?] on-to-of_an_alien_nation,_pagan earth and then-exist go Heraclius_<Byzantine_emperor>`
+
+**8**  into the town of Ctesiphon, to the place of this pagan
+`inside Ctesiphon_<city_in_Persia> town on-place to-this to-of_an_alien_nation,_pagan`
+
+**9**  emperor Chosroes, because the emperor sat in one
+`emperor Khosrow_(Chosroes)_<Sasanian_king> because sit emperor inside one`
+
+> The Golden Legend has Heraclius and Chosroes' son fight in single combat on
+> a bridge over the Danube. The codex has the two leaving the armies and
+> fighting, which is the same story.
+
+## 184v — the tower of gold and precious stones
+
+**1**  tower; and the tower was all of gold, and built of precious stone, the tower,
+`tower and tower exist each,_every golden and precious_stone stone build tower`
+
+**2**  as though for one God; the emperor sat within, because he had set himself,
+`how? one God inside-sit emperor because exist put`
+
+**3**  the emperor, in one way, the emperor; and the emperor was all
+`emperor on-one ways* emperor and emperor exist each,_every`
+
+**4**  of gold, shedding blood; and in the second way the emperor had set the tree of the Cross,
+`golden shed_blood in_turn-two ways* put emperor cross tree`
+
+**5**  he himself, upon the gold; and then the emperor […]
+`he_is* exist on-golden and then-exist emperor [?]`
+
+**6**  the water went up again upon the tower; and lo, the emperor took the rain,
+`water go_up again* on-tower and lo rain grab`
+
+**7**  the emperor […] the emperor would take,
+`emperor [?]-+<subject> want emperor grab`
+
+**8**  and then the emperor made it within the tower,
+`and then-exist emperor do, inside tower.`
+
+**9**  the day […] and to […] and […] and among the tree of the Cross
+`day-[?] and to-[?] and [?] and among cross tree`
+
+> The Golden Legend: Chosroes *had made himself a tower of gold and silver,
+> shining with gems, and had set therein images of the sun and moon and
+> stars... and he caused water to be conveyed by hidden pipes, that he might
+> as God make rain.* The gold, the precious stones, the sitting within, and
+> the rain are all here, which fixes the source beyond argument.
