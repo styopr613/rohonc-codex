@@ -4687,16 +4687,16 @@
   "evidence": "Found by ktinside.py --rev: a sign K&T already read, sitting whole inside this one. It holds K&T's 540060520 'know; recognize', with 270 before and 551 after. 035r:5: 'the Son of God, [x], captured, and then'. Neither the prefix nor the suffix is accounted for, hence tier C."
  },
  "670b306701b2": {
-  "gloss": "evil",
-  "tier": "C",
+  "gloss": "serpent",
+  "tier": "B",
   "n": 1,
-  "evidence": "Found by ktinside.py --rev: a sign K&T already read, sitting whole inside this one. It holds K&T's 670b30670, 'bad thing; demon; devil; evil; the Evil', with 1b2 after it. 085r:8: 'the Jews, Jesus, the apostles, pagan, the most high, [x], the Son of the living God'."
+  "evidence": "Found by ktnear.py. CORRECTED. It was read here as 'evil', on the strength of holding K&T's 670b30670 'bad thing; demon; devil; evil; the Evil'. It is one glyph from their 670b306701f2, which they read as 'the proper name of the snake in the Garden of Eden -- Lucifer etc.; serpent'. The whole sign, not half of it, is their word. 085r:8: 'the Jews, Jesus, the apostles, pagan, the most high, [x], the Son of the living God'."
  },
  "a10370670b306701b2": {
-  "gloss": "evil",
+  "gloss": "serpent",
   "tier": "C",
   "n": 1,
-  "evidence": "Found by ktinside.py --rev: a sign K&T already read, sitting whole inside this one. The same word as 670b306701b2 above with a10370 in front -- it holds K&T's 670b30670 'devil; evil; the Evil'. 035r:4: '[x], because from, went, the Jews'."
+  "evidence": "Found by ktnear.py. CORRECTED from 'evil' for the same reason as 670b306701b2 above: that sign is one glyph from K&T's word for the serpent of Eden, and this is that sign with a10370 in front. 035r:4: '[x], because from, went, the Jews'."
  },
  "520060023060520060060520ae08c0": {
   "gloss": "donkey",
@@ -4993,16 +4993,16 @@
   "evidence": "Found by ktcover.py. It begins with K&T's 520444a10, which this project already reads as 'kiss'. 016r:1: 'writes holy Luke, the sixth throne, of the writing, from, remain, [x]'."
  },
  "520151520390": {
-  "gloss": "remain",
-  "tier": "C",
+  "gloss": "whom",
+  "tier": "B",
   "n": 1,
-  "evidence": "Found by ktcover.py. It begins with 520151, read as 'remain'. 035v:9: 'rise, the Jews, again, and the two cried, the Lord Jesus, [x], search'."
+  "evidence": "Found by ktnear.py. CORRECTED. It was read here as 'remain', because it begins with 520151. It is one glyph from K&T's 520414520390, which they read as 'who(m)?', and the two lines settle it: 035v:9 'rise, the Jews, again, and the two cried, the Lord Jesus, [x], SEARCH' and 036r:6 'Jesus [x], SEARCH, of the Lord, the Jews'. Douay John 18:4 and 18:7: 'WHOM seek ye?' -- twice in one scene, which is why the codex writes it twice on consecutive folios, once spelled 390 and once 391. The seeking is already read on both lines. This occurrence: 035v:9."
  },
  "520151520391": {
-  "gloss": "remain",
-  "tier": "C",
+  "gloss": "whom",
+  "tier": "B",
   "n": 1,
-  "evidence": "Found by ktcover.py. The same word as 520151520390 with the last element spelled 391 instead of 390. 036r:6: 'Jesus [x], search, of the Lord, the Jews'."
+  "evidence": "Found by ktnear.py. CORRECTED. It was read here as 'remain', because it begins with 520151. It is one glyph from K&T's 520414520390, which they read as 'who(m)?', and the two lines settle it: 035v:9 'rise, the Jews, again, and the two cried, the Lord Jesus, [x], SEARCH' and 036r:6 'Jesus [x], SEARCH, of the Lord, the Jews'. Douay John 18:4 and 18:7: 'WHOM seek ye?' -- twice in one scene, which is why the codex writes it twice on consecutive folios, once spelled 390 and once 391. The seeking is already read on both lines. This occurrence: 036r:6."
  },
  "574a10003a10877": {
   "gloss": "whosoever_liveth",
@@ -5023,10 +5023,10 @@
   "evidence": "Found by ktcover.py. It holds K&T's 4b0 'say'. 107r:4: 'the Samaritan, and then this, the Jews, [x]'."
  },
  "060540ae0233": {
-  "gloss": "exist",
-  "tier": "C",
+  "gloss": "Nicodemus",
+  "tier": "B",
   "n": 1,
-  "evidence": "Found by ktcover.py. It is K&T's 060 'one' and 540ae0 'exist' with 233 after. 031v:3: '[x], and see the Lord Jesus, this'."
+  "evidence": "Found by ktnear.py. CORRECTED. It was read here as 'exist', because it holds K&T's 540ae0 'exist'. It is one glyph from their 060540ae0520, which they read as 'Nicodemus'. 031v:3: '[x], and see the Lord Jesus, this' -- and the folio before it, 091r:10, names Nicodemus outright in the night conversation of John 3."
  },
  "520060990990": {
   "gloss": "rather",

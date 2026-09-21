@@ -740,7 +740,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 031v ===
  1  +bread That_is_it. and then-exist sleep holy-~John
  2  on-end Lord-Jézus and grab this Lord-Jézus.
- 3  ?exist and ?see Lord-Jézus [?] this
+ 3  +Nicodemus and ?see Lord-Jézus [?] this
  4  +bread and then-exist +bread exist-Lord Judas
  5  +Iscariot grab and then-exist +bread Judas
  6  ?were_opened on-to-place hell evil inside Judas go-this
@@ -841,7 +841,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  sleep and can sleep Lord-Jézus a) Lord-put one stone
  2  to-head and can sleep Lord-Jézus a) +rise
  3  +and_then Lord apostle +rise apostle to-?again +have-apostle [?]
- 4  ?evil because from [?] go Jew(ish) [?]
+ 4  ?serpent because from [?] go Jew(ish) [?]
  5  somebody-<suffix_of_divine_name> son ?recognize capture and then-exist
  6  Lord apostle and apostle go-Lord-and-apostle on-way and see | Lord
  7  Jézus many people-chapter go and among Jew(ish) exist Judas
@@ -861,7 +861,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  6  [?] +say hide_oneself <preposition_of_genitive>-club and +rise-+say ?again and <preposition_of_genitive>-Jew(ish)
  7  club grab-+say inside why?-in_turn because Lord-Jézus ?as
  8  do, father-<suffix_of_divine_name> <preposition_of_genitive>-Lord to-Jew(ish) people and
- 9  +rise-Jew(ish) to-?again and two shout Lord-Jézus ?remain search
+ 9  +rise-Jew(ish) to-?again and two shout Lord-Jézus +whom search
 10  people <preposition_of_genitive>-Lord Jew(ish) and shout Jew(ish).
 11  +say +answered Jézus +Nazareth and shout
 12  Lord-Jézus from this-Lord if Lord search Jew(ish) and
@@ -873,7 +873,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  Jew(ish) club grab-+say inside why?-in_turn because | Lord
  4  Jézus ?as ?afterward father-<suffix_of_divine_name> <preposition_of_genitive>-Lord to Jew(ish)
  5  people ~and +rise-Jew(ish) to-?again and +three shout | Lord
- 6  Jézus ?remain search <preposition_of_genitive>-Lord Jew(ish)
+ 6  Jézus +whom search <preposition_of_genitive>-Lord Jew(ish)
  7  and shout Jew(ish) +say +answered
  8  Jézus +Nazareth and shout Lord-Jézus from this-Lord
  9  if Lord search Jew(ish) +and_then shout Lord-Jézus
@@ -2120,7 +2120,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  +<subject_marker> exist Lord-<suffix_of_divine_name> grab on-angel <preposition_of_genitive>-Lord inside <pertaining_to_the_Old_Testament>
  6  word father Abraham +seventy and +one-[?] commandment
  7  [?] this ?more_than_these go be_saved among somebody Lord
- 8  Jew(ish) Jézus apostle-pagan ?above-high ?evil son living God
+ 8  Jew(ish) Jézus apostle-pagan ?above-high +serpent son living God
  9  Lord-Jézus-Christ and to-somebody from +face and to-somebody soul
 10  ~on-+cross-[?] and to-somebody +<subject_marker> <preposition_of_genitive> blood shed and somebody +<subject_marker>
 11  redeem-Lord from hell fire [?] somebody to-many from-until
