@@ -447,32 +447,35 @@ def main():
     check("rendering: by composition 5811 = 19.4%",
           len(g) == 2 and g[0] == 5811 and close(g[1], 19.4, .02) and "19.4%" in flat, str(g))
     g = nums(kt, "their variant spelling", 2)
-    check("rendering: declared variants 357 = 1.2%",
-          len(g) == 2 and g[0] == 357 and close(g[1], 1.2, .02) and "357" in flat, str(g))
+    check("rendering: declared variants 595 = 2.0%",
+          len(g) == 2 and g[0] == 595 and close(g[1], 2.0, .02) and "595" in flat, str(g))
     g = nums(kt, "no reading", 2)
-    check("rendering: no reading 20.5%",
-          len(g) == 2 and close(g[1], 20.5, .02) and "20.5%" in flat, str(g))
+    check("rendering: no reading 19.7%",
+          len(g) == 2 and close(g[1], 19.7, .02) and "19.7%" in flat, str(g))
     g = nums(kt, "every word read", 2)
-    check("rendering: 1041 lines fully read = 23.8%",
-          len(g) == 2 and g[0] == 1041 and close(g[1], 23.8, .02) and "1041" in flat, str(g))
+    check("rendering: 1110 lines fully read = 25.4%",
+          len(g) == 2 and g[0] == 1110 and close(g[1], 25.4, .02) and "1110" in flat, str(g))
     kv = out("ktvariant.txt")
     g = nums(kv, "declared variants tested", 1)
     check("variants: 23 declared tested", bool(g) and g[0] == 23, str(g))
     g = nums(kv, "closer to headword than to stand-in", 1)
-    check("variants: bar A 60.9%", bool(g) and close(g[0], 60.9, .02) and "60.9%" in flat, str(g))
+    check("variants: bar A 56.5%", bool(g) and close(g[0], 56.5, .02) and "56.5%" in flat, str(g))
     g = nums(kv, "one glyph from exactly one defined code", 4)
     check("variants: 98 neighbours, 926 tokens, 3.1%",
           len(g) == 4 and g[0] == 98 and g[1] == 926 and close(g[3], 3.1, .02)
           and "926" in flat, str(g))
     g = nums(kv, "closer to neighbour than to stand-in", 1)
-    check("variants: bar B 53.1%", bool(g) and close(g[0], 53.1, .02) and "53.1%" in flat, str(g))
+    check("variants: bar B 57.1%", bool(g) and close(g[0], 57.1, .02) and "57.1%" in flat, str(g))
     sig = [float(x) for x in re.findall(r"sigma (-?\d+\.\d+)", kv)]
-    check("variants: 2.6 and 4.8 sigma, both FAIL",
-          len(sig) == 2 and close(sig[0], 2.6, .05) and close(sig[1], 4.8, .05)
-          and kv.count("->  FAIL") == 2 and "2.6 sigma" in flat and "4.8 sigma" in flat, str(sig))
+    check("variants: 1.8 and 4.8 sigma, both FAIL",
+          len(sig) == 2 and close(sig[0], 1.8, .05) and close(sig[1], 4.8, .05)
+          and kv.count("->  FAIL") == 2 and "1.8 sigma" in flat and "4.8 sigma" in flat, str(sig))
     g = nums(kv, "book coverage", 2)
-    check("variants: coverage 77.6% -> 78.8%",
-          len(g) == 2 and close(g[0], 77.6, .02) and close(g[1], 78.8, .02) and "78.8%" in flat, str(g))
+    check("variants: coverage 77.6% -> 79.5%",
+          len(g) == 2 and close(g[0], 77.6, .02) and close(g[1], 79.5, .02) and "79.5%" in flat, str(g))
+    g = nums(kv, "K&T's variants stated as a rule", 2)
+    check("variants: 44 rule types, 238 tokens",
+          len(g) == 2 and g[0] == 44 and g[1] == 238 and "238 tokens" in flat, str(g))
     tr = os.path.join(WORK, "translation", "rohonc_reading.txt")
     trf = os.path.join(WORK, "translation", "rohonc_reading_full.txt")
     check("rendering: both files exist and cover 441 pages",
@@ -540,11 +543,11 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 3643 tokens = 12.1% rendered",
-          len(g) == 2 and g[0] == 3643 and close(g[1], 12.1, .02), str(g))
+    check("proposals: 3579 tokens = 11.9% rendered",
+          len(g) == 2 and g[0] == 3579 and close(g[1], 11.9, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
-    check("proposals: 3554 lines fully read with them",
-          len(g) == 2 and g[0] == 3554 and close(g[1], 81.3, .02), str(g))
+    check("proposals: 3558 lines fully read with them",
+          len(g) == 2 and g[0] == 3558 and close(g[1], 81.4, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -552,8 +555,8 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "1779 signs are read" in flat
-          and "23.8% to **81.3%**" in flat)
+          "METHOD.md" in flat and "1774 signs are read" in flat
+          and "23.8% to **81.4%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)

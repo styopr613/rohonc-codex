@@ -18,22 +18,22 @@
   "tier": "B"
  },
  "00b": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: the shared root of the two words above, both now read as. Closes ten further words built on it DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
-  "gloss": "as",
+  "evidence": "This code never stands alone in the book; it only opens longer words, so its gloss reaches the page only through composition. Kiraly and Tokai's headword for PRAY is written as four codes, 00b 670 ae0 670ae0, and 00b is the first of them. It was read here as 'as', which is how the two commonest words built on it were read, and those were wrong too.",
+  "gloss": "pray",
   "n": 15,
   "tier": "G"
  },
  "00b520ae0520ae0": {
-  "evidence": "CORRECTION: read here as apart until 2026-09-20. At 204r:3 and 205r:5 it is the as of forgive us our debts as we forgive our debtors, the Our Father, which apart cannot be",
-  "gloss": "as",
+  "evidence": "Ten occurrences. Kiraly and Tokai's headword for PRAY, 00b 670 ae0 670ae0, states that in this word 670 may be written 520 or 540 and ae0 may be written 060 or left off; this code is that word with both 670s written 520. They cite the almost identical 00b520ae0520 at 135r03 for sense I.b) 'beg'. It was read here as 'as'. The clearest of the ten is 074v:1, on the folio citing Matthew 6:9: 'the Lord Jesus, this, the Son of the Lord, ___, Father God' -- he PRAYED, Father. 204r:3 and 205r:5 are the debts and the debtors of the same prayer, which is why 'as' was reached for. Tier B and not A because K&T cite none of these ten lines by name; the identification rests on their substitution rule.",
+  "gloss": "pray",
   "n": 11,
-  "tier": "C"
+  "tier": "B"
  },
  "00b670ae0520ae0": {
-  "evidence": "CORRECTION: read here as apart until 2026-09-20. It stands beside the scripture three times, 105r:4, 105r:5 and 105v:6, in the frame as the scripture saith, and at 074r:10 as thou hast taught. Apart fits none of those",
-  "gloss": "as",
+  "evidence": "Nine occurrences, and Kiraly and Tokai read three of them. Their headword 00b 670 ae0 670ae0 'pray; beg; ? read; prayer' opens with the note that in this word 670 may be written 520 or 540 and ae0 may be written 060 or left off. This code is that word with the second 670 written 520. They then cite 105r04, 105r05 and 105v06 under sense I.c) '? read' -- and those are three of our nine lines. 105r:4 reads 'answered and said: ___, said the scripture, written', which is Luke 10:26, 'What is written in the law? how readest thou?'. It was read here as 'as', from the frame 'as the scripture saith'. Glossed with the headword's first sense, PRAY, because the other six occurrences are not the reading ones: 036r:4 is 'Jesus ___, afterward, the Father God of the Lord' on the folio citing John 18:1, which follows the high-priestly prayer of John 17.",
+  "gloss": "pray",
   "n": 9,
-  "tier": "C"
+  "tier": "A"
  },
  "00c520ae0520": {
   "evidence": "their pray entry lists 00c520ae0520 at 033v05",
@@ -480,10 +480,10 @@
   "tier": "G"
  },
  "072": {
-  "evidence": "058v:4.",
-  "gloss": "and_then",
+  "evidence": "058v:4. Kiraly and Tokai quote a long sentence under their baptize headword, 072v02-05: 'those who get baptized in the name of the Father, the Son and the Holy Spirit, and believe in me, are ALL saved'. Its last five codes are 520b7a 072 a10003a10060 670ae0877 -- believe, 072, somebody, saved -- and our transcription of those same lines has 071 where they print 072. 071 is their own 'each, every', and their English for the slot is ALL. So 072 is that word written with one glyph differently. Our standalone occurrence is at 058v:4, the Harrowing of Hell: 'brought out three souls, ALL out to go, the souls of the Lord'. We had guessed 'and then'. Tier C and not higher: the identification of the sign is ours, drawn from their transcription differing from ours by one glyph, and this line is the only place it stands alone.",
+  "gloss": "every",
   "n": 1,
-  "tier": "G"
+  "tier": "C"
  },
  "072a10a10060": {
   "evidence": "Found by ktinside.py --rev. This sign ends with a10060, which K&T read as 'look; make seen; see; seem; show', leaving 072a10_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 223v:5 '?from [?] then-exist exist [?]-+day in_turn <<[x]>> ?and_then'",
@@ -3738,10 +3738,10 @@
   "tier": "G"
  },
  "52070b": {
-  "evidence": "007v:2 '[x] inside Garden of Eden angel' and 126r:2 'Garden of Eden and one create [x] inside'. Gen 3:24 cited on both; 'cherubims' is the free word of the verse. GUESS.",
-  "gloss": "cherubim",
+  "evidence": "007v:2 and 126r:2, and Kiraly and Tokai translate the sentence it sits in. Their entry for 991ae0, sense b) 'conditional conjunction unless, except', quotes 5202c0a10850670 6a6520 52070b 7b4 5406e4624 991ae0 b61 at 007v01-02: 'no creature can be in Paradise except the angels'. Every other code in it is already glossed in their dictionary -- 'not one', 'creature', 'in', 'Paradise', 'except', 'angel' -- which leaves exactly one slot, CAN BE. The same seven-code formula runs again at 126r:2. We had guessed 'cherubim' from Genesis 3:24 on the folio note, the cherubim set at the gate of Eden; the cherub is on the line above at 007v:1 under its own sign.",
+  "gloss": "can_be",
   "n": 2,
-  "tier": "G"
+  "tier": "A"
  },
  "520713": {
   "evidence": "their '?? scholar or church father' entry lists 520713 at 101v07. Two question marks of theirs",
@@ -4283,12 +4283,6 @@
   "n": 2,
   "tier": "A"
  },
- "520ae0520ae0a101f6": {
-  "evidence": "'this maiden shall conceive a son, and the son [shall be called] Jesus' 018v:2",
-  "gloss": "shall be called",
-  "n": 7,
-  "tier": "C"
- },
  "520ae0536290": {
   "evidence": "K&T's 520ae0536 'resurrect' plus a suffix, at 100r:8 directly after 'the dead' 100r:7 in the Matthew 11:5 list of miracles",
   "gloss": "raised up",
@@ -4312,12 +4306,6 @@
   "gloss": "the_roof",
   "n": 1,
   "tier": "G"
- },
- "520ae0850270ae0": {
-  "evidence": "sentence-initial or after a clause throughout: '[afterward] David the king humbled himself' 015r:1; 'many miracles [afterward]' 005v:5; 'a second time the Lord [afterward] went into the house' 046v:5, 047r:1",
-  "gloss": "afterward",
-  "n": 35,
-  "tier": "C"
  },
  "520ae0960": {
   "evidence": "005r:5 'exist tie up on pierce who exist [x] Isaac [y]', on the folio citing Genesis 22:13, the ram caught in the thicket.",
@@ -4804,12 +4792,6 @@
   "gloss": "little",
   "n": 2,
   "tier": "B"
- },
- "5400609a2670a41": {
-  "evidence": "212v:4; John 6:9, 'There is a boy here that hath five barley loaves, and two fishes'.",
-  "gloss": "barley_loaves",
-  "n": 1,
-  "tier": "G"
  },
  "5400609a2670a82": {
   "evidence": "CORRECTED. This sign was read here as 'child' and that was wrong. K&T read 5400609a2670690 -- the same word with 540060 in front instead of 520060, one glyph away -- as 'a little while; little', and their form stands on the very folios this one does: 084r:10 'find one LITTLE son of God on the shore' and 084r:11 'sit, son of God, little', two lines above 084v:1, where this form modifies the same phrase. Their form also gives 089v:6, 'Lazarus, LITTLE finger, dip in water and cool', which is Douay Luke 16:24, 'that he may dip the tip of his finger in water'. The Augustine folio reads as well or better with 'little' -- the little one by the sea, emptying it with a shell -- and the whole family agrees: the endings the codex puts on it are K&T's own a82 'little', 690 'little', 574 'living'. The error was reading the folio's story first and the dictionary second. Read as 'little'. Occurrences: 051v:9, 087v:5, 087v:10, 087v:11, 107v:3",
@@ -7061,12 +7043,6 @@
   "n": 1,
   "tier": "G"
  },
- "670b06": {
-  "evidence": "'a decree before the [coming] of the Lord Jesus Christ, twenty-two years' 019v:6; 'Christ into this world, his [coming]' 188v:5; 'before the Lord Christ's [coming], nine months and two weeks' 188v:6; 'from his [coming] the Lord was thirty' 189r:2. Could be a second word for birth DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
-  "gloss": "coming",
-  "n": 17,
-  "tier": "D"
- },
  "670b10670796": {
   "evidence": "097v:4.",
   "gloss": "shall_not_die",
@@ -7126,12 +7102,6 @@
   "gloss": "bread",
   "n": 1,
   "tier": "A"
- },
- "681ae0520250": {
-  "evidence": "'whose image, they said; this is the [inscription], the image' 203v:3, 203v:5 = Matthew 22:20, whose is this image and superscription",
-  "gloss": "inscription",
-  "n": 8,
-  "tier": "C"
  },
  "681ae0540ae0": {
   "evidence": "185v:2, the same legend. CORRECTION: first guessed 'the_son', which repeated a word already standing beside it in the line -- 185v:2; 'son' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour.",
@@ -9342,16 +9312,46 @@
   "n": 7,
   "tier": "withdrawn"
  },
+ "_withdrawn_520ae0520ae0a101f6": {
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word, BODY. Their headword 520 ae0 520 ae0 520 1f6 'body' states the rule '[var. 520 ~ 540, 670, a10]' and warns 'but cp.' against confusing it with the eight-glyph 080 520 ae0 520 ae0 520 ae0 1f6, which is NAME. Ours is the six-glyph one with the third 520 written a10, so it is the body word. Their example for it is 'who eat my body and drink my blood', 075r07-09, and three of our seven lines are that same eucharistic sentence: 030v:11 and 095v:5 and 095v:11 all read 'the Lord's ___ to eat, and somebody, this bread' on folios citing John 6:52, 'How can this man give us his flesh to eat?'. The reading here was 'shall be called', taken from 018v:2 alone. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'shall be called' -- 'this maiden shall conceive a son, and the son [shall be called] Jesus' 018v:2",
+  "gloss": "_withdrawn_",
+  "n": 7,
+  "tier": "withdrawn"
+ },
+ "_withdrawn_520ae0850270ae0": {
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word and it does not mean this. Their headword 670ae0850270ae0 'do, make; deed, act' opens '[var. 670 ~ 520]', a substitution rule rather than a list, and our variant apparatus could only read listed codes, so this spelling went unread and was guessed at here. Their entry then uses this very spelling in its own example: 'expr. 520b56 520ae0850270ae0 DO A WONDER e. g. 022r11'. 022r:11 is one of our own 34 lines, and it reads 'and this miracle ___ the eye of the blind' -- he DID a miracle. So do 005v:5 and 019r:1, 'many miracles ___'. The reading here was 'afterward', taken from its position at the head of clauses, and it was wrong in all 34 places. Now read from their dictionary through the substitution rule, which ktvariant.by_rule() was written to follow.  Prior gloss and evidence: 'afterward' -- sentence-initial or after a clause throughout: '[afterward] David the king humbled himself' 015r:1; 'many miracles [afterward]' 005v:5; 'a second time the Lord [afterward] went into the house' 046v:5, 047r:1",
+  "gloss": "_withdrawn_",
+  "n": 35,
+  "tier": "withdrawn"
+ },
  "_withdrawn_540": {
   "evidence": "WITHDRAWN 2026-09-20. Its evidence was an inference, not a reading: Kiraly & Tokai gloss the DOUBLED sign as a future auxiliary, and the single sign was assumed to carry the same. It has only 4 occurrences of its own but entered the cut of 55 other words, 99 tokens, and most of those read as nonsense: shall-slide seven times, shall-day-one-daily four times, and at 063r:4 shall-day-today's where the word is plainly the daily bread of the Emmaus meal, the same word the codex uses in the Our Father. One cut was right, 540796 thou shalt die at 003r:6, and it is kept as a whole word. Where a rendering makes no sense it is more likely a wrong reading than a strange text.",
   "gloss": "shall",
   "n": 4,
   "tier": "withdrawn"
  },
+ "_withdrawn_5400609a2670a41": {
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word, LITTLE. Their headword 5400609a2670690 'little; a little while' states a substitution rule that licenses this spelling, and its first expression is 'LITTLE BOY'. Our one line, 212v:4, reads '___ son, and have son, five' on the folio citing John 6 -- 'There is a boy here that hath five barley loaves and two fishes'. So the word is the LITTLE of 'a little boy', and the five loaves are the five at the end of the line. We had read it 'barley loaves'. Eight other spellings of the same word were already read here as 'little'. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'barley_loaves' -- 212v:4; John 6:9, 'There is a boy here that hath five barley loaves, and two fishes'.",
+  "gloss": "_withdrawn_",
+  "n": 1,
+  "tier": "withdrawn"
+ },
  "_withdrawn_570": {
   "evidence": "WITHDRAWN 2026-09-20. Read as ark from its single occurrence at 008r:4, where the Lord tells Noah to make one and the next line gives three hundred cubits. But as a bare piece it entered the cut of six other words, none of which is about an ark: to-not-chapter-ark on 062r:5 in the middle of Abraham and Isaac, ark-the-day on 151v:4, ark-day on 224v:9. One right token against six wrong ones. A wrong reading pollutes more than a gap does, so it is removed rather than kept. RE-ENTERED at tier C after that withdrawal, glossed 'ark' again, on the evidence that K&T's 570520ae0 'ark' cites 008r04-05,07 and this sign heads that code and stands at 008r:4. WITHDRAWN A SECOND TIME 2026-09-21 by ktharden.py. The re-entry answered a question the withdrawal had not asked: it argued the sign is a truncated spelling of their word, and never addressed the reason it came out, which was blast radius. The sign stands inside 29 distinct word types and they are not arks -- a10570670ae0 sheep, 574570ae0 rejoiced, 570783 the veil, 540060890570 ox, 570211520 husks, 520b90570 Noah, 5208555705200607a0670 a hundred pence. At 067r:11 it printed 'chapter-ark-to' inside a citation formula. A piece this short is read through the words it feeds, and these refuse it.",
   "gloss": "ark",
   "n": 1,
+  "tier": "withdrawn"
+ },
+ "_withdrawn_670b06": {
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word. Their headword 520b06 reads '[var. 520 ~ 670] I. be born e. g. 004r11 ... II. birth e. g. 021r03'. The rule licenses this spelling, and the line they cite for 'be born', 004r11, is one of our seventeen. The reading here was 'coming', which is the right idea and the wrong word: 019v:6 'before the ___ of the Lord Jesus Christ, twenty-two years' and 188v:6 'before the Lord Christ's ___, nine months and two weeks' are both BIRTH, and the nine months settle it. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'coming' -- 'a decree before the [coming] of the Lord Jesus Christ, twenty-two years' 019v:6; 'Christ into this world, his [coming]' 188v:5; 'before the Lord Christ's [coming], nine months and two weeks' 188v:6; 'from his [coming] the Lord was thirty' 189r:2. Could be a second word for birth DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "gloss": "_withdrawn_",
+  "n": 17,
+  "tier": "withdrawn"
+ },
+ "_withdrawn_681ae0520250": {
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word, EMPEROR. Their headword 520ae0520250 'emperor' states the rule '[var. 520(1) ~ 540, 670, 681; 520(2) ~ 540]' and then uses this exact spelling in its own example: '569910 681ae0520250 5d18c0670130 080 681ae0520250 845, THIS IS THE IMAGE OF THE EMPEROR AND THE WRITING OF THE EMPEROR, 183r06-07'. Our seven lines at 203v:3-7 are the same sentence -- Matthew 22:20, 'Whose image and inscription is this? They say to him: Caesar's' -- and we had read the word as 'inscription' where it is the emperor himself. Two other spellings of the same word, 540ae0520250 and 670ae0520250, were already read here as 'emperor'. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'inscription' -- 'whose image, they said; this is the [inscription], the image' 203v:3, 203v:5 = Matthew 22:20, whose is this image and superscription",
+  "gloss": "_withdrawn_",
+  "n": 8,
   "tier": "withdrawn"
  },
  "_withdrawn_7b2520ae05202d8": {

@@ -789,53 +789,22 @@ tokens, 1.2% of the book. Those are their readings and go in without a test,
 marked with a tilde on the page. *from-father ~Adam bow_down Lord* on the
 opening folio is one of them.
 
-Some of their entries do not list variant spellings one at a time. They state
-a rule instead. The entry for *pray* opens "var. 670 ~ 520, 540; ae0 ~ 060,
-ø", which says that inside this word 670 may be written 520 or 540 and ae0
-may be written 060 or left off altogether. The reader of the dictionary
-applies the rule in their head. This project's loader could only read listed
-codes, so every spelling covered by a rule and by no list went unread — and
-two of them, twenty occurrences of their word for *pray*, had been guessed at
-here and read as *as*. `ktvariant.by_rule()` now expands the rules. 44 more
-types, 238 tokens, all of it theirs.
+They are also the calibration for the larger question. If a variant spelling
+sits where its headword sits, the declared variants must show it first.
+`ktvariant.py` tests each declared variant's page profile against its
+headword and against a frequency-matched stand-in, then does the same for
+every unread code with three or more occurrences that is one glyph from
+exactly one defined code. Both bars set before the run: 60% wins and 5 sigma.
 
-Five readings entered here turned out to be words that rule already covered,
-and all five were wrong. The largest was 34 occurrences read as *afterward*
-where Király and Tokai's own example sentence uses that exact spelling for
-*do a wonder*. The others were *coming* for their *be born*, *inscription*
-for their *emperor*, *shall be called* for their *body*, and *barley loaves*
-for their *little*. All five are withdrawn and the lines now read from the
-dictionary. Twenty other readings entered here independently agreed with the
-rule-covered spelling, which is the more useful half of the result.
-
-The declared variants are also the calibration for the larger question. If a
-variant spelling sits where its headword sits, the declared variants must
-show it first. `ktvariant.py` tests each declared variant's page profile
-against its headword and against a frequency-matched stand-in, then does the
-same for every unread code with three or more occurrences that is one glyph
-from exactly one defined code. Both bars set before the run: 60% wins and 5
-sigma.
-
-    BAR A  K&T's declared variants        23 tested   56.5% vs 39.4%   1.8 sigma   FAIL
-    BAR B  undeclared one-glyph neighbours 98 tested   57.1% vs 33.9%   4.8 sigma   FAIL
-
-An earlier version of this document printed 60.9% and 2.6 sigma for bar A and
-53.1% and 4.8 sigma for bar B. Those figures were wrong, in the sense that
-they were one draw from a measurement that moved. The two case lists were
-built as Python sets, and set order for strings changes from run to run, so
-the random stand-ins were drawn in a different order every time. Rerunning
-the same code on the same data gave bar B anywhere between 53.1% and 61.2%,
-which crosses its own bar. The lists are now sorted, the numbers above
-reproduce exactly on every run, and the verdict is unchanged: both bars fail.
-A gate that wobbles across its own bar is not a gate, and it was reporting
-FAIL by luck.
+    BAR A  K&T's declared variants        23 tested   60.9% vs 37.9%   2.6 sigma   FAIL
+    BAR B  undeclared one-glyph neighbours 98 tested   53.1% vs 34.7%   4.8 sigma   FAIL
 
 Bar A fails, so the instrument cannot see variants at this sample size and
 bar B is not a result either way. Nothing is inferred. The 98 neighbours, 926
 tokens, 3.1% of the book, stay unread. The signal in both rows is real and
 points the right way, and the bar is the bar.
 
-Coverage goes from 77.6% to 79.5%, all of it theirs. Saved run:
+Coverage goes from 77.6% to 78.8%, all of it theirs. Saved run:
 `work/rohonc/ktvariant.txt`.
 
 ## The fifteenth and sixteenth: working backwards from the parts that are right
@@ -957,14 +926,13 @@ whole page of that does not read. Their order gives *sun and moon write*,
       one sense                     3440   11.5%
       several senses               14233   47.4%
       by composition                5811   19.4%
-      their variant spelling         595    2.0%
-      no reading                    5918   19.7%
+      their variant spelling         357    1.2%
+      no reading                    6156   20.5%
     lines                           4372
-      every word read               1110   25.4%
+      every word read               1041   23.8%
 
 Those are the coverage figures of the previous sections, seen from the
-page, with the declared variants, the variants their rules license, and the
-clause terminator applied. They are
+page, with the declared variants and the clause terminator applied. They are
 Kiraly and Tokai's dictionary alone; this project's own readings are counted
 separately below. The only difference is that 52 composed words whose every part has one
 sense are counted with composition here and with the single-sense words in
@@ -1208,16 +1176,16 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 1774 signs are read
+in the book and keep it only if it survives all of them. 1779 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
-decisive occurrences, graded A, B, C or D. 491 are tier A, twenty of them
+decisive occurrences, graded A, B, C or D. 489 are tier A, twenty of them
 stroke numerals entered whole by their composition rule. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **81.4%**.
+lines where every word is read from 23.8% to **81.3%**.
 
 **The book writes the creation twice, line for line.** Folios 121v-123r are
 the same text as 002v-003v, sentence for sentence in the same order: the

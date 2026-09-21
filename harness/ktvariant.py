@@ -72,6 +72,78 @@ def declared():
     return {v: next(iter(h)) for v, h in vm.items() if len(h) == 1}
 
 
+def by_rule():
+    """{variant code: head code} for K&T's variants stated as a RULE.
+
+    declared() reads the explicit variant codes after a "var." mark. Some
+    entries do not list spellings one by one; they state a substitution
+    instead -- "[var. {670} ~ {520}, {540}; {ae0} ~ {060}, o]" means that
+    inside this word 670 may be written 520 or 540, and ae0 may be written
+    060 or dropped. Those spellings are K&T's readings just as much as the
+    listed ones, and every one of them was unread here: two of them, 20
+    occurrences of their word for PRAY, had been read as "as".
+
+    A rule replaces ONE glyph, so a target longer than one glyph ends the
+    rule -- that is an explicit variant being listed next, not a
+    substitution. The headword is the rohonc text before the bracket.
+
+    This does not touch declared(), and so does not touch BAR A or BAR B.
+    """
+    import itertools
+    raw = json.load(open(ktdict.DICT, encoding="utf-8"))
+    out = {}
+    for e in raw:
+        fr = e["entry"]
+        flat, head, seen = [], [], False
+        for f in fr:
+            t = f.get("text", "")
+            pua = "".join(c for c in t if 0xE000 <= ord(c) <= 0xEFFF)
+            flat.append(("R", pua) if f.get("style") == "rohonc" else ("T", t))
+            if not seen and f.get("style") == "rohonc":
+                head.append(pua)
+            if "[" in t:
+                seen = True
+        head = "".join(head)
+        if not head:
+            continue
+        rules, i = [], 0
+        while i < len(flat):
+            if (flat[i][0] == "R" and len(flat[i][1]) == 1
+                    and i + 1 < len(flat) and "~" in flat[i + 1][1]):
+                src, tos, j = flat[i][1], [], i + 1
+                while j + 1 < len(flat):
+                    sep = flat[j][1]
+                    if "\u00f8" in sep:
+                        tos.append("")
+                    if flat[j + 1][0] != "R" or len(flat[j + 1][1]) != 1:
+                        break
+                    if not ("~" in sep or sep.strip().startswith(",")):
+                        break
+                    tos.append(flat[j + 1][1])
+                    j += 2
+                if tos:
+                    rules.append((src, tos))
+                i = j
+            i += 1
+        if not rules:
+            continue
+        slots, total = [], 1
+        for c in head:
+            alts = {c}
+            for src, tos in rules:
+                if src == c:
+                    alts |= set(tos)
+            slots.append(sorted(alts))
+            total *= len(alts)
+        if total > 400:
+            continue
+        for combo in itertools.product(*slots):
+            v = "".join(combo)
+            if v and v != head and v != e["code"]:
+                out.setdefault(v, set()).add(e["code"])
+    return {v: next(iter(h)) for v, h in out.items() if len(h) == 1}
+
+
 def one_edit(a, b):
     if a == b:
         return False
@@ -84,10 +156,16 @@ def one_edit(a, b):
 
 
 def neighbours(unread, defset, types):
-    """{unread code: the one defined code within one glyph}, unique only."""
+    """{unread code: the one defined code within one glyph}, unique only.
+
+    Sorted, because the caller passes a set and the rng downstream consumes
+    draws in whatever order this returns. Unsorted, BAR B moved between 53%
+    and 61% from run to run on the same data -- across its own bar -- purely
+    on Python's per-process string hashing. Sorting pins it.
+    """
     pool = [c for c in defset if types.get(c, 0) >= MIN_OCC]
     out = {}
-    for t in unread:
+    for t in sorted(unread):
         if len(t) < 2:
             continue
         near = [c for c in pool if one_edit(t, c)]
@@ -146,6 +224,12 @@ def readings():
     unread = {t for t in types if t not in gl and t not in seg}
     dec = {v: h for v, h in declared().items() if v in unread and h in gl}
     out = {v: (h, "kt") for v, h in dec.items()}
+    # K&T's variants stated as a substitution rule rather than listed. Added
+    # to what the renderer may read, and deliberately NOT to dec, so that
+    # BAR A and BAR B keep measuring exactly what they measured before.
+    for v, h in by_rule().items():
+        if v in unread and h in gl and v not in out:
+            out[v] = (h, "kt-rule")
     return gl, doc, types, seg, unread, dec, out
 
 
@@ -165,7 +249,8 @@ def main():
           f"({dtok/U*100:.1f}% of unread, {dtok/tot*100:.1f}% of the book)")
 
     # ---- BAR A: the declared variants, tested as if unknown
-    casesA = [(v, h) for v, h in dec.items() if types[v] >= MIN_OCC and types[h] >= MIN_OCC]
+    casesA = sorted((v, h) for v, h in dec.items()
+                    if types[v] >= MIN_OCC and types[h] >= MIN_OCC)
     wA, mA, sdA, sA = win_rate(casesA, gl, types, occ, npages, rng)
     print()
     print(f"BAR A -- do K&T's declared variants sit where their headword sits?")
@@ -181,7 +266,7 @@ def main():
     cand = {t for t in unread if t not in dec and types[t] >= MIN_OCC}
     nb = neighbours(cand, set(gl), types)
     ntok = sum(types[v] for v in nb)
-    casesB = list(nb.items())
+    casesB = sorted(nb.items())
     wB, mB, sdB, sB = win_rate(casesB, gl, types, occ, npages, rng)
     print()
     print(f"BAR B -- do undeclared one-glyph neighbours sit where the defined code sits?")
@@ -201,19 +286,26 @@ def main():
     print("=" * 74)
     print("WHAT IS READ")
     print("=" * 74)
+    rule = {v: h for v, (h, tag) in out.items() if tag == "kt-rule"}
+    rtok = sum(types[v] for v in rule)
     print(f"  K&T's declared variants (theirs, no test)   {len(dec):5d} types  {dtok:5d} tokens")
+    print(f"  K&T's variants stated as a rule (theirs)    {len(rule):5d} types  {rtok:5d} tokens")
     if okA and okB:
         print(f"  inferred one-glyph variants                 {len(nb):5d} types  {ntok:5d} tokens")
-        added = dtok + ntok
+        added = dtok + rtok + ntok
     else:
         print(f"  inferred one-glyph variants                     0 types      0 tokens  (gate failed)")
-        added = dtok
+        added = dtok + rtok
     print(f"  book coverage  {(tot-U)/tot*100:5.1f}%  ->  {(tot-U+added)/tot*100:5.1f}%")
     print()
     print(f"  {'n':>5s}  {'code':24s}  read as")
-    show = sorted(dec.items(), key=lambda x: -types[x[0]])[:12]
+    show = sorted(dec.items(), key=lambda x: (-types[x[0]], x[0]))[:12]
     for v, h in show:
-        print(f"  {types[v]:5d}  {S.hx(v):24s}  {S.best_sense(gl[h])}   [K&T var.]")
+        print(f"  {types[v]:5d}  {S.hx(v):24s}  "
+              f"{S.best_sense(sorted(gl[h]))}   [K&T var.]")
+    for v, h in sorted(rule.items(), key=lambda x: (-types[x[0]], x[0]))[:14]:
+        print(f"  {types[v]:5d}  {S.hx(v):24s}  "
+              f"{S.best_sense(sorted(gl[h]))}   [K&T var. by rule]")
     if okA and okB:
         for v, h in sorted(nb.items(), key=lambda x: -types[x[0]])[:20]:
             print(f"  {types[v]:5d}  {S.hx(v):24s}  ~{S.best_sense(gl[h])}")

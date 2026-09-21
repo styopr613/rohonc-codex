@@ -6,16 +6,16 @@ K&T's own 'var.' marks reach 88 unread types, 356 tokens (5.3% of unread, 1.2% o
 
 BAR A -- do K&T's declared variants sit where their headword sits?
   declared variants tested                    23
-  closer to headword than to stand-in          56.5%
-  same test, stand-ins on both sides           39.4%  (sd 9.77)
-  sigma 1.8
+  closer to headword than to stand-in          60.9%
+  same test, stand-ins on both sides           37.9%  (sd 8.70)
+  sigma 2.6
   BAR: win >= 60% and sigma >= 5.0  ->  FAIL
 
 BAR B -- do undeclared one-glyph neighbours sit where the defined code sits?
   unread codes with 3+ occurrences            408
   one glyph from exactly one defined code     98  (926 tokens, 13.8% of unread, 3.1% of the book)
-  closer to neighbour than to stand-in         57.1%
-  same test, stand-ins on both sides           33.9%  (sd 4.85)
+  closer to neighbour than to stand-in         53.1%
+  same test, stand-ins on both sides           34.7%  (sd 3.83)
   sigma 4.8
   BAR A failed: the instrument cannot see variants; B is NOT a result.
   BAR: win >= 60% and sigma >= 5.0  ->  FAIL
@@ -24,9 +24,8 @@ BAR B -- do undeclared one-glyph neighbours sit where the defined code sits?
 WHAT IS READ
 ==========================================================================
   K&T's declared variants (theirs, no test)      88 types    356 tokens
-  K&T's variants stated as a rule (theirs)       44 types    238 tokens
   inferred one-glyph variants                     0 types      0 tokens  (gate failed)
-  book coverage   77.6%  ->   79.5%
+  book coverage   77.6%  ->   78.8%
 
       n  code                      read as
      76  e540 e060 e540 eae0       man   [K&T var.]
@@ -35,23 +34,9 @@ WHAT IS READ
      21  e771                      pass   [K&T var.]
      19  e470 e962                 rich   [K&T var.]
      13  e520 eae0                 exist   [K&T var.]
-     11  e990 e990 e9b3            have   [K&T var.]
-     10  eb52                      after   [K&T var.]
+     11  e990 e990 e9b3            must   [K&T var.]
+     10  eb52                      until   [K&T var.]
       9  e060 e371                 boy   [K&T var.]
       8  e991 eae1                 a)   [K&T var.]
       8  ea91                      begin   [K&T var.]
       7  e520 eb7c                 ask (for)   [K&T var.]
-     35  e520 eae0 e850 e270 eae0  act   [K&T var. by rule]
-     23  e3c4                      sin   [K&T var. by rule]
-     23  e540 eae0 e520 e250       emperor   [K&T var. by rule]
-     17  e670 eb06                 birth   [K&T var. by rule]
-     11  e00b e520 eae0 e520 eae0  beg   [K&T var. by rule]
-     10  e812 e670 eae0 e520 eae0  land   [K&T var. by rule]
-      9  e00b e670 eae0 e520 eae0  beg   [K&T var. by rule]
-      8  e271 e670 eae0 e271 e670 eae0  army   [K&T var. by rule]
-      8  e681 eae0 e520 e250       emperor   [K&T var. by rule]
-      7  e520 eae0 e520 eae0 ea10 e1f6  body   [K&T var. by rule]
-      7  e670 eae0 e520 e850       exorcise   [K&T var. by rule]
-      7  e6e4 e624                 Golgotha   [K&T var. by rule]
-      6  e520 e6e4 e624            Golgotha   [K&T var. by rule]
-      5  e520 eae0 e670 eae0       friend   [K&T var. by rule]
