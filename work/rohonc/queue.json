@@ -775,6 +775,14 @@
   "state": "pass",
   "why": "084v/099v slot open"
  },
+ "5207a2520b48": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "5207b5": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "520835": {
   "state": "pass",
   "why": "'[x] three soul' x2 on the descent into hell, slot open"
@@ -786,6 +794,10 @@
  "5208a8": {
   "state": "pass",
   "why": "identical formula 141r/198v after 'have mercy', slot open"
+ },
+ "5208f1": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "520950969": {
   "state": "pass",
@@ -806,6 +818,14 @@
  "5209aa520060": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
+ "5209c7670": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "5209d0850520": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "520ac3ae01f2": {
   "state": "pass",
@@ -851,9 +871,21 @@
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
+ "540151": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "540429": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "5405200602b1": {
   "state": "pass",
   "why": "144v-145v 'grab bread and [x]', no source, slot open"
+ },
+ "54060aae1": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "540613663": {
   "state": "pass",
@@ -870,6 +902,10 @@
  "54096a6352f0": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
+ },
+ "5409c81f6": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "546": {
   "state": "pass",
@@ -905,7 +941,15 @@
  },
  "571130": {
   "state": "pass",
-  "why": "039v/042r no source"
+  "why": "See 571ae0: the same root in the same formula at 039v:11 and 042r:1, and the same unresolved conflict."
+ },
+ "571ae0": {
+  "state": "pass",
+  "why": "One of three signs sharing the root 571 that stand in an IDENTICAL FORMULA -- 'food bread every people on-Lord [x]' at 038v:8, 039v:11 and 041v:4, with a fourth at 042r:1. K&T's entry for 'bread' names three of those exact lines (038v08, 039v11, 041v04, 041v12) in its variant list. So their bread-variant is on these lines, but this project already renders a DIFFERENT sign as 'bread' in the same lines, which means either that reading is wrong or the codex says bread twice. The formula is proved; the word is not assigned until that conflict is resolved."
+ },
+ "571ae1": {
+  "state": "pass",
+  "why": "See 571ae0: the same root in the same formula at 041v:4, and the same unresolved conflict with this project's own 'bread'."
  },
  "578": {
   "state": "pass",
@@ -930,6 +974,10 @@
  "5d12e2": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
+ },
+ "5d25d2": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "5d7a10": {
   "state": "pass",
@@ -963,6 +1011,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
+ "630286": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "6305201d9": {
   "state": "pass",
   "why": "033r/033v slot open"
@@ -975,6 +1027,10 @@
   "state": "pass",
   "why": "020v/025v beside donkey and hay, but K&T already read 'ox' (540060ae06c3)"
  },
+ "630555540060": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "6305e0": {
   "state": "pass",
   "why": "same formula 020v:13/025v:11 'from [x] to go another', slot open"
@@ -982,6 +1038,10 @@
  "630670362ae0": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
+ },
+ "6306b8": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "630a100600608f37a0060060253540": {
   "state": "pass",
@@ -1011,6 +1071,10 @@
   "state": "pass",
   "why": "099r 1 John 4 slot open"
  },
+ "670ae0670ae01f6034043": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "69b": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
@@ -1027,6 +1091,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "6e4": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "6e5520": {
   "state": "pass",
   "why": "038r/041v slot open"
@@ -1038,6 +1106,10 @@
  "70e": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
+ },
+ "719004001270": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "723": {
   "state": "pass",
@@ -1058,6 +1130,10 @@
  "75a": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
+ "780": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "7a006077f": {
   "state": "pass",
@@ -1135,6 +1211,22 @@
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
+ "8b0": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "8b5": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "8c1690": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "8d2": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "8dd": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
@@ -1162,6 +1254,10 @@
  "965520910": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
+ },
+ "969990": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "981670ae0": {
   "state": "pass",
@@ -1203,6 +1299,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
+ "a10520060950102520": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "a105202e6": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
@@ -1235,6 +1335,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "a10a10140": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "a113b1": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
@@ -1255,6 +1359,18 @@
   "state": "pass",
   "why": "single glyph, two unrelated slots"
  },
+ "a55": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "a58670": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "a61670": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
  "a63": {
   "state": "pass",
   "why": "single glyph after 'son' x2; 'young' is the free word (Luke 7:14) but a one-glyph noun is unlikely"
@@ -1274,6 +1390,14 @@
  "aac": {
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
+ "ab7": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
+ },
+ "afa060812080034097": {
+  "state": "pass",
+  "why": "K&T cite this folio line in one of their entries, but the word their entry names is ALREADY rendered elsewhere in the same line, so their citation does not reach this hole. Checked in the citation pass of ktdark.py and left dark."
  },
  "b15": {
   "state": "pass",
