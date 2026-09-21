@@ -655,7 +655,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
 
 
 === 028v ===
- 1  then-exist °he_ascended °into_heaven one mount two somebody and two somebody
+ 1  then-exist °among °one_another one mount two somebody and two somebody
  2  +exorcise six-?hundred and six-?thousand and six-ten and six hell evil
  3  and two somebody healing ~do, +fourteen can show
  4  Lord-Jézus then +cross-wound then-exist leave to-<preposition_of_genitive>-Lord father-<suffix_of_divine_name> | on
@@ -1446,7 +1446,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
  1  two-apostle °drew_near Lord-Jézus and two-apostle (begin_to)_talk and
  2  Lord from-speak +and_then Lord-Jézus oh <preposition_of_genitive>-Lord
  3  two-apostle ~brother say two-apostle Lord how? say ~among
- 4  °into_heaven have two-apostle because say exist Lord-Jézus-Christ
+ 4  °one_another have two-apostle because say exist Lord-Jézus-Christ
  5  apostle ?that two somebody from-Lord speak this-Lord two
  6  Lord apostle +three Lord +and_then Luke this °named
  7  way somebody this Lord this good ?remain °sad
@@ -2631,7 +2631,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
  6  [?]-[?]-Mary-Jézus-God-Christ-angel-+the_lost_sheep
  7  speak +Saint_[a_church_father] church_father | holy
  8  Anne_(mother_of_the_Virgin_Mary) this Anne_(mother_of_the_Virgin_Mary) be_born
- 9  °for_ever °and_ever °for_ever +<subject_marker>
+ 9  °for_ever °and °for_ever +<subject_marker>
 10  to-have_mercy commandment go on-each,_every the_whole_wide_world
 
 
@@ -3060,7 +3060,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
 
 === 120r ===
  1  Eve joy a) on-food nine drachma +law end
- 2  this holy-gospel then-exist-Lord °telleth Lord-Jézus °healeth sufferer
+ 2  this holy-gospel then-exist-Lord °telleth Lord-Jézus °until sufferer
  3  gospel say Lord-Jézus apostle <preposition_of_genitive>-Lord and Jew(ish) people this-Lord
  4  one Lord this +sheep/a_female_person because to-Lord this-Lord | +abandon
  5  Lord nine order angel inside +heaven land
@@ -4621,7 +4621,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
  1  win emperor on-fight because lose to-of_an_alien_nation,_pagan
  2  emperor and then-exist two leave this to-of_an_alien_nation,_pagan emperor
  3  this Roman emperor and then-exist-two do_battle | on-chapter-+one
- 4  inside-to-Lord-two ~and to-of_an_alien_nation,_pagan people °fought people among °into_heaven
+ 4  inside-to-Lord-two ~and to-of_an_alien_nation,_pagan people °fought people among °one_another
  5  die in_turn Jew(ish) people and to-of_an_alien_nation,_pagan +<subject_marker> to-many °the_bridge and
  6  then-exist people to-of_an_alien_nation,_pagan die and begin +pierce °overcame
  7  °baptized on-to-of_an_alien_nation,_pagan earth and then-exist go Heraclius_<Byzantine_emperor>
@@ -4881,7 +4881,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
  6  +one-sin ~exist-this recovery end this holy-gospel
  7  write holy-Matthew inside and chapter holy-Paul speak say | Lord
  8  Jézus-Christ ?from ~begin-to ?world ?from ~Adam create | to
- 9  °healeth ~be_born Lord-Jézus-Christ on-this world °then
+ 9  °until ~be_born Lord-Jézus-Christ on-this world °then
 
 
 === 195r ===
@@ -5026,7 +5026,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
  4  ?say +and_then-+say +this_is son from °the_heir
  5  +<subject_marker> +vineyard [?]-~son °cast_him_out and this
  6  son exist +vineyard carry +and_then-+say go-die
- 7  +say and °sent_saying to-Lord and son die-+say and
+ 7  +say and °sent to-Lord and son die-+say and
  8  then-exist exist ?from_town_to_town °killed_him and Jew(ish) ~head
  9  how? ?he_said speak Lord-Jézus and +three say Lord-Jézus parable
 

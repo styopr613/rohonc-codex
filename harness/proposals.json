@@ -912,7 +912,7 @@
   "tier": "A"
  },
  "1f2": {
-  "evidence": "044v:9 '[x] from SEAT' and 067r:3; John 19:13, Pilate sat down in the judgment seat.",
+  "evidence": "044v:9 and 067r:3. At 044v:9 the reading is good: the lines run 'the soldier ... gave blows to the Lord Jesus, and ___ from the judgment seat, the Lord Jesus', which is John 19:3 followed by John 19:13, 'Pilate sat down in the judgment seat'. At 067r:3 it is weak -- 'believe that this Lord ___ the righteous Son of the living God', Matthew 16:16, where the slot wants a copula rather than SAT. Worth recording against a later pass: this glyph ends three words that all name a person or a group -- K&T's Joseph 286a106026701f2, their table company 520ac3ae01f2, and the unread 670b306701f2 which begins with their word for the Evil -- so it may be a suffix making a noun of a person, in which case neither line has it as a verb. Not enough to act on. One line reads, one does not.",
   "gloss": "sat",
   "n": 2,
   "tier": "G"
@@ -1002,8 +1002,8 @@
   "tier": "G"
  },
  "216": {
-  "evidence": "028v:1; the folio note says the last line is the creed, he ascended into heaven.",
-  "gloss": "he_ascended",
+  "evidence": "028v:1, its only occurrence, standing immediately before 3a1. In the two other places 3a1 occurs it is immediately preceded by a word for AMONG -- K&T's 6a0ae0 at 184r:4 and their variant 5fb at the end of 060r:3 -- so the slot in front of it is an among slot, and this is what stands in it here. The line then reads 'then, among one another, on one mount, two persons and two persons'. It was read here as 'he ascended', on the strength of the folio note saying the creed is on the last line of 028v. The creed is there: lines 4 and 5 read 'leave, to the Lord Father God, heaven, land, sitteth, from the Father God, God, on the right side'. This is line 1, and the note was being applied to the wrong line.",
+  "gloss": "among",
   "n": 1,
   "tier": "G"
  },
@@ -1554,8 +1554,8 @@
   "tier": "G"
  },
  "3a1": {
-  "evidence": "028v:1, 060r:4 and 184r:4; the creed clause the folio note names.",
-  "gloss": "into_heaven",
+  "evidence": "028v:1, 060r:4 and 184r:4. In two of the three the word immediately before it is a word for AMONG: 6a0ae0, K&T's own, at 184r:4, and 5fb, their variant of it, at the end of 060r:3 with this word opening 060r:4. 'Among ___' wants a reciprocal, and both passages supply the same one. 060r cites Luke 24:17, 'What are these discourses that you hold ONE WITH ANOTHER as you walk?', and the line before reads 'two apostles, brother, say, two apostles, the Lord, how say, among'. 184r is the Golden Legend's single combat between Heraclius and Chosroes' son, which the codex tells as the two leaving the armies to fight: 'the pagan people fought, people among ___'. It was read here as 'into heaven', from the folio note for 028v, which says the creed is on the LAST line; the creed is on lines 4 and 5 of that folio and this is line 1, so the note was being read against the wrong line.",
+  "gloss": "one_another",
   "n": 3,
   "tier": "G"
  },
@@ -1932,8 +1932,8 @@
   "tier": "A"
  },
  "4a79b84b0": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: 67% covered, in order, by K&T's 4a7 'carry; send; send forward' and their 4b0 'say'. 200v:7 '[x] to-Lord and son die-say' on the folio citing Matthew 21:37: 'last of all he SENT to them his son, SAYING: they will reverence my son'. One occurrence.",
-  "gloss": "sent_saying",
+  "evidence": "200v:7, on the folio citing Matthew 21:37, 'And last of all he sent to them his son, saying: They will reverence my son.' The line reads 'say and ___ to the Lord and the son die-say and'. The gloss was 'sent saying', which put SAY in the slot twice -- say already stands on either side of it. Cut back to SENT, which is the part of the verse the slot needs. One occurrence, so still a guess.",
+  "gloss": "sent",
   "n": 1,
   "tier": "G"
  },
@@ -3942,8 +3942,8 @@
   "tier": "A"
  },
  "52084e": {
-  "evidence": "103v:9, between the two.",
-  "gloss": "and_ever",
+  "evidence": "103v:9, and the whole line is four tokens: 520967540, this, 520967540, subject marker. The same word on both sides of it, so this is the link between them, and the formula is the doxology -- in saecula saeculorum, 'for ever and ever'. Read that way the line says 'for ever AND for ever'. It was read here as 'and ever', which made three English words out of two Rohonc ones and put the ever in twice. The glyph 84e occurs nowhere else in the book.",
+  "gloss": "and",
   "n": 1,
   "tier": "G"
  },
@@ -4608,7 +4608,7 @@
   "tier": "G"
  },
  "537961": {
-  "evidence": "101r:4 and 133v:7, both beside ELIJAH; 1 Kings 19:4, 'he requested for his soul that he might die'. The sign holds K&T's 796 'die'.",
+  "evidence": "101r:4 and 133v:7, both beside Elijah, and both beside a detail from the same chapter. 1 Kings 19:4-6: Elijah went a day's journey into the desert, sat down under a JUNIPER tree, and requested for his soul that he might DIE; then an angel showed him a HEARTH CAKE baked upon coals. The word after this sign is 'juniper' at 101r:4 and 'a cake' at 133v:7. Two occurrences, the same book of the Bible, the two objects of the same scene. Corrected note: an earlier version of this evidence said the sign holds K&T's 796 'die'. It does not -- the sign is 537 961 and neither glyph is theirs. The reading rests on the juniper and the cake, not on a part of the sign.",
   "gloss": "wished_to_die",
   "n": 2,
   "tier": "G"
@@ -6060,7 +6060,7 @@
   "tier": "D"
  },
  "5f0": {
-  "evidence": "089r:5, 089v:12, 090v:1, on the folios citing Luke 16:21: 'desiring to be filled with the CRUMBS that FELL FROM the rich man's TABLE'. CORRECTION: first guessed 'table', which was wrong -- the sense-fitting pass then rendered the neighbouring sign as table and the line said it twice. Caught by reading the finished page.",
+  "evidence": "089r:5, 089v:12 and 090v:1, all in Dives and Lazarus. The reading comes from Luke 16:21, 'desiring to be filled with the crumbs that FELL FROM the rich man's table', and at 089r:5 and 089v:12 it sits exactly there: 'from the rich man's table ___ the poor man took', 'the dogs ... the rich man's table ... ___ Lazarus took'. It does NOT fit the third. 090v:1-2 is Luke 16:31, 'neither will they believe, if one rise again from the dead', and reads 'the prophets preach, believe ___ | neither, good Lazarus'. A negative would fit there and nothing that fits there fits the other two. Recorded rather than patched: two occurrences read and one does not, and no single word was found that reads all three.",
   "gloss": "fell_from",
   "n": 3,
   "tier": "G"
@@ -10621,8 +10621,8 @@
   "tier": "G"
  },
  "b52011": {
-  "evidence": "120r:2 'the Lord Jesus [x] SUFFERER' and 194v:9; 194v cites Matthew 9:12, 'They that are in health need not a physician, but they that are ill'.",
-  "gloss": "healeth",
+  "evidence": "120r:2 and 194v:9. The decisive line is 194v:8-9, which runs 'Jesus Christ, from the beginning of the world, from the creation of Adam, ___ the birth of the Lord Jesus Christ into this world, then' -- and 195r:1 follows with a list of the righteous. From the creation UNTIL the birth is the shape of the sentence, and b52 is K&T's own 'until, after'. The rest of the sign, 011, is the piece in their place words: 520b52011 is read here 'from town to town' and a10b52011 and a10520347011 are both 'stay'. At 120r:2, 'the Lord Jesus ___ the sufferer', the same word carries the other half of its sense, as far as or up to. It was read here as 'healeth', from Matthew 9:12 on the 194v folio note; that guess was made when the word after it was read 'sinners', and both have now been overturned by K&T's own apparatus.",
+  "gloss": "until",
   "n": 2,
   "tier": "G"
  },

@@ -84,6 +84,9 @@ import kttranslate as T
 
 OURS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")
 TIERS = ("A", "B", "C", "D")
+# --guesses runs the same flags over the bracketed readings instead.
+if "--guesses" in sys.argv:
+    TIERS = ("G",)
 NEAR = 3
 BLAST_GLYPHS = 3
 BLAST_TYPES = 10
