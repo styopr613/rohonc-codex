@@ -1,9 +1,9 @@
 {
  "001": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: 083v:1 is the sun analogy for the Trinity and the line enumerates: 'good [x] ... the light, IN TURN TWO ... good, the warmth, THIRD'. Two and three are read on the same line in the same construction; the slot is one. One occurrence.",
+  "evidence": "083v:1 is the sun analogy for the Trinity and the line enumerates: 'good [x] ... the light, IN TURN TWO ... good, the warmth, THIRD'. Two and three are read on the same line in the same construction; the slot is one. One occurrence.",
   "gloss": "first",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "001a37a10": {
   "evidence": "025v:8, the same hay-and-donkey formula as 020v:10.",
@@ -18,10 +18,10 @@
   "tier": "B"
  },
  "00b": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: the shared root of the two words above, both now read as. Closes ten further words built on it DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "the shared root of the two words above, both now read as. Closes ten further words built on it DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "as",
   "n": 15,
-  "tier": "G"
+  "tier": "D"
  },
  "00b520ae0520ae0": {
   "evidence": "CORRECTION: read here as apart until 2026-09-20. At 204r:3 and 205r:5 it is the as of forgive us our debts as we forgive our debtors, the Our Father, which apart cannot be",
@@ -474,10 +474,10 @@
   "tier": "C"
  },
  "060b37": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: It is the tail of this project's own a10003a10060060b37 'man'. 101r:6 'somebody [x] from the day of Noah, Elijah, sword carry' reads with it. KT-chained, one occurrence.",
+  "evidence": "It is the tail of this project's own a10003a10060060b37 'man'. 101r:6 'somebody [x] from the day of Noah, Elijah, sword carry' reads with it. KT-chained, one occurrence.",
   "gloss": "man",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "063b30": {
   "evidence": "103v:5.",
@@ -726,10 +726,10 @@
   "tier": "G"
  },
  "151240796270754": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: 60% covered, in order, by Kiraly & Tokai's own 'dead; death; die' + 'Lord' + 'Christ'. 149r:6 'evil on begin through [x] and' is the folio of Longinus and the piercing of Christ's side. A run-together phrase whose parts are theirs; one occurrence.",
+  "evidence": "60% covered, in order, by Kiraly & Tokai's own 'dead; death; die' + 'Lord' + 'Christ'. 149r:6 'evil on begin through [x] and' is the folio of Longinus and the piercing of Christ's side. A run-together phrase whose parts are theirs; one occurrence.",
   "gloss": "the_death_of_the_Lord_Christ",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "1515201c2270540": {
   "evidence": "Found by ktinside.py --rev: a sign K&T already read, sitting whole inside this one. It is 5201c2270540, read as 'sun' on the strength of K&T's own sun compound, with 151 in front. 076r:9: 'ask, have mercy on somebody, took [x], go'.",
@@ -894,10 +894,10 @@
   "tier": "G"
  },
  "1d2670592": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Holds K&T's 670592 'manager; steward'. 169r:3 'in turn [x] took this of-the-steward, the rich lord' on the folio citing Luke 16:8, 'the lord commended the UNJUST steward, forasmuch as he had done wisely'. 'unjust' is free in the passage. One occurrence.",
+  "evidence": "Holds K&T's 670592 'manager; steward'. 169r:3 'in turn [x] took this of-the-steward, the rich lord' on the folio citing Luke 16:8, 'the lord commended the UNJUST steward, forasmuch as he had done wisely'. 'unjust' is free in the passage. One occurrence.",
   "gloss": "unjust_steward",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "1e0990": {
   "evidence": "their cup or jar entry lists 1e0990 at 063r01 and 02 (2x)",
@@ -1200,10 +1200,10 @@
   "tier": "G"
  },
  "275670b30670": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Holds Kiraly & Tokai's own 670b30670 'bad thing; demon; devil; the Evil' entire, with one glyph before it. 214r:7 stands on the folio citing John 8:48: 'Do not we say well that thou art a Samaritan, and hast a devil?' One occurrence; the root is theirs, the inflection is the judgment.",
+  "evidence": "Holds Kiraly & Tokai's own 670b30670 'bad thing; demon; devil; the Evil' entire, with one glyph before it. 214r:7 stands on the folio citing John 8:48: 'Do not we say well that thou art a Samaritan, and hast a devil?' One occurrence; the root is theirs, the inflection is the judgment.",
   "gloss": "hath_a_devil",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "279782ae0": {
   "evidence": "049r:6 'to Mary Magdalene [x] and say'; Mark 16:9, he appeared first to Mary Magdalene.",
@@ -1242,10 +1242,10 @@
   "tier": "A"
  },
  "2857c14f6215": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: 75% covered by read pieces ending in K&T's 4f6 'forgive; grace; have mercy; mercy'. 134v:5 is on the folio citing Matthew 18:23-27, where the lord of that servant, moved with pity, let him go and FORGAVE him the debt. The pieces are read; the whole phrase is the judgment. One occurrence.",
+  "evidence": "75% covered by read pieces ending in K&T's 4f6 'forgive; grace; have mercy; mercy'. 134v:5 is on the folio citing Matthew 18:23-27, where the lord of that servant, moved with pity, let him go and FORGAVE him the debt. The pieces are read; the whole phrase is the judgment. One occurrence.",
   "gloss": "forgave_the_debt",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "286850": {
   "evidence": "077r:10; Matthew 18:20, 'where there are two or three gathered together in my name'.",
@@ -1428,10 +1428,10 @@
   "tier": "G"
  },
  "331": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Found by ktinside.py. Tail of K&T's 520331 'where'. 182r:5: '[x] the Lord God, the Lord Jesus, supper, made, time'. Douay Mark 14:14: 'WHERE is my refectory, where I may eat the pasch with my disciples?' DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "Found by ktinside.py. Tail of K&T's 520331 'where'. 182r:5: '[x] the Lord God, the Lord Jesus, supper, made, time'. Douay Mark 14:14: 'WHERE is my refectory, where I may eat the pasch with my disciples?' DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "where",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "343": {
   "evidence": "057v:8, 066r:7 and 151v:8; a negative particle fits all three slots and nothing narrower does.",
@@ -1674,10 +1674,10 @@
   "tier": "A"
  },
  "431270": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: One glyph from K&T's 431a10 'speak; talk', with their 270 'Lord' in place of the a10. 071v:4 'Master [x] and the Lord, the Jews, die, and you' on the folio citing John 16:2. KT-anchored; one occurrence.",
+  "evidence": "One glyph from K&T's 431a10 'speak; talk', with their 270 'Lord' in place of the a10. 071v:4 'Master [x] and the Lord, the Jews, die, and you' on the folio citing John 16:2. KT-anchored; one occurrence.",
   "gloss": "spoke",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "432670": {
   "evidence": "K&T's chapter is 670; this is 432 + 670 and stands after a numeral both times: 088v:3 'six [chapter] written', 092v:7 '14 [chapter] in'. The codex's chapter citations elsewhere are 'holy Matthew, in the Nth chapter'. Read as chapter under whatever 432 marks (an ordinal or case ending); 432 itself is not read.",
@@ -1836,10 +1836,10 @@
   "tier": "G"
  },
  "4a0": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: a piece of 4a04a04a4 and 4a24a04a4, both already read as and then DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "a piece of 4a04a04a4 and 4a24a04a4, both already read as and then DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "and then",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "4a04a04a4": {
   "evidence": "one glyph from 4a24a04a4, the 334-occurrence narrative connective, and it stands in the same clause-initial slot: 'one God, [and then] God, the angel, Elijah the prophet' 002v:6",
@@ -1848,10 +1848,10 @@
   "tier": "B"
  },
  "4a2": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: a piece of 4a24a04a4 already read as and then DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "a piece of 4a24a04a4 already read as and then DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "and then",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "4a24a04a4": {
   "evidence": "clause-initial narrative connective, one glyph from K&T's 'and'; before a subject or a speech verb 334 times. Could equally be a quotative 'said'",
@@ -1938,10 +1938,10 @@
   "tier": "A"
  },
  "4a79b84b0": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: 67% covered, in order, by K&T's 4a7 'carry; send; send forward' and their 4b0 'say'. 200v:7 '[x] to-Lord and son die-say' on the folio citing Matthew 21:37: 'last of all he SENT to them his son, SAYING: they will reverence my son'. One occurrence.",
+  "evidence": "67% covered, in order, by K&T's 4a7 'carry; send; send forward' and their 4b0 'say'. 200v:7 '[x] to-Lord and son die-say' on the folio citing Matthew 21:37: 'last of all he SENT to them his son, SAYING: they will reverence my son'. One occurrence.",
   "gloss": "sent_saying",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "4a80f15207a0": {
   "evidence": "their Noah entry lists '? 4a80f15207a0 061r10'. Their question mark",
@@ -2106,10 +2106,10 @@
   "tier": "G"
  },
  "520060007": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: read from its line alone: at 016v:1 Anne divides all their wealth into three of them, and the next line takes one of them, which is Joachim and Anne dividing their goods in the Protevangelium",
+  "evidence": "read from its line alone: at 016v:1 Anne divides all their wealth into three of them, and the next line takes one of them, which is Joachim and Anne dividing their goods in the Protevangelium",
   "gloss": "part",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "520060023060520060060520ae08c0": {
   "evidence": "Found by ktinside.py --rev: a sign K&T already read, sitting whole inside this one. It holds K&T's 060520ae0 'donkey'. 062r:3: 'of the father, [x], and went far' -- Douay Genesis 22:3: 'Abraham rising up in the night, saddled his ASS: and took with him two young men, and Isaac his son: and... he went to the place '. The folio names Abraham two lines above.",
@@ -2220,10 +2220,10 @@
   "tier": "G"
  },
  "5200601d5": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Luke 10:23 'blessed are the eyes which see [those things which] ye see', at 104v:8 where the folio cites Luke chapter ten and every other word of the verse is read. One occurrence, nothing to check it against",
+  "evidence": "Luke 10:23 'blessed are the eyes which see [those things which] ye see', at 104v:8 where the folio cites Luke chapter ten and every other word of the verse is read. One occurrence, nothing to check it against",
   "gloss": "those things which",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "5200601f5af5": {
   "evidence": "144r:8 'Mary and then [x] this IMAGE virgin'.",
@@ -2970,10 +2970,10 @@
   "tier": "G"
  },
  "5202705205a1461": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It ends with K&T's 461 'cross' and holds 270 'Lord'. 048r:6: 'to love this people, [x], afterward, the people'. The folio is the way to Calvary. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It ends with K&T's 461 'cross' and holds 270 'Lord'. 048r:6: 'to love this people, [x], afterward, the people'. The folio is the way to Calvary. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "cross",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "5202707a1": {
   "evidence": "143r:7.",
@@ -3522,10 +3522,10 @@
   "tier": "A"
  },
  "5204b0520ae05ec": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Found by ktcover.py. It holds K&T's 4b0 'say'. 107r:4: 'the Samaritan, and then this, the Jews, [x]'. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "Found by ktcover.py. It holds K&T's 4b0 'say'. 107r:4: 'the Samaritan, and then this, the Jews, [x]'. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "say",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "5204b4": {
   "evidence": "048r:10 'people chapter go on Egypt [x] living servant'; the Improperia, 'I led thee out of the land of Egypt'.",
@@ -5796,10 +5796,10 @@
   "tier": "B"
  },
  "588": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: one occurrence, at the end of 108r:6, closing a city that is set on an hill cannot be HID, Matthew 5:14. Read against the source passage the page names, not from the line alone DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "one occurrence, at the end of 108r:6, closing a city that is set on an hill cannot be HID, Matthew 5:14. Read against the source passage the page names, not from the line alone DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "hid",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "593": {
   "evidence": "046r:4 '[x] say the Lord Jesus to Pilate'; John 19:14, 'Behold your king'.",
@@ -6504,10 +6504,10 @@
   "tier": "G"
  },
  "6307963c4962": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Found by ktcover.py. It holds K&T's 796 'dead; death; die; kill' and 3c4 'sin' one after the other. 001r:7: 'Elijah, and this [x], afterward, Lucifer'. The two elements together are the deadly sin, which is what the opening folios are about. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "Found by ktcover.py. It holds K&T's 796 'dead; death; die; kill' and 3c4 'sin' one after the other. 001r:7: 'Elijah, and this [x], afterward, Lucifer'. The two elements together are the deadly sin, which is what the opening folios are about. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "deadly_sin",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "6307966370b0": {
   "evidence": "Two different resurrection verses on two folios, and both require the same word. 055v:6 reads 'crucified, risen, [seek], a) the three Marys went' -- Douay Mark 16:6: 'you SEEK Jesus of Nazareth, who was crucified. He is risen'. 056r:4 reads 'Jesus crucified, risen, [seek], because' -- Douay John 20:15: 'Woman, why weepest thou? Whom SEEKEST thou?' The two folios cite those two verses independently and seek is the only content word both share that no sign carries. K&T's want and ask(for) are different Hungarian words from seek, so this is not a synonym of a sign already read. Neither occurrence can check the other, so tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
@@ -9108,10 +9108,10 @@
   "tier": "A"
  },
  "991": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: the root of 991910 and 991ae0910, both already read as but rather; at 078r:5 it opens rather false witness DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "the root of 991910 and 991ae0910, both already read as but rather; at 078r:5 it opens rather false witness DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "but rather",
   "n": 11,
-  "tier": "G"
+  "tier": "D"
  },
  "991910": {
   "evidence": "the girl is not dead but sleepeth at 171v:8 (Mark 5:39) and they that are whole need no physician but they that are sick at 194v:5 (Mark 2:17). Same reading as 991ae0910 already read",
@@ -9264,10 +9264,10 @@
   "tier": "B"
  },
  "9d9": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Found by ktinside.py. Tail of K&T's a109d9 'extort; extorter'. 175r:1: 'the servant, the rich lord had this, and from [x], the servant'. The folio is the unforgiving servant of Matthew 18:28 -- Douay: 'he laid hands on him and throttled him, saying: Pay what thou owest' -- which is the extortion the compound names. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "Found by ktinside.py. Tail of K&T's a109d9 'extort; extorter'. 175r:1: 'the servant, the rich lord had this, and from [x], the servant'. The folio is the unforgiving servant of Matthew 18:28 -- Douay: 'he laid hands on him and throttled him, saying: Pay what thou owest' -- which is the extortion the compound names. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "extort",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "9e1": {
   "evidence": "223v:5.",
@@ -9877,10 +9877,10 @@
   "tier": "G"
  },
  "a109d31f27a0ae0": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Found by ktcover.py. It holds K&T's 9d3 'father; forefather'. 141v:7: 'inside Rome, [x]'. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "Found by ktcover.py. It holds K&T's 9d3 'father; forefather'. 141v:7: 'inside Rome, [x]'. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "father",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "a10a10140": {
   "evidence": "080v:3, on the folio citing Acts 1:14, 'All these were persevering with one mind in prayer'.",
@@ -10327,10 +10327,10 @@
   "tier": "G"
  },
  "aa6060": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Luke 19:45, 'and he cast out them that sold therein', at 110v:4 where the Lord finds in the temple this word and then K&T's money changer. One occurrence, read from the line against the source, nothing to check it against",
+  "evidence": "Luke 19:45, 'and he cast out them that sold therein', at 110v:4 where the Lord finds in the temple this word and then K&T's money changer. One occurrence, read from the line against the source, nothing to check it against",
   "gloss": "them that sold",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "aa9": {
   "evidence": "084v:9, the subject of the whole folio.",
@@ -10495,10 +10495,10 @@
   "tier": "G"
  },
  "ae1b13": {
-  "evidence": "MOVED FROM TIER D TO TIER G on 2026-09-21, at the owner's instruction, because it occurs ONCE and a reading of one line with nothing to check it against is a guess. Tier D and tier G were the same thing wearing different marks: D printed '?' and counted toward lines read, G printed in brackets and never counted, while both were a single line read against its own sense. The blindfold test (ktblind.py, seed 1789991853) measured that judgment step at 7 of 25 and the consequence belongs to this class too. METHOD.md already said it -- 'never let D or C inflate what has been checked' -- and the page was doing exactly that. It now reads as the guess it is. Prior tier D evidence: Luke 10:35 'when I come [again], I will repay thee' at 107r:1, where K&T themselves cite the line for 'return' and 'give back' and every other word is read. One occurrence, nothing to check it against",
+  "evidence": "Luke 10:35 'when I come [again], I will repay thee' at 107r:1, where K&T themselves cite the line for 'return' and 'give back' and every other word is read. One occurrence, nothing to check it against",
   "gloss": "again",
   "n": 1,
-  "tier": "G"
+  "tier": "D"
  },
  "af9670": {
   "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of a10af9670, which this project already reads as 'redeem' (tier A). 117v:3: '[x] and the Pharisee, have mercy on the Pharisees, and truly the Pharisees are'.",
