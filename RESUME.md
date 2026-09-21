@@ -1,5 +1,25 @@
 # Where this stopped — 2026-09-21
 
+## THE PUBLIC SITE IS OFF THE AIR UNTIL THE BOOK IS DONE
+
+oona13.com/rohonc/ is behind the magic-link gate as of 2026-09-21. Signed in,
+it works exactly as before. Signed out, every path under /rohonc goes to the
+oona13 home page — not to the sign-in page, because a login screen on a path
+meant to be dark still tells a stranger something is there. Nothing was
+deleted; all 13 pages and 4.2M of data are on disk at /var/www/oona13/rohonc.
+
+Every redirect in that block is **302, not 301**, on purpose: this is going
+back up, and a permanent redirect is cached by browsers and by Google and is
+painful to undo. The bare-path redirect used to be `permanent` and was changed.
+
+**To go live, when the book is done:** in the `@o13rohonc` block of
+/etc/caddy/Caddyfile delete the `forward_auth` block and the `no-store`
+header, put `redir @rhbare /rohonc/ permanent` back, then
+`sudo caddy validate --config /etc/caddy/Caddyfile` and
+`sudo systemctl restart caddy` — **restart, not reload**, because the admin
+endpoint is off. The public version of the block is kept whole at
+/etc/caddy/Caddyfile.pre-rohonc-offline-20260921.
+
 ## BOOK ONE IS FINISHED
 
 All ten parts are written, `ktretellcheck.py` passes at its bar of zero, and
