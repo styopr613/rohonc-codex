@@ -5243,5 +5243,47 @@
   "tier": "C",
   "n": 1,
   "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 670060ae0, read in this project as 'chapter'. 066r:3 is a citation line. Occurrence(s): 066r:3 '[?] out(ward)-year somebody <<[x]>> <preposition_of_genitive>-Lord father-<suffix_of_divine_nam'"
+ },
+ "5400609a2670890": {
+  "gloss": "little",
+  "tier": "B",
+  "n": 2,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 5400609a2670690 'a little while; little' and from two further forms of the same word this project reads as 'little'. Four spellings of one word, differing only in the ending the codex puts on it. Occurrence(s): 071v:7 '<<[x]>> how? then-exist one baptize head'; 183v:3 '<<[x]>> +an_army have Heraclius_<Byzantine_emperor> +emperor'"
+ },
+ "5201c38c1": {
+  "gloss": "know",
+  "tier": "C",
+  "n": 3,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 5200608c1, which this project already reads as 'know' (tier B). Occurrence(s): 147r:7 '<<[x]>> +and_then virgin-Mary go-+Lady to-?again king'; 147r:8 'and king grab +Lady this <<[x]>> and ?brethren'"
+ },
+ "a10213ae0": {
+  "gloss": "heavenly",
+  "tier": "C",
+  "n": 3,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from a10444ae0, which this project already reads as 'heavenly' (tier A). 146v:2 is the Marian invocation -- 'girl, Queen, thou who holdest heaven and earth, [x]' -- where the heavenly is the word the sentence wants. The other neighbour is K&T's a10540ae0 'accuse', which suits none of the three lines. Occurrence(s): 077r:5 'somebody [?] <<[x]>> on-sin to Lord-Jézus-Christ'; 144r:1 '<<[x]>> people somebody to-Lord-<suffix_of_divine_name> this-Lord you ?creature'"
+ },
+ "0316709f4": {
+  "gloss": "exist",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 031670ae0, read in this project as 'exist' with the 031 prefix this part of the book uses. Occurrence(s): 016r:2 '<<[x]>> holy-in_turn-+one-[?] thanks grab and pray to-Lord-<suffix_of_divine_name>'"
+ },
+ "5200607a3": {
+  "gloss": "and",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 5207a3, which this project reads as 'and' (tier B), itself the head of three of K&T's conjunction compounds. Occurrence(s): 161v:10 'have-somebody or +rise <<[x]>> go-somebody'; 201r:9 'destroy fire <<[x]>> +water +and_then this king'"
+ },
+ "520060520911": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520 'that; to whom; what; which; whose'. Read as the relative, like the seven signs of the same shape entered before it. Occurrence(s): 071v:11 '~out(ward) and <<[x]>> on-judge-year in_turn you sad(ly) many'; 071v:12 'joy ~out(ward) and <<[x]>> on-judge-year end this holy-gospel'"
+ },
+ "520443520": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520 'that; to whom; what; which; whose'. Read as the relative, like the seven signs of the same shape entered before it. Occurrence(s): 025r:7 'from-healing <<[x]>> ask_(for) from-healing this Lord <preposition_of_genitive>-somebody son sa'"
  }
 }
