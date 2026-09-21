@@ -5591,47 +5591,5 @@
   "tier": "G",
   "n": 1,
   "evidence": "201v:6 stands in a list of the afflicted: 'hungry and thirsty and [x] ... blind and', on the folio citing Matthew 22:9-10, the highways and hedges. 'feeble' is free in the pool and is the word that stands between thirst and blindness in the parallel at Luke 14:21, 'the poor, and the FEEBLE, and the blind, and the lame'. GUESS."
- },
- "5201f4": {
-  "gloss": "ninety",
-  "tier": "C",
-  "n": 1,
-  "evidence": "119r:8 reads 'inside field and go-somebody [x] NINE the-lost-sheep', on the folio citing Luke 15:4: 'doth he not leave the NINETY-NINE in the desert, and go after that which was lost?' The next word in the line is K&T's own 'nine' and the words after it are this project's 'the lost sheep'; the desert stands in the line as 'field'. A numeral proved by the formula it completes, which is the tier A test, but held at C because it occurs once."
- },
- "5201742c0a10": {
-  "gloss": "hyssop",
-  "tier": "G",
-  "n": 1,
-  "evidence": "051v:6 'say VINEGAR and [x] and the Lord', on the folio citing John 19:29: 'they, putting a sponge full of vinegar about HYSSOP, put it to his mouth'. Vinegar is K&T's own (0607a22b2520, cited by them at this very verse) and stands immediately before the hole; 'hyssop' is the free word of the verse. GUESS."
- },
- "520524950": {
-  "gloss": "outer_darkness",
-  "tier": "G",
-  "n": 1,
-  "evidence": "202v:4 'foot and somebody THROW OUT ... on outward [x]', on the folio citing Matthew 22:13: 'bind his hands and feet, and CAST him into the EXTERIOR DARKNESS'. The binding, the feet and the casting out are all read on the two lines above. The sign ends in K&T's 950 'hide oneself', which is the codex's word for the dark. GUESS."
- },
- "5204e5": {
-  "gloss": "great_gulf",
-  "tier": "G",
-  "n": 1,
-  "evidence": "090r:6 'go Lazarus [x] opposite world, the rich man's trespass', on the folio citing Luke 16:26: 'between us and you, there is fixed a great CHAOS' (Douay; the King James has GULF). The word is free in both. GUESS."
- },
- "520252520670": {
-  "gloss": "profit",
-  "tier": "G",
-  "n": 1,
-  "evidence": "197v:4 'the Lord Jesus, who this somebody [x] and this world rich', on the folio citing Matthew 16:26: 'what doth it PROFIT a man, if he gain the whole world, and suffer the loss of his own soul?' 'profited' is free in the passage and the world and its riches stand in the same line. GUESS."
- },
- "5202c0334": {
-  "gloss": "how_often",
-  "tier": "G",
-  "n": 1,
-  "evidence": "076r:5 'answered ... this Peter, have mercy [x], exist Peter', on the folio citing Matthew 18:21: 'Lord, HOW OFTEN shall my brother offend against me, and I forgive him?' 'often' is free and is the word of Peter's question. GUESS."
- },
- "5202e3": {
-  "gloss": "hither",
-  "tier": "G",
-  "n": 1,
-  "evidence": "181v:5 'Jesus, Thomas, go-name [x] put Thomas's FINGER', on the folio citing John 20:27: 'Put in thy finger HITHER, and see my hands'. The finger is read in the same line; 'hither' is free. GUESS."
  }
 }

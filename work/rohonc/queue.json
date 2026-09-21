@@ -99,6 +99,10 @@
   "state": "pass",
   "why": "076v Peter on the water; slot open"
  },
+ "170": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
  "171520": {
   "state": "pass",
   "why": "157v; slot open"
@@ -411,29 +415,277 @@
   "state": "pass",
   "why": "202v Matthew 22:13; slot open"
  },
+ "520060873": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5200609a1": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520063": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5200805da": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
  "5200806a2": {
   "state": "pass",
   "why": "224r:11 numeral formula on a damaged page"
+ },
+ "520093": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
  },
  "5200948f0094": {
   "state": "pass",
   "why": "186r/188r no one word fits both"
  },
+ "5200f1": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520150520153": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5201517a2520": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520152962ae0": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520153270": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5201535c4594": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520157ae0": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5201639625204b0": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520166": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520173": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5201a0": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5201a1": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
  "5201b1ae0": {
   "state": "pass",
   "why": "145r/145v name-shaped, no name in the story"
+ },
+ "5201b2": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5201d0520270540": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5201d35138c1": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5201f4520ae0": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5202075de": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520222540ae0": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520225": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520233520": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520240712": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520254270": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
  },
  "520256511651": {
   "state": "pass",
   "why": "086v torch allegory, slot open"
  },
+ "5202604b0": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520270272": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5202706e4": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520270a61": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520284962": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5202b1962": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
  "5202b3520": {
   "state": "pass",
   "why": "043v 'two [x]' and 052v 'soldier [x]'; no one word fits both"
  },
+ "5202c0032520": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5202c03c3520": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5202c7962270962": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5202f3": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520303520": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520309862670": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520323": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "52032a": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520347011011": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5203602c1": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520360990": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5203b5": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5203d1": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520413": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520414": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520414520060": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "52042b670": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520452520": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520454969": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520476b26": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5204b4": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
  "5204c052006064b": {
   "state": "pass",
   "why": "003r/122v identical formula, line-initial, slot open"
+ },
+ "520511670": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520520097": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520520876812": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520530ae0": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520564": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5205d1696b26": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "5205ed": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "52068d903": {
+  "state": "pass",
+  "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
  },
  "5206f0": {
   "state": "pass",

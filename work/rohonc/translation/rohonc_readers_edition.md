@@ -36,14 +36,14 @@ than one that does not; it is only harder to check.
 ## What this edition is worth, in numbers
 
     words in the manuscript            29997
-    read                               27944 (93.2%)
-    read from one passage, marked *    985 (3.3%)
-    restored, in brackets              53 (0.2%)
-    dark, printed as an ellipsis       1015 (3.4%)
+    read                               27945 (93.2%)
+    read from one passage, marked *    986 (3.3%)
+    restored, in brackets              59 (0.2%)
+    dark, printed as an ellipsis       1007 (3.4%)
 
-    lines with every word read         3529 of 4372 (80.7%)
+    lines with every word read         3531 of 4372 (80.8%)
     lines complete including
-      restorations                     3575 of 4372 (81.8%)
+      restorations                     3583 of 4372 (82.0%)
 
 The evidence for every single word is in `harness/proposals.json`, one entry
 per sign, with its tier and the argument in full. `harness/ktprov.py` prints
@@ -53,7 +53,7 @@ including the two that failed.
 
 **Brackets are the measure of what is left to do.** Every time a source text
 enters the corpus, or a formula turns up twice, some of them become plain
-words. There are 53 of them now.
+words. There are 59 of them now.
 
 ---
 
@@ -1448,7 +1448,7 @@ words. There are 53 of them now.
   3  Lord apostle then-exist buy exist-nine sweet and
   4  wine grab apostle Jew(ish) head and
   5  Lord grab-+who a) say-to pine in_turn Lord | grab
-  6  say vinegar and [...] and Lord
+  6  say vinegar and [hyssop] and Lord
   7  wine grab say on-one sponge_(hyssop?)_on_a_stick and
   8  then-exist-Lord sponge face wipe_off-+say and wine
   9  grab mouth little on-+pine and_then | Lord
@@ -2219,7 +2219,7 @@ words. There are 53 of them now.
   2  inside one chapter <preposition_of_genitive>-write time then-exist Lord-Jézus-Christ
   3  inside thirty year and three_days and five moon and three_days inside
   4  time leave-to-leave apostle ~to Lord-Jézus and_then holy-Peter
-  5  answered want-high this-Peter have_mercy [...] exist Peter
+  5  answered want-high this-Peter have_mercy [how_often] exist Peter
   6  [...] and_then Lord-Jézus-Christ Peter Peter | in_turn
   7  brethren* one-[?] dry* one year through sin somebody
   8  against this-Peter have_mercy somebody <subject_marker> if go somebody-have_mercy
@@ -2620,7 +2620,7 @@ words. There are 53 of them now.
   3  this_is netherworld most_high ~evil on-~evil who-shout this-[?]
   4  father Abraham and Lazarus [...] inside öl father
   5  Abraham and two who-shout this-~rich father-<suffix_of_divine_name> Abraham
-  6  go Lazarus [...] opposite world have-~rich trespass this-two-two <preposition_of_genitive>-rich
+  6  go Lazarus [great_gulf] opposite world have-~rich trespass this-two-two <preposition_of_genitive>-rich
   7  ~exist-exist because ~exist-exist say-Lazarus from-~rich how? inside this-rich suffer
   8  because this ~exist-exist somebody sin from [...] then-exist be_damned
   9  somebody how?-rich this-rich be_damned say father-<suffix_of_divine_name> Abraham have
@@ -3511,7 +3511,7 @@ words. There are 53 of them now.
   5  hundred sheep inside field and then-exist lose one
   6  among end* [...] [...] somebody exist answered-hide_oneself-+day ~who-chapter-say
   7  and exist from-food-somebody from nine-ten sheep and nine
-  8  inside field and go-somebody [...] nine the_lost_sheep
+  8  inside field and go-somebody ninety* nine the_lost_sheep
   9  find and then-exist the_lost_sheep find-somebody
  10  and the_lost_sheep grab-somebody man* | on
 
@@ -5283,7 +5283,7 @@ words. There are 53 of them now.
   2  end who from Lord from die stand_up time leave Lord-Jézus-Christ
   3  middle apostle closed and say commandment you exist
   4  and judge-year apostle in_turn Thomas begin have and say | Lord
-  5  Jézus Thomas go-+name [...] put <preposition_of_genitive>-Thomas finger
+  5  Jézus Thomas go-+name [hither] put <preposition_of_genitive>-Thomas finger
   6  inside <preposition_of_genitive>-Lord wound [...] see believe and [...]
   7  Lord-Jézus <preposition_of_genitive>-Lord wound and say Lord-Jézus Thomas happy-to
   8  from and somebody see [?]-+day ~believe but and | blessed
@@ -5733,7 +5733,7 @@ words. There are 53 of them now.
   1  people and apostle-somebody-Jew(ish) want what Lord go | deny
   2  somebody <preposition_of_genitive>-somebody the_whole_wide_world and grab <preposition_of_genitive>-somebody
   3  ~cross on-<preposition_of_genitive>-somebody shoulder and go-somebody what
-  4  Lord and_then Lord-Jézus who this somebody [...] and this world | rich
+  4  Lord and_then Lord-Jézus who this somebody [profit] and this world | rich
   5  [...] then this somebody <subject_marker> grab <preposition_of_genitive>-somebody soul | to-rich
   6  [...] and_then Lord-Jézus good <subject_marker> this somebody release* | <preposition_of_genitive>
   7  somebody soul be_damned ~a) be_saved because many somebody
@@ -5849,7 +5849,7 @@ words. There are 53 of them now.
   2  leave-to-leave and exist among on-this wedding and_then
   3  this Lord-king <preposition_of_genitive>-Lord servant go-?blind-hide_oneself and
   4  way and on-town and find
-  5  God blind [...] blind and even_more-[?]-to and
+  5  God blind ninety-~exist blind and even_more-[?]-to and
   6  be_hungry and thirst and [feeble] God blind and
   7  [...] [...] find servant each,_every go-servant
   8  [...] inside <preposition_of_genitive>-Lord-king house and then-exist out
@@ -5875,7 +5875,7 @@ words. There are 53 of them now.
   1  say inside <preposition_of_genitive>-Lord-<suffix_of_divine_name> heaven house [?]-+day good say this king
   2  Gabriel friend brother-+name this-high [...] will
   3  speak-+Gabriel say tie_(up) somebody hand and.
-  4  foot and somebody throw_out angel on-out(ward) [...]
+  4  foot and somebody throw_out angel on-out(ward) [outer_darkness]
   5  [?]-~exist exist see grinding tooth crying chapter-oh
   6  chapter-oh end this holy-gospel Lord-<suffix_of_divine_name> with_all_thy_heart*
   7  begins this holy-gospel write.
