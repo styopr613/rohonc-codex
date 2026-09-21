@@ -12601,3 +12601,204 @@ in Király & Tokai's dictionary, so the person is not named here.
 > dispute before the priests is not in Luke; the codex has built it out of the
 > same materials as the dispute in John 9 over the man born blind, which is the
 > kind of borrowing this compiler does throughout.
+
+## 179r — where are the nine?
+
+**1**  the ten people healed: son of David, king; said the chief men,
+`ten-people from-healing son David king say head`
+
+**2**  the Jews, the priest […]: you people, from the son
+`Jew(ish) priest [?] you people from son`
+
+**3**  have sinned; the Lord healed you; but you people were healed
+`sin_against from-healing-Lord a) you people-+<subject> from-healing`
+
+**4**  by Moses truly, because there is the word of the Old Testament, from
+`Moses righteous(ly) because-exist <OT> word from`
+
+**5**  the lepers; among the priests, the Jews, they cast them out,
+`leper-+say among priest Jew(ish) out(ward) exorcise`
+
+**6**  and then of the nine people a man believed the priests,
+`and then-exist from nine people somebody believe from priest`
+
+**7**  the Jews; in turn the tenth man had faith, and returned
+`Jew(ish) in_turn ten somebody faith* a) return`
+
+**8**  back to the Lord Jesus; and the leper bowed down
+`back against Lord-Jézus and bow_down leper`
+
+**9**  before the Lord's feet; and then the Lord's sister
+`before <of>-Lord foot and then-exist-Lord sister`
+
+> Luke 17:15-16, Douay: *And one of them, when he saw that he was made clean,
+> went back, with a loud voice glorifying God. And he fell on his face before
+> his feet, giving thanks.* The going back and the falling at the feet are
+> here; the nine who did not are counted on line 6.
+
+## 179v — were not ten made clean?
+
+**1**  kissed, the tenth man, the Lord's feet; and the Lord was pleased,
+`kiss-ten-somebody <of>-Lord foot and Lord pleasing`
+
+**2**  and the tenth man gave thanks; and then the Lord Jesus to the apostles | of
+`and thanks grab-ten-somebody and_then Lord-Jézus apostle | <of>`
+
+**3**  the Lord, to all by name: and the people, were there not ten lepers? Which
+`Lord name-each,_every-to and people exist ten leper in_turn-+who`
+
+**4**  […] one, whosoever keeps the commandment; and whosoever keeps the commandment the Lord loves.
+`<subject> [?] one whosoever-commandment and whosoever-commandment Lord love`
+
+**5**  And then the Lord Jesus to the apostles: of the Lord, good […] from | he is. Chapter.
+`and_then Lord-Jézus apostle <of>-Lord good [?] from | is_he-chapter`
+
+**6**  […] the son, the man; there is the Lord; the alien nation's love. Here ends
+`[?] son somebody exist Lord of_an_alien_nation,_pagan love end`
+
+**7**  this holy gospel. The Lord God's love. Three things must be believed
+`this holy-gospel Lord-<divine> <subject> love three believe have`
+
+**8**  in the world: first, believe in the most high; and then the pagan day, and the Jews
+`from world* first <subject> believe above-high and and_then-pagan-+day and Jew(ish)`
+
+**9**  believe in this and this; believe, one man,
+`believe inside this-and-this believe one somebody`
+
+> Luke 17:17-18: *Were not ten made clean? And where are the nine? There is no
+> one found to return and give glory to God, but this stranger.* The codex's
+> "alien nation" is the Samaritan of that verse, and the folio turns from the
+> story into doctrine on line 7.
+
+## 180r — one faith, one Church
+
+**1**  and the Jews, the pagan day, the most high; in turn, therefore, to be saved; and a man,
+`and Jew(ish)-pagan-+day above-high in_turn ?therefore be_saved and somebody`
+
+**2**  therefore, believes, the man, in the Lord Jesus Christ; one
+`?therefore believe somebody inside Lord-Jézus-Christ one`
+
+**3**  man, therefore, is saved; but every man is damned; and secondly,
+`somebody ?therefore be_saved a) each,_every somebody be_damned in_turn-two <subject>`
+
+**4**  believe the Church; and the Church's belief is good,
+`believe <church> and <church> believe this_is good`
+
+**5**  because there is one Church; the Church, and in believing is salvation,
+`because one <church> <church> and inside believe be_saved`
+
+**6**  because from the Church, the Church, one way, belief,
+`because from <church> <church> one ways* believe`
+
+**7**  the Church, the Church, in the Lord Jesus Christ, in his coming and in
+`<church> <church> inside Lord-Jézus-Christ inside coming* and inside`
+
+**8**  his death; then on the cross the Lord gave up the ghost; thirdly,
+`die then-+<subject> cross <of>-Lord soul give_up_the_ghost third`
+
+**9**  believe in the coming of the Lord Christ; and through him escape.
+`<subject> believe on-?coming Lord-Christ and through escape`
+
+> Ephesians 4:5 by way of the creed: *One Lord, one faith, one baptism.* K&T
+> gloss the sign used four times on this folio as "a Christian or related
+> church or denomination", so the page is theirs to the extent that the word
+> is; the argument built on it is the codex's own.
+
+## 180v — a summary of the Lord's life
+
+**1**  The Lord Jesus, and the Lord Christ made ready the twelve apostles; and many wearied,
+`Lord-Jézus and prepare Lord-Christ six-six apostle and many get_tired`
+
+**2**  the Lord Christ, who wearied; the Lord did it; he went into the world | of
+`Lord-Christ who get_tired-+<subject> do,-Lord into_the_world* go-Lord | <of>`
+
+**3**  the Lord, the apostles; and many a miracle the Lord Christ, in love, did | upon
+`Lord apostle and many miracle Lord-Christ love miracle-+<subject> do, | on`
+
+**4**  the world; the Lord's apostles went; the blind of eye he gave light; the dead man
+`world go <of>-Lord apostle eye-blind <subject> through light Lord die somebody`
+
+**5**  he stood up and raised; the evil upon the people […] the Lord | love, and
+`<subject> stand_up resurrect-chapter-Lord evil <subject> on-people [?]-to-+who-Lord | love-and`
+
+**6**  this and this; the cup […] that day; the Lord healed; and the holy host, the mind,
+`this-and-this cup-[?]-+day from-healing-Lord and holy-+host God exist-exist-chapter`
+
+**7**  the Lord Christ, the brethren; the Lord at thirty stayed, the Lord, within the host;
+`Lord-Christ brethren-+<subject> Lord on-thirty stay-Lord inside host`
+
+**8**  and the Lord Christ was humble, because the Lord was humble in this world.
+`and humble Lord-Christ because-+the_Lord exist-Lord humble-Lord this world.`
+
+**9**  The chief men took the Lord, and the Jews captured him […]
+`head grab-Lord and Jew(ish) <subject> capture [?]`
+
+## 181r — Thomas was not with them
+
+**1**  […] and a crown of thorns upon his head | conceived,
+`[?] and thorn crown on-head | get_conceived`
+
+**2**  he said; and […] the Lord Christ died, and the Lord Christ rose, and the Lord Christ appeared
+`say and [?] die Lord-Christ and +rise Lord-Christ and appear`
+
+**3**  to the Lord's apostles, one Saturday evening; and this
+`Lord-Christ apostle <of>-Lord one Saturday evening and this`
+
+**4**  evening it was; then the Lord appeared to the twelve apostles
+`evening exist then-exist-Lord appear-Lord six-six apostle`
+
+**5**  in the Lord's house, where the Lord God, the Lord Jesus, had made the supper; and | then
+`inside Lord house where Lord-<divine> Lord-Jézus dinner-to do, and | then`
+
+**6**  holy Thomas came […] one Saturday evening
+`exist go holy-Thomas [?] one Saturday evening`
+
+**7**  to the apostles; and the apostles said: Thomas, the apostles have seen the Lord. And holy Thomas said,
+`to-apostle and say apostle Thomas apostle see Lord and say holy-Thomas`
+
+**8**  this Thomas: this I will not believe, all this, to whom | this;
+`this-Thomas this not believe each,_every this to_whom | this`
+
+**9**  Thomas, this belief is blind […] unless Thomas sees
+`Thomas this believe blind-[?] [?] see-Thomas`
+
+> John 20:24-25, Douay: *Now Thomas, one of the twelve, was not with them when
+> Jesus came. The other disciples therefore said to him: We have seen the Lord.
+> But he said to them: Except I shall see in his hands the print of the nails,
+> and put my finger into the place of the nails, and put my hand into his side,
+> I will not believe.*
+
+## 181v — blessed are they that have not seen
+
+**1**  the Lord's wounds, and unless Thomas puts his finger into the Lord's
+`<of>-Lord end and <of>-Thomas finger not put inside <of>-Lord`
+
+**2**  wounds, who from the Lord, from death, stood up. The time the Lord Jesus Christ came,
+`end who from Lord from die stand_up time leave Lord-Jézus-Christ`
+
+**3**  into the midst of the apostles, the doors being shut, and said: peace be to you;
+`middle apostle closed and say commandment you exist`
+
+**4**  and the judgment year; the apostles; in turn Thomas began to have, and said | the Lord
+`and judge-year apostle in_turn Thomas begin have and say | Lord`
+
+**5**  Jesus: Thomas, come by name […] put thy finger
+`Jézus Thomas go-+name [?] put <of>-Thomas finger`
+
+**6**  into the Lord's wound […] see and believe; and […]
+`inside <of>-Lord wound [?] see believe and [?]`
+
+**7**  the Lord Jesus, the Lord's wound; and the Lord Jesus said: Thomas, happy art thou
+`Lord-Jézus <of>-Lord wound and say Lord-Jézus Thomas happy-to`
+
+**8**  from this; and the man who sees that day, believing; but also | blessed
+`from and somebody see [?]-+day ~believe but and | blessed`
+
+**9**  is the day, and the food; he sees, from believing. Here ends this holy gospel.
+`day-to and food see from* believe end this holy-gospel`
+
+> John 20:26-29, Douay: *the doors being shut, and stood in the midst, and
+> said: Peace be to you... Put in thy finger hither, and see my hands... and be
+> not faithless, but believing... Blessed are they that have not seen, and have
+> believed.* The shut doors, the midst, the peace, the finger and the blessing
+> are all here in John's order.
