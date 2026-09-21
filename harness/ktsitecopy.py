@@ -33,7 +33,9 @@ KEYS = ["tagline", "intro", "how_far", "tiers", "new_here_lead", "is_it_true",
         "outside_lead", "credit_line", "card_script", "script_intro", "script_signs",
         "script_numerals", "script_phrases", "script_shuffle_lead", "script_marks",
         "script_plates", "method_intro", "method_loop", "method_bars", "method_mistakes",
-        "method_code", "tests_intro", "tests_after", "sources_intro", "docs_lead"]
+        "method_code", "tests_intro", "tests_after", "sources_intro", "docs_lead",
+        "read_lead", "strip_note", "tests_note", "code_lead", "sources_not_here",
+        "method_steps", "method_mistakes_list", "sources_cites"]
 
 
 def fact_sheet():
@@ -51,7 +53,7 @@ def fact_sheet():
   kept at the Library of the Hungarian Academy of Sciences in Budapest.
 - Written in a script that occurs in no other document. Right to left, several
   hundred signs, mostly one sign per word or phrase.
-- What it contains (established by Kiraly and Tokai): the apocryphal Life of Adam
+- What it contains (established by Király and Tokai): the apocryphal Life of Adam
   and Eve running into the legend of the Rood; the story of Joachim and Anne; a
   Passion the codex itself says it takes from Matthew and John; sermons and
   parables for the gospels of the year; the Finding of the Cross; the Acts of the
@@ -59,7 +61,7 @@ def fact_sheet():
   revelation: an angel of God speaks and the prophet Elijah is the one addressed.
 
 KIRALY AND TOKAI (credit them by name, always)
-- Levente Zoltan Kiraly and Gabor Tokai, "Cracking the code of the Rohonc Codex",
+- Levente Zoltán Király and Gábor Tokai, "Cracking the code of the Rohonc Codex",
   Cryptologia 42:4 (2018). A dictionary of {ktn} signs and the grammar.
 - They put their transcription online at rechnitzer-kodex.hu so their claims could
   be checked. Their own translation of the codex is unpublished; nothing on this
@@ -144,8 +146,8 @@ THE MISTAKES THAT COST THE MOST TIME (name them plainly; they are the useful par
 THE SCRIPT ITSELF (for the page about it)
 - The writing runs right to left. The codex dates itself 1593.
 - It is logographic: a sign stands for a word or a whole phrase, not a sound.
-  Kiraly and Tokai established this. Several hundred signs are in use.
-- Phrases are written WITHOUT a space. The example Kiraly and Tokai print from
+  Király and Tokai established this. Several hundred signs are in use.
+- Phrases are written WITHOUT a space. The example Király and Tokai print from
   folio 137v is "sin, without, Jesus, conceive, you-Mary", where you-Mary is a
   single sign made of their sign for the second person pronoun (932 occurrences)
   joined to their sign for Mary. This project confirmed the construction
@@ -157,7 +159,7 @@ THE SCRIPT ITSELF (for the page about it)
   ten-ten-ten-ten is forty at the forty days and forty nights; two-two-ten is
   also forty at the forty days of rain; six-two is eight at the circumcision on
   the eighth day; six-six is twelve at the twelve apostles.
-- One grammar rule was recovered from the numerals: the sign Kiraly and Tokai
+- One grammar rule was recovered from the numerals: the sign Király and Tokai
   gloss "introducing the next item in a list" makes an ordinal when it stands in
   front of a numeral. The book uses it to number the signs of Christ first to
   eleventh.
@@ -175,6 +177,22 @@ THE SCRIPT ITSELF (for the page about it)
   edition were REDRAWN by an image model from the library's low-resolution scan,
   because no print-quality scan is available. They are new drawings that follow
   the scribe's composition, not reproductions, and every caption says so.
+
+CITATIONS OWED (quote each exactly as written here)
+- Levente Zoltán Király and Gábor Tokai, "Cracking the code of the Rohonc Codex",
+  Cryptologia 42:4 (2018), 285-315. -- the dictionary and the grammar.
+- Levente Zoltán Király, "A Rohonci kódex teológiai karaktere", in Hagyomany,
+  Identitas, Tortenelem 2022, KRE HTK, Budapest 2023, 363-376. -- it explains why
+  their site exists: so their claims about the text can be checked.
+- Ottó Gyürk (1970), on line breaks in the codex's repeated sequences. -- the idea
+  the orientation test and the main measurement both rest on.
+- Benedek Láng, The Rohonc Code: Tracing a Historical Riddle, Penn State Press,
+  2021. -- the standing survey of the manuscript and of everyone who has attacked it.
+- The anonymous author of the 2014 open transcription. -- published openly; the site
+  is gone and permission cannot be asked.
+- Library of the Hungarian Academy of Sciences, the page scans. -- free for academic
+  use, not to be passed on; used locally, and the plates are redrawings made from
+  them rather than the scans themselves.
 
 THE WORKING DOCUMENTS (described on the site, not published)
 - They are working files: written for whoever runs the project next, not for a
@@ -200,7 +218,7 @@ THE TESTS
 
 WHAT IS ON THE SITE
 - The reading page: one paragraph of English per folio, all {len(order)} folios, in
-  Kiraly and Tokai's page order. Restorations are in brackets there; the full
+  Király and Tokai's page order. Restorations are in brackets there; the full
   per-word marks are in the edition and the rendering, not on that page.
 - Dictionary: the added readings, searchable by reading or sign, filterable by
   tier, with the evidence line for each. Their own {ktn} entries are NOT
@@ -212,12 +230,12 @@ WHAT IS ON THE SITE
   dictionary and folio English as JSON, the rendering, the reader's edition,
   every saved run, the outside readers' replies).
 - The edition: the whole manuscript set as a book in two parts, a continuous
-  retelling by episode and all 441 folios with their marked lines. It is being
-  finished and will appear in the OONA Free Library. Nothing on the site waits
-  on it.
+  retelling by episode and all 441 folios with their marked lines.
+- A read page: that whole book opened in the browser, page by page, with the
+  same book downloadable as an EPUB or as the interior print PDF.
 
 POSITION
-- The manuscript is out of copyright. Kiraly and Tokai's dictionary,
+- The manuscript is out of copyright. Király and Tokai's dictionary,
   transcription and page images are theirs: credited on every page, linked, not
   rehosted. The readings, tests, English and editorial matter are this
   project's own. Every figure on the site is read out of a saved run, never
@@ -227,14 +245,14 @@ POSITION
 
 PROMPT = """You are writing the text of a small public website about a research project. Below is a fact sheet. Write ONLY from it. Do not add facts, dates, names, numbers or claims that are not on the sheet. Where the sheet gives a number you may use it; otherwise write around it.
 
-Length matters: this is the whole text of the site, and a reader who never opens another page must learn from it what the manuscript is and contains, who Kiraly and Tokai are and what they did, what this project added and how it was checked. Carry the facts of the sheet into the prose, including the figures where they belong. Targets: intro 350 to 450 words in three paragraphs; how_far, tiers, is_it_true, edition, credit, reading_lead, data_lead and outside_lead 60 to 120 words each; dictionary_lead 120 to 180 words; each card one sentence of 10 to 20 words; new_here_lead one sentence.
+Length matters: this is the whole text of the site, and a reader who never opens another page must learn from it what the manuscript is and contains, who Király and Tokai are and what they did, what this project added and how it was checked. Carry the facts of the sheet into the prose, including the figures where they belong. Targets: intro 350 to 450 words in three paragraphs; how_far, tiers, is_it_true, edition, credit, reading_lead, data_lead and outside_lead 60 to 120 words each; dictionary_lead 120 to 180 words; each card one sentence of 10 to 20 words; new_here_lead one sentence.
 
-Voice: plain English, sentences of ordinary length, one idea per sentence. No hype, no adjectives of praise, no rhetorical questions, no em dashes, no semicolons, no bullet lists inside the prose. Say "probably" where the sheet is cautious. Credit Kiraly and Tokai by name where their work is described. Never overstate: the project extends and tests their dictionary, it does not "crack" or "solve" the codex.
+Voice: plain English, sentences of ordinary length, one idea per sentence. No hype, no adjectives of praise, no rhetorical questions, no em dashes, no semicolons, no bullet lists inside the prose. Say "probably" where the sheet is cautious. Credit Király and Tokai by name where their work is described. Never overstate: the project extends and tests their dictionary, it does not "crack" or "solve" the codex. NEVER state a licence, a permission, or that anything "may be used freely": say who owns what and nothing further. Do not write any sentence granting or implying rights.
 
 Return a single JSON object with exactly these keys, each a string of plain text (paragraphs separated by a blank line):
 
-tagline          one line under the site title, at most 14 words, no full stop, naming Kiraly and Tokai
-intro            3 paragraphs: what the manuscript is; what Kiraly and Tokai did and what they established the book contains (name the contents); what this project did
+tagline          one line under the site title, at most 14 words, no full stop, naming Király and Tokai
+intro            3 paragraphs: what the manuscript is; what Király and Tokai did and what they established the book contains (name the contents); what this project did
 how_far          one paragraph introducing a table of the reading figures that follows it
 tiers            one paragraph after the tier counts, explaining the tiers
 new_here_lead    one sentence introducing a quoted paragraph titled "What is new here and what is not"
@@ -268,6 +286,14 @@ tests_intro      2 paragraphs opening a page about the tests: what was being tes
 tests_after      one paragraph after the summary table saying what the passes and failures add up to, without restating numbers
 sources_intro    2 paragraphs opening a page about sources and credit: whose work each source is and what may be done with it
 docs_lead        one paragraph introducing a list of the project's own working documents, which are described rather than published, and can be asked for
+read_lead        one paragraph at the top of a page that reads the book in the browser, mentioning that the same book can be taken away as an EPUB or a print PDF
+strip_note       one sentence under a moving strip of signs, saying what the strip shows and that the script runs right to left
+tests_note       one paragraph after the test summary naming the two things worth saying plainly: that the passage map can be recovered from Király and Tokai's words alone so it does not depend on anything this project read, and that the two instruments an outside reviewer specified for the search itself gave no verdict either way because they do not model the search as it was run
+code_lead        one paragraph on a page listing the programs, saying they run on the published data, that each test states its bar in its own first lines, and that the repository itself is not public
+sources_not_here one paragraph saying what is NOT on the site and why: their dictionary, transcription, page records and the library scans; and that the one thing of theirs used is the shape of the signs, drawn from the outlines in their font, the font file itself never served, the shapes being the sixteenth-century scribe's
+method_steps     a JSON ARRAY of exactly 6 objects {"t": short title, "d": one or two sentences} for the six numbered steps of the loop, in order
+method_mistakes_list  a JSON ARRAY of exactly 7 objects {"t": short title, "d": one or two sentences} for the mistakes that cost the most time, in the order the sheet gives them
+sources_cites    a JSON ARRAY of exactly 6 strings, one sentence each, saying what each of the six citations listed under CITATIONS OWED is to this project, in the same order. Do NOT repeat the citation itself.
 credit_line      one sentence, at most 35 words, for the foot of every page: whose dictionary this rests on, that their translation is unpublished, and that the readings here are this project's own
 
 FACT SHEET
@@ -282,15 +308,27 @@ def main(argv):
         print(open(OUT, encoding="utf-8").read())
         return 0
     sheet = fact_sheet()
-    reply, usage = ktor.ask(MODEL, PROMPT.format(sheet=sheet), temperature=0.2, extra=EXTRA)
+    # .replace, never .format: the brief now contains literal JSON braces, and
+    # str.format reads those as fields and raises before a call is made.
+    reply, usage = ktor.ask(MODEL, PROMPT.replace("{sheet}", sheet),
+                            temperature=0.2, extra=EXTRA)
     print("usage", usage)
     m = re.search(r"\{.*\}", reply, re.S)
     if not m:
         raise SystemExit("no JSON in the reply:\n" + reply[:2000])
     copy = json.loads(m.group(0))
-    missing = [k for k in KEYS if not str(copy.get(k, "")).strip()]
+    missing = [k for k in KEYS if not (copy.get(k) if isinstance(copy.get(k), list)
+                                       else str(copy.get(k, "")).strip())]
     if missing:
         raise SystemExit("missing keys: " + ", ".join(missing))
+    # A list key sometimes comes back as a JSON STRING rather than an array.
+    # Parse it here so the stored file is one shape and the site never has to ask.
+    for k, v in list(copy.items()):
+        if isinstance(v, str) and v.lstrip().startswith("["):
+            try:
+                copy[k] = json.loads(v)
+            except ValueError:
+                pass
     extra = [k for k in copy if k not in KEYS]
     for k in extra:
         copy.pop(k)
@@ -299,7 +337,9 @@ def main(argv):
     json.dump(copy, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
     print("wrote", OUT)
     for k in KEYS:
-        print(f"\n[{k}]\n{copy[k]}")
+        v = copy[k]
+        print(f"\n[{k}]\n" + (json.dumps(v, indent=1, ensure_ascii=False)
+                              if isinstance(v, list) else str(v)))
     return 0
 
 

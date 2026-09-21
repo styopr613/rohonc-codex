@@ -41,6 +41,16 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 COPY = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "ktsite_copy.json"), encoding="utf-8"))
 
 
+def items(key, tag="li", kt="t", kd="d"):
+    """A copy list (steps, mistakes, citations) as <li> rows."""
+    out = []
+    for x in COPY[key]:
+        t = html.escape(str(x.get(kt, "")).strip().rstrip("."))
+        d = html.escape(str(x.get(kd, "")).strip())
+        out.append(f"<{tag}><b>{t}.</b> {d}</{tag}>" if t else f"<{tag}>{d}</{tag}>")
+    return "".join(out)
+
+
 def paras(key, cls=""):
     """A copy piece as <p> paragraphs."""
     c = f' class="{cls}"' if cls else ""
@@ -245,6 +255,12 @@ def shell(slug, title, desc, body, extra_head=""):
 """
 
 
+def md_inline(text):
+    """One line of markdown (the *italics* in a citation), without a <p> around it."""
+    out = markdown.markdown(text)
+    return re.sub(r"^<p>|</p>$", "", out.strip())
+
+
 def md(text):
     out = markdown.markdown(text, extensions=["tables", "fenced_code", "sane_lists"])
     # a wide table must scroll inside its own box, never the page
@@ -405,7 +421,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
   <figure class="bk"><img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the printed edition" width="576" height="900"></figure>
 </div>
 {strip_html(rows, sg)}
-<p class="nof">The signs above are the script itself, drawn from the outlines in Király and Tokai's own font, with this project's reading under each and its code beneath that. The script runs right to left. <a href="/rohonc/script.html">More about it →</a></p>
+<p class="nof">{html.escape(COPY["strip_note"].strip())} Each sign carries this project's reading under it and its code beneath that, and the outlines are drawn from Király and Tokai's own font. <a href="/rohonc/script.html">More about the script →</a></p>
 {shot}
 
 <h2>How far it reads</h2>
@@ -689,9 +705,7 @@ def page_code(groups):
         out.append("</ul>")
     body = ("<h1>The programs</h1>"
             + paras("method_code", "lead")
-            + '<p>Every one of them runs on the files under <a href="/rohonc/data.html">Data</a>. '
-              'Each test states its bar in its own first lines, before any result exists. '
-              'They are plain text here; the repository itself is not public.</p>'
+            + paras("code_lead")
             + "".join(out))
     return shell("method", "The programs",
                  "The programs behind the Rohonc readings, as plain text: the reading loop, the two rules that worked, the tests, and the attempts that failed.",
@@ -699,51 +713,8 @@ def page_code(groups):
 
 
 def page_method():
-    steps = [
-        ("Take the folio's own citation",
-         "Király and Tokai's notes cite a chapter and verse for most folios. That passage is "
-         "the only evidence from outside the manuscript there is."),
-        ("Look at every line the sign stands in",
-         "Not only the line in hand. The other occurrences are what will decide it."),
-        ("Guess from the passage",
-         "The word the verse supplies for that slot, in the sense the folio's own context wants."),
-        ("Check the guess at every other occurrence",
-         "This is the step that does the work. A reading that fits where it was found and fails "
-         "elsewhere is thrown away, not softened."),
-        ("Grade it, and say so",
-         "Tier A fits everywhere checked. B fits most, the rest unclear rather than against. "
-         "C and D were read from one passage with nothing able to refuse them. G is a guess, "
-         "printed in brackets and counted as read nowhere."),
-        ("Write down the evidence",
-         "The folios and lines go into the file with the reading, so anyone can repeat the "
-         "check, or overturn it."),
-    ]
-    mistakes = [
-        ("A sign was treated as an atom",
-         "Eleven attempts assumed one sign meant one word with a meaning to guess. Many signs "
-         "are short phrases written without a space, and both halves were already in the "
-         "dictionary. That was the whole game."),
-        ("The wrong question about compounds",
-         "Asking whether <i>Holy Word</i> inherits its meaning from <i>Word</i> gave a true "
-         "negative that looked like a dead end. The question that paid was whether signs combine."),
-        ("A unit error",
-         "Figures were computed per glyph when a word averages 2.43 glyphs. Every number moved "
-         "when it was fixed. Confirm what one row of a transcription is before measuring it."),
-        ("A homograph collision",
-         "Keying a scraped dictionary by code and keeping the last entry made the book's "
-         "commonest word read <i>eleven</i> when it is <i>and</i>. Sixty-five codes had to be merged."),
-        ("Blaming the corpus",
-         "A failing aligner was predicted to be failing because it used only the four gospels. "
-         "1.75 million words of the wider sources were fetched and it scored no better."),
-        ("Reading only the headword",
-         "Their entries carry variant spellings in their own apparatus. Keying by headword "
-         "silently dropped 88 signs, 1.2% of the book, that they had already read."),
-        ("The arithmetic of what was left",
-         "Three versions of it were wrong, one of which counted a line as reached while an "
-         "unread word still stood in it. The wrong figures are kept beside the right ones."),
-    ]
-    sl = "".join(f"<li><b>{html.escape(t)}.</b> {d}</li>" for t, d in steps)
-    ml = "".join(f"<li><b>{html.escape(t)}.</b> {d}</li>" for t, d in mistakes)
+    sl = items("method_steps")
+    ml = items("method_mistakes_list")
     body = f"""
 <h1>The method</h1>
 {paras("method_intro", "lead")}
@@ -770,7 +741,8 @@ def page_method():
 def page_read():
     body = """
 <h1>Read it here</h1>
-<p class="lead">The whole edition in the browser. Book One retells the manuscript part by part; Book Two prints all 441 folios with their marked lines. The same file, to keep or to send to a reader, is the <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a>; the interior as it prints is the <a href="/rohonc/book/the-rohonc-codex-print.pdf">PDF</a>.</p>
+""" + paras("read_lead", "lead") + """
+<p><a href="/rohonc/book/the-rohonc-codex.epub">Take the EPUB</a> · <a href="/rohonc/book/the-rohonc-codex-print.pdf">the interior as it prints</a></p>
 <div id="rdrwrap">
   <div id="rdrbar">
     <button id="rprev" aria-label="Previous page">&#8249;</button>
@@ -822,12 +794,7 @@ def page_tests(summary):
 {paras("tests_intro", "lead")}
 <div class="fig">{html.escape(summary)}</div>
 {paras("tests_after")}
-<p>Two things in that table are worth saying plainly. The passage map, which every
-other test leans on, can be recovered from Király and Tokai's words alone, so it does
-not depend on anything this project read. And the two instruments the outside reviewer
-specified for the search itself gave no verdict either way: they do not model the search
-as it was actually run, and that is written up as a failure of the instrument rather
-than a result about the manuscript.</p>
+{paras("tests_note")}
 <p>The saved run behind every line is in the <a href="/rohonc/data.html">data</a>, one
 file per test, each stating its bar at the top. The reviewers' own specifications are
 there too, quoted whole: <a href="/rohonc/outside-gemini.html">Gemini 2.5 Pro</a> and
@@ -839,38 +806,35 @@ there too, quoted whole: <a href="/rohonc/outside-gemini.html">Gemini 2.5 Pro</a
                  body)
 
 
+def citations():
+    """The citations owed, read out of DATA_PROVENANCE.md. They are facts with
+    accents in them, and a model asked to copy them back drops one."""
+    txt = read(os.path.join(ROOT, "DATA_PROVENANCE.md"))
+    m = re.search(r"## Citations owed in any write-up\n(.*?)(?=\n## |\Z)", txt, re.S)
+    if not m:
+        raise SystemExit("ktsite: DATA_PROVENANCE.md lost its citations")
+    out = []
+    for blk in re.split(r"\n(?=- )", m.group(1).strip()):
+        c = " ".join(blk.lstrip("- ").split())
+        if c:
+            out.append(c.split(" -- ")[0])
+    return out
+
+
 def page_sources():
-    cites = [
-        ("Levente Zoltán Király and Gábor Tokai, “Cracking the code of the Rohonc Codex”, "
-         "<i>Cryptologia</i> 42:4 (2018), 285–315.",
-         "The dictionary and the grammar. Everything here rests on it."),
-        ("Levente Zoltán Király, “A Rohonci kódex teológiai karaktere”, in "
-         "<i>Hagyomány, Identitás, Történelem 2022</i>, KRE HTK, Budapest 2023, 363–376.",
-         "Why the site exists: so that their claims about the text can be checked."),
-        ("Ottó Gyürk (1970), on line breaks in the codex’s repeated sequences.",
-         "The idea the orientation test and the main measurement both rest on."),
-        ("Benedek Láng, <i>The Rohonc Code: Tracing a Historical Riddle</i>, "
-         "Penn State Press, 2021.",
-         "The standing survey of the manuscript and of everyone who has attacked it."),
-        ("The anonymous author of the 2014 open transcription.",
-         "Published openly; the site is gone and permission cannot be asked. Credited as "
-         "fully as it can be."),
-        ("Library of the Hungarian Academy of Sciences, the page scans.",
-         "Free for academic use, not to be passed on. Used locally. The plates in the edition "
-         "are redrawings made from them, never the scans themselves."),
-    ]
-    cl = "".join(f"<li>{c}<br><span class=\"nof\">{d}</span></li>" for c, d in cites)
+    cites = citations()
+    gloss = [str(x) for x in COPY["sources_cites"]]
+    cl = "".join(
+        f'<li>{md_inline(c)}<br><span class="nof">{html.escape(gloss[i]) if i < len(gloss) else ""}</span></li>'
+        for i, c in enumerate(cites))
     body = f"""
 <h1>Sources and credit</h1>
 {paras("sources_intro", "lead")}
 <h2>What is cited</h2>
 <ul class="steps">{cl}</ul>
 <h2>What is not here</h2>
-<p>Király and Tokai's dictionary, their transcription, their page records and the library's
-scans are not on this site. Their site is <a href="https://rechnitzer-kodex.hu/" rel="noopener">rechnitzer-kodex.hu</a>
-and it is the place to read them. The one thing of theirs these pages do use is the shape of
-the signs, drawn from the outlines in their font so that the script can be seen at all; the
-font file itself is not served, and the shapes are the sixteenth-century scribe's.</p>
+{paras("sources_not_here")}
+<p>Their site is <a href="https://rechnitzer-kodex.hu/" rel="noopener">rechnitzer-kodex.hu</a>, and it is the place to read them.</p>
 <h2>The working documents</h2>
 {paras("docs_lead")}
 <ul class="steps">{docs_html()}</ul>

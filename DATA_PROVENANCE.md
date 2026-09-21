@@ -82,13 +82,13 @@ restricted to repository staff and was not obtained.
 
 ## Citations owed in any write-up
 
-- Levente Zoltan Kiraly and Gabor Tokai, "Cracking the code of the Rohonc
+- Levente Zoltán Király and Gábor Tokai, "Cracking the code of the Rohonc
   Codex", *Cryptologia* 42:4 (2018), 285-315.
-- Levente Zoltan Kiraly, "A Rohonci kodex teologiai karaktere", in *Hagyomany,
-  Identitas, Tortenelem 2022*, KRE HTK, Budapest 2023, 363-376.
-- Otto Gyurk (1970), on line breaks in the codex's repeated sequences -- the
+- Levente Zoltán Király, "A Rohonci kódex teológiai karaktere", in *Hagyomány,
+  Identitás, Történelem 2022*, KRE HTK, Budapest 2023, 363-376.
+- Ottó Gyürk (1970), on line breaks in the codex's repeated sequences -- the
   idea both the orientation test and the main result rest on.
-- Benedek Lang, *The Rohonc Code: Tracing a Historical Riddle*, Penn State
+- Benedek Láng, *The Rohonc Code: Tracing a Historical Riddle*, Penn State
   Press, 2021.
 - The anonymous author of the 2014 open transcription.
 
