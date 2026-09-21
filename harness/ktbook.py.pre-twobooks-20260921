@@ -7,22 +7,10 @@ studio does that, with a person looking at the preview.
     python3 ktbook.py --out /tmp/book.json
     python3 ktbook.py --shelf /opt/publish-app/data/u1/books/<bid>
 
-Shape: two books between one pair of covers, and the split is the whole point.
-
-  BOOK ONE is the reading experience. One continuous retelling per part,
-  written as prose, labelled editorial on every part, citing the folios each
-  sentence draws on. It is allowed to smooth. It is not allowed to know
-  anything the gloss does not contain, and ktretellcheck.py refuses it if it
-  does.
-
-  BOOK TWO is the evidence. All 441 folios in manuscript order, six to a
-  chapter, each with its English paragraph and its marked line-by-line text.
-  The marks are the point: a reader has to be able to see which words are read
-  and which are guesses.
-
-The front never claims to be translation at a resolution the back cannot
-support. Where the two disagree, the back is right, and every part of the
-front says so in its own last paragraph.
+Shape: 441 folios in their manuscript order, gathered into chapters of six,
+under named parts. Each folio keeps its heading, its English paragraph and its
+marked text, because the marks are the point -- a reader has to be able to see
+which words are read and which are guesses.
 """
 import argparse
 import json
@@ -34,10 +22,6 @@ import corpus
 
 ED = os.path.join(corpus.ROOT, "work", "rohonc", "translation",
                   "rohonc_readers_edition.md")
-RT = os.path.join(corpus.ROOT, "work", "rohonc", "translation",
-                  "retelling.md")
-EN = os.path.join(corpus.ROOT, "work", "rohonc", "translation",
-                  "english.json")
 
 # Part boundaries, by the folio each part opens on, in manuscript order.
 PARTS = [
@@ -94,82 +78,44 @@ def folios():
     return out
 
 
-def english():
-    """The gate-checked English paragraph for each folio, where one survives.
-
-    Written from the gloss alone -- no source passage, no chapter title, no
-    page image -- and then checked word by word against that folio's own
-    gloss. Eight folios have no entry here because their English failed the
-    check twice and was dropped; those folios print their marked lines and
-    nothing else, which is the honest outcome.
-    """
-    if not os.path.exists(EN):
-        return {}
-    return {k: v["english"] for k, v in
-            json.load(open(EN, encoding="utf-8")).items()}
-
-
-def retelling():
-    """Book One, one entry per part, keyed by the part name in PARTS."""
-    if not os.path.exists(RT):
-        return {}
-    out = {}
-    for m in re.finditer(r"^## ([^\n]+)\n\n### folios (\d{3}[rv])–(\d{3}[rv])\n"
-                         r"(.*?)(?=^## |\Z)", open(RT, encoding="utf-8").read(),
-                         re.M | re.S):
-        name, lo, hi, body = m.groups()
-        out[name.strip()] = (lo, hi, body.strip())
-    return out
-
-
 def front_matter():
     return """The Rohonc Codex is a book of about 450 leaves in an unknown
-script, in the library of the Hungarian Academy of Sciences. For roughly two
-hundred years nobody could read it. It dates itself: 1593.
+script, in the library of the Hungarian Academy of Sciences. Nobody could read
+it for two hundred years.
 
 In 2018 **Levente Zoltan Kiraly** and **Gabor Tokai** published, in
 *Cryptologia*, the dictionary and grammar that broke it. The script is a
 right-to-left system of several hundred signs, mostly logographic, and the
 language is not Hungarian but something the scribe built for the purpose. The
 book is a Christian devotional compilation of the sixteenth century: the
-apocryphal Life of Adam and Eve running straight into the legend of the Rood,
-the story of Joachim and Anne, a Passion, sermons and parables for the gospels
-of the year, the Finding of the Cross, the Acts of the Apostles, and at the
-very end a few pages of one man's diary.
+apocryphal Life of Adam and Eve, the legend of the Rood, the story of Joachim
+and Anne, a Passion, sermons and parables for the gospels of the year, the
+Finding of the Cross, and the Acts of the Apostles.
 
 **Everything you can read here rests on their work.** Roughly three quarters
-of the words below are theirs or follow directly from theirs. Kiraly and Tokai
-have read large parts of this manuscript. What has not existed before is the
-whole of it, end to end, in a modern language, with every word marked for how
-well it is known -- and that, and only that, is what this edition claims to
-be. Their own translation is unpublished; this is not it, and nothing here
-should be attributed to them except the dictionary and the grammar, which are
-entirely theirs.
+of the words below are theirs or follow directly from theirs. Their own
+translation of the manuscript has never been published; this is not it, and
+nothing here should be attributed to them except the dictionary and the
+grammar, which are entirely theirs.
 
 ## How to read the marks
 
-Every word on every page carries one of these marks, so that what is known can
+Every word on every page carries one of four marks, so that what is known can
 be told apart from what is not.
 
-**word** — read. Kiraly and Tokai's own dictionary, or a reading of this
-project that survives every occurrence of the sign in the book.
+| mark | meaning |
+|---|---|
+| `word` | **read.** Kiraly and Tokai's own dictionary, or a reading of this project that survives every occurrence in the book. |
+| `word*` | **one passage.** Read from a single passage, with nothing in the manuscript able to refuse it. |
+| `word^` | **a sense chosen.** Their entry gives several senses for this sign; this is the one the passage the folio itself cites actually uses. |
+| `[word]` | **restored.** A guess, made from the folio's source passage and the words on either side. Counted as read nowhere. |
+| `[…]` | dark. There are none left. |
 
-**word\\*** — one passage. Read from a single passage, with nothing in the
-manuscript able to refuse it. Likelier right than wrong; not proved.
-
-**word^** — a sense chosen. Their entry gives several senses for this sign,
-and this is the one the passage the folio itself cites actually uses.
-
-**[word]** — restored. A guess, made from the folio's source passage and the
-words on either side of the hole. Counted as read nowhere.
-
-**[…]** — dark: no reading and no honest guess. There are none left.
-
-A hyphen inside a word (*hide_oneself-angel*) is one sign of the manuscript
+A hyphen inside a word (`hide_oneself-angel`) is one sign of the manuscript
 read as the smaller signs it is built from. This script writes phrases without
 spaces, which is the central fact Kiraly and Tokai established about it. A `~`
-marks a spelling their own apparatus files as a variant. A vertical bar is a
-gap or an unreadable glyph in the transcription.
+marks a spelling their own apparatus files as a variant. A `|` is a gap or an
+unreadable glyph in the transcription.
 
 ## What this book is worth, in numbers
 
@@ -188,62 +134,27 @@ every word read. The gap between that and 99.9% is exactly how much of this
 book is guesswork, and it is printed in brackets on every page so that anyone
 can strip it out.
 
-## What a bracket is worth
-
-Four numbers were measured before a single bracket was printed, and they pull
-in different directions on purpose. Taken one at a time:
-
-**The passage a folio cites contains the true word 7.8% of the time.** That is
-the ceiling on this method. For more than nine words in ten that are still
-unread, the source the folio points at simply does not contain the answer, so
-no amount of care in choosing from it would help.
-
-**When the word is in the passage, the best candidate is right about one time
-in four.** So the guesses that can be right are right often enough to be worth
-printing, which is why they are here rather than left as holes.
-
-**Against Kiraly and Tokai's own hidden entries, the top candidate scored
-0.0%.** That is the mechanical generator scoring nothing at all on the hardest
-population there is -- see the appendix for what was masked and why it is the
-hardest. It is the reason a bracket is never counted as a reading anywhere in
-this book.
-
-**Three quarters of the bracketed content words do land on a word that
-actually stands in the verse the folio cites.** That is the only part of this
-that can be checked from inside the book, and it is the reason the brackets are
-better than nothing.
-
-Put together: read a bracket as a suggestion from an editor who knows the
-source and does not know the word.
+**What a bracket is worth, measured before any were printed.** On words as
+rare as the ones left over, the passage a folio cites contains the true word
+7.8% of the time, and when it is there the best candidate is right about one
+time in four. Against Kiraly and Tokai's own hidden dictionary entries the top
+candidate was right 0.0% of the time. What can be checked from inside the book
+is that three quarters of the bracketed content words land on a word that
+actually stands in the verse the folio cites. Read a bracket as a suggestion
+from an editor who knows the source and does not know the word.
 
 The weakest pages in the book are the last two leaves, 224r and 224v, the
 worst-preserved in the manuscript, which cite no source. Their brackets are
 little more than placeholders and are marked as such in the project's record.
 
-## A known crux, named rather than tidied away
-
-One formula runs through the whole manuscript like a drone: *every man is
-saved; and one man is damned*. It comes out of the gloss with its polarity
-reversed from folio to folio -- sometimes every man is saved, sometimes every
-man is damned. It is almost certainly a fixed creedal tag whose word order
-this rendering is not capturing, and not a book that repeatedly damns
-everybody. It has been left exactly as the gloss produces it, in both halves
-of this edition, rather than quietly straightened. Anyone who solves the word
-order of that formula will improve several hundred lines at once.
-
 ## A note on the English
 
-Nothing in Book Two is smoothed. Where the manuscript writes a phrase as one
-sign, the English prints it as one hyphenated word. The result reads like a
-gloss because it is one. The paragraph at the head of each folio was written
-from that folio's gloss and from nothing else -- not from the passage the
-folio cites, not from the chapter heading, not from the page image -- and was
-then checked word by word against that same gloss. Eight folios failed that
-check twice; their English was thrown away and they print their marked lines
-alone.
-
-Book One is the opposite kind of document, and says so on its own first page.
-
+Nothing here is smoothed. Where the manuscript writes a phrase as one sign,
+the English prints it as one hyphenated word. Where a sign has several senses
+and the passage cannot choose between them, the first sense is printed. The
+result reads like a gloss because it is one. The paragraph at the head of each
+folio is a reading of that page into sentences; the numbered lines under it
+are the manuscript itself, line for line, with the marks intact.
 """
 
 
@@ -274,21 +185,9 @@ folio cites* — not the Bible in general — at 18.6 sigma against a control
 where the folios are shuffled against their passages. That is the result the
 whole book stands on.
 
-**A held-out test, and a contaminated one.** A seeded random tenth of Kiraly
-and Tokai's own dictionary entries were hidden from the tools, exactly as a
-genuinely unread sign is hidden, and the pipeline was run blind on them. One
-thing must be said about that sample before its number is quoted, and it was
-said in the script before the test ran: **masked entries are not a fair
-sample of the signs still dark.** Kiraly and Tokai glossed the words they
-could, which are disproportionately the ones with relatives elsewhere in their
-own dictionary; the signs still unread occur once and have no such relatives.
-So the headline figure was declared in advance to be the one restricted to
-masked signs with no surviving structural neighbour -- the hardest population
-in the book, and the one that actually resembles what is left. On it, the best
-passage candidate recovered their gloss 0.0% of the time. That number
-calibrates the brackets, and it is why no bracket is ever counted as a reading.
-It does not bear on the 93.3% that are read, which rest on the dictionary and
-on survival at every occurrence, not on any generator. A second form
+**A held-out test, and a contaminated one.** A tenth of Kiraly and Tokai's own
+dictionary entries were hidden and the full pipeline run blind on them. The
+best passage candidate recovered their gloss 0.0% of the time. A second form
 of the test had to be thrown away: the reader running it had spent the day
 reading the dictionary, and flagged twelve of twenty-five sampled signs as
 already seen. Those twelve scored 75%; the thirteen genuinely unseen scored
@@ -320,23 +219,7 @@ a line and deciding what a sign means — has never been measured by anyone who
 had not already read the dictionary. The project prepared that test, named it,
 and could not run it honestly on itself. It is the cheapest and most damaging
 external check available, and anyone may run it."""},
-        {"type": "appendix", "pos": 2, "title": "What this edition transmits",
-         "text": """This is a sixteenth-century Catholic devotional book and it
-carries its genre's material without alteration here.
-
-Two things a modern reader meets in the sermons are worth naming plainly.
-The siege in which a starving mother eats her own child, at 111v-112r, is not
-an invention of this book: it is scripture, at 2 Kings 6:28-29 and Lamentations
-4:10, under the curse of Deuteronomy 28:53-57, and it reached the medieval
-Passion sermon through Josephus' account of Jerusalem. The arithmetic on the
-same leaves -- thirty Jews sold for one penny, because Judas sold the Lord for
-thirty -- is not scripture. It is a medieval addition out of the Vindicta
-Salvatoris tradition, and it is anti-Jewish polemic of a kind that ran through
-Passion preaching all over Europe.
-
-Both are printed as the manuscript has them. An edition that cut them would be
-a worse witness to what a Catholic in Hungary in 1593 was actually reading."""},
-        {"type": "appendix", "pos": 3, "title": "Acknowledgment",
+        {"type": "appendix", "pos": 2, "title": "Acknowledgment",
          "text": """The dictionary and the grammar of the Rohonc Codex are the
 work of **Levente Zoltan Kiraly** and **Gabor Tokai**, published as "Cracking
 the code of the Rohonc Codex", *Cryptologia* 42:4 (2018), 285-315, with
@@ -356,40 +239,10 @@ None of these people are responsible for anything in this edition."""},
 
 def build():
     fol = folios()
-    eng = english()
-    rt = retelling()
     idx = {pg: i for i, (pg, _, _, _) in enumerate(fol)}
     bounds = [(idx.get(pg, 0), name, blurb) for pg, name, blurb in PARTS]
     bounds.sort()
     chapters = []
-
-    # ---- BOOK ONE: the retelling, one chapter per part ------------------
-    first = True
-    for bi, (start, pname, pblurb) in enumerate(bounds):
-        end = bounds[bi + 1][0] if bi + 1 < len(bounds) else len(fol)
-        lo, hi = fol[start][0], fol[end - 1][0]
-        got = rt.get(pname)
-        if not got:
-            continue
-        body = got[2].replace("«", "*").replace("»", "*")
-        ch = {"title": pname.split(".", 1)[-1].strip(),
-              "subtitle": "folios %s–%s" % (lo, hi),
-              "text": body}
-        if first:
-            ch["part"] = "Book One — The Book as it Reads"
-            ch["part_sub"] = (
-                "A continuous retelling, part by part. It is editorial: it "
-                "joins, it orders and it supplies the English that the "
-                "manuscript's word order does not. Every sentence is drawn "
-                "from the folios cited beside it, and words inside italic "
-                "quotation marks are the manuscript's own as Book Two renders "
-                "them. Nothing here comes from the sources the codex is "
-                "working from. Where this and Book Two disagree, Book Two is "
-                "right.")
-            first = False
-        chapters.append(ch)
-
-    # ---- BOOK TWO: the folios themselves --------------------------------
     for bi, (start, pname, pblurb) in enumerate(bounds):
         end = bounds[bi + 1][0] if bi + 1 < len(bounds) else len(fol)
         run = fol[start:end]
@@ -399,11 +252,14 @@ def build():
             for pg, title, prose, lines in grp:
                 body.append("**%s**%s" % (pg, (" — " + title) if title else ""))
                 body.append("")
-                # The English written from the gloss alone and leak-checked.
-                # Eight folios lost theirs and print their lines bare; that is
-                # what a refused folio is supposed to look like.
-                if pg in eng:
-                    body.append(eng[pg].replace("\n", " "))
+                if prose:
+                    # The paragraph was made into sentences while 1,087 words
+                    # of the book still had no reading, and it keeps a gap at
+                    # each of them. The lines below it do not. Print the gap
+                    # as a plain ellipsis rather than the edition's [...],
+                    # which means something stricter, and say so in the front
+                    # matter rather than pretending the two agree.
+                    body.append(prose.replace("[…]", "…"))
                     body.append("")
                 if lines:
                     body.append("<pre>")
@@ -415,19 +271,11 @@ def build():
                   "subtitle": grp[0][1] or "",
                   "text": "\n".join(body).strip()}
             if ci == 0:
-                ch["part"] = ("Book Two — The Manuscript, Folio by Folio"
-                              if bi == 0 else pname)
-                ch["part_sub"] = (
-                    "All 441 folios in the order the manuscript has them, six "
-                    "to a chapter. The paragraph under each folio number is "
-                    "English written from that folio's gloss and nothing else; "
-                    "the lines beneath it are the manuscript itself, line for "
-                    "line, with every mark intact. This is the evidence."
-                    if bi == 0 else pblurb)
+                ch["part"] = pname
+                ch["part_sub"] = pblurb
             chapters.append(ch)
     return {
         "title": "The Rohonc Codex",
-
         "subtitle": "The whole manuscript in English, folio by folio",
         "author": "an unknown hand, Hungary, sixteenth century",
         "design": {"theme": "classic", "dingus": "· · ·",

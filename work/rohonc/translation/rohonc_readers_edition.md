@@ -6582,8 +6582,8 @@ words. There are 980 of them now.
   3  this_is begin-year write
   4  two-two-son
   5  from* [the_beginning] then-exist exist [?]-+day in_turn see* and_then*
-  6  son Moses [five_thousand_one_hundred_and_ninety_nine] from-+name-year first-+day
-  7  seven in_turn <preposition_of_genitive>-from-see two-year [a_thousand_five_hundred_and_sixty]
+  6  son Moses [a_numeral] from-+name-year first-+day
+  7  seven in_turn <preposition_of_genitive>-from-see two-year [a_numeral]
   8  from-understand earth understand be_born Lord-Jézus-Christ
   9  on-this world* ~out(ward) five_thousand and hundred-+day and | nine-ten
  10  year and nine-year and this symbolize nine from-[?] from-understand begin this world.
