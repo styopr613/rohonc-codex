@@ -34,6 +34,17 @@ Its stretches, this edition's divisions and not the book's:
               Barlaam, the healings, the stewards and
                 the lepers                                       148r-182v
 
+## When the readings have been hardened
+
+    cd harness && python3 whatbroke.py
+
+One command: what broke, what is exposed, what is load-bearing, what is left.
+`fix.md` at the repo root explains each section and what to do about it. The
+short answer is that Book One quotes Kiraly and Tokai seven eighths of the
+time, so hardening our own readings cannot move most of it: 13.1% of
+quotations are exposed, the bar for patching rather than rewriting was a
+fifth, and it was declared before the count was run.
+
 ## THE NEXT THING TO DO
 
 Write the missing two stretches of Part VII, then Parts VIII and IX, then

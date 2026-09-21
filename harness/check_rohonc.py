@@ -540,8 +540,8 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 3641 tokens = 12.1% rendered",
-          len(g) == 2 and g[0] == 3641 and close(g[1], 12.1, .02), str(g))
+    check("proposals: 3621 tokens = 12.1% rendered",
+          len(g) == 2 and g[0] == 3621 and close(g[1], 12.1, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
     check("proposals: 3567 lines fully read with them",
           len(g) == 2 and g[0] == 3567 and close(g[1], 81.6, .02), str(g))
@@ -552,7 +552,7 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "1782 signs are read" in flat
+          "METHOD.md" in flat and "1781 signs are read" in flat
           and "23.8% to **81.6%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
