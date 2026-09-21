@@ -4487,5 +4487,71 @@
   "tier": "C",
   "n": 1,
   "evidence": "Found by ktinside.py, which looks for an unread sign inside a sign K&T already read. Tail of K&T's 520060969 'if; then'. 026v:7: 'the holy day arrived, [x], said, there was, said the Lord God, Abraham, to the angel'."
+ },
+ "791": {
+  "gloss": "queen",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py. Tail of 270791, which this project already reads as 'queen'. 144v:7: '[x], thou who holdest heaven and earth, Lady, virgin'. The folio's own first line is the same invocation with K&T's queen sign in it -- 'Good Queen, thou who holdest heaven and earth' -- so the codex writes the word twice on one page in two spellings."
+ },
+ "6f8": {
+  "gloss": "Zacchaeus",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py. Tail of K&T's 6703b15402d46f8 'Zacchaeus' and of two further spellings this project reads as Zacchaeus. 207v:2: '[x] have, because this name, today, inside, of Zacchaeus'. Douay Luke 19:5: 'Zacheus, make haste and come down; for this day I must abide in thy house.' The name stands twice on the line, long form and short."
+ },
+ "755670": {
+  "gloss": "Saul",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py. Head of K&T's 755670b26 'Saul'. 220r:1: 'to the brethren of the Lord, through persecuting the scribes, and crying out to this [x]'. The folio is Acts 9, Saul on the Damascus road, and 220v names Saul again three lines running."
+ },
+ "9d9": {
+  "gloss": "extort",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py. Tail of K&T's a109d9 'extort; extorter'. 175r:1: 'the servant, the rich lord had this, and from [x], the servant'. The folio is the unforgiving servant of Matthew 18:28 -- Douay: 'he laid hands on him and throttled him, saying: Pay what thou owest' -- which is the extortion the compound names."
+ },
+ "331": {
+  "gloss": "where",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py. Tail of K&T's 520331 'where'. 182r:5: '[x] the Lord God, the Lord Jesus, supper, made, time'. Douay Mark 14:14: 'WHERE is my refectory, where I may eat the pasch with my disciples?'"
+ },
+ "5209ab5510a0": {
+  "gloss": "star",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py --rev, which looks for a sign K&T already read sitting inside an unread one and says what is left over. This sign is K&T's 5209ab551 'star' with 0a0 after it. 020v:4: 'and he shall be called Jesus; at that time there was in the sky a [x]'. Douay Matthew 2:2: 'We have seen his STAR in the East, and are come to adore him.' The sky is already on the line and the folio is the Nativity."
+ },
+ "5400607b45201d3": {
+  "gloss": "till_the_earth",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktinside.py --rev, which looks for a sign K&T already read sitting inside an unread one and says what is left over. This sign is K&T's 5400607b4 'cultivate; farm; farmer; vineyard worker' with 5201d3 after it. 007r:2: 'the gates, there was Adam, the earth, [x]'. Douay Genesis 3:23: 'And the Lord God sent him out of the paradise of pleasure, to TILL THE EARTH from which he was taken' -- and 3:24 sets the cherubim at the gate, which is the word standing at the head of the same line."
+ },
+ "271670ae0271670ae0740": {
+  "gloss": "army",
+  "tier": "B",
+  "n": 2,
+  "evidence": "Found by ktinside.py --rev, which looks for a sign K&T already read sitting inside an unread one and says what is left over. This sign is the doubled army form this project already reads (tier B) with 740 after it -- the same word with a further ending. 216r:4: 'an army [x], angel, and then the Jews'; 217v:9: 'inside, on the throne, sat, and, an army [x]' -- and K&T's own army sign stands on both lines beside it."
+ },
+ "8456705d13605155e0": {
+  "gloss": "Elijah",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktinside.py --rev, which looks for a sign K&T already read sitting inside an unread one and says what is left over. This sign holds K&T's 6705d1360 'Elijah' whole, with 845 before it and 5155e0 after. 008v:7: 'inside one chapter, [x], of the writing' -- a citation formula, and the book's frame is a revelation to Elijah, whose name it gives in several spellings. Tier C rather than B because the material on both sides of the name is unaccounted for and may carry more than an ending."
+ },
+ "a10003a10060b92": {
+  "gloss": "man",
+  "tier": "C",
+  "n": 3,
+  "evidence": "Found by ktinside.py --rev, which looks for a sign K&T already read sitting inside an unread one and says what is left over. This sign is K&T's a10003a10060 'human; man; somebody; we' whole, with b92 after it. All three occurrences are on 093r, a folio of servants: 093r:4 'this living servant, this living one, [x], lo, the living servant'; 093r:8 '[x], goes, sees, and would plough the land'; 093r:9 'asked this servant to speak, [x]'. Douay Luke 17:7: 'But which of you having a servant ploughing... will say to him?' Read as the same word with an ending, not as a new one."
+ },
+ "5201b3a10003a10060": {
+  "gloss": "man",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Found by ktinside.py --rev, which looks for a sign K&T already read sitting inside an unread one and says what is left over. This sign ENDS with K&T's a10003a10060 'human; man; somebody; we', with 5201b3 in front. 216r:7: 'leave, the letter, [x], one son, and this son'; 216r:8: 'there was this Saul, and [x], there was, this believe'. The folio is Acts 9. Read as 'man' with a modifier in front that this project cannot account for, which is why it is C and not B."
  }
 }

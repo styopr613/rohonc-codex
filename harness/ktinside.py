@@ -21,6 +21,16 @@ every occurrence agree get written down.
     python ktinside.py            every unread sign found inside a read one
     python ktinside.py --min N    only signs of N hex digits or more
                                   (short ones collide by chance; 6 is sane)
+    python ktinside.py --rev [--hold N]
+                                  the other direction: unread signs that
+                                  CONTAIN a read one, with the rest of the
+                                  string shown as what is left to account for
+
+THE REVERSE DIRECTION. ktsegment already splits an unread sign when EVERY
+part of it is known. --rev catches the case it cannot: one part known, one
+part not. That does not read the sign, but it says what half of it means and
+exactly how many glyphs are unaccounted for, which is often enough to settle
+a word from the line.
 """
 import sys
 from collections import defaultdict
@@ -34,6 +44,12 @@ def main(argv):
     minlen = 6
     if "--min" in argv:
         minlen = int(argv[argv.index("--min") + 1])
+    # --rev only: how long the CONTAINED sign has to be before it counts.
+    # Without this the common one-glyph words (520 'to', a10 'the', 060 'one')
+    # match nearly every long sign and the output is all noise.
+    holdlen = 6
+    if "--hold" in argv:
+        holdlen = int(argv[argv.index("--hold") + 1])
     gl, doc, seg, var, prop, inv = K.build()
 
     # every sign that HAS a reading, with the words it was read as
@@ -54,21 +70,32 @@ def main(argv):
                              for t in tk)
                 where[K.hx(b)].append((p.page, i, s))
 
+    rev = "--rev" in argv
     hits = []
     for h in where:
         if len(h) < minlen:
             continue
-        parents = [(ph, g) for ph, g in read.items() if h in ph and ph != h]
+        if rev:
+            parents = [(ch, g) for ch, g in read.items()
+                       if len(ch) >= holdlen and ch in h and ch != h]
+            parents.sort(key=lambda r: -len(r[0]))
+        else:
+            parents = [(ph, g) for ph, g in read.items() if h in ph and ph != h]
         if parents:
             hits.append((len(where[h]), h, parents))
     hits.sort(key=lambda r: -r[0])
 
-    print(f"{len(hits)} unread signs of {minlen}+ hex digits sit inside a read sign\n")
+    which = "contain a read sign" if rev else "sit inside a read sign"
+    print(f"{len(hits)} unread signs of {minlen}+ hex digits {which}\n")
     for n, h, parents in hits:
         print(f"=== {h}   x{n}")
         for ph, g in parents[:4]:
-            pos = "head" if ph.startswith(h) else ("tail" if ph.endswith(h) else "inside")
-            print(f"    in {ph}  ({pos})  = {g}")
+            if rev:
+                rest = h.replace(ph, " _ ", 1).strip()
+                print(f"    holds {ph} = {g}   (left over: {rest or 'nothing'})")
+            else:
+                pos = "head" if ph.startswith(h) else ("tail" if ph.endswith(h) else "inside")
+                print(f"    in {ph}  ({pos})  = {g}")
         for pg, i, s in where[h][:4]:
             print(f"    {pg}:{i:<3d} {s[:150]}")
         print()
