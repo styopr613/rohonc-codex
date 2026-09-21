@@ -5285,5 +5285,23 @@
   "tier": "C",
   "n": 1,
   "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520 'that; to whom; what; which; whose'. Read as the relative, like the seven signs of the same shape entered before it. Occurrence(s): 025r:7 'from-healing <<[x]>> ask_(for) from-healing this Lord <preposition_of_genitive>-somebody son sa'"
+ },
+ "5203f0b15": {
+  "gloss": "example",
+  "tier": "C",
+  "n": 6,
+  "evidence": "One formula, six times across 164r-166r: 'holy Luke, this [x], therefore...' at 165v:5, 166r:3 and 166r:6, and 'this [x]' at 164r:5, 165r:7 and 165v:9. It is a citation formula -- Saint Luke writes in this [x], therefore -- and every word of it but this one is read. 'chapter' is carried by 670060ae0, 'gospel' and 'parable' (53aa84) are carried too, so the word left for a devotional compiler citing a story with a moral is 'example', the exemplum. It is free in both translations. The neighbouring lines are doing allegory in the codex's own vocabulary -- 165r:2 'every man, this town, symbolize' -- so 'figure' would read as well, and a reviewer who prefers it loses nothing: the formula is the same either way. 165v:9 has 'many thieves' in it and 166r:3 'humble', which is the shape of an exemplum and its moral."
+ },
+ "5efae0": {
+  "gloss": "war",
+  "tier": "C",
+  "n": 3,
+  "evidence": "All three occurrences are on 183r-183v, whose subject is named on the page: 183v:3 has Heraclius the Byzantine emperor, and K&T's dictionary carries Khosrow the Sasanian king, so these folios are the legend of the Exaltation of the Cross -- Chosroes takes the cross, Heraclius takes it back. 183r:7 'and then there were many years [x] with the Romans'; 183r:9 'and then [x] went, this, to the pagan emperor'; 183v:1 'this Roman emperor then had two [x]'. 'war' is free in both translations; 'army' and 'battle' are both already carried by other signs, which is why this is the third word of that field and not one of them."
+ },
+ "747540": {
+  "gloss": "steal",
+  "tier": "G",
+  "n": 4,
+  "evidence": "A GUESS. One formula four times on 004r: 'the cup, Lucifer, [x], the cup was hidden away, above'. The folio is the taking of the cup from before the throne -- the opening of the book, with the angel, the Father, the throne and Lucifer, and the cup hidden away six times in thirteen lines. The slot wants the act by which the cup leaves the throne, and 'steal' is free in both translations. Tagged as a guess because the folio cites no chapter and verse and the story is not in any text this project has in its corpus, so there is nothing to test it against; what the four lines prove is only that the codex writes one word there four times."
  }
 }

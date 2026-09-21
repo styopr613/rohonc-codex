@@ -49,17 +49,17 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 004r ===
  1  angel <preposition_of_genitive>-father say from-father God angel say hide_oneself-angel because cup-to hide_oneself
  2  ?above <preposition_of_genitive>-father on throne +and_then God angel hide_oneself-angel cup-to hide_oneself
- 3  ?above Lord on throne and then-exist cup hide_oneself-~angel [?] cup-to hide_oneself ?above
+ 3  ?above Lord on throne and then-exist cup hide_oneself-~angel °steal cup-to hide_oneself ?above
  4  and then-exist from hide_oneself-angel return angel to-father
- 5  +and_then angel Lord cup hide_oneself-angel [?] cup-to hide_oneself ?above and two go
+ 5  +and_then angel Lord cup hide_oneself-angel °steal cup-to hide_oneself ?above and two go
  6  father-<suffix_of_divine_name> <preposition_of_genitive>-father angel to-hide_oneself-angel say hide_oneself-angel because cup-to hide_oneself
  7  ?above on-<preposition_of_genitive>-father on throne and then-exist to-hide_oneself-angel go God
  8  angel say God angel cup-to hide_oneself ?above Lord on throne and then-exist
- 9  cup hide_oneself-angel [?] cup-to hide_oneself ?above and then-exist from | hide_oneself
+ 9  cup hide_oneself-angel °steal cup-to hide_oneself ?above and then-exist from | hide_oneself
 10  angel return angel to-father God because-exist
 11  say hide_oneself-angel to-Lord hide_oneself Lord-<suffix_of_divine_name> mother ?coming [?] to-Lord to-Lord this | hide_oneself
 12  angel [?] hide_oneself-angel this on throne +and_then God angel Lord
-13  cup hide_oneself-angel [?] cup-to hide_oneself ?above say hide_oneself-angel to-Lord hide_oneself
+13  cup hide_oneself-angel °steal cup-to hide_oneself ?above say hide_oneself-angel to-Lord hide_oneself
 
 
 === 002r ===
@@ -4142,7 +4142,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  to-~son to-+son from two-two man head and
  3  touch Lord-Jézus <preposition_of_genitive> why?-in_turn from coffin which inside coffin
  4  +lie die son this virgin-woman +and_then | Lord
- 5  Jézus +rise this son [?] son [?] and +rise
+ 5  Jézus +rise this son ?example son [?] and +rise
  6  on-sit how? one prophet +and_then +this_is
  7  go-Lord +descendant to-pleasing-Lord prophet through predict +this_is
  8  go-Lord +and_then Lord-Jézus grab-~son <preposition_of_genitive>-son | believe
@@ -4168,7 +4168,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  this +be_saved each,_every somebody believe +three-+baptize +the_Baptist/woman [?]
  5  +the_Lord be_saved Lord-Jézus-Christ from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord
  6  inside this gospel +<subject_marker> write holy-Luke go two-two man
- 7  head to-~son this [?] son [?] and son
+ 7  head to-~son this ?example son [?] and son
  8  exist die and son grab and carry ?therefore love | Lord
  9  <suffix_of_divine_name> thief +<subject_marker> ?therefore exist humble Lord-<suffix_of_divine_name> ?therefore have
 
@@ -4178,20 +4178,20 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  virgin-woman and son carry out(ward) on-believe.
  3  +three-+baptize +the_Baptist/woman that_is throw_out son remit be_saved
  4  be_damned son chapter-oh chapter-oh inside gospel write
- 5  holy-Luke this [?] ?therefore love +high Lord-<suffix_of_divine_name> | from
+ 5  holy-Luke this ?example ?therefore love +high Lord-<suffix_of_divine_name> | from
  6  literal each,_every +heart +but_rather love-and-this-and +heart love-son and ?therefore ?brethren
  7  then-chapter die-son go to-son and leave ?therefore love
  8  on-one ?ways inside gospel write holy-Luke
- 9  this [?] +<subject_marker> exist many thief +but-+name-to son
+ 9  this ?example +<subject_marker> exist many thief +but-+name-to son
 
 
 === 166r ===
  1  on-repentance grab then-chapter die-son go to-son.
  2  and leave thief on-two ?ways inside-gospel write
- 3  holy-Luke this [?] ?therefore exist humble son
+ 3  holy-Luke this ?example ?therefore exist humble son
  4  somebody and Lord-<suffix_of_divine_name> then-chapter die-son go to-son
  5  and leave ?therefore exist humble on-+three ?ways inside-gospel
- 6  write holy-Luke this [?] ?therefore have
+ 6  write holy-Luke this ?example ?therefore have
  7  son Lord-<suffix_of_divine_name> inside each,_every <preposition_of_genitive>-son [?]
  8  [?] +<subject_marker> exist son inside [?]
  9  then-chapter die-son go to-son and leave ?therefore have
@@ -4600,13 +4600,13 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  cross tree ~on tree exist Christ
  5  execute and tree +<subject_marker> from-carry inside
  6  Ctesiphon_<city_in_Persia> town inside one tower
- 7  and then-exist exist many year [?] on-Roman.
+ 7  and then-exist exist many year ?war on-Roman.
  8  +emperor +name exist Heraclius_<Byzantine_emperor>
- 9  and then-exist [?] go this to-of_an_alien_nation,_pagan +emperor
+ 9  and then-exist ?war go this to-of_an_alien_nation,_pagan +emperor
 
 
 === 183v ===
- 1  this Roman +emperor then-exist have two [?]
+ 1  this Roman +emperor then-exist have two ?war
  2  on-fight +sin_against and then-exist.
  3  +little +an_army have Heraclius_<Byzantine_emperor> +emperor
  4  and then-exist +believe on-?as can | from-to
