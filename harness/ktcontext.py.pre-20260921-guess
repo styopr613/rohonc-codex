@@ -48,7 +48,6 @@ def unhx(h):
 
 
 PROP = {}
-T_MARK = {"A": "+", "B": "+", "C": "?", "D": "?", "G": "\u00b0"}
 
 
 def load():
@@ -92,7 +91,7 @@ def piece(c, gl, var):
         return "~" + S.best_sense(gl[var[c]]).replace(" ", "_")
     if c in PROP:
         g, tier = PROP[c]
-        return T_MARK.get(tier, "?") + g.replace(" ", "_")
+        return ("+" if tier in ("A", "B") else "?") + g.replace(" ", "_")
     return "[?" + hx(c) + "]"
 
 
@@ -106,7 +105,7 @@ def word(t, gl, seg, var):
         return "~" + S.best_sense(gl[var[t]]).replace(" ", "_") + mark
     if t in PROP:
         g, tier = PROP[t]
-        return T_MARK.get(tier, "?") + g.replace(" ", "_") + mark
+        return ("+" if tier in ("A", "B") else "?") + g.replace(" ", "_") + mark
     return "[?" + hx(t) + "]" + mark
 
 

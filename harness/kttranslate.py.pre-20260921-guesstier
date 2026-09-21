@@ -38,13 +38,6 @@ import ktvariant as V
 
 PROPOSALS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")
 
-# How a reading is marked on the page. Tier G is a GUESS: a word chosen by
-# reading the line, its passage and the words on either side of the hole,
-# with nothing in the book able to test it. It is marked with a degree sign
-# so it can never be mistaken for a reading, and it is counted separately
-# everywhere -- a line carrying one is NOT a line with every word read.
-MARK = {"A": "+", "B": "+", "C": "?", "D": "?", "G": "\u00b0"}
-
 # How a reading is marked on the page. Tier G is a GUESS -- a word chosen from
 # the folio's own source passage and the words around the hole, with nothing
 # in the book able to test it. It is marked with a degree sign so that it can
@@ -298,7 +291,7 @@ def main():
     # ---- a third rendering with this project's own proposed readings applied,
     # marked with a plus so they can never be mistaken for K&T's. Tiers A and B.
     kp = Counter()
-    fl = fg = 0
+    fl = 0
     for p in doc:
         for ln in p.lines:
             toks = [t for run in ln for t in run]
@@ -306,12 +299,7 @@ def main():
                 continue
             ks = [kind(t, gl, seg, var, prop) for t in toks]
             kp.update(ks)
-            # A line carrying a GUESS is not a line with every word read.
-            # The first version of this counted tier G with the readings and
-            # the headline figure moved by three guesses, which is exactly
-            # the inflation the tag exists to prevent.
-            fl += all(k not in ("none", "guess") for k in ks)
-            fg += all(k != "none" for k in ks)
+            fl += all(k != "none" for k in ks)
     path = os.path.join(OUT, "rohonc_reading_plus.txt")
     with open(path, "w", encoding="utf-8") as f:
         f.write(HEADER.format(mode="First sense only, PLUS this project's proposed readings "
@@ -325,10 +313,8 @@ def main():
     print()
     print("WITH THIS PROJECT'S PROPOSED READINGS (tiers A and B), marked +word")
     print(f"  proposed here                {kp['prop']:6d}  {kp['prop']/tot*100:5.1f}%")
-    print(f"  GUESSED here (tier G)        {kp['guess']:6d}  {kp['guess']/tot*100:5.1f}%")
     print(f"  no reading                   {kp['none']:6d}  {kp['none']/tot*100:5.1f}%")
     print(f"  lines with every word read   {fl:6d}  {fl/lines*100:5.1f}%")
-    print(f"  lines complete incl. guesses {fg:6d}  {fg/lines*100:5.1f}%")
     print(f"wrote {path}")
     return 0
 

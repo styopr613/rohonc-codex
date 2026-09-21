@@ -4169,23 +4169,5 @@
   "tier": "C",
   "n": 2,
   "evidence": "John 18:10, Douay-Rheims: 'Then Simon Peter, having a sword, drew it and STRUCK the servant of the high priest and cut off his right ear. And the name of the servant was Malchus.' Folio 036v gives the whole verse round the hole: line 1 'cut off with the sword the ear of one Jew', line 2 'and the Jew was named Malchus', lines 3-4 Peter and the sword, and line 6 'put the ear back in its place and healed it', which is Luke 22:51. Every content word of the verse is read except one, and the Douay pool leaves exactly that one: struck. (The King James word for it is 'smote', which the tool now marks as the weaker class; 'drew' is already read as K&T's 60c.) The second occurrence, 048v:2, is on a page with no chapter and verse cited -- the Improperia of Good Friday, which is not in the reference corpus -- and the line is too broken to confirm or refute. So this is a reading of one passage with nothing in the book to test it: tier C."
- },
- "520151670": {
-  "gloss": "dragon",
-  "tier": "G",
-  "n": 2,
-  "evidence": "GUESS, from Barlaam and the two lines themselves. Both occurrences stand in the apologue of the man in the pit and both come straight after the book's word for evil: 148v:7 'and saw one evil [dragon]', 149r:2 'the evil [dragon] tore the man apart'. Barlaam has exactly that creature in exactly that place -- 'he looked down to the bottom of the pit and espied below a dragon, breathing fire, fearful for eye to see, exceeding fierce', and in the moral 'the fiery cruel dragon betokeneth the maw of hell'. dragon is a word no sign carries (serpent is taken, by 5205d1060670ae1670). The slot after 'evil' wants a noun and the source supplies one. Nothing in the book tests it: both occurrences are the same story, so this is a reading of a passage told twice and it is tagged as a guess."
- },
- "5d9": {
-  "gloss": "torment",
-  "tier": "G",
-  "n": 1,
-  "evidence": "GUESS, from Matthew 8:29. Folio 159v is the two men with spirits, and line 2 reads 'the two men cried out, answered [torment], and the Lord went before' with 'time' opening line 3. Douay: 'What have we to do with thee, Jesus Son of God? art thou come hither to TORMENT us BEFORE THE TIME?' -- and 'before' and 'time' are both already on the page in that order. torment carries no sign yet. One occurrence, so nothing can check it."
- },
- "6709c7670": {
-  "gloss": "root",
-  "tier": "G",
-  "n": 1,
-  "evidence": "GUESS, from Barlaam. 148v:4 reads 'outgrow [root] and there came two mice, one black' and line 5 has the two mice beginning to eat the tree. Barlaam: 'two mice, the one white, the other black, that never ceased to gnaw the ROOT of the tree whereon he hung'. root carries no sign; branch does (70a550ae0), which is why the guess is root and not branch. One occurrence, and weaker than the dragon: the slot could as easily be a foothold or a bough."
  }
 }

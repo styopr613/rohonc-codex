@@ -13,7 +13,11 @@ unpublished.  Nothing here chooses between senses; that needs their grammar.
   ~word         variant spelling their own entry marks "var.", read as the headword
   +word         read by this project and checked at every occurrence
   ?word         read by this project from one passage, with nothing to check it against
-  [?]           no reading
+  °word         A GUESS. Not a reading. The word is the best fit this project can
+                offer from the folio's own source passage and the words on either
+                side of the hole, and NOTHING in the book can test it. Lines
+                carrying one are not counted as read.
+  [?]           no reading and no guess
   word.         a full stop: the glyph E034, which ends 99.7% of the words
                 carrying it at the end of a run, so it punctuates
   |             unreadable glyph or gap in the transcription
@@ -3762,17 +3766,17 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  escape ~Adam on-~field and then-exist ~Adam | get_conceived
  2  ~Adam inside one pit and then-exist [?]
  3  [?] ~Adam on-one +tree because exist
- 4  protrude [?] and go two mouse one black
+ 4  protrude °root and go two mouse one black
  5  in_turn-two white and this +tree ~begin two mouse
  6  to-eat and then-exist see ~Adam to-~Adam
- 7  and see one evil [?] and
+ 7  and see one evil °dragon and
  8  who-shout-to ~Adam +lose-~Adam [?]
  9  if ?again go-~Adam this ~Adam this | can
 
 
 === 149r ===
  1  evil die if [?] bow_down ~Adam this.
- 2  evil [?] ~Adam tear_apart and then-exist ~Adam
+ 2  evil °dragon ~Adam tear_apart and then-exist ~Adam
  3  [?] through startle ~Adam and | go-die-Lord
  4  Christ one soldier-Lord-Jézus-die-Christ [?]
  5  [?] suffering and this | can
@@ -4024,7 +4028,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 159v ===
  1  Jézus Christ and go two somebody to-Lord-Jézus and begin
- 2  two somebody shout-to +answered [?] and Lord go before
+ 2  two somebody shout-to +answered °torment and Lord go before
  3  time love two somebody evil suffering Lord each,_every
  4  die ?from many suffering ~and begin two somebody
  5  evil ask_(for) inside +leftovers *food and

@@ -13,7 +13,11 @@ unpublished.  Nothing here chooses between senses; that needs their grammar.
   ~word         variant spelling their own entry marks "var.", read as the headword
   +word         read by this project and checked at every occurrence
   ?word         read by this project from one passage, with nothing to check it against
-  [?]           no reading
+  °word         A GUESS. Not a reading. The word is the best fit this project can
+                offer from the folio's own source passage and the words on either
+                side of the hole, and NOTHING in the book can test it. Lines
+                carrying one are not counted as read.
+  [?]           no reading and no guess
   word.         a full stop: the glyph E034, which ends 99.7% of the words
                 carrying it at the end of a run, so it punctuates
   |             unreadable glyph or gap in the transcription
