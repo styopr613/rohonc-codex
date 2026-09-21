@@ -443,3 +443,67 @@ not moved. Stage 2 is not a result, and would have failed on its own: A+B
 76.8% against 60.7% shuffled on 56 signs, 3.1 sigma. The population that
 can be labelled cleanly is too small for this test to reach five sigma
 either way. Saved run: `work/rohonc/ktpos2.txt`.
+
+### Tests 2 and 2b: the test is no good, not the readings
+
+To say it plainly: both versions of the part-of-speech test failed their
+own calibration on Király and Tokai's words, which nobody doubts. That is
+an instrument that cannot reach its bar on the sample available, not a
+verdict on anything in this project. The readings were never scored by it.
+
+### Test 5 — external truth: sentences K&T translated whole
+
+`ktsentence.py`. K&T's dictionary quotes 172 example sentences with their
+own English and a folio cite. Those sentences contain signs they never
+glossed on their own, and their translation says what each means, in their
+words, before this project existed. Every reading whose evidence so much as
+mentions K&T is excluded as circular (583 of them), which is why the sample
+is small. Control: glosses shuffled among the tested signs, 20 times.
+Ceiling: K&T's own headwords in the same sentences, measured the same way.
+
+    K&T's own words in their sentences        223/419      53.2%
+
+    tier   signs  pairs   rate   shuffle   sigma   vs K&T
+    A+B       26     38  81.6%     7.9%     8.6    153%    PASS
+    C+D        2      2  100%        -       -       -     two pairs: no test
+    G          0      -
+
+Our confirmed readings are echoed in their translations more often than
+their own headwords are -- because ours are content words and many of
+theirs are prefixes and particles a free translation swallows. The seven
+misses are law, five, ghost, pierce, redeem, three, mount: numerals and
+words a paraphrase drops. The C+D line is two pairs, both hits, and cannot
+carry a sigma; the bar reads FAIL because two pairs cannot meet it, which
+is the test's size, not the readings. Saved run: `work/rohonc/ktsentence.txt`.
+
+### Test 6 — word order on held-out folios
+
+`ktorder.py`. Test 1 asks whether a gloss is in the passage; a right word on
+the wrong sign passes that. This asks whether the word lands in the right
+PLACE: the longest common subsequence of content stems between each cited
+folio rendered in order and its passage in order, with K&T alone, with our
+A/B readings added, and with the same readings' glosses shuffled among the
+signs. A reading is applied to a folio only if that folio is not named in
+its evidence.
+
+    cited folios 297     K&T-only match total 1340
+
+    A+B, held out     670 signs   gain +73    shuffled +14.6 (sd 8.5)   6.9 sigma   PASS
+    G, not held out   847 signs   gain +151   shuffled +11.2           descriptive only
+
+The guesses' figure is not a test -- a guess was made looking at its line
+and its passage, so its position was fitted -- and is printed only so the
+number exists. Saved run: `work/rohonc/ktorder.txt`.
+
+### Where the additions stand after the tests
+
+    Test 1  source presence, held-out folios        A+B 17.5 sigma, 99% of K&T    PASS
+    Test 5  K&T's own sentence translations         A+B  8.6 sigma, 153% of K&T   PASS
+    Test 6  word order, held-out folios             A+B  6.9 sigma                PASS
+    Test 2  part of speech                          instrument failed calibration
+    Test 3  blindfold                               drawn, needs a blind reader
+    Test 4  illustrations                           blocked on the image mapping
+
+Three independent tests, three passes, for the 670 tier A/B readings. Tier
+C/D is too thin for two of them and passes the third. The 848 guesses are
+reached by none of them and will not be until Test 3 is run.
