@@ -184,6 +184,31 @@ grew the reading was a person reading the line against the passage, and no
 machine here stands in for that person. What this test shows is that the
 seed points the right way; how far it can be grown is Test 3's question.
 
+## Test 9 — the hidden 70% validated against the random 30% seed
+
+`harness/ktseedcheck.py` · `work/rohonc/ktseedcheck.txt`
+
+The owner's correction to Test 8: we already hold readings for the hidden
+70%; the seed should validate them. Keep a random 30% of every readable
+sign, K&T's and ours together. For each hidden sign, on its lines, bracket
+its slot in the cited passage between the nearest seed word before it and
+the nearest after, and ask whether the gloss we already hold fits that
+window. The seed never saw the hidden gloss and the hidden gloss never used
+the seed. Five random splits so every sign is hidden in some; the hidden
+glosses shuffled among the hidden signs as control, five times per split.
+K&T's own hidden signs, scored against the same seed, are the ceiling.
+
+    source    bracketed   fit    shuffle   sigma
+    K&T's         1374   19.1%     3.7%    10.2
+    ours A+B       652   24.8%     4.0%    11.3    PASS   130% of K&T's rate
+    ours C+D       299   23.4%     4.3%     6.9
+
+This is the two codes proving each other. A random third of the dictionary
+— theirs and ours mixed — places the other two thirds, theirs and ours
+alike, five to six times better than chance, and our readings fit the
+slots the seed brackets at least as well as theirs do. Occurrences where the
+line held no seed word at all are set aside, not counted either way.
+
 ## Summary
 
     Test 1   source presence, held-out folios    A+B 17.5 sigma   99% of K&T    PASS
@@ -194,8 +219,9 @@ seed points the right way; how far it can be grown is Test 3's question.
     Test 4   illustrations                       blocked on the image mapping
     Test 7   K&T's words removed                 reads 11.9% from ours alone; recovery 4.4 sigma, FAIL
     Test 8   bootstrap from a random 30%          passage 33.9 sigma, recovery 8.5 sigma, PASS; absolute 8.4% and 0.9%
+    Test 9   hidden 70% validated by the 30%       A+B 11.3 sigma, 130% of K&T's own rate   PASS
 
-Three independent tests, three passes, for the 670 tier A/B readings. Tier
+Four independent tests, four passes, for the 670 tier A/B readings. Tier
 C/D passes Test 1 and is too thin for the other two. The guesses are
 measured by Test 3 when it is run.
 
