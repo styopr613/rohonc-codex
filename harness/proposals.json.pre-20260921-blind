@@ -3299,6 +3299,12 @@
   "n": 2,
   "tier": "A"
  },
+ "5203f0": {
+  "evidence": "their blind entry (5203f05203f0) gives 'suff? 5203f0 088r02'. Their question mark, one citation of seven occurrences",
+  "gloss": "blind",
+  "n": 7,
+  "tier": "C"
+ },
  "5203f0003670060": {
   "evidence": "their lamb entry lists 5203f0003670060 at 065r08, in the expression they gloss '? in sheep's clothing'",
   "gloss": "lamb",
@@ -9340,12 +9346,6 @@
   "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read 'was accused' from Luke 16:1, 'the same was accused unto him that he had wasted his goods', for the unjust steward at 169r:4 and 169r:8. Those two lines do not cite Luke 16:1; they cite 16:8. And the sign stands on three other folios whose passages have no accusation in them and where it does not read: 107r:5 'and he said, he is the good neighbour [was accused]' is Luke 10:36-37, the Good Samaritan; 107r:3 the same passage; 115v:3 '[was accused] and began to [was accused], joy' is Luke 15:25, the prodigal's elder brother. A reading that fails a clear occurrence is not demoted, it comes out. No replacement is entered: the word must serve the steward, the Samaritan and the prodigal at once, and nothing offered by those three passages does. Prior gloss and evidence: {\"evidence\": \"'that steward [was accused], and then this steward' 169r:4, 169r:8 = Luke 16:1, the same was accused unto him\", \"gloss\": \"was accused\", \"n\": 10, \"tier\": \"C\"}",
   "gloss": "_withdrawn_",
   "n": 10,
-  "tier": "withdrawn"
- },
- "_withdrawn_5203f0": {
-  "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read 'blind' on K&T's own hedge: their entry for the DOUBLED sign 5203f05203f0 carries 'suff? 5203f0 088r02'. But they gloss that doubled sign “pious poor” / pious beggar, not blind, so the root their citation points at is not the root this reading assumed. It fails at two occurrences and neither is arguable. 036v:3 'Lord Jesus, Peter, Peter [x], cut off, sword' is John 18:10 with Luke 22:51, and 036v:2 names Malchus in the line above: the thing Peter cut off with the sword is an ear, and there is no blindness in the passage. 088r:2 'or sat and [x], and asked' is the beggar of Luke 16:20 sitting and begging -- and 088r:1, the line above, ALREADY renders 'blind' from a different sign, so the slot is taken on that folio. NO REPLACEMENT IS ENTERED. Three candidates were tested and each fails elsewhere: 'poor' reads 088r:2 and Luke 7:22's 'to the poor the gospel is preached' at 102r:9, but 089v:11 is the RICH man lifting up his eyes, not the poor one; 'ear' reads 036v:3 exactly but not 088r:2; 'deaf' reads the miracle list at 102r:9 but nothing else. A word here must serve Malchus, the beggar and the miracle list at once and none of the three does. Prior gloss and evidence: {\"evidence\": \"their blind entry (5203f05203f0) gives 'suff? 5203f0 088r02'. Their question mark, one citation of seven occurrences\", \"gloss\": \"blind\", \"n\": 7, \"tier\": \"C\"}",
-  "gloss": "_withdrawn_",
-  "n": 7,
   "tier": "withdrawn"
  },
  "_withdrawn_540": {

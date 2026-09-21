@@ -29,11 +29,18 @@ THE FLAGS, DECLARED BEFORE THE RUN.
            word, so this is not an error by itself -- it is a flag only on
            the readings that were never tested at a second occurrence.
 
-  BLAST    The sign is under three glyphs and stands inside ten or more
-           distinct word types. Two readings have already had to be
-           withdrawn for this (540 'shall', 570 'ark') and both took
-           coverage down with them, correctly. A short piece is read through
+  BLAST    The sign is under three glyphs and its own gloss SURFACES in the
+           rendering of ten or more other word types. Two readings have been
+           withdrawn for this (540 'shall', 570 'ark') and a third, 570
+           again, had to be withdrawn twice. A short piece is read through
            the words it feeds, not its own occurrences.
+
+           Corrected 2026-09-21. This flag first counted CONTAINMENT and
+           raised 41. Containment is not reach: the renderer matches the
+           longest code first, so ae0 'day' sits inside 910 word types and
+           surfaces in 71, and 060 'one' sits inside 1,132 and surfaces in
+           62. Measuring containment would have sent a reader after 41
+           readings on a danger most of them do not have.
 
   ALONE    Tier C or D, occurs once, on a folio with no citation we can look
            up. Nothing internal and nothing external can test it. Not a
@@ -114,16 +121,20 @@ def main(argv):
         for st in R.stems(v.get("gloss", "")):
             carried[st].add(h)
 
-    # blast radius: distinct word types a sign stands inside
+    # blast radius: word types where the sign's own gloss actually SURFACES
     feeds = Counter()
-    for ht in types:
-        for h in ours:
-            if len(h) > len(ht):
+    for h, v in ours.items():
+        st = R.stems(v.get("gloss", ""))
+        if not st:
+            continue
+        for ht, r in rendered.items():
+            if ht == h or len(h) > len(ht):
                 continue
             j = ht.find(h)
             while j != -1:
                 if j % 3 == 0 and (j + len(h)) % 3 == 0:
-                    feeds[h] += 1
+                    if st & R.stems(r):
+                        feeds[h] += 1
                     break
                 j = ht.find(h, j + 1)
 

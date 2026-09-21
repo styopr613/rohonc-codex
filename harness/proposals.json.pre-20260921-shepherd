@@ -383,6 +383,12 @@
   "n": 1,
   "tier": "A"
  },
+ "060520444520ae0": {
+  "evidence": "'that steward [was accused], and then this steward' 169r:4, 169r:8 = Luke 16:1, the same was accused unto him",
+  "gloss": "was accused",
+  "n": 10,
+  "tier": "C"
+ },
  "060520ab0": {
   "evidence": "their gate entry lists 060520ab0 at 038r10, where the sense is to close somebody somewhere",
   "gloss": "gate",
@@ -3298,6 +3304,12 @@
   "gloss": "water",
   "n": 2,
   "tier": "A"
+ },
+ "5203f0": {
+  "evidence": "their blind entry (5203f05203f0) gives 'suff? 5203f0 088r02'. Their question mark, one citation of seven occurrences",
+  "gloss": "blind",
+  "n": 7,
+  "tier": "C"
  },
  "5203f0003670060": {
   "evidence": "their lamb entry lists 5203f0003670060 at 065r08, in the expression they gloss '? in sheep's clothing'",
@@ -8112,10 +8124,10 @@
   "tier": "C"
  },
  "7b2670ae0520": {
-  "evidence": "CORRECTED 2026-09-21 from 'sons' by ktharden.py. It was read from 064r:3 'there was one king and then he had two [x]' as Matthew 21:28 or Luke 15:11. The folio does not cite either: it cites John 10:11-16, the Good Shepherd, and the word is shepherd. It holds at all twelve occurrences and two of them are the discourse's own formula, which is how it rises to A. 064v:5 'and one fold, he who is the good [x], from [x]' and 064v:10 'you are every one [x] [x]' are John 10:16 'there shall be one fold, and one shepherd'. 064r:8 'and this hireling [x], from [x], leaves' is John 10:12, 'he that is an hireling, and not the shepherd, leaveth the sheep', with 064r:9 putting sheep in the next slot. 064v:7 'the voice of the Lord God, sheep, [x] go' is John 10:16 'they shall hear my voice'. Off that folio it is Luke 2: 025v:9 '[x] go to Bethlehem' is 2:15, 025v:11 'and then the [x] hastened to go' is 2:16 'they came with haste', 025v:3 'there was a star, the [x] saw it and rejoiced'. Decisive on spelling: this project already reads 7b3670ae0520 as 'the shepherds', which is this sign with one glyph changed, and K&T's name entry declares that class of swap. Prior gloss and evidence: {\"evidence\": \"'there was a king, and when he had two [sons]' 064r:3 = Matthew 21:28 or Luke 15:11\", \"gloss\": \"sons\", \"n\": 18, \"tier\": \"C\"}",
-  "gloss": "shepherd",
+  "evidence": "'there was a king, and when he had two [sons]' 064r:3 = Matthew 21:28 or Luke 15:11",
+  "gloss": "sons",
   "n": 18,
-  "tier": "A"
+  "tier": "C"
  },
  "7b3": {
   "evidence": "opens Pauline passages: '[brethren], we shall be saved, Paul, first we ask' 068r:3; 070v:10 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
@@ -9336,18 +9348,6 @@
   "tier": "G"
  },
  "_about": "Readings for signs Kiraly & Tokai leave undefined, made their way: guessed from one passage, then checked at every occurrence in the book. Tier A fits every occurrence checked or is proved by an identical formula or a numeral; B fits most; C is a guess. Keys are glyph codes minus E000, three hex digits per glyph.",
- "_withdrawn_060520444520ae0": {
-  "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read 'was accused' from Luke 16:1, 'the same was accused unto him that he had wasted his goods', for the unjust steward at 169r:4 and 169r:8. Those two lines do not cite Luke 16:1; they cite 16:8. And the sign stands on three other folios whose passages have no accusation in them and where it does not read: 107r:5 'and he said, he is the good neighbour [was accused]' is Luke 10:36-37, the Good Samaritan; 107r:3 the same passage; 115v:3 '[was accused] and began to [was accused], joy' is Luke 15:25, the prodigal's elder brother. A reading that fails a clear occurrence is not demoted, it comes out. No replacement is entered: the word must serve the steward, the Samaritan and the prodigal at once, and nothing offered by those three passages does. Prior gloss and evidence: {\"evidence\": \"'that steward [was accused], and then this steward' 169r:4, 169r:8 = Luke 16:1, the same was accused unto him\", \"gloss\": \"was accused\", \"n\": 10, \"tier\": \"C\"}",
-  "gloss": "_withdrawn_",
-  "n": 10,
-  "tier": "withdrawn"
- },
- "_withdrawn_5203f0": {
-  "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read 'blind' on K&T's own hedge: their entry for the DOUBLED sign 5203f05203f0 carries 'suff? 5203f0 088r02'. But they gloss that doubled sign “pious poor” / pious beggar, not blind, so the root their citation points at is not the root this reading assumed. It fails at two occurrences and neither is arguable. 036v:3 'Lord Jesus, Peter, Peter [x], cut off, sword' is John 18:10 with Luke 22:51, and 036v:2 names Malchus in the line above: the thing Peter cut off with the sword is an ear, and there is no blindness in the passage. 088r:2 'or sat and [x], and asked' is the beggar of Luke 16:20 sitting and begging -- and 088r:1, the line above, ALREADY renders 'blind' from a different sign, so the slot is taken on that folio. NO REPLACEMENT IS ENTERED. Three candidates were tested and each fails elsewhere: 'poor' reads 088r:2 and Luke 7:22's 'to the poor the gospel is preached' at 102r:9, but 089v:11 is the RICH man lifting up his eyes, not the poor one; 'ear' reads 036v:3 exactly but not 088r:2; 'deaf' reads the miracle list at 102r:9 but nothing else. A word here must serve Malchus, the beggar and the miracle list at once and none of the three does. Prior gloss and evidence: {\"evidence\": \"their blind entry (5203f05203f0) gives 'suff? 5203f0 088r02'. Their question mark, one citation of seven occurrences\", \"gloss\": \"blind\", \"n\": 7, \"tier\": \"C\"}",
-  "gloss": "_withdrawn_",
-  "n": 7,
-  "tier": "withdrawn"
- },
  "_withdrawn_540": {
   "evidence": "WITHDRAWN 2026-09-20. Its evidence was an inference, not a reading: Kiraly & Tokai gloss the DOUBLED sign as a future auxiliary, and the single sign was assumed to carry the same. It has only 4 occurrences of its own but entered the cut of 55 other words, 99 tokens, and most of those read as nonsense: shall-slide seven times, shall-day-one-daily four times, and at 063r:4 shall-day-today's where the word is plainly the daily bread of the Emmaus meal, the same word the codex uses in the Our Father. One cut was right, 540796 thou shalt die at 003r:6, and it is kept as a whole word. Where a rendering makes no sense it is more likely a wrong reading than a strange text.",
   "gloss": "shall",
