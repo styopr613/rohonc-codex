@@ -1,0 +1,28 @@
+{
+ "folio": "101v",
+ "reply": "```json\n{\n  \"matches\": true,\n  \"confidence\": 0.85,\n  \"fills\": {\n    \"1\": \"none\",\n    \"2\": \"none\",\n    \"3\": \"none\",\n    \"4\": \"none\",\n    \"5\": \"none\",\n    \"6\": \"none\",\n    \"7\": \"none\",\n    \"8\": \"none\",\n    \"9\": \"none\",\n    \"10\": \"none\",\n    \"11\": \"none\",\n    \"12\": \"none\",\n    \"13\": \"none\",\n    \"14\": \"none\",\n    \"15\": \"none\",\n    \"16\": \"none\"\n  }\n}\n```",
+ "usage": {
+  "prompt_tokens": 581,
+  "completion_tokens": 141,
+  "total_tokens": 722,
+  "cost": 0.0011219,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0011219,
+   "upstream_inference_prompt_cost": 0.0007553,
+   "upstream_inference_completions_cost": 0.0003666
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 101v\nbefore gospel speak\n[?1] [?2] thanks\nLord God thanks exist\n[?3] [?4] Lord\nthis Lord gate Lord\n[?3] many home\nbefore many [?5] many write [?6] church_father\n[?7] Lord son [?8] [?9] see one [?10]\nbecause because many [?11] want see [?12] [?13]\n[?14] many [?15] see a) Simeon [?16]\n\nPASSAGE\nLuke 2:25 And behold there was a man in Jerusalem named Simeon: and this man was just and devout, waiting for the consolation of Israel. And the Holy Ghost was in him.\nLuke 2:26 And he had received an answer from the Holy Ghost, that he should not see death before he had seen the Christ of the Lord.\nLuke 2:27 And he came by the Spirit into the temple. And when his parents brought in the child Jesus, to do for him according to the custom of the law,\nLuke 2:28 He also took him into his arms and blessed God and said\nLuke 2:29 Now thou dost dismiss thy servant, O Lord, according to thy word in peace:\nLuke 2:30 Because my eyes have seen thy salvation,\nLuke 2:31 Which thou hast prepared before the face of all peoples:\nLuke 2:32 A light to the revelation of the Gentiles and the glory of thy people Israel.\nLuke 10:24 For I say to you that many prophets and kings have desired to see the things that you see and have not seen them; and to hear the things that you hear and have not heard them.\n"
+}

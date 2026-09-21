@@ -1,0 +1,162 @@
+{
+ "200v": {
+  "arm": "REAL",
+  "passage_of": "200v"
+ },
+ "081r": {
+  "arm": "REAL",
+  "passage_of": "081r"
+ },
+ "023r": {
+  "arm": "REAL",
+  "passage_of": "023r"
+ },
+ "069v": {
+  "arm": "REAL",
+  "passage_of": "069v"
+ },
+ "036r": {
+  "arm": "REAL",
+  "passage_of": "036r"
+ },
+ "190v": {
+  "arm": "REAL",
+  "passage_of": "190v"
+ },
+ "025r": {
+  "arm": "REAL",
+  "passage_of": "025r"
+ },
+ "221r": {
+  "arm": "REAL",
+  "passage_of": "221r"
+ },
+ "171r": {
+  "arm": "REAL",
+  "passage_of": "171r"
+ },
+ "064v": {
+  "arm": "REAL",
+  "passage_of": "064v"
+ },
+ "105r": {
+  "arm": "REAL",
+  "passage_of": "105r"
+ },
+ "101r": {
+  "arm": "REAL",
+  "passage_of": "101r"
+ },
+ "217r": {
+  "arm": "REAL",
+  "passage_of": "217r"
+ },
+ "171v": {
+  "arm": "REAL",
+  "passage_of": "171v"
+ },
+ "096v": {
+  "arm": "REAL",
+  "passage_of": "096v"
+ },
+ "095v": {
+  "arm": "REAL",
+  "passage_of": "095v"
+ },
+ "216r": {
+  "arm": "REAL",
+  "passage_of": "216r"
+ },
+ "101v": {
+  "arm": "REAL",
+  "passage_of": "101v"
+ },
+ "092r": {
+  "arm": "REAL",
+  "passage_of": "092r"
+ },
+ "170r": {
+  "arm": "REAL",
+  "passage_of": "170r"
+ },
+ "035v": {
+  "arm": "ROTATED",
+  "passage_of": "055v"
+ },
+ "108v": {
+  "arm": "ROTATED",
+  "passage_of": "118r"
+ },
+ "135v": {
+  "arm": "ROTATED",
+  "passage_of": "159r"
+ },
+ "072v": {
+  "arm": "ROTATED",
+  "passage_of": "085v"
+ },
+ "022v": {
+  "arm": "ROTATED",
+  "passage_of": "036v"
+ },
+ "134v": {
+  "arm": "ROTATED",
+  "passage_of": "153v"
+ },
+ "161r": {
+  "arm": "ROTATED",
+  "passage_of": "171v"
+ },
+ "128r": {
+  "arm": "ROTATED",
+  "passage_of": "137r"
+ },
+ "188r": {
+  "arm": "ROTATED",
+  "passage_of": "199r"
+ },
+ "160r": {
+  "arm": "ROTATED",
+  "passage_of": "170v"
+ },
+ "176r": {
+  "arm": "ROTATED",
+  "passage_of": "190v"
+ },
+ "113v": {
+  "arm": "ROTATED",
+  "passage_of": "122v"
+ },
+ "197v": {
+  "arm": "ROTATED",
+  "passage_of": "208v"
+ },
+ "119r": {
+  "arm": "ROTATED",
+  "passage_of": "128r"
+ },
+ "130v": {
+  "arm": "ROTATED",
+  "passage_of": "150r"
+ },
+ "212r": {
+  "arm": "ROTATED",
+  "passage_of": "222r"
+ },
+ "136v": {
+  "arm": "ROTATED",
+  "passage_of": "160r"
+ },
+ "128v": {
+  "arm": "ROTATED",
+  "passage_of": "139v"
+ },
+ "181v": {
+  "arm": "ROTATED",
+  "passage_of": "196r"
+ },
+ "060v": {
+  "arm": "ROTATED",
+  "passage_of": "069r"
+ }
+}

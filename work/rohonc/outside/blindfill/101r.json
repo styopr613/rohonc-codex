@@ -1,0 +1,28 @@
+{
+ "folio": "101r",
+ "reply": "{\"matches\": false, \"confidence\": 0.99, \"fills\": {\"1\": \"none\", \"2\": \"none\", \"3\": \"none\", \"4\": \"none\", \"5\": \"none\", \"6\": \"none\", \"7\": \"none\", \"8\": \"none\", \"9\": \"none\", \"10\": \"none\", \"11\": \"none\", \"12\": \"none\", \"13\": \"none\", \"14\": \"none\", \"15\": \"none\", \"16\": \"none\", \"17\": \"none\", \"18\": \"none\", \"19\": \"none\", \"20\": \"none\", \"21\": \"none\", \"22\": \"none\", \"23\": \"none\"}}",
+ "usage": {
+  "prompt_tokens": 534,
+  "completion_tokens": 2264,
+  "total_tokens": 2798,
+  "cost": 0.00967032,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00967032,
+   "upstream_inference_prompt_cost": 0.00070488,
+   "upstream_inference_completions_cost": 0.00896544
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 2107,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 101r\ntime kneel_(down) [?1] and pray [?2] to\nfire and grab God angel say God angel [?3]\nthis [?4] [?2] and this somebody [?5]\nand [?6] [?7] [?8] [?9] and\n[?6] get_raptured heaven [?10] and [?11] [?3]\nsomebody [?12] [?13] Noah [?3] [?14] carry\nevil [?15] and [?16] [?17] Noah [?3] [?18]\n[?19] [?20] through be_born two [?21] evil\nand son [?22] and [?23] evil exist Antichrist\n\nPASSAGE\n1Kings 18:36 And when it was now time to offer the holocaust, Elias, the prophet, came near and said: O Lord God of Abraham, and Isaac, and Israel, shew this day that thou art the God of Israel, and I thy servant, and that according to thy commandment I have done all these things.\n1Kings 18:37 Dear me, O Lord, hear me: that this people may learn that thou art the Lord God, and that thou hast turned their heart again.\n1Kings 18:38 Then the fire of the Lord fell, and consumed the holocaust, and the wood, and the stones, and the dust, and licked up the water that was in the trench.\n"
+}

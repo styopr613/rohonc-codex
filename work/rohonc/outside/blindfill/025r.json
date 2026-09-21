@@ -1,0 +1,28 @@
+{
+ "folio": "025r",
+ "reply": "```json\n{\n  \"matches\": true,\n  \"confidence\": 0.85,\n  \"fills\": {\n    \"1\": \"none\",\n    \"2\": \"none\",\n    \"3\": \"none\",\n    \"4\": \"none\",\n    \"5\": \"none\",\n    \"6\": \"none\",\n    \"7\": \"none\",\n    \"8\": \"none\",\n    \"9\": \"none\",\n    \"10\": \"none\",\n    \"11\": \"none\",\n    \"12\": \"none\",\n    \"13\": \"none\",\n    \"14\": \"none\",\n    \"15\": \"none\",\n    \"16\": \"none\",\n    \"17\": \"none\",\n    \"18\": \"none\",\n    \"19\": \"none\"\n  }\n}\n```",
+ "usage": {
+  "prompt_tokens": 628,
+  "completion_tokens": 162,
+  "total_tokens": 790,
+  "cost": 0.00091912,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00091912,
+   "upstream_inference_prompt_cost": 0.0004396,
+   "upstream_inference_completions_cost": 0.00047952
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 025r\nhell evil [?1] [?2] righteous(ly) son God because exist\n[?2] inside thirty year time go [?2] inside exist\n[?3] [?4] and [?5] go inside [?6] time\n[?5] kneel_(down) one somebody before [?2]\n[?7] Lord mouth somebody have one son and [?8]\nhell evil [?9] somebody son <preposition_of_genitive> apostle [?10] son can\n[?11] [?12] ask_(for) [?11] this Lord [?13] son say\n[?2] have_mercy gain [?14] son can [?15] healing.\nand [?5] son go before [?2] and way.\nhealing [?16] and this [?17] confess hell evil [?1]\n[?2] righteous(ly) son God because miracle confess [?18]\nconfess have [?2] angel [?19] [?2]\nChrist because [?5] [?2] be_born Bethlehem\n\nPASSAGE\nMatthew 17:14 And when he was come to the multitude, there came to him a man falling down on his knees before him saying: Lord, have pity on my son, for he is a lunatic, and suffereth much: for he falleth often into the fire, and often into the water.\nMatthew 17:15 And I brought him to thy disciples, and they could not cure him.\nMatthew 17:16 Then Jesus answered and said: O unbelieving and perverse generation, how long shall I be with you? How long shall I suffer you? Bring him hither to me.\nMatthew 17:17 And Jesus rebuked him, and the devil went out of him, and the child was cured from that hour.\nMatthew 17:18 Then came the disciples to Jesus secretly, and said: Why could not we cast him out?\n"
+}

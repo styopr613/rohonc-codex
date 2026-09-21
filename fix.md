@@ -94,10 +94,34 @@ through a bracket**. As of this writing that is five:
     Enoch      101r
     Herod      021v
 
-Five paragraphs for a person to read again. Every other name the prose leans
-on — Longinus, Cleopas, Vespasian, Titus, Malchus, Nicodemus, Caiaphas,
-Barabbas, Simeon, Hezekiah, Horeb, Emmaus, Carmel, Jericho — is a plain
-dictionary entry of Kiraly and Tokai's and is safe.
+Every other name the prose leans on — Longinus, Cleopas, Vespasian, Titus,
+Malchus, Nicodemus, Caiaphas, Barabbas, Simeon, Hezekiah, Horeb, Emmaus,
+Carmel, Jericho — is a plain dictionary entry of Kiraly and Tokai's and is
+safe.
+
+**All five were read by hand on 2026-09-21. Three were already sound and two
+were not**, which is about the hit rate a list like this should have; a check
+that flagged five and found nothing would not be worth running.
+
+- *Abraham* (107r) and *Christ* (067v): the prose does not lean on either at
+  those folios. No change.
+- *Adam* (057v): the prose already quoted it as «[Adam] [bound]», brackets
+  showing. That is the correct handling and it needed nothing.
+- *Herod* (021v): the prose said "Herod is named by his ending" and quoted
+  «Herod's day is ending» with the brackets silently dropped. Corrected to
+  «[Herod] end», with a sentence saying the name is bracketed there while
+  Herod stands plainly at cf. 041v — so it is the attribution on this line,
+  not the name, that is uncertain.
+- *Enoch* (101r): **the clearest case in the book of what a bracket costs.**
+  The name stands three times in the whole manuscript — 008v, 101r, 133v —
+  and every one of the three is bracketed. Enoch is a restoration everywhere
+  and a reading nowhere. The claim that Enoch and Elijah are the two kept
+  back for the Antichrist therefore rests entirely on our own guess, and it
+  is a guess the legend makes easy: anyone who knows the tradition knows who
+  the second witness is, which is exactly the circumstance in which a
+  restoration is worth least. Elijah is read; Enoch is supplied. A paragraph
+  saying so has been added to Part VII, because that distinction is invisible
+  in a translation and it is the whole difference between the two names.
 
 **The first version of this check said seventeen and was wrong.** It counted
 CUT as fragile alongside BRACKET, and a hyphen in the rendering marks two
@@ -243,6 +267,17 @@ that said «good son». It did **not** catch the editorial sentence beside them
 that also said "the good son", because editorial prose is not checked — which
 is exactly what section 3 of `whatbroke.py` exists to warn about, and this is
 the first real instance of it.
+
+**3. The narrative was audited against the hardened copy, not just re-gated.**
+Fifty-seven folios changed gloss across the three hardening batches; the
+retelling cites twenty-one of them. The gate caught four quotations. Reading
+the other seventeen by hand found no further breakage — every *blind* and
+*creature* the prose leans on sits on a folio the withdrawals did not touch —
+but that is a result, not a formality, and it is the only way to know. The
+changes were: *son* to **shepherd** on 025v, 064r and 064v; *creatures* to
+**tree** on 052v and 058r; *was accused* to **one heavenly day** on 107r and
+115v; and *ark*, *blind* and *with all thy heart* withdrawn in fourteen
+places.
 
 **2. `ktcommit.sh` runs `git add -A`, so two sessions in one tree commit each
 other's work.** A hardening withdrawal (`9107c1`, *with all thy heart*) was

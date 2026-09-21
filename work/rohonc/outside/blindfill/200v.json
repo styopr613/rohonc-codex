@@ -1,0 +1,28 @@
+{
+ "folio": "200v",
+ "reply": "```json\n{\n  \"matches\": true,\n  \"confidence\": 0.85,\n  \"fills\": {\n    \"1\": \"last\",\n    \"2\": \"send\",\n    \"3\": \"heir\",\n    \"4\": \"husbandman\",\n    \"5\": \"reverence\",\n    \"6\": \"take\",\n    \"7\": \"cast\",\n    \"8\": \"forth\",\n    \"9\": \"out\",\n    \"10\": \"vineyard\",\n    \"11\": \"kill\",\n    \"12\": \"he\",\n    \"13\": \"say\",\n    \"14\": \"among\",\n    \"15\": \"kill\",\n    \"16\": \"come\",\n    \"17\": \"let\",\n    \"18\": \"us\",\n    \"19\": \"inheritance\",\n    \"20\": \"we\",\n    \"21\": \"have\",\n    \"22\": \"his\",\n    \"23\": \"they\",\n    \"24\": \"my\",\n    \"25\": \"he\"\n  }\n}\n```",
+ "usage": {
+  "prompt_tokens": 462,
+  "completion_tokens": 211,
+  "total_tokens": 673,
+  "cost": 0.00094796,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00094796,
+   "upstream_inference_prompt_cost": 0.0003234,
+   "upstream_inference_completions_cost": 0.00062456
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 200v\neach,_every die and [?1] [?2] son this [?3] say this son\n[?4] have [?5] lease Lord grab\nand [?6] [?4] see and go and son.\n[?7] [?8] [?9] son from [?10]\n[?11] [?12] [?13] [?14] and this\nson exist [?12] carry [?8] [?15]\n[?16] and [?17] [?18] and son [?19] and\n[?20] exist [?21] [?22] and Jew(ish) head\nhow? [?23] speak [?24] and [?25] say [?24] parable\n\nPASSAGE\nMatthew 21:37 And last of all he sent to them his son, saying: They will reverence my son.\nMatthew 21:38 But the husbandmen seeing the son, said among themselves: This is the heir: come, let us kill him, and we shall have his inheritance.\nMatthew 21:39 And taking him, they cast him forth out of the vineyard and killed him.\n"
+}

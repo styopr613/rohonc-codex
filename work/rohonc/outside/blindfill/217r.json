@@ -1,0 +1,28 @@
+{
+ "folio": "217r",
+ "reply": "```json\n{\n  \"matches\": true,\n  \"confidence\": 0.85,\n  \"fills\": {\n    \"1\": \"none\",\n    \"2\": \"none\",\n    \"3\": \"none\",\n    \"4\": \"none\",\n    \"5\": \"none\",\n    \"6\": \"none\",\n    \"7\": \"none\",\n    \"8\": \"none\",\n    \"9\": \"none\",\n    \"10\": \"none\",\n    \"11\": \"none\",\n    \"12\": \"none\",\n    \"13\": \"none\",\n    \"14\": \"none\",\n    \"15\": \"none\",\n    \"16\": \"none\",\n    \"17\": \"none\",\n    \"18\": \"none\"\n  }\n}\n```",
+ "usage": {
+  "prompt_tokens": 494,
+  "completion_tokens": 155,
+  "total_tokens": 649,
+  "cost": 0.0007922,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0007922,
+   "upstream_inference_prompt_cost": 0.0003458,
+   "upstream_inference_completions_cost": 0.0004464
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 217r\n[?1] and [?2] prepare Jew(ish) head [?3]\n[?4] [?5] and [?2] Stephen\n[?6] [?7] [?8] inside Jerusalem temple\n[?9] [?10] Stephen [?11] and this Saul\n[?12] and go Saul because exist [?13] many and this Saul\nand [?2] Stephen [?6] [?14] inside temple Jerusalem\nbecause Stephen [?15] [?16] [?17] write inside\nrighteous(ly) Moses in_turn [?18] among you begin somebody\nhow? blasphemer and have somebody [?16] and among\n\nPASSAGE\nActs 6:12 And they stirred up the people and the ancients and the scribes. And running together, they took him and brought him to the council.\nActs 6:13 And they set up false witnesses, who said: This man ceaseth not to speak words against the holy place and the law.\nLeviticus 24:16 And he that blasphemeth the name of the Lord, dying let him die. All the multitude shall stone him, whether he be a native or a stranger. He that blasphemeth the name of the Lord, dying let him die.\n"
+}

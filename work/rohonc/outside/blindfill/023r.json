@@ -1,0 +1,28 @@
+{
+ "folio": "023r",
+ "reply": "```json\n{\n  \"matches\": true,\n  \"confidence\": 0.85,\n  \"fills\": {\n    \"1\": \"none\",\n    \"2\": \"none\",\n    \"3\": \"none\",\n    \"4\": \"none\",\n    \"5\": \"none\",\n    \"6\": \"none\",\n    \"7\": \"none\",\n    \"8\": \"none\",\n    \"9\": \"none\",\n    \"10\": \"none\",\n    \"11\": \"none\",\n    \"12\": \"none\",\n    \"13\": \"none\",\n    \"14\": \"none\",\n    \"15\": \"none\",\n    \"16\": \"none\",\n    \"17\": \"none\",\n    \"18\": \"none\",\n    \"19\": \"none\"\n  }\n}\n```",
+ "usage": {
+  "prompt_tokens": 707,
+  "completion_tokens": 162,
+  "total_tokens": 869,
+  "cost": 0.00097442,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00097442,
+   "upstream_inference_prompt_cost": 0.0004949,
+   "upstream_inference_completions_cost": 0.00047952
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 023r\none [?1] and inside [?2] exist hell evil and evil.\nout(ward) [?3] [?4] can show [?5] inside exist.\nproud [?6] [?7] somebody because somebody healing.\ndo, [?8] can show [?5] inside [?9]\none king son because exist [?10] and son healing.\ndo, [?11] can show [?5] inside Jerusalem evil\n[?12] Lord inside one somebody hell evil exorcise\nfirst before be_born [?13] son God [?14]\none prophet one forefather this miracle.\ndo, [?15] Christ do, and miracle confess\n[?16] [?5] righteous(ly) son God [?17] confess have.\n[?5] [?16] [?5] righteous(ly) son God first confess\nhave [?5] [?18] and Elijah [?19] confess\n\nPASSAGE\nJohn 4:46 He came again therefore into Cana of Galilee, where he made the water wine. And there was a certain ruler, whose son was sick at Capharnaum.\nJohn 4:47 He having heard that Jesus was come from Judea into Galilee, sent to him and prayed him to come down and heal his son: for he was at the point of death.\nJohn 4:48 Jesus therefore said to him: Unless you see signs and wonders, you believe not.\nJohn 4:49 The ruler saith to him: Lord, come down before that my son die.\nJohn 4:50 Jesus saith to him: Go thy way. Thy son liveth. The man believed the word which Jesus said to him and went his way.\nJohn 4:51 And as he was going down, his servants met him: and they brought word, saying, that his son lived.\nJohn 4:52 He asked therefore of them the hour wherein he grew better. And they said to him: Yesterday at the seventh hour, the fever left him.\nJohn 4:53 The father therefore knew that it was at the same hour that Jesus said to him: Thy son liveth. And himself believed, and his whole house.\nJohn 4:54 This is again the second miracle that Jesus did, when he was come out of Judea into Galilee.\n"
+}

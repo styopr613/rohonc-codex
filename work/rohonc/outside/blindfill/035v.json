@@ -1,0 +1,28 @@
+{
+ "folio": "035v",
+ "reply": "{\"matches\": false, \"confidence\": 0.95, \"fills\": {\"1\": \"none\", \"2\": \"none\", \"3\": \"none\", \"4\": \"none\", \"5\": \"none\", \"6\": \"none\", \"7\": \"none\", \"8\": \"none\", \"9\": \"none\", \"10\": \"none\", \"11\": \"none\", \"12\": \"none\", \"13\": \"none\", \"14\": \"none\", \"15\": \"none\", \"16\": \"none\", \"17\": \"none\", \"18\": \"none\", \"19\": \"none\", \"20\": \"none\"}}",
+ "usage": {
+  "prompt_tokens": 638,
+  "completion_tokens": 6946,
+  "total_tokens": 7584,
+  "cost": 0.02834194,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.02834194,
+   "upstream_inference_prompt_cost": 0.00083578,
+   "upstream_inference_completions_cost": 0.02750616
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 6026,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 035v\nbecause exist similar John [?1] and shout Lord\nJézus who(m)? search people [?2] Jew(ish) and shout\nJew(ish) [?3] [?4] Jézus [?5] and shout\n[?6] from [?7] if Lord search Jew(ish) and each,_every\nJew(ish) back bow_down [?8] [?6] [?9] [?10]\n[?11] [?3] hide_oneself [?12] and [?13] [?10] and [?14]\nclub [?15] inside [?16] because [?6] pray\ndo, [?17] [?2] [?18] people and\n[?9] [?19] and two shout [?6] [?20] search\npeople [?2] Jew(ish) and shout Jew(ish).\n[?3] [?4] Jézus [?5] and shout\n[?6] from [?7] if Lord search Jew(ish) and\n\nPASSAGE\nMark 16:5 And entering into the sepulchre, they saw a young man sitting on the right side, clothed with a white robe: and they were astonished.\nMark 16:6 Who saith to them: Be not affrighted; you seek Jesus of Nazareth, who was crucified. He is risen: he is not here. Behold the place where they laid him.\nMark 16:7 But go, tell his disciples and Peter that he goeth before you into Galilee. There you shall see him, as he told you.\n"
+}

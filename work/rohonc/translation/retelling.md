@@ -234,7 +234,9 @@ Between the flood and Abraham the book pauses to count, and to say who is
 telling it. «From Noah» to Abraham the people «were pagans» (008v); and then,
 as on every third page of this manuscript, «God's angel to Elijah the prophet»
 (008v). The angel adds something about the writing itself: «Elijah the prophet
-and holy Enoch the prophet write» (008v). The compiler is telling you that two
+and «[holy Enoch]» the prophet «write» (008v) — and the brackets there are
+not decoration; see the note on Enoch under Part VII. The compiler is telling
+you that two
 prophets are the authors of what you are reading.
 
 Then Abraham and Isaac, on 005r, and it is one of the best-preserved pages in
@@ -322,8 +324,11 @@ shepherds see it, an angel tells them of «great joy» and that «a king is born
 and «kneel down» (020v).
 
 Then Egypt. The angel tells the very old Joseph to «stand up» and take «this
-son and this son's mother» and «escape into Egypt» (021v). Herod is named by
-his ending: «Herod's day is ending» (021v). And when they are in Egypt the
+son and this son's mother» and «escape into Egypt» (021v). The king's death is
+what ends the exile: «[Herod] end» (021v). The name is bracketed on that line
+— a restoration, not a reading — though Herod stands plainly, over and over,
+when he questions the Lord at cf. 041v, so it is the attribution here and not
+the name itself that is uncertain. And when they are in Egypt the
 codex reports the apocryphal detail the canonical gospels do not have — in
 every town of Egypt «idols» «fall down» (022r).
 
@@ -983,6 +988,17 @@ standard Antichrist legend of the late middle ages and is nowhere in
 scripture. The reading «of a harlot» was itself a correction: an earlier guess
 made the line say *shall be born* beside *be born*, and a mechanical sweep for
 restorations that repeat their neighbour caught it.
+
+**Enoch has to carry a warning, and it is the clearest case in this book of
+what a bracket costs.** The name stands three times in the manuscript — cf. 008v,
+101r and cf. 133v — and every one of the three is bracketed. It is a
+restoration in all three places and a reading in none of them. So the sentence
+above, that Enoch and Elijah are the two kept back for the Antichrist, rests
+entirely on a guess this project made, and it is a guess the legend itself
+makes easy to make: anyone who knows the tradition knows who the second
+witness is, which is exactly the circumstance in which a restoration is worth
+least. Elijah is read. Enoch is supplied. The distinction is invisible in a
+translation and it is the whole difference between the two names.
 
 Two leaves on Simeon follow, and the codex's image of him is the one from the
 feast: «from Simeon carry bosom Lord Jézus Christ, [took him]» (102r). Then
