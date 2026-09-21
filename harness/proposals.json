@@ -5069,5 +5069,71 @@
   "tier": "C",
   "n": 2,
   "evidence": "Found by ktnear.py, which compares every unread sign against every read one at the level of whole glyphs and reports the pairs one glyph apart. It is 5400607a0, which this project already reads as 'to' (tier A), with 284 where that has 060. 087v:5: 'little son [x]'; 196v:9: 'the apostles, this, from, little son [x], do'."
+ },
+ "717520150": {
+  "gloss": "not",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. It is one glyph from K&T's 717520152 'not' AND one glyph from their 540520150 'do not' -- two of their own signs for the same word, and this one sits between them. 005v:10: 'somebody, the Lord, [x], believe, and one is NOT saved' -- K&T's other negative is on the same line. Occurrence(s): 005v:10 'somebody Lord <<[x]>> believe and one +not be_saved.'"
+ },
+ "7a2ae06906906907b0": {
+  "gloss": "the_centurion",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. It is one glyph from K&T's 7a0ae06906906907b0, which they gloss as 'the name of the centurion in Capharnaum'. 022v:12: 'there was [x], in turn six, two, can show the Lord Jesus'. Douay Matthew 8:5: 'And when he had entered into Capharnaum, there came to him a CENTURION, beseeching him.' Occurrence(s): 022v:12 'exist <<[x]>> in_turn-six-two can show Lord-Jézus'"
+ },
+ "520af45202c1": {
+  "gloss": "priest",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 5201515202c1 'priest'. 199v:6 and 200r:1, where the lines are about speaking to the Gentiles. Occurrence(s): 199v:6 '<<[x]>> and [?]-[?] [?]-somebody and say'; 200r:1 'say-to-+pagan <<[x]>> and +name-+who-want in_turn go-to-+pagan'"
+ },
+ "520953910": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520955910 'because; that', and one from 5207a3910 and 5201b4910, both of which this project already reads as 'that'. Three signs of the same sense a glyph apart. Occurrence(s): 165r:1 '+the_Baptist/woman son symbolize soul each,_every somebody <<[x]>> Lord-<suffix_of_divine_name>'; 165r:2 'each,_every somebody this town symbolize [?] <<[x]>> +be_saved'"
+ },
+ "520060520958": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520 'that; to whom; what; which; whose'. Occurrence(s): 165r:2 'each,_every somebody this town symbolize <<[x]>> [?] +be_saved'; 165r:3 '<<[x]>> [?] Lord-Jézus-Christ each,_every the_whole_wide_world world this'"
+ },
+ "630060060443371": {
+  "gloss": "from_the_eternal",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 630060060443520, which this project already reads as 'from the eternal'. Occurrence(s): 002v:8 'table <<[x]>> in_turn-brother on-this world and +out to'"
+ },
+ "520060023060520060060540ae08c0": {
+  "gloss": "donkey",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 520060023060520060060520ae08c0, read in this same batch as 'donkey' because it holds K&T's 060520ae0 'donkey' whole. 005r:1: '[x], and go, son, father, son' -- Douay Genesis 22:3, Abraham saddling the ass and taking Isaac. Occurrence(s): 005r:1 '<<[x]>> and go-son-father ?son'"
+ },
+ "5205c1152520ae0": {
+  "gloss": "sky",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 520001152520ae0, which this project already reads as 'sky' (tier A). Occurrence(s): 030r:4 '+and_then holy-?with Master <<[x]>> this-Peter this'"
+ },
+ "540060362": {
+  "gloss": "know",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 540060520 'know; recognize'. 031r:5: 'the Lord Jesus [x], one among you'. Douay Matthew 26:21: 'one of you is about to betray me' -- what the Lord does on that line is know it. Occurrence(s): 031r:5 'Lord-Jézus <<[x]>> +<subject_marker> one among you'"
+ },
+ "5201d32e0": {
+  "gloss": "lose",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 5201d3520 'lose'. 008r:9: 'and inside, the Lord God, to the cup, and to the Lord [x], and'. Occurrence(s): 008r:9 'and inside-+exist Lord-<suffix_of_divine_name> to-cup and to-Lord <<[x]>> and [?]'"
+ },
+ "031670ae0": {
+  "gloss": "exist",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. It is K&T's 670ae0 'exist' with the 031 prefix that this folio puts on other words too -- 025v:10 has it in front of 'rejoiced' and 025v:13 in front of 'fifth'. 025v:9: '[x], the sons, go, Bethlehem, and then'. Occurrence(s): 025v:9 '<<[x]>> ?sons go Bethlehem and then-exist.'"
  }
 }
