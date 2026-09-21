@@ -6048,7 +6048,7 @@
   "tier": "C"
  },
  "5eeb50092060650": {
-  "evidence": "223v:7, one occurrence. WITHDRAWN 2026-09-21 for the same reason: 1560 is spelled out in READ signs on line 2 of this page. The sign opens with 5ee (six) so it is certainly a numeral; its value is not read.",
+  "evidence": "223v:7, one occurrence, on the writer's own calendar page. The sign opens with 5ee, which is this book's SIX -- 5ee460ae1 on line 2 of this same page is 'six-ten', the sixty of 1560, and 5ee060 is read at tier A as seven, six plus one. So this is certainly a number and its value is not read: the remaining glyphs b50, 092 and 650 have no reading. The gloss is left as a placeholder naming what stands there rather than a figure that would be invented. Correction to the record: the previous note on this entry began 'WITHDRAWN 2026-09-21' while the entry was still live at tier G. It was not withdrawn; it is a bracketed guess, and saying so is the whole of it.",
   "gloss": "a_numeral",
   "n": 1,
   "tier": "G"
@@ -7104,8 +7104,8 @@
   "tier": "A"
  },
  "681ae0540ae0": {
-  "evidence": "185v:2, the same legend. CORRECTION: first guessed 'the_son', which repeated a word already standing beside it in the line -- 185v:2; 'son' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour.",
-  "gloss": "and",
+  "evidence": "185v:2, the Golden Legend of the Holy Cross. The line reads 'and, of Chosroes, ___, son, from', and the story is Heraclius fighting the SON OF THE EMPEROR CHOSROES, so the slot between Chosroes and son wants the title. The sign is 681 ae0 540 ae0, and K&T's emperor, headword 520ae0520250, states the rule 'var. 520(1) ~ 540, 670, 681; 520(2) ~ 540' -- which gives 681 ae0 540 as the first three glyphs of this very word. Ours ends in their ae0 where the headword ends in 250, and their entry notes that 250 detaches as a suffix on this same folio, at 185v05 and 185v06, where it sits on 4a7250 'came' and 738250 'arrived'. Line 3 then carries the fully spelled emperor, 540ae0520250. The gloss here was 'and', which was reached after an earlier 'the son' was caught duplicating the son beside it; 'and' left the title out of a sentence that is about a title.",
+  "gloss": "emperor",
   "n": 1,
   "tier": "G"
  },
@@ -8352,7 +8352,7 @@
   "tier": "A"
  },
  "817": {
-  "evidence": "224r:12, between the two. WEAK.",
+  "evidence": "224r:12, its only occurrence as a word on its own. The line reads 'believe on this, a portion, ___, a portion, gave-year' on the writer's calendar folio, and the wine was guessed from the two portions around it, as a communion in both kinds. Against that: this glyph is the SPIRIT root everywhere else in the book. 817ae0 occurs 41 times and is spirit; 871817ae0 occurs 44 times and is holy spirit; 630817ae0, a10817ae0 and the long divine-name compounds all carry it. Only here does it stand without the ae0. So either this is the spirit word stripped of its suffix, in which case the line does not read, or it is a different word that happens to share the glyph. Left as it stands with the conflict on the record.",
   "gloss": "of_wine",
   "n": 1,
   "tier": "G"
@@ -8718,7 +8718,7 @@
   "tier": "G"
  },
  "8c15246909a2": {
-  "evidence": "128r:4 'because LOSE [x]'. CORRECTION: first guessed 'the_lost_sheep', which repeated a word already standing beside it in the line -- 128r:4; 'lose' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour.",
+  "evidence": "128r:4, 'exist, go this somebody, because LOSE ___', which is why a sheep was read into it. Against that: the sign is 8c1524690 with 9a2 added, and 8c1524690 stands alone at 133r:1 as THOUSAND -- 'from Adam ... until this ___ FIVE HUNDRED', with K&T's five hundred read at tier A immediately after it, which makes a numeral almost certain there. A root that is a thousand does not usually take a suffix and become a sheep. Both are single occurrences; the numeral is the better founded of the two, so the doubt belongs on this one.",
   "gloss": "the_sheep",
   "n": 1,
   "tier": "G"
@@ -9356,6 +9356,12 @@
  },
  "_withdrawn_7b2520ae05202d8": {
   "evidence": "WITHDRAWN 2026-09-21 by ktharden.py's INHERIT flag. Its evidence opens 'It begins with K&T's 7b2 son' -- and K&T have no entry for 7b2 at all. ktlook.py returns nothing for it. The attribution is this project's own withdrawn reading mistaken for theirs. Worse, their apparatus contradicts it: the relative-pronoun entry reads '7a0, 7a0910, 7a0670ae0 [var. 7a0 ~ 7b2, 7b3, 7c1, 850] ... relative pronoun who', so 7b2 is THEIR variant of 'who'. Its one line, 114r:2, is 'of the evil, the pig, [x], and the soul of the son' in the prodigal at Luke 15:15-16, and already renders 'son' from another sign three places away. No replacement: a relative pronoun may well be right here but one occurrence cannot show it. Prior gloss and evidence: {\"evidence\": \"Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It begins with K&T's 7b2 'son' and then 520ae0520 'before'. 114r:2: 'of the evil, the pig, [x], and the soul of the son'. The folio is the prodigal son among the swine.\", \"gloss\": \"son\", \"n\": 1, \"tier\": \"C\"}",
+  "gloss": "_withdrawn_",
+  "n": 1,
+  "tier": "withdrawn"
+ },
+ "_withdrawn_a904f00300a2ae0": {
+  "evidence": "WITHDRAWN 2026-09-21, completing a withdrawal that was written into the evidence but never carried out -- the entry was still live at tier G and still printing 'a numeral' on the page. The original guess, five thousand one hundred and ninety nine, was dropped because 5199 is spelled out in read signs on lines 9 and 10 of this same folio, so the guess added nothing. What replaced it, 'a numeral', has no support either: the sign is a90 4f0 030 0a2 ae0 and none of those is one of this book's number glyphs -- not the 060 tally, not 460 ten, not 5ee six, not b25 hundred, not 971 thousand. 223v:6 reads 'son, Moses, ___, from name year, first day' on the writer's calendar page. Withdrawn so the line prints an honest gap instead of a category that was itself a guess. The neighbouring 5eeb50092060650 on line 7 stays bracketed as a numeral, because that one does open with 5ee.  Prior gloss and evidence: 'a_numeral' -- 223v:6, one occurrence. WITHDRAWN 2026-09-21: previously guessed 'five thousand one hundred and ninety nine' from the folio note. 5199 is spelled out in READ signs on lines 9-10 of this same page (five_thousand + hundred-day + nine-ten + nine), so the guess added nothing and dressed an expectation as an anchor. It is a numeral compound of unread value.",
   "gloss": "_withdrawn_",
   "n": 1,
   "tier": "withdrawn"
@@ -10251,12 +10257,6 @@
  "a90480": {
   "evidence": "216v:8; Acts 8:1, 'there was raised a great persecution against the church'.",
   "gloss": "a_great_persecution",
-  "n": 1,
-  "tier": "G"
- },
- "a904f00300a2ae0": {
-  "evidence": "223v:6, one occurrence. WITHDRAWN 2026-09-21: previously guessed 'five thousand one hundred and ninety nine' from the folio note. 5199 is spelled out in READ signs on lines 9-10 of this same page (five_thousand + hundred-day + nine-ten + nine), so the guess added nothing and dressed an expectation as an anchor. It is a numeral compound of unread value.",
-  "gloss": "a_numeral",
   "n": 1,
   "tier": "G"
  },
