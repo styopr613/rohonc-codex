@@ -1,1 +1,278 @@
-{}
+{
+ "010": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "1f1": {
+  "state": "pass",
+  "why": "single glyph before 'heavenly home' x2; a particle"
+ },
+ "1f2": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "261520": {
+  "state": "pass",
+  "why": "035r and 188r, no one word fits both"
+ },
+ "270854": {
+  "state": "pass",
+  "why": "222v author's calendar"
+ },
+ "343": {
+  "state": "pass",
+  "why": "single glyph, three unrelated slots (057v, 066r, 151v); a particle"
+ },
+ "347": {
+  "state": "pass",
+  "why": "before 'judgment day' x2; a particle or 'until', which K&T already have"
+ },
+ "3a1": {
+  "state": "pass",
+  "why": "single glyph, three unrelated slots"
+ },
+ "454022": {
+  "state": "pass",
+  "why": "108r/181r no one word fits both"
+ },
+ "491540082": {
+  "state": "pass",
+  "why": "146v-147r no source, slot open"
+ },
+ "4c0": {
+  "state": "pass",
+  "why": "222v/224r damaged"
+ },
+ "5200606d4": {
+  "state": "pass",
+  "why": "'[x] earth' x2 Gen 3, wants 'cursed', which another sign carries"
+ },
+ "5200806a2": {
+  "state": "pass",
+  "why": "224r:11 numeral formula on a damaged page"
+ },
+ "5200948f0094": {
+  "state": "pass",
+  "why": "186r/188r no one word fits both"
+ },
+ "5201b1ae0": {
+  "state": "pass",
+  "why": "145r/145v name-shaped, no name in the story"
+ },
+ "520256511651": {
+  "state": "pass",
+  "why": "086v torch allegory, slot open"
+ },
+ "5202b3520": {
+  "state": "pass",
+  "why": "043v 'two [x]' and 052v 'soldier [x]'; no one word fits both"
+ },
+ "5204c052006064b": {
+  "state": "pass",
+  "why": "003r/122v identical formula, line-initial, slot open"
+ },
+ "5206f0": {
+  "state": "pass",
+  "why": "084v/099v slot open"
+ },
+ "520835": {
+  "state": "pass",
+  "why": "'[x] three soul' x2 on the descent into hell, slot open"
+ },
+ "5208a8": {
+  "state": "pass",
+  "why": "identical formula 141r/198v after 'have mercy', slot open"
+ },
+ "520950969": {
+  "state": "pass",
+  "why": "099r/116r no one word fits both"
+ },
+ "520ac3ae01f2": {
+  "state": "pass",
+  "why": "194r no one word fits both"
+ },
+ "520b42": {
+  "state": "pass",
+  "why": "follows be_damned x3 (Mark 16:16) but no free word of the verse fits a suffix slot"
+ },
+ "520b84": {
+  "state": "pass",
+  "why": "around 'name' at 065v and 218v, slot open"
+ },
+ "5212708c477d": {
+  "state": "pass",
+  "why": "222v author's calendar, no source can test it"
+ },
+ "5213b2": {
+  "state": "pass",
+  "why": "187v Exodus 14, slot open"
+ },
+ "5405200602b1": {
+  "state": "pass",
+  "why": "144v-145v 'grab bread and [x]', no source, slot open"
+ },
+ "546": {
+  "state": "pass",
+  "why": "single glyph 157v"
+ },
+ "547": {
+  "state": "pass",
+  "why": "single glyph line-initial x2 197v; a particle"
+ },
+ "556": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "56b0607a0824": {
+  "state": "pass",
+  "why": "016v Joachim's portions; K&T already have 'portion' (a10aa0)"
+ },
+ "571130": {
+  "state": "pass",
+  "why": "039v/042r no source"
+ },
+ "5c2": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "5d7a10": {
+  "state": "pass",
+  "why": "081v Acts 2 slot open"
+ },
+ "5e5520ae0": {
+  "state": "pass",
+  "why": "147v/148r name-shaped, no name in the passage"
+ },
+ "5eb": {
+  "state": "pass",
+  "why": "216r/217r after 'throne sit and', wants 'right hand' which K&T carry"
+ },
+ "5f0": {
+  "state": "pass",
+  "why": "single glyph, three slots on Luke 16 with no consistent word"
+ },
+ "6305201d9": {
+  "state": "pass",
+  "why": "033r/033v slot open"
+ },
+ "630520990690": {
+  "state": "pass",
+  "why": "020v/025v beside donkey and hay, but K&T already read 'ox' (540060ae06c3)"
+ },
+ "6305e0": {
+  "state": "pass",
+  "why": "same formula 020v:13/025v:11 'from [x] to go another', slot open"
+ },
+ "630a100600608f37a0060060253540": {
+  "state": "pass",
+  "why": "10 glyphs, 204v/205r no source"
+ },
+ "64f": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "656": {
+  "state": "pass",
+  "why": "single glyph on Luke 16:7-8; if a numeral it would be K&T's"
+ },
+ "670a85": {
+  "state": "pass",
+  "why": "066r slot open"
+ },
+ "670ae03f2": {
+  "state": "pass",
+  "why": "099r 1 John 4 slot open"
+ },
+ "6a3520270": {
+  "state": "pass",
+  "why": "039r/040r after 'hear preach' x2, slot open"
+ },
+ "6e5520": {
+  "state": "pass",
+  "why": "038r/041v slot open"
+ },
+ "73a": {
+  "state": "pass",
+  "why": "174v/176r no one word fits both"
+ },
+ "73b": {
+  "state": "pass",
+  "why": "224r-224v, the two most damaged folios; unreadable context"
+ },
+ "7b9": {
+  "state": "pass",
+  "why": "054r no source, twice on one line"
+ },
+ "7c2": {
+  "state": "pass",
+  "why": "single glyph, three unrelated slots; a particle"
+ },
+ "7f8": {
+  "state": "pass",
+  "why": "'[x] you exist many' x2 Acts, wants 'all' which K&T carry"
+ },
+ "805": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "813": {
+  "state": "pass",
+  "why": "single glyph, line-initial x3 with no consistent word; a particle"
+ },
+ "84a": {
+  "state": "pass",
+  "why": "224r damaged"
+ },
+ "885": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "8a2ae0362": {
+  "state": "pass",
+  "why": "018v Luke 1:35 slot open"
+ },
+ "8e4": {
+  "state": "pass",
+  "why": "single glyph, no source"
+ },
+ "959520": {
+  "state": "pass",
+  "why": "'Moses ... [x]' x2 wants 'law', which another K&T sign carries"
+ },
+ "984": {
+  "state": "pass",
+  "why": "086r-086v around 'symbolize', slot open"
+ },
+ "9b7": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "a10001005270001a10060": {
+  "state": "pass",
+  "why": "069v-070r John 15, slot wants 'abide in me' but 'abide' is carried by another sign"
+ },
+ "a105209ab": {
+  "state": "pass",
+  "why": "165r allegory, slot open"
+ },
+ "a38": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "a42": {
+  "state": "pass",
+  "why": "single glyph, line-final after 'and' on identical lines 026v/104r; a particle"
+ },
+ "a51": {
+  "state": "pass",
+  "why": "single glyph before 'and somebody' x3, Mark 16:16; a conjunction K&T already read another way"
+ },
+ "a52": {
+  "state": "pass",
+  "why": "single glyph, two unrelated slots"
+ },
+ "a63": {
+  "state": "pass",
+  "why": "single glyph after 'son' x2; 'young' is the free word (Luke 7:14) but a one-glyph noun is unlikely"
+ }
+}

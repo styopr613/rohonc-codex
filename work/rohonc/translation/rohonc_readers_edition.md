@@ -37,13 +37,13 @@ than one that does not; it is only harder to check.
 
     words in the manuscript            29997
     read                               27938 (93.1%)
-    read from one passage, marked *    970 (3.2%)
-    restored, in brackets              33 (0.1%)
-    dark, printed as an ellipsis       1056 (3.5%)
+    read from one passage, marked *    975 (3.3%)
+    restored, in brackets              43 (0.1%)
+    dark, printed as an ellipsis       1041 (3.5%)
 
-    lines with every word read         3516 of 4372 (80.4%)
+    lines with every word read         3519 of 4372 (80.5%)
     lines complete including
-      restorations                     3547 of 4372 (81.1%)
+      restorations                     3555 of 4372 (81.3%)
 
 The evidence for every single word is in `harness/proposals.json`, one entry
 per sign, with its tier and the argument in full. `harness/ktprov.py` prints
@@ -53,7 +53,7 @@ including the two that failed.
 
 **Brackets are the measure of what is left to do.** Every time a source text
 enters the corpus, or a formula turns up twice, some of them become plain
-words. There are 33 of them now.
+words. There are 43 of them now.
 
 ---
 
@@ -120,7 +120,7 @@ words. There are 33 of them now.
 > The Son, the Spirit […] […]; the Son, in the image of the Lord. […] […] man is; all one; to the Father, the Son, the Spirit. Father, Son and Spirit took man, and every living thing […] The soul heard. Adam saw the living, truly, not many | Father and Son — not many; the Holy Spirit; but this Lord is all, one God. […] God, the angel, Elijah the prophet. Elijah the prophet, when there were Father, Son and Spirit, going forth […] […] and the brethren, in this world, and […] | […] the Lord God, Adam […] […]; and then Adam was […] as was said before […] and […] […] […] breathed into Adam, and he became living, and the Lord God took Adam, and Adam went into Paradise; and all […]. End of chapter. Adam
 
   1  son spirit heart and_then son on-<preposition_of_genitive> shape,_form on-Lord
-  2  heart [...] exist somebody each,_every one to-father son
+  2  heart [likeness] exist somebody each,_every one to-father son
   3  spirit grab father son spirit somebody each,_every living [creature]
   4  soul hear Adam see living righteous(ly) not many | from
   5  father from son not many holy-spirit a) this Lord each,_every
@@ -665,7 +665,7 @@ words. There are 33 of them now.
   5  and_then Lord mouth somebody have one son and inside-+<subject_marker>
   6  hell evil [...] somebody son <preposition_of_genitive> apostle to-hide_oneself-to son can
   7  from-healing that* ask_(for) from-healing this Lord <preposition_of_genitive>-somebody son say
-  8  Lord-Jézus have_mercy gain [...] son can from-+day healing.
+  8  Lord-Jézus have_mercy gain [lunatic] son can from-+day healing.
   9  and then-exist son go before Lord-Jézus and on-~way.
  10  healing leave-to-leave and this three confess hell evil that
  11  Lord-Jézus righteous(ly) son God because miracle confess in_turn-two-two
@@ -1460,7 +1460,7 @@ words. There are 33 of them now.
 > […] and […] to the Lord Jesus, his […] […] Here ends […] […] […] the Passion of the Lord Jesus.
 
   1  why?-in_turn and from to-Lord-Jézus <preposition_of_genitive>-Lord commend* give_up_the_ghost
-  2  end this the_account* Passion [...] suffering Lord-Jézus
+  2  end this the_account* Passion evangelist* suffering Lord-Jézus
 
 ## 052v — the earthquake, and Longinus
 
@@ -2284,7 +2284,7 @@ words. There are 33 of them now.
   7  <subject_marker> chapter-oh chapter-oh in_turn righteous(ly) ~judge-somebody each,_every
   8  to-which-chapter righteous(ly) judge according_to* judge-somebody false
   9  from-judge but_rather-each,_every to-which-chapter righteous(ly) judge Lord-<suffix_of_divine_name> speak each,_every write
- 10  and each,_every prophet and each,_every church_father and each,_every forefather and [...]
+ 10  and each,_every prophet and each,_every church_father and each,_every forefather and evangelist*
 
 ## 079r — the orders of angels, and one word
 
@@ -2475,7 +2475,7 @@ words. There are 33 of them now.
   8  holy-<name_of_a_prophet> holy-Moses exist [...] fire on-each,_every people*
   9  to-heaven high because-exist each,_every people* destroy kneel_(down) one
  10  holy-Elijah prophet time then-exist Lord-<suffix_of_divine_name> destroy-Lord
- 11  earth exist fire inside one place and [...] | from
+ 11  earth exist fire inside one place and flame* | from
  12  pierce [...] to-to Lord-<suffix_of_divine_name> inside water on-this destroy exist three
 
 ## 086r — the torch lit from heaven
@@ -2488,7 +2488,7 @@ words. There are 33 of them now.
   4  fire [...] one [...] [...] say
   5  God angel Elijah this exist symbolize Lord-<suffix_of_divine_name> Lord | <preposition_of_genitive>
   6  angel and then-exist grab holy-Elijah torch ~and torch
-  7  light in_turn this [...] [...] go to-Elijah from | two-two
+  7  light in_turn this [...] flame* go to-Elijah from | two-two
   8  two-two people-+day and each,_every from-[?] torch light in_turn
   9  holy-Elijah [...] little and inside Elijah from-until
  10  from-until and_then holy-Elijah then-exist | two-two-two-two
@@ -2604,7 +2604,7 @@ words. There are 33 of them now.
   4  inside öl father Abraham and shout this rich
   5  father Abraham say-father Lazarus because-this from-understand the_poor_man/woman* | <preposition_of_genitive>
   6  Lazarus little finger immerge water and cool
-  7  on-<preposition_of_genitive>-rich tongue [...] [...] soul <preposition_of_genitive>-rich and from
+  7  on-<preposition_of_genitive>-rich tongue [...] flame* soul <preposition_of_genitive>-rich and from
   8  [...] exist-exist-chapter <preposition_of_genitive>-rich and_then father Abraham | this
   9  ~rich son <preposition_of_genitive>-father-<suffix_of_divine_name> this-~rich good [...] he_is*
  10  Lazarus exist [...] [...] people* in_turn this-~rich exist
@@ -3551,9 +3551,9 @@ words. There are 33 of them now.
   1  and ten-ten-ten-ten and night which-hide_oneself-angel to-hide_oneself-angel
   2  on-heaven land on-~evil redeem* <subject_marker> one
   3  order day-chapter from* and then-exist this-Lord go-Lord from-father-<suffix_of_divine_name>
-  4  <preposition_of_genitive>-Lord from this-Lord want-Lord [...] ~begin order angel and from
+  4  <preposition_of_genitive>-Lord from this-Lord want-Lord [the_tenth] ~begin order angel and from
   5  to-leave <preposition_of_genitive>-Lord ~until judge-year want-Lord <preposition_of_genitive>-Lord | from
-  6  father-<suffix_of_divine_name> [...] from order on-place [...] <subject_marker> | exist
+  6  father-<suffix_of_divine_name> [the_tenth] from order on-place [...] <subject_marker> | exist
   7  Lord bow_down-Lord from-father-<suffix_of_divine_name> <preposition_of_genitive>-Lord on-heaven land
   8  on-~evil then-exist | go-Lord-father-<suffix_of_divine_name>-son-God-Jézus-holy-spirit
   9  Mary-Christ-apostle-angel judge living and die redeem* [...]
@@ -3579,7 +3579,7 @@ words. There are 33 of them now.
   1  from-father-<suffix_of_divine_name> to-son go holy-spirit father son heart somebody
   2  and_then from-father-<suffix_of_divine_name> holy-spirit on-how? somebody shape,_form
   3  want father son spirit heart and_then son | on-<preposition_of_genitive>
-  4  shape,_form [...] [...] exist somebody each,_every one | to
+  4  shape,_form [...] [likeness] exist somebody each,_every one | to
   5  father son spirit grab father son spirit somebody
   6  each,_every living [creature] soul hear Adam see righteous(ly) not
   7  many from-father from son not many holy-spirit a)
@@ -4851,8 +4851,8 @@ words. There are 33 of them now.
   4  somebody and Lord-<suffix_of_divine_name> then-chapter die-son go to-son
   5  and leave therefore* exist humble on-+three ways* inside-gospel
   6  write holy-Luke this example* therefore* have
-  7  son Lord-<suffix_of_divine_name> inside each,_every <preposition_of_genitive>-son [...]
-  8  [...] <subject_marker> exist son inside [...]
+  7  son Lord-<suffix_of_divine_name> inside each,_every <preposition_of_genitive>-son [whosoever_sins_dies]
+  8  [...] <subject_marker> exist son inside [whosoever_sins_dies]
   9  then-chapter die-son go to-son and leave therefore* have
 
 ## 166v — the whole law in two commandments
@@ -5054,7 +5054,7 @@ words. There are 33 of them now.
   3  grab-Lord three gold* talent third grab-Lord
   4  five gold* talent and_then this rich-Lord each,_every until
   5  this [...] five sense have_mercy pray.
-  6  alms believe [...] servant mouth
+  6  alms believe [ability] servant mouth
   7  this-Lord go to-[?] be_saved how_shall_we* living-servant and Lord grab priest
   8  high-Magdalene-+day king Lord to-[?] farm people somebody
   9  soul soul soul soul end this holy-gospel the_Lord love
@@ -5098,7 +5098,7 @@ words. There are 33 of them now.
   4  exist-Lord grab-Lord one gold* talent
   5  and_then this rich Lord reckon_with* servant how_shall_we-somebody
   6  <preposition_of_genitive>-Lord rich say this servant [...] servant [...]
-  7  [...] [...] [...] love-exist exist-rich [...] servant
+  7  [...] [...] [...] love-exist exist-rich [ability] servant
   8  because this-Lord [...] have servant because then-exist this-servant
   9  <preposition_of_genitive>-Lord rich lose ~servant this-Lord exist [...]
 
@@ -6596,7 +6596,7 @@ words. There are 33 of them now.
   6  until ~begin-year in_turn from* ~begin-year one in_turn [...]
   7  [...] [...] Lord have_mercy in_turn [...] one [...] in_turn in_the_middle
   8  somebody [...] more_than_these* this say [...] the_name_of_the_author [...]
-  9  Friday [...] [...] the_name_of_the_author-somebody this out(ward) two Sunday name
+  9  Friday [...] [lunatic] the_name_of_the_author-somebody this out(ward) two Sunday name
  10  Sunday three in_turn-two-two <subject_marker> Sunday three Lord | father
  11  son-spirit inside Monday exist [...] get_conceived to
 

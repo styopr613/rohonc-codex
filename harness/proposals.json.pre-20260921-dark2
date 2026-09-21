@@ -5435,47 +5435,5 @@
   "tier": "G",
   "n": 3,
   "evidence": "006v:6,7,9 'arrive can [x] recognize', 'town can [x] recognize', 'inside can [x] recognize and then Seth say'. The Rood legend: Seth finds the way to Paradise by the footprints where no grass grew. Three occurrences, one story, no source line for the word. GUESS, weak."
- },
- "8b23e2": {
-  "gloss": "evangelist",
-  "tier": "C",
-  "n": 2,
-  "evidence": "Holds 3e2 'Word; gospel' as its second glyph. 078r:10 'every prophet and every church father and every forefather and [x]' closes a list of the ranks of the blessed where the evangelists stand; 052r:2 'end of the account of the Passion [x] suffering of the Lord Jesus' is the Passion according to the evangelist. 'evangelist' is free; K&T name the four evangelists individually. Fits both."
- },
- "a1069a": {
-  "gloss": "flame",
-  "tier": "C",
-  "n": 3,
-  "evidence": "One glyph from K&T's a10b71 'fire, flame' (var. at 020v02, 070r07). Three occurrences, all about fire: 085v:11 'earth exist fire inside one place and [x]' (1 Kings 18:38, the fire of the Lord); 086r:7 the torch; 089v:7 'rich tongue [x] soul of the rich' (Luke 16:24 'cool my tongue, for I am tormented in this flame'). KT-anchored."
- },
- "520820": {
-  "gloss": "likeness",
-  "tier": "G",
-  "n": 2,
-  "evidence": "002v:2 'heart [x] exist somebody every one to father son' and 121v:4 'shape/form [x] exist somebody every one to', Gen 1:26 'to our image and likeness'. The word before is K&T's 'shape, form' = image; 'likeness' is free. Same formula on both pages. GUESS."
- },
- "520990ae0": {
-  "gloss": "lunatic",
-  "tier": "G",
-  "n": 2,
-  "evidence": "025r:8 'Jesus have mercy [x] son can from day healing', Matthew 17:15 'Lord, have mercy on my son, for he is a lunatic'; 'lunatic' free and the rarest word of the passage. The second occurrence, 222v:9 in the author's calendar, does NOT fit and is recorded. GUESS."
- },
- "630775": {
-  "gloss": "the_tenth",
-  "tier": "G",
-  "n": 2,
-  "evidence": "120v:4 'want Lord [x] begin order angel' and 120v:6 'father [x] from order on place'. The folio is Lucifer's fall and his order standing empty; the medieval commonplace is that the fallen were the tenth order and mankind is made to fill it. Two lines, one legend, no source line. GUESS."
- },
- "a929c7ae0": {
-  "gloss": "ability",
-  "tier": "G",
-  "n": 2,
-  "evidence": "173r:6 'alms believe [x] servant mouth' and 174v:7 'exist rich [x] servant', Matthew 25:15 'to every one according to his proper ability'; 'ability' and 'proper' are the free words. GUESS."
- },
- "5203c4796a10003a10b09": {
-  "gloss": "whosoever_sins_dies",
-  "tier": "G",
-  "n": 2,
-  "evidence": "86% covered by read signs in order: 5203c4 'sin, sinner' + 796 'dead, die' + a10003a10 'whosoever' + b09. 166r:7 'son Lord inside every of son [x]' and 166r:8 'exist son inside [x]'. The parts are read; the whole is a guess at the phrase they make. GUESS."
  }
 }
