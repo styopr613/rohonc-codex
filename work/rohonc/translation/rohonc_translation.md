@@ -13619,3 +13619,407 @@ in Király & Tokai's dictionary, so the person is not named here.
 > Matthew 9:9, Douay: *Jesus saw a man sitting in the custom house, named
 > Matthew; and he saith to him: Follow me.* K&T's dictionary carries the
 > tax-collector sign, so the reading of the line is theirs.
+
+## 194r — he sat at meat in the house
+
+**1**  Matthew went to the Lord, to the food, to the place; holy Matthew rose, and
+`Matthew go to-Lord on-food to-place rise holy-~Matthew and`
+
+**2**  Matthew went to the Lord Jesus; and the Lord went with Matthew to holy Matthew's house,
+`go-Matthew to-Lord-Jézus and go-Lord-Matthew holy-~Matthew house`
+
+**3**  and he made, out of many, out of […] — how?
+`and do, from-many-to from-+out [?] how?`
+
+**4**  Holy Luke speaks: he made, out of many, out of […]
+`speak holy-Luke do, from-many-to from-+out.`
+
+**5**  […] and there went to the Lord the Jews, the Pharisees, and
+`[?] and go to-Lord Jew(ish) pharisee and`
+
+**6**  the tax collectors, the chief men; and together with the Lord Jesus they drank
+`tax_collector exist head and together Lord-Jézus drink`
+
+**7**  and ate, the sinners; and the Jews began,
+`and eat sinners* and begin Jew(ish).`
+
+**8**  the Pharisees, to speak to the Lord's apostles: this, you answered,
+`pharisee speak apostle <of>-Lord this you answered`
+
+**9**  the salvation of sinners? In turn, then, this Lord is
+`sinners* from-salvation in_turn then-exist this-Lord exist`
+
+> Matthew 9:10-11, Douay: *as he was sitting at meat in the house, behold many
+> publicans and sinners came, and sat down with Jesus and his disciples. And
+> the Pharisees seeing it, said to his disciples: Why doth your master eat
+> with publicans and sinners?*
+
+## 194v — they that are well need not a physician
+
+**1**  and the Lord said: this Lord is sin, therefore the Lord's salvation; and
+`and Lord say this-Lord exist sin ?therefore from-salvation-Lord and`
+
+**2**  the blind to the Lord Jesus […] humble; and then the Lord Jesus […]
+`blind-to Lord-Jézus [?] humble and_then Lord-Jézus [?]`
+
+**3**  to the Lord: this Lord went not to the righteous man in this world, but to the sinner;
+`to-Lord this-Lord go-Lord to-righteous_man on-this world* a) to-sin`
+
+**4**  and then the Lord Jesus: you, righteous man; and then
+`and_then Lord-Jézus you righteous_man and_then`
+
+**5**  the Lord Jesus: the healthy man needs no recovery, but rather he needs
+`Lord-Jézus need healing-somebody recovery but_rather need.`
+
+**6**  one sin — this is recovery. Here ends this holy gospel,
+`one-sin ~exist-this recovery end this holy-gospel`
+
+**7**  written by holy Matthew in the […] chapter. Holy Paul speaks and says: | the Lord
+`write holy-Matthew inside and chapter holy-Paul speak say | Lord`
+
+**8**  Jesus Christ, from the beginning of the world, from the creating of Adam, | to
+`Jézus-Christ from* ~begin-to world* from* ~Adam create | to`
+
+**9**  […] the coming of the Lord Jesus Christ into this world […]
+`[?] coming* Lord-Jézus-Christ on-this world [?]`
+
+> Matthew 9:12-13, Douay: *They that are in health need not a physician, but
+> they that are ill... For I am not come to call the just, but sinners.* Both
+> halves, in the gospel's order, and the folio then turns to Paul.
+
+## 195r — from Adam to the coming of Christ
+
+**1**  truly, the man; and one prophet, and one forefather,
+`righteous(ly) somebody and one prophet and one forefather`
+
+**2**  and one holy father, holy living; and one | […]
+`and one holy-father holy-living and one | [?]`
+
+**3**  the father […] in the eternal land;
+`father-[?]-[?]-[?] inside eternal* land`
+
+**4**  but rather, then, at the coming of Christ into this world, and then, in his
+`but_rather-+one then coming* Christ on-this world* and then-exist inside`
+
+**5**  thirtieth day, the time […] the Lord Jesus upon Carmel,
+`thirty day time from-[?]-[?] Lord-Jézus on-Carmel`
+
+**6**  the mount; and then out, in his thirty-third year, the time
+`mount and then-exist out(ward) thirty ~begin-+three_days time`
+
+**7**  he was crucified, and on the third day stood up from the dead; and many holy prophets
+`crucified and on_the_third_day from die stand_up and many holy-prophet`
+
+**8**  and holy forefathers and holy fathers, holy living, out of the netherworld | to
+`and holy-forefather and holy-father holy-living on-netherworld out(ward) | to`
+
+**9**  the Lord went; and then, that day, the time he left
+`go-Lord and then-exist [?]-+day time to-leave`
+
+## 195v — he shall come to judge the quick and the dead
+
+**1**  to the Lord's Father, upon heaven and earth; | the Lord sits
+`to-<of>-Lord from-father-<divine> on-heaven land | from-sit`
+
+**2**  at the Father's right hand, at the food; the Lord shall go to judge
+`Lord from-father-<divine> on-right_side from-food have-Lord go-Lord judge`
+
+**3**  the living and the dead; and before going away he blessed all the wide
+`living-somebody and die-somebody and before go_away bless each,_every the_whole_wide_world`
+
+**4**  world. This holy gospel begins,
+`world begins this holy-gospel.`
+
+**5**  written by holy Matthew | […]
+`write holy-Matthew | [?]`
+
+**6**  the twenty-second chapter of the writing:
+`two-two chapter <of>-write.`
+
+**7**  the time, then, | the Lord
+`time then-exist | Lord`
+
+**8**  Jesus, in his thirty-third year, the time the Lord Jesus said to the apostles;
+`Jézus thirty ~begin-+three time say apostle Lord-Jézus.`
+
+**9**  they answered: who shall be to the Lord, this Lord, the greatest in the eternal
+`answered who? exist to-Lord this-Lord on-many inside eternal*`
+
+> The creed, clause by clause: *sitteth at the right hand of the Father, from
+> thence he shall come to judge the living and the dead.* Then Matthew 18:1,
+> *Who thinkest thou is the greater in the kingdom of heaven?*
+
+## 196r — except you become as little children
+
+**1**  land? Because this is the apostles' — he himself, the Lord, was crucified and
+`land because ~exist-this apostle he_is* Lord crucified and`
+
+**2**  on the third day stood up from the dead; and the Lord to these apostles, to judge
+`on_the_third_day from die stand_up and Lord to-this apostle judge`
+
+**3**  who shall be to the Lord, this Lord, greatest in the eternal land;
+`who exist to-Lord this-Lord on-many inside eternal* land`
+
+**4**  and the Lord Jesus took among them one little son,
+`and among Lord-Jézus one little son.`
+
+**5**  and the son the Lord Jesus set upon the head,
+`and son <subject> put_on Lord-Jézus on-head.`
+
+**6**  of the Lord, why in turn; and then the Lord Jesus: whosoever therefore is humble | as
+`<of>-Lord why?-in_turn and_then Lord-Jézus who-?therefore this humble | how?`
+
+**7**  this little son, that one therefore is saved.
+`<subject> this little son one ?therefore be_saved`
+
+**8**  The time the Jews brought one | before | the Lord
+`time carry Jew(ish) one | before | Lord`
+
+**9**  Jesus, from this emperor, to whom, and he was a pagan.
+`Jézus from* this emperor to-+who-to and exist pagan.`
+
+> Matthew 18:2-4, Douay: *And Jesus calling unto him a little child, set him
+> in the midst of them, and said... whosoever therefore shall humble himself
+> as this little child, he is the greater in the kingdom of heaven.* The sign
+> here read as *little* is the one this project first read wrongly as *child*
+> and corrected against K&T's own entry.
+
+## 196v — the keys, and whatsoever thou shalt bind
+
+**1**  Because he heard from every man, upon one | before; this was:
+`because hear from each,_every somebody on-one | before this exist`
+
+**2**  the Lord Jesus took the key of salvation, holy Peter; said | the Lord
+`grab Lord-Jézus key be_saved holy-Peter say | Lord`
+
+**3**  Jesus: whom this Peter […] in this world, from
+`Jézus who(m) this-Peter [?] on-this world from`
+
+**4**  a man there is […] and from the eternal land;
+`somebody exist [?] and from_the_eternal* land`
+
+**5**  in turn whom this one […] in this world, from
+`in_turn who(m) this-?with [?] on-this world from`
+
+**6**  a man there is […] and from the eternal land.
+`somebody exist [?] and from_the_eternal* land`
+
+**7**  And then the Lord Jesus: he who among many, the Lord, you, from
+`and_then Lord-Jézus he_who on-many Lord you from`
+
+**8**  the Lord — every one a servant; and then the Lord Jesus: whosoever therefore this
+`the_Lord each,_every servant and_then Lord-Jézus who-?therefore this`
+
+**9**  apostle, from this little son, does
+`apostle this from little son to* do,`
+
+> Matthew 16:19, Douay: *And I will give to thee the keys of the kingdom of
+> heaven. And whatsoever thou shalt bind upon earth, it shall be bound also in
+> heaven: and whatsoever thou shalt loose on earth, it shall be loosed also in
+> heaven.* The codex writes the two halves as a matched pair on lines 3-6,
+> which is why the signs in them are among the better attested on the folio.
+
+## 197r — their angels always see the face of my Father
+
+**1**  in the Lord's name, that one therefore is saved;
+`inside <of>-Lord [?]-+name and one ?therefore be_saved`
+
+**2**  and then the Lord Jesus taught the Lord's, therefore, apostles; and one
+`and_then Lord-Jézus learn <of>-Lord ?therefore apostle and one`
+
+**3**  […] […] did; and then the Lord Jesus to the apostles
+`[?] [?] do, and_then Lord-Jézus apostle`
+
+**4**  of the Lord: happy are the people, and the angels see the face
+`<of>-Lord happy from people and angel see face`
+
+**5**  of the Lord's Father; it is the will, from the people; and the angels look upon
+`<of>-Lord from-father-<divine> will from-people and angel on-see.`
+
+**6**  the face of the Lord's Father. Here ends this holy gospel.
+`face <of>-Lord from-father-<divine> end this holy-gospel`
+
+**7**  This holy gospel begins, written by
+`begins this holy-gospel write`
+
+**8**  holy Matthew: the time | the Lord
+`holy-Matthew time say | Lord`
+
+**9**  Jesus said to the Lord's apostles, and to the Jewish
+`Jézus apostle <of>-Lord and Jew(ish)`
+
+> Matthew 18:10, Douay: *See that you despise not one of these little ones:
+> for I say to you, that their angels in heaven always see the face of my
+> Father who is in heaven.*
+
+## 197v — take up his cross and follow me
+
+**1**  people; and the apostles, the man, the Jews: whosoever would come after the Lord, let him | deny
+`people and apostle-somebody-Jew(ish) want what Lord go | deny`
+
+**2**  himself, and all that is his, and take his own
+`somebody <of>-somebody the_whole_wide_world and grab <of>-somebody`
+
+**3**  cross upon his own shoulder, and let the man go after
+`~cross on-<of>-somebody shoulder and go-somebody what`
+
+**4**  the Lord; and then the Lord Jesus: who is this man […] and this world | rich
+`Lord and_then Lord-Jézus who this somebody [?] and this world | rich`
+
+**5**  […] then this man took his own soul | to riches
+`[?] then this somebody <subject> grab <of>-somebody soul | to-rich`
+
+**6**  […] and then the Lord Jesus: good is it that this man release | of
+`[?] and_then Lord-Jézus good <subject> this somebody release* | <of>`
+
+**7**  the man's soul; damned, but saved, because many a man;
+`somebody soul be_damned ~a) be_saved because many somebody`
+
+**8**  and the man is […] […] […] saved, every
+`and somebody exist [?] [?] [?] be_saved-somebody each,_every`
+
+**9**  man damned […] […] the man is, from the judgment, said,
+`somebody be_damned [?] [?] somebody exist from-judge say`
+
+> Matthew 16:24-26, Douay: *If any man will come after me, let him deny
+> himself, and take up his cross, and follow me... For what doth it profit a
+> man, if he gain the whole world, and suffer the loss of his own soul?* The
+> denying, the cross on the shoulder, the whole world and the soul are all
+> here in order.
+
+## 198r — go into all the world
+
+**1**  to damnation; every man saved. And then the Lord Jesus: you,
+`on-be_damned each,_every somebody be_saved and_then Lord-Jézus you`
+
+**2**  therefore, go from town to town, this believing; who
+`therefore-+say each,_every from_town_to_town* this-believe-+say who`
+
+**3**  this Lord, you, preach the Lord, every one, from town to town,
+`this-Lord you preach-Lord each,_every from_town_to_town*`
+
+**4**  this […] and see, go into this world, from prayer,
+`this [?] see-+say go on-this world from pray`
+
+**5**  the Son of God, in the mind of man, on the judgment year, every one, from town to town,
+`son God inside exist-exist-chapter somebody on-judge-year each,_every from_town_to_town*`
+
+**6**  this […] believe; and then the Lord Jesus […]
+`this-[?] believe and_then Lord-Jézus [?]`
+
+**7**  Peter, one among you; and the apostles | see,
+`Peter one among you and apostle | see`
+
+**8**  the apostles, from prayer, the Son of God, within […] the man,
+`apostle from pray son God inside ~exist-[?] somebody`
+
+**9**  and the apostles are within; the apostles believe. Here ends
+`and apostle exist inside son believe-apostle end`
+
+**10**  this holy gospel.
+`this holy-gospel`
+
+## 198v — write your names in the eternal land
+
+**1**  Said the Lord God to the angel | of
+`say <subject> Lord-<divine> on-angel | <of>`
+
+**2**  the Lord, holy […] the prophet, and | holy
+`Lord holy-<prophet> prophet and | holy`
+
+**3**  Elijah the prophet […] | said
+`Elijah prophet [?] | say`
+
+**4**  the apostles, the man, to the Lord, this Lord:
+`apostle-somebody to-Lord this-Lord.`
+
+**5**  thou creature, Lord, have mercy on sin […] this is
+`you creature* Lord sin have_mercy [?] this exist`
+
+**6**  in the commandment, the man, that is; and the man who bears the commandment
+`inside commandment somebody that_is and have somebody ~carry commandment`
+
+**7**  of God […] the sinful man is saved, to many | not, not,
+`God [?] sin somebody be_saved to-many | not-not`
+
+**8**  not. Chapter. Chapter. Amen. Written are the names
+`not chapter-oh chapter-oh amen write <subject> name`
+
+**9**  of men in the eternal land, in the house; he dies, in turn | upon
+`<of>-somebody inside eternal* land to-house die in_turn | on`
+
+**10**  death, the mind and the soul. Chapter. Chapter. Amen.
+`die exist-exist-chapter and soul chapter-oh chapter-oh amen`
+
+> Luke 10:20: *rejoice in this, that your names are written in heaven.* The
+> book's frame -- a revelation given to Elijah -- returns on lines 2 and 3,
+> which is where it always returns, at the join between two readings.
+
+## 199r — a man had a vineyard and two sons
+
+**1**  This holy gospel begins,
+`begins this holy-gospel`
+
+**2**  written by holy Matthew | in the
+`write holy-Matthew | one`
+
+**3**  twentieth, in the fifth chapter
+`ten-+one-ten inside five chapter`
+
+**4**  of the writing: the time,
+`<of>-write time`
+
+**5**  then, the Lord Jesus, in his
+`then-exist Lord-Jézus inside`
+
+**6**  thirty-third year,
+`thirty ~begin-+three_days`
+
+**7**  the time the Lord Jesus preached in Jerusalem; and the Lord Jesus said to the apostles
+`time preach Lord-Jézus inside Jerusalem and say Lord-Jézus apostle`
+
+**8**  of the Lord, and to the Jewish people: the kingdom of heaven left a man
+`<of>-Lord and Jew(ish) people leave king somebody heaven`
+
+**9**  and earth; and then the Lord Jesus: there was […]
+`land and_then Lord-Jézus exist [?]`
+
+**10**  one rich man, a vineyard; and then he had
+`one rich-somebody vineyard and then-exist have`
+
+> Matthew 21:28, Douay: *But what think you? A certain man had two sons.* The
+> vineyard and the two sons are both on the page, and the sign read here as
+> *man* was got from this very line, out of K&T's own word for it.
+
+## 199v — go work today in my vineyard
+
+**1**  two sons, to the pagan and the Jew; and then this rich man | of
+`two son to-+pagan Jew(ish) and_then this rich-somebody | <of>`
+
+**2**  the Lord, the man, the son, said […] he brought the son into | the Lord's
+`Lord-somebody son on-+say [?] brought-son inside | <of>-Lord-from`
+
+**3**  man's vineyard, the farm; he said, brought the son to this, go,
+`man vineyard farm say brought-son to-this ~go-+say`
+
+**4**  and then this rich man […] the second, to the son,
+`and_then this rich-somebody [?]-[?] two to-~son`
+
+**5**  […] the man, into the rich man's vineyard, the farm; and then he said, said
+`[?]-somebody inside <of>-Lord-somebody vineyard farm and_then-say-say`
+
+**6**  the priest, and […] […] the man; and said
+`priest* and [?]-[?] [?]-somebody and say`
+
+**7**  the Lord Jesus to the chief men of the Jews and to the Lord's apostles: judge, Lord,
+`Lord-Jézus head Jew(ish) and apostle <of>-Lord judge-Lord`
+
+**8**  this Lord, you: which of these did good? Say.
+`this-Lord you who? <subject>-this good say.`
+
+**9**  Said the chief men of the Jews: which did good? He who
+`say head Jew(ish) who? <subject> good say he_who`
+
+> Matthew 21:28-31: *Son, go work to day in my vineyard... Which of the two
+> did the father's will? They say to him: The first.* The question put back to
+> the chief priests is on lines 7-9, exactly where Matthew has it.
