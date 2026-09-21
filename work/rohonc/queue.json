@@ -199,6 +199,42 @@
   "state": "pass",
   "why": "070v John 14:13; slot open"
  },
+ "273": {
+  "state": "pass",
+  "why": "142v; slot open"
+ },
+ "279782ae0": {
+  "state": "pass",
+  "why": "049r Mary Magdalene, no source"
+ },
+ "283": {
+  "state": "pass",
+  "why": "019r Joseph the aged, no source"
+ },
+ "2a5": {
+  "state": "pass",
+  "why": "107r Luke 10:36; slot open"
+ },
+ "2b6962080a10920": {
+  "state": "pass",
+  "why": "150r Luke 15:11; slot open"
+ },
+ "2c0": {
+  "state": "pass",
+  "why": "188v John 6:53; slot open"
+ },
+ "2d2": {
+  "state": "pass",
+  "why": "024r, no source"
+ },
+ "2da520": {
+  "state": "pass",
+  "why": "033v Luke 22:41; 'withdrawn' is free but does not fit the slot before 'suffering'"
+ },
+ "300": {
+  "state": "pass",
+  "why": "215r John 8:56; 'glad' is free but the slot is odd"
+ },
  "343": {
   "state": "pass",
   "why": "single glyph, three unrelated slots (057v, 066r, 151v); a particle"
@@ -207,25 +243,173 @@
   "state": "pass",
   "why": "before 'judgment day' x2; a particle or 'until', which K&T already have"
  },
+ "355": {
+  "state": "pass",
+  "why": "071r, single glyph at the end of the closing formula"
+ },
+ "360520060": {
+  "state": "pass",
+  "why": "104v Luke 10:23; contained mid-word in this project's 'crucify', which is weak"
+ },
+ "361": {
+  "state": "pass",
+  "why": "089v Luke 16:22; slot open"
+ },
+ "373670ae0": {
+  "state": "pass",
+  "why": "011r Matthew 21:1; slot open"
+ },
+ "3a0": {
+  "state": "pass",
+  "why": "037r, no source"
+ },
  "3a1": {
   "state": "pass",
   "why": "single glyph, three unrelated slots"
+ },
+ "3a2": {
+  "state": "pass",
+  "why": "055r Mark 16:1; slot open"
+ },
+ "3c6ae0": {
+  "state": "pass",
+  "why": "106r the good Samaritan; slot open"
+ },
+ "3d2": {
+  "state": "pass",
+  "why": "184r Heraclius, no source"
+ },
+ "3d3": {
+  "state": "pass",
+  "why": "186r Heraclius carrying the cross, no source"
+ },
+ "3e3080b26": {
+  "state": "pass",
+  "why": "216v Acts 7:59; only 67% covered and the pieces do not make a phrase"
+ },
+ "416270540": {
+  "state": "pass",
+  "why": "043r Luke 23:8; slot open"
+ },
+ "442": {
+  "state": "pass",
+  "why": "172v Matthew 9:26; 'abroad' is free but 'news' already stands in the line"
+ },
+ "454021052": {
+  "state": "pass",
+  "why": "081v Acts 2; holds this project's own 'upon them' but the remainder is not determined"
  },
  "454022": {
   "state": "pass",
   "why": "108r/181r no one word fits both"
  },
+ "460962": {
+  "state": "pass",
+  "why": "184v Chosroes' tower; slot open"
+ },
+ "463520": {
+  "state": "pass",
+  "why": "216r Acts 7:56; slot open"
+ },
+ "4735df": {
+  "state": "pass",
+  "why": "143v; slot open"
+ },
+ "481": {
+  "state": "pass",
+  "why": "178r Luke 17:12; 'afar off' is the verse's phrase but 'far' already stands in the line"
+ },
+ "482": {
+  "state": "pass",
+  "why": "047v Matthew 27:24; slot open"
+ },
+ "491": {
+  "state": "pass",
+  "why": "146v, no source"
+ },
  "491540082": {
   "state": "pass",
   "why": "146v-147r no source, slot open"
+ },
+ "492": {
+  "state": "pass",
+  "why": "140v; slot open"
+ },
+ "4a7250": {
+  "state": "pass",
+  "why": "185v Heraclius at the gate; K&T's motion root but no sense determined"
+ },
+ "4a7401": {
+  "state": "pass",
+  "why": "056r John 20:15; K&T's motion root but no sense determined"
+ },
+ "4ad": {
+  "state": "pass",
+  "why": "055r Mark 16:1; 'spices' is free but the slot is before 'burial chamber'"
  },
  "4c0": {
   "state": "pass",
   "why": "222v/224r damaged"
  },
+ "4c7": {
+  "state": "pass",
+  "why": "055r, single glyph between two namings of the two Marys; probably a conjunction"
+ },
+ "4e1b219d6": {
+  "state": "pass",
+  "why": "195r, no source"
+ },
+ "4e7670b310a2060": {
+  "state": "pass",
+  "why": "018v Luke 1:35; slot open"
+ },
+ "4f3270": {
+  "state": "pass",
+  "why": "153v the good thief; slot open"
+ },
+ "4f9": {
+  "state": "pass",
+  "why": "165v; slot open"
+ },
+ "520060060270003003": {
+  "state": "pass",
+  "why": "053v, no source"
+ },
+ "5200601a08f0": {
+  "state": "pass",
+  "why": "061r Luke 24:25; slot open"
+ },
+ "5200601f5af5": {
+  "state": "pass",
+  "why": "144r the image of the Virgin; slot open"
+ },
+ "520060422001": {
+  "state": "pass",
+  "why": "185r Chosroes, no source"
+ },
+ "520060540152520231": {
+  "state": "pass",
+  "why": "Same word as 520060540152540231 by the SAME SLOT test: both stand in the identical line formula 'carry the law of God [x] sin, somebody is saved' at 085v:2 and 084v:12, one folio apart. That proves they are one word and is the positive half of the near-equals-same rule. It does not name the word, and the two spellings disagree on the middle glyph, so both are left dark."
+ },
+ "520060540152540231": {
+  "state": "pass",
+  "why": "Same word as 520060540152520231; see that entry. SAME SLOT proved, word not named."
+ },
+ "5200606a2": {
+  "state": "pass",
+  "why": "060r Luke 24:18; slot open"
+ },
  "5200606d4": {
   "state": "pass",
   "why": "'[x] earth' x2 Gen 3, wants 'cursed', which another sign carries"
+ },
+ "5200607a03b0060520ae0": {
+  "state": "pass",
+  "why": "055v Mark 16:5; the cover ends in K&T's 'donkey', which cannot be right at the sepulchre, so the cover is misleading here"
+ },
+ "5200607a21f2": {
+  "state": "pass",
+  "why": "202v Matthew 22:13; slot open"
  },
  "5200806a2": {
   "state": "pass",

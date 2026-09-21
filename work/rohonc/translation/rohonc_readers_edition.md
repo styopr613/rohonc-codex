@@ -36,14 +36,14 @@ than one that does not; it is only harder to check.
 ## What this edition is worth, in numbers
 
     words in the manuscript            29997
-    read                               27943 (93.2%)
-    read from one passage, marked *    981 (3.3%)
-    restored, in brackets              48 (0.2%)
-    dark, printed as an ellipsis       1025 (3.4%)
+    read                               27944 (93.2%)
+    read from one passage, marked *    985 (3.3%)
+    restored, in brackets              53 (0.2%)
+    dark, printed as an ellipsis       1015 (3.4%)
 
-    lines with every word read         3525 of 4372 (80.6%)
+    lines with every word read         3529 of 4372 (80.7%)
     lines complete including
-      restorations                     3566 of 4372 (81.6%)
+      restorations                     3575 of 4372 (81.8%)
 
 The evidence for every single word is in `harness/proposals.json`, one entry
 per sign, with its tier and the argument in full. `harness/ktprov.py` prints
@@ -53,7 +53,7 @@ including the two that failed.
 
 **Brackets are the measure of what is left to do.** Every time a source text
 enters the corpus, or a formula turns up twice, some of them become plain
-words. There are 48 of them now.
+words. There are 53 of them now.
 
 ---
 
@@ -1429,7 +1429,7 @@ words. There are 48 of them now.
 
   1  take* ~and foot chain-draw-+say
   2  and foot pierce and each,_every <preposition_of_genitive>-Lord [...] and | <preposition_of_genitive>
-  3  Lord [...] inside Lord [...] inside Lord-Jézus-Christ
+  3  Lord [...] inside Lord to-°trench-to-°trench inside Lord-Jézus-Christ
   4  and write Pilate on-one tablet Jézus
   5  Nazareth king Jew(ish) and_then Jew(ish)
   6  write Lord king Jew(ish) a) Lord write
@@ -1680,7 +1680,7 @@ words. There are 48 of them now.
 
 > The two apostles […] Lord Jesus, and the two apostles began to talk, and the Lord spoke from among them; and then Lord Jesus: O my two apostles, are you not saying, two apostles, Lord, how, saying among […] have, two apostles, because they said the Lord Jesus Christ apostle […] the two men spoke of the Lord, this Lord, the two Lord's apostles; the third Lord; and then Luke this […] the way, the man, this Lord, this good […] […] how […] the miracles in Jerusalem afterwards, and how the man […] said, the chief truly crucified this Jesus; and the Lord came into the world, went went preaching, and this and that miracle he did
 
-  1  two-apostle [...] Lord-Jézus and two-apostle (begin_to)_talk and
+  1  two-apostle [drew_near] Lord-Jézus and two-apostle (begin_to)_talk and
   2  Lord from-speak and_then Lord-Jézus oh <preposition_of_genitive>-Lord
   3  two-apostle exist-~exist say two-apostle Lord how? say ~among
   4  [...] have two-apostle because say exist Lord-Jézus-Christ
@@ -2077,7 +2077,7 @@ words. There are 48 of them now.
   1  say out(ward) on-hear how? one have_mercy-apostle-?believe each,_every
   2  to-<preposition_of_genitive>-Lord name and then-exist you
   3  chase want apostle say this_is ~out(ward) he_who* apostle-apostle
-  4  Master [...] and Lord Jew(ish) die and you
+  4  Master spoke* and Lord Jew(ish) die and you
   5  exist many sad(ly) on-Lord have in_turn one say-exist
   6  joy [...] you sad(ly) exist and-go_up ~until
   7  little how? then-exist one baptize head
@@ -3236,7 +3236,7 @@ words. There are 48 of them now.
   2  believe* who this faith* say-somebody apostle | <preposition_of_genitive>
   3  Lord say and who this-Lord preach and this faith*
   4  and_then Lord-Jézus then-exist this-Lord son God crying
-  5  this-Jerusalem because exist on-this-Jerusalem [...] an_army | this
+  5  this-Jerusalem because exist on-this-Jerusalem [trench] an_army | this
   6  this to-sit Jerusalem and this-Jerusalem [...] surround
   7  [...] and you is_not somebody angel [...]
   8  somebody angel out(ward) and [...] name-Jerusalem a) [...] among you
@@ -3342,7 +3342,7 @@ words. There are 48 of them now.
 > portion of the soul's son, of the Father; and then the son of the soul had much wealth, took it of the Father; because the son of the soul rightly […] took of the Father this, of the soul's son, of the Father. And the son of the soul went far, into a | city there was; and the son of the soul stayed in that land, and | began the soul's son to waste it all; the son of the soul stayed in that land, because | began the soul's son to live riotously; and then, many years, the son of the soul stayed there. | In turn it was; and there was left; he began to be hungry, this; and the son of the soul how shall he understand? for the […] son: the holy eye, speech, hearing, love, mercy, faith, righteousness: the five senses […] of the Father. And the son of the soul went to a swineherd, and
 
   1  divide_into_parts <preposition_of_genitive>-soul-son father-<suffix_of_divine_name> and then-exist soul-son exist many ~rich
-  2  grab father-<suffix_of_divine_name> because soul-son righteous(ly) [...] grab father-<suffix_of_divine_name> this
+  2  grab father-<suffix_of_divine_name> because soul-son righteous(ly) [substance] grab father-<suffix_of_divine_name> this
   3  <preposition_of_genitive>-soul-son father-<suffix_of_divine_name> and go soul-son far inside | town
   4  exist and leave soul-son inside land and | begin-soul
   5  son from each,_every prodigalize leave soul-son this land because | begin-soul
@@ -3952,7 +3952,7 @@ words. There are 48 of them now.
   2  and go this Lord-<suffix_of_divine_name>-king this heavenly servant and
   3  then-exist somebody-servant-angel go-angel before this | Lord-<suffix_of_divine_name>
   4  king before Lord Christ and somebody-servant begin
-  5  believe this [?]-?whosoever-+king <preposition_of_genitive>-Lord | [...]
+  5  believe this [?]-?whosoever-+king <preposition_of_genitive>-Lord | forgave_the_debt*
   6  good-do, and then-exist Lord-<suffix_of_divine_name>-king | law-love-have_mercy
   7  righteous(ly)-good-do, [...] grab and_then
   8  this Lord-<suffix_of_divine_name>-king sold angel-somebody to_be_lost | <preposition_of_genitive>
@@ -5560,7 +5560,7 @@ words. There are 48 of them now.
 > which and how? The Lord, joy, see […]; he left, into heaven | the town; this joy is to be, the Lord would […] on the judgment year, to judge whosoever liveth and the dead; this word, from the Lord, the living Lord; and in this world | the Lord went into heaven, in turn […] the Lord, with all thy heart, the Lord God, with all thy heart, pleasing and thanks. This holy gospel begins, written by holy Luke in the second chapter of the writing: the time, because the time the virgin Mary, at the coming of the Lord Jesus | […]
 
   1  what-+who how? Lord joy see [...] leave-chapter-leave on-heaven | town
-  2  exist-to this joy want-Lord [...] on-+judge-year judge whosoever_liveth*
+  2  exist-to this joy want-Lord [shall_come] on-+judge-year judge whosoever_liveth*
   3  and dead this word <subject_marker> from Lord living-Lord and on-this world* | from-go
   4  Lord on-heaven in_turn-[?] Lord with_all_thy_heart* Lord-<suffix_of_divine_name> with_all_thy_heart* pleasing and thanks
   5  begins this holy-gospel
@@ -5823,7 +5823,7 @@ words. There are 48 of them now.
   4  say* and_then-+say this_is son from [...]
   5  <subject_marker> vineyard [?]-~son [...] and this
   6  son exist vineyard carry and_then-+say go-die
-  7  say and [...] to-Lord and son die-+say and
+  7  say and sent_saying* to-Lord and son die-+say and
   8  then-exist exist from_town_to_town* [...] and Jew(ish) ~head
   9  how? he_said* speak Lord-Jézus and three say Lord-Jézus parable
 
@@ -5850,7 +5850,7 @@ words. There are 48 of them now.
   3  this Lord-king <preposition_of_genitive>-Lord servant go-?blind-hide_oneself and
   4  way and on-town and find
   5  God blind [...] blind and even_more-[?]-to and
-  6  be_hungry and thirst and [...] God blind and
+  6  be_hungry and thirst and [feeble] God blind and
   7  [...] [...] find servant each,_every go-servant
   8  [...] inside <preposition_of_genitive>-Lord-king house and then-exist out
   9  house this king various heaven
@@ -6197,7 +6197,7 @@ words. There are 48 of them now.
   4  this-Lord you-apostle speak-Lord and [?]-+<subject_marker> from*
   5  God this whosoever-[?] God say hear in_turn and whosoever-[?] therefore*
   6  from* God this whosoever-[?] God say therefore* hear and this
-  7  [?]-+<subject_marker> from* two [...] and_then Jew(ish)
+  7  [?]-+<subject_marker> from* two hath_a_devil* and_then Jew(ish)
   8  this-Lord one blasphemer this-Lord hide_oneself-angel hide_oneself-evil
   9  evil have-Lord this-Lord one ~begin-believe
 
