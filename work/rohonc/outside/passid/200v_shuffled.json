@@ -1,0 +1,29 @@
+{
+ "folio": "200v",
+ "cond": "shuffled",
+ "reply": "```json\n{\n  \"book\": null,\n  \"chapter\": null,\n  \"verses\": null,\n  \"confidence\": 0.0\n}\n```",
+ "usage": {
+  "prompt_tokens": 394,
+  "completion_tokens": 35,
+  "total_tokens": 429,
+  "cost": 0.0003766,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0003766,
+   "upstream_inference_prompt_cost": 0.0002758,
+   "upstream_inference_completions_cost": 0.0001008
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nlong sun dog [?1] [?2] baked be_born [?3] cultivate be_born baked\n[?4] misery [?5] is_not rain finger\n<man_suffering_from_some_kind_of_illness> [?6] [?4] able_to_see <man_suffering_from_some_kind_of_illness> nine dog baked.\n[?7] [?8] [?9] baked neighbor [?10]\n[?11] [?12] [?13] [?14] dog be_born\nbaked cover [?12] Augustine [?8] [?15]\n[?16] dog [?17] [?18] <man_suffering_from_some_kind_of_illness> baked [?19] <man_suffering_from_some_kind_of_illness>\n[?20] cover [?21] [?22] <man_suffering_from_some_kind_of_illness> Cedron appear\nhaughtily [?23] metaphoric [?24] <man_suffering_from_some_kind_of_illness> [?25] cultivate [?24] spear\n"
+}

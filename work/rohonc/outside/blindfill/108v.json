@@ -1,0 +1,28 @@
+{
+ "folio": "108v",
+ "reply": "{\"matches\": false, \"confidence\": 0.98, \"fills\": {\"1\":\"none\",\"2\":\"none\",\"3\":\"none\",\"4\":\"none\",\"5\":\"none\",\"6\":\"none\",\"7\":\"none\",\"8\":\"none\",\"9\":\"none\",\"10\":\"none\",\"11\":\"none\",\"12\":\"none\",\"13\":\"none\",\"14\":\"none\",\"15\":\"none\",\"16\":\"none\",\"17\":\"none\",\"18\":\"none\",\"19\":\"none\",\"20\":\"none\",\"21\":\"none\",\"22\":\"none\",\"23\":\"none\",\"24\":\"none\",\"25\":\"none\",\"26\":\"none\"}}",
+ "usage": {
+  "prompt_tokens": 560,
+  "completion_tokens": 9201,
+  "total_tokens": 9761,
+  "cost": 0.0159853188,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0159853188,
+   "upstream_inference_prompt_cost": 0.000317856,
+   "upstream_inference_completions_cost": 0.0156674628
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 9078,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 108v\nand [?1] [?2] [?3] [?1] somebody and believe [?4] and from\nsomebody grab from you [?5] [?6] [?7]\n[?8] [?9] you [?10] and from somebody go\ninside [?5] [?11] house exist joy [?12]\n[?12] amen in_turn [?13] out(ward) [?14] [?15] somebody\nexist [?16] [?17] [?18] [?19] [?13] somebody\n[?20] light somebody to this [?21] light [?22] lamp\n[?23] put somebody do somebody [?24] a)\nlamp [?23] [?25] [?22] remit\n[?20] each,_every people see [?26] inside house and you\n\nPASSAGE\nDeuteronomy 6:5 Thou shalt love the Lord thy God with thy whole heart, and with thy whole soul, and with thy whole strength.\nLuke 10:27 He answering, said: Thou shalt love the Lord thy God with thy whole heart and with thy whole soul and with all thy strength and with all thy mind: and thy neighbour as thyself.\n"
+}

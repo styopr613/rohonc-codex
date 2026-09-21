@@ -1,0 +1,28 @@
+{
+ "folio": "171v",
+ "reply": "{\"matches\": true, \"confidence\": 0.9, \"fills\": {\"1\": \"thy\", \"2\": \"whole\", \"3\": \"none\", \"4\": \"none\", \"5\": \"none\", \"6\": \"none\", \"7\": \"none\", \"8\": \"none\", \"9\": \"none\", \"10\": \"none\", \"11\": \"none\", \"12\": \"none\", \"13\": \"none\", \"14\": \"none\", \"15\": \"not\", \"16\": \"dead\", \"17\": \"but\", \"18\": \"sleep\"}}",
+ "usage": {
+  "prompt_tokens": 535,
+  "completion_tokens": 61023,
+  "total_tokens": 61558,
+  "cost": 0.1042136304,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.1042136304,
+   "upstream_inference_prompt_cost": 0.000303666,
+   "upstream_inference_completions_cost": 0.1039099644
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 60897,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 171v\nwoman [?1] believe [?2] do,\n[?3] say [?4] [?5] [?6] [?7] a)\nsay [?4] [?6] [?1] believe healing\ndo, and [?8]\n[?9] this head house and [?10]\n[?11] [?12] and see\n[?4] many sad(ly) [?13] [?4] [?14]\nexist this daughter [?15] [?16] [?17] and [?18]\n[?9] laugh [?4] [?13] [?9] see love this\n\nPASSAGE\nMatthew 9:22 But Jesus turning and seeing her, said: Be of good heart, daughter, thy faith hath made thee whole. And the woman was made whole from that hour.\nMatthew 9:23 And when Jesus was come into the house of the ruler, and saw the minstrels and the multitude making a rout,\nMatthew 9:24 He said: Give place, for the girl is not dead, but sleepeth. And they laughed him to scorn.\n"
+}

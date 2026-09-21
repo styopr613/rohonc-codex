@@ -106,6 +106,10 @@ his bare feet. The compiler knew that when he wrote page six.
 The last leaves of the codex stop being a book about the past. They become a
 book about the man holding the pen.
 
+The first of them is still narrative — Ananiah laying his hands on Paul, and
+the vessel chosen to «carry» the Lord's «name» «on wide world» (221r) — and
+it belongs with the Acts before it. After that the book changes.
+
 They begin with a table. Not a narrative — a list, by weekday, of what the sky
 has done and what it means. «Before spirit inside Friday earth one quake» and
 «on spirit inside Wednesday moon eclipse one hour» (221v). «Three day before
@@ -333,7 +337,8 @@ codex reports the apocryphal detail the canonical gospels do not have — in
 every town of Egypt «idols» «fall down» (022r).
 
 Two smaller things on these pages are worth a reader's attention. The
-circumcision is dated to the eighth day and the name given there (021v). And
+circumcision is dated to the eighth day and the name given there (021v), and
+a reckoning of years stands on the leaf beside it (021r). And
 at the end of 022r the book counts «six-six apostle» — the codex's way of
 writing twelve — and says they «preached» (022r). It writes the Twelve as
 six and six in nine places, and once you have seen it you can find it
@@ -481,9 +486,8 @@ The arrest is the codex at its most vivid, and it is John's arrest. Judas
 «ask for sign … with kiss» (035r); he «go Judas against Lord Jézus and kiss»
 (035r). Then the question, three times: «Lord Jézus, who(m)? search» (035v),
 and the answer «Jézus Nazareth» (035v), and «each, every Jew(ish) back bow
-down» (035v) — they go over backwards, which is in John and nowhere else. The
-sequence is written out three times on three successive leaves, once per cry,
-with the wording barely varied. That is not scribal duplication. It is a
+down» (035v) — they go over backwards, which is in John and nowhere else. The sequence is written out three times on three successive leaves, once per
+cry, with the wording barely varied (035v, 036r). That is not scribal duplication. It is a
 compiler who wanted the threefold shape on the page.
 
 Then the sword. «cut off with sword ear one Jew(ish)», and the man «was named
@@ -496,20 +500,37 @@ From there the book moves in the rhythm of a Passion read aloud. He is «tie
 up» by the «hand» and «[led]» «to Jew(ish) head» (037r); on the way over the
 Kidron he «on bridge fall down» and is «[struck]» (037r) — the fall from the
 bridge is legend, not gospel, and it is one of the places where the compiler's
-devotional sources come through the harmony. Peter denies him at the gate.
-Caiaphas gives his counsel, and the codex renders it almost as a proverb: it
+devotional sources come through the harmony. He is «[bound]» and «[led]» before Caiaphas (038r). Peter denies him at the
+gate. Caiaphas gives his counsel, and the codex renders it almost as a proverb: it
 is «good that one Lord die» rather than «all the world» perish (038v).
 
-Pilate takes four leaves, and Herod three. Herod «[mocked]» him and sent him
-back «in a white garment» (042v); he had «hoped» to see «a miracle» «done»
-(043r) — Luke again. Pilate has him «whip», «from [pillar] flog» (043v); the
+Peter's denials finish at the gate. The «handmaid» who keeps it says he is a
+«disciple this Jézus», and he says «not» (039r); and at the third, «time crow
+cock», and he goes out «sad(ly)» (040r). Caiaphas sends him on: «Lord brought
+to Pilate» (039r).
+
+Pilate takes four leaves and Herod three, and the compiler keeps the whole
+shape of Luke's hearing. Before Pilate the accusations are «on three» (039v),
+and the Lord «say [nothing]» (039v) — he answered him never a word. Pilate
+asks «Lord king Jew(ish)» and is answered «Pilate mouth» «[asked]» it (041r).
+Pilate finds «inside Lord [nothing]» (041r) and wants to «[release]» him
+(041r), and is met with the threat that decides it: to let him go is to be no
+friend to «emperor» (041r).
+
+So he sends him to Herod, and the codex gives the reason Luke gives: «Lord
+from Galilee» (041v). Herod had «want» to see him «[long]» (041v). He «[mocked]»
+him and sent him back «in a white garment» (042v); he had «hoped» to see «a
+miracle» «done» (043r) — Luke again, and nobody else's. Pilate has him «whip», «from [pillar] flog» (043v); the
 soldiers put on the «purple robe» and the «thorn crown on head», sit him on a
 «chair», kneel, and say «healing Jézus» (044v) — *Ave*, hail, the mock
 homage. He is given «[blows]» (044v). Pilate «carry … water inside one
 washdish» and washes, and says he is «innocent from of Lord blood» (047v).
 Barabbas is released and Jesus condemned (047v). Pilate goes out on the house
 and shouts «lo Jézus Nazareth king Jew(ish)» (046r) — *Ecce homo* and the
-*titulus* in one sentence, twice.
+*titulus* in one sentence. He does it three times, on three leaves, and each
+time the answer is the cross and the charge of treason against «emperor»
+(046v, 047r). Two short leaves in the middle of the hearing carry little but
+the confession that this is «righteous(ly) son living God» (040v, 042r).
 
 One exchange on 045v is worth stopping at, because it is not in the harmony's
 two named gospels either. Asked whether he is king, the answer given is that
@@ -534,7 +555,10 @@ The count of years in the wilderness on that page reads «two two ten year»
 ten and ten and ten and ten (cf. 004v), so the wilderness figure here is not
 in the form the book uses for forty, and no reading is asserted.
 
-The way to the cross runs «over exist Cedron» again (049v), which is where the
+The «two thief» are brought out with him and the cross «put» «on Lord Jézus»,
+and «holy John» goes «up» «inside Bethany» to «Mary Magdalene», who has
+«[sought]» the «Master» «[early]» (049r). The way to the cross runs «over exist Cedron»
+again (049v), which is where the
 garden was; the compiler has brought the road back past it. He «fall down»
 (049v). «Lord Simon cross carry» (049v). The garments are «[they parted]»
 (049v). On the hill he is laid on the wood: «place onto cross» (050r), and
@@ -627,7 +651,8 @@ woman is the compiler's tradition, not the gospels'. Then she is sent: «to
 Mary apostle go Lord apostle» (056r). Apostle to the apostles, in the sign the
 codex uses for apostle.
 
-He stands among them — «commandment God among you» (057r) — and the lesson
+She goes to tell them (056v). He stands among them — «commandment God among
+you» (057r) — and the lesson
 closes again on «this apostle holy gospel» (057r).
 
 Then the compiler does something that no gospel does, and it takes three
@@ -773,22 +798,42 @@ living to of Lord sheep» (064v) — he layeth down his life for the sheep —
 and «one [fold]» (064v), and «hear voice, sound of Lord … sheep» (064v).
 
 Then a run of short readings, each with its rubric. Matthew's seventh chapter:
-«false prophet», in «evil [clothing]», who are «[ravening wolves]» (065r).
+«false prophet», in «evil [clothing]», who are «[ravening wolves]» (065r), known
+by their fruits (065v), and what waits for them is the codex's standing formula
+for hell (066r). Whatsoever ye shall ask the Father in his name (066v); and
+the question whose son he is, answered «righteous(ly) son living God» (067r).
 Mark's sixteenth, twice over: «somebody … believe … be saved», «each, every
 somebody be damned» (067v). The great commandment, which this book gives in
 Paul's mouth rather than the lawyer's: «love Lord most high, all, whole heart,
 and all, whole somebody how to neighbour» (068r). That is set out as three
 askings of «holy Paul apostle» (067v, 068r), and then the whole passage is
-written out a second time thirty leaves later on 071r, word for word. The
+written out a second time thirty leaves later, word for word (070v, 071r). The
 manuscript does this repeatedly, and it is not damage; it is a compiler
 copying the same reading into two places in his year.
+
+Between them sits a stretch on forgiveness and judgment that is worth its
+leaves. Peter asks «[how often]» he must forgive (076r), and the answer is
+Matthew's: «[seventy times seven]» (077r). Around it the compiler lays out a
+catalogue of what needs forgiving, and it is a very concrete list — «thief»,
+«robber», «blood shedder», «[adulterer]», «proud», «drink» (076v) — and he
+sets against it the rule of correction, «[if he hear thee not]», «[two or
+three]», «[as the heathen]» (077r, 077v). Then judgment: «false judge» «[by
+appearance]» is condemned, and the one who judges «righteously» is not (078r)
+— judge not according to the appearance, but judge righteous judgment. And
+the measure of it, which is Matthew's most frightening line: «one word
+[idle] word», and «each, every somebody [give account]» (079r). On the same
+leaf the nine «[orders of angels]» stand beside Lazarus in «[bosom]» at
+«[rest]» and the «[torment] [everlasting] [fire]» (079r) — the two ends the
+book keeps in view.
 
 John's sixteenth chapter gets two leaves and is one of the clearest pages in
 the book. «This Lord go of Lord father» (068v); «this Lord you go [the
 Paraclete]» (068v); and the threefold reproof, counted out in the codex's
 numbering: «first from sin, in turn two from righteously, third judge» (068v).
 Of sin, and of righteousness, and of judgment. The whole verse is there, in
-order, under a rubric that names John and the sixteenth chapter. That is the
+order, under a rubric that names John and the sixteenth chapter, and the same
+reading is copied out again at 080r. The gifts that follow it — the new
+tongues and the signs — are on 069r. That is the
 citation test this project uses to check itself, and this page passes it
 outright.
 
@@ -808,8 +853,8 @@ is the Douay's word and the manuscript's, read here from Kiraly and Tokai's
 own citations of that sign and not from any pool of English candidates. Then
 the signs that shall follow: «evil inside somebody exorcise», «serpent carry
 inside hand», «deadly poison drink» and be «not ill», the sick «from healing»
-(073r). Then: «[taken up] Lord Jézus», and he is «take … to eternal glory»
-(074r).
+(073r). The commission is given twice over (072v, 073v), and then: «[taken up] Lord
+Jézus», and he is «take … to eternal glory» (074r).
 
 The Lord's Prayer stands on 074v, whole, in the manuscript's own word order:
 «of Lord son as father of somebody, and Lord, inside eternal, be hallowed name
@@ -872,11 +917,13 @@ commandment, all, whole … [in one point]» — «[guilty of all]» (085r). Who
 shall offend in one point is guilty of all. James, chapter two, verse ten, and
 the compiler has both the citation and the sense.
 
-Elijah returns for three leaves with a torch. He «kneel down» and «pray» and
-«fire [from heaven]» makes «one [torch]» (086r), and the angel tells him the
+Elijah returns for three leaves with a torch. He «kneel down» and «pray» and «fire [from heaven]» makes «one [torch]» (085v,
+086r), and the angel tells him the
 torch «symbolize» the Lord (086r). Then the allegory is spelled out: the torch
 «symbolize» «to happy virgin Mary», because from her «get conceived» the Lord
-(086v), and the fire is «[unconsumed]» (086v). The bush that burns and is not
+(086v), and the fire is «[unconsumed]» (086v). The torch and its light are worked
+over once more (087r), and then a hard leaf on those who are blind toward
+God (087v). The bush that burns and is not
 burnt, read as the Virgin who bears and remains a virgin. That reading is
 standard in the Latin west and the compiler states it flatly, twice.
 
@@ -964,7 +1011,9 @@ same page (097r). A scribe who can compress ten names into one glyph is not
 encrypting. He is abbreviating, and he is doing it in the place where the
 liturgy names them all together.
 
-The stretch ends with the epistle rather than the gospel: «man grab and God
+Two leaves on the light of the body and the candle come first — the eye, and
+the lamp that is not hidden but set up so that all within are lit (098r,
+098v). Then the stretch ends with the epistle rather than the gospel: «man grab and God
 man grab [abideth]» (099r), and then the hard sentence, twice — if a man «say
 this somebody God love» and yet «hateth» his brother, he is «[a liar]» (099r,
 099v).
@@ -1001,9 +1050,14 @@ least. Elijah is read. Enoch is supplied. The distinction is invisible in a
 translation and it is the whole difference between the two names.
 
 Two leaves on Simeon follow, and the codex's image of him is the one from the
-feast: «from Simeon carry bosom Lord Jézus Christ, [took him]» (102r). Then
-the ministry in summary: «inside thirty year» he goes «from town until town,
-from temple until temple, from plough land until plough land» (102r).
+feast: «from Simeon carry bosom Lord Jézus Christ, [took him]» (102r). The reading opens on the leaf before (101v). Then the ministry in summary:
+«inside thirty year» he goes «from town until town, from temple until temple,
+from plough land until plough land» (102r). The Passion is given in short
+after it — the sun darkened, the rocks rent (102v) — and then the question
+the compiler cannot leave alone, where the soul was for the three days
+(103r). Two more leaves gather a doxology and the lost sheep (103v), a creed
+running from Anne's daughter to the judgment (104r), and blessed are the eyes
+which see (104v).
 
 The destruction of Jerusalem takes three leaves and it is the most
 historically specific passage in the manuscript. The Lord «crying this
@@ -1014,7 +1068,8 @@ names: «the Roman on head», «Vespasi-» «-anus», «son Titus» (110v), who 
 And then the detail that can only have come from Josephus, directly or at
 several removes: in the famine, «one say hunger die», and another asks «how
 shall we» and eats «of son» (111v). A mother eating her child in the siege.
-Beside it the compiler puts a piece of arithmetic he clearly relished: the
+He counts five sorrows of the Son of God and works through them (111r, 112v).
+Beside them he puts a piece of arithmetic he clearly relished: the
 captives were sold «on thirty to one denarius» — thirty for a penny —
 «because» «Judas» «vend» for thirty (112r).
 
@@ -1038,6 +1093,10 @@ Adam wound» and «bound up» them, and «place» him «on of Lord shoulder» an
 carries him «on lodging» and gives the «innkeeper» «two [pence]» (106v). Then
 the question is turned back: «who? … this good», and the Jew answers, «he is
 [neighbour]» (107r).
+
+A Matthew reading follows and runs four leaves — ye are the salt of the earth
+and a city set on a hill (108r), the candle and the bushel and the Father's
+house (108v), whosoever shall do and teach them (109r), and its close (109v).
 
 The compiler then explains it, and cites his source by name for the
 explanation: «speak Saint Augustine the church father, [two pence],
@@ -1087,8 +1146,9 @@ mountain, and this book has just spent three leaves on Elijah; the compiler
 has run the forerunner and the prophet together, and he does it more than
 once. Four groups come to him and each asks the same question — «soldier»,
 «Pharisee», «farm», and «sinners» — and each asks «how shall we be saved»
-(116v, 117r, 118r). The soldiers are told to «donate» and be «[content]»
-(117r). The sinners are given the great commandment entire: «love Lord», «all,
+(116v, 117r, 118r). The soldiers are told to «donate» and be «[content]» (117r); the Pharisees
+and the farmers get their own answers (117v); and the whole is summed up
+before the next rubric (118v). The sinners are given the great commandment entire: «love Lord», «all,
 whole heart», «all, whole … soul», «all, whole … might», «[with all thy
 strength]», and «how to somebody neighbour» (118r).
 
@@ -1112,4 +1172,662 @@ That reading is Gregory the Great's, and it is one of the most characteristic
 things in medieval preaching. The manuscript does not name Gregory. It simply
 uses him, which is what a compiler does with something everybody in his
 audience already knew.
+
+#### Genesis a second time, and the Virgin (121v–147v)
+
+The compiler now goes back to the beginning, and the reason is the parable he
+has just told. He lost a drachma; the drachma is Adam; so he tells Adam again.
+
+This second Genesis is not a copy of the first. Where the first telling had the
+Lord making man (cf. 002v), here the maker is named as three: «from father to son, go
+holy spirit» (121v), and man is made «[after our] [likeness]» (121v), and the
+conclusion is stated before the making — «not many from father, from son, not
+many holy spirit, a) this Lord each, every one God» (121v). Then the forming,
+in almost the words the book used four hundred leaves earlier: «Paradise Lord,
+man, heart, slime of the earth», «and became to soul one», «heart breathe on
+Adam» (122r).
+
+The commandment, the sleep and the rib follow (122v), and «this bone bones, in
+turn two soul one» (123r) — the same line the book wrote at cf. 003v, which is how
+you know the two passages are one compiler telling one story twice and not two
+sources stitched together. The serpent is «on this tree what stood in the
+midst» (123r). Eve eats and gives (123r, 123v). Then: «Adam why?» (124r), and
+«who mouth Adam» (124r), and the curse — «Adam earth to till the ground»
+(125r), «this Eve exist through pine» and «painful» (125r), «[cursed] earth»
+(125r). The woman gave me, and the serpent beguiled me (124v). They are driven out
+(125v), and the «angel sword» is set «on gate», with a «cherub» and
+«[cherubim]» «inside Garden of Eden» (126r).
+
+And then the compiler closes his own loop, on 126r and 126v, and it is the
+cleverest joining in the manuscript. «This» — the thing lost — «this (piece
+of) silver, and exist lose» (126r). The drachma the woman lit a lamp to find
+is Adam, lost out of Eden. So the search is the incarnation: «exist be born
+mother of Lord love», «and redemption this Lord from mother [again] be born»,
+and «redemption this Lord cross [thereon]» (126v); «cross from want find this
+(piece of) silver» (126v). He was born of a mother and went to the cross in
+order to find the coin. Two parables, a whole retelling of Genesis, and a
+doctrine of redemption, tied in three sentences.
+
+Hezekiah follows, and he is here for a reason the compiler makes explicit.
+«God angel» tells «holy Hezekiah» that «until three days» he «die» (127r).
+Hezekiah «cry out» (127r), and the sentence is lifted: «elongate one's life»,
+«living», «and elongate one's life» (127r). Then he dies anyway, and his
+«soul» is «give out» (127v), and the angel puts him «inside burial chamber»
+(127v). And the moral is Paul's: «speak holy Paul apostolic letter [writeth]», and
+«Paul prepare of Paul last day» (127v), whose «one only one» son is the Lord
+(128r). Set thine house in order. The king
+who was given fifteen more years is being used to say that the extra years ran
+out too.
+
+Three leaves on the appearances follow — «through startle apostle because
+believe apostle» (128v), they were terrified and believed not; «[breathed]
+[upon them] on apostle and each, every apostle grab holy spirit» (129r); and
+the sending, with the full formula: «go apostle into the world», «preach», and
+«baptize somebody inside name from father, and son, and holy spirit» (129r).
+The sending is given at length — baptize them, and be brought before kings
+(129v) — and the signs that shall follow them that believe are listed twice
+more (131v, 132r). Then a reading from John's second chapter (130r), with
+Thomas and Philip asking to be shewn the Father (130v), and the Sadducees, who
+«preach» that there is no rising — «how this Lord from die stand up food»
+(131r) — and are answered.
+
+Elijah comes back a third time, and now the codex gives him his mountain.
+«God angel» appears (132v); the years are counted from Adam (133r); and he
+goes «on far mount» whose name «exist Horeb» (133r). Under the tree he «lie»
+— «[under a juniper]» (133v) — and what he is given is «one a cake and one cup
+water», and he «eat and drink and strengthen» (133v), and goes «[forty days]»
+«on this mount Horeb» (133r, 133v). The cake baken on the coals and the cruse
+of water, the forty days to Horeb, the juniper: that is First Kings chapter
+nineteen, in order, with the right mountain and the right food.
+
+The Unmerciful Servant takes four leaves and the compiler tells it twice
+over, once at 134r–135v and again at 136r–137r, which is what he does with a
+reading he means to preach on more than one day. The numbers are Matthew's and
+they are exact: the servant owes «ten thousand talent» (134v, 136r) and the
+fellowservant owes «[a hundred pence]» — «hundred denarius» (135r, 136r). The
+king «[forgave the debt]» (134v). The servant «kneel down» (134v) and is
+forgiven; then he meets his own debtor, who also «kneel down» (135v), and he
+«take» him «inside prison» (135v, 136v). The other servants are «sad(ly)» and
+tell the king, and the king «get angry» (136v). The lesson is put in the
+plainest terms the book has: «from father heaven, he who king each, every
+heaven land and on earth each, every king» (136r) — forgive, or he will not.
+
+Then, on 137v, the compiler writes himself into his own book for the first
+time. The sign Kiraly and Tokai gloss as *the name of the author* stands ten
+times on that leaf and eight more on the next, and what it stands inside is a
+prayer: «this Mary pray to sin of» the author (137v), «then exist go up soul»
+(137v), «amen» (137v). He is asking the Virgin to pray for his sins and for
+his soul to go up. Then the Hail Mary itself, in pieces: «blessed Mary», «this
+Mary among» (138r), «blessed of Mary son» (138r), «[blessed art thou]»
+«[among women]» (138r), «Jézus Christ amen» (138r).
+
+What follows is ten leaves of Marian material that has no gospel behind it at
+all, and it is the most medieval thing in the manuscript. «Speak holy
+Augustine church father», «pray» «three» «pray happy virgin Mary» (138v) —
+three Hail Marys, on Augustine's authority. Then the promise: «and somebody
+pray happy virgin Mary, each, every somebody be saved, not go on hell fire»
+(139r). Then the image that every late-medieval *Speculum* carries: «happy
+virgin Mary each, every day kneel down» before «of Mary son» and «show of Mary
+breast, this breast this Lord nurse» (139r). The Virgin kneels and bares the
+breast that fed him, and asks on that ground.
+
+The fruit of Mary is preached on (141r), and the curse and the blessing
+follow, out of Deuteronomy and unmistakable (139v, 140v): «cursed
+Lord of herd, cursed Lord of field», «cursed this somebody Lord inside of
+somebody home», «[barn]», «[stores]» (140r) — and then the same clauses again
+with «blessed» in place of «cursed» (140r).
+
+Then two long exempla, and both are miracle stories about women. The first:
+«exist inside Rome one woman» who «fast half [forty days]» (141v) and then
+lives on the sacrament alone — «woman grab this holy host» (141v), «hunger
+leave [nothing]», and «many year [was fed]» (142r). She fasts and takes the host (142v). She is accused, «through sin» (142r),
+and vindicated, and the vindication is a voice: «shout to Lord on
+cloud, on angel» (143r), «of Lord from father daughter» (143r), and she «[suffered]» it «[patiently]» (143r), and the leaf after it turns to
+the crucified and the sin that dies (143v).
+
+The second runs from 144r to 147v and is the strangest narrative in the book.
+A woman — the sign is ambiguous between a female person and a sheep, and this
+edition has not chosen — prays before «one image virgin Mary» «inside mount»
+(144r). She «[knelt before] this image» (144r) and says «grab heaven land»
+(144v), which is how she addresses the Virgin throughout: queen who holds
+heaven and earth. The image answers. «This Lady from speak» (145r, 145v, 146r, 147r), over and
+over, on six successive leaves, and the exchange turns on fasting and
+three days and three Hail Marys (145v). She sets «one [a candle] [lit]» before
+it (146v). And at the end «inside time appear Lady happy virgin Mary inside
+image» «on each, every people see» (147v) — the Virgin is seen in the image by
+everyone, not just by her.
+
+One word of caution on that story, in the text and not in a note. The sign
+this edition renders as *sheep* and as *a female person* is one sign with both
+senses in Kiraly and Tokai's own entry, and it stands on every line of the
+episode. If it is *a female person* the story is a nun before a statue. If it
+is *sheep* some of these lines say something else entirely. The rendering
+keeps both and this retelling has followed the first; a reader who wants to
+check it has the marked text at the back.
+
+
+#### Barlaam, the healings, the stewards and the lepers (148r–182v)
+
+The last stretch of the preaching is the one a reader would keep. It is almost
+all parable and exemplum, and the compiler is at the height of his method:
+tell the story, then say what each piece is.
+
+It opens with the best of them. «Write go Adam, one man on Jerusalem, inside
+Jericho town» (148r) — the road to Jericho again, and the traveller is again
+named Adam. But this is not the Samaritan. He «[fell among]» an «evil» on the
+«field» (148r), and he «escape» and falls: «get conceived Adam inside one pit»
+(148v). Hanging there, he «cling» «on one tree» whose «[root]» «protrude»
+(148v). And then: «go two mouse, one black, in turn two white», and «this tree
+begin two mouse to eat» (148v). Below him he sees «one evil [dragon]» waiting
+(148v).
+
+That is the apologue of the man in the pit from *Barlaam and Josaphat* — the
+most travelled story in medieval Europe, Indian in origin, and the black mouse
+and the white are night and day gnawing the tree of a life. The codex does not
+explain the mice. It explains the rescue, and that is the compiler's own: the
+«[dragon]» would «tear apart» Adam (149r), and what saves him is a soldier
+written as one enormous compound sign — soldier, Lord, Jesus, died, Christ,
+all in a single glyph — who «[pierced the side]» «[his] suffering» (149r).
+Adam «grab» that soldier's «suffering lance» (149r) and is taken «out» of
+«this pit» by it (149v). Longinus's lance let down into the well like a rope,
+and the man in the pit climbing out on it. That image is not in *Barlaam*, and
+this edition has not found it anywhere else.
+
+The prodigal is told again at 150r, from a different angle and with its
+sources named: «write church father», «[a certain man]», «[two sons]», «[the
+younger]» (150r). This time the compiler goes straight for the embrace: «of
+son from father kiss», and the father «[fell upon his neck]» (150v), and the
+authority is «Saint Augustine the church father» (150v).
+
+Two leaves follow on doing good to the father and on the forgiveness of sins
+(151r, 151v), and one that sets saved against damned and runs a litany
+(152r). Then four leaves on repentance that read like a manual. The publican: «go man
+inside temple» and «kneel down» and «have mercy somebody sin», «because this
+who repentance» (152v) — God be merciful to me a sinner. The good thief, whose «Lord, remember me» opens on the leaf before (153r),
+with Luke's whole exchange: «thief» «shout to», «this Lord righteously man», «the
+others, the rest thief this die from deserve» — we receive the due reward of
+our deeds — and «Lord Jézus» «[said to the Lord] before inside into Paradise»
+(153v). And purgatory again, with a rate of exchange that tells you exactly
+what kind of book this is: «somebody inside purification fire hundred year to
+one day» (154r), a hundred years there for one day of penance here; and after
+it «soul go out on purification, this soul joy, because go soul before from
+face Lord Jézus Christ» (154r).
+
+The captive and the king runs from 154v to 158v and is the one long story in
+the manuscript this edition cannot securely follow. A son is «take prisoner»
+by a «robber» (154v), held «on bondage» and «can not out» (155r); there is a «daughter» kept «inside one house» (155r); «many year» pass
+(155r); the question of how she shall be ransomed is put (156r); and the
+buying and the selling run on to the end (158r). The son
+«can not from buy» himself back (155v); there is an «escape» «inside night»
+(156v); the «virgin daughter» is named as such (157r), and she is «lead
+before from father» (157v). It is plainly an allegory of the soul in captivity
+and its ransom — the vocabulary of buying and selling runs through all five
+leaves, and by 157v the daughter's sign has been compounded with Christ's, so
+the compiler has begun to say outright whose she is. But too many of its signs
+stand once, and the thread is not safe to state. It is printed in full at the
+back and named here as unfinished business.
+
+Then the healings, told as a series.
+
+The Gadarene demoniacs first, and the number is startling: «two somebody
+spirit inside two man», and the devils are «six hundred and six hundred and
+six ten and six» (159r). Six hundred and sixty-six, and this is the third
+place the codex writes that number. They live in «[tombs]» and are
+«[possessed]» (159r). The devils ask to be sent into the swine (159v); the «herd inside sea perish»
+(160r); the keepers «escape» and tell the town, and the town asks him to go —
+«sad(ly) leave» (160r). Then he returns to Capharnaum (160v).
+
+The paralytic next, and here Kiraly and Tokai's dictionary does something
+worth pointing at: it carries a single sign glossed as *the four friends of
+the paralytic man in Luke 5:17*. That sign stands three times on 161r. They
+«carry one» man «before Lord Jézus» (161r); they cannot get «inside», so they
+«go» up «on temple» — the roof — and «through pierce» it (161r). The compiler then allegorises the four as «believe, love, hope, forgive»
+(161r). Thy sins are forgiven thee (161v); rise, take up thy bed and walk
+(162r).
+
+Then a leaf that is pure bookkeeping and very useful: the three the Lord
+raised, listed. «First stand up resurrect Lord Jézus one head daughter inside
+Jerusalem», «in turn two die man stand up resurrect Lord Jézus Lazarus», «in
+turn three die somebody stand up resurrect Lord Jézus Nain» (162v). Jairus's
+daughter, Lazarus, the widow's son — the traditional three, counted as three.
+
+Nain gets four leaves. «Go Lord Jézus inside one town and this town name exist
+Nain» (163r), with «seventy and six six disciple» — seventy and twelve — in
+his train (163r). «Die inside this town son one virgin woman» (163r); the
+«coffin» is carried by «two two man» (164r); he «touch» it (164r) and says
+«son [arise]» (164r), and the young man «rise on sit» (164r). Weep not, he had said (163v); and he
+gave him to his mother (164v). Then the
+allegory, spelled out: «son symbolize soul», and «this town symbolize» the
+whole «world» that shall «be saved» (165r). The widow's son is every soul, and the town is the world. Four ways of
+reading it follow (165v, 166r), and then the whole law in two commandments
+(166v).
+
+The unjust steward is at 167r–169v and the compiler keeps the numbers exactly:
+«write fifty» (168v) for the debtor in oil, and «[a hundred] [quarters of
+wheat]» written down to «[eighty]» (168v, 169r). The steward is accused to his master (167v) and asks himself what he shall do
+(168r). Then the odd conclusion Luke also has: the master «take» — commends — the «unjust steward» «because steward
+one heavenly day find» (169r). And the compiler's account of what the goods
+were: not money but «see, say, living, hear, soul» and «reason, sense»,
+written as one compound (167r). The steward had been wasting his master's senses. The account is called in,
+and a new gospel begins (170r), with the children of the bridegroom who
+cannot mourn while he is with them (170v).
+
+The woman with the issue and Jairus's daughter share two leaves. She has been
+«inside blood» for a term the codex writes as «nine year six six year» (171r);
+she thinks «how shall we touch» «of Lord» «hem» (171r); she does, and «inside hour healing» (171r) — thy faith hath made thee whole
+(171v). Then the house, where they «[laughed him to scorn]»
+(172r); he «cast out this people out» (172r); he says «rise» and the
+«daughter» «rise on sit» (172r); and he tells them to «[give her to eat]» —
+«carry father mother wine and bread» (172r). Mark's last detail, kept, and the fame of it went abroad (172v).
+
+The talents are at 173r–175v, and the codex counts them its own way: «one
+servant one gold talent», «in turn two grab three gold talent», «third grab
+five gold talent» (173r). Matthew has five, two and one; this has one, three
+and five. The allegory again names the senses — «this [gave] five sense»
+(173r). After a long time the lord comes (173v); the first two hear well done, good
+and faithful servant (174r); and the third gives his account (174v). The
+unprofitable servant is the «unhelpful servant», and the talent is «[take
+away]» from him and given to the one who «ten have» (175r).
+
+The Samaritan woman is at 176r–177v and is well preserved. He «sit» «to this
+well» because he is «get tired» (176r); the disciples «go inside village on
+bread» (176r); «go one woman head to this well» (176r); he is «thirsty»
+(176r). From there he begins to speak to the Gentiles (176v). Then she goes back and
+says the line the pericope turns on — «of alien
+nation, pagan, each, every» «[all things]» «say» (177r), come see a man that
+told me all things — and «this people inside Lord somebody believe» (177r).
+
+The ten lepers close the preaching, and the compiler gets every beat. They
+«[stood] away» — afar off — and «begin ten leper shout to, son David king,
+have mercy» (178r). He sends them: «ten appear priest», «[shew yourselves]»,
+«Moses law» (178r). They are healed on the way, and the priests dispute over them (178v). «From nine people somebody
+believe from priest» went on to the priests; «in turn ten somebody faith»
+«return back against Lord Jézus» and «bow down» «before of Lord foot» and
+«kiss» them (179r, 179v). Then the question, in the gloss's own words: «[were
+not ten]» (179v), and «good [the nine] from» (179v) — where are the nine? And
+the sting the compiler will not soften: the one who came back «exist Lord of
+alien nation, pagan» (179v). The Samaritan.
+
+He ends the part on doctrine rather than story. «One» church, and «inside
+believe be saved» (180r) — one faith, one Church. Then a summary of the whole
+life in nine lines (180v). Then Thomas once more, absent when the others saw him (181r), in almost the
+words of cf. 009r — «[hither] put of Thomas finger within of Lord wound», «[blessed] see
+believe and [have not]» (181v) — and the upbraiding that goes with it in Mark,
+«[upbraided]», «[hardness of heart]» (182r). And then, last, the commission,
+which is where the book has been going since the Ascension: «you go apostle on
+world», «baptize» «inside name father and son and holy spirit», «each, every
+somebody be saved and one be damned [shall perish]» (182r, 182v).
+
+That formula — believe and be baptized and be saved, believe not and be damned
+— is the drone of the whole manuscript. It stands, in some form, on more leaves
+than any other sentence in the book.
+## VIII. The Finding and the Exaltation of the Cross
+
+### folios 183r–214v
+
+This is what the branch was for.
+
+Four hundred leaves ago Seth went back to the gate of Paradise and an angel
+gave him a branch of the tree of mercy, and he carried it home to his blind
+father. The compiler said nothing then about what became of it. Here he
+finishes the sentence, and he does it with the one piece of political history
+in the manuscript.
+
+It opens with a date and a name. «Lord Christ» — and a count of years — «time
+to sit Jerusalem one to alien nation, pagan» ruler, «name exist Khosrow»
+(183r). Chosroes, the Sasanian king. He «grab on Jerusalem cross tree, on tree
+exist Christ execute», and carries it «inside Ctesiphon town, inside one
+tower» (183r). The dictionary supplies both proper names — Chosroes and
+Ctesiphon are Kiraly and Tokai's entries, not this edition's guesses — and
+they are correct: Jerusalem fell to the Persians in 614 and the relic went to
+Ctesiphon — a date this edition supplies from outside the manuscript, which
+says only that it happened.
+
+Against him, «Roman emperor, name exist Heraclius» (183r). The war goes badly:
+he has «little an army» (183v). So he prays — «hear Lord» — and the answer is
+a sign: «shout to God angel», and the instruction is to «write on» the «cross
+tree» (183v) — on a thing the dictionary glosses only as a kind of armour or
+weapon. He wins: «win emperor on fight, because
+lose to alien nation, pagan emperor» (184r). There is a «[bridge]» in the
+battle and the enemy «die» on it (184r), and the defeated are «[baptized]»
+(184r).
+
+Then Heraclius goes «inside Ctesiphon town» (184r) and finds Chosroes in his
+tower,
+and the codex gives the scene the *Golden Legend* gives it and no chronicle
+does. The Persian king is sitting «golden», «among cross, among cock» (185r) —
+enthroned in a gold tower between the stolen Cross and a cock, and he has set
+himself up to be «[worshipped as God]» by «each, every world» (185r).
+The tower gets a leaf of its own, and it is the detail that makes the story
+memorable: it is «each, every golden and precious stone build tower» (184v),
+and inside it the king «put» the «cross tree» on one side and, on the other,
+machinery for «water» to «go up» and fall as «rain» (184v). Chosroes built
+himself a working counterfeit of heaven.
+
+Heraclius offers him his own God (185r), and when he refuses, «emperor [slew]»
+him (185r). The tower is broken up and its gold «grab» (185v). Chosroes's son
+is spared and left «[behind]» (185v).
+
+He takes the «cross tree» and «from carry inside Jerusalem town» (185v), out
+of the tower it had stood in since 183r. And
+then comes the scene that the whole manuscript has been walking toward.
+
+He rides up to the gate in triumph, and the gate will not let him in. «To gate
+God angel», at the «gate Jerusalem», and the angel «shout to» him: «this Lord
+Christ proud out on Jerusalem carry cross tree, but humble carry» (185v). He
+came out of this city humbly, the angel says; do not carry his Cross back into
+it in state. And then: «sit down [upon an ass]» (185v), «take off on emperor
+of clothes», «[put off his shoes]», «and bowed head carry cross tree inside
+Jerusalem» (186r). The emperor takes off his purple — the codex names it, «his
+[purple]» (186r) — and his shoes, and walks in barefoot with the wood on his
+shoulder. Then «cross put emperor inside Jerusalem temple» (186r).
+
+That is the Exaltation of the Cross, the feast of the fourteenth of September,
+told in the form the *Golden Legend* fixed. The compiler adds what it is for:
+«this holy cross tree» is what «[healed]» and did «[miracles]» and stands as
+«[witness] against [these things]», and «against evil» (186v).
+
+He does not stop there, and the rest of the part is the Cross traced backward
+through the whole of scripture — which is the same argument he made with
+Abraham and Isaac, run at length.
+
+First the Red Sea, because the rod that divided it was wood: «through dry the
+Red Sea on Moses and on Aaron», the «Jew(ish) people» out of «Egypt land», out
+of «Pharaoh king land», and Moses «hold out this stick on the Red Sea» and it
+«apart leave on two ways» (187r). Pharaoh follows them in and the sea closes:
+«the Red Sea close in Pharaoh king» while he is «on middle the Red Sea» with
+«of Pharaoh an army» (187v). Then the manna, and the vessel kept for a
+memorial — «this manna take bucket», «[a vessel] from manna» (188r) — which
+the compiler at once joins to the altar: «grab inside one baked cake» at the
+«last dinner» (188r), and «man exist this today's eat» (188r).
+
+Then something no other part of the book attempts: a calendar of the
+Sundays. «Inside Sunday create Lord from world» (186v); «inside Sunday through
+go Lord through dry the Red Sea» (187r); the Annunciation «nine moon» before
+the Nativity (188v); «inside Sunday create on wedding Lord Jézus Christ water
+wine» (189r) — Cana; «inside Sunday the Lord stand up resurrect Lord Jézus
+Christ daughter» (189r); «inside Sunday» the baptism «on Carmel to mount» with
+the «holy spirit» «inside shape, form dove» (189r). Every great act of God
+assigned to the same day of the week. It is a medieval commonplace and the
+compiler works it hard.
+
+Beside it he lays out Holy Week by weekday, and this is the clearest
+liturgical timetable in the manuscript: «inside Sunday the Lord exist go on
+suffer inside Jerusalem»; «inside Monday the Lord many miracle preach»; «in
+turn Tuesday the Lord Lazarus on burial chamber stand up resurrect»; «in turn
+Wednesday» «exist Judas sold to thirty silver»; then the supper and the arrest;
+«in turn Friday cross» and «evil bound up»; «in turn inside Saturday hell»
+(190r). Palm Sunday to the harrowing, day by day, with Spy Wednesday in its
+place again.
+
+Before that he counts the appearances after the resurrection, five of them, in
+order: «first the Lord appear inside Bethany» to the «virgin Mary»; «in turn
+two the Lord appear to burial chamber Mary Magdalene»; «third the Lord appear
+on way»; then to «two apostle» going «inside Sunday» to a town «name … exist
+Emmaus»; and «the Lord five appear inside Jerusalem» to «ten apostle» (190v).
+And on that leaf he names the two on the Emmaus road outright: «exist Luke and
+Cleopas» (190v). Luke's companion, whom Luke leaves anonymous, is identified
+here as Luke himself — the western tradition's guess, stated as fact. The
+blind man, Nain and the cleansing of the temple are listed on the leaf before
+(189v).
+
+The Ascension and Pentecost are retold at 191r, with «two angel angel white
+clothes» once more and the apostles «sit apostle at table inside Jerusalem»
+(191r), and the angels' question is put again on the next leaf (191v).
+
+Simeon comes back, and the compiler uses him for something unusual. In the
+temple he takes the child «[into his arms]» and «kneel down» and says «Lord
+dismiss servant of Lord peace» (192r) — the *Nunc dimittis*. Then, on the next
+leaf, Simeon dies and carries the news downward: he «announce» «inside
+netherworld» to the «holy from father» and the «prophet holy» that the Lord is
+coming (193r). Simeon as the herald of the harrowing is not in Luke; it is in
+the *Gospel of Nicodemus*, and the compiler has spliced the two. Simeon's own words stand in full on 192v as
+well.
+
+Then Matthew's call, which the compiler plainly enjoys. The Lord «see» him
+«on tax collector sit holy Matthew» (193v), at the receipt of custom; there is
+a meal in the house (194r); and the answer to the objection, in the codex's
+own phrasing: «[a physician]» is not needed by «[they that are well]», and he
+came not «to righteous man on this world a) to sin» (194v). Then the years are
+counted «from Adam create» to the coming of the Lord «on this world» for
+«[sinners]» (194v, 195r), and the creed's clause is set down again — he shall
+«from sit» «on right side» and «go judge living somebody and die somebody»
+(195v).
+
+From there the part becomes a run of gospel readings with the Cross never far
+off: the keys, where he gives «Lord Jézus key» to «holy Peter», and whatever
+he shall «loose on this world» is «loose» in «the eternal kingdom» (196v);
+«[despise not] [little ones]», because their «angel see face of Lord from
+father» (197r); deny thyself and «grab» thy cross (197v); except ye become as
+little children, with the Lord calling «one little son» and setting him «on
+head» (196r); the sending out, «go on this world» (198r), and the names
+written «inside eternal land» (198v); the wicked husbandmen, «one rich Lord on lease» who lets out «of Lord
+vineyard» and sends «servant prophet and angel» who are seized (199r, 200r);
+go work today in my vineyard (199v), and last of all he sent his son (200v);
+the marriage of the king's son, where of those invited «one go» and the king
+«get angry» and destroys their town with «fire» (201r, 201v); the wedding
+garment, where the king comes in and sees «one» man in «ragged clothes» and
+asks how he came in without «[a wedding garment]» (202r), and orders «bind
+somebody hand and foot» and «throw out» into the «[outer darkness]» where
+«see grinding tooth» and «weep» (202v); the tribute money, where he asks
+«whose this image» and «whose this write» and is told «this is inscription»
+(203r, 203v), and answers «[whose image] emperor grab» (203v) — «[render to
+Caesar]» (204r); and what a man owes the Church, the commandments and fasting
+(204v, 205r).
+
+Zacchaeus gets three leaves and the full treatment. «Keep going Lord Jézus
+Jericho town», where there is «one tax collector head» whose «name … exist
+Zacchaeus» (206r); he cannot see «from [chief publican]» because of «this many
+people», so he «go up one tree» because he is «[little of stature]» (206r).
+The town is named on the leaf before: «this town name exist Jericho» (205v).
+He is told to make haste and come down (206v), and what he says is Luke's,
+with both numbers: «[half my goods]» (207r), and restitution «[fourfold]»
+(207v). And the verdict: «[this day] of Lord be saved» this house (207v),
+because he too is a «son father Abraham» (207v).
+
+And then the allegory, which is the compiler's own and is generous: «this
+Zacchaeus exist each, every sin somebody head», and yet he is the man who
+«love Lord high each, every create» and «carry law God» (208r). The chief of
+sinners is made the pattern of the keeping of the law. Three leaves work that
+out: the first commandments (208v), the years from Adam to Abraham to Moses
+(209r), and the three laws Zacchaeus is said to have kept — «[to keep] holy
+Sunday», the «feast», and to «preach hear» (209v).
+
+Two more. A possessed man is brought «before Lord Jézus» «inside [the
+synagogue]» (210r), and the Lord casts out «[by the finger of God]» (210v);
+then the unclean spirit «go evil arid, dry place» and «[walketh]» (210v) and
+returns with «seven bad thing» worse than itself, into a house «[swept]»
+(211r) — and immediately after it the woman in
+the crowd who cries «blessed from womb which this Lord carry, and blessed from
+breast which this Lord nurse» (211r), which is exactly where Luke puts it — and rather,
+blessed are they that hear the word of God, which is the answer Luke gives him
+(211v).
+
+And the feeding, which gets three leaves and every number John gives it. He
+sits «on the Red Sea [of Galilee]» on «one mount» (212r), «[lifted up]» his
+«two eye» and sees «[a great multitude]» (212r). Philip is asked and answers
+that «two hundred denarius» — «[two hundred pennyworth]» — would not be enough
+(212r, 212v); «holy Andrew» finds a «boy» with «five loaves barley bread and
+two fish» (212v). Then the blessing, and the people «sit» «down» «on grass»
+(213r), and the leftovers gathered into baskets: «on basket» «from leftovers
+six six fill up» (213r) — twelve baskets, in the codex's way of writing
+twelve. And the crowd's verdict closes it: this is of a truth the prophet
+(213v).
+
+The part ends on John's eighth chapter and on the sentence the whole
+manuscript is an argument for. The Jews accuse him — «this Lord one
+blasphemer», «hide oneself evil devil have» (214r). He answers «verily verily»
+and «whosoever … God say hear» (214r). And then, on 214v, against Abraham:
+«amen amen this Lord you speak», and «whosoever therefore Lord believe» shall
+«one therefore be saved», and «not die» (214v).
+
+> **What is editorial here.** The retelling above is this edition's, not a
+> translation. Every sentence is drawn from the folios cited beside it; words
+> inside guillemets are the manuscript's own, as Book Two renders them,
+> brackets and all, and a bracketed word there is a restoration rather than a
+> reading. The names Chosroes, Ctesiphon and Heraclius are Kiraly and Tokai's
+> dictionary entries, not this edition's identifications; the dating of the
+> fall of Jerusalem to the Persians, the identification of the scene at the
+> gate with the feast of the Exaltation of the Cross, and the reference to the
+> *Golden Legend* and the *Gospel of Nicodemus* are this edition's inferences
+> from what the folios say, not claims the manuscript makes. Where this
+> retelling and the text in Book Two disagree, the text is right.
+
+## IX. The Acts of the Apostles
+
+### folios 215r–220v
+
+Twenty-two leaves, and the binder has shuffled them badly. Ten folios in the
+middle of this part carry Palm Sunday, not the Acts, and they are numbered in
+the tens and elevens because whoever rebound the codex could not read it. This
+edition follows the reading order. The part therefore holds two things: the
+entry into Jerusalem, and the stoning of Stephen with the road to Damascus
+after it. The book that opened before the creation of the world ends its
+narrative with a man on a road, blind.
+
+It begins by running straight on from the quarrel at the end of the last part,
+without a rubric between.
+
+The Jews are still arguing about Abraham. «Abraham» is «[dead]», «in turn this
+Lord not die» (215r); he «[rejoiced]» to «see» this day (215r); and then the
+sentence that ends the argument and starts the stoning — «you from father
+Abraham on this world [was made]» (215r). Before Abraham was made. The last
+word there was itself a correction: an earlier guess had the line say *before
+Abraham was* beside *Abraham*, and a sweep for restorations that repeat their
+neighbour replaced it with «[was made]», which is what John's eighth chapter
+says word for word.
+
+They react at once: «this Lord one blasphemer», and they «carry stone» and
+would «stone» him (215v), and he goes «out on temple» «[passing through]»
+(215v). Then the compiler stops the narrative to give the legal ground, and it
+is the ground the next episode will use too: «inside Moses true write, in turn
+[the law], among you begin somebody how blasphemer, and have somebody stone»
+(215v).
+
+Here the binding interrupts. A leaf on the Lord who «go» «humble» though he
+is «king» of «heaven and earth» (014r) stands first, and then a new rubric
+opens: «begins this holy gospel, write holy Matthew» (014v). What follows is Palm Sunday, told at more length
+than anywhere else in the manuscript.
+
+He goes «on Bethany inside Jerusalem» with the twelve (011r), and to
+«[Bethphage]» which is by «[mount Olivet]» (011r) — both place names are
+Kiraly and Tokai's own entries, and both are Matthew's. Two disciples are sent
+«[over against you]» to find «one donkey» «[tied]» with «[a colt]» (011r);
+they are to «[loose them]» and «[bring them]» (011v). They «[laid their
+garments]» on the colt (011v), and «[set him]», and «sit down Lord Jézus on»
+the «donkey» (011v).
+
+Then the crowd. «[Multitude]» (012r); they «[cried out]» «who is (it)»
+(012r); «[a great multitude] go Lord Jézus» (012r). Some «spread» their
+«clothes» «before Lord Jézus» (012v); others «cut off» «tree branch» and
+«[spread their garments] [in the way]» (012v). And the cry, in the codex's own
+words: «this Lord son David king» (012v), «great joy», «shout» (012v).
+
+He goes «inside temple Jerusalem» and finds the «money changer» and the
+«seller of doves» and drives them out (010r), and says «this temple prayer
+house», and «you say do, one thief house» (010r) — my house shall be called
+the house of prayer, but ye have made it a den of thieves. Then the children:
+«one little son» «shout to» (010r), and «little son speak [Hosanna]» (010v),
+and when the Jews object he answers that if these were silent then «earth and
+rock stone each, every» would «shout to [son of David]» (010v). Out of the
+mouth of babes, and the stones crying out — Matthew and Luke run together in
+one sentence.
+
+The reading closes with the prophecy: «speak holy» prophet, twice, of a sign
+the dictionary can only gloss as *the name of a prophet* and this edition will
+not guess (013r); and he goes «[lodged] inside Bethany» and «[remained
+there]» (013r), and in the «[morning]» he is «[hungry]» «[returning]» (013r) —
+which is the barren fig tree, on the Monday, exactly where Matthew puts it.
+Then one line on the «three tablet Moses» (013v), and the binding returns us
+to Stephen.
+
+Then Stephen, and the codex gives him a title rather than a name for most of
+these leaves — a compound the renderer prints as *first-suffering*, the
+protomartyr. «Shout to holy Stephen», «[looking up]», and he sees «gate/open
+heaven land» and «one king crown inside throne sit» at «[the right hand of
+God]» with «an army army angel» (216r). Acts chapter seven, and the codex has
+the opened heaven, the throne, the right hand and the host.
+
+The accusation follows the rule just quoted: «this Stephen one blasphemer»
+(216r). And then the detail the compiler plainly wanted, because he gives it a
+line to itself: «take off on of clothes», and they «leave» them with «one son»,
+«and this son exist this Saul», and that man «exist this clothes» (216r). The
+witnesses laid down their garments at the feet of a young man named Saul.
+
+He is stoned — «can Stephen stone» (216v) — and what he says as he dies is
+Luke's and not anyone else's: «[lay not this sin]» (216v). Lay not this sin to
+their charge. And then «exist [fell asleep] inside of Stephen die» (216v). He
+fell asleep. The codex keeps both of Stephen's dying sentences and keeps them
+in the right order.
+
+The compiler then does what he has done all through the book and tells it
+again, at more length. Stephen is «brought on suffering inside Jerusalem
+temple» (217r); Saul is there and is «[consenting]» (217r) — Luke's word, and
+the word the Latin west built its whole reading of Saul on. Stephen «kneel
+down» and «pray» (217v), «lift up» «of Stephen two eye eye» to «heaven land»
+(217v), and «offer» «of Stephen soul» (217v), and sees the king on the throne
+at «[the right hand of God]» a second time (217v).
+
+Then a leaf that has nothing to do with Acts and everything to do with this
+compiler's habits. He goes back to Moses and the tablets — «three stone tablet
+chisel», «write three commandment» (218r) — counts the years «from Adam
+onward» (218r), and then names two men: «two church father two high priest on
+Jerusalem, Gamaliel high priest and Nicodemus high priest» (218r). Gamaliel is
+in Acts; Nicodemus is in John. Putting them together as a pair of sympathetic
+teachers is the *Gospel of Nicodemus* again, which the compiler also used for
+Simeon in the last part. And their two servants are named: «one man exist …
+Saul» (218r), and «in turn two apostle exist holy Stephen» (218v). Saul and
+Stephen as the two hired men of Gamaliel and Nicodemus is in no source this
+edition can name, and it is the compiler's own joining of the seams.
+
+Stephen's death is given once more, with his cry: he «[cried with a loud
+voice]» and «confess name» (218v) of «Lord Jézus Christ» (219r). And after it the
+persecution: «[a great persecution] do, Jew(ish)» (216v), and the believers
+«to many [far countries]» (218v).
+
+The last two leaves are the road to Damascus and they are well preserved. Saul
+goes «to head Jew(ish)» in «Jerusalem» (219r) and asks for authority «on this
+man not believe» — against those who «this Jézus this Christ believe» (219r);
+there are «[threatenings]» (219r); he is to «take prisoner» and bring them
+«[bound]» (219r); and he takes «[letters]» and «many servant» (219r). Then the
+town is named: «exist town exist Damascus», «because and inside that believe
+Lord Jézus Christ» (219v).
+
+On the road, «exist light [shined round] on heaven land» (219v), and he
+«[fell to the earth]» and «bow down» (219v), and the voice: «shout to Lord on
+water, Saul, Saul» (219v). The name twice, as Acts has it. «[Whom thou
+persecutest]» (220r). And the answer: «this Lord from Jézus Nazareth, the Lord
+cross execute» (220r) — I am Jesus of Nazareth, whom thou persecutest, and the
+codex adds which Jesus it means, the one they crucified.
+
+He is blinded and «[led him by the hand]» (220r) into the city (220r, 220v).
+There he is lodged, and the compiler has both names Acts gives for that house:
+«one man Ananias» (220v), who is «coming Gamaliel» — of Gamaliel's household,
+which is the compiler's own link back to 218r — and the householder, «man
+exist … Judas» (220v). Straight Street's Judas and Ananias, three days, and
+Saul waiting.
+
+The last leaf of the part goes back and tells it a third time, with Ananias
+laying hands on him: «[laid his hands]» and «put Ananiah of Lord name on
+Paul», «because from Paul» shall «carry» that name «on wide world» (cf. 221r),
+and Ananias's objection — «Lord, how exist from Saul», who «through
+persecute» (cf. 221r). A chosen vessel to bear my name before the Gentiles,
+and the objection Acts gives Ananias, both on the page.
+
+And there the narrative of the book stops. What follows is the table of
+portents, the date, and the diary — the last part of this edition — and the
+man who wrote all of it down.
+
+> **What is editorial here.** The retelling above is this edition's, not a
+> translation. Every sentence is drawn from the folios cited beside it; words
+> inside guillemets are the manuscript's own, as Book Two renders them,
+> brackets and all, and a bracketed word there is a restoration rather than a
+> reading. The identification of the *first-suffering* compound as the
+> protomartyr Stephen follows Kiraly and Tokai's own entries for both signs.
+> Naming Acts, John and the *Gospel of Nicodemus* above is this edition's
+> judgment about what the folios resemble, not a claim the manuscript makes;
+> the pairing of Gamaliel with Nicodemus, and of Saul with Stephen as their
+> two servants, is stated here because the folios state it, and this edition
+> has found no source for it. Where this retelling and the text in Book Two
+> disagree, the text is right.
 

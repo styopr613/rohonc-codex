@@ -1,5 +1,25 @@
 # Where this stopped — 2026-09-21
 
+## BOOK ONE IS FINISHED
+
+All ten parts are written, `ktretellcheck.py` passes at its bar of zero, and
+the retelling draws on **441 of 441 folios** — every leaf of the manuscript is
+cited somewhere in the front of the book. Ten chapters, 19,988 words; the
+whole volume is 88 chapters and 105,349 words.
+
+Run `cd harness && python3 whatbroke.py` after any change to the readings.
+`fix.md` at the repo root is the standing instruction for what to do with what
+it reports. The one thing no checker can do for you is its section 3, and that
+now has exactly one entry: **Enoch**, bracketed in all three places it stands
+in the manuscript and read in none.
+
+Open items: the book was built to scratch, not pushed to the shelf at
+`/opt/publish-app/data/u1/books/`; and `ktcommit.sh` still does not regenerate
+the reader's edition — see the traps section of `fix.md`.
+
+What follows is the record of how it got here.
+
+
 The manuscript is finished: 441 of 441 folios. `ktnext.py` prints "0 to go".
 What is unfinished is **Book One, the retelling**, and this session got most
 of the way through it. The user stopped the run here and said the work may

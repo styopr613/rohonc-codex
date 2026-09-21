@@ -1,0 +1,29 @@
+{
+ "folio": "081r",
+ "cond": "shuffled",
+ "reply": "```json\n{\n  \"book\": null,\n  \"chapter\": null,\n  \"verses\": null,\n  \"confidence\": 0.0\n}\n```",
+ "usage": {
+  "prompt_tokens": 373,
+  "completion_tokens": 35,
+  "total_tokens": 408,
+  "cost": 0.0003647,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.0003647,
+   "upstream_inference_prompt_cost": 0.0002611,
+   "upstream_inference_completions_cost": 0.0001036
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\n[?1] place_onto [?2] [?3] metaphoric wash <name_of_a_prophet> [?4]\nneighbor [?5] nine [?6] [?7] dip [?8] be_born\ncover [?9] [?10] [?11] [?12] neighbor [?5]\nnine [?6] who? hell dog hell\nMonday nine [?13] wash Monday\n<man_suffering_from_some_kind_of_illness> [?14] [?15] nine [?16] cultivate cultivate [?17] [?12] [?18]\n[?19] neighbor [?5] nine [?18] [?20] [?6]\n<man_suffering_from_some_kind_of_illness> [?18] flog [?9] [?12] haughtily Vespasianus_<Roman_emperor> offering nine\nhigh nine alms [?21] who? baked [?6]\n[?22] be_born [?23] [?24] which [?9] [?12] believe\n"
+}

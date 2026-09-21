@@ -8,7 +8,8 @@ through OpenRouter, temperature 0 -- and asks which chapter the page
 retells. Our notes, our readings and our translation are not in the
 prompt.
 
-  the 40 folios of Test 14, rendered in K&T's words only, gaps as [?n]
+  the first 20 folios of Test 14's sample (its REAL arm), rendered in
+  K&T's words only, gaps as [?n]; halved from 40 before the run for cost
   CONTROL: the same 40 pages with K&T's glosses shuffled among their
   signs, the seed of Test 11 -- the same English words on the wrong signs
 
@@ -59,6 +60,7 @@ def main(argv):
     refs = TL.cited(doc)
     vd = L.verses_dr()
     chosen, arms = B.sample(doc, refs, vd, gl, var)
+    chosen = chosen[:20]
     pages = {pg.page: pg for pg in doc}
     os.makedirs(OUT, exist_ok=True)
     signs = sorted(gl)

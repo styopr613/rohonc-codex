@@ -167,6 +167,23 @@ def section_three(txt, fol):
     print("=" * 74)
     print("3. WHAT IS LOAD-BEARING  (the gate does not check these)")
     print("=" * 74)
+    # A name is load-bearing only if the WHOLE BOOK never reads it plainly.
+    #
+    # The second version of this section still cried wolf. It asked whether a
+    # name was bracketed on the folio the paragraph cites, which flagged
+    # Damascus (bracketed at 218v, read plainly at 219v) and Antichrist
+    # (bracketed at 134r, read plainly at 101r). Neither is a guess; each is a
+    # restoration in one place of a word the book supplies elsewhere, and the
+    # prose leans on the place that supplies it. It also flagged Christ,
+    # because a compound token carrying a [?] in some OTHER element was
+    # classed BRACKET whole.
+    #
+    # The test that means something is the one that was run by hand for Enoch:
+    # scan every folio in the manuscript, and flag the name only if there is
+    # no occurrence anywhere that is read rather than restored. Enoch passes
+    # that test -- bracketed at 008v, 101r and 133v and read nowhere -- and it
+    # is the only name in the book that does.
+    #
     # ONLY brackets count here, and the first version of this was wrong to
     # count CUT as well. A hyphen in the rendering marks two different
     # things: a ktname/ktsegment cut, which is ours, and an ordinary affix
@@ -176,6 +193,17 @@ def section_three(txt, fol):
     # plain dictionary name carrying a prefix. Seventeen names became five.
     # A check that cries wolf on twelve safe names costs a person more time
     # than it saves them.
+    # where the whole book reads a name plainly, at least once
+    plain = set()
+    for pg, lines in fol.items():
+        for l in lines:
+            for tok in re.sub(r"^\s*\d+\s+", "", l).split():
+                if BRACKET.search(tok):
+                    continue
+                for nm in NAME.findall(tok):
+                    head = nm.split("_")[0]
+                    plain |= E.stems(head)
+
     flagged = collections.defaultdict(set)
     for name, _, _, body in parts(txt):
         cited = sorted(set(R.FOL.findall(body)))
@@ -197,15 +225,15 @@ def section_three(txt, fol):
                     worst = min((cls.get(s, "KT") for s in st),
                                 key=lambda c: ["BRACKET", "CUT", "VAR",
                                                "KT"].index(c))
-                    if worst == "BRACKET":
+                    if worst == "BRACKET" and not (st & plain):
                         flagged[head].add(p)
     if not flagged:
         print("   every proper name the prose leans on is Kiraly & Tokai's "
               "own.\n   Nothing here needs a person.")
     else:
-        print("   these names reach the prose only through a BRACKET -- a")
-        print("   restoration of ours, never counted as a reading. Change one")
-        print("   and the paragraph around it claims something else:\n")
+        print("   these names are BRACKETED EVERYWHERE THEY STAND in the whole")
+        print("   manuscript -- a restoration of ours in every place, and a")
+        print("   reading in none. The prose leans on them anyway:\n")
         for nm in sorted(flagged):
             print(f"     {nm:<22} {' '.join(sorted(flagged[nm])[:8])}")
         print(f"\n   {len(flagged)} names to read by hand. Every other name the "

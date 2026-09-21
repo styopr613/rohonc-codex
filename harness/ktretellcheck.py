@@ -71,6 +71,12 @@ ARITHMETIC = {
             "five hundred, and six-ten.",
     "441": "the number of folios in this edition.",
     "2": "part and folio counting.",
+    "614": "the year Jerusalem fell to the Sasanians and the relic of the "
+           "Cross was carried to Ctesiphon. Supplied by this edition from "
+           "outside the manuscript, which dates the episode only by saying "
+           "it happened in the reign of the king it names. Chosroes and "
+           "Heraclius are Kiraly and Tokai's own dictionary entries; the "
+           "date attached to them here is ours.",
     "1970": "Otto Gyurk's paper.",
     "2018": "Kiraly and Tokai's paper.",
 }

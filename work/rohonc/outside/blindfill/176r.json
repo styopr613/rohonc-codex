@@ -1,0 +1,28 @@
+{
+ "folio": "176r",
+ "reply": "{\"matches\": false, \"confidence\": 0.99, \"fills\": {\"1\":\"none\",\"2\":\"none\",\"3\":\"none\",\"4\":\"none\",\"5\":\"none\",\"6\":\"none\",\"7\":\"none\",\"8\":\"none\",\"9\":\"none\",\"10\":\"none\",\"11\":\"none\",\"12\":\"none\",\"13\":\"none\",\"14\":\"none\",\"15\":\"none\",\"16\":\"none\",\"17\":\"none\",\"18\":\"none\"}}",
+ "usage": {
+  "prompt_tokens": 561,
+  "completion_tokens": 1985,
+  "total_tokens": 2546,
+  "cost": 0.00860112,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.00860112,
+   "upstream_inference_prompt_cost": 0.00074052,
+   "upstream_inference_completions_cost": 0.0078606
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 1893,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on; the same number always means the same sign. Word order is the manuscript's own.\n\nAfter the page is a passage from the Bible in the Douay-Rheims translation.\n\nTask 1. Does this page retell this passage? Judge only from the words you can see.\nTask 2. For each gap, if the passage together with the words around the gap determines what the sign means, give ONE English word in its base form. If it does not determine it, answer \"none\". Do not guess. Fill a gap only when you are confident.\n\nAnswer ONLY with JSON of this shape:\n{\"matches\": true or false, \"confidence\": 0.0 to 1.0, \"fills\": {\"1\": \"word or none\", \"2\": \"word or none\", ...}}\n\nPAGE 176r\n[?1] one well and sit [?1] [?2]\nwell because exist [?3] [?4] in_turn apostle [?5]\ninside village [?6] and living if [?7]\nliving and [?8] go one woman head to\nthis well and [?8] [?9] this well [?10]\n[?1] [?11] and [?12] [?13] water\nask_(for) [?10] this of_an_alien_nation,_pagan how? [?14] dare\nLord from [?15] water ask_(for) this of_an_alien_nation,_pagan in_turn this\nLord Jew(ish) [?16] [?17] [?18] Lord and\n\nPASSAGE\nLuke 24:13 And behold, two of them went, the same day, to a town which was sixty furlongs from Jerusalem, named Emmaus.\nLuke 24:14 And they talked together of all these things which had happened.\nLuke 24:15 And it came to pass that while they talked and reasoned with themselves, Jesus himself also, drawing near, went with them.\nLuke 24:16 But their eyes were held, that they should not know him.\nLuke 24:17 And he said to them: What are these discourses that you hold one with another as you walk and are sad?\nLuke 24:18 And the one of them, whose name was Cleophas, answering, said to him: Art thou only a stranger in Jerusalem, and hast not known the things that have been done there in these days?\n"
+}

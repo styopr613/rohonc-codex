@@ -85,23 +85,47 @@ If Longinus stops being Longinus, the sentence "Longinus blind and then
 seeing is the *Golden Legend*, not the gospels" is simply false, and every
 gate in this repository will still be green.
 
-Section 3 lists every proper name the prose leans on that reaches it **only
-through a bracket**. As of this writing that is five:
+Section 3 lists every proper name the prose leans on that is **bracketed
+everywhere it stands in the whole manuscript** — a restoration of ours in
+every place and a reading in none. As of this writing that is one:
 
-    Abraham    107r
-    Adam       057v
-    Christ     067v
-    Enoch      101r
-    Herod      021v
+    Enoch      101r 133v
 
 Every other name the prose leans on — Longinus, Cleopas, Vespasian, Titus,
 Malchus, Nicodemus, Caiaphas, Barabbas, Simeon, Hezekiah, Horeb, Emmaus,
 Carmel, Jericho — is a plain dictionary entry of Kiraly and Tokai's and is
 safe.
 
-**All five were read by hand on 2026-09-21. Three were already sound and two
-were not**, which is about the hit rate a list like this should have; a check
-that flagged five and found nothing would not be worth running.
+**This check cried wolf twice before it was right, and both narrowings are
+recorded because each one is the same mistake.**
+
+Version one counted CUT as fragile beside BRACKET. But a hyphen in the
+rendering marks two different things — a ktname/ktsegment cut, which is ours,
+and an ordinary affix like the *holy* prefix, which is theirs — and they
+cannot be told apart from the hyphen alone. It flagged Adam, John, Luke, Mary
+and Matthew, every one a plain dictionary name carrying a prefix. Seventeen
+names became five.
+
+Version two asked whether a name was bracketed on the folio the paragraph
+cites. That flagged *Damascus*, bracketed at 218v and read plainly at 219v,
+and *Antichrist*, bracketed at 134r and read plainly at 101r. Neither is a
+guess: each is a restoration in one place of a word the book supplies
+elsewhere, and the prose leans on the place that supplies it. It also flagged
+*Christ*, because a compound token carrying a `[?]` in some other element was
+classed BRACKET whole. Seven names became one.
+
+The test that means something is the one that was run by hand for Enoch: scan
+every folio in the manuscript, and flag the name only if there is no
+occurrence anywhere that is read rather than restored. **Enoch is the only
+name in the book that fails it.**
+
+A check that cries wolf on twelve safe names costs a person more time than it
+saves them. That sentence has now had to be written twice about the same
+check.
+
+The five the earlier version flagged were all read by hand on 2026-09-21, and
+what that pass found is worth keeping even though the check no longer raises
+them:
 
 - *Abraham* (107r) and *Christ* (067v): the prose does not lean on either at
   those folios. No change.
@@ -135,6 +159,26 @@ was narrowed to brackets only.
 ---
 
 ## 4. What is left
+
+**Book One is finished.** All ten parts are written and it draws on **441 of
+441 folios**: every leaf of the manuscript is cited somewhere in the front of
+the book. Ten chapters, 19,988 words of retelling; the whole volume is 88
+chapters and 105,349 words.
+
+    I     004v–006v    12 folios    1,097 words
+    II    008r–015v     6 folios      633
+    III   016r–022r    13 folios      776
+    IV    022v–028v    13 folios      672
+    V     029r–052v    44 folios    2,052
+    VI    053r–009v    24 folios    1,749
+    VII   064r–182v   235 folios    7,860   (five stretches)
+    VIII  183r–214v    64 folios    2,289
+    IX    215r–220v    22 folios    1,637
+    X     221r–224v     8 folios    1,223
+
+`python3 whatbroke.py --left` prints the table live. What follows is what the
+figure meant while it was still being written, kept because the next person to
+add a part will want it.
 
 Book One draws on **183 of 441 folios**. 258 are not yet in the front of the
 book.
