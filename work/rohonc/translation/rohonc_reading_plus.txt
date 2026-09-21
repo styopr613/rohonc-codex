@@ -1031,12 +1031,12 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 042v ===
  1  and [?] to-this confess +talent Herod a) say.
- 2  Herod say Lord Herod [?] God this Lord son and
+ 2  Herod say Lord Herod °mock God this Lord son and
  3  one say speak Lord-Jézus ~against Herod and
  4  Herod [?] Herod [?] this-Herod king this-Herod.
  5  this-Lord can Herod [?] this die ?condemned [?]
  6  this-Lord [?] Herod to say say Herod [?]
- 7  to-Herod this Lord-to living God +one-to say Herod [?]
+ 7  to-Herod this Lord-to living God +one-to say Herod °mock
  8  God this-Lord son and [?] Lord ?was_named
  9  <preposition_of_genitive>-Lord father [?] +and_then Lord-Jézus to-Herod | this
 10  Lord righteous(ly) son living God say Lord-Jézus this-Lord go
@@ -1067,9 +1067,9 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  two [?] [?] and Lord gate inside.
  6  understand-eat ~until and grab Pilate | two
  7  two soldier to Lord-Jézus and Lord exist whip and then-exist
- 8  two from [?] flog Lord-Jézus in_turn-two Lord
+ 8  two from °pillar flog Lord-Jézus in_turn-two Lord
  9  begin two +say flog and then-exist two and from two +say
-10  from [?] flog Lord-Jézus-Christ and | leave
+10  from °pillar flog Lord-Jézus-Christ and | leave
 11  to-leave one soldier to Lord-Jézus and then-exist
 12  from +one-+Wednesday Lord-Jézus because exist Lord many +tie_up
 
@@ -2569,7 +2569,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  4  and +Elijah-somebody from-leave-to-leave [?] [?] and
  5  +Elijah-somebody get_raptured heaven +most_high and +gate/open | +Elijah
  6  somebody [?] from-+day Noah +Elijah +sword carry
- 7  ~evil +one-+gate/open and [?] leave-to-leave Noah +Elijah on-earth
+ 7  ~evil +one-+gate/open and °Enoch leave-to-leave Noah +Elijah on-earth
  8  [?] [?] through be_born two ~head-evil ~evil
  9  and son hide_oneself-angel and exist-[?] evil exist Antichrist
 
@@ -3396,7 +3396,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  7  time grab to-+Elijah-two-?Noah [?] [?]
  8  and +Elijah-?Noah get_raptured heaven high and from
  9  +Elijah [?] exist ~Noah +Elijah +sword
-10  carry ~evil +one-+gate/open and [?] leave-to-leave Noah +Elijah on-earth
+10  carry ~evil +one-+gate/open and °Enoch leave-to-leave Noah +Elijah on-earth
 
 
 === 134r ===
@@ -3765,7 +3765,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 148v ===
  1  escape ~Adam on-~field and then-exist ~Adam | get_conceived
  2  ~Adam inside one pit and then-exist [?]
- 3  [?] ~Adam on-one +tree because exist
+ 3  +cling ~Adam on-one +tree because exist
  4  protrude °root and go two mouse one black
  5  in_turn-two white and this +tree ~begin two mouse
  6  to-eat and then-exist see ~Adam to-~Adam
@@ -3775,7 +3775,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 
 === 149r ===
- 1  evil die if [?] bow_down ~Adam this.
+ 1  evil die if +cling bow_down ~Adam this.
  2  evil °dragon ~Adam tear_apart and then-exist ~Adam
  3  [?] through startle ~Adam and | go-die-Lord
  4  Christ one soldier-Lord-Jézus-die-Christ [?]
@@ -4388,14 +4388,14 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 174r ===
  1  <preposition_of_genitive>-Lord rich say this servant ?how_shall_we-somebody to-pleasing Lord-<suffix_of_divine_name> and
- 2  [?] +five ?gold earlier_mentioned +talent +and_then this rich Lord
+ 2  ?receive +five ?gold earlier_mentioned +talent +and_then this rich Lord
  3  go-servant inside <preposition_of_genitive>-Lord to-house to-<preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> and
  4  to-father-<suffix_of_divine_name> somebody exist joy-somebody chapter-oh
  5  chapter-oh amen and then-exist among-Lord this two
  6  to_whom +<subject_marker> exist-Lord +grab-Lord +three ?gold +talent
  7  +and_then this rich-Lord ?reckon_with servant ?how_shall_we-somebody | <preposition_of_genitive>
  8  Lord rich say this servant ?how_shall_we-somebody to-pleasing Lord-<suffix_of_divine_name>
- 9  and [?] +three ?gold earlier_mentioned +talent +and_then this rich Lord
+ 9  and ?receive +three ?gold earlier_mentioned +talent +and_then this rich Lord
 
 
 === 174v ===

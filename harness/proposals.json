@@ -4277,5 +4277,35 @@
   "tier": "C",
   "n": 4,
   "evidence": "The first half of the pair described under 6733c4: four times across 076v, 077r and 077v this sign stands immediately before the publican sign, on folios citing Matthew 18:15-17. Douay Matthew 18:17: 'let him be to thee as the HEATHEN and publican.' JUDGMENT, MARKED AS ONE: K&T read another sign as 'pagan', and heathen and pagan are one word in the Douay's own usage. This is read as 'heathen' rather than as a second sign for 'pagan' because the pagan sign appears nowhere on 076v, 077r or 077v, and because the pair has to be read together -- the publican sign is fixed by the verse, and the word standing before it in that verse is heathen. A reviewer who rejects the distinction should read this sign as 'pagan'; the lines complete either way, and the sense of the sentence does not change."
+ },
+ "060041": {
+  "gloss": "cling",
+  "tier": "B",
+  "n": 2,
+  "evidence": "K&T's own dictionary carries the compound a10712520060 / dfe0060041 for 'cling', and this sign is its tail. Both occurrences are in the Barlaam and Josaphat pages. 148v:3 reads '[x] Adam on one tree, because there was'; the Greek Barlaam at this point has the man who has fallen into the pit 'lay hold on a tree and cling to it' while the two mice gnaw its root and the dragon waits below -- the page has the pit, the tree, the mice and the dragon around it, and the codex writes the falling man with K&T's Adam sign because the moral of the story names him as the race of Adam. 149r:1 reads 'evil death, if [x], bow down, this Adam'. The tree is already read and the clinging is the one act of the scene no sign carries."
+ },
+ "218": {
+  "gloss": "pillar",
+  "tier": "G",
+  "n": 2,
+  "evidence": "A GUESS, not a reading. One formula twice on 043v: 043v:8 'two from [x] flog the Lord Jesus, and in turn two, the Lord' and 043v:10 'from [x] flog the Lord Jesus Christ, and leave'. The folio is the Passion -- Pilate, the carrying, the gate, the flogging -- but it cites no chapter and verse, so there is no passage to test this against. The scourging at the pillar is in no gospel; it is in every Passion meditation of the period, and 'bound to the pillar and scourged' is the fixed phrase. 'scourge' is already carried by 3b4 and 5400605203f0 and the flogging verb is on the line, so this sign is the place or instrument, and the devotional tradition names the pillar. Marked as a guess because the formula proves the codex writes SOMETHING there twice, not that the something is a pillar."
+ },
+ "a11060060": {
+  "gloss": "receive",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Two lines of one parable, 174r:2 '[x] five talents of gold, and then this rich lord' and 174r:9 'and [x] three talents of gold, and then this rich lord'. The read words on the lines themselves name the parable: talent, gold, the rich lord, and the reckoning formula this project read at 173v:10, 174r:7 and 174v:5. Douay Matthew 25:20-22: 'he that had RECEIVED the five talents came and brought other five talents... He also that had received the two talents came.' The codex counts five and three where Matthew has five and two, which is the sort of slip a compiler makes and not evidence against the parable. 'receive' is carried by no sign of its own -- 4f6 holds it only inside the compound 'receive mercy', which is a different word."
+ },
+ "9e7ae0": {
+  "gloss": "mock",
+  "tier": "G",
+  "n": 2,
+  "evidence": "A GUESS. Both occurrences are on 042v, beside Herod: 042v:2 'Herod said, Lord, Herod [x], God, this the Lord's son' and 042v:7 'to Herod, this to the Lord, the living God, said Herod [x]'. Douay Luke 23:11: 'And Herod with his army set him at nought: and MOCKED him, putting on him a white garment.' The folio cites no chapter and verse, so there is no passage to test this against and it is tagged as a guess; what the two lines do establish is that the sign belongs to Herod and to something Herod does to the Lord. 'mock' is free in both translations."
+ },
+ "986": {
+  "gloss": "Enoch",
+  "tier": "G",
+  "n": 2,
+  "evidence": "A GUESS. The same line is written twice, at 101r:7 and 133v:10: 'evil, the one gate, and [x], left behind, Noah, Elijah, on the earth.' The Gospel of Nicodemus chapter 20 has the two men found alive in paradise name themselves: 'I am ENOCH, who was translated by the word of the Lord, and this is Elias the Thesbite.' The codex has Elijah on the line and a hole beside him, and the book retells Nicodemus elsewhere. 'Enoch' is carried by no sign. Tagged as a guess because the folio's cited verse is 1 Kings 18:36-38, which is Elijah on Carmel and says nothing of Enoch, so nothing in the cited passage can test it."
  }
 }
