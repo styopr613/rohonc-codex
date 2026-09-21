@@ -172,6 +172,39 @@ def _n(s, w=6):
     return f"{int(s.replace(',', '')):,}".rjust(w)
 
 
+def annotate(body):
+    """Put [1], [2] ... into a part's prose and return its notes in order.
+
+    House format, copied from the Plaintext Classics gospels: a bracketed
+    number in the text, and the notes gathered at the end of the chapter under
+    a NOTES rule, numbered per chapter. The anchors live in notes.md and are
+    checked by ktnotecheck.py, which refuses a note with no source line, more
+    than one paragraph, a scene-setting opener, a big word where a small one
+    does, or an anchor that is not in the retelling exactly once.
+
+    The anchor is matched with whitespace collapsed, because the retelling is
+    hard-wrapped and almost every anchor of more than a few words straddles a
+    line break in the file.
+    """
+    import ktnotecheck as N
+    hits = []
+    for anchor, note in N.notes():
+        pat = re.compile(r"\s+".join(re.escape(t) for t in anchor.split()))
+        m = pat.search(body)
+        if m:
+            hits.append((m.end(), anchor, note))
+    hits.sort()
+    out, notes, last = [], [], 0
+    for i, (end, _, note) in enumerate(hits, 1):
+        out.append(body[last:end])
+        out.append(f"[{i}]")
+        last = end
+        prose, src = N.split_note(note)
+        notes.append(" ".join(prose.split()) + ("  " + src if src else ""))
+    out.append(body[last:])
+    return "".join(out), notes
+
+
 def front_matter():
     g = figures()
     return """The Rohonc Codex is a book of about 450 leaves in an unknown
@@ -507,7 +540,11 @@ def build():
         got = rt.get(pname)
         if not got:
             continue
-        body = got[2].replace("«", "*").replace("»", "*")
+        body, notes = annotate(got[2])
+        body = body.replace("«", "*").replace("»", "*")
+        if notes:
+            body += "\n\n    --- NOTES ---\n" + "\n".join(
+                f"    {i}. {t}" for i, t in enumerate(notes, 1))
         ch = {"title": pname.split(".", 1)[-1].strip(),
               "subtitle": "folios %s–%s" % (lo, hi),
               "text": body}

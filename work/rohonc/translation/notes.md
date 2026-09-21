@@ -1,0 +1,368 @@
+# Endnotes to Book One
+
+Facts, with a place to check each one. The rules these are refused by are in
+`harness/ktnotecheck.py` and were written before the first note.
+
+A note marked **this edition** rests on a reading made by this project and not
+on Kiraly and Tokai's dictionary; the tier is given so that a reader can weigh
+it. Tier A survives every place the sign stands. Tier B survives most, with
+the rest unclear rather than against. Tier C is read from one passage with
+nothing inside the book able to refuse it. A word in [brackets] anywhere in
+this edition is a restoration and is counted as read nowhere.
+
+## anchor: the distinguishing episode of the apocryphal *Life of Adam and Eve*
+
+God ordering the angels to bow to Adam, and one refusing, is not in Genesis.
+It is in the Latin *Life of Adam and Eve*, chapters 12 to 16, where Satan says
+he will not worship one made after him and is cast out for it.
+source: *Vita Adae et Evae* 12–16; the folios are 002r, 004v
+
+## anchor: «bone bone, in turn two soul one»
+
+Genesis 2:23 in the Douay-Rheims reads "This now is bone of my bones, and
+flesh of my flesh." The codex writes the doubling and adds a clause the verse
+does not have.
+source: 003v:1; Douay-Rheims Genesis 2:23
+
+## anchor: «[refused] to go» (002r)
+
+Kiraly and Tokai read the sign this edition renders *hide oneself* as
+"hide oneself", and the name of the fallen angel is written as that sign
+joined to the sign for *angel*. The same sign is used of Adam hiding in
+Genesis 3:8 at 001v:3.
+source: K&T entry for the sign glossed "hide oneself"; 002r:10, 001v:3
+
+## anchor: 5,199. That is precisely the figure of the Roman
+
+
+The Roman Martyrology's Christmas proclamation gives the age of the world at
+the Nativity as 5,199 years. The codex spells the same figure out sign by
+sign: five thousand, and a hundred, and nine ten, and nine.
+source: 223v:9–10; *Martyrologium Romanum*, 25 December
+
+## anchor: «thousand year, five hundred, and six ten year»
+
+Kiraly and Tokai date the manuscript to 1593 by their own route. The count on
+this line runs from the departure to the Father, named on line 1 of the same
+folio, not from the Nativity; 33 plus 1560 is 1593. The addition is this
+edition's, not the manuscript's.
+source: 223v:1–2; Kiraly and Tokai, *Cryptologia* 42:4 (2018)
+
+## anchor: «six hundred» and «six ten» and «six»
+
+The same number stands in three places, each time beside words for hell or
+evil: 028v, 159r and 159r's neighbour in the Gadarene reading. Apocalypse
+13:18 gives the number of the beast as six hundred sixty-six.
+source: 028v, 159r:6; Douay-Rheims Apocalypse 13:18
+
+## anchor: «water inside cup pour»
+
+Mixing water into the wine at the offertory is Latin-rite practice and is not
+described by Matthew or John, the two evangelists this folio's own heading
+names. The Council of Trent made it a rule of the Roman Mass in 1562, thirty
+years before the date the manuscript gives itself.
+source: 030v:7; Council of Trent, session 22, canon 7 (1562)
+
+## anchor: «Lord exist inside Wednesday»
+
+Matthew 26:14–16 places the bargain with Judas after the anointing at Bethany
+without naming a day. The Wednesday of Holy Week is called Spy Wednesday in
+the Latin calendar for that bargain.
+source: 032r:2; Douay-Rheims Matthew 26:14–16
+
+## anchor: «each, every Jew(ish) back bow down»
+
+Only John reports that the arresting party went backward and fell to the
+ground. Matthew, Mark and Luke have no such detail.
+source: 035v:5; Douay-Rheims John 18:6
+
+## anchor: «was named … Malchus»
+
+John is the only evangelist who gives the name of the servant whose ear was
+cut off. Luke is the only one who reports that the ear was healed. Both stand
+on this folio.
+source: 036v:2, 036v:6; Douay-Rheims John 18:10, Luke 22:51
+
+## anchor: «[O my] this people to good [what] then exist Lord this Lord»
+
+The Reproaches, *Popule meus, quid feci tibi*, are sung at the veneration of
+the cross on Good Friday in the Roman rite. They put the Exodus — the sea
+divided, the food in the desert — against the cross, which is the order these
+two folios follow.
+source: 048r:8, 048v:1–9; *Missale Romanum*, Good Friday, Improperia
+
+## anchor: «was named soldier exist Longinus»
+
+The name Longinus for the soldier who pierced the side, and his cure of
+blindness by the blood, are in the *Golden Legend*, not in the gospels. John
+19:34 reports the piercing and names nobody.
+source: 052v:5–11; Jacobus de Voragine, *Golden Legend*, "Saint Longinus";
+Douay-Rheims John 19:34
+
+## anchor: «grab virgin Mary inside bosom»
+
+Kiraly and Tokai gloss the sign here as a lap or bosom. Their gloss is
+Hungarian and the word reaches this edition untranslated at 089r and 089v as
+*öl*.
+source: 054r:7, 089r:11, 089v:4; K&T entry glossed "öl"
+
+## anchor: «angel sit on left (side) direction»
+
+Mark 16:5 puts the young man on the right side. The codex writes left. The
+difference is left standing.
+source: 055v:1; Douay-Rheims Mark 16:5
+
+## anchor: «say … of Lord disciple and Peter»
+
+"And Peter" is in Mark alone. Matthew 28:7 and Luke 24:9 have no such phrase.
+source: 055v:8; Douay-Rheims Mark 16:7
+
+## anchor: «kneel down Adam soul before … happy virgin Mary»
+
+Adam's soul doing reverence to the Virgin at the harrowing of hell is not in
+the gospels, in the Latin *Life of Adam and Eve*, or in the *Gospel of
+Nicodemus*, whose harrowing has Adam led out by the hand without a Marian
+scene. No source for it has been found.
+source: 058v:5–7; *Gospel of Nicodemus* (*Acta Pilati*) 18–24
+
+## anchor: «and then Cleopas, Luke, this Lord to two [foolish]»
+
+Luke names one of the two on the Emmaus road Cleophas and leaves the other
+unnamed. Naming the second as Luke himself is a western tradition and is here
+written on the page, twice.
+source: 061r:6, 190v:8; Douay-Rheims Luke 24:18
+
+## anchor: «[under a juniper]»
+
+The juniper, the cake baken on the coals, the cruse of water, the forty days
+and Horeb are the sequence of 3 Kings 19:4–8 in the Douay numbering, which is
+1 Kings 19 in the Hebrew numbering.
+source: 133r:5–10, 133v:2–5; Douay-Rheims 3 Kings 19:4–8
+
+## anchor: «[Enoch] leave to leave»
+
+The sign read here as Enoch stands three times in the manuscript, at 008v,
+101r and 133v, and is bracketed in all three — a restoration in every place
+and a reading in none. Elijah, beside it, is Kiraly and Tokai's own entry.
+**This edition**, tier G.
+source: 008v:6, 101r:7, 133v:10; proposals.json
+
+## anchor: «[of a harlot] through be born»
+
+Antichrist born of a harlot, fathered by the devil, is the medieval Antichrist
+legend; Adso of Montier-en-Der's tenth-century letter gives it its standard
+Latin form. Apocalypse 13 has no birth story.
+source: 101r:8, 134r:1; Adso of Montier-en-Der, *De ortu et tempore Antichristi*
+
+## anchor: «this people chapter go on Egypt [out of] living servant»
+
+The traveller who goes down to Jericho is written throughout these folios with
+the sign Kiraly and Tokai read as Adam, and the two pence are named as the two
+Testaments on the authority of Augustine, whom the folio cites by name.
+source: 105v:7–11, 106r, 107v:2–3; Augustine, *Quaestiones Evangeliorum* 2.19
+
+## anchor: «carry» «the most beautiful robe»
+
+Luke 15:22 has the father call for the first robe and says nothing about what
+it stands for. The three namings — love, mercy, righteousness — are the
+manuscript's own.
+source: 115r:5–7; Douay-Rheims Luke 15:22
+
+## anchor: «Lord nine order angel inside heaven land»
+
+Nine orders of angels, a tenth order lost with its leader, and the saved
+filling the empty place is Gregory the Great's reading of the lost sheep and
+the lost drachma in his thirty-fourth homily on the gospels. The manuscript
+does not name him.
+source: 120r:5, 120v:4–9; Gregory the Great, *Homiliae in Evangelia* 34
+
+## anchor: «on die, soul inside purification fire until judge day»
+
+Purgatory named as a fire of cleansing before the judgment is Latin doctrine,
+defined at the Council of Florence in 1439 and again at Trent in 1563. Neither
+the Greek churches of the period nor the Protestant confessions hold it.
+source: 088r:10; Council of Florence, *Laetentur caeli* (1439); Council of
+Trent, session 25 (1563)
+
+## anchor: «one say hunger die», and another asks «how shall we» and eats «of son»
+
+Josephus reports a woman named Mary killing and eating her own child during
+the siege of Jerusalem in AD 70. The passage was widely retold in medieval
+Latin through Hegesippus.
+source: 111v:8–9; Josephus, *Jewish War* 6.201–213
+
+## anchor: «the Roman on head», «Vespasi-» «-anus», «son Titus»
+
+Vespasian and his son Titus took Jerusalem in AD 70. The *Golden Legend* joins
+their campaign to the Passion and to the selling of captives, as these folios
+do.
+source: 110v:1–2, 111v:3–5; Josephus, *Jewish War* 6; *Golden Legend*, "Saint
+James the Less"
+
+## anchor: «go two mouse, one black, in turn two white»
+
+The man in the pit, the tree gnawed by a black mouse and a white, and the
+dragon below are the apologue of *Barlaam and Josaphat*, which came into Latin
+from a Georgian and Greek line of descent out of an Indian original. The lance
+of the soldier as the means of rescue is not in any version of it found here.
+source: 148v:4–8, 149r:4–9; *Barlaam and Josaphat*, chapter 12
+
+## anchor: «eye, say, hear, love, have mercy, believe, righteously»
+
+Luke 15:13 says the younger son wasted his substance and does not say what the
+substance was. Reading it as the five senses is the manuscript's own, written
+as a single compound sign twice.
+source: 113v:8–9, 116r:6–7; Douay-Rheims Luke 15:13
+
+## anchor: «this holy spirit [proceedeth] on father … go out spirit,
+
+The sun, its light and its warmth as a figure of the three Persons is used by
+Augustine in his work on the Trinity. The manuscript puts light for the Son
+and warmth for the Spirit.
+source: 083v:1–5; Augustine, *De Trinitate* 6.10
+
+## anchor: «[One day at] evening», he finds «one little son» «on shore»
+
+Augustine and the child emptying the sea into a hole is not in Augustine and
+is not in his early lives. It is a late-medieval story, carried in the
+*Golden Legend*'s chapter on him.
+source: 084r:9–14, 084v:1–9; *Golden Legend*, "Saint Augustine"
+
+## anchor: «little»
+
+Five signs on these folios had been read by this project as *child*. A sweep
+comparing every unread sign against every sign Kiraly and Tokai read, one
+glyph at a time, found that all five are one glyph from their sign glossed
+"a little while; little", and that their spelling of it stands two lines above
+ours on the same folio at 084r:10. All five were changed.
+source: 084r:10, 084r:11, 084v:1; K&T entry glossed "a little while; little";
+proposals.json
+
+## anchor: «[the right hand of God]» with «an army army angel»
+
+Acts 7:55–56 has Stephen see the heavens opened and the Son of man standing at
+the right hand of God. The codex writes a king crowned on a throne with an
+army of angels.
+source: 216r:1–4, 217v:8–9; Douay-Rheims Acts 7:55–56
+
+## anchor: «and this son exist this Saul»
+
+Acts 7:57 has the witnesses lay down their garments at the feet of a young man
+named Saul. Naming Gamaliel and Nicodemus as two high priests, with Saul and
+Stephen as their servants, is not in Acts; no source for it has been found.
+source: 216r:6–8, 218r:7–9; Douay-Rheims Acts 7:57
+
+## anchor: «this Lord Christ proud out on Jerusalem carry cross tree, but humble carry»
+
+Heraclius stopped by an angel at the gate of Jerusalem, and going in barefoot
+and without his purple, is the *Golden Legend*'s account of the Exaltation of
+the Cross, kept on 14 September. No chronicle of the period reports it.
+source: 185v:7–9, 186r:1–5; *Golden Legend*, "The Exaltation of the Holy
+Cross"
+
+## anchor: «name exist Khosrow»
+
+Kiraly and Tokai's dictionary carries entries for Chosroes and for Ctesiphon.
+Jerusalem fell to the Sasanians in 614 and the relic of the Cross was taken to
+Ctesiphon; Heraclius recovered it and it was returned to Jerusalem in 630.
+source: 183r:3, 183r:6; K&T entries for Chosroes and Ctesiphon
+
+## anchor: setting first: «sit apostle at table inside Jerusalem»
+
+Kiraly and Tokai cite this sign at 072r:8, 072r:11 and 191r:4 under an entry
+glossed as a table. The Douay-Rheims has the eleven "sitting at table"; the
+King James has them "at meat". **This edition** follows the Douay because the
+manuscript is a Catholic compilation and its author had the Vulgate.
+source: 072r:8, 182r:4, 191r:4; K&T entry glossed "table"; Douay-Rheims Mark
+16:14
+
+## anchor: «two ten ten five hour» and then «thirty … six hour»
+
+The two hour-counts on this folio do not agree with each other. Nothing has
+been changed to make them agree.
+source: 058v:10–11
+
+## anchor: «son Moses»
+
+Line 6 of this folio reads as the son of Moses where the sense of the
+surrounding count wants something else. Nothing has been changed.
+source: 223v:6
+
+## anchor: «second chapter» (090v)
+
+The rubric names John's second chapter and the reading that follows is John's
+third, the night visit of Nicodemus. Of the ten citations checked in this
+edition, nine name the right chapter of the right evangelist and this is the
+one that does not.
+source: 090v:8–9; Douay-Rheims John 3:1–21
+
+## anchor: The sign Kiraly and Tokai gloss as *the name of the author* stands ten
+
+Kiraly and Tokai gloss one sign as the name of the author. It stands on three
+folios: ten times at 137v, eight at 138r, and fourteen at 222v. On the first
+two it stands inside a prayer to the Virgin.
+source: 137v, 138r, 222v; K&T entry glossed "the name of the author"
+
+## anchor: «[on the holy day] Monday inside wound … [I went] to house»
+
+Six of the lines on this folio carry the sign glossed as the name of the
+author with a weekday and a verb. Every word in square brackets in these six
+lines is a restoration and is counted as read nowhere.
+source: 222v:1–9; proposals.json
+
+## anchor: after the flood Noah is «drunken» (008r)
+
+Genesis 9:20–21 has Noah plant a vineyard, drink the wine and lie uncovered in
+his tent. Devotional retellings of the period often stop at the rainbow.
+source: 008r:9; Douay-Rheims Genesis 9:20–21
+
+## anchor: «one sheep and one lamb» (005r)
+
+Genesis 22:13 has one ram caught by the horns in a thicket. The codex writes a
+sheep and a lamb, and the word this edition renders *ram* on this line is a
+restoration.
+source: 005r; Douay-Rheims Genesis 22:13; proposals.json
+
+## anchor: «the golden gate» Joachim meets his wife Anne
+
+Joachim's offering refused, the angel in the wilderness and the meeting at the
+Golden Gate are in the *Protevangelium of James*, chapters 1 to 4, and reached
+the Latin west through the *Golden Legend*'s chapter on the Nativity of the
+Virgin. None of it is in the gospels.
+source: 016v, 017r:5–6, 017v:3; *Protevangelium of James* 1–4; *Golden
+Legend*, "The Birth of the Blessed Virgin Mary"
+
+## anchor: «have mercy, girl»
+
+Luke 1:28 in the Douay-Rheims reads "Hail, full of grace." The codex writes
+its own greeting, and this edition has not changed it to Luke's.
+source: 018r; Douay-Rheims Luke 1:28
+
+## anchor: «the very old Joseph» (019r)
+
+Joseph as an old man is not in Matthew or Luke; it comes from the
+*Protevangelium of James* 9, where he is a widower with sons and objects that
+he is too old. The codex uses the phrase as a fixed title.
+source: 019r; *Protevangelium of James* 9
+
+## anchor: in every town of Egypt «idols» «fall down» (022r)
+
+Idols falling as the child enters Egypt is in the *Gospel of Pseudo-Matthew*,
+chapter 23, and in the *Golden Legend*. Matthew 2:14–15 reports the flight and
+nothing else.
+source: 022r:2–3; *Gospel of Pseudo-Matthew* 23; Douay-Rheims Matthew 2:14–15
+
+## anchor: «six-six apostle» — the codex's way of
+
+Kiraly and Tokai read the codex's numerals as strokes followed by a sign for
+ten, hundred or thousand that multiplies them. Six and six written side by
+side is twelve, and the phrase stands on thirteen lines; nine of them name the
+apostles.
+source: 022r:10; K&T grammar, the numeral system
+
+## anchor: «Mount Carmel» rather than at the Jordan (024r)
+
+Matthew 3:13 and Mark 1:9 place the baptism at the Jordan. Carmel is Elijah's
+mountain in 3 Kings 18. The codex puts the baptism on Carmel here and again at
+116v and 189r.
+source: 024r, 116v:8, 189r:6; Douay-Rheims Matthew 3:13, 3 Kings 18
