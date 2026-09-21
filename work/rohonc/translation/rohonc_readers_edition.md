@@ -36,14 +36,14 @@ than one that does not; it is only harder to check.
 ## What this edition is worth, in numbers
 
     words in the manuscript            29997
-    read                               27945 (93.2%)
-    read from one passage, marked *    990 (3.3%)
-    restored, in brackets              63 (0.2%)
-    dark, printed as an ellipsis       999 (3.3%)
+    read                               27952 (93.2%)
+    read from one passage, marked *    992 (3.3%)
+    restored, in brackets              64 (0.2%)
+    dark, printed as an ellipsis       989 (3.3%)
 
-    lines with every word read         3532 of 4372 (80.8%)
+    lines with every word read         3539 of 4372 (80.9%)
     lines complete including
-      restorations                     3586 of 4372 (82.0%)
+      restorations                     3593 of 4372 (82.2%)
 
 The evidence for every single word is in `harness/proposals.json`, one entry
 per sign, with its tier and the argument in full. `harness/ktprov.py` prints
@@ -53,7 +53,7 @@ including the two that failed.
 
 **Brackets are the measure of what is left to do.** Every time a source text
 enters the corpus, or a formula turns up twice, some of them become plain
-words. There are 63 of them now.
+words. There are 64 of them now.
 
 ---
 
@@ -371,7 +371,7 @@ words. There are 63 of them now.
 > And Saint Anne […]; of the two of them, all their rich substance […] […] one portion they took […]; and a second portion to the Lord […] to the people. […] a portion […] […] And all Joachim's household gave thanks to the Lord God; and […] | […] […] thirty years; and he prepared the offering. […] all […] […]; and then, and from Joachim he brought his offering; and at Joachim looked the chief of the Jews. […] This chief of the Jews [said to] Saint Joachim, […] to this Joachim […] who was […] go among the […] […] of the offering […] one […] and […] […] […] at this. And sorrowfully Joachim departed, and went into the field, into the wilderness […] and from […] […] and at one […] one
 
   1  and holy-Anne_(mother_of_the_Virgin_Mary) mouth-+day from-two from_the_two_of_them each,_every <preposition_of_genitive>-rich soul on-+three part*
-  2  one division grab [...] on-exist-chapter in_turn-two division
+  2  one division grab the_people_of_the_temple on-exist-chapter in_turn-two division
   3  from-Lord way people-chapter third division Joachim-+one-+his_household living.
   4  and each,_every Saint_Joachim_and_his_houseful thanks to-thanks Lord-<suffix_of_divine_name> in_turn have | Joachim
   5  his_household coming* thirty year and prepare offering-chapter
@@ -603,7 +603,7 @@ words. There are 63 of them now.
   5  one king son because exist on-die and son healing.
   6  afterward* in_turn-and can show Lord-Jézus inside Jerusalem evil
   7  then-exist Lord inside one somebody hell evil exorcise
-  8  first before be_born Lord-Jézus-Christ son God [...]
+  8  first before be_born Lord-Jézus-Christ son God cannot.
   9  one prophet one forefather this miracle.
  10  afterward* he_is* Christ afterward* and miracle confess
  11  that Lord-Jézus righteous(ly) son God five confess ~have.
@@ -1883,7 +1883,7 @@ words. There are 63 of them now.
 
 > the Lord's name […]; and then Lord Jesus, to his apostles, […] […] this Lord spoke to you; and then Lord Jesus: do not pick figs from thistles, but rather from the fig, and […] food, grapes […] not from the grapevine, because he who is a good tree brings this good fruit; in turn likewise the evil tree brings this evil of hell. Because a good tree cannot bring forth the evil of hell, every good fruit it brings; in turn likewise the evil tree cannot bring good fruit, but every evil of hell it brings. And then Lord Jesus, many people were crying out against the judgment the Lord's year, to the Lord; this man's trespass; this the Lord preached, and Lord Jesus said
 
-  1  Lord name [...] and_then Lord-Jézus apostle <preposition_of_genitive>-Lord
+  1  Lord name confess and_then Lord-Jézus apostle <preposition_of_genitive>-Lord
   2  verily verily this-Lord you speak and_then
   3  Lord-Jézus do_not_pick fig on-thistle but_rather-to on-fig and | [...]
   4  food grape [...] ~a) on-grapevine
@@ -2093,7 +2093,7 @@ words. There are 63 of them now.
 
   1  begins this
   2  holy-gospel write
-  3  [...] inside | two
+  3  holy_Mark inside | two
   4  ten-ten five chapter
   5  <preposition_of_genitive>-write time
   6  then-exist on-execute
@@ -2127,7 +2127,7 @@ words. There are 63 of them now.
   2  somebody exorcise exist serpent carry inside
   3  hand ~exist somebody can bite exist somebody inside
   4  <preposition_of_genitive>-Lord name deadly_poison drink and what-to
-  5  who somebody ~exist [...] exist somebody inside <preposition_of_genitive>-Lord
+  5  who somebody ~exist not_ill exist somebody inside <preposition_of_genitive>-Lord
   6  name on-cup-[?]-+day <preposition_of_genitive>-somebody why?-in_turn put
   7  [...] exist somebody from-healing each,_every inside <preposition_of_genitive>-Lord | and-exist-from
   8  day-+name exist somebody many miracle do, and
@@ -3238,7 +3238,7 @@ words. There are 63 of them now.
   4  and_then Lord-Jézus then-exist this-Lord son God crying
   5  this-Jerusalem because exist on-this-Jerusalem [trench] an_army | this
   6  this to-sit Jerusalem and this-Jerusalem [...] surround
-  7  [...] and you is_not somebody angel [...]
+  7  [...] and you is_not somebody angel exist
   8  somebody angel out(ward) and [...] name-Jerusalem a) [...] among you
   9  capture each,_every-+say cross condemned* somebody angel and
  10  ~exist-+say *hunger die and exist many misery ~on-this
@@ -4497,7 +4497,7 @@ words. There are 63 of them now.
   2  and shout-to this thief first this-Lord <subject_marker> righteous(ly)
   3  somebody two thief-thief this die from deserve
   4  and turn_toward Lord-Jézus <preposition_of_genitive>-Lord head to-thief
-  5  and_then Lord-Jézus robe the_Lord [...] year until
+  5  and_then Lord-Jézus robe the_Lord believe* year until
   6  why?-hide_oneself exist-thief [...] before inside into_Paradise
   7  and one say from thief how_shall_we* | on-<preposition_of_genitive>
   8  thief last year-heaven land
@@ -6001,7 +6001,7 @@ words. There are 63 of them now.
 > the Son of God, in turn, with one sinner, from one […] one extortioner; and he left afar | the name of Jerusalem, Zacchaeus; and then Zacchaeus: Master, this Zacchaeus takes the half, the half truly, of Zacchaeus's riches, to God, the spiritually blind, truly the half; in turn he left afar one among you, in turn, Jerusalem […] | take, Jerusalem, one denarius; upon the extortion, Jerusalem would, the man, to every one, two by two, take; and the Lord Jesus saw that he himself was
 
   1  son God in_turn one sin from-one
-  2  [...] one extort and leave far | name-Jerusalem
+  2  extorter* one extort and leave far | name-Jerusalem
   3  Zacchaeus and_then Zacchaeus
   4  Master this-Zacchaeus half grab
   5  half-righteous(ly) <preposition_of_genitive>-Zacchaeus ~rich God
@@ -6275,7 +6275,7 @@ words. There are 63 of them now.
   6  Bethany because trespass carry-+say each,_every [...] way people
   7  one donkey and_then Lord-Jézus in_turn-?brethren you
   8  [...] therefore-+say grab-+say say learn-two-learn
-  9  grab-+say learn-two-learn donkey [...] apostle-+<subject_marker> [...] love
+  9  grab-+say learn-two-learn donkey [tied] apostle-+<subject_marker> [...] love
 
 ## 011v — they set him thereon
 
@@ -6393,7 +6393,7 @@ words. There are 63 of them now.
   6  head and exist exist-+say [...] and exist
   7  somebody to-many [...] somebody name [?]-~Christ
   8  each,_every somebody suffering in_turn somebody-?but_rather head | grab
-  9  say and then-exist holy-Stephen [...] [...] name
+  9  say and then-exist holy-Stephen [...] confess name
 
 ## 217r — they brought him to suffer
 

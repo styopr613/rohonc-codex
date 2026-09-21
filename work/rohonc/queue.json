@@ -71,10 +71,6 @@
   "state": "pass",
   "why": "041r Pilate, no source"
  },
- "0b6343": {
-  "state": "pass",
-  "why": "023r John 4:46; slot open"
- },
  "0e0": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
@@ -107,6 +103,10 @@
   "state": "pass",
   "why": "single glyph 180v, no source"
  },
+ "152520924": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "153": {
   "state": "pass",
   "why": "076v Peter on the water; slot open"
@@ -122,6 +122,10 @@
  "174": {
   "state": "pass",
   "why": "single glyph 125v"
+ },
+ "180670ae0": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "194569": {
   "state": "pass",
@@ -147,9 +151,13 @@
   "state": "pass",
   "why": "167v Luke 16:2; slot open"
  },
+ "1b7": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "1f1": {
   "state": "pass",
-  "why": "single glyph before 'heavenly home' x2; a particle"
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "1f2": {
   "state": "pass",
@@ -239,6 +247,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "2a3": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "2a5": {
   "state": "pass",
   "why": "107r Luke 10:36; slot open"
@@ -266,6 +278,10 @@
  "343": {
   "state": "pass",
   "why": "single glyph, three unrelated slots (057v, 066r, 151v); a particle"
+ },
+ "343520374": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "347": {
   "state": "pass",
@@ -346,6 +362,10 @@
  "463520": {
   "state": "pass",
   "why": "216r Acts 7:56; slot open"
+ },
+ "469370": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "4735df": {
   "state": "pass",
@@ -783,6 +803,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "5209aa520060": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "520ac3ae01f2": {
   "state": "pass",
   "why": "194r no one word fits both"
@@ -798,10 +822,6 @@
  "520b42": {
   "state": "pass",
   "why": "follows be_damned x3 (Mark 16:16) but no free word of the verse fits a suffix slot"
- },
- "520b84": {
-  "state": "pass",
-  "why": "around 'name' at 065v and 218v, slot open"
  },
  "520b97": {
   "state": "pass",
@@ -871,6 +891,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "5607a0": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "5699c0": {
   "state": "pass",
   "why": "A FIXED PAIR with 52015253b; see that entry. Formula proved, words not named."
@@ -887,9 +911,17 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "593": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "5a5": {
   "state": "pass",
   "why": "A FIXED PAIR with 6f9, in an identical formula at 009r:5 and 181v:6: '[5a5] see believe and [6f9]', with 'wound' beside it both times, on the two folios that carry John 20:27-29 -- 'be not faithless, but believing' and 'blessed are they that have not seen, and have believed'. The verse needs 'not' and 'blessed', and both of those stems are already carried by other signs, so neither can be assigned here. Formula proved, words not named."
+ },
+ "5a7": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "5c2": {
   "state": "pass",
@@ -907,6 +939,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "5e2": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "5e5520ae0": {
   "state": "pass",
   "why": "147v/148r name-shaped, no name in the passage"
@@ -922,6 +958,10 @@
  "5f5ae0": {
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
+ "5fe": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "6305201d9": {
   "state": "pass",
@@ -947,6 +987,10 @@
   "state": "pass",
   "why": "10 glyphs, 204v/205r no source"
  },
+ "630b46ae0": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "64b": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
@@ -961,7 +1005,7 @@
  },
  "670a85": {
   "state": "pass",
-  "why": "066r slot open"
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "670ae03f2": {
   "state": "pass",
@@ -1011,6 +1055,10 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "75a": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "7a006077f": {
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
@@ -1026,6 +1074,10 @@
  "7c2": {
   "state": "pass",
   "why": "single glyph, three unrelated slots; a particle"
+ },
+ "7f4": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "7f8": {
   "state": "pass",
@@ -1075,6 +1127,10 @@
   "state": "pass",
   "why": "A near-pair with 893520403520 at 112v:1 and 112v:3: the same stem with two endings, each followed by 'health', on the folio citing John 11:33-36. SAME SLOT proved; the word is not named."
  },
+ "894": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "8a7ae0": {
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
@@ -1086,6 +1142,10 @@
  "8e4": {
   "state": "pass",
   "why": "single glyph, no source"
+ },
+ "915": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "9236305fd": {
   "state": "pass",
@@ -1131,9 +1191,25 @@
   "state": "pass",
   "why": "069v-070r John 15, slot wants 'abide in me' but 'abide' is carried by another sign"
  },
+ "a10247": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "a102c05200e4ae0540": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
+ },
+ "a10443520": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
+ "a105202e6": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
+ "a105203b7": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "a105209ab": {
   "state": "pass",
@@ -1143,13 +1219,25 @@
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "a105d1": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "a10670357": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
  },
+ "a10790": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "a109d0": {
   "state": "pass",
   "why": "Read with its whole folio against the cited passage in the by-folio pass of ktdark.py. The passage's free words are either already placed in other holes on the same lines, or several holes share one verse with no way to order them. Left dark."
+ },
+ "a113b1": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  },
  "a38": {
   "state": "pass",
@@ -1179,6 +1267,10 @@
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
+ "aa5": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
+ },
  "aac": {
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
@@ -1198,5 +1290,9 @@
  "b52011": {
   "state": "pass",
   "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
+ "b601e0520ae0": {
+  "state": "pass",
+  "why": "Read with its whole folio against the cited passage in the second by-folio pass. The passage's free words are placed in other holes on the same lines, or the slot takes a word another sign already carries. Left dark."
  }
 }

@@ -15,7 +15,9 @@ per sign, written down with its reason and its tier.
     python ktdark.py apply FILE.json  {hex: [gloss, tier, evidence]} into
                                       proposals.json, with a dated backup
 
-The tier written is the tier earned. A structural anchor (inside / holds /
+The tier written is the tier earned. Tier A is allowed here for one
+reason only: Kiraly & Tokai sometimes cite the folio and line of a hole in
+their own entry, which is the tier A test "proved by K&T citation". A structural anchor (inside / holds /
 one glyph) on a sign that fits its line is C or D as ktprov would class it.
 A passage-fit with no anchor is G: shown in brackets in the reader's edition,
 never counted as read, and worth exactly what ktguess measured for it.
@@ -154,7 +156,10 @@ def apply(path):
             print(f"  no such sign: {h}")
             skipped += 1
             continue
-        if tier not in ("C", "D", "G"):
+        # A and B are allowed, but only where the evidence is the kind the
+        # tier ladder names: K&T citing the folio and line, an identical
+        # formula, or a numeral. A guess never reaches them.
+        if tier not in ("A", "B", "C", "D", "G"):
             print(f"  bad tier {tier} for {h}")
             skipped += 1
             continue

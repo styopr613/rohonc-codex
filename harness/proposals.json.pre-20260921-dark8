@@ -5669,59 +5669,5 @@
   "tier": "G",
   "n": 1,
   "evidence": "055r:3, line-initial, on the folio citing Mark 16:1: 'Mary Magdalene, and Mary the mother of James, and Salome brought sweet SPICES, that coming they might anoint him.' The three Marys stand on line 2, the tomb of Christ on line 2, and the names follow on lines 4 and 5. 'spices' is free and is the thing the verse is about. GUESS."
- },
- "9f1": {
-  "gloss": "tied",
-  "tier": "G",
-  "n": 1,
-  "evidence": "011r:9 'take, teach-two-teach, DONKEY [x], teach [x] love', on the folio citing Matthew 21:2: 'you shall find an ASS TIED, and a colt with her: loose them and bring them to me'. The ass stands immediately before the hole and 'tied' is free in the passage. GUESS."
- },
- "520853": {
-  "gloss": "believe",
-  "tier": "C",
-  "n": 1,
-  "evidence": "K&T's entry 520b7a 'believe' names a list of folio lines carrying variant spellings, and 153v05 is in it. This sign is one glyph from their headword and is the only hole on 153v:5. Held at C rather than A because their entry lists several variant codes together and the extraction cannot say which spelling their 153v05 refers to."
- },
- "a102d9": {
-  "gloss": "extorter",
-  "tier": "C",
-  "n": 1,
-  "evidence": "K&T's entry a109d9 reads '175r01, 207r02, 08 ?? extort, extorter' -- two senses, a verb and an agent noun, cited at 207r02 among others. This sign is one glyph from theirs and stands at 207r:2, where their verb 'extort' is ALREADY read in the same line: '[x] one extort and leave far from Jerusalem'. The agent noun is the sense left for this slot. Their own gloss, this project's choice between its two halves."
- },
- "8716700600607f0": {
-  "gloss": "holy_Mark",
-  "tier": "A",
-  "n": 1,
-  "evidence": "Kiraly & Tokai's entry for Mark the evangelist lists a variant spelling and cites the folio and line for it: '6700600607f0 072r03'. This sign IS that spelling with their 871 'holy, saint' in front, and it stands at 072r:3. Their own dictionary names it. It was missed because the variant reader keys on the headword and this form carries a prefix."
- },
- "670ae05a2": {
-  "gloss": "the_people_of_the_temple",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry 520ae05a2, one glyph from this sign, cites this exact line: 'in the expression ... to the people of the temple 016v02'. 016v is Joachim dividing his substance in three portions, one of them to the temple, and the line reads 'one division, take [x], on-chapter, in turn two divisions'. Their own reading of this line."
- },
- "0b6343": {
-  "gloss": "cannot",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry 520343 'can; is able; might; may not' cites this exact line for the negative sense: 'can not 023r08'. This sign is one glyph from their code and stands at 023r:8. Their own reading of this line."
- },
- "520b84": {
-  "gloss": "confess",
-  "tier": "A",
-  "n": 2,
-  "evidence": "K&T's entry 520b80 'confess or proclaim or testify; confession, annunciation, testimony; witness' opens '[var. 065v01, 218v09]' -- it names two folio lines where a VARIANT spelling of it stands. This sign occurs exactly twice in the codex, at 065v:1 and at 218v:9. Both occurrences are their own cited variants, and 218v is Stephen's testimony before the council. Proved by K&T citation at every occurrence."
- },
- "830520060510520": {
-  "gloss": "not_ill",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry 830520060511520 reads '073r05 not ill'. This sign is one glyph from theirs and stands at 073r:5, the line they cite. Their own reading of this line."
- },
- "627ae0": {
-  "gloss": "exist",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry 670ae0, the copula, carries a long variant list that names this folio and line: '109v01, 02, 110r07, 115v04, 118v06'. This sign stands at 110r:7 and is one glyph from their headword. Proved by K&T citation."
  }
 }
