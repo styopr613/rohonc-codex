@@ -13206,3 +13206,205 @@ in Király & Tokai's dictionary, so the person is not named here.
 > Exodus 14:27-28 and then Exodus 16:15. The manna on line 8 runs straight
 > into the daily bread of the Our Father on the next folio, which is the
 > standard typological pairing and is why the two stand together here.
+
+## 188r — the manna and the bread of this day
+
+**1**  the angel; and this is this day's living, the people said | […]
+`angel and this exist-today’s living people-+say | [?]-[?]-+one`
+
+**2**  the year; and how at table they ate of it, they ate of it, they left off;
+`year and how? table-+say eat on-+say from eat <subject> leave`
+
+**3**  and then this manna […] a bucket; and
+`and then-exist this manna [?] bucket and`
+
+**4**  he said […] brought […] from the manna, thanks
+`say [?] brought* [?] from manna thanks`
+
+**5**  and pleasing he did; in turn […] Christ stayed, that day's
+`and pleasing do,-+say in_turn [?] Christ stay daily,_of_that_day`
+
+**6**  […] manna; and then the Lord Jesus, in his thirty-
+`[?] manna and then-exist Lord-Jézus inside thirty half*`
+
+**7**  third year, the time the Lord Jesus said, at the last supper, he took
+`three_days time say Lord-Jézus on-last dinner-to grab`
+
+**8**  within, why in turn, one baked cake, and
+`inside why?-in_turn one baked „cake” and`
+
+**9**  the Lord Jesus said: and let a man eat this day's bread; and the Lord
+`say Lord-Jézus and somebody exist this exist-today’s eat and Lord`
+
+> Exodus 16 read into the Last Supper. The manna, the bucket in which it was
+> kept (Exodus 16:33), and then the bread of the supper. K&T gloss the sign
+> on line 8 as a baked cake, in their own quotation marks.
+
+## 188v — he that believeth not
+
+**1**  believeth not: every such man is damned […]; and a man who is the Lord's
+`not_believe each,_every somebody be_damned cut_off-[?] and somebody exist Lord`
+
+**2**  believes; and there is a man who from the altar
+`believe and exist somebody from altar(table) exist`
+
+**3**  from the thirty, eats the holy host and drinks; he that believeth not,
+`from thirty holy-host eat and drink who_believes_not*`
+
+**4**  that man lives. Chapter. Chapter. Amen.
+`somebody exist living chapter-oh chapter-oh amen`
+
+**5**  On the Sunday from […] Christ came into this world;
+`to Sunday from [?] Christ on-this world coming*`
+
+**6**  and before the Lord Christ's coming, nine months and two Sundays; on the
+`and before Lord-Christ coming* nine moon and two Sunday inside`
+
+**7**  Sunday the Lord was announced, to the understanding, by the angel; in | not
+`Sunday the_Lord exist announce on-understand-chapter angel inside | not`
+
+**8**  the Sunday, in the mind, the happy virgin Mary, and | […]
+`~Sunday inside exist-exist-chapter happy virgin-Mary and | [?]`
+
+**9**  […] Joseph; on the Sunday the Lord was
+`[?] Joseph inside Sunday the_Lord exist`
+
+> John 6:53-54 and the Annunciation. From here to 190v the codex keeps a
+> concordance of Sundays: what the Lord did on each one. That is the shape of
+> a preacher's handbook, not of a gospel.
+
+## 189r — what was done on the Sundays
+
+**1**  announced, this angel, to the understanding, the angel; and then the Lord | into
+`announce this angel on-understand-chapter angel and then-exist-Lord | on`
+
+**2**  this world came; and then the Lord, in his thirty-first day,
+`this world* coming* and then-exist-Lord inside thirty one-+day`
+
+**3**  the time, on a Sunday, the Lord Jesus Christ made at the wedding
+`time inside Sunday create on-wedding Lord-Jézus-Christ`
+
+**4**  water into wine; on a Sunday the Lord stood up and raised | the Lord
+`water wine inside Sunday the_Lord stand_up resurrect | Lord`
+
+**5**  Jesus Christ, the daughter of one chief man in Jerusalem; on a Sunday
+`Jézus-Christ daughter one head inside Jerusalem inside Sunday`
+
+**6**  the Lord […] upon Carmel, to the mount, and
+`the_Lord from-[?]-[?] on-Carmel to-mount and`
+
+**7**  the Holy Spirit appeared in the shape of a dove; and then
+`appear holy-spirit inside ~shape,_form dove and_then`
+
+**8**  this Lord, of the son, he who quieted the spirit, and
+`this-Lord <of> son he_who spirit calm_down and`
+
+**9**  the Lord took the Holy Spirit; and the Lord went into the field
+`Lord grab holy-spirit and Lord go inside field`
+
+> Cana (John 2:1-11), Jairus's daughter, and the baptism at the Jordan with
+> the Spirit descending as a dove (Matthew 3:16). K&T's own dictionary carries
+> Carmel as "a hill where John the Baptist baptizes", which is the codex's
+> own geography and not any gospel's.
+
+## 189v — Nain, the blind man, the cleansing of the temple
+
+**1**  to […] the Lord Jesus, that day; on a Sunday the Lord
+`to-[?] Lord-Jézus [?]-+day inside Sunday the_Lord`
+
+**2**  stood up and raised, the Lord Jesus Christ, in the town of Nain, the son
+`stand_up resurrect Lord-Jézus-Christ inside Nain town son`
+
+**3**  of one widow; and before that, he himself | was
+`one virgin-[?] the_Baptist/woman and before that_is he_is* | exist`
+
+**4**  the Lord; this widow's son the Lord raised; one
+`Lord this virgin-[?] the_Baptist/woman son stand_up resurrect-Lord one`
+
+**5**  blind man he gave light; on a Sunday the Lord Jesus Christ […]
+`~blind through light inside Sunday Lord-Jézus-Christ [?]`
+
+**6**  the town of Jericho; then the Lord went into Jerusalem, and
+`Jericho town then-chapter and go-Lord inside Jerusalem and`
+
+**7**  the Lord's apostles; on a Sunday the Lord cast out, in Jerusalem,
+`<of>-Lord apostle inside Sunday the_Lord cast_out-Lord inside Jerusalem`
+
+**8**  from one man, hell, the mind; then the Lord,
+`on-one somebody hell exist-chapter then-exist-Lord`
+
+**9**  in his thirty-third year, on a Sunday the Lord | broke
+`inside thirty half three inside Sunday the_Lord | break`
+
+## 190r — the week of the Passion, day by day
+
+**1**  the Lord, five loaves of this day's bread, for five thousand people;
+`Lord five baked exist-today’s five-?thousand people`
+
+**2**  then the Lord, in his thirty-third year, from Galilee
+`then-exist-Lord inside thirty half three_days from Galilee`
+
+**3**  through the Red Sea to one mount; on a Sunday
+`through the_Red_Sea to-one to-mount inside Sunday`
+
+**4**  the Lord went to suffer in Jerusalem; then the Lord, in his thirty-
+`the_Lord exist go-Lord on-suffer inside Jerusalem then-exist-Lord inside thirty`
+
+**5**  third year, on the Monday the Lord preached many a miracle; in turn on the
+`half three_days inside Monday the_Lord many miracle preach-Lord in_turn`
+
+**6**  Tuesday the Lord stood up and raised Lazarus from the tomb; in turn on the Wednesday
+`Tuesday the_Lord Lazarus on-burial_chamber stand_up resurrect-Lord in_turn Wednesday`
+
+**7**  the Lord — but Judas sold him for thirty pieces of silver;
+`Lord-+but-+<subject> exist Judas sold to-thirty silver`
+
+**8**  in turn the wounded one made the supper, and they captured the Lord; in turn on the
+`in_turn wound dinner-to do,-Lord and capture-Lord in_turn`
+
+**9**  Friday the cross […]; and the evil one was bound; in turn on the Saturday, hell
+`Friday cross-[?] and evil bound_up in_turn inside Saturday hell`
+
+> The whole Holy Week in nine lines: Palm Sunday, the preaching on Monday,
+> Lazarus on Tuesday, Judas and the thirty pieces on Wednesday, the supper and
+> the arrest on Thursday, the cross on Friday, the harrowing of hell on
+> Saturday. The five loaves and five thousand are on line 1 and the
+> Transfiguration on the mount on line 3.
+
+## 190v — the five appearances, and Emmaus
+
+**1**  the Lord destroyed; on the Sunday the Lord rose from the dead; and to the apostles the Lord
+`<subject> destroy-Lord inside Sunday the_Lord rise on-die and apostle the_Lord`
+
+**2**  appeared. First the Lord appeared in Bethany | to the virgin
+`appear-Lord first the_Lord appear inside Bethany | virgin`
+
+**3**  Mary; secondly the Lord appeared at the tomb to Mary Magdalene; thirdly
+`Mary in_turn-two the_Lord appear to-burial_chamber Mary Magdalene third`
+
+**4**  the Lord appeared on the way […] the people
+`the_Lord appear on-way [?]-[?] people`
+
+**5**  to Jerusalem; fourthly the Lord appeared to two apostles; then the two
+`on-Jerusalem in_turn-two-two the_Lord appear two apostle then two`
+
+**6**  apostles went, on the Sunday, out of Jerusalem, into one […]; and
+`apostle and go inside Sunday on-Jerusalem inside one in_turn-chapter-in_turn and`
+
+**7**  the name of that […] was Emmaus; in turn the apostles | and the
+`[?]-+name in_turn-chapter-in_turn exist Emmaus in_turn apostle | and-exist-chapter`
+
+**8**  names of that day were Luke and Cleopas; and there was […] one
+`day-+name exist Luke and Cleopas and ~exist-[?] one`
+
+**9**  apostle; this day's bread, and nine, and water; the Lord Jesus blessed;
+`apostle exist-today’s and exist-nine and water bless Lord-Jézus`
+
+**10**  on the Sunday the Lord appeared a fifth time, in Jerusalem, to the ten apostles | of
+`inside Sunday the_Lord five appear inside Jerusalem ten apostle | <of>`
+
+> Luke 24:13-18, Douay: *two of them went, the same day, to a town which was
+> sixty furlongs from Jerusalem, named Emmaus... And one of them, whose name
+> was Cleophas, answered.* Kiraly and Tokai's dictionary carries both Emmaus
+> and Cleopas. Luke names only Cleopas; the codex names the second traveller
+> as Luke himself, which is the old tradition and not the gospel.
