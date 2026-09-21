@@ -14232,3 +14232,397 @@ in Király & Tokai's dictionary, so the person is not named here.
 > gnashing of teeth.* The binding, the casting out, the weeping and the
 > gnashing are all here. The codex names the servant who does it **Gabriel**,
 > which no gospel does.
+
+## 203r — is it lawful to give tribute to Caesar?
+
+**1**  The Lord Jesus preached in Jerusalem, and the Jews came to him, | to the Lord
+`preach Lord-Jézus inside Jerusalem and to-leave Jew(ish) | to-Lord`
+
+**2**  Jesus; and then they said, they answered […] […] truly
+`Jézus and_then say answered-+say [?] [?] righteous(ly)`
+
+**3**  the man; and truly the Lord is a prophet, because truly in God's way
+`somebody and righteous(ly)-Lord prophet because righteous(ly) God way`
+
+**4**  the Lord goes; and the Lord has the king and the emperor
+`go-Lord and Lord ~have king and emperor`
+
+**5**  […] go; the Lord's name, to the apostles; how teachest thou? | Would
+`[?] go name-Lord on-apostle how? learn-+say-learn | want`
+
+**6**  the Lord take from what they would do? | […]
+`Lord grab from would_say* do, | [?]-[?]`
+
+**7**  He said: take from every man one drachma,
+`say grab from each,_every somebody on-one drachma.`
+
+**8**  the emperor, to the pagan; and they said: how teachest thou?
+`emperor to-of_an_alien_nation,_pagan and say-+say how? learn-+say-learn`
+
+**9**  Would the Lord take from what they would do? Said
+`want-Lord grab from would_say* do, say`
+
+> Matthew 22:16-17, Douay: *Master, we know that thou art a true speaker, and
+> teachest the way of God in truth... Tell us therefore, is it lawful to give
+> tribute to Caesar, or not?* The flattery and the question are both here,
+> and K&T's own dictionary carries the drachma.
+
+## 203v — whose image and superscription?
+
+**1**  the Lord Jesus: bring the Lord the tax; and they brought it
+`Lord-Jézus carry-+say Lord tax and carry-+say`
+
+**2**  before the Lord Jesus; and then the Lord Jesus: whose is this
+`before Lord-Jézus and_then Lord-Jézus Whose?-+<subject> this`
+
+**3**  image? Said the Jews: this is the inscription, the image.
+`shape,_form say Jew(ish) this_is inscription* shape,_form`
+
+**4**  And then the Lord Jesus: whose is this writing? Said
+`and_then Lord-Jézus Whose?-+<subject> this write say`
+
+**5**  the Jews: this is the inscription, the writing. And then | the Lord
+`Jew(ish) this_is inscription* write and_then | Lord`
+
+**6**  Jesus: this is the inscription, the image; and the inscription,
+`Jézus this_is inscription* shape,_form and inscription*`
+
+**7**  the writing; this inscription, from town to town, leave it. And then | the Lord
+`write this inscription* from_town_to_town* leave and_then | Lord`
+
+**8**  Jesus: the brethren […] owe the inscription […]
+`Jézus brethren-[?] indebted inscription* [?]`
+
+**9**  to the emperor, take it; in turn | love, they said, the apostles;
+`emperor grab-[?] in_turn | love-+say-apostle`
+
+> Matthew 22:20-21, Douay: *Whose image and inscription is this? They say to
+> him: Caesar's. Then he saith to them: Render therefore to Caesar the things
+> that are Caesar's; and to God, the things that are God's.* The codex asks
+> the question twice, once of the image and once of the writing, which is its
+> own doubling and not Matthew's.
+
+## 204r — render to God the things that are God's
+
+**1**  the man owes God; this, God, take it.
+`somebody indebted God this God grab-[?]`
+
+**2**  And then the Lord Jesus: he that believeth not […]
+`and_then Lord-Jézus exist not_believe-[?]`
+
+**3**  the inscription, and God; and a man, from what he owes, as therefore
+`inscription* and God and somebody from indebted as* therefore*`
+
+**4**  he takes, likewise he owes.
+`grab-[?] likewise* indebted-[?]`
+
+**5**  Here ends this holy gospel. Said the Lord Jesus: there is
+`end this holy-gospel say Lord-Jézus exist-[?]`
+
+**6**  humble, the chief, the inscription, this world; and
+`humble head [?]-?inscription-[?] this world* and`
+
+**7**  take it, the inscription, which
+`grab-[?] [?]-?inscription-[?] who`
+
+**8**  he said; and he owes it, because this
+`say-[?] and indebted-[?] because this`
+
+**9**  from the inscription, you […]
+`from [?]-?inscription-[?] you [?]`
+
+## 204v — what a man owes the Church
+
+**1**  from the heavenly faith, baptized, a man remits; the alien nation,
+`from heavenly* believe [?]-[?]-+baptize somebody remit of_an_alien_nation,_pagan`
+
+**2**  out; believe, baptized, a man; and | the apostles,
+`out(ward) believe [?]-[?]-+baptize somebody and | [?]-apostle`
+
+**3**  the man; and the emperor, the king | humble, they said, the apostles;
+`somebody and [?]-+emperor-king | humble-+say-apostle.`
+
+**4**  the man; and he owes the Church, this man,
+`somebody and indebted-[?] church this somebody`
+
+**5**  […] in turn, upon, to many churches; and
+`[?] in_turn on on-many church and`
+
+**6**  of […] the Lord, the earth; in turn, before, secondly
+`<of>-[?] Lord earth in_turn before two`
+
+**7**  they said, he owes the Church, this man, upon
+`say-[?] indebted church this somebody on`
+
+**8**  […] before the man's spirit, from the Father; and the Father, this
+`[?] before <of>-somebody spirit from-father and father this`
+
+**9**  man, the way he makes before the Lord | the Father
+`somebody way do, before <of>-Lord | from-father`
+
+## 205r — fasting, the ten commandments, and thanks
+
+**1**  God; thirdly, they said, he owes, take | of
+`<divine> third say-[?] indebted grab | <of>`
+
+**2**  the man's fast, and the man's prayer, and the ten commandments
+`somebody-fast and <of>-somebody as* and ten commandment`
+
+**3**  of the Lord's Father God; and he owes to kneel down
+`<of>-Lord from-father-<divine> and indebted-[?] kneel_(down)`
+
+**4**  before the Lord's Father God […] and
+`before <of>-Lord from-father-<divine> [?] and`
+
+**5**  the man owes the Lord prayer, at home, in humility, the Lord's pleasing
+`indebted-somebody Lord as* home-+humble Lord pleasing`
+
+**6**  and thanks afterward; and to the Lord all heaven and earth;
+`and thanks afterward* and to-Lord each,_every heaven land`
+
+**7**  and a man takes the chief, the Lord, from the emperor, the king,
+`and somebody grab head Lord from emperor king`
+
+**8**  the world, he who owes; the man who believeth not,
+`world he_who* indebted somebody exist not_believe-somebody`
+
+**9**  every Lord and every emperor and every king, every believer
+`each,_every Lord and each,_every emperor and each,_every king each,_every believe`
+
+## 205v — Jericho
+
+**1**  baptized, the man […] of the Lord's Father God.
+`[?]-[?]-+baptize somebody [?] <of>-Lord from-father-<divine>`
+
+**2**  Here ends this holy gospel, and to the apostles the holy gospel. The Lord God, with all thy heart.
+`end this holy-gospel and on-apostle holy-gospel Lord-<divine> ?with_all_thy_heart`
+
+**3**  This holy gospel begins,
+`begins this holy-gospel`
+
+**4**  written by holy Luke, in
+`write holy-Luke inside`
+
+**5**  the ninth […] chapter of the writing:
+`nine [?] chapter <of>-write`
+
+**6**  the time, then,
+`time then-exist`
+
+**7**  the Lord Jesus, thirty, in one
+`Lord-Jézus thirty inside one`
+
+**8**  day; the time | the Lord
+`day time go | Lord`
+
+**9**  Jesus went into another town; and this town's
+`Jézus inside one another town and this town`
+
+**10**  name was Jericho; and then
+`name exist Jericho and then-exist`
+
+> Luke 19:1: *And entering in, he walked through Jericho.* The next folios are
+> Zacchaeus, whose name K&T's dictionary carries in three spellings and which
+> this project read a fourth of.
+
+## 206r — Zacchaeus climbs the tree
+
+**1**  the Lord Jesus kept going, the town of Jericho; and then in
+`keep_going Lord-Jézus Jericho town and then-exist inside`
+
+**2**  Jericho there was one chief tax collector, and
+`Jericho one tax_collector head and.`
+
+**3**  the man's name was Zacchaeus;
+`[?]-+name somebody exist Zacchaeus`
+
+**4**  and then he was seen, the Lord Jesus going into Jericho;
+`and then-exist Lord see-+say go Lord-Jézus inside Jericho`
+
+**5**  and Zacchaeus could not see the Lord Jesus,
+`and Lord can see Zacchaeus Lord-Jézus`
+
+**6**  but from […] Zacchaeus, this many people;
+`a) from [?] Zacchaeus this many people`
+
+**7**  and he climbed up one tree, because […]
+`and go_up one creatures* because [?]`
+
+**8**  Zacchaeus […] the Lord Jesus went; and then
+`Zacchaeus [?]-go Lord-Jézus and then-exist`
+
+**9**  the Lord Jesus came to this tree, and the Lord Jesus saw
+`go Lord-Jézus to-this creatures* and see Lord-Jézus`
+
+> Luke 19:2-4, Douay: *And behold, there was a man named Zacheus: and he was
+> the chief of the publicans, and he was rich. And he sought to see Jesus who
+> he was, and he could not for the crowd, because he was low of stature. And
+> running before, he climbed up into a sycamore tree, that he might see him.*
+> The crowd, the not seeing, and the climbing are all here.
+
+## 206v — make haste and come down
+
+**1**  Zacchaeus sitting upon this tree;
+`Zacchaeus sit on-this creatures*`
+
+**2**  and then the Lord Jesus: Zacchaeus, come down,
+`and_then Lord-Jézus Zacchaeus go to-down`
+
+**3**  for this Lord must be today in Zacchaeus's
+`this-Lord today exist-Lord inside <of>-Zacchaeus`
+
+**4**  house, that day, the Lord; and with joy he left,
+`house [?]-+day-Lord and joy leave-chapter-leave.`
+
+**5**  Zacchaeus; and he came down, this
+`Zacchaeus and go down this.`
+
+**6**  Zacchaeus; and the Lord and the apostles, Jesus, went into
+`Zacchaeus and go-Lord-apostle-Jézus inside`
+
+**7**  Zacchaeus's house; and | from
+`Zacchaeus [?]-+who-to house and | from`
+
+**8**  the name of the Lord Jesus, that day, the Lord sat; and they began
+`name Lord-Jézus [?]-+out-+day sit-Lord and begin-+say`
+
+**9**  to murmur against the Lord Jesus, the chief men of the Jews, saying:
+`murmur on-Lord-Jézus Jew(ish) head this-Lord say`
+
+> Luke 19:5-7, Douay: *Zacheus, make haste and come down; for this day I must
+> abide in thy house. And he made haste and came down; and received him with
+> joy. And when all saw it, they murmured, saying, that he was gone to be a
+> guest with a man that was a sinner.* The murmuring is on line 9 and the sign
+> for it is K&T's own.
+
+## 207r — the half of my goods I give to the poor
+
+**1**  the Son of God, in turn, with one sinner, from one
+`son God in_turn one sin from-one`
+
+**2**  […] one extortioner; and he left afar | the name of Jerusalem,
+`[?] one extort and leave far | name-Jerusalem`
+
+**3**  Zacchaeus; and then Zacchaeus:
+`Zacchaeus and_then Zacchaeus`
+
+**4**  Master, this Zacchaeus takes the half,
+`Master this-Zacchaeus half grab`
+
+**5**  the half truly, of Zacchaeus's riches, to God,
+`half-righteous(ly) <of>-Zacchaeus ~rich God`
+
+**6**  the spiritually blind, truly the half; in turn he left afar one
+`spiritually blind righteous(ly)-half in_turn leave far one`
+
+**7**  among you, in turn, Jerusalem […] | take,
+`among you in_turn-chapter-Jerusalem [?] | grab`
+
+**8**  Jerusalem, one denarius; upon the extortion, Jerusalem would, the man,
+`chapter-Jerusalem one denarius on-extort want-chapter-Jerusalem somebody`
+
+**9**  to every one, two by two, take; and the Lord Jesus saw that he himself was
+`to-each,_every two-two grab and see Lord-Jézus he_is*`
+
+> Luke 19:8, Douay: *Behold, Lord, the half of my goods I give to the poor;
+> and if I have wronged any man of any thing, I restore him fourfold.* The
+> half, the wronging, and the restoring are all here, and the restitution is
+> reckoned in denarii, which is the codex's own money.
+
+## 207v — this day is salvation come to this house
+
+**1**  truly a son of father Abraham; and then the Lord Jesus: | Zacchaeus,
+`righteous(ly) son father Abraham and_then Lord-Jézus | Zacchaeus`
+
+**2**  Zacchaeus, have it, because this day, in Zacchaeus's
+`Zacchaeus have because this-[?]-+name today inside <of>-+Zacchaeus`
+
+**3**  house is salvation, Zacchaeus's; because the Lord, this Lord,
+`house be_saved <of>-+Zacchaeus because Lord this-Lord`
+
+**4**  truly the Son of the living God; and then the Lord Jesus to the chief men of the Jews:
+`righteous(ly) son living God and_then Lord-Jézus Jew(ish) head`
+
+**5**  take the commandment; Zacchaeus, therefore, the Lord to this, this Lord
+`grab-+say commandment Zacchaeus therefore-Lord to-this this-Lord`
+
+**6**  went into this world, who is, this Lord, sin […] […] | but
+`go-Lord on-this world* who-exist this-Lord sin [?] [?] | a)`
+
+**7**  the Lord, this Lord went, who is, this Lord, sin; the Lord loves; and the Lord, the sinful
+`Lord this-Lord go-Lord who-exist this-Lord sin love-Lord and Lord sin`
+
+**8**  man; and […] of the Lord, the sinful man is saved,
+`man* and [?] <of>-Lord be_saved sin-somebody exist`
+
+**9**  and the Lord is pleased; and the sinful man gives thanks. Here ends this holy gospel. The Lord God,
+`and Lord pleasing and thanks grab sin-somebody end this holy-gospel Lord-<divine>`
+
+> Luke 19:9-10, Douay: *This day is salvation come to this house, because he
+> also is a son of Abraham. For the Son of man is come to seek and to save
+> that which was lost.* Abraham is on line 1 and the coming to save the sinner
+> on lines 6-7.
+
+## 208r — what Zacchaeus signifies
+
+**1**  with all thy heart. This Zacchaeus is every chief among sinners,
+`with_all_thy_heart* this Zacchaeus exist each,_every sin-somebody head`
+
+**2**  and every tax collector, and every man who takes from the sinner, in mercy,
+`and each,_every tax_collector and each,_every somebody from-grab somebody-sin inside have_mercy.`
+
+**3**  the Lord God; and every sinful man, and the sinner in love, the Lord God; and every
+`Lord-<divine> and each,_every somebody-sin and somebody-sin inside love Lord-<divine> and each,_every`
+
+**4**  sinful man truly, and the sinner in truth, the Lord God, that is;
+`somebody-sin righteous(ly) and somebody-sin inside righteous(ly) Lord-<divine> that_is`
+
+**5**  and the sinner bears the law of God — this is truly the law of the Lord God;
+`and somebody-sin carry law God this_is righteous(ly) law Lord-<divine>`
+
+**6**  and this Zacchaeus is mercy, God, the spiritually
+`and this Zacchaeus exist have_mercy God spiritually`
+
+**7**  blind; and this Zacchaeus loves the Lord God most high, all creation,
+`blind and this Zacchaeus love Lord-<divine> high each,_every create`
+
+**8**  and every man, as a man his neighbour; and this
+`and each,_every somebody how?-to somebody neighbour* and this`
+
+**9**  Zacchaeus is in the truth, the law of the Lord God, that is, | bearing
+`Zacchaeus exist inside righteous(ly) law Lord-<divine> that_is | carry`
+
+## 208v — the first three commandments
+
+**1**  the commandment of God, he who is; take it, in the word of the Old Testament, | from
+`<subject>-[?] commandment God he_who* exist grab inside <OT> word | from`
+
+**2**  father Abraham. The first commandment of God: believe, man, truly,
+`father Abraham first God commandment believe somebody righteous(ly)`
+
+**3**  baptized; one God saves a man, to many | not,
+`[?]-[?]-+baptize one God be_saved somebody to-many | not`
+
+**4**  not, not; the man's is heaven and earth. The second law,
+`not-not <of>-somebody <subject> heaven land two law`
+
+**5**  take it in the word of the Old Testament, from father Abraham: God's
+`exist grab inside <OT> word from-father Abraham God`
+
+**6**  name take not in vain. The third law, take it
+`name in_vain grab three law exist grab`
+
+**7**  in the word of the Old Testament, from father Abraham: a man shall,
+`inside <OT> word from-father Abraham shall somebody`
+
+**8**  truly, baptized, the holy Sunday and the feast, this holy man, from
+`righteous(ly) [?]-[?]-+baptize holy-~Sunday and feast holy-this-somebody from*`
+
+**9**  the mother, the temple; let a man hear the preaching, of […]
+`mother temple preach hear-somebody <of>-[?].`
+
+> The Decalogue, beginning. Exodus 20:3-8, Douay: *Thou shalt not have strange
+> gods before me... Thou shalt not take the name of the Lord thy God in
+> vain... Remember that thou keep holy the sabbath day.* The codex attributes
+> them to "father Abraham" rather than Moses, which is its own slip and one it
+> makes more than once.
