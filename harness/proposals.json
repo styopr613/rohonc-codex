@@ -4967,5 +4967,83 @@
   "tier": "C",
   "n": 2,
   "evidence": "This is one of a family the codex builds on 9a2670: 5200609a2670690, which this project reads as 'child' from Augustine and the boy by the sea on 084v and Elijah on 086r, 5400609a2670a82 where the ending is K&T's a82 'little', 5400609a2670574 and 5200609a2670574 where it is their 574 'living', and 5400609a2670890. They differ only in the prefix (520060 / 540060) and the ending, which is how this script writes one word in several forms. Read as 'child'. Tier C, and the chain is worth saying plainly: the core 9a2670 is not itself read by K&T, and the family's anchor is this project's own tier-C reading of the 690 form, not theirs. Occurrence(s): 010v:1 '<<[x]>> son speak-~son [?] this-Lord <preposition_of_genitive>-+say king +and_then'; 010v:2 'Lord-Jézus then-exist this each,_every this <<[x]>> son ?therefore speak'"
+ },
+ "5ee990990990969": {
+  "gloss": "six_hundred",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It begins with K&T's 5ee 'six'. 159r:6: 'hundred, and [x], and sixty, and six, the evil, evil, and how?' The folio is the two men with devils, Matthew 8:28-34, and the codex numbers the devils six hundred and sixty and six -- the number is spelled out across the line with the codex's own numerals and K&T's 'hundred' and 'six' on either side of this sign."
+ },
+ "6308f08f0760": {
+  "gloss": "hell",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It ends with K&T's 8f0760 'hell'. 001r:9: 'the divine name, from the eternal, the brother, [x], and seven, said'."
+ },
+ "6307963c4962": {
+  "gloss": "deadly_sin",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It holds K&T's 796 'dead; death; die; kill' and 3c4 'sin' one after the other. 001r:7: 'Elijah, and this [x], afterward, Lucifer'. The two elements together are the deadly sin, which is what the opening folios are about."
+ },
+ "520444a101f2": {
+  "gloss": "kiss",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It begins with K&T's 520444a10, which this project already reads as 'kiss'. 016r:1: 'writes holy Luke, the sixth throne, of the writing, from, remain, [x]'."
+ },
+ "520151520390": {
+  "gloss": "remain",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It begins with 520151, read as 'remain'. 035v:9: 'rise, the Jews, again, and the two cried, the Lord Jesus, [x], search'."
+ },
+ "520151520391": {
+  "gloss": "remain",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. The same word as 520151520390 with the last element spelled 391 instead of 390. 036r:6: 'Jesus [x], search, of the Lord, the Jews'."
+ },
+ "574a10003a10877": {
+  "gloss": "whosoever_liveth",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It is K&T's 574 'cattle; life; live; living; living being' followed by a10003a10, which this project reads as 'whosoever'. 191v:2: 'to be, this joy, the Lord would, on the judgment year, judge, [x]'. Douay John 11:26: 'And every one that LIVETH and believeth in me, shall not die for ever.'"
+ },
+ "a109d31f27a0ae0": {
+  "gloss": "father",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It holds K&T's 9d3 'father; forefather'. 141v:7: 'inside Rome, [x]'."
+ },
+ "5204b0520ae05ec": {
+  "gloss": "say",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It holds K&T's 4b0 'say'. 107r:4: 'the Samaritan, and then this, the Jews, [x]'."
+ },
+ "060540ae0233": {
+  "gloss": "exist",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It is K&T's 060 'one' and 540ae0 'exist' with 233 after. 031v:3: '[x], and see the Lord Jesus, this'."
+ },
+ "520060990990": {
+  "gloss": "rather",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It is K&T's 520060990 'rather' with a further 990. 030v:2: 'to the Lord, see, how, this Lord, you, as, from [x]'."
+ },
+ "569afa812080": {
+  "gloss": "Joachim",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. It holds afa812, which is the middle of afa060812080, K&T's 'Joachim (the father of the Virgin Mary)'. 016v:9: 'food, this Joachim, who is, [x], go' -- their own full spelling of the name stands on the same line, and the folio is the Joachim legend."
+ },
+ "521afa812080": {
+  "gloss": "Joachim",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktcover.py. The same as 569afa812080 with a different first element -- K&T read 569 as a personal pronoun and 521 as a case marker, so this is the same name in another case. 019r:9: 'inside the chapter, [x], to Mary, and this aged one'."
  }
 }
