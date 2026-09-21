@@ -24,9 +24,10 @@ BAR B -- do undeclared one-glyph neighbours sit where the defined code sits?
 WHAT IS READ
 ==========================================================================
   K&T's declared variants (theirs, no test)      88 types    356 tokens
-  K&T's variants stated as a rule (theirs)       44 types    238 tokens
+  K&T's variants stated as a rule (theirs)      234 types    778 tokens
+    (this line also counts listed variants beyond the first three fragments, kt-list)
   inferred one-glyph variants                     0 types      0 tokens  (gate failed)
-  book coverage   77.6%  ->   79.5%
+  book coverage   77.6%  ->   81.3%
 
       n  code                      read as
      76  e540 e060 e540 eae0       man   [K&T var.]
@@ -41,17 +42,17 @@ WHAT IS READ
       8  e991 eae1                 a)   [K&T var.]
       8  ea91                      begin   [K&T var.]
       7  e520 eb7c                 ask (for)   [K&T var.]
+     56  e531 eae0                 exist   [K&T var. by rule]
+     50  e520 e060 e131            baptize   [K&T var. by rule]
      35  e520 eae0 e850 e270 eae0  act   [K&T var. by rule]
+     28  eae0                      day   [K&T var. by rule]
+     27  e520 eb7b                 ask (for)   [K&T var. by rule]
      23  e3c4                      sin   [K&T var. by rule]
      23  e540 eae0 e520 e250       emperor   [K&T var. by rule]
      17  e670 eb06                 birth   [K&T var. by rule]
      11  e00b e520 eae0 e520 eae0  beg   [K&T var. by rule]
+     11  ea10 e003 ea10            we   [K&T var. by rule]
+     10  e570 e670 eae0            sheep   [K&T var. by rule]
      10  e812 e670 eae0 e520 eae0  land   [K&T var. by rule]
       9  e00b e670 eae0 e520 eae0  beg   [K&T var. by rule]
-      8  e271 e670 eae0 e271 e670 eae0  army   [K&T var. by rule]
-      8  e681 eae0 e520 e250       emperor   [K&T var. by rule]
-      7  e520 eae0 e520 eae0 ea10 e1f6  body   [K&T var. by rule]
-      7  e670 eae0 e520 e850       exorcise   [K&T var. by rule]
-      7  e6e4 e624                 Golgotha   [K&T var. by rule]
-      6  e520 e6e4 e624            Golgotha   [K&T var. by rule]
-      5  e520 eae0 e670 eae0       friend   [K&T var. by rule]
+      9  e520 e060 e131 e520       woman   [K&T var. by rule]

@@ -9,15 +9,15 @@ words                           29997
   several senses                14233   47.4%
   by composition                 5811   19.4%
     every part one sense           52
-  their variant spelling          595    2.0%
-  no reading                     5918   19.7%
+  their variant spelling         1140    3.8%
+  no reading                     5373   17.9%
 lines                            4372
-  every word read                1110   25.4%
+  every word read                1267   29.0%
 
 WITH THIS PROJECT'S PROPOSED READINGS (tiers A and B), marked +word
-  proposed here                  3579   11.9%
+  proposed here                  3487   11.6%
   GUESSED here (tier G)           978    3.3%
-  no reading                       59    0.2%
-  lines with every word read     3558   81.4%
-  lines complete incl. guesses   4318   98.8%
+  no reading                       51    0.2%
+  lines with every word read     3564   81.5%
+  lines complete incl. guesses   4326   98.9%
 wrote /home/ubuntu/voynich/work/rohonc/translation/rohonc_reading_plus.txt

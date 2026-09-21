@@ -796,8 +796,17 @@ may be written 060 or left off altogether. The reader of the dictionary
 applies the rule in their head. This project's loader could only read listed
 codes, so every spelling covered by a rule and by no list went unread — and
 two of them, twenty occurrences of their word for *pray*, had been guessed at
-here and read as *as*. `ktvariant.by_rule()` now expands the rules. 44 more
-types, 238 tokens, all of it theirs.
+here and read as *as*. `ktvariant.by_rule()` now expands the rules.
+
+The same day a second loader fault came out. The loader read only the first
+three fragments after a "var." mark, which is one or two spellings; the tree
+entry lists nine and the entry for *do* lists four. Everything past the
+third fragment was never seen. `ktvariant.declared_full()` now walks the
+whole bracket, skipping cross-references, emendation notes and rules.
+Together the two fixes reach 234 more types, 778 tokens, all of it theirs —
+and they overturned eleven readings entered here, among them 54 occurrences
+of *therefore* that are their copula, and 34 of *afterward* that are their
+*do*.
 
 Five readings entered here turned out to be words that rule already covered,
 and all five were wrong. The largest was 34 occurrences read as *afterward*
@@ -835,7 +844,7 @@ bar B is not a result either way. Nothing is inferred. The 98 neighbours, 926
 tokens, 3.1% of the book, stay unread. The signal in both rows is real and
 points the right way, and the bar is the bar.
 
-Coverage goes from 77.6% to 79.5%, all of it theirs. Saved run:
+Coverage goes from 77.6% to 81.3%, all of it theirs. Saved run:
 `work/rohonc/ktvariant.txt`.
 
 ## The fifteenth and sixteenth: working backwards from the parts that are right
@@ -957,10 +966,10 @@ whole page of that does not read. Their order gives *sun and moon write*,
       one sense                     3440   11.5%
       several senses               14233   47.4%
       by composition                5811   19.4%
-      their variant spelling         595    2.0%
-      no reading                    5918   19.7%
+      their variant spelling        1140    3.8%
+      no reading                    5373   17.9%
     lines                           4372
-      every word read               1110   25.4%
+      every word read               1267   29.0%
 
 Those are the coverage figures of the previous sections, seen from the
 page, with the declared variants, the variants their rules license, and the
@@ -1208,16 +1217,16 @@ does and what the reference corpus was rebuilt from.
 produced none. What produces them is Kiraly and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
-in the book and keep it only if it survives all of them. 1773 signs are read
+in the book and keep it only if it survives all of them. 1766 signs are read
 this way in `harness/proposals.json`, each with the folio and line of its
-decisive occurrences, graded A, B, C or D. 491 are tier A, twenty of them
+decisive occurrences, graded A, B, C or D. 490 are tier A, twenty of them
 stroke numerals entered whole by their composition rule. They include the tally
 numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
 they can never be mistaken for Kiraly and Tokai's, they take the share of
-lines where every word is read from 23.8% to **81.4%**.
+lines where every word is read from 23.8% to **81.5%**.
 
 **The book writes the creation twice, line for line.** Folios 121v-123r are
 the same text as 002v-003v, sentence for sentence in the same order: the

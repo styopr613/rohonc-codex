@@ -288,8 +288,8 @@
   "tier": "G"
  },
  "060060443520": {
-  "evidence": "follows 'God the Father' eight times (002r:3,5,8,9; 034r:2,9; 050v:11; 103r:8), which suits 'eternal' or 'almighty'; but it also stands before 'land' six times (058v:2, 187r:1, 195r:3, 196r:3, 198v:9, 100r:1), and 'the eternal land' is the only reading that covers both",
-  "gloss": "eternal",
+  "evidence": "Twenty-four occurrences, eight of them straight after 'God the Father'. It was read 'eternal'. The sign is the heaven root: K&T's headword 520060060443520 is 'heaven', and their expression '060060443520 152', this sign with their high after it, is 'the high heavens', cited by them at 034v01, 085v09, 087r10, 133v08 and 010r02. 'God the Father of heaven' -- the heavenly Father -- is what the eight lines say. Corrected 2026-09-21 when the blindfold consequence pass re-read the passage-read tier C list; the earlier gloss came from the sense of the line and the right word was in their dictionary all along.",
+  "gloss": "heaven",
   "n": 24,
   "tier": "C"
  },
@@ -480,10 +480,10 @@
   "tier": "G"
  },
  "072": {
-  "evidence": "058v:4. Kiraly and Tokai quote a long sentence under their baptize headword, 072v02-05: 'those who get baptized in the name of the Father, the Son and the Holy Spirit, and believe in me, are ALL saved'. Its last five codes are 520b7a 072 a10003a10060 670ae0877 -- believe, 072, somebody, saved -- and our transcription of those same lines has 071 where they print 072. 071 is their own 'each, every', and their English for the slot is ALL. So 072 is that word written with one glyph differently. Our standalone occurrence is at 058v:4, the Harrowing of Hell: 'brought out three souls, ALL out to go, the souls of the Lord'. We had guessed 'and then'. Tier C and not higher: the identification of the sign is ours, drawn from their transcription differing from ours by one glyph, and this line is the only place it stands alone.",
+  "evidence": "058v:4. Moved from tier C to tier D on 2026-09-21 by the declared consequence of the blindfold test, run clean the same day by a reader who had not seen the dictionary: 4 of 24, 16.7%, in the 15-30% band whose consequence is that passage-read tier C readings become tier D. This is the one such reading entered after that consequence was first applied. The reading itself is unchanged: Kiraly and Tokai quote a sentence under their baptize headword, 072v02-05, whose last five codes are believe, 072, somebody, saved, with their English 'are ALL saved', and our transcription of those lines has 071, their 'each, every', where they print 072. Our standalone occurrence is the Harrowing of Hell: 'brought out three souls, ALL out to go'. One line stands alone, and the sign identification is ours.",
   "gloss": "every",
   "n": 1,
-  "tier": "C"
+  "tier": "D"
  },
  "072a10a10060": {
   "evidence": "Found by ktinside.py --rev. This sign ends with a10060, which K&T read as 'look; make seen; see; seem; show', leaving 072a10_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 223v:5 '?from [?] then-exist exist [?]-+day in_turn <<[x]>> ?and_then'",
@@ -3095,12 +3095,6 @@
   "n": 1,
   "tier": "A"
  },
- "5202da2da": {
-  "evidence": "CORRECTED 2026-09-21 from 'creatures' by ktharden.py. It was read from the crucifixion darkness at 052v:3 and 058r:1, 'this darkened, and all [x] bowed', two lines before 'all creation mourned'. Those lines do not refuse a creature, but three others refuse it outright and they are one passage with a citation: 206r cites Luke 19:2-4 and 206v Luke 19:5-7, Zacchaeus. 206r:7 'and climbed up one [x], because he was little of stature' is Luke 19:4, the sycomore; 206r:9 'Jesus went to this [x]'; 206v:1 'Zacchaeus sat on this [x]', and 206v:2 has Jesus tell him to come DOWN. A creature is not climbed, sat in, or come down from. It is a tree. Corroborating the spelling, this project already reads 2db2daae0 as 'tree' and the two share the 2da element. Tier C and not higher: Luke 19 is one passage, and the three crucifixion occurrences plus 145r:2 are consistent with a tree without testing it. Prior gloss and evidence: {\"evidence\": \"both occurrences are the darkness at the crucifixion: 'this darkened, and all [creatures] bowed' 052v:3 and 058r:1, two lines before 'all creation mourned'\", \"gloss\": \"creatures\", \"n\": 7, \"tier\": \"C\"}",
-  "gloss": "tree",
-  "n": 7,
-  "tier": "C"
- },
  "5202e3": {
   "evidence": "181v:5 'Jesus, Thomas, go-name [x] put Thomas's FINGER', on the folio citing John 20:27: 'Put in thy finger HITHER, and see my hands'. The finger is read in the same line; 'hither' is free. GUESS.",
   "gloss": "hither",
@@ -4440,10 +4434,10 @@
   "tier": "C"
  },
  "520b7b": {
-  "evidence": "stands where K&T's 'believe' stands in the identical formula (019r:2 vs 027r:10); 'we do not doubt.. we [believe]' 137v:5; '[faith], love, hope' 161r:6 = 1 Cor 13:13",
+  "evidence": "Twenty-seven occurrences, read as BELIEVE: it stands where K&T's believe stands in the identical formula (019r:2 against 027r:10), in 'we do not doubt, we believe' at 137v:5, and in 'faith, love, hope' at 161r:6, 1 Corinthians 13:13. Downgraded from A to B on 2026-09-21 because K&T's entry for 520b76 'ask (for)' lists this exact spelling among its variants, cited at 093v07, 134v05, 176r07 and 176r08, with the note 'but cp. believe (1) & (2)' -- they saw the same resemblance and chose ask. At 134v:5, Matthew 18:26, 'the servant BESOUGHT him ... and forgave him the debt', their word reads better than ours. Not withdrawn: their listing carries a compare-note, the formula match at 019r/027r is theirs, and most of the twenty-seven read as believe. Recorded as a live disagreement with the dictionary.",
   "gloss": "believe",
   "n": 27,
-  "tier": "A"
+  "tier": "B"
  },
  "520b7da10003a10060": {
   "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with 520b7dthe man-word. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 087r:2 'God <<[x]>> each,_every somebody +be_saved and one'",
@@ -4546,12 +4540,6 @@
   "gloss": "not_damned",
   "n": 1,
   "tier": "A"
- },
- "531ae0": {
-  "evidence": "a clause connective in all 54 places: therefore we believe 131v:6, therefore we shall be saved 139v:3, Enoch the prophet and Moses therefore said 215v:8, and 531370 is it plus sake. The connective role is certain from position; the exact value is not, and thus or so fit the same slots DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
-  "gloss": "therefore",
-  "n": 54,
-  "tier": "D"
  },
  "531ae09f3": {
   "evidence": "173r:5, on the folio citing Matthew 25:15. CORRECTION: first guessed 'five_talents', which repeated a word already standing beside it in the line -- 173r:5, Matthew 25:15; 'five' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour.",
@@ -5368,12 +5356,6 @@
   "gloss": "in_purple",
   "n": 1,
   "tier": "G"
- },
- "540ae0850270ae0": {
-  "evidence": "the same shape as 520ae0850270ae0 already read as afterward, in the same narrative slot: after the supper 063v:8, after Nicodemus 054r:8",
-  "gloss": "afterward",
-  "n": 4,
-  "tier": "C"
  },
  "540ae0a10ae01f6": {
   "evidence": "'a blind soldier of Jerusalem, who [was named] — that soldier was Longinus' 052v:5-6; 'two merciful men of Jerusalem, who [was named] .. and the second Nicodemus' 053v:2. The third occurrence, 054r:5, does not fit and keeps this at C",
@@ -6222,8 +6204,8 @@
   "tier": "C"
  },
  "630060060443520": {
-  "evidence": "630 prefixed to 060060443520, read as eternal above: 'the angel came [from the eternal] on high, God the Father' 034v:1",
-  "gloss": "from the eternal",
+  "evidence": "Thirteen occurrences: 630, K&T's 'on, at, from', prefixed to 060060443520, which is their heaven root (their 520060060443520 is heaven and their expression 060060443520 152 is 'the high heavens'). It was read 'from the eternal' when the root was read 'eternal'; both corrected together on 2026-09-21. 'The angel came from heaven, on high, God the Father'.",
+  "gloss": "from_heaven",
   "n": 13,
   "tier": "C"
  },
@@ -6298,12 +6280,6 @@
   "gloss": "anointed",
   "n": 1,
   "tier": "B"
- },
- "630340ae0": {
-  "evidence": "the same line twice on the Seth pages: 'through the light [anointed], through the eye the blind Adam sees' 006r:2, 006r:10, with the angel giving oil two lines later at 006v:2",
-  "gloss": "anointed",
-  "n": 4,
-  "tier": "C"
  },
  "630360520060234": {
   "evidence": "Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It ends with K&T's 520060234 'crucify; execute'. 112r:2: 'there was the head, [x], the head, and said, can'.",
@@ -8117,12 +8093,6 @@
   "n": 1,
   "tier": "G"
  },
- "7c1910": {
-  "evidence": "'[likewise] the evil tree gives evil' 065v:6 = Matthew 7:18 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
-  "gloss": "likewise",
-  "n": 7,
-  "tier": "D"
- },
  "7c2": {
   "evidence": "Three occurrences: 006r:5 'angel, and then God, angel, Seth [x] and go'; 033v:4 'holy John, from the Lord, trespass, from apostle [x]'; 079r:2. A speech verb fits all three and nothing narrower does.",
   "gloss": "answered",
@@ -9306,6 +9276,12 @@
   "n": 4,
   "tier": "withdrawn"
  },
+ "_withdrawn_5202da2da": {
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word, TREE. Their entry for the tree, headword 0d2520520324, lists this spelling by name, 5202da2da, cited at 052v03. The reading here was already 'tree', corrected earlier today from 'creatures', so nothing on the page changes; the confidence label does. Our variant loader never reached it, deep in a list of nine spellings, and now does.  Prior gloss and evidence: 'tree' -- CORRECTED 2026-09-21 from 'creatures' by ktharden.py. It was read from the crucifixion darkness at 052v:3 and 058r:1, 'this darkened, and all [x] bowed', two lines before 'all creation mourned'. Those lines do not refuse a creature, but three others refuse it outright and they are one passage with a citation: 206r cites Luke 19:2-4 and 206v Luke 19:5-7, Zacchaeus. 206r:7 'and climbed up one [x], because he was little of stature' is Luke 19:4, the sycomore; 206r:9 'Jesus went to this [x]'; 206v:1 'Zacchaeus sat on this [x]', and 206v:2 has Jesus tell him to come DOWN. A creature is not climbed, sat in, or come down from. It is a tree. Corroborating the spelling, this project already reads 2db2daae0 as 'tree' and the two share the 2da element. Tier C and not higher: Luke 19 is one passage, and the three crucifixion occurrences plus 145r:2 are consistent with a tree without testing it. Prior gloss and evidence: {\"evidence\": \"both occurrences are the darkness at the crucifixion: 'this darkened, and all [creatures] bowed' 052v:3 and 058r:1, two lines before 'all creation mourned'\", \"gloss\": \"creatures\", \"n\": 7, \"tier\": \"C\"}",
+  "gloss": "_withdrawn_",
+  "n": 7,
+  "tier": "withdrawn"
+ },
  "_withdrawn_5203f0": {
   "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read 'blind' on K&T's own hedge: their entry for the DOUBLED sign 5203f05203f0 carries 'suff? 5203f0 088r02'. But they gloss that doubled sign “pious poor” / pious beggar, not blind, so the root their citation points at is not the root this reading assumed. It fails at two occurrences and neither is arguable. 036v:3 'Lord Jesus, Peter, Peter [x], cut off, sword' is John 18:10 with Luke 22:51, and 036v:2 names Malchus in the line above: the thing Peter cut off with the sword is an ear, and there is no blindness in the passage. 088r:2 'or sat and [x], and asked' is the beggar of Luke 16:20 sitting and begging -- and 088r:1, the line above, ALREADY renders 'blind' from a different sign, so the slot is taken on that folio. NO REPLACEMENT IS ENTERED. Three candidates were tested and each fails elsewhere: 'poor' reads 088r:2 and Luke 7:22's 'to the poor the gospel is preached' at 102r:9, but 089v:11 is the RICH man lifting up his eyes, not the poor one; 'ear' reads 036v:3 exactly but not 088r:2; 'deaf' reads the miracle list at 102r:9 but nothing else. A word here must serve Malchus, the beggar and the miracle list at once and none of the three does. Prior gloss and evidence: {\"evidence\": \"their blind entry (5203f05203f0) gives 'suff? 5203f0 088r02'. Their question mark, one citation of seven occurrences\", \"gloss\": \"blind\", \"n\": 7, \"tier\": \"C\"}",
   "gloss": "_withdrawn_",
@@ -9324,6 +9300,12 @@
   "n": 35,
   "tier": "withdrawn"
  },
+ "_withdrawn_531ae0": {
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word. Their entry for 670ae0, the copula 'exist, there is', lists 531ae0 by name among its variant spellings with the note '(60x) e. g. 126v03'. It was read here as 'therefore' in all 54 places, which is what a copula standing at the head of a clause looks like when you do not know it is the copula. Our variant loader never reached it: it read only the first three fragments after their 'var.' mark and this spelling is the seventh in the list. declared_full() in ktvariant.py now walks the whole bracket, and the sign reads from their dictionary.  Prior gloss and evidence: 'therefore' -- a clause connective in all 54 places: therefore we believe 131v:6, therefore we shall be saved 139v:3, Enoch the prophet and Moses therefore said 215v:8, and 531370 is it plus sake. The connective role is certain from position; the exact value is not, and thus or so fit the same slots DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "gloss": "_withdrawn_",
+  "n": 54,
+  "tier": "withdrawn"
+ },
  "_withdrawn_540": {
   "evidence": "WITHDRAWN 2026-09-20. Its evidence was an inference, not a reading: Kiraly & Tokai gloss the DOUBLED sign as a future auxiliary, and the single sign was assumed to carry the same. It has only 4 occurrences of its own but entered the cut of 55 other words, 99 tokens, and most of those read as nonsense: shall-slide seven times, shall-day-one-daily four times, and at 063r:4 shall-day-today's where the word is plainly the daily bread of the Emmaus meal, the same word the codex uses in the Our Father. One cut was right, 540796 thou shalt die at 003r:6, and it is kept as a whole word. Where a rendering makes no sense it is more likely a wrong reading than a strange text.",
   "gloss": "shall",
@@ -9336,10 +9318,22 @@
   "n": 1,
   "tier": "withdrawn"
  },
+ "_withdrawn_540ae0850270ae0": {
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word. Their entry for 670ae0850270ae0 'do, make; deed, act' lists this spelling by name, 540ae0850270ae0, cited at 048r05, 051rc1:03, 054r08, 063v08 and 070r01. It was read here as 'afterward' on the strength of 520ae0850270ae0, which was itself withdrawn today as their DO. Our variant loader had never reached it: it read only the first three fragments after their 'var.' mark and this is the fourth spelling in the list. declared_full() in ktvariant.py now walks the whole bracket.  Prior gloss and evidence: 'afterward' -- the same shape as 520ae0850270ae0 already read as afterward, in the same narrative slot: after the supper 063v:8, after Nicodemus 054r:8",
+  "gloss": "_withdrawn_",
+  "n": 4,
+  "tier": "withdrawn"
+ },
  "_withdrawn_570": {
   "evidence": "WITHDRAWN 2026-09-20. Read as ark from its single occurrence at 008r:4, where the Lord tells Noah to make one and the next line gives three hundred cubits. But as a bare piece it entered the cut of six other words, none of which is about an ark: to-not-chapter-ark on 062r:5 in the middle of Abraham and Isaac, ark-the-day on 151v:4, ark-day on 224v:9. One right token against six wrong ones. A wrong reading pollutes more than a gap does, so it is removed rather than kept. RE-ENTERED at tier C after that withdrawal, glossed 'ark' again, on the evidence that K&T's 570520ae0 'ark' cites 008r04-05,07 and this sign heads that code and stands at 008r:4. WITHDRAWN A SECOND TIME 2026-09-21 by ktharden.py. The re-entry answered a question the withdrawal had not asked: it argued the sign is a truncated spelling of their word, and never addressed the reason it came out, which was blast radius. The sign stands inside 29 distinct word types and they are not arks -- a10570670ae0 sheep, 574570ae0 rejoiced, 570783 the veil, 540060890570 ox, 570211520 husks, 520b90570 Noah, 5208555705200607a0670 a hundred pence. At 067r:11 it printed 'chapter-ark-to' inside a citation formula. A piece this short is read through the words it feeds, and these refuse it.",
   "gloss": "ark",
   "n": 1,
+  "tier": "withdrawn"
+ },
+ "_withdrawn_630340ae0": {
+  "evidence": "WITHDRAWN 2026-09-21: K&T list 630340ae0 among the variant spellings of 914, their 'place, put; immediately'. It was read here as 'anointed' on the Seth pages, 'through the light ___, through the eye the blind Adam sees' -- which reads as well or better with their 'immediately'. Reached by the corrected variant loader.  Prior gloss and evidence: 'anointed' -- the same line twice on the Seth pages: 'through the light [anointed], through the eye the blind Adam sees' 006r:2, 006r:10, with the angel giving oil two lines later at 006v:2",
+  "gloss": "_withdrawn_",
+  "n": 4,
   "tier": "withdrawn"
  },
  "_withdrawn_670b06": {
@@ -9360,10 +9354,28 @@
   "n": 1,
   "tier": "withdrawn"
  },
+ "_withdrawn_7c1910": {
+  "evidence": "WITHDRAWN 2026-09-21: K&T list 7c1910 among the variant spellings of 8127c1, their 'if'. It was read here as 'likewise' from 'likewise the evil tree gives evil' at 065v:6, Matthew 7:18 -- 'IF the tree is evil'. Reached by the corrected variant loader; reads from their dictionary now.  Prior gloss and evidence: 'likewise' -- '[likewise] the evil tree gives evil' 065v:6 = Matthew 7:18 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "gloss": "_withdrawn_",
+  "n": 7,
+  "tier": "withdrawn"
+ },
+ "_withdrawn_a22a10": {
+  "evidence": "WITHDRAWN 2026-09-21: K&T list a22a10 by name under a30, their 'not far; opposite; over against; up', with an example at 005v11 -- which is our own line, 'all men were damned, from Adam ___ until Abraham', read here as 'onward'. Their word is on the page; ours was a paraphrase of it. Reached by the corrected variant loader.  Prior gloss and evidence: 'onward' -- 'all men were damned, from Adam [onward] until Abraham' 005v:11 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "gloss": "_withdrawn_",
+  "n": 5,
+  "tier": "withdrawn"
+ },
  "_withdrawn_a904f00300a2ae0": {
   "evidence": "WITHDRAWN 2026-09-21, completing a withdrawal that was written into the evidence but never carried out -- the entry was still live at tier G and still printing 'a numeral' on the page. The original guess, five thousand one hundred and ninety nine, was dropped because 5199 is spelled out in read signs on lines 9 and 10 of this same folio, so the guess added nothing. What replaced it, 'a numeral', has no support either: the sign is a90 4f0 030 0a2 ae0 and none of those is one of this book's number glyphs -- not the 060 tally, not 460 ten, not 5ee six, not b25 hundred, not 971 thousand. 223v:6 reads 'son, Moses, ___, from name year, first day' on the writer's calendar page. Withdrawn so the line prints an honest gap instead of a category that was itself a guess. The neighbouring 5eeb50092060650 on line 7 stays bracketed as a numeral, because that one does open with 5ee.  Prior gloss and evidence: 'a_numeral' -- 223v:6, one occurrence. WITHDRAWN 2026-09-21: previously guessed 'five thousand one hundred and ninety nine' from the folio note. 5199 is spelled out in READ signs on lines 9-10 of this same page (five_thousand + hundred-day + nine-ten + nine), so the guess added nothing and dressed an expectation as an anchor. It is a numeral compound of unread value.",
   "gloss": "_withdrawn_",
   "n": 1,
+  "tier": "withdrawn"
+ },
+ "_withdrawn_aca": {
+  "evidence": "WITHDRAWN 2026-09-21: K&T list aca among the variant spellings of aca670813, their 'you'. It was read here as 'is he' from 'whose son is he' at 067r:1, Matthew 22:42 -- where 'whose son, YOU' is their reading of the same slot. Reached by the corrected variant loader; reads from their dictionary now.  Prior gloss and evidence: 'is he' -- 'ask this of the Lord: whose son [is he]?' 067r:1 = Matthew 22:42 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "gloss": "_withdrawn_",
+  "n": 8,
   "tier": "withdrawn"
  },
  "_withdrawn_b26": {
@@ -9978,12 +9990,6 @@
   "n": 1,
   "tier": "G"
  },
- "a22a10": {
-  "evidence": "'all men were damned, from Adam [onward] until Abraham' 005v:11 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
-  "gloss": "onward",
-  "n": 5,
-  "tier": "D"
- },
  "a23a10060": {
   "evidence": "Found by ktinside.py --rev. This sign ends with a10060, which K&T read as 'look; make seen; see; seem; show', leaving a23_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 219r:6 'take_prisoner and ?whosoever-+<subject_marker> to-many [?] <<[x]>> and-brother-+name'",
   "gloss": "see",
@@ -10397,12 +10403,6 @@
   "gloss": "you",
   "n": 1,
   "tier": "A"
- },
- "aca": {
-  "evidence": "'ask this of the Lord: whose son [is he]?' 067r:1 = Matthew 22:42 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
-  "gloss": "is he",
-  "n": 8,
-  "tier": "D"
  },
  "ad09901f4": {
   "evidence": "their ? chair or seat entry lists this spelling at 044v09",

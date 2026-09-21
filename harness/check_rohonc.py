@@ -447,14 +447,14 @@ def main():
     check("rendering: by composition 5811 = 19.4%",
           len(g) == 2 and g[0] == 5811 and close(g[1], 19.4, .02) and "19.4%" in flat, str(g))
     g = nums(kt, "their variant spelling", 2)
-    check("rendering: declared variants 595 = 2.0%",
-          len(g) == 2 and g[0] == 595 and close(g[1], 2.0, .02) and "595" in flat, str(g))
+    check("rendering: declared variants 1140 = 3.8%",
+          len(g) == 2 and g[0] == 1140 and close(g[1], 3.8, .02) and "1140" in flat, str(g))
     g = nums(kt, "no reading", 2)
-    check("rendering: no reading 19.7%",
-          len(g) == 2 and close(g[1], 19.7, .02) and "19.7%" in flat, str(g))
+    check("rendering: no reading 17.9%",
+          len(g) == 2 and close(g[1], 17.9, .02) and "17.9%" in flat, str(g))
     g = nums(kt, "every word read", 2)
-    check("rendering: 1110 lines fully read = 25.4%",
-          len(g) == 2 and g[0] == 1110 and close(g[1], 25.4, .02) and "1110" in flat, str(g))
+    check("rendering: 1267 lines fully read = 29.0%",
+          len(g) == 2 and g[0] == 1267 and close(g[1], 29.0, .02) and "1267" in flat, str(g))
     kv = out("ktvariant.txt")
     g = nums(kv, "declared variants tested", 1)
     check("variants: 23 declared tested", bool(g) and g[0] == 23, str(g))
@@ -471,11 +471,11 @@ def main():
           len(sig) == 2 and close(sig[0], 1.8, .05) and close(sig[1], 4.8, .05)
           and kv.count("->  FAIL") == 2 and "1.8 sigma" in flat and "4.8 sigma" in flat, str(sig))
     g = nums(kv, "book coverage", 2)
-    check("variants: coverage 77.6% -> 79.5%",
-          len(g) == 2 and close(g[0], 77.6, .02) and close(g[1], 79.5, .02) and "79.5%" in flat, str(g))
+    check("variants: coverage 77.6% -> 81.3%",
+          len(g) == 2 and close(g[0], 77.6, .02) and close(g[1], 81.3, .02) and "81.3%" in flat, str(g))
     g = nums(kv, "K&T's variants stated as a rule", 2)
-    check("variants: 44 rule types, 238 tokens",
-          len(g) == 2 and g[0] == 44 and g[1] == 238 and "238 tokens" in flat, str(g))
+    check("variants: 234 rule and list types, 778 tokens",
+          len(g) == 2 and g[0] == 234 and g[1] == 778 and "778 tokens" in flat, str(g))
     tr = os.path.join(WORK, "translation", "rohonc_reading.txt")
     trf = os.path.join(WORK, "translation", "rohonc_reading_full.txt")
     check("rendering: both files exist and cover 441 pages",
@@ -543,11 +543,11 @@ def main():
           "gloss is a name" in kv2 and "28.6%" in kv2 and "28.6%" in flat)
 
     g = nums(kt, "proposed here", 2)
-    check("proposals: 3579 tokens = 11.9% rendered",
-          len(g) == 2 and g[0] == 3579 and close(g[1], 11.9, .02), str(g))
+    check("proposals: 3487 tokens = 11.6% rendered",
+          len(g) == 2 and g[0] == 3487 and close(g[1], 11.6, .02), str(g))
     g = nums(kt, "lines with every word read", 2)
-    check("proposals: 3558 lines fully read with them",
-          len(g) == 2 and g[0] == 3558 and close(g[1], 81.4, .02), str(g))
+    check("proposals: 3564 lines fully read with them",
+          len(g) == 2 and g[0] == 3564 and close(g[1], 81.5, .02), str(g))
     check("proposals: file has tier A entries with evidence",
           os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json"))
           and '"tier": "A"' in open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")).read())
@@ -555,8 +555,8 @@ def main():
     check("ROHONC: the Reproaches and Longinus are named",
           "Improperia" in flat and "Longinus" in flat and "Golden Legend" in flat)
     check("ROHONC: METHOD.md and the readings are stated",
-          "METHOD.md" in flat and "1773 signs are read" in flat
-          and "23.8% to **81.4%**" in flat)
+          "METHOD.md" in flat and "1766 signs are read" in flat
+          and "23.8% to **81.5%**" in flat)
 
     check("ROHONC: E034 is punctuation, measured",
           "99.7%" in flat and "E034" in flat and "terminator" in flat)

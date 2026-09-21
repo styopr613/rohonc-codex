@@ -87,18 +87,46 @@ Both fail on K&T's own words. That is an instrument that cannot reach its
 bar on the sample available, not a verdict on anything here. The readings
 were never scored by it.
 
-## Test 3 — the blindfold, ready to run
+## Test 3 — the blindfold, run clean
 
-`harness/ktblind.py` · `work/rohonc/blindfold_1790006519.txt` · `BLINDFOLD.md`
+`harness/ktblind.py` · `work/rohonc/blindfold_1790006519.txt` and `_score.txt` · `BLINDFOLD.md`
 
-Twenty-five of K&T's own entries hidden; a reader who has not seen the
-dictionary reads them from the same evidence the pipeline gives; then the
-answers are revealed and scored. This measures the accuracy of the
-procedure that produces guesses, on words whose answers are known. The
-sample is drawn with a fresh seed and the context shows K&T's dictionary
-only — a leak that let this project's own readings into the context was
-fixed the same day. Consequences by score band are declared in
-`ktrederive.py`. Not yet run: it needs a blind reader.
+Twenty-five of K&T's own entries hidden. A fresh session that had never
+seen this project, the dictionary, or the conversation that built it read
+them from the evidence the pipeline gives — the rendered lines, the folio's
+chapter and verse, the passage's free words, the structural neighbours —
+committed all 25 before anything was revealed, and did not score itself.
+The context showed K&T's dictionary only; the leak that used to let this
+project's own readings into it had been fixed that morning. Seed
+1790006519.
+
+    committed 24, blank 1
+    strict hits (a content stem shared with K&T's gloss)   4 of 24   16.7%
+
+    hits: sin, eye, fish, James
+    near-misses by my own judgment, not counted: rod for their stick,
+    husbandmen for their vineyard worker, sorrow for their painful,
+    witness for their Stephen — about 7 of 24, 29%, on the lenient count
+
+The declared bands, written before any run, put 15–30% at "the judgment
+step adds little; passage-read tier C readings become tier D". That
+consequence had already been applied once, on the 23.1% estimate from the
+invalid run; the clean run lands in the same band and reaffirms it. The one
+passage-read tier C reading entered since, 072, is now tier D.
+
+What the number means: this is the accuracy of the procedure that produces
+a bracketed guess from a single line and its passage, measured on words
+whose answers are known — about one in six strict, one in three lenient.
+It is the number to hold against every `°` on the page.
+
+What the blind reader reported as giveaways, for tightening the test: a
+structural neighbour glossed as a compound containing the hidden sign
+('ill; sinful' for a sign containing sin) hands over the morpheme; the
+masked hex codes of signs outside the sample still show and can be
+triangulated; and the free-word list, cut at forty words alphabetically,
+leaks by what it omits. None of these changed the strict score much — the
+four hits were fish, James, sin and eye, three of them handed over by the
+rendered neighbours — but they are on the record.
 
 ## Test 4 — the illustrations: blocked
 
@@ -215,7 +243,7 @@ line held no seed word at all are set aside, not counted either way.
     Test 5   K&T's own sentence translations     A+B  8.6 sigma  153% of K&T    PASS
     Test 6   word order, held-out folios         A+B  6.9 sigma                 PASS
     Test 2   part of speech                      instrument fails on K&T's own words
-    Test 3   blindfold                           drawn, needs a blind reader
+    Test 3   blindfold, run clean                 4 of 24 strict, 16.7%; band 15-30%, consequence reaffirmed
     Test 4   illustrations                       blocked on the image mapping
     Test 7   K&T's words removed                 reads 11.9% from ours alone; recovery 4.4 sigma, FAIL
     Test 8   bootstrap from a random 30%          passage 33.9 sigma, recovery 8.5 sigma, PASS; absolute 8.4% and 0.9%
@@ -223,7 +251,7 @@ line held no seed word at all are set aside, not counted either way.
 
 Four independent tests, four passes, for the 670 tier A/B readings. Tier
 C/D passes Test 1 and is too thin for the other two. The guesses are
-measured by Test 3 when it is run.
+measured by Test 3: one in six strict, one in three lenient.
 
 Also on record, from earlier the same day: K&T's own citations land on the
 folio they name 89.2% of the time and the exact line 97.5% of those, against

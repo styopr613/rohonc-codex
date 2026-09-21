@@ -34,6 +34,7 @@ THE GATE, fixed before the run and not moved:
     python ktvariant.py
 """
 import json
+import re
 import random
 import sys
 from collections import Counter
@@ -69,6 +70,59 @@ def declared():
                             if w and w != e["code"]:
                                 vm.setdefault(w, set()).add(e["code"])
                         break
+    return {v: next(iter(h)) for v, h in vm.items() if len(h) == 1}
+
+
+def declared_full():
+    """{variant code: head code} for EVERY listed variant in a "var." bracket.
+
+    declared() reads only the first three fragments after the mark, which
+    is one or two variants; K&T's tree entry lists nine and their DO entry
+    lists four, and 540ae0850270ae0 -- their fourth spelling of DO, cited at
+    five lines -- was being read here as 'afterward' because the loader
+    never reached it. This walks the whole bracket. It skips substitution
+    rules (by_rule() has them), cross-references after 'cp.' or an arrow,
+    and fragments holding more than one code. Kept separate from declared()
+    so BAR A and BAR B measure what they measured before; readings() merges
+    it in for the renderer.
+    """
+    raw = json.load(open(ktdict.DICT, encoding="utf-8"))
+    vm = {}
+    for e in raw:
+        fr = e["entry"]
+        for i, f in enumerate(fr):
+            if not (f.get("style") == "meta" and f["text"].strip() == "var."):
+                continue
+            in_rule = False
+            for j in range(i + 1, len(fr)):
+                g = fr[j]
+                t = g.get("text", "")
+                if g.get("style") == "rohonc":
+                    nxt = fr[j + 1].get("text", "") if j + 1 < len(fr) else ""
+                    prev = fr[j - 1].get("text", "")
+                    if "~" in nxt:
+                        in_rule = True
+                        continue
+                    if in_rule:
+                        continue
+                    # not variants: cross-references ("cp.", an arrow, "see"),
+                    # an editor's emendation note, and a code inside a
+                    # parenthesis, which is a spelling remark on the previous
+                    # code -- "{540}({060})" in the Adam entry
+                    if re.search(r"cp\.|→|see|emendation", prev) or prev.rstrip().endswith("("):
+                        continue
+                    codes = [w for w in t.split() if w]
+                    if len(codes) != 1:
+                        continue
+                    w = "".join(c for c in codes[0] if 0xE000 <= ord(c) <= 0xEFFF)
+                    if w and w != e["code"]:
+                        vm.setdefault(w, set()).add(e["code"])
+                else:
+                    if ";" in t or "]" in t:
+                        in_rule = False
+                    if "]" in t:
+                        break
+            break
     return {v: next(iter(h)) for v, h in vm.items() if len(h) == 1}
 
 
@@ -227,6 +281,9 @@ def readings():
     # K&T's variants stated as a substitution rule rather than listed. Added
     # to what the renderer may read, and deliberately NOT to dec, so that
     # BAR A and BAR B keep measuring exactly what they measured before.
+    for v, h in declared_full().items():
+        if v in unread and h in gl and v not in out:
+            out[v] = (h, "kt-list")
     for v, h in by_rule().items():
         if v in unread and h in gl and v not in out:
             out[v] = (h, "kt-rule")
@@ -286,10 +343,11 @@ def main():
     print("=" * 74)
     print("WHAT IS READ")
     print("=" * 74)
-    rule = {v: h for v, (h, tag) in out.items() if tag == "kt-rule"}
+    rule = {v: h for v, (h, tag) in out.items() if tag in ("kt-rule", "kt-list")}
     rtok = sum(types[v] for v in rule)
     print(f"  K&T's declared variants (theirs, no test)   {len(dec):5d} types  {dtok:5d} tokens")
     print(f"  K&T's variants stated as a rule (theirs)    {len(rule):5d} types  {rtok:5d} tokens")
+    print(f"    (this line also counts listed variants beyond the first three fragments, kt-list)")
     if okA and okB:
         print(f"  inferred one-glyph variants                 {len(nb):5d} types  {ntok:5d} tokens")
         added = dtok + rtok + ntok

@@ -507,3 +507,23 @@ number exists. Saved run: `work/rohonc/ktorder.txt`.
 Three independent tests, three passes, for the 670 tier A/B readings. Tier
 C/D is too thin for two of them and passes the third. The 848 guesses are
 reached by none of them and will not be until Test 3 is run.
+
+### The blindfold, run clean, 2026-09-21
+
+A fresh session that had never seen this project read 25 hidden K&T
+entries from the pipeline's evidence and committed before reveal. Strict
+score 4 of 24, 16.7% (seed 1790006519). Same band as the invalid run's
+clean subset, same consequence, reaffirmed: passage-read tier C is tier D;
+072 moved. Full record in TESTS.md.
+
+Applying it turned up a second fault in the variant loader: it read only
+the first three fragments after K&T's 'var.' mark. declared_full() now
+walks the whole bracket -- 234 types and 778 tokens of theirs reached by
+the two loader fixes together -- and six more readings of ours fell to
+words they had listed all along: 531ae0 'therefore' is their copula (54
+occurrences), 540ae0850270ae0 'afterward' their DO, and aca, 7c1910,
+a22a10, 630340ae0 their you, if, over-against and immediately. 5202da2da
+'tree' was already right and is now theirs. 520b7b 'believe' is recorded
+as a live disagreement -- they list it under 'ask (for)' with a note to
+compare 'believe' -- and drops from A to B. Coverage from their dictionary
+alone: 77.6% -> 81.3%.
