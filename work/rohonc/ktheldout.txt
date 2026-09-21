@@ -1,0 +1,10 @@
+TEST 1: SOURCE TRACKING ON HELD-OUT FOLIOS
+  K&T ceiling   1704/6565 cited occurrences   26.0%   (616 signs)
+
+  tier   signs  held-out    hit    rate  shuffle    sd  sigma  vs ceiling
+  A+B      310       634    163   25.7%     6.0%  1.12   17.5         99%
+  C+D       37       155     41   26.5%     9.3%  2.76    6.2        102%
+
+  BAR A+B: >= 5 sigma and >= 70% of ceiling  ->  PASS
+  BAR C+D: >= 3 sigma  ->  PASS
+  not reachable: guesses with no held-out cited folio 847

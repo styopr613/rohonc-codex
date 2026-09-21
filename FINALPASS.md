@@ -352,3 +352,77 @@ New standing tools, all of which run on demand and decide nothing:
 `ktcited.py`, `ktprinted.py`, `ktsubst.py`, `ktgsplit.py`, `ktgroot.py`,
 `ktguesspass.py`, `ktguessread.py`, `ktgbatch.py`, `ktline.py`, `ktparts.py`,
 `ktraw.py`, `ktset.py`, `ktwithdraw.py`, and `ktharden.py --guesses`.
+
+---
+
+## Tests of whether the additions are true, 2026-09-21
+
+Everything before this section was run by the process that made the
+readings. These are the checks designed to break that.
+
+### Test 1 — do the readings track their source where nobody looked?
+
+`ktheldout.py`. Every reading names in its evidence the folio it was read
+from. That folio is excluded. On every OTHER folio where the sign stands and
+a passage is cited, the test asks whether a content word of the gloss is in
+that passage. Control: the same signs on the same folios with the glosses
+shuffled among readings of the same tier, 20 times. Ceiling: K&T's own 841
+glosses measured the same way — true words that still miss, because a folio
+cites one passage and carries a dozen lines. Bars declared before the run.
+
+    K&T ceiling                    1704 / 6565      26.0%
+
+    tier   signs  held-out   rate   shuffle   sigma   vs ceiling
+    A+B      310       634   25.7%     6.0%    17.5      99%     PASS
+    C+D       37       155   26.5%     9.3%     6.2     102%     PASS
+    G          0         -      -        -       -        -      unreachable
+
+The tier A/B readings land in the cited passage, on folios that played no
+part in choosing them, at the same rate as the dictionary they extend. The
+guesses cannot be tested this way at all: 742 of 848 occur once, and the
+106 that occur more often name every occurrence in their evidence, so
+nothing is held out. Saved run: `work/rohonc/ktheldout.txt`.
+
+### Test 2 — does each sign behave like the part of speech its gloss says?
+
+`ktpos.py`. Never looks at any passage. Trains a naive-Bayes classifier on
+how K&T's own signs sit among other signs — the token before, the token
+after, whether the sign takes their genitive prefix b60 or verbal prefix 520
+or their subject marker 910 — with each sign labelled noun or verb from its
+English gloss by a lexicon built out of the two Bibles. Bar 1, calibration:
+leave-one-out on K&T's signs must reach 70% and 5 sigma above the majority
+class, or the instrument cannot see parts of speech and stage 2 is not a
+result.
+
+    stage 1  K&T's signs   n=505   68.3%   majority 56.0%   5.6 sigma   FAIL
+
+A near miss is a miss. The instrument is not sharp enough, so the stage 2
+numbers (A+B 63.2% agreement against 51.7% shuffled, 7.6 sigma; C+D 1.3
+sigma; G 2.2 sigma) are printed in the saved run and are NOT a result. The
+direction is the expected one; the bar was not met and is not moved. Saved
+run: `work/rohonc/ktpos.txt`.
+
+### Test 3 — the blindfold, leak fixed, ready to hand over
+
+`ktrederive.dump` used to render the context around a masked sign with this
+project's own readings in it, marked ? and °. Fixed: the blind file now
+shows K&T's dictionary only. A fresh sample is drawn with seed 1790006519 at
+`work/rohonc/blindfold_1790006519.txt`. It must be read by a session or a
+person who has not read the dictionary; the brief is `BLINDFOLD.md`. It
+measures the accuracy of the procedure that produces guesses, on 25 words
+whose answers K&T published, and its consequences are declared in
+`ktrederive.py`.
+
+### Test 4 — the illustrations, blocked
+
+`ktscanmap.py`. The page images are the only evidence that played no part in
+any reading, and the codex draws its scenes. The mapping from image to folio
+failed its declared bar three ways (43.8% by line counts, correlation +0.20
+by word counts) because line counts barely vary and the scan is 100 ppi.
+Until the images can be tied to folios another way, the pictures cannot be
+used.
+
+### What no test reaches
+
+The 742 guesses that occur once. Only Test 3 says anything about them, and
+what it says is a hit rate for the procedure, not a verdict on any one.

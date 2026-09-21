@@ -269,7 +269,12 @@ def dump(gl, doc):
                     tk = [x for run in ln for x in run]
                     s = " ".join(("<<MASKED %s>>" % K.hx(A.strip(t)[0]))
                                  if K.hx(A.strip(t)[0]) in mask
-                                 else T.render_token(t, gl2, seg2, False, var2, prop2)
+                                 # K&T's dictionary ONLY. This used to pass prop2 -- this
+                                 # project's own readings -- so a masked sign sat in a
+                                 # context that already contained our guesses, marked
+                                 # ? and o, and at least one answer ("Paradise") was
+                                 # handed to the reader that way. Fixed 2026-09-21.
+                                 else T.render_token(t, gl2, seg2, False, var2, None)
                                  for t in tk)
                     f.write(f"  {pg}:{i:<3d} {s[:170]}\n")
                 if pg in refs and pg not in seen:
