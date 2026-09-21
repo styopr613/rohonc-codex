@@ -149,6 +149,41 @@ nine. The instrument is weak. What can be said is that ours alone reach
 about a third of what the whole dictionary reaches by it, and beat a
 shuffle of themselves by four sigma.
 
+## Test 8 — from a random 30% of the words, can the rest be got back?
+
+`harness/ktbootstrap.py` · `work/rohonc/ktbootstrap.txt`
+
+A random 30% of every readable sign, K&T's and ours together, kept; the
+other 70% hidden. Two stages, both bars declared first.
+
+    readable signs 1580   seed 474   hidden 861 on cited folios
+    the seed covers 19.2% of the tokens on those folios
+
+Stage 1, which passage is this folio: render each cited folio with the seed
+words only and pick, from the 285 passages any folio note cites, the one
+that contains most of what is rendered.
+
+    seed words          8.4% of folios right
+    seed shuffled       0.3%  (chance 0.4%)      33.9 sigma     PASS
+
+Stage 2, fill the holes: bracket each hidden sign's slot in the passage
+between the nearest seed word before and after it, fill the narrowest
+windows first with the rarest candidate, make the fills anchors, go round
+again.
+
+    true passages        filled 27.2%   recovered  0.9%
+    predicted passages   filled 42.0%   recovered  0.7%
+    seed shuffled                       recovered  0.0%   8.5 sigma   PASS
+
+Both bars pass and the absolute numbers are small. The seed carries real
+signal — a shuffled seed identifies nothing and recovers nothing — but the
+machine that does the filling is the weak part, as it was in Test 7: it
+knows only "between these two words", and with the seed covering one token
+in five, most lines give it nothing to stand between. The step that actually
+grew the reading was a person reading the line against the passage, and no
+machine here stands in for that person. What this test shows is that the
+seed points the right way; how far it can be grown is Test 3's question.
+
 ## Summary
 
     Test 1   source presence, held-out folios    A+B 17.5 sigma   99% of K&T    PASS
@@ -158,6 +193,7 @@ shuffle of themselves by four sigma.
     Test 3   blindfold                           drawn, needs a blind reader
     Test 4   illustrations                       blocked on the image mapping
     Test 7   K&T's words removed                 reads 11.9% from ours alone; recovery 4.4 sigma, FAIL
+    Test 8   bootstrap from a random 30%          passage 33.9 sigma, recovery 8.5 sigma, PASS; absolute 8.4% and 0.9%
 
 Three independent tests, three passes, for the 670 tier A/B readings. Tier
 C/D passes Test 1 and is too thin for the other two. The guesses are

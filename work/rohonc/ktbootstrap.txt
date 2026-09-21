@@ -1,0 +1,14 @@
+TEST 8: BOOTSTRAP FROM A RANDOM 30% OF THE WORDS  (seed 20260921)
+  readable signs 1580   seed 474   hidden 861 with an occurrence on a cited folio
+  seed covers 19.2% of the tokens on cited folios
+
+  STAGE 1  which passage is this folio      cited folios 297   candidates 285  (chance 0.4%)
+    seed words            8.4%
+    seed shuffled         0.3%  (sd 0.24)   33.9 sigma
+    BAR: >= 5 sigma  ->  PASS
+
+  STAGE 2  the hidden 861 signs filled from the slot the seed brackets
+    true passages       filled  27.2%   recovered   0.9%
+    predicted passages  filled  42.0%   recovered   0.7%
+    seed shuffled       recovered   0.0%  (sd 0.10)   8.5 sigma
+    BAR: >= 5 sigma  ->  PASS
