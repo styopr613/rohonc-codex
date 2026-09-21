@@ -36,6 +36,15 @@ import sys
 import markdown
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# The prose of the site is written by an outside model from a fact sheet
+# (ktsitecopy.py) and read back by a person; this file only places it.
+COPY = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "ktsite_copy.json"), encoding="utf-8"))
+
+
+def paras(key, cls=""):
+    """A copy piece as <p> paragraphs."""
+    c = f' class="{cls}"' if cls else ""
+    return "".join(f"<p{c}>{html.escape(t.strip())}</p>" for t in COPY[key].split("\n\n") if t.strip())
 WORK = os.path.join(ROOT, "work", "rohonc")
 TR = os.path.join(WORK, "translation")
 OUT_DEFAULT = "/var/www/oona13/rohonc"
@@ -64,12 +73,7 @@ NAV = [("index", "Overview"), ("reading", "The reading"), ("dictionary", "Dictio
        ("tests", "Tests"), ("method", "Method"), ("writeup", "Write-up"),
        ("data", "Data")]
 
-CREDIT = ("The dictionary and grammar this work rests on are Levente Zoltán "
-          "Király and Gábor Tokai's, published at rechnitzer-kodex.hu and in "
-          "<i>Cryptologia</i> 42:4 (2018). Their translation is unpublished and "
-          "nothing here is it. The manuscript is of the sixteenth century and out "
-          "of copyright; the readings, tests and English on these pages are this "
-          "project's own.")
+CREDIT = html.escape(COPY["credit_line"].strip())
 
 CSS = """
 :root{--bg:#0B0D10;--ink:#1d1a16;--soft:#5a5248;--paper:#f5efe3;--paper2:#ece5d5;--rub:#7a2418;--ivory:#e9e2d3;--line:#d9cfb9}
@@ -157,7 +161,7 @@ def shell(slug, title, desc, body, extra_head=""):
 <script src="https://oona13.com/fam/fam.js?v={V}"></script>
 <header class="rh"><div class="wrap">
   <a class="mark" href="/rohonc/">The Rohonc Codex</a>
-  <p class="tag">a sixteenth-century book in a script found nowhere else, read into English as far as it reads</p>
+  <p class="tag">{html.escape(COPY["tagline"].strip())}</p>
   <nav class="sub">{nav}</nav>
 </div></header>
 <main class="sheet"><article class="prose">
@@ -247,9 +251,10 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio):
     tier_line = "   ".join(f"{t} {tiers.get(t, 0):,}" for t in ("A", "B", "C", "D", "G"))
     body = f"""
 <h1>What this is</h1>
-<p class="lead">The Rohonc Codex is a small paper book of the sixteenth century, kept at the Library of the Hungarian Academy of Sciences, written in a script that occurs in no other document. In 2018 Levente Zoltán Király and Gábor Tokai published a dictionary of {ktn} of its signs and the grammar that goes with them, and put their transcription online so that their claims could be checked. This project starts from their work, tests it, and extends it: it reads signs their dictionary leaves undefined, checks every reading at every place the sign stands, and renders the whole manuscript into English with every word marked by how well it is known.</p>
+{paras("intro", "lead")}
 
 <h2>How far it reads</h2>
+{paras("how_far")}
 <div class="fig">words in the manuscript        {fig['words'][0]:>7}
 read                           {fig['read'][0]:>7}   {fig['read'][1]}%
 read from one passage only     {fig['soft'][0]:>7}   {fig['soft'][1]}%
@@ -258,32 +263,35 @@ dark                           {fig['dark'][0]:>7}   {fig['dark'][1]}%
 
 lines with every word read     {fig['lread'][0]:>7} of {fig['lread'][1]}   {fig['lread'][2]}%
 lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['lall'][2]}%</div>
-<p>Roughly three quarters of the words read are Király and Tokai's or follow directly from theirs. The rest are this project's readings, entered in its <a href="/rohonc/dictionary.html">dictionary</a> by tier:</p>
+<p>This project's own readings, in its <a href="/rohonc/dictionary.html">dictionary</a>, by tier:</p>
 <div class="fig">{tier_line}</div>
-<p>Tier A survives every place the sign stands in the book. Tier B survives most, with the rest unclear rather than against. Tiers C and D are read from one passage with nothing inside the book able to refuse them. Tier G is a guess, printed in brackets and counted as read nowhere. Every entry carries the evidence it was read on, and withdrawn readings stay in the file with the reason they went.</p>
+{paras("tiers")}
 
 <h2>What is new here and what is not</h2>
+{paras("new_here_lead")}
 {md(newpara)}
 
 <h2>Is it true?</h2>
-<p>Every bar below was declared before its test ran and none was moved. Nine tests were designed by this project to break its own readings; two outside reviewers were then asked to specify the tests they would want, and those were run as specified. Failures are recorded beside passes. The write-ups are on the <a href="/rohonc/tests.html">tests page</a>; the saved runs are in the <a href="/rohonc/data.html">data</a>.</p>
+{paras("is_it_true")}
 <div class="fig">{html.escape(summary)}</div>
+<p>The write-ups are on the <a href="/rohonc/tests.html">tests page</a>. The saved runs are in the <a href="/rohonc/data.html">data</a>.</p>
 
 <h2>What is here</h2>
 <div class="cards">
-<a class="card" href="/rohonc/reading.html"><b>The reading</b><span>All {nfolio} folios in English, in Király and Tokai's page order, written from each folio's gloss and nothing else.</span></a>
-<a class="card" href="/rohonc/dictionary.html"><b>Dictionary</b><span>This project's readings for signs their dictionary leaves undefined, with tier, count and evidence. Searchable.</span></a>
-<a class="card" href="/rohonc/tests.html"><b>Tests</b><span>Fifteen tests with pre-declared bars, the outside review, and the summary of passes and failures.</span></a>
-<a class="card" href="/rohonc/method.html"><b>Method</b><span>The loop that reads an unread sign, written as standing orders, with the arithmetic of what is left.</span></a>
-<a class="card" href="/rohonc/writeup.html"><b>Write-up</b><span>The full account, from the line-break measurement to what the book says.</span></a>
-<a class="card" href="/rohonc/data.html"><b>Data</b><span>The dictionary, the folio English, the rendering, every saved run, and the outside readers' replies.</span></a>
+<a class="card" href="/rohonc/reading.html"><b>The reading</b><span>{html.escape(COPY["card_reading"].strip())}</span></a>
+<a class="card" href="/rohonc/dictionary.html"><b>Dictionary</b><span>{html.escape(COPY["card_dictionary"].strip())}</span></a>
+<a class="card" href="/rohonc/tests.html"><b>Tests</b><span>{html.escape(COPY["card_tests"].strip())}</span></a>
+<a class="card" href="/rohonc/method.html"><b>Method</b><span>{html.escape(COPY["card_method"].strip())}</span></a>
+<a class="card" href="/rohonc/writeup.html"><b>Write-up</b><span>{html.escape(COPY["card_writeup"].strip())}</span></a>
+<a class="card" href="/rohonc/data.html"><b>Data</b><span>{html.escape(COPY["card_data"].strip())}</span></a>
 </div>
 
 <h2>The edition</h2>
-<p>The whole manuscript has been set as a book in two parts: a continuous retelling by episode, and all 441 folios with their marked lines, so that a reader can see which words are read and which are guesses. It is being finished now and will appear in the <a href="https://oona13.com/library/">OONA Free Library</a> when it is ready. Nothing on these pages waits on it.</p>
+{paras("edition")}
 
 <h2>Credit and position</h2>
-<p>The manuscript is of the sixteenth century and is not in copyright. Király and Tokai's dictionary, transcription and page order are theirs: they are credited on every page here, linked at <a href="https://rechnitzer-kodex.hu/" rel="noopener">rechnitzer-kodex.hu</a>, and not rehosted. Their translation of the codex is unpublished and this is not it. The readings, the tests, the English and the editorial matter are this project's own, and every figure on these pages is read out of a saved run rather than typed. Citations owed, and the terms of every source used, are set out under <a href="/rohonc/provenance.html">Sources</a>.</p>
+{paras("credit")}
+<p>Their site: <a href="https://rechnitzer-kodex.hu/" rel="noopener">rechnitzer-kodex.hu</a>. Citations owed and the terms of every source are under <a href="/rohonc/provenance.html">Sources</a>.</p>
 """
     return shell("index", "Overview",
                  "The Rohonc Codex read into English on Király and Tokai's dictionary, extended and tested: the reading, the dictionary, fifteen tests, the method and all the data.",
@@ -292,7 +300,8 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 
 def page_reading(order, eng):
     parts = ['<h1>The reading, folio by folio</h1>',
-             '<p class="lead">One paragraph of English for each folio, in the order Király and Tokai read the pages. Each paragraph was written from that folio\'s gloss alone: no source passage, no chapter title, no page image, so that a writer who knows the Vulgate could not recite it. Where the gloss is thin the English is thin, on purpose. A word in brackets is a restoration. The line-by-line gloss each paragraph rests on is in the edition and in the <a href="/rohonc/data.html">rendering</a>.</p>']
+             paras("reading_lead", "lead"),
+             '<p>A word in brackets is a restoration. The line-by-line gloss each paragraph rests on is in the <a href="/rohonc/data.html">rendering</a>.</p>']
     n = 0
     for fol, title in order:
         e = eng.get(fol, {}).get("english", "").strip()
@@ -314,8 +323,8 @@ def page_dictionary(about, rows, ktn):
     counts = "   ".join(f"{t} {tiers.get(t, 0):,}" for t in ("A", "B", "C", "D", "G", "withdrawn"))
     body = f"""
 <h1>The dictionary of added readings</h1>
-<p class="lead">{html.escape(about)}</p>
-<p>A sign is written here as Király and Tokai write it: its glyph codes, three hexadecimal digits per glyph, with the private-use offset removed. The signs themselves, drawn, are on <a href="https://rechnitzer-kodex.hu/" rel="noopener">their site</a>. Their own {ktn} entries are not reproduced here; this table is only what was added.</p>
+{paras("dictionary_lead", "lead")}
+<p>The drawn signs are on <a href="https://rechnitzer-kodex.hu/" rel="noopener">their site</a>. From the file itself: {html.escape(about)}</p>
 <div class="tiers"><b>A</b> fits every occurrence checked, or is proved by an identical formula or a numeral &nbsp;·&nbsp; <b>B</b> fits most &nbsp;·&nbsp; <b>C</b> and <b>D</b> read from one passage, nothing in the book able to refuse them &nbsp;·&nbsp; <b>G</b> a guess, printed in brackets and never counted &nbsp;·&nbsp; <b>withdrawn</b> a reading that was made and then refused, kept with the reason</div>
 <div class="fig">{counts}</div>
 <div class="tools">
@@ -368,10 +377,7 @@ def page_doc(slug, fname, title):
 
 def page_outside(slug, fname, title):
     text = read(os.path.join(WORK, "outside", fname))
-    intro = ('<p class="lead">An outside review, quoted whole. The model was shown the project\'s '
-             'test write-up and asked what tests it would require and where the bars should sit. '
-             'The tests it specified were then run as specified; the results are on the '
-             '<a href="/rohonc/tests.html">tests page</a>.</p>')
+    intro = paras("outside_lead", "lead") + '<p>The results are on the <a href="/rohonc/tests.html">tests page</a>.</p>'
     return shell(slug, title, f"{title}: the outside reviewer's specification of tests for the Rohonc readings, quoted whole.",
                  f"<h1>{html.escape(title)}</h1>" + intro + md(text))
 
@@ -386,7 +392,8 @@ def page_data(files, runs, outside):
         return f"{n/1024:.0f} KB" if n < 1024 * 1024 else f"{n/1024/1024:.1f} MB"
 
     body = ["<h1>Data</h1>",
-            '<p class="lead">Everything the pages here are made from, as files. Every figure on the site is read out of one of these. What is not here, and why, is under <a href="/rohonc/provenance.html">Sources</a>: Király and Tokai\'s dictionary, transcription and pages are theirs and are linked, not copied.</p>',
+            paras("data_lead", "lead"),
+            '<p>What is not here, and why, is under <a href="/rohonc/provenance.html">Sources</a>.</p>',
             "<h2>The readings and the rendering</h2><ul>"]
     for href, name, desc, p in files:
         body.append(li(href, name, desc, sz(p)))
