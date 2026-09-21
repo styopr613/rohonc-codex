@@ -51,23 +51,6 @@ verbatim parallel they report between 133v07-134r02 and 101r04-09. That is
 either a difference between transcriptions or a difference in what counts as a
 parallel, and they would want to know either way.
 
-## 2b. `kt/fonts/RohoncCodex.woff` — their font of the signs, 2026-09-21
-
-Fetched once from `https://rechnitzer-kodex.hu/fonts/RohoncCodex.woff`, the font
-their own site uses to draw the script.
-
-Why it was taken: the site could not show a single sign. The first version asked
-the reader to install this font themselves, which nobody will do, so
-`harness/ktsigns.py` reads it once, locally, and writes the OUTLINE of each sign
-as an SVG path. The pages draw the signs from those paths.
-
-**Terms, stated plainly.** The shapes are the sixteenth-century scribe's and are
-out of copyright. The font that carries them is Kiraly and Tokai's own drawing of
-those shapes. The paths on the site come from it. The font FILE is never served,
-the outlines are credited to them on the page that shows them, and if they ask
-for them to come down they come down. This is a judgement, not a permission: they
-have not been asked, and the email owed to them is the place to ask.
-
 ## 3. `scan/` — the page images
 
 `https://real-ms.mtak.hu/80/6/Rohonci_Codex_K_114cs.pdf`, the low-resolution
