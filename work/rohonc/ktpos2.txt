@@ -1,0 +1,10 @@
+TEST 2b: PART OF SPEECH FROM CONTEXT, HAND LABELS, >= 5 OCCURRENCES
+  stage 1  K&T's signs  n=197  leave-one-out 85.3%  majority 70.1%  4.7 sigma
+  BAR 1: >= 70% and >= 5 sigma  ->  FAIL
+
+  tier   signs   agree  shuffle    sd  sigma
+  A+B       56   76.8%    60.7%  5.12    3.1
+         disagree: 00b670ae0520ae0(pray: V read as N), 270910(the Lord: N read as V), 520b7b(believe: V read as N), 630461(cross: N read as V), 670ae0650(grape: N read as V), 00b520ae0520ae0(pray: V read as N), 4b0(say: V read as N), 520060131(the_Baptist/woman: N read as V), 5201f2ae0969(recognize: V read as N), 5203f0255(heaven: N read as V), 574ae09f3(saying: V read as N), 670ae0060788060270540(the Red Sea: N rea
+  C+D       19   63.2%    62.1%  8.30    0.1
+         disagree: 5200606e3(condemned: V read as N), 520151(remain: V read as N), 5405404b0(would say: V read as N), 5694b0(he said: V read as N), 670ae0a10ae01f6(was named: V read as N), 520327(sorrow: N read as V), 7b3(brethren: N read as V)
+  stage 2 is NOT a result: the instrument failed calibration

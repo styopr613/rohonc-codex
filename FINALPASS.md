@@ -426,3 +426,20 @@ used.
 
 The 742 guesses that occur once. Only Test 3 says anything about them, and
 what it says is a hit rate for the procedure, not a verdict on any one.
+
+### Test 2b — same question, hand labels, population fixed in advance
+
+`ktpos2.py`, with labels in `ktpos_labels.json` written by hand before the
+run. Population: signs with five or more occurrences. Bars declared: 70% and
+5 sigma over the majority class on K&T's own signs; then A+B 5 sigma over a
+label shuffle.
+
+    stage 1  K&T's signs   n=197   85.3%   majority 70.1%   4.7 sigma   FAIL
+
+Hand labels took the instrument from 68.3% to 85.3%, which confirms the label
+noise was real. It fails anyway, on the sigma clause: with 197 signs and a
+70% majority, five sigma needs 86.4%. A near miss is a miss and the bar is
+not moved. Stage 2 is not a result, and would have failed on its own: A+B
+76.8% against 60.7% shuffled on 56 signs, 3.1 sigma. The population that
+can be labelled cleanly is too small for this test to reach five sigma
+either way. Saved run: `work/rohonc/ktpos2.txt`.
