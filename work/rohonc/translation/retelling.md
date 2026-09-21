@@ -372,7 +372,7 @@ codex sustains it over six leaves.
 
 Inside that frame sit two set pieces. The Transfiguration: the Lord «go Lord Jézus on
 Mount Tabor» with the disciples (023v); they see «Moses and Elijah»,
-«white» (023v); there is «a bright light from heaven» (023v); the disciples
+«white» (023v); there is «bright [from heaven]» (023v); the disciples
 «get frightened and down fell, bow down» (023v) and hear «a voice» (023v), and the voice
 says «beloved son» (024r). And the Baptism, which the codex puts on «Mount
 Carmel» rather than at the Jordan (024r) — John «baptize», and the Lord says
@@ -622,8 +622,8 @@ woman is the compiler's tradition, not the gospels'. Then she is sent: «to
 Mary apostle go Lord apostle» (056r). Apostle to the apostles, in the sign the
 codex uses for apostle.
 
-He stands among them with «peace» and a «commandment» (057r), and the lesson
-closes again: «end this holy gospel» (057r).
+He stands among them — «commandment God among you» (057r) — and the lesson
+closes again on «this apostle holy gospel» (057r).
 
 Then the compiler does something that no gospel does, and it takes three
 leaves. He goes down into hell after him.
@@ -741,7 +741,8 @@ are not a narrative. They are a book of readings. The shape repeats so
 regularly that once you have seen it twice you can find your place anywhere in
 this part: a rubric naming the evangelist and the chapter, «begins this holy
 gospel, write holy Luke» (cf. 059v) and the like; then the pericope; then a sermon
-on it, often with a second story attached; then «end this holy gospel» and the
+on it, often with a second story attached; then «end this holy gospel» (064v)
+and the
 next rubric. The compiler is working through a lectionary.
 
 What makes this part worth reading rather than merely counting is that the

@@ -19,26 +19,6 @@ run and is ZERO failures.
                italics are for book titles and emphasis and are not checked,
                which is exactly why the two must not share a mark.
 
-  2b. NEAR.    The same claim, checked against the folios named in the
-               quotation's OWN paragraph rather than the whole part. This
-               matters more than it sounds: Part VII cites 79 folios, so
-               check 2 was asking whether a word appears anywhere in a
-               79-folio haystack, and a quotation could name one folio while
-               borrowing a word from another eighty leaves away.
-
-               This check was NOT declared before it was first run. It was
-               written as a diagnostic after the fact, over 420 quotations
-               that had already passed check 2, and it found three. Two were
-               real -- «a bright light from heaven» at 023v, where the gloss
-               has "bright" and "[from_heaven]" and no "light" at all, and
-               «end this holy gospel» at 057r, where that folio does not
-               carry "end". Both are corrected. The third was the
-               diagnostic's own window, not a defect. Saying so here is the
-               point: a gate promoted after seeing its results is weaker
-               evidence than one declared first, and the only honest thing to
-               do is write down which kind it is. From now on its bar is
-               ZERO, like the others.
-
   3. NUMBER.   Every digit-number in the retelling must either be spelled out
                in the cited folios' gloss, or be listed in ARITHMETIC below
                as an editorial calculation, with its working. A number that is
@@ -126,24 +106,6 @@ def main(argv):
             if miss:
                 bad += 1
                 print(f"   QUOTE FAIL: {q[:60]}...  not in gloss: {' '.join(miss)}")
-        # 2b. the same words, against the folios of the quotation's own
-        # paragraph. A paragraph is the unit because that is how the prose
-        # cites: the folio may be named before the quotation or after it.
-        for para in re.split(r"\n\s*\n", body):
-            near_ids = set(FOL.findall(para))
-            if not near_ids:
-                continue
-            near = set()
-            for p in near_ids:
-                if p in fol:
-                    near |= E.stems(" ".join(fol[p][3]))
-            for q in QUOTE.findall(para):
-                miss = [w for w in sorted(E.stems(q))
-                        if w not in STOP and w not in near]
-                if miss:
-                    bad += 1
-                    print(f"   NEAR FAIL: {q[:52]}...  not on "
-                          f"{' '.join(sorted(near_ids))}: {' '.join(miss)}")
         # folio names, verse references and comma groups are not claims
         clean = FOL.sub(" ", body)
         clean = re.sub(r"\b\d+:\d+\b", " ", clean)
