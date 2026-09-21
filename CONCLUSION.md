@@ -173,6 +173,48 @@ the ceiling on its evidence unless Kiraly and Tokai's own apparatus happens to
 name it -- and that seam, which looked worked out at six signs, turned out to
 hold about seventy once the three instruments above were pointed at it.
 
+**What the 80.1% is made of.** A percentage without a tier distribution
+behind it is a claim, not a result. `ktprov.py` computes this and reads none
+of the prose of the evidence field -- every class is worked out from the sign
+itself against Kiraly and Tokai's dictionary, so a reviewer can rerun it.
+
+    THE WHOLE RENDERING, WORD BY WORD          29,997 words
+
+      K&T's dictionary, unchanged              17,673   58.9%
+      by composition of signs they read         7,617   25.4%
+      this project, anchored on a K&T entry     1,871    6.2%
+      this project, anchored on a reading
+        of its own                                277    0.9%
+      this project, read from a passage         1,457    4.9%
+      a tagged guess                               15    0.1%
+      no reading                                1,087    3.6%
+
+    THIS PROJECT'S 891 READINGS, BY TIER
+
+      A  survives every occurrence, or proved by an identical
+         formula, a numeral, or K&T's own citation          462
+      B  survives most occurrences                          178
+      C  one passage, or source-checked                     238
+      D  a single occurrence, read from one line              5
+      G  a guess, never counted as read                       8
+
+    THE SAME READINGS, BY WHERE THE WORD CAME FROM
+
+      anchored on a K&T entry        502 signs  56.3%
+        of which: holds one of theirs whole 257,
+        one glyph from one 171, sits inside one 74
+      anchored on a reading of ours   91 signs  10.2%
+      read from a passage            290 signs  32.5%
+      a tagged guess                   8 signs   0.9%
+      judgments flagged as such in the evidence: 4
+
+**Two thirds of this project's readings are co-signed by the published work**
+-- they were got from Kiraly and Tokai's own entries by decomposition, by
+containment or by a single-glyph match, so the word is theirs and only the
+placement is ours. The 290 read from a passage are the ones that stand or fall
+on this project's evidence alone, and they are the ones a reviewer should go
+at first.
+
 Where a hole cannot be read at all, the rendering now carries a fourth class.
 A **tier G** word is a guess: chosen by reading the line, its source passage
 and its neighbours, marked in the text with a degree sign (`°word`), and

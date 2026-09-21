@@ -442,3 +442,52 @@ check whether it is one glyph from a sign already read.** A scribe copying a
 long compilation spells one word several ways, and K&T's own apparatus records
 that with its var. entries -- so a near-match to their dictionary is evidence,
 and a story that fits is not.
+
+## The rule, and the other half of it
+
+**A story that fits is not evidence.** That sentence is what the
+child/little correction bought, and it is the answer to the charge that this
+pipeline is heuristic all the way down. The pipeline has a mechanism that
+overrules narrative plausibility: a reading made because the folio's story
+wanted it was thrown out by a mechanical comparison against K&T's dictionary,
+five times in one pass, and three more readings went with it. Narrative
+plausibility is the weakest evidence in this project and it loses to the
+dictionary every time the two disagree.
+
+**The other half: near is not the same.** `ktnear.py` merges; merging has a
+symmetric failure, and a rule that can only ever fire in one direction is not
+a rule. Two genuinely distinct signs one glyph apart can be collapsed into one
+word, and nothing in the rendering would show it. `ktvarcheck.py` is the test
+that can say no:
+
+    SAME SLOT   some (word before, word after) pair occurs with BOTH forms,
+                in different places in the book. Two spellings doing the same
+                job in the same frame. This is how 7e6 was proved to be K&T's
+                7e8 "say" -- the codex writes "miracle _ which-mouth" twice,
+                once with each.
+
+    CO-OCCUR    both forms stand on one LINE and share no frame. WEAK evidence
+                that they are different words, and only weak: this book
+                demonstrably writes one word two ways in one line. 055r:10
+                carries K&T's form of "the three Marys" and the prefixed form
+                together; 144v does the same with "queen". Review by hand.
+
+    UNTESTED    neither, usually because one of the two occurs once. Nothing
+                in the book can decide.
+
+Run on the 891 readings, 593 rest on a near-match or a containment argument.
+Of those, 382 give the sign a DIFFERENT word from the one they were anchored
+on, so they claim no merge and cannot cause one. The risk set is the other
+211:
+
+    SAME SLOT     29   13.7%   confirmed one word by the book itself
+    CO-OCCUR       9    4.3%   reviewed by hand; none is a merge error
+    UNTESTED     173   82.0%   the exposure, 137 of them with a
+                               one-occurrence sign on one side
+
+**82% of the merge claims are untested and that is the number to quote**, not
+the 13.7% that are confirmed. The nine CO-OCCUR cases were read one by one and
+all nine are benign -- a long compound beside the short word it contains
+("Saint Augustine the church father" next to "church father"; the full
+spelling of Zacchaeus next to the short one on 207r:3), which is the book
+writing a name twice, not two words being merged.

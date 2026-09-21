@@ -697,6 +697,16 @@ def main():
     check("CONCLUSION: tier G is counted separately",
           "tier G" in conf and "degree sign" in conf
           and "is **not** counted as a line with every word read" in conf)
+    check("CONCLUSION: the provenance and tier table",
+          "ktprov.py" in conf and "58.9%" in conf and "56.3%" in conf
+          and "co-signed by the published work" in conf
+          and "462" in conf and "290 read from a passage" in conf)
+    check("METHOD: a story that fits is not evidence, and its other half",
+          "A story that fits is not evidence" in meth
+          and "near is not the same" in meth
+          and "ktvarcheck.py" in meth
+          and "82.0%   the exposure" in meth
+          and "is the number to quote" in meth)
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 
