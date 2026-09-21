@@ -728,6 +728,10 @@ def main():
           "ktrederive.py" in conf and "12 of 25, 48%" in conf
           and "the test was INVALID" in conf
           and "downgraded" in conf and "80.1% is unchanged" in conf)
+    check("CONCLUSION: the reader's edition and its apparatus",
+          "rohonc_readers_edition.md" in conf and "ktreader.py" in conf
+          and "27,937" in conf and "1,087" in conf
+          and "decoration, not restoration" in conf)
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 
