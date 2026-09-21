@@ -5327,5 +5327,35 @@
   "tier": "C",
   "n": 3,
   "evidence": "One glyph from 5209500606a3, which this project reads as 'bones' -- that neighbour is no help, and the reading comes from the passage. All three occurrences are on 076v and 077r, whose cited source is Matthew 18:15-17. 076v:2: 'somebody among the apostles, you, sin, [x], from'. Douay Matthew 18:16: 'take with thee one or two more: that in the mouth of two or three WITNESSES every word may stand.' 'witness' is free in both translations and is the one noun of that verse no sign carries; 'alone', 'yea' and 'dined', the other free words of the chapter, are not nouns that recur. At 076v:3 and 077r:8 it stands beside the heathen-and-publican pair of 18:17, one verse later, which is where the codex has been working."
+ },
+ "5201d3": {
+  "gloss": "new",
+  "tier": "B",
+  "n": 4,
+  "evidence": "K&T read 5201d35201c44a8 as 'new'. Three of this sign's four occurrences are the same phrase, and in all three the very next token is 5201c44a8 -- the second half of their word: 069r:3 'apostle [x] [5201c44a8] language', 073r:11 'the Holy Spirit, and there were apostles [x] [5201c44a8] language', 080v:1 'humble, every good, and there were apostles [x] [5201c44a8] language'. So the codex is writing K&T's own word 'new' across two tokens, with 'language' after it. Douay Mark 16:17: 'they shall speak with NEW TONGUES'. The speaking is read on those lines (7e6) and the tongues are read, and this is the adjective between them. The fourth occurrence, 039r:10, is the Caiaphas line."
+ },
+ "b60a10003a10354": {
+  "gloss": "whosoever",
+  "tier": "C",
+  "n": 3,
+  "evidence": "It holds a10003a10, which this project already reads as 'whosoever', with K&T's b60 (a genitive pronoun) in front and 354 over. 151r:9: 'three, born from [x], and from, three, born'; 151v:7: 'in turn two, and the son, from [x], son'; 152r:3: 'son, and from [x], this, of somebody, good, do'."
+ },
+ "5b4": {
+  "gloss": "cannot",
+  "tier": "C",
+  "n": 3,
+  "evidence": "All three occurrences are on 090v and 091r, the rich man and Lazarus. 090v:3 ends 'and the body, from death, stood up, the poor man, said, father Abraham, in turn, who [x]'. Douay Luke 16:26: 'between us and you, there is fixed a great chaos: so that they who would pass from hence to you, CANNOT'. 090v:5 and 091r:6 both have 'believe' beside it, which is Luke 16:31, 'neither will they believe, if one rise again from the dead'. 'cannot' is free in both translations; 'can' and 'not' are each carried by other signs, so this is a judgment that the codex writes the negative modal as one word, which is what Hungarian does."
+ },
+ "419": {
+  "gloss": "proceed",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Both occurrences are on 082v, whose subject is the procession of the Holy Spirit and the Trinity argued from the sun. 082v:4: 'spirit [x] on spirit, Holy Spirit, every man, the Jews'; 082v:6: 'Jesus Christ [x] on believe'. The creed's clause is 'who PROCEEDETH from the Father and the Son'. JUDGMENT, MARKED AS ONE: K&T already read 4a3 as 'proceed', so this is a second sign for it; it is read that way because the folio is that clause and no other word of it is missing."
+ },
+ "402": {
+  "gloss": "seal",
+  "tier": "C",
+  "n": 2,
+  "evidence": "054r:11: 'the Lord inside the burial chamber, closed, and left [x], said, to the Lord, two by two, soldiers'. Douay Matthew 27:66: 'And they departing, made the sepulchre sure, SEALING THE STONE, with guards.' The closing, the leaving and the soldiers are all read on the line; the sealing is the hole. 'seal' is free in both translations. The second occurrence, 151r:3, is a different folio and carries it less clearly, which is why this is C."
  }
 }
