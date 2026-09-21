@@ -1,0 +1,42 @@
+TEST 12, part 2: INDEPENDENT RE-GLOSSER, no access to our glosses
+  060060060              reader 'three                   ' ours 'three                   ' AGREE
+  060060060              reader 'three                   ' ours 'three                   ' AGREE
+  060060060              reader 'three                   ' ours 'three                   ' AGREE
+  060060060              reader 'three                   ' ours 'three                   ' AGREE
+  060060060060060        reader 'five                    ' ours 'five                    ' AGREE
+  060060060ae1           reader 'three                   ' ours 'three days              ' AGREE
+  060060060ae1           reader 'three                   ' ours 'three days              ' AGREE
+  0604f04c94a4           reader 'fruit                   ' ours 'good fruit              ' AGREE
+  080670ae0a10ae01f6     reader 'name                    ' ours 'name                    ' AGREE
+  080670ae0a10ae01f6     reader 'name                    ' ours 'name                    ' AGREE
+  080670ae0a10ae01f6     reader 'name                    ' ours 'name                    ' AGREE
+  080670ae0a10ae01f6     reader 'name                    ' ours 'name                    ' AGREE
+  152281850520           reader 'James                   ' ours 'James                   ' AGREE
+  223574ae0              reader 'undetermined            ' ours 'Moses                   ' undetermined
+  27d                    reader 'undetermined            ' ours 'give_up_the_ghost       ' undetermined
+  285                    reader 'command                 ' ours 'law                     ' differ
+  4f5520ae0              reader 'undetermined            ' ours 'crown                   ' undetermined
+  4f5520ae0              reader 'undetermined            ' ours 'crown                   ' undetermined
+  5201d8                 reader 'undetermined            ' ours 'tree                    ' undetermined
+  520793                 reader 'undetermined            ' ours 'water                   ' undetermined
+  520793                 reader 'undetermined            ' ours 'water                   ' undetermined
+  520ae00a20a2ae0        reader 'bread                   ' ours 'bread                   ' AGREE
+  520b78                 reader 'hill                    ' ours 'mount                   ' differ
+  5400607b4060540        reader 'face                    ' ours 'face                    ' AGREE
+  5400607b4060540        reader 'face                    ' ours 'face                    ' AGREE
+  540ae0520250           reader 'emperor                 ' ours 'emperor                 ' AGREE
+  630060060060ae0        reader 'third day               ' ours 'on the third day        ' AGREE
+  630060060060ae0        reader 'third day               ' ours 'on the third day        ' AGREE
+  630060060060ae1        reader 'third day               ' ours 'on the third day        ' AGREE
+  646                    reader 'roof                    ' ours 'pierce                  ' differ
+  6701f0690              reader 'toe                     ' ours 'toe                     ' AGREE
+  670ae0060788060270540  reader 'sea                     ' ours 'the Red Sea             ' AGREE
+  670ae0060788060270540  reader 'sea                     ' ours 'the Red Sea             ' AGREE
+  670ae00e2              reader 'Capharnaum              ' ours 'Capharnaum              ' AGREE
+  6a6                    reader 'Creator                 ' ours 'heart                   ' differ
+  7807802c05201f1        reader 'verily                  ' ours 'verily                  ' AGREE
+  8c2540                 reader 'head                    ' ours 'head                    ' AGREE
+  a10af9670              reader 'deliver                 ' ours 'redeem                  ' differ
+
+  pairs 38; agree 26 (68.4%); undetermined 7; agree among determined 83.9%
+  BAR: agreement >= 30%  ->  PASS

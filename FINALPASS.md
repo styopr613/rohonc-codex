@@ -527,3 +527,23 @@ a22a10, 630340ae0 their you, if, over-against and immediately. 5202da2da
 as a live disagreement -- they list it under 'ask (for)' with a note to
 compare 'believe' -- and drops from A to B. Coverage from their dictionary
 alone: 77.6% -> 81.3%.
+
+### The outside review's tests, 2026-09-21
+
+Gemini 2.5 Pro and Grok 4.7 were shown the nine tests and asked what a
+sceptic would still demand. The four of Grok's ten that needed no new data
+were built and run the same day, bars copied verbatim before running; two
+further instruments were declared when the first had no power; nothing was
+moved. Full record in TESTS.md.
+
+    Test 11  passage map from K&T's words alone       PASS   median rank 25 of 1334 chapters; top-1 12.4%
+    Test 10  keep-rule replayed on null books         FAIL / FAIL / PASS at three scales; 7, 215, 2 kept; no power
+    Test 12  Test 5 strict                            FAIL on the +10-point clause: ours 73.7%, K&T 50.8%
+             two outside re-glossers                  PASS   68% and 71% reach our gloss from the sentence alone
+    Test 13  underdetermination census                FAIL   rivals 64.9%; but 0 of 94 readings satisfy the rule censused
+
+What changed in the claims: Tests 1, 6 and 9 keep their target, because
+the passage map is recoverable from K&T's words without ours. Test 5 drops
+from "independent confirmation" to "agreement with K&T's translations,
+which a reader of those translations would reproduce". The two outside
+calls cost 31 cents.

@@ -1,0 +1,12 @@
+TEST 10: THE KEEP-RULE REPLAYED ON NULL BOOKS
+  cited folios 298; K&T-unread sign types 3767; rule needs >= 3 cited folios; offset 17; seed 20260921
+
+  book            signs   kept  trials  held-out  shuffle    sd  sigma
+  real              316      7      98     21.4%     5.2%  2.01    8.1
+  within-folio      316      7      98     21.4%     6.6%  2.33    6.4
+  global            428      1      80      5.0%     8.4%  2.84   -1.2
+  rotated           316      6      81     12.3%     7.5%  2.59    1.9
+
+  global    kept 1 vs real 7: under half   held-out -1.2 sigma: under 5
+  rotated   kept 6 vs real 7: AT OR OVER half   held-out 1.9 sigma: under 5
+  BAR: both nulls under half the real count and under 5 sigma  ->  FAIL

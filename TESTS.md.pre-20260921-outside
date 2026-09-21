@@ -56,13 +56,6 @@ and particles a free translation swallows. The seven misses — law, five,
 three, mount, pierce, redeem, ghost — are numerals and words a paraphrase
 drops.
 
-Revised later the same day, after the outside review (Test 12 below). The
-margin over K&T's own headwords is not a comfort. Under a strict rule it is
-still 23 points, and two outside readers given only K&T's words and their
-translations reach our gloss seven times in ten. This test shows the
-readings agree with K&T's translations. It cannot show they were not taken
-from them.
-
 ## Test 6 — word order on held-out folios
 
 `harness/ktorder.py` · `work/rohonc/ktorder.txt`
@@ -244,165 +237,6 @@ alike, five to six times better than chance, and our readings fit the
 slots the seed brackets at least as well as theirs do. Occurrences where the
 line held no seed word at all are set aside, not counted either way.
 
-## The outside review — 2026-09-21
-
-Two models were asked, with the tests above in front of them, what a
-sceptic would still demand (`work/rohonc/outside/gemini_tests.md`,
-`grok_tests.md`). Both said the same thing: the passage each folio retells
-was identified while translating with the full reading, so Tests 1, 6 and
-9 score against a target we made; Test 5 is the only external anchor, and
-beating K&T's own headwords on their own sentences is a warning, not a
-comfort. Grok wrote ten tests with bars; the four that need no new data
-were built and run that day, each bar copied verbatim into the script's
-docstring before it ran. Two more instruments were declared along the way
-when the first had no power. None of the bars was moved. The first run of
-Tests 10, 10b and 13 had inflected auxiliaries (hath, goeth, wilt) in
-every pool through a gap in the stop list; those runs are kept as
-`*_v1_stopleak.txt` and the figures below are from the corrected rerun.
-
-## Test 11 — can the passage map be recovered from K&T's words alone?
-
-`harness/ktpassid.py` · `work/rohonc/ktpassid.txt`
-
-Grok's second test, run first because the others hang on it. Every cited
-folio is rendered with K&T's 841 glosses and listed variants only, nothing
-of ours, and the bag of stems is scored by tf-idf cosine against every
-chapter of the Douay Bible. Decoys fixed before scoring: for each folio,
-the chapter not cited whose profile on the fifty commonest stems is closest
-to the cited one, and a chunk of the Golden Legend of the same length.
-Control: K&T's glosses shuffled among their signs once.
-
-    candidates                              1334 chapters
-    folios with a cited chapter              298
-
-                                        K&T as published    shuffled
-    cited chapter is top-1 of 1334          37   12.4%        3    1.0%
-    cited chapter in the top 5%            211   70.8%       34   11.4%
-    median rank of the cited chapter        25               428
-    beats the frequency-matched decoy      241/298           166/298
-                                          p = 2e-28          p = 0.03
-    beats the other-genre decoy            281/298           191/298
-
-    BAR: median rank in the top 5% and p < 0.01 against the matched decoy   PASS
-
-The map stands without our readings: from K&T's words alone the cited
-chapter is the single best of 1334 one folio in eight and in the top 67 for
-seven folios in ten, against one in a hundred and one in nine from the
-same words on the wrong signs. Tests 1, 6 and 9 have a target that does
-not depend on the readings they test.
-
-## Test 10, 10b, 10c — the search replayed on null books
-
-`harness/ktnullreplay.py`, `ktnullreplay2.py`, `ktnullreplay3.py` ·
-`work/rohonc/ktnullreplay.txt`, `ktnullreplay2.txt`, `ktnullreplay3.txt`
-
-Grok's first test. Shuffling glosses after the readings were chosen does
-not model the search that chose them. Write the keep-rule as an algorithm,
-run it on the real book and on two null books — tokens permuted across the
-whole book, and every cited folio handed the passage of the folio
-seventeen places on — and see whether the nulls yield readings too. Fail if
-a null keeps half as many as the real book, or if a null's readings beat
-their own shuffle by 5 sigma held-out.
-
-The search was human and unlogged, so Grok's mechanical proxy stood in:
-keep a sign if some free stem is in the cited passage at every one of its
-occurrences. It was run at three scales.
-
-    scale                          real kept   global   rotated   held-out sigma, real / nulls
-    10   the verse the note cites      7          1        6        8.1 / -1.2, 1.9      FAIL
-    10b  the whole cited chapter     215        343      293       -2.8 / -2.2, -1.6      FAIL
-    10c  the line and the verse
-         its K&T words point to        2          0        0        8.7 /  0.0, -0.3      PASS
-
-At verse scale the rule keeps 7 signs of 316; at chapter scale it keeps
-everything on every book and never once picks the stem this project
-picked (0 of 72 shared signs); at line scale, the closest to what the loop
-actually did, it keeps 2. Seven against six and two against nought cannot
-tell a search from a decipherment either way. What the held-out column does
-say is consistent: on the real book the rule's readings land where they
-were not derived from, 8 sigma over shuffle, and on the null books they do
-not. The count criterion has no power at any scale, because "in the
-passage at every occurrence" is not the rule that produced the 670
-readings — a word is checked for sense at every occurrence, not for
-presence in a verse. The test that would settle Grok's point is the human
-loop run on a rotated book by a reader who does not know it is rotated.
-That has not been done.
-
-## Test 12 — Test 5 rescored under a strict rule, with outside readers
-
-`harness/ktstrict.py` · `work/rohonc/ktstrict.txt`,
-`ktstrict_reglosser_gemini.txt`, `ktstrict_reglosser_grok.txt`,
-`work/rohonc/outside/reglosser_*.json`
-
-Grok's fourth test. First sense only, every content word of it present in
-K&T's English as the lemma itself — irregular forms mapped, one regular
-inflection allowed, no synonyms, no stemmer. K&T's own headwords scored the
-same way, restricted like ours to first senses with a content word.
-
-    K&T's own headwords, strict             167 / 329    50.8%
-
-    tier   signs  pairs  strict   shuffle   sigma   loose (Test 5's rule)
-    A+B       26     38   73.7%     6.7%     8.4    81.6%
-
-    strict >= 40%                                  ok
-    >= 3 sigma                                     ok
-    ours minus K&T's headwords  +22.9 points       FAIL   (bar: at most +10)
-
-    matched on gloss length and sign frequency: K&T 52.2%, ours +21.5 points
-
-Then the independent re-glosser. The 38 sentences were sent to two outside
-models with each sentence in K&T's words only, the sign in question
-blanked, and K&T's English — our glosses not in the file — and each was
-asked what the blank must mean.
-
-    reader             agree with ours   undetermined   agree among the determined
-    Gemini 2.5 Pro        26 / 38  68%        7             84%
-    Grok 4.7              27 / 38  71%        3             77%
-
-    BAR: agreement >= 30%   PASS
-
-Leakage check, same signs on cited folios that are neither in their
-evidence nor the folio of a K&T sentence, Test 1's measure:
-
-    13 signs   78 occurrences   19.2%   shuffle 14.5%   1.1 sigma   no verdict
-
-Read together: the glosses are the words K&T's translations imply, an
-outside reader recovers them from the sentence seven times in ten, and on
-other folios they cannot be told from shuffled glosses. Test 5 is
-consistent with the readings being true and equally consistent with their
-having been read off the sentences. It stays in the table as agreement
-with K&T, not as independent confirmation.
-
-## Test 13 — the underdetermination census
-
-`harness/ktcensus.py` · `work/rohonc/ktcensus.txt`
-
-Grok's sixth test. For every tier A/B reading whose sign stands on folios
-citing three or more distinct chapters: list every free stem present in
-all of those chapters. A rival is one that is not a form of the chosen
-gloss. Fail if more than 40% of the signs have a rival that also satisfies
-the keep-rule.
-
-    A/B signs counted                     94
-    chosen gloss in every chapter          0     0.0%
-    a rival in every chapter              61    64.9%     FAIL   (bar: 40%)
-    a matched-frequency random stem
-      in every chapter                           0.3%
-
-    at the verse the note cites (reported): 70 signs, chosen survives 1, rivals 3
-
-The bar fails as declared. What the count shows is that the rule being
-censused is not the rule that made the readings: not one of the 94 glosses
-is present in every chapter its sign's folios cite, so the rivals — answer,
-tell, ruler, cast, enter, depart — are words that satisfy a rule the
-readings themselves do not. The rivals are the commonest free verbs of the
-corpus; a random stem as rare as the chosen gloss survives every chapter
-three times in a thousand. The census does not reach the question of
-whether a second word fits each reading's own lines. That needs a
-line-level count, which is the Mad-Libs companion Grok also asked for:
-50 of the 670 A/B signs are the only K&T-unread sign on some line of their
-evidence folio, 7.5%; the rest were read in company.
-
 ## Summary
 
     Test 1   source presence, held-out folios    A+B 17.5 sigma   99% of K&T    PASS
@@ -415,23 +249,9 @@ evidence folio, 7.5%; the rest were read in company.
     Test 8   bootstrap from a random 30%          passage 33.9 sigma, recovery 8.5 sigma, PASS; absolute 8.4% and 0.9%
     Test 9   hidden 70% validated by the 30%       A+B 11.3 sigma, 130% of K&T's own rate   PASS
 
-    After the outside review, same day:
-    Test 11  passage map from K&T's words alone   median rank 25 of 1334, top-1 12.4%, p 2e-28   PASS
-    Test 10  search replayed on null books        7 / 215 / 2 kept at three scales; no power at any; FAIL FAIL PASS
-    Test 12  Test 5 rescored strict               73.7%, 8.4 sigma; +22.9 over K&T   FAIL on the leakage clause
-             outside re-glossers                  68% and 71% agree with ours   PASS
-    Test 13  underdetermination census            rivals 64.9%   FAIL; 0 of 94 readings satisfy the rule censused
-
-Where that leaves the 670 tier A/B readings. The passage map survives
-without them (Test 11), so Tests 1, 6 and 9 keep their target and their
-passes stand. Test 5 is no longer counted as independent confirmation: the
-readings match K&T's translations, and the match is what a reader with
-the sentence in hand would produce. The two instruments Grok specified for
-the search itself, the null replay and the census, do not model the search
-as it was run and gave no verdict either way; the honest version of the
-first is a blind human loop on a rotated book, not yet done. Tier C/D
-passes Test 1 and is too thin for the rest. The guesses are measured by
-Test 3: one in six strict, one in three lenient.
+Four independent tests, four passes, for the 670 tier A/B readings. Tier
+C/D passes Test 1 and is too thin for the other two. The guesses are
+measured by Test 3: one in six strict, one in three lenient.
 
 Also on record, from earlier the same day: K&T's own citations land on the
 folio they name 89.2% of the time and the exact line 97.5% of those, against

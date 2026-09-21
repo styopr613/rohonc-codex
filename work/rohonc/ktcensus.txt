@@ -1,0 +1,58 @@
+TEST 13: UNDERDETERMINATION CENSUS OF TIER A/B
+  chapters with a pool 1334; seed 20260921
+
+  chapter scale (the count the bar is on)
+    A/B signs counted (>= 3 distinct units)     94
+    chosen gloss survives every unit               0     0.0%
+    a rival stem also survives                    61    64.9%
+    chance: matched-frequency stem survives       0.3%
+      00b520ae0520ae0        pray               3 chapters   rivals: manner, seek
+      00b670ae0520ae0        pray               6 chapters   rivals: tell
+      060060060060060060060460 seventy            3 chapters   rivals: depart, despi, manner, thyself, worthy
+      0600601a6              pagan              3 chapters   rivals: answer
+      152240574              Moses              3 chapters   rivals: answer, depart, tell, whatsoever
+      271670ae0271670ae0     an_army            6 chapters   rivals: near, spok
+      2c0b01                 left               3 chapters   rivals: answer, ruler
+      432670                 chapter            3 chapters   rivals: hat, whosoever
+      4f1060                 rise               3 chapters   rivals: another, answer, enter, gar, hereafter
+      520001152520ae0        sky                3 chapters   rivals: ari, depart, enter, ruler
+      520001851520           Vespasi-           3 chapters   rivals: answer, ruler
+      5200600500403b6        water              3 chapters   rivals: another, answer, enter, gar, hereafter
+      5200609a7060           rather             3 chapters   rivals: tell
+      5201d3                 new                4 chapters   rivals: accord, another
+      520286520              cords              3 chapters   rivals: answer, ruler
+      5203f0255              heaven             4 chapters   rivals: cast
+      5203f02c1520850        offer              3 chapters   rivals: accord, another, cast, city, deliver
+      5206e3                 pine               3 chapters   rivals: answer, cast, gar, midst
+      5206e4624              into Paradise      3 chapters   rivals: cast, midst, work
+      520793                 water              3 chapters   rivals: answer
+      5207a1ae0              the Roman          3 chapters   rivals: answer, ruler
+      520a10ae050a           bosom              3 chapters   rivals: answer, child
+      520ae00a20a2ae0        bread              5 chapters   rivals: answer
+      520afc                 mourn              4 chapters   rivals: answer, seven, wick
+      520b14                 judge              4 chapters   rivals: answer
+      520b73                 believe            3 chapters   rivals: another, seek, tell
+      520b78                 mount              5 chapters   rivals: enter
+      540060060131           Lazarus            3 chapters   rivals: answer, ari, certain, city, concern
+      5400607b4270540        face               3 chapters   rivals: another
+      5402d1ae1              loaves             4 chapters   rivals: answer
+      540ae0060060270ae0     bread              3 chapters   rivals: another, answer, cau, chief, soon
+      540ae00a20a2270ae0     bread              3 chapters   rivals: seek
+      540ae0520250           emperor            3 chapters   rivals: tell
+      574ae09f3              saying             3 chapters   rivals: till
+      5d13b7a101314a0        sword              3 chapters   rivals: answer, child, tell
+      5e4670a82              finger             3 chapters   rivals: another
+      630520020520           of cords           3 chapters   rivals: answer, ruler
+      64d                    destroyed          3 chapters   rivals: answer, ruler
+      6706703b7              Nazareth           4 chapters   rivals: enter, tell
+      670690360              Elijah             6 chapters   rivals: answer
+
+  verse scale, as the notes cite (reported, no bar)
+    A/B signs counted (>= 3 distinct units)     70
+    chosen gloss survives every unit               1     1.4%
+    a rival stem also survives                     3     4.3%
+    chance: matched-frequency stem survives       0.0%
+
+  companion: A/B signs that are the only K&T-unread sign on some line of an evidence folio   50 of 670   7.5%   (reported, no bar)
+
+  BAR: rivals in <= 40% of counted signs  ->  FAIL

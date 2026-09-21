@@ -1,0 +1,24 @@
+TEST 11: PASSAGE IDENTIFICATION FROM K&T'S WORDS ALONE
+  candidates: 1334 Douay chapters; folios with a cited chapter 298
+  K&T signs with a content stem 759; our readings not consulted
+
+  K&T's glosses, as published
+    folios scored                     298
+    cited chapter is top-1              37    12.4%
+    top-1 chapter is in a cited book    70    23.5%   (reported, no bar)
+    cited chapter in top 5% (<=67)     211    70.8%
+    median rank of cited chapter        25   of 1334
+    beats frequency-matched decoy      241/298   p = 2.20e-28
+    beats other-genre decoy            281/298   p = 4.25e-63
+
+  K&T's glosses shuffled among their signs (seed fixed)
+    folios scored                     298
+    cited chapter is top-1               3     1.0%
+    top-1 chapter is in a cited book     7     2.3%   (reported, no bar)
+    cited chapter in top 5% (<=67)      34    11.4%
+    median rank of cited chapter       428   of 1334
+    beats frequency-matched decoy      166/298   p = 2.79e-02
+    beats other-genre decoy            191/298   p = 6.54e-07
+
+  BAR: median rank <= 67 of 1334 and p < 0.01 against the frequency-matched decoy  ->  PASS
+  absolute top-1 accuracy 12.4%

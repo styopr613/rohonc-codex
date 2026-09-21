@@ -1,0 +1,13 @@
+TEST 10b: THE KEEP-RULE REPLAYED ON NULL BOOKS, CHAPTER SCALE
+  cited folios 298; distinct chapters 91; rule needs >= 3 distinct chapters; median chapter pool 87 free stems; offset 17; seed 20260921
+
+  book        signs   kept  trials  held-out  shuffle    sd  sigma
+  real          377    306    1545     47.9%    51.1%  0.98   -3.3
+  global        601    496    2435     48.3%    49.9%  0.93   -1.7
+  rotated       458    380    1758     44.8%    46.9%  0.95   -2.2
+
+  real-book readings the rule kept that this project also read: 102 of 306; same stem 0  (reported, no bar)
+
+  global    kept 496 vs real 306: AT OR OVER half   held-out -1.7 sigma: under 5
+  rotated   kept 380 vs real 306: AT OR OVER half   held-out -2.2 sigma: under 5
+  BAR: both nulls under half the real count and under 5 sigma  ->  FAIL
