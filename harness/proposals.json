@@ -4187,5 +4187,41 @@
   "tier": "G",
   "n": 1,
   "evidence": "GUESS, from Barlaam. 148v:4 reads 'outgrow [root] and there came two mice, one black' and line 5 has the two mice beginning to eat the tree. Barlaam: 'two mice, the one white, the other black, that never ceased to gnaw the ROOT of the tree whereon he hung'. root carries no sign; branch does (70a550ae0), which is why the guess is root and not branch. One occurrence, and weaker than the dragon: the slot could as easily be a foothold or a bough."
+ },
+ "54027a540": {
+  "gloss": "linen",
+  "tier": "G",
+  "n": 1,
+  "evidence": "GUESS, from Luke 16:19. Folio 088v:8 reads 'and the rich man, every [linen] and purple, the rich man went' -- Douay: 'There was a certain rich man, who was clothed in PURPLE and fine LINEN, and feasted sumptuously every day.' The codex has purple immediately after the hole and 'every' immediately before it, which is the verse's 'every day'. purple is already read (7b49935207a0670); linen carries no sign. One occurrence, nothing to check it against."
+ },
+ "5203d4": {
+  "gloss": "commend",
+  "tier": "C",
+  "n": 3,
+  "evidence": "Luke 23:46, Douay: 'Father, into thy hands I COMMEND my spirit. And saying this, he gave up the ghost.' All three occurrences stand in the death on the cross, and two of them come immediately before the codex's own 'give up the ghost': 052r:1 'and from, to the Lord Jesus, of the Lord [commend], gave up the ghost'; 052v:1 'and then the Lord Jesus, of the Lord, [commend], gave up the ghost, the cross, the earth'. The third, 051v:11, reads 'this Lord, this Father of the Lord, [commend], into the Father's hands', which is the other half of the same verse. spirit, soul and ghost are all already read by other signs and hands is read too, so commend is the one word of the verse with no sign. One scene, told across three consecutive folios, so nothing independent tests it: tier C."
+ },
+ "750950060": {
+  "gloss": "reckon_with",
+  "tier": "C",
+  "n": 3,
+  "evidence": "Matthew 25:19, Douay: 'But after a long time the lord of those servants came and RECKONED with them.' The parable of the talents is established on these folios by Kiraly and Tokai's own citations of their talent sign at 173-175. All three occurrences carry the identical formula -- 173v:10, 174r:7 and 174v:5 all read 'and then this rich lord [reckoned with] the servants' -- and an identical formula repeated is how this project establishes that a sign means one thing. Their a83 already carries the noun 'the account', which leaves the verb free. One parable, so tier C."
+ },
+ "5200609a2670690": {
+  "gloss": "child",
+  "tier": "C",
+  "n": 3,
+  "evidence": "The child. 084v is the legend of Augustine and the boy by the sea, who says he will sooner empty the sea into his pit than Augustine will understand the Trinity: 084v:1 'and then holy Augustine, this [child], the son of the Lord God' and 084v:6 'said this [child], the son of the Lord God'. The third occurrence, 086r:9, stands beside Elijah, where the child is the widow's son. child carries no sign of its own (boy and son both do, and are used elsewhere on these same pages, which is why this one is read as child). Two different stories both take it, but neither can test the other: tier C."
+ },
+ "6307966370b0": {
+  "gloss": "seek",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Two different resurrection verses on two folios, and both require the same word. 055v:6 reads 'crucified, risen, [seek], a) the three Marys went' -- Douay Mark 16:6: 'you SEEK Jesus of Nazareth, who was crucified. He is risen'. 056r:4 reads 'Jesus crucified, risen, [seek], because' -- Douay John 20:15: 'Woman, why weepest thou? Whom SEEKEST thou?' The two folios cite those two verses independently and seek is the only content word both share that no sign carries. K&T's want and ask(for) are different Hungarian words from seek, so this is not a synonym of a sign already read. Neither occurrence can check the other, so tier C."
+ },
+ "639270": {
+  "gloss": "ascend",
+  "tier": "C",
+  "n": 2,
+  "evidence": "The creed formula, twice. 017r:11 reads 'the Lord crucified, and on the third day rose from the dead, and [ascended], saved'; 017v:8 reads 'the Lord rose, and [ascended], saved every wide people'. The clause that follows 'rose again the third day' in the creed is 'he ascended into heaven', and the codex gives the creed in full more than once (042v, 026v, 104r). ascend and descend both carry no sign; descend belongs before the rising, not after it, which is why this is read as ascend. Both occurrences are the same formula on consecutive folios, so nothing independent tests it: tier C."
  }
 }
