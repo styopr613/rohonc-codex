@@ -110,6 +110,45 @@ bar three ways (43.8% by line counts, correlation +0.20 by word counts):
 line counts barely vary and the scan is 100 ppi. Until the images can be
 mapped another way, the pictures cannot be used.
 
+## Test 7 — take K&T's words away
+
+`harness/ktrecover.py` · `work/rohonc/ktrecover.txt`
+
+Two questions. First: hide every one of K&T's 841 glosses and render the
+book from this project's readings alone. Does it still read?
+
+    words read           3579 / 29997    11.9%
+    lines touched        2466 /  4372    56.4%
+    lines fully read        2 /  4372     0.0%
+
+No. Our readings are an extension of their dictionary and read nothing
+without it. That is what they were built to be.
+
+Second: can ours give K&T's words back? Hide one of their signs, render its
+line with our readings only, align the line to the cited passage in order,
+and take as candidates the passage words that fall between the nearest
+matched word before the hidden sign and the nearest after. Then reveal
+their gloss. Control: our glosses shuffled among the signs. Ceiling: the
+same method with the whole dictionary as anchors.
+
+    616 K&T signs, 1392 occurrences, capped at three per sign
+
+    anchors        presence   top-1   no anchor
+    ours A+B          2.6%     0.4%      89.1%
+    ours A-D          3.7%     0.5%      84.6%
+    K&T + ours       10.9%     1.9%      39.7%
+    shuffled          0.7%     0.1%
+
+    ours A-D vs shuffled   4.4 sigma   needed 5   FAIL
+
+The direction is right and the bar is not met. The reason is on the same
+table: with our readings alone, nine lines in ten have nothing that matches
+the passage, so there is nothing to bracket the slot; and even with the
+whole dictionary as anchors the method finds the word only one time in
+nine. The instrument is weak. What can be said is that ours alone reach
+about a third of what the whole dictionary reaches by it, and beat a
+shuffle of themselves by four sigma.
+
 ## Summary
 
     Test 1   source presence, held-out folios    A+B 17.5 sigma   99% of K&T    PASS
@@ -118,6 +157,7 @@ mapped another way, the pictures cannot be used.
     Test 2   part of speech                      instrument fails on K&T's own words
     Test 3   blindfold                           drawn, needs a blind reader
     Test 4   illustrations                       blocked on the image mapping
+    Test 7   K&T's words removed                 reads 11.9% from ours alone; recovery 4.4 sigma, FAIL
 
 Three independent tests, three passes, for the 670 tier A/B readings. Tier
 C/D passes Test 1 and is too thin for the other two. The guesses are
