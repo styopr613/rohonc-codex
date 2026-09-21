@@ -37,9 +37,9 @@ than one that does not; it is only harder to check.
 
     words in the manuscript            29997
     read                               27945 (93.2%)
-    read from one passage, marked *    986 (3.3%)
+    read from one passage, marked *    988 (3.3%)
     restored, in brackets              59 (0.2%)
-    dark, printed as an ellipsis       1007 (3.4%)
+    dark, printed as an ellipsis       1005 (3.4%)
 
     lines with every word read         3531 of 4372 (80.8%)
     lines complete including
@@ -2584,7 +2584,7 @@ words. There are 59 of them now.
   1  alms and the_poor_man/woman* alms take rich [...]
   2  a) the_poor_man/woman* out(ward) chase and then-exist lie this
   3  the_poor_man/woman* out(ward) ~gate to-<preposition_of_genitive>-rich exist-+one because exist the_poor_man/woman* [...]
-  4  exist [...] and then-exist want the_poor_man/woman* trespass from crumbs [...]
+  4  exist [...] and then-exist want the_poor_man/woman* trespass from crumbs the_dogs*
   5  on-<preposition_of_genitive>-rich throne [...] the_poor_man/woman* take and then-exist | have
   6  rich many dog and go-dog this Lazarus ~and
   7  lick-dog <preposition_of_genitive>-Lazarus wound-+mouth and Lazarus more
@@ -2609,7 +2609,7 @@ words. There are 59 of them now.
   9  ~rich son <preposition_of_genitive>-father-<suffix_of_divine_name> this-~rich good [...] he_is*
  10  Lazarus exist [...] [...] people* in_turn this-~rich exist
  11  rich blind* [...] this-~rich grab-Lazarus trespass from crumbs
- 12  [...] [?]-~rich throne ~rich grab [...] ~rich Lazarus take
+ 12  the_dogs* [?]-~rich throne ~rich grab [...] ~rich Lazarus take
 
 ## 090r — a great gulf fixed, and they have Moses and the prophets
 

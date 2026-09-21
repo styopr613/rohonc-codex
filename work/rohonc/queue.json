@@ -339,6 +339,10 @@
   "state": "pass",
   "why": "140v; slot open"
  },
+ "493": {
+  "state": "pass",
+  "why": "A FIXED PAIR with 533ae0: the two stand side by side and the whole line is repeated verbatim at 101r:8 and 134r:1, 'X Y through be born, two-headed evil', which on 134r runs straight into K&T's own compound for Antichrist. The repetition proves the formula; neither word is named."
+ },
  "4a7250": {
   "state": "pass",
   "why": "185v Heraclius at the gate; K&T's motion root but no sense determined"
@@ -359,6 +363,10 @@
   "state": "pass",
   "why": "055r, single glyph between two namings of the two Marys; probably a conjunction"
  },
+ "4e04a0": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
  "4e1b219d6": {
   "state": "pass",
   "why": "195r, no source"
@@ -374,6 +382,10 @@
  "4f9": {
   "state": "pass",
   "why": "165v; slot open"
+ },
+ "520007": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
  "520060060270003003": {
   "state": "pass",
@@ -455,6 +467,10 @@
   "state": "pass",
   "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
  },
+ "52015253b": {
+  "state": "pass",
+  "why": "A FIXED PAIR with 5699c0: the two signs stand side by side in all three of their occurrences, 215v:7, 216v:6 and 217v:1, each time directly after 'out(ward)' in a stoning scene -- John 8:59 (they took up stones, and he went out of the temple), Acts 7:58 (casting him forth without the city, they stoned him), Acts 7:54. The pair is proved to be one formula; neither word is named. Both left dark."
+ },
  "520152962ae0": {
   "state": "pass",
   "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
@@ -482,6 +498,10 @@
  "520173": {
   "state": "pass",
   "why": "Single occurrence, slot open: no free word of the cited passage fits the position, or the passage supplies two candidates with nothing to choose between them. Looked at in the batch-5 pass of ktdark.py and left dark."
+ },
+ "520191": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
  "5201a0": {
   "state": "pass",
@@ -695,6 +715,10 @@
   "state": "pass",
   "why": "'[x] three soul' x2 on the descent into hell, slot open"
  },
+ "5208555705200609900607a0670": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
  "5208a8": {
   "state": "pass",
   "why": "identical formula 141r/198v after 'have mercy', slot open"
@@ -703,9 +727,17 @@
   "state": "pass",
   "why": "099r/116r no one word fits both"
  },
+ "520967540": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
  "520ac3ae01f2": {
   "state": "pass",
   "why": "194r no one word fits both"
+ },
+ "520ae0a10932a10670": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
  "520b42": {
   "state": "pass",
@@ -723,9 +755,21 @@
   "state": "pass",
   "why": "187v Exodus 14, slot open"
  },
+ "533ae0": {
+  "state": "pass",
+  "why": "A FIXED PAIR with 493; see that entry. Verbatim repetition at 101r:8 and 134r:1 proved, words not named."
+ },
+ "537961": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
  "5405200602b1": {
   "state": "pass",
   "why": "144v-145v 'grab bread and [x]', no source, slot open"
+ },
+ "540962670060962": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
  "546": {
   "state": "pass",
@@ -739,6 +783,10 @@
   "state": "pass",
   "why": "single glyph, two unrelated slots"
  },
+ "5699c0": {
+  "state": "pass",
+  "why": "A FIXED PAIR with 52015253b; see that entry. Formula proved, words not named."
+ },
  "56b0607a0824": {
   "state": "pass",
   "why": "016v Joachim's portions; K&T already have 'portion' (a10aa0)"
@@ -746,6 +794,10 @@
  "571130": {
   "state": "pass",
   "why": "039v/042r no source"
+ },
+ "5a5": {
+  "state": "pass",
+  "why": "A FIXED PAIR with 6f9, in an identical formula at 009r:5 and 181v:6: '[5a5] see believe and [6f9]', with 'wound' beside it both times, on the two folios that carry John 20:27-29 -- 'be not faithless, but believing' and 'blessed are they that have not seen, and have believed'. The verse needs 'not' and 'blessed', and both of those stems are already carried by other signs, so neither can be assigned here. Formula proved, words not named."
  },
  "5c2": {
   "state": "pass",
@@ -767,9 +819,17 @@
   "state": "pass",
   "why": "single glyph, three slots on Luke 16 with no consistent word"
  },
+ "5f5ae0": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
  "6305201d9": {
   "state": "pass",
   "why": "033r/033v slot open"
+ },
+ "6305203c2": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
  "630520990690": {
   "state": "pass",
@@ -807,6 +867,14 @@
   "state": "pass",
   "why": "038r/041v slot open"
  },
+ "6f9": {
+  "state": "pass",
+  "why": "A FIXED PAIR with 5a5; see that entry."
+ },
+ "723": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
  "73a": {
   "state": "pass",
   "why": "174v/176r no one word fits both"
@@ -814,6 +882,10 @@
  "73b": {
   "state": "pass",
   "why": "224r-224v, the two most damaged folios; unreadable context"
+ },
+ "7a006077f": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
  "7b9": {
   "state": "pass",
@@ -831,6 +903,10 @@
   "state": "pass",
   "why": "single glyph, two unrelated slots"
  },
+ "8122b52b5ae0535": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
  "813": {
   "state": "pass",
   "why": "single glyph, line-initial x3 with no consistent word; a particle"
@@ -846,6 +922,10 @@
  "8a2ae0362": {
   "state": "pass",
   "why": "018v Luke 1:35 slot open"
+ },
+ "8a7ae0": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  },
  "8e4": {
   "state": "pass",
@@ -891,8 +971,20 @@
   "state": "pass",
   "why": "single glyph after 'son' x2; 'young' is the free word (Luke 7:14) but a one-glyph noun is unlikely"
  },
+ "aa4": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
+ "aac": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
+ },
  "b39": {
   "state": "pass",
   "why": "150v prodigal son and 151r Hezekiah; no one word fits both"
+ },
+ "b52011": {
+  "state": "pass",
+  "why": "Occurs more than once and every occurrence was checked, but no one word fits them all, or the word the passage supplies is already carried by another sign. Looked at in the multi-occurrence pass of ktdark.py and left dark."
  }
 }
