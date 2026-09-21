@@ -645,16 +645,8 @@ def main(argv):
         print("wrote", a.out)
     if a.shelf:
         os.makedirs(os.path.join(a.shelf, "img"), exist_ok=True)
-        # The studio's Design panel and the cover are the OWNER's decisions, made
-        # on the shelf with the preview in front of him. A rebuild carries the
-        # text; it must not undo them. Everything else is regenerated.
-        shelf_json = os.path.join(a.shelf, "book.json")
-        if os.path.isfile(shelf_json):
-            old = json.load(open(shelf_json, encoding="utf-8"))
-            for k in ("design", "cover", "cover_gid", "cover_trim"):
-                if k in old:
-                    bk[k] = old[k]
-        json.dump(bk, open(shelf_json, "w"), ensure_ascii=False)
+        json.dump(bk, open(os.path.join(a.shelf, "book.json"), "w"),
+                  ensure_ascii=False)
         print("shelved", a.shelf)
     return 0
 
