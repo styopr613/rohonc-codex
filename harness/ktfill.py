@@ -31,8 +31,8 @@ THE TEST, declared before the run:
     python3 ktfill.py HEX ...          the same for named signs
 
 The image: data/rohonc/scan/nat-NNN.png is one spread; the folio number is
-written on the left page, so nat-052 is 052v on the left and 053r on the
-right. `page FOLIO` writes that half, doubled, to /tmp/claude-1001/.../scratchpad.
+written on the left page, which is the RECTO (the book reads right to
+left): nat-052 is 052r on the left and 051v on the right. `page FOLIO` writes that half, doubled, to /tmp/claude-1001/.../scratchpad.
 """
 import math
 import os
@@ -195,14 +195,18 @@ def guess(left, right, sents, index, taken, freq, exclude=()):
 def page_image(folio):
     """Write the half-spread for a folio to the scratchpad; return the path."""
     from PIL import Image
+    # The codex reads right to left, so a spread shows the RECTO of leaf N on
+    # the LEFT (the leaf number is written there: "52" on nat-052's left page,
+    # "202" on nat-202's) and the verso of leaf N-1 on the right. The first
+    # version had this backwards and served 132v as 134r.
     n, side = int(folio[:3]), folio[3]
-    spread = n if side == "v" else n - 1
+    spread = n if side == "r" else n + 1
     src = os.path.join(SCAN, f"nat-{spread:03d}.png")
     if not os.path.exists(src):
         return None
     im = Image.open(src)
     w, h = im.size
-    box = (0, 0, w // 2, h) if side == "v" else (w // 2, 0, w, h)
+    box = (0, 0, w // 2, h) if side == "r" else (w // 2, 0, w, h)
     out = im.crop(box).resize(((w // 2) * 2, h * 2), Image.LANCZOS)
     os.makedirs(SCRATCH, exist_ok=True)
     path = os.path.join(SCRATCH, f"{folio}.png")

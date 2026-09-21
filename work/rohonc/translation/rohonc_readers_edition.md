@@ -36,14 +36,14 @@ than one that does not; it is only harder to check.
 ## What this edition is worth, in numbers
 
     words in the manuscript            29997
-    read                               27938 (93.1%)
-    read from one passage, marked *    975 (3.3%)
-    restored, in brackets              43 (0.1%)
-    dark, printed as an ellipsis       1041 (3.5%)
+    read                               27943 (93.2%)
+    read from one passage, marked *    981 (3.3%)
+    restored, in brackets              48 (0.2%)
+    dark, printed as an ellipsis       1025 (3.4%)
 
-    lines with every word read         3519 of 4372 (80.5%)
+    lines with every word read         3525 of 4372 (80.6%)
     lines complete including
-      restorations                     3555 of 4372 (81.3%)
+      restorations                     3566 of 4372 (81.6%)
 
 The evidence for every single word is in `harness/proposals.json`, one entry
 per sign, with its tier and the argument in full. `harness/ktprov.py` prints
@@ -53,7 +53,7 @@ including the two that failed.
 
 **Brackets are the measure of what is left to do.** Every time a source text
 enters the corpus, or a formula turns up twice, some of them become plain
-words. There are 43 of them now.
+words. There are 48 of them now.
 
 ---
 
@@ -687,7 +687,7 @@ words. There are 43 of them now.
   9  exist* sons* go Bethlehem and then-exist.
  10  rejoiced kneel_(down) and each,_every this ~exist kneel_(down) | ~exist
  11  [...] from sons* [...] to go another and
- 12  [...] thanks and thanks grab end this holy-gospel
+ 12  [the_Most_High_Lord] thanks and thanks grab end this holy-gospel
  13  fifth confess ~have Lord-Jézus sky
 
 ## 026r — the earth quakes
@@ -954,7 +954,7 @@ words. There are 43 of them now.
   1  and two go Lord on-?as-[?] and kneel_(down) Lord-Jézus and_then
   2  father-<suffix_of_divine_name> eternal* from not_take-father from Lord this suffering
   3  in_turn <subject_marker> pleasing and then-exist to-to-to sweat through
-  4  Lord-Jézus because [...] Lord-Jézus [...] Lord suffering
+  4  Lord-Jézus because [...] Lord-Jézus how?-?first Lord suffering
   5  not-chapter and go Lord to-apostle but apostle to-sleep
   6  and_then Lord-Jézus rise and ~have-apostle awake
   7  time go holy-Peter and_say on-+three army-to sit
@@ -977,7 +977,7 @@ words. There are 43 of them now.
   8  write and [...] righteous(ly) out(ward)-+one-out(ward) he_who* from-prophet.
   9  write and go-Lord to-apostle and_then Lord-Jézus
  10  brother <preposition_of_genitive>-Lord and have-Lord-apostle one little
- 11  [...] and then-exist [...] [...] and then-exist apostle | to
+ 11  not-?not-?first and then-exist [...] [...] and then-exist apostle | to
 
 ## 035r — the sign, and the kiss
 
@@ -1090,7 +1090,7 @@ words. There are 43 of them now.
   3  first denial Lord-Jézus because say Peter not* Lord and-to-Lord-to
   4  and brought* Lord-Jézus to-Caiaphas high_priest and | then-exist
   5  say to-Lord go before Caiaphas and shout
-  6  Jew(ish) this-Caiaphas-+say [...] go this believe
+  6  Jew(ish) this-Caiaphas-+say [expedient] go this believe
   7  this half-believe Lord and to-Lord <subject_marker> from apostle-exist-exist
   8  food bread each,_every people on-Lord [...] | in_turn
   9  two say-+say say son God third say-+say king
@@ -1412,7 +1412,7 @@ words. There are 43 of them now.
 > the Virgin Mary came to the Lord Jesus; and | […] […] his bonds. And then the Lord Jesus […] his […] said, […] […] this, in the commandment […] his apostles; and the Jews saw […] the whole wide world To his passion the Lord went; and […] said, in the Lord believed; and they laid the Lord upon the cross, and the Lord […] one […] and the two […] the cross, and could […] and […] […] and […] […]; and his feet could
 
   1  leave-to-leave virgin-Mary to-Lord-Jézus and | from
-  2  [...] [...] <preposition_of_genitive>-Lord handcuffs and_then
+  2  [...] <preposition_of_genitive>-exist-?first <preposition_of_genitive>-Lord handcuffs and_then
   3  Lord-Jézus name-[?]-~exist <preposition_of_genitive>-Lord have say
   4  trespass [...] this inside commandment this apostle-+one <preposition_of_genitive>-Lord apostle
   5  and see Jew(ish) [...] good the_whole_wide_world
@@ -1780,7 +1780,7 @@ words. There are 43 of them now.
   7  on-spirit holy-farm <subject_marker> righteous(ly) son God
   8  to Lord-Jézus two apostle <preposition_of_genitive>-to-leave-this and
   9  go_away among two apostle Lord-Jézus-Christ chapter-?answered
- 10  Lord-to [...] see-two-apostle end this holy-gospel
+ 10  Lord-to [vanished] see-two-apostle end this holy-gospel
 
 ## 063v — Thomas was not with them
 
@@ -2013,7 +2013,7 @@ words. There are 43 of them now.
 
   1  farm in_turn you vine_branch and go
   2  father-<suffix_of_divine_name> <preposition_of_genitive>-Lord farm angel [...] this | name-Lord
-  3  grapevine and without-+name vine_branch | [...]
+  3  grapevine and without-+name vine_branch | [nothing]
   4  name grab this cut_off and vine_branch out(ward)
   5  on-~way throw_out and_then Lord-Jézus and somebody exist
   6  inside Lord-[?]-~carry-Lord stay and this-Lord exist
@@ -2394,7 +2394,7 @@ words. There are 43 of them now.
 
 > is good […] he who is light; in turn the second is good, warmth; the third is good from the Sun; the sun's light signifies the Son of God; in turn the warmth signifies the Holy Spirit; in turn the Sun itself signifies the Father; upon this Lord, from the Sun proceeds the light, proceeds the warmth, proceeds the Son from the Father, proceeds the Holy Spirit from the Father; he is the sun, one form; this is one God; in turn who is, this can have, how can heaven and earth quake, and in his […] prepare heaven, in turn, and the earth
 
-  1  <subject_marker> good [...] he_who* light in_turn-two <subject_marker> good warmth third <subject_marker> good
+  1  <subject_marker> good first* he_who* light in_turn-two <subject_marker> good warmth third <subject_marker> good
   2  from-Sun sun Sun light symbolize son God in_turn warmth
   3  symbolize holy-spirit in_turn from-Sun symbolize from-father-<suffix_of_divine_name> on-this-Lord from-Sun
   4  on-go_out light on-go_out warmth on-go_out son on-from-father-<suffix_of_divine_name>
@@ -2631,7 +2631,7 @@ words. There are 43 of them now.
 
 > the rich man; father Abraham […] the prophet preaches, believe […] […] good, the man Lazarus, believing and the body rose from the dead, the poor man. Said father Abraham, in turn who […] the brethren, the prophet, let the brethren believe, and the preaching and good, from the man […] […] the brethren believe; and the body rose from the dead, the man Lazarus […] this holy day. Here ends this holy gospel. Here begins this holy gospel, written by holy John, in the second chapter of his writing. At that time Nicodemus came by night to Lord Jesus, because he feared the Jews; and […] to the Lord he came
 
-  1  rich father-<suffix_of_divine_name> Abraham [...] prophet preach believe [...]
+  1  rich father-<suffix_of_divine_name> Abraham name-°vanished-from prophet preach believe [...]
   2  [...] good somebody-Lazarus believe-exist-exist
   3  and body from die stand_up-somebody-?the_poor_man/woman say father-<suffix_of_divine_name> Abraham in_turn-who cannot*
   4  brother prophet believe-brother-somebody and preach
@@ -2753,7 +2753,7 @@ words. There are 43 of them now.
   8  and say <preposition_of_genitive>-Lord-<suffix_of_divine_name> living-servant go on-(on_the)_roadside and on-way
   9  and on-town and on-gate town and.
  10  find-[?] inside only_one-+day-~exist blind-eye | to-exist-chapter
- 11  [...] body be_hungry and thirst inside only_one-+day-~exist and [...]
+ 11  [...] body be_hungry and thirst inside only_one-+day-~exist and [?]-?first.
 
 ## 094v — blessed is he that shall eat bread in the kingdom of God
 
@@ -2967,7 +2967,7 @@ words. There are 43 of them now.
   3  this exist-<preposition_of_genitive>-angel Lord-<suffix_of_divine_name> and this somebody from-exist
   4  and Elijah-somebody from-leave-to-leave [...] [...] and
   5  Elijah-somebody get_raptured heaven most_high and gate/open | Elijah
-  6  somebody [...] from-+day Noah Elijah sword carry
+  6  somebody man* from-+day Noah Elijah sword carry
   7  ~evil one-+gate/open and [Enoch] leave-to-leave Noah Elijah on-earth
   8  [...] [...] through be_born two ~head-evil ~evil
   9  and son hide_oneself-angel and exist-[?] evil exist Antichrist
@@ -4371,7 +4371,7 @@ words. There are 43 of them now.
   3  [...] through startle ~Adam and | go-die-Lord
   4  Christ one soldier-Lord-Jézus-die-Christ [...]
   5  [...] suffering and this | can
-  6  evil on-~begin through [...] and
+  6  evil on-~begin through the_death_of_the_Lord_Christ* and
   7  ~Adam grab this soldier-[?]-die-~Christ-chapter | <preposition_of_genitive>
   8  soldier-Lord-Jézus-die-Christ suffering lance and_then
   9  this soldier-Lord-Jézus-die-Christ escape-~Adam on-this
@@ -4932,7 +4932,7 @@ words. There are 43 of them now.
 
   1  thirty in_turn two-ten-rich alms-somebody to-down [...]
   2  this and this two [...] [...] <preposition_of_genitive>-manager Lord-<suffix_of_divine_name>-rich-somebody
-  3  in_turn [...] grab this <preposition_of_genitive>-manager Lord-<suffix_of_divine_name>-rich-somebody
+  3  in_turn unjust_steward* grab this <preposition_of_genitive>-manager Lord-<suffix_of_divine_name>-rich-somebody
   4  because manager was_accused* find and_then this manager
   5  this two-manager-alms-somebody [...] [...] | divide
   6  two-manager-alms-somebody and_then Lord-Jézus
@@ -5961,7 +5961,7 @@ words. There are 43 of them now.
   2  end this holy-gospel and on-apostle holy-gospel Lord-<suffix_of_divine_name> with_all_thy_heart*
   3  begins this holy-gospel
   4  write holy-Luke inside
-  5  nine [...] chapter <preposition_of_genitive>-write
+  5  nine end_of_numeral* chapter <preposition_of_genitive>-write
   6  time then-exist
   7  Lord-Jézus thirty inside one
   8  day time go | Lord
@@ -6082,7 +6082,7 @@ words. There are 43 of them now.
 
   1  begins this holy-gospel
   2  write holy-Matthew inside
-  3  14-+one [...] chapter | <preposition_of_genitive>
+  3  14-+one end_of_numeral* chapter | <preposition_of_genitive>
   4  write time
   5  then-exist Lord-Jézus
   6  inside thirty ~begin-+three_days time preach | Lord
@@ -6100,7 +6100,7 @@ words. There are 43 of them now.
   4  from evil exist pierce and_then Lord-Jézus then-exist.
   5  exorcise inside somebody one unclean
   6  ~spirit and go evil arid,_dry place and
-  7  [...] to-Lord place that_is on-virgin-from people and
+  7  [walketh] to-Lord place that_is on-virgin-from people and
   8  on-word people and exist [...] evil
   9  lodging-+and_then this evil this-evil
 

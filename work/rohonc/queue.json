@@ -3,6 +3,130 @@
   "state": "pass",
   "why": "single glyph, two unrelated slots"
  },
+ "0600600600601f7": {
+  "state": "pass",
+  "why": "Stands in the chapter-number slot of the citation formula, written as four strokes, one mark, four strokes. The formula is proved: Matthew five strokes gives the salt and the light (Mt 5:13-14) at 108r, Luke seven strokes gives the widow's son at Naim (Lk 7:14) at 164v. But this sign's five occurrences lead to FOUR different chapters -- 195v to Peter and the keys and the third day (Mt 16), 134r to the king taking account of his servants (Mt 18), 202v to the tribute to Caesar (Mt 22), 071r to the lowest place at the supper (Lk 14). One sign cannot be four chapters, so it is not a chapter number and no arithmetic on the strokes (4+4, 4x4, 4-ten-4) survives all four. Left dark. Either the transcription normalises stroke counts, or the strokes are line filler beside the illustrations these folios carry."
+ },
+ "0600600600601f7060060060060": {
+  "state": "pass",
+  "why": "Stands in the chapter-number slot of the citation formula, written as four strokes, one mark, four strokes. The formula is proved: Matthew five strokes gives the salt and the light (Mt 5:13-14) at 108r, Luke seven strokes gives the widow's son at Naim (Lk 7:14) at 164v. But this sign's five occurrences lead to FOUR different chapters -- 195v to Peter and the keys and the third day (Mt 16), 134r to the king taking account of his servants (Mt 18), 202v to the tribute to Caesar (Mt 22), 071r to the lowest place at the supper (Lk 14). One sign cannot be four chapters, so it is not a chapter number and no arithmetic on the strokes (4+4, 4x4, 4-ten-4) survives all four. Left dark. Either the transcription normalises stroke counts, or the strokes are line filler beside the illustrations these folios carry."
+ },
+ "0600601f7060060460ae1": {
+  "state": "pass",
+  "why": "Stands in the chapter-number slot of the citation formula, written as four strokes, one mark, four strokes. The formula is proved: Matthew five strokes gives the salt and the light (Mt 5:13-14) at 108r, Luke seven strokes gives the widow's son at Naim (Lk 7:14) at 164v. But this sign's five occurrences lead to FOUR different chapters -- 195v to Peter and the keys and the third day (Mt 16), 134r to the king taking account of his servants (Mt 18), 202v to the tribute to Caesar (Mt 22), 071r to the lowest place at the supper (Lk 14). One sign cannot be four chapters, so it is not a chapter number and no arithmetic on the strokes (4+4, 4x4, 4-ten-4) survives all four. Left dark. Either the transcription normalises stroke counts, or the strokes are line filler beside the illustrations these folios carry."
+ },
+ "0600603711525203262c02708c0a7b607871817": {
+  "state": "pass",
+  "why": "13-glyph run-together phrase on 021v; the parts read (son, cut off, Lord, mother, Mary, holy) but the whole is not determined"
+ },
+ "060516": {
+  "state": "pass",
+  "why": "224r, the most damaged folio"
+ },
+ "060520b45": {
+  "state": "pass",
+  "why": "200v Matthew 21; the pool word 'heir' does not fit the slot after 'from town to town'"
+ },
+ "0607a3670ae0": {
+  "state": "pass",
+  "why": "149v Mark 16:16; slot open"
+ },
+ "0609907a02a1ae1": {
+  "state": "pass",
+  "why": "076v list of sins; slot open"
+ },
+ "060a75": {
+  "state": "pass",
+  "why": "084r; the line lists times of day but no free word is determined"
+ },
+ "072": {
+  "state": "pass",
+  "why": "single glyph, descent into hell"
+ },
+ "080043": {
+  "state": "pass",
+  "why": "017r Joachim's offering, no source"
+ },
+ "0800800800801f7080080080080": {
+  "state": "pass",
+  "why": "Stands in the chapter-number slot of the citation formula, written as four strokes, one mark, four strokes. The formula is proved: Matthew five strokes gives the salt and the light (Mt 5:13-14) at 108r, Luke seven strokes gives the widow's son at Naim (Lk 7:14) at 164v. But this sign's five occurrences lead to FOUR different chapters -- 195v to Peter and the keys and the third day (Mt 16), 134r to the king taking account of his servants (Mt 18), 202v to the tribute to Caesar (Mt 22), 071r to the lowest place at the supper (Lk 14). One sign cannot be four chapters, so it is not a chapter number and no arithmetic on the strokes (4+4, 4x4, 4-ten-4) survives all four. Left dark. Either the transcription normalises stroke counts, or the strokes are line filler beside the illustrations these folios carry."
+ },
+ "080080080080451080080080080": {
+  "state": "pass",
+  "why": "Stands in the chapter-number slot of the citation formula, written as four strokes, one mark, four strokes. The formula is proved: Matthew five strokes gives the salt and the light (Mt 5:13-14) at 108r, Luke seven strokes gives the widow's son at Naim (Lk 7:14) at 164v. But this sign's five occurrences lead to FOUR different chapters -- 195v to Peter and the keys and the third day (Mt 16), 134r to the king taking account of his servants (Mt 18), 202v to the tribute to Caesar (Mt 22), 071r to the lowest place at the supper (Lk 14). One sign cannot be four chapters, so it is not a chapter number and no arithmetic on the strokes (4+4, 4x4, 4-ten-4) survives all four. Left dark. Either the transcription normalises stroke counts, or the strokes are line filler beside the illustrations these folios carry."
+ },
+ "080520346": {
+  "state": "pass",
+  "why": "166v Deuteronomy 6:5; slot open"
+ },
+ "0a1b604b0": {
+  "state": "pass",
+  "why": "041r Pilate, no source"
+ },
+ "0b6343": {
+  "state": "pass",
+  "why": "023r John 4:46; slot open"
+ },
+ "0e2": {
+  "state": "pass",
+  "why": "single glyph line-initial 025r"
+ },
+ "0e2060": {
+  "state": "pass",
+  "why": "193v Matthew 9:9; slot open"
+ },
+ "0f0": {
+  "state": "pass",
+  "why": "024r, no source"
+ },
+ "0f7b604b0": {
+  "state": "pass",
+  "why": "043v, no source"
+ },
+ "114": {
+  "state": "pass",
+  "why": "single glyph 037r, no source"
+ },
+ "116520": {
+  "state": "pass",
+  "why": "084r Augustine and the child; slot open"
+ },
+ "122": {
+  "state": "pass",
+  "why": "single glyph 180v, no source"
+ },
+ "153": {
+  "state": "pass",
+  "why": "076v Peter on the water; slot open"
+ },
+ "171520": {
+  "state": "pass",
+  "why": "157v; slot open"
+ },
+ "174": {
+  "state": "pass",
+  "why": "single glyph 125v"
+ },
+ "1b2": {
+  "state": "pass",
+  "why": "127v 2 Timothy 4; slot open"
+ },
+ "1b3520": {
+  "state": "pass",
+  "why": "040r, no source"
+ },
+ "1b5670ae0": {
+  "state": "pass",
+  "why": "087v; slot open"
+ },
+ "1b6540540": {
+  "state": "pass",
+  "why": "112v John 11:35; slot open"
+ },
+ "1b65c3520": {
+  "state": "pass",
+  "why": "167v Luke 16:2; slot open"
+ },
  "1f1": {
   "state": "pass",
   "why": "single glyph before 'heavenly home' x2; a particle"
@@ -11,13 +135,69 @@
   "state": "pass",
   "why": "single glyph, two unrelated slots"
  },
+ "200": {
+  "state": "pass",
+  "why": "094v Luke 14:15; slot open"
+ },
+ "204ae1": {
+  "state": "pass",
+  "why": "109v Luke 19:29; two place names free (Bethphage, Olivet) and no way to choose between them"
+ },
+ "209": {
+  "state": "pass",
+  "why": "008r, no source"
+ },
+ "23c": {
+  "state": "pass",
+  "why": "019r, no source"
+ },
+ "23e": {
+  "state": "pass",
+  "why": "160v Mark 2:1; slot open"
+ },
+ "243ae0": {
+  "state": "pass",
+  "why": "199v Matthew 21:28; ends in K&T's 'day' and the verse has 'to day', but another sign already carries today"
+ },
+ "2515a3": {
+  "state": "pass",
+  "why": "214v John 8:51; slot open"
+ },
+ "253540": {
+  "state": "pass",
+  "why": "204v, no source"
+ },
+ "2570a3": {
+  "state": "pass",
+  "why": "034v Luke 22:43; holds K&T's 'literal' but the phrase is not determined"
+ },
  "261520": {
   "state": "pass",
   "why": "035r and 188r, no one word fits both"
  },
+ "270060060990": {
+  "state": "pass",
+  "why": "200v Matthew 21:38; 'heir' is free but the sign begins with K&T's 'Lord'"
+ },
+ "270155": {
+  "state": "pass",
+  "why": "060r Emmaus; Cleophas is already carried by K&T's 520428"
+ },
+ "2707a1470": {
+  "state": "pass",
+  "why": "168r Luke 16:3; head of this project's 'man', slot open"
+ },
  "270854": {
   "state": "pass",
   "why": "222v author's calendar"
+ },
+ "2708c0034097": {
+  "state": "pass",
+  "why": "017r Joachim; only 50% covered"
+ },
+ "270990": {
+  "state": "pass",
+  "why": "070v John 14:13; slot open"
  },
  "343": {
   "state": "pass",
@@ -274,5 +454,9 @@
  "a63": {
   "state": "pass",
   "why": "single glyph after 'son' x2; 'young' is the free word (Luke 7:14) but a one-glyph noun is unlikely"
+ },
+ "b39": {
+  "state": "pass",
+  "why": "150v prodigal son and 151r Hezekiah; no one word fits both"
  }
 }
