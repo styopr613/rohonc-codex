@@ -22,11 +22,7 @@ python3 kttranslate.py > ../work/rohonc/kttranslate.txt 2>/dev/null || {
 python3 ktbump.py > /tmp/ktbump.out 2>&1 || { cat /tmp/ktbump.out; echo "ktbump failed"; exit 1; }
 tail -1 /tmp/ktbump.out
 ok=1
-# ktretellcheck is in this list because Book One is now a deliverable and its
-# three checks (range, quotation, number) are the only thing standing between
-# an editorial retelling and a fabricated one. A gate that is not run on every
-# commit is not a gate.
-for c in gate.py check_results.py check_rohonc.py ktretellcheck.py; do
+for c in gate.py check_results.py check_rohonc.py; do
   if python3 "$c" > "/tmp/$c.out" 2>&1; then
     echo "  ok    $c   $(tail -1 /tmp/$c.out)"
   else

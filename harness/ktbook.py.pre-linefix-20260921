@@ -81,25 +81,6 @@ PARTS = [
 PER_CHAPTER = 6
 
 
-# One parser for a numbered gloss line, and only one.
-#
-# This was two, and they disagreed for as long as the book existed. ktbook
-# matched r"^\s{2,}\d+\s", which wants two spaces before the number; the
-# reader's edition right-aligns its numbers in a width-3 field, so line 9 is
-# "  9  word" and line 10 is " 10  word" with ONE space. Every line numbered
-# ten or higher therefore fell out of Book Two and out of the retelling gate
-# that reads it -- 527 lines, 12.1% of the manuscript, silently missing.
-# ktenglish matched r"^\s*\d+\s+\S" and had them all, which is why the
-# English paragraphs quote words the line-by-line text did not show.
-#
-# It is the same fault as the folio count that stopped counting at 200r: a
-# pattern correct for one-digit numbers, wrong from ten on, agreeing with
-# itself for months. The rule from that one applies here too -- if a thing is
-# parsed in two places it will eventually disagree in one of them, so parse it
-# once and call it twice. ktenglish owns the pattern now and this asks it.
-GLOSSLINE = re.compile(r"^\s*\d+\s+\S")
-
-
 def folios():
     text = open(ED, encoding="utf-8").read()
     out = []
@@ -107,7 +88,8 @@ def folios():
                          text, re.M | re.S):
         pg, title, body = m.group(1), (m.group(3) or "").strip(), m.group(4)
         prose = [l[2:].strip() for l in body.splitlines() if l.startswith("> ")]
-        lines = [l.rstrip() for l in body.splitlines() if GLOSSLINE.match(l)]
+        lines = [l.rstrip() for l in body.splitlines()
+                 if re.match(r"^\s{2,}\d+\s", l)]
         out.append((pg, title, " ".join(prose), lines))
     return out
 
