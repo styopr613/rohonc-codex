@@ -6373,10 +6373,10 @@
   "evidence": "026v:11 and 104r:8, an identical line: 'somebody be damned to, and the Lord not believe, and [x]', on the folio citing Mark 16:16."
  },
  "5209c7670": {
-  "gloss": "on_the_eighth_day",
+  "gloss": "on_the_eighth",
   "tier": "G",
   "n": 1,
-  "evidence": "027r:4 'Virgin Mary conceived and born and [x] day', on the folio citing Luke 2:21, the circumcision on the eighth day."
+  "evidence": "027r:4 'Virgin Mary conceived and born and [x] day', on the folio citing Luke 2:21, the circumcision on the eighth day. CORRECTION: first guessed 'on_the_eighth_day', which repeated a word already standing beside it in the line -- 027r:4; 'day' already stands next to it in the line. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "6702c0": {
   "gloss": "understand",
@@ -6481,10 +6481,10 @@
   "evidence": "034r:11 '[x] pleasing because this Father'; K&T's entry for 'will' names this line in its variant list."
  },
  "2570a3": {
-  "gloss": "as_it_is_written",
+  "gloss": "spoken",
   "tier": "G",
   "n": 1,
-  "evidence": "034v:8 'write and [x] righteously ... from prophet'."
+  "evidence": "034v:8 'write and [x] righteously ... from prophet'. CORRECTION: first guessed 'as_it_is_written', which repeated a word already standing beside it in the line -- 034v:8; 'write' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "565": {
   "gloss": "he_rose",
@@ -6727,10 +6727,10 @@
   "evidence": "040r:2."
  },
  "1b3520": {
-  "gloss": "said",
+  "gloss": "answered",
   "tier": "G",
   "n": 1,
-  "evidence": "040r:3 'want with [x] say one Jew to'."
+  "evidence": "040r:3 'want with [x] say one Jew to'. CORRECTION: first guessed 'said', which repeated a word already standing beside it in the line -- 040r:3; 'say' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "8b0": {
   "gloss": "judged",
@@ -6961,10 +6961,10 @@
   "evidence": "048r:3 'Pilate out go on house DOWN among from [x]'."
  },
  "520825": {
-  "gloss": "my_people",
+  "gloss": "O_my",
   "tier": "G",
   "n": 1,
-  "evidence": "048r:8; 048v is the Improperia, 'O my people, what have I done to thee?'"
+  "evidence": "048r:8; 048v is the Improperia, 'O my people, what have I done to thee?' CORRECTION: first guessed 'my_people', which repeated a word already standing beside it in the line -- 048r:8, the Improperia; 'people' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "5b0670": {
   "gloss": "what",
@@ -7057,10 +7057,10 @@
   "evidence": "050r:4 'trespass [x] this inside COMMANDMENT'."
  },
  "520856520270": {
-  "gloss": "the_King_of_the_Jews",
+  "gloss": "the_title",
   "tier": "G",
   "n": 1,
-  "evidence": "050r:5 'and see the Jews [x] good the whole wide world'; the title on the cross."
+  "evidence": "050r:5 'and see the Jews [x] good the whole wide world'; the title on the cross. CORRECTION: first guessed 'the_King_of_the_Jews', which repeated a word already standing beside it in the line -- 050r:5; 'Jews' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "520093": {
   "gloss": "written",
@@ -7093,10 +7093,10 @@
   "evidence": "052v:7 'and can [x] SPEAR on'; John 19:34, one of the soldiers with a spear opened his side."
  },
  "5202604b0": {
-  "gloss": "believed",
+  "gloss": "many",
   "tier": "G",
   "n": 1,
-  "evidence": "053r:1 'can the Lord Jesus Christ and [x] inside the Lord believe'."
+  "evidence": "053r:1 'can the Lord Jesus Christ and [x] inside the Lord believe'. CORRECTION: first guessed 'believed', which repeated a word already standing beside it in the line -- 053r:1; 'believe' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "5209502e54b0": {
   "gloss": "darkness",
@@ -7189,10 +7189,10 @@
   "evidence": "055r:5, between two namings of the two Marys."
  },
  "9a5607": {
-  "gloss": "Mary",
+  "gloss": "Salome",
   "tier": "G",
   "n": 1,
-  "evidence": "055r:6, inside a run of Marys; the sign ends in K&T's 607 'Mary'."
+  "evidence": "055r:6, inside a run of Marys; the sign ends in K&T's 607 'Mary'. CORRECTION: first guessed 'Mary', which repeated a word already standing beside it in the line -- 055r:6; 'Mary' already stands next to it, and Salome is the third of the three. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "520530ae0": {
   "gloss": "the_sabbath",
@@ -7447,10 +7447,10 @@
   "evidence": "068v:8, on the folio citing John 16:7, 'if I go not, the Paraclete will not come to you'. The sign opens with K&T's 871 'holy'."
  },
  "7f8": {
-  "gloss": "I_say_to_you",
+  "gloss": "truly",
   "tier": "G",
   "n": 2,
-  "evidence": "069r:3 and 080v:2, an identical formula '[x] you exist many'."
+  "evidence": "069r:3 and 080v:2, an identical formula '[x] you exist many'. CORRECTION: first guessed 'I_say_to_you', which repeated a word already standing beside it in the line -- 069r:3 and 080v:2; 'say' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "a10003a10140": {
   "gloss": "all_men",
@@ -7585,10 +7585,10 @@
   "evidence": "076v:8, line-initial in the same list of sins."
  },
  "52068d903": {
-  "gloss": "humbled",
+  "gloss": "pride",
   "tier": "G",
   "n": 1,
-  "evidence": "076v:9 'because exist Peter [x] in turn inside HUMBLE'; the sign ends in K&T's 903 'humble'."
+  "evidence": "076v:9 'because exist Peter [x] in turn inside HUMBLE'; the sign ends in K&T's 903 'humble'. CORRECTION: first guessed 'humbled', which repeated a word already standing beside it in the line -- 076v:9; 'humble' already stands next to it, and the folio is a list of sins. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "b15": {
   "gloss": "forgiven",
@@ -7657,16 +7657,16 @@
   "evidence": "078r:2, on the folio citing John 7:24, 'Judge not according to the appearance'."
  },
  "52042b670": {
-  "gloss": "judge_not",
+  "gloss": "by_appearance",
   "tier": "G",
   "n": 1,
-  "evidence": "078r:5 '[x] FALSE JUDGE in turn false judge', the same verse: 'but judge just judgment'."
+  "evidence": "078r:5 '[x] FALSE JUDGE in turn false judge', the same verse: 'but judge just judgment'. CORRECTION: first guessed 'judge_not', which repeated a word already standing beside it in the line -- 078r:5, John 7:24; 'judge' already stands next to it twice. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "b33a98": {
-  "gloss": "every_idle",
+  "gloss": "idle",
   "tier": "G",
   "n": 1,
-  "evidence": "079r:4 'one word [x] word every'; Matthew 12:36, 'every idle word that men shall speak'."
+  "evidence": "079r:4 'one word [x] word every'; Matthew 12:36, 'every idle word that men shall speak'. CORRECTION: first guessed 'every_idle', which repeated a word already standing beside it in the line -- 079r:4, Matthew 12:36; 'every' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "64f": {
   "gloss": "give_account",
@@ -7741,10 +7741,10 @@
   "evidence": "081v:6; Acts 2:3, 'there appeared to them parted tongues as it were of fire'. The sign holds this project's 'upon them'."
  },
  "5402e55407a0": {
-  "gloss": "every_nation",
+  "gloss": "under_heaven",
   "tier": "G",
   "n": 1,
-  "evidence": "082r:2, on the folio citing Acts 2:5, 'devout men out of every nation under heaven'."
+  "evidence": "082r:2, on the folio citing Acts 2:5, 'devout men out of every nation under heaven'. CORRECTION: first guessed 'every_nation', which repeated a word already standing beside it in the line -- 082r:2, Acts 2:5; 'every' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "52032a": {
   "gloss": "amazed",
@@ -7813,16 +7813,16 @@
   "evidence": "084v:9, the subject of the whole folio."
  },
  "520060540152540231": {
-  "gloss": "and_sin_not",
+  "gloss": "and_keep",
   "tier": "G",
   "n": 1,
-  "evidence": "084v:12 and, as 520060540152520231, 085v:2, in an identical line formula on two folios: 'carry the LAW of GOD [x] SIN, somebody be saved'. Two spellings of one word, proved by the same-slot test; the word itself is this guess."
+  "evidence": "084v:12 and, as 520060540152520231, 085v:2, in an identical line formula on two folios: 'carry the LAW of GOD [x] SIN, somebody be saved'. Two spellings of one word, proved by the same-slot test; the word itself is this guess. CORRECTION: first guessed 'and_sin_not', which repeated a word already standing beside it in the line -- 084v:12; 'sin' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "520060540152520231": {
-  "gloss": "and_sin_not",
+  "gloss": "and_keep",
   "tier": "G",
   "n": 1,
-  "evidence": "085v:2; see 520060540152540231, its proved twin."
+  "evidence": "085v:2; see 520060540152540231, its proved twin. CORRECTION: first guessed 'and_sin_not', which repeated a word already standing beside it in the line -- 085v:2; its proved twin, same reason. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "540335540060812": {
   "gloss": "in_one_point",
@@ -7879,10 +7879,10 @@
   "evidence": "086r:9 'holy ELIJAH [x] little and inside Elijah'; 2 Kings 2:11, the chariot of fire that took Elijah up."
  },
  "737": {
-  "gloss": "heaven_and_earth",
+  "gloss": "together",
   "tier": "G",
   "n": 1,
-  "evidence": "086v:7."
+  "evidence": "086v:7. CORRECTION: first guessed 'heaven_and_earth', which repeated a word already standing beside it in the line -- 086v:7; 'heaven' and 'earth' both already stand next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "520256511651": {
   "gloss": "unconsumed",
@@ -7891,10 +7891,10 @@
   "evidence": "086v:8 and 086v:10; the torch that burns and is not consumed, which is the burning bush figure the folio applies to the Virgin."
  },
  "5e8": {
-  "gloss": "one_God",
+  "gloss": "God",
   "tier": "G",
   "n": 1,
-  "evidence": "086v:9, closing a list of the persons."
+  "evidence": "086v:9, closing a list of the persons. CORRECTION: first guessed 'one_God', which repeated a word already standing beside it in the line -- 086v:9; 'one' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "9a5ae0": {
   "gloss": "made",
@@ -7933,10 +7933,10 @@
   "evidence": "087r:10, the same figure."
  },
  "1b5670ae0": {
-  "gloss": "saith",
+  "gloss": "thus",
   "tier": "G",
   "n": 1,
-  "evidence": "087v:10 'Matthew speak [x] this somebody say'."
+  "evidence": "087v:10 'Matthew speak [x] this somebody say'. CORRECTION: first guessed 'saith', which repeated a word already standing beside it in the line -- 087v:10; 'say' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "520233520": {
   "gloss": "riches",
@@ -7957,10 +7957,10 @@
   "evidence": "088r:7; the same root as 8d4520, read 'remember' at 089v:8 from K&T's own cited line."
  },
  "569003569": {
-  "gloss": "was_buried",
+  "gloss": "there",
   "tier": "G",
   "n": 1,
-  "evidence": "088r:8; K&T cite 088r08 under their own '?? bury'."
+  "evidence": "088r:8; K&T cite 088r08 under their own '?? bury'. CORRECTION: first guessed 'was_buried', which repeated a word already standing beside it in the line -- 088r:8; 'bury' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "805": {
   "gloss": "fared_sumptuously",
@@ -7999,10 +7999,10 @@
   "evidence": "089r:5, 089v:12, 090v:1, on the folios citing Luke 16:21: 'desiring to be filled with the CRUMBS that FELL FROM the rich man's TABLE'. CORRECTION: first guessed 'table', which was wrong -- the sense-fitting pass then rendered the neighbouring sign as table and the line said it twice. Caught by reading the finished page."
  },
  "361": {
-  "gloss": "was_buried",
+  "gloss": "also",
   "tier": "G",
   "n": 1,
-  "evidence": "089v:2 'the rich man died and [x] inside hell BURY'; Luke 16:22."
+  "evidence": "089v:2 'the rich man died and [x] inside hell BURY'; Luke 16:22. CORRECTION: first guessed 'was_buried', which repeated a word already standing beside it in the line -- 089v:2, Luke 16:22, 'the rich man ALSO died: and he was buried in hell'; 'bury' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "5511d2": {
   "gloss": "cool",
@@ -8089,10 +8089,10 @@
   "evidence": "092r:8, the same verse."
  },
  "a102c05200e4ae0540": {
-  "gloss": "is_not_judged",
+  "gloss": "believeth_in_him",
   "tier": "G",
   "n": 1,
-  "evidence": "092r:9; John 3:18, 'He that believeth in him is not judged'."
+  "evidence": "092r:9; John 3:18, 'He that believeth in him is not judged'. CORRECTION: first guessed 'is_not_judged', which repeated a word already standing beside it in the line -- 092r:9, John 3:18; 'judged' already stands in the line. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "578": {
   "gloss": "already",
@@ -8101,10 +8101,10 @@
   "evidence": "092r:9; John 3:18, 'but he that doth not believe, is already judged'."
  },
  "52120a": {
-  "gloss": "judged",
+  "gloss": "condemned",
   "tier": "G",
   "n": 1,
-  "evidence": "092r:9, the same verse."
+  "evidence": "092r:9, the same verse. CORRECTION: first guessed 'judged', which repeated a word already standing beside it in the line -- 092r:9; 'judged' already stands in the line. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "670ae0670381": {
   "gloss": "prove_them",
@@ -8293,10 +8293,10 @@
   "evidence": "101r:8 and 134r:1, the same line repeated verbatim: '[x] [y] through BE BORN two-headed EVIL'. On 134r it runs straight into K&T's own compound for Antichrist."
  },
  "493": {
-  "gloss": "shall_be_born",
+  "gloss": "of_a_harlot",
   "tier": "G",
   "n": 2,
-  "evidence": "101r:8 and 134r:1, its proved partner in that repeated line."
+  "evidence": "101r:8 and 134r:1, its proved partner in that repeated line. CORRECTION: first guessed 'shall_be_born', which repeated a word already standing beside it in the line -- 101r:8 and 134r:1; 'be born' already stands next to it, and the Antichrist legend has him born of a harlot of the tribe of Dan. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "520284962": {
   "gloss": "consolation_of_Israel",
@@ -8719,10 +8719,10 @@
   "evidence": "126v:6."
  },
  "520796760270": {
-  "gloss": "by_the_cross",
+  "gloss": "thereon",
   "tier": "G",
   "n": 1,
-  "evidence": "126v:6 'REDEMPTION this Lord CROSS [x]'."
+  "evidence": "126v:6 'REDEMPTION this Lord CROSS [x]'. CORRECTION: first guessed 'by_the_cross', which repeated a word already standing beside it in the line -- 126v:6; 'cross' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "1b2": {
   "gloss": "writeth",
@@ -8737,10 +8737,10 @@
   "evidence": "128r:2."
  },
  "8c15246909a2": {
-  "gloss": "the_lost_sheep",
+  "gloss": "the_sheep",
   "tier": "G",
   "n": 1,
-  "evidence": "128r:4 'because LOSE [x]'."
+  "evidence": "128r:4 'because LOSE [x]'. CORRECTION: first guessed 'the_lost_sheep', which repeated a word already standing beside it in the line -- 128r:4; 'lose' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "520060873": {
   "gloss": "a_spirit",
@@ -8761,10 +8761,10 @@
   "evidence": "130v:5, on the folio citing John 14:11, 'otherwise believe for the very works' sake'."
  },
  "8c1524690": {
-  "gloss": "five_thousand",
+  "gloss": "thousand",
   "tier": "G",
   "n": 1,
-  "evidence": "133r:1 'from Adam until this [x] FIVE HUNDRED'; a number in a count of the ages of the world."
+  "evidence": "133r:1 'from Adam until this [x] FIVE HUNDRED'; a number in a count of the ages of the world. CORRECTION: first guessed 'five_thousand', which repeated a word already standing beside it in the line -- 133r:1; 'five hundred' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "8a17e1955": {
   "gloss": "forty_days",
@@ -9169,10 +9169,10 @@
   "evidence": "153v:9; Luke 23:41, 'we receive the due reward of our deeds'."
  },
  "5420600a2569": {
-  "gloss": "fire",
+  "gloss": "torment",
   "tier": "G",
   "n": 1,
-  "evidence": "154r:1."
+  "evidence": "154r:1. CORRECTION: first guessed 'fire', which repeated a word already standing beside it in the line -- 154r:1; 'fire' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "56c": {
   "gloss": "after",
@@ -9325,10 +9325,10 @@
   "evidence": "166r:8."
  },
  "7837a0": {
-  "gloss": "two_ways",
+  "gloss": "between",
   "tier": "G",
   "n": 1,
-  "evidence": "166v:1 'on two-two WAYS and [x] two-two MAN'."
+  "evidence": "166v:1 'on two-two WAYS and [x] two-two MAN'. CORRECTION: first guessed 'two_ways', which repeated a word already standing beside it in the line -- 166v:1; 'two' and 'ways' both already stand next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "080520346": {
   "gloss": "with_thy_whole_soul",
@@ -9445,10 +9445,10 @@
   "evidence": "172v:2, on the folio citing Matthew 9:26, 'And the fame hereof went abroad into all that country'."
  },
  "531ae09f3": {
-  "gloss": "five_talents",
+  "gloss": "gave",
   "tier": "G",
   "n": 1,
-  "evidence": "173r:5, on the folio citing Matthew 25:15."
+  "evidence": "173r:5, on the folio citing Matthew 25:15. CORRECTION: first guessed 'five_talents', which repeated a word already standing beside it in the line -- 173r:5, Matthew 25:15; 'five' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "9a0670": {
   "gloss": "after_a_long_time",
@@ -9505,10 +9505,10 @@
   "evidence": "175r:2, on the folio citing Matthew 25:28, 'Take ye away therefore the talent from him'."
  },
  "8c7910": {
-  "gloss": "give_me_to_drink",
+  "gloss": "give_me",
   "tier": "G",
   "n": 1,
-  "evidence": "176r:9, on the folio citing John 4:7, 'Give me to drink'."
+  "evidence": "176r:9, on the folio citing John 4:7, 'Give me to drink'. CORRECTION: first guessed 'give_me_to_drink', which repeated a word already standing beside it in the line -- 176r:9, John 4:7; 'drink' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "5200606d3910": {
   "gloss": "five_husbands",
@@ -9685,10 +9685,10 @@
   "evidence": "185v:2; the sign contains K&T's own code for Khosrow."
  },
  "681ae0540ae0": {
-  "gloss": "the_son",
+  "gloss": "and",
   "tier": "G",
   "n": 1,
-  "evidence": "185v:2, the same legend."
+  "evidence": "185v:2, the same legend. CORRECTION: first guessed 'the_son', which repeated a word already standing beside it in the line -- 185v:2; 'son' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "5201a0": {
   "gloss": "behind",
@@ -9835,10 +9835,10 @@
   "evidence": "194v:9; Matthew 9:13, 'I came not to call the just, but sinners'."
  },
  "4e1b219d6": {
-  "gloss": "holy_prophet",
+  "gloss": "prophet",
   "tier": "G",
   "n": 1,
-  "evidence": "195r:2 'and one HOLY FATHER holy LIVING and one [x]'."
+  "evidence": "195r:2 'and one HOLY FATHER holy LIVING and one [x]'. CORRECTION: first guessed 'holy_prophet', which repeated a word already standing beside it in the line -- 195r:2; 'holy' already stands next to it twice. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "367": {
   "gloss": "despise_not",
@@ -10003,10 +10003,10 @@
   "evidence": "204v:8."
  },
  "6304f8520336": {
-  "gloss": "was_baptized",
+  "gloss": "unto",
   "tier": "G",
   "n": 1,
-  "evidence": "205v:1."
+  "evidence": "205v:1. CORRECTION: first guessed 'was_baptized', which repeated a word already standing beside it in the line -- 205v:1; 'baptize' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour. CORRECTION 2: 'in_the_name' still repeated 'name' in the line."
  },
  "8a1671": {
   "gloss": "chief_publican",
@@ -10033,16 +10033,16 @@
   "evidence": "207v:6; Luke 19:8, 'I restore him fourfold'."
  },
  "630520239520": {
-  "gloss": "salvation_is_come",
+  "gloss": "this_day",
   "tier": "G",
   "n": 1,
-  "evidence": "207v:8; Luke 19:9, 'This day is salvation come to this house'."
+  "evidence": "207v:8; Luke 19:9, 'This day is salvation come to this house'. CORRECTION: first guessed 'salvation_is_come', which repeated a word already standing beside it in the line -- 207v:8, Luke 19:9, 'This day is salvation come to this house'; 'saved' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "a10452520": {
-  "gloss": "keep_holy",
+  "gloss": "to_keep",
   "tier": "G",
   "n": 1,
-  "evidence": "209v:2; K&T's own 871 entry glosses 'keep holy' and cites 209v02."
+  "evidence": "209v:2; K&T's own 871 entry glosses 'keep holy' and cites 209v02. CORRECTION: first guessed 'keep_holy', which repeated a word already standing beside it in the line -- 209v:2; 'holy' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "520414": {
   "gloss": "hear_the",
@@ -10075,10 +10075,10 @@
   "evidence": "211r:5; Matthew 12:44, 'and coming he findeth it empty, swept, and garnished'."
  },
  "5217e169ca82b30290": {
-  "gloss": "the_sea_of_Galilee",
+  "gloss": "of_Galilee",
   "tier": "G",
   "n": 1,
-  "evidence": "212r:3, on the folio citing John 6:1, 'Jesus went over the sea of Galilee'."
+  "evidence": "212r:3, on the folio citing John 6:1, 'Jesus went over the sea of Galilee'. CORRECTION: first guessed 'the_sea_of_Galilee', which repeated a word already standing beside it in the line -- 212r:3, John 6:1; 'sea' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "a10354": {
   "gloss": "lifted_up",
@@ -10123,10 +10123,10 @@
   "evidence": "215r:6, on the folio citing John 8:56, 'Abraham your father rejoiced that he might see my day'."
  },
  "630670b06143": {
-  "gloss": "before_Abraham_was",
+  "gloss": "was_made",
   "tier": "G",
   "n": 1,
-  "evidence": "215r:8; John 8:58, 'Before Abraham was made, I am'."
+  "evidence": "215r:8; John 8:58, 'Before Abraham was made, I am'. CORRECTION: first guessed 'before_Abraham_was', which repeated a word already standing beside it in the line -- 215r:8, John 8:58, 'Before Abraham was made, I am'; 'Abraham' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "959520": {
   "gloss": "the_law",
@@ -10207,10 +10207,10 @@
   "evidence": "011v:5; Matthew 21:6, 'And the disciples going, did as Jesus commanded them'."
  },
  "a91913": {
-  "gloss": "made_him_sit",
+  "gloss": "set_him",
   "tier": "G",
   "n": 1,
-  "evidence": "011v:5, the same passage."
+  "evidence": "011v:5, the same passage. CORRECTION: first guessed 'made_him_sit', which repeated a word already standing beside it in the line -- 011v:5, Matthew 21:7; 'sit' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "520151151": {
   "gloss": "went_before",
@@ -10567,10 +10567,10 @@
   "evidence": "222v:3."
  },
  "270854": {
-  "gloss": "in_the_year",
+  "gloss": "reckoned",
   "tier": "G",
   "n": 2,
-  "evidence": "222v:6 and 222v:7, in the writer's calendar."
+  "evidence": "222v:6 and 222v:7, in the writer's calendar. CORRECTION: first guessed 'in_the_year', which repeated a word already standing beside it in the line -- 222v:6 and 222v:7; 'year' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "452569": {
   "gloss": "I_pray",
@@ -10675,10 +10675,10 @@
   "evidence": "224r:11, twice in one line in the formula 'and one [x] THREE and one [x] THREE'. A number word in a repeated count. WEAK."
  },
  "8a7ae0": {
-  "gloss": "a_measure",
+  "gloss": "a_portion",
   "tier": "G",
   "n": 2,
-  "evidence": "224r:12, twice in one line. K&T gloss a code they cite here as 'chain, enchain, hitch'. WEAK."
+  "evidence": "224r:12, twice in one line. K&T gloss a code they cite here as 'chain, enchain, hitch'. WEAK. CORRECTION: first guessed 'a_measure', which repeated a word already standing beside it in the line -- 224r:12; the same sign twice in the line. WEAK. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  },
  "817": {
   "gloss": "of_wine",
@@ -10723,9 +10723,9 @@
   "evidence": "224v:11, in the last legible line. WEAK."
  },
  "a65": {
-  "gloss": "amen",
+  "gloss": "for_ever",
   "tier": "G",
   "n": 1,
-  "evidence": "224v:11, the last legible word before the closing number. WEAK."
+  "evidence": "224v:11, the last legible word before the closing number. WEAK. CORRECTION: first guessed 'amen', which repeated a word already standing beside it in the line -- 224v:11; 'amen' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour."
  }
 }

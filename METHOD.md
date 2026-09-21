@@ -596,3 +596,26 @@ and returned 18.6 sigma, was run on the unfitted rendering and its number
 stands. Rerunning gate 2 after this would be circular and must not be done.
 That is written here so that nobody, including a later session of this
 project, does it by accident.
+
+## A guess that repeats its neighbour is wrong, and that is checkable
+
+Reading the finished pages caught two guesses that made a line say the same
+word twice. That is a defect with a shape, so it can be swept for: take every
+tier G reading, take the content stems of the three words on each side of it
+in the rendered line, and flag any overlap.
+
+    guesses repeating a neighbouring word, found   46 on 43 signs
+    corrected                                      40
+    left, because the repetition is real            3  ("for ever and ever",
+                                                       and one sign that
+                                                       stands twice in a line)
+
+The corrections are not small: "was buried" beside "bury" became "also", which
+is what Luke 16:22 actually says; "shall be born" beside "be born" became "of
+a harlot", which is what the Antichrist legend says; "before Abraham was"
+beside "Abraham" became "was made", which is John 8:58 word for word.
+
+The rule this teaches is cheap and general: **a restoration that duplicates a
+word already standing beside it is telling you the slot is taken.** Nothing
+about the source text is needed to run the check, and it found forty errors
+that reading found two of.
