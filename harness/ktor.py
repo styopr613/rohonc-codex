@@ -17,9 +17,11 @@ def key():
         return subprocess.check_output(["sudo", "cat", KEYFILE]).decode().strip()
 
 
-def ask(model, prompt, temperature=0, tries=3):
-    body = json.dumps({"model": model, "temperature": temperature,
-                       "messages": [{"role": "user", "content": prompt}]}).encode()
+def ask(model, prompt, temperature=0, tries=3, extra=None):
+    req_body = {"model": model, "temperature": temperature,
+                "messages": [{"role": "user", "content": prompt}]}
+    req_body.update(extra or {})
+    body = json.dumps(req_body).encode()
     for i in range(tries):
         try:
             req = urllib.request.Request(

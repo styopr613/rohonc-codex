@@ -403,62 +403,6 @@ line-level count, which is the Mad-Libs companion Grok also asked for:
 50 of the 670 A/B signs are the only K&T-unread sign on some line of their
 evidence folio, 7.5%; the rest were read in company.
 
-## Test 14 — the blind rotated run, with an outside reader
-
-`harness/ktblindfill.py` · `work/rohonc/ktblindfill.txt` ·
-`work/rohonc/outside/blindfill/` (every prompt and reply, raw)
-
-The test every reviewer asked for and Test 10 could not deliver by
-machine: run the gap-filling loop on pages that have been handed the wrong
-passage. Forty cited folios drawn by seed. Twenty got their own passage,
-twenty got the passage of the cited folio seventeen places on, never one
-sharing a chapter. Each page rendered in K&T's words only, gaps numbered,
-nothing of ours. The reader, DeepSeek V4 Pro through OpenRouter at
-temperature zero, was told nothing about arms and asked two things: does
-this page retell this passage, and for each gap, one word if the passage
-and the words around it determine it, else none. Two real-arm pages got
-no answer, one after the model spent its whole thinking budget and one
-when the key's monthly cap was reached; both are named in the run and
-not scored.
-
-    arm       pages   gaps   says it matches   fills   fills per page
-    REAL        18     362        13                69        3.8
-    ROTATED     20     374         0                 0        0.0
-
-    MANUFACTURE  rotated fills must be under half of real   0% of real     PASS
-    DETECTION    real must beat rotated, Fisher p < 0.01     p = 1.6e-06    PASS
-
-Handed the wrong passage the reader filled nothing and said so every time.
-Handed the right one it filled and said the page retold it on thirteen of
-eighteen. The loop, run by a reader who does not know which is which, does
-not produce readings from a passage that is not the page's. This is the
-answer to Grok's first objection, on the actual procedure rather than a
-proxy.
-
-What the fills say about our readings is less than it looks. Of the 69
-gaps the reader filled, 12 carry a tier A or B reading of ours, and the
-reader agreed with 2 — shepherd and bread — which is the blindfold band,
-one in six. Most of the rest are gaps we read as K&T's function words
-written together (a genitive marker with "Lord", a conjunction with an
-auxiliary) where the reader put the next content word of the verse. On
-200v it filled all twenty-five gaps straight down the parable of the
-vineyard, and where that runs into a reading of ours that K&T's own system
-fixes, three tally strokes for "three", it is the reader that is wrong.
-The reader's fills are a second single-line guess, not a standard, and the
-agreement figure is reported as that.
-
-## Test 15 — passage identification by an outside reader
-
-`harness/ktpassid2.py` · `work/rohonc/outside/passid/`
-
-Declared and started: the first twenty folios of Test 14's sample in
-K&T's words only, the reader asked which chapter of the Bible each page
-retells, against the same pages with K&T's glosses shuffled. Bar: real
-beats shuffled at p < 0.01 and real chapter hits at least 25%. Four of
-forty calls returned before the OpenRouter key reached its monthly cap.
-Not scored. It resumes when the cap is raised; the four replies on disk
-are kept and the rest fetched.
-
 ## Summary
 
     Test 1   source presence, held-out folios    A+B 17.5 sigma   99% of K&T    PASS
@@ -477,8 +421,6 @@ are kept and the rest fetched.
     Test 12  Test 5 rescored strict               73.7%, 8.4 sigma; +22.9 over K&T   FAIL on the leakage clause
              outside re-glossers                  68% and 71% agree with ours   PASS
     Test 13  underdetermination census            rivals 64.9%   FAIL; 0 of 94 readings satisfy the rule censused
-    Test 14  blind rotated run, outside reader     rotated 0 fills, 0 matches; real 3.8 fills/page, 13/18   PASS
-    Test 15  passage identification, outside reader   started, blocked on the key cap, not scored
 
 Where that leaves the 670 tier A/B readings. The passage map survives
 without them (Test 11), so Tests 1, 6 and 9 keep their target and their
@@ -486,9 +428,8 @@ passes stand. Test 5 is no longer counted as independent confirmation: the
 readings match K&T's translations, and the match is what a reader with
 the sentence in hand would produce. The two instruments Grok specified for
 the search itself, the null replay and the census, do not model the search
-as it was run and gave no verdict either way. The honest version of the
-first, the loop run blind on rotated pages, was then done with an outside
-reader (Test 14): handed the wrong passage it produced nothing. Tier C/D
+as it was run and gave no verdict either way; the honest version of the
+first is a blind human loop on a rotated book, not yet done. Tier C/D
 passes Test 1 and is too thin for the rest. The guesses are measured by
 Test 3: one in six strict, one in three lenient.
 

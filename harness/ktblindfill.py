@@ -189,7 +189,11 @@ def main(argv):
                 pass
             os.remove(path)          # an empty reply (thinking budget spent) is fetched again
         if not os.path.exists(path):
-            txt, usage = ktor.ask(MODEL, prompt)
+            try:
+                txt, usage = ktor.ask(MODEL, prompt)
+            except Exception as e:          # no answer: the page is reported, not scored
+                print(f"  no answer for {f}: {str(e)[:80]}")
+                return f
             json.dump({"folio": f, "reply": txt, "usage": usage, "prompt": prompt},
                       open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
         return f
@@ -202,7 +206,12 @@ def main(argv):
     stat = {"REAL": defaultdict(int), "ROTATED": defaultdict(int)}
     cost = 0.0
     rows = []
+    missing = [f for f, *_ in jobs if not os.path.exists(os.path.join(OUT, f"{f}.json"))]
+    if missing:
+        print(f"  pages with no answer, not scored: {', '.join(missing)}\n")
     for f, arm, src, gaps, prompt in jobs:
+        if f in missing:
+            continue
         d = json.load(open(os.path.join(OUT, f"{f}.json"), encoding="utf-8"))
         u = d.get("usage") or {}
         cost += float(u.get("cost") or (u.get("cost_details") or {}).get("upstream_inference_cost") or 0)

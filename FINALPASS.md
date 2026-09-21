@@ -547,3 +547,12 @@ the passage map is recoverable from K&T's words without ours. Test 5 drops
 from "independent confirmation" to "agreement with K&T's translations,
 which a reader of those translations would reproduce". The two outside
 calls cost 31 cents.
+
+### The blind rotated run, 2026-09-21
+
+    Test 14  outside reader, 20 real + 20 rotated pages    PASS
+             rotated: 0 fills, 0 "matches" of 20; real: 69 fills, 13 of 18 "matches"; p 1.6e-06
+    Test 15  passage identification by the same reader     blocked at 4 of 40 calls: OpenRouter key monthly cap
+
+The loop run by a reader who does not know which pages hold the wrong
+passage produces nothing from them. Cost so far $0.84 for Test 14.

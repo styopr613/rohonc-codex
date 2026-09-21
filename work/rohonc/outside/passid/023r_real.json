@@ -1,0 +1,29 @@
+{
+ "folio": "023r",
+ "cond": "real",
+ "reply": "{\"book\": \"Matthew\", \"chapter\": 15, \"verses\": \"1-16:21\", \"confidence\": 0.5}",
+ "usage": {
+  "prompt_tokens": 345,
+  "completion_tokens": 44045,
+  "total_tokens": 44390,
+  "cost": 0.1748736,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.1748736,
+   "upstream_inference_prompt_cost": 0.0004554,
+   "upstream_inference_completions_cost": 0.1744182
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 44012,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\none [?1] and inside [?2] exist hell evil and evil.\nout(ward) [?3] [?4] can show [?5] inside exist.\nproud [?6] [?7] somebody because somebody healing.\ndo, [?8] can show [?5] inside [?9]\none king son because exist [?10] and son healing.\ndo, [?11] can show [?5] inside Jerusalem evil\n[?12] Lord inside one somebody hell evil exorcise\nfirst before be_born [?13] son God [?14]\none prophet one forefather this miracle.\ndo, [?15] Christ do, and miracle confess\n[?16] [?5] righteous(ly) son God [?17] confess have.\n[?5] [?16] [?5] righteous(ly) son God first confess\nhave [?5] [?18] and Elijah [?19] confess\n"
+}

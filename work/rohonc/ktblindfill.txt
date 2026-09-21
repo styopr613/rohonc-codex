@@ -1,0 +1,86 @@
+  no answer for 221r: HTTP Error 403: Forbidden
+  no answer for 105r: HTTP Error 403: Forbidden
+TEST 14: THE BLIND ROTATED RUN, OUTSIDE READER
+  reader deepseek/deepseek-v4-pro-0813; 40 folios, 20 real, 20 rotated by 17; seed 20260921
+
+  pages with no answer, not scored: 221r, 105r
+
+  arm       folios  gaps  matches  fills fills/folio   A/B agree  all tiers agree
+  REAL          18   362       13     69         3.8        2/12             4/69
+  ROTATED       20   374        0      0         0.0         0/0              0/0
+
+    200v 4a7270                 reader 'last            ' ours cut 'carry Lord          ' 
+    200v b60270                 reader 'send            ' ours cut '<genitive pronoun> L' 
+    200v 470270                 reader 'heir            ' ours cut 'fortune Lord        ' 
+    200v 670ae04b0              reader 'husbandman      ' ours cut '<auxiliary> say     ' 
+    200v 5405404b0              reader 'reverence       ' ours C   'would say           ' 
+    200v 810670ae0270           reader 'take            ' ours cut '<conjunction-like pa' 
+    200v 5200607a25000604b0     reader 'cast            ' ours C   'say                 ' 
+    200v 4a24a04a44b0           reader 'forth           ' ours cut 'and then say        ' 
+    200v 569910                 reader 'out             ' ours A   'this is             ' 
+    200v 270060060990           reader 'vineyard        ' ours G   'the_heir            ' 
+    200v 910                    reader 'kill            ' ours A   '<subject marker>    ' 
+    200v 540060540881           reader 'he              ' ours B   'vineyard            ' 
+    200v a109d3060371           reader 'say             ' ours cut 'boy                 ' 
+    200v 520af44d1796           reader 'among           ' ours G   'cast_him_out        ' 
+    200v 4a7796                 reader 'kill            ' ours cut 'carry dead          ' 
+    200v 4b0                    reader 'come            ' ours B   'say                 ' 
+    200v 4a79b84b0              reader 'let             ' ours G   'sent                ' 
+    200v 520270                 reader 'us              ' ours cut 'away Lord           ' 
+    200v 7964b0                 reader 'inheritance     ' ours cut 'dead say            ' 
+    200v 810670ae0              reader 'we              ' ours cut '<conjunction-like pa' 
+    200v 520b52011              reader 'have            ' ours C   'from town to town   ' 
+    200v 060520b45              reader 'his             ' ours G   'killed_him          ' 
+    200v 5694b0                 reader 'they            ' ours C   'he said             ' 
+    200v 270308                 reader 'my              ' ours cut 'Lord Jézus          ' 
+    200v 060060060              reader 'he              ' ours A   'three               ' 
+    190v 270910                 reader 'Jesus           ' ours A   'the Lord            ' 
+    190v 6303b1                 reader 'same            ' ours cut '(to) above Jerusalem' 
+    190v 812060060060060        reader 'day             ' ours cut '<introducing the nex' 
+    190v 812670812              reader 'town            ' ours cut '<introducing the nex' 
+    190v 520ae0670ae01f6        reader 'name            ' ours cut 'brother name        ' AGREE
+    190v ae01f6                 reader 'name            ' ours cut 'day name            ' AGREE
+    171r 810670ae0              reader 'if              ' ours cut '<conjunction-like pa' 
+    171r 520b7a670ae0           reader 'garment         ' ours cut 'apostate <auxiliary>' 
+    064v 7b2670ae0520           reader 'shepherd        ' ours A   'shepherd            ' AGREE
+    064v b60270                 reader 'his             ' ours cut '<genitive pronoun> L' 
+    064v 521b60270              reader 'for             ' ours cut '<marker of dative> <' 
+    064v 810670ae0              reader 'they            ' ours cut '<conjunction-like pa' 
+    064v b602708c0              reader 'my              ' ours cut '<genitive pronoun> L' 
+    171v b60060131060131        reader 'thy             ' ours cut '<genitive pronoun> w' 
+    171v ac5060131060131        reader 'whole           ' ours cut 'Hail woman          ' 
+    171v 7965205a0              reader 'not             ' ours cut 'dead daughter       ' 
+    171v 991910                 reader 'dead            ' ours B   'but rather          ' 
+    171v 5215208515205a0        reader 'but             ' ours cut '<marker of dative> d' 
+    171v 810670ae0              reader 'sleep           ' ours cut '<conjunction-like pa' 
+    096v 520ae00a20a2ae0        reader 'dead            ' ours A   'bread               ' 
+    095v 270308                 reader 'bread           ' ours cut 'Lord Jézus          ' 
+    095v 4a24a04a4              reader 'before          ' ours B   'and then            ' 
+    095v 520ae00a20a2ae0        reader 'bread           ' ours A   'bread               ' AGREE
+    095v b60270                 reader 'flesh           ' ours cut '<genitive pronoun> L' 
+    095v 67069cae0              reader 'amen            ' ours cut 'chapter oh          ' 
+    092r b609d38c0              reader 'begotten        ' ours cut '<genitive pronoun> f' 
+    092r 270308754              reader 'world           ' ours cut 'Lord Jézus Christ   ' 
+    092r a10003a10060060540ae0520 reader 'whosoever       ' ours cut 'human Nicodemus     ' 
+    092r 071a10003a10060060540ae0520 reader 'perish          ' ours cut 'all, whole human Nic' 
+    092r 270308                 reader 'sent            ' ours cut 'Lord Jézus          ' 
+    092r 5205ed                 reader 'not             ' ours G   'answered            ' 
+    092r 520270                 reader 'world           ' ours cut 'away Lord           ' 
+    092r b60270                 reader 'so              ' ours cut '<genitive pronoun> L' 
+    092r 520060270              reader 'world           ' ours cut '<personal pronoun 1p' 
+    092r 085                    reader 'judge           ' ours D   'people              ' 
+    092r 991ae0910              reader 'but             ' ours C   'but rather          ' 
+    092r 9d38c0                 reader 'saved           ' ours cut 'father <suffix of di' 
+    092r 7b3                    reader 'by              ' ours D   'brethren            ' 
+    092r 084                    reader 'believeth       ' ours D   'world               ' 
+    092r 630b60270              reader 'not             ' ours cut '(to) above <genitive' 
+    092r a10003a10060060681ae0520 reader 'life            ' ours C   'man                 ' 
+    092r 4a6910                 reader 'name            ' ours D   'more than these     ' 
+    092r 060                    reader 'only            ' ours A   'one                 ' 
+    092r a105b6910              reader 'not             ' ours G   'only_begotten       ' 
+
+  fills per folio: real 3.8, rotated 0.0   -> rotated is 0% of real   MANUFACTURE ok
+  says it matches: real 13/18, rotated 0/20   p = 1.58e-06   DETECTION ok
+  agreement with our A/B readings on filled gaps: real 16.7% (2/12), rotated 0.0% (0/0)   blindfold band: 15-30%
+  cost $0.838
+  BAR  ->  PASS

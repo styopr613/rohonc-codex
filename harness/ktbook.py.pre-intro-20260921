@@ -140,40 +140,7 @@ def retelling():
     return out
 
 
-def figures():
-    """The counts, read out of the edition's own header. Never retyped.
-
-    These were hardcoded here in prose, and they went stale: the front matter
-    claimed 93.3% read and "dark: there are none left" while the live run said
-    93.4% and 47 dark words. Nothing checked them, because nothing generated
-    them. ktreader.py computes them once and writes them into the edition's
-    header; this reads that header back. Same rule as kttranslate.txt and
-    ktbump -- if a figure is written in two places it will go wrong in one.
-    """
-    txt = open(ED, encoding="utf-8").read()
-    g = {}
-    for key, pat in (
-            ("words", r"words in the manuscript\s+([\d,]+)"),
-            ("read", r"\n    read\s+([\d,]+) \(([\d.]+)%\)"),
-            ("soft", r"read from one passage, marked \*\s+([\d,]+) \(([\d.]+)%\)"),
-            ("rest", r"restored, in brackets\s+([\d,]+) \(([\d.]+)%\)"),
-            ("dark", r"dark, printed as an ellipsis\s+([\d,]+) \(([\d.]+)%\)"),
-            ("lread", r"lines with every word read\s+([\d,]+) of ([\d,]+) \(([\d.]+)%\)"),
-            ("lall", r"restorations\s+([\d,]+) of ([\d,]+) \(([\d.]+)%\)")):
-        m = re.search(pat, txt)
-        if not m:
-            raise SystemExit(f"ktbook.figures: no {key} in the edition header")
-        g[key] = m.groups()
-    return g
-
-
-def _n(s, w=6):
-    """A count, right-aligned, so the column in the front matter lines up."""
-    return f"{int(s.replace(',', '')):,}".rjust(w)
-
-
 def front_matter():
-    g = figures()
     return """The Rohonc Codex is a book of about 450 leaves in an unknown
 script, in the library of the Hungarian Academy of Sciences. For roughly two
 hundred years nobody could read it. It dates itself: 1593.
@@ -214,7 +181,7 @@ and this is the one the passage the folio itself cites actually uses.
 **[word]** — restored. A guess, made from the folio's source passage and the
 words on either side of the hole. Counted as read nowhere.
 
-**[…]** — dark: no reading and no honest guess.
+**[…]** — dark: no reading and no honest guess. There are none left.
 
 A hyphen inside a word (*hide_oneself-angel*) is one sign of the manuscript
 read as the smaller signs it is built from. This script writes phrases without
@@ -224,105 +191,20 @@ gap or an unreadable glyph in the transcription.
 
 ## What this book is worth, in numbers
 
-        words in the manuscript            """ + _n(g["words"][0]) + """
-    read                               """ + _n(g["read"][0]) + "   " + g["read"][1] + """%
-    read from one passage              """ + _n(g["soft"][0]) + "   " + g["soft"][1] + """%
-    restored, in brackets              """ + _n(g["rest"][0]) + "   " + g["rest"][1] + """%
-    dark                               """ + _n(g["dark"][0]) + "   " + g["dark"][1] + """%
+    words in the manuscript            29,997
+    read                               27,997   93.3%
+    read from one passage                1,020    3.4%
+    restored, in brackets                  980    3.3%
+    dark                                     0    0.0%
 
-    lines with every word read                  """ + g["lread"][2] + """%
-    lines complete once brackets are counted    """ + g["lall"][2] + """%
+    lines with every word read                  82.3%
+    lines complete once brackets are counted    99.9%
 
-The middle figure is the honest one. A sentence with one word you cannot read
-is not a sentence you can read. The gap between that figure and the one below
-it is how much of this book is a guess, and the guesses are in brackets on
-every page so that anyone can take them out.
-
-## How it was checked
-
-This is a book made from somebody else's dictionary, so the first question is
-whether the dictionary is right. That was tested three ways before a word of
-the translation was written, and none of the three needs you to trust anyone.
-
-**The common signs behave like common words.** In any language the words that
-come up most are the small ones — and, this, in, one, say, go. Sort the codex
-by how often each sign occurs and that is what the top of the list looks like,
-with gospel words underneath. How often a sign appears is fixed by the
-manuscript. Nobody chose it. A wrong set of meanings would not land the
-conjunctions and pronouns at the top.
-
-**Pages with names in them point at the same place in the gospels.** The
-dictionary reads 101 signs as names. Take every page that carries two or more
-of them and ask how far apart those names sit in the gospel text. The middle
-answer is 60 words. Shuffle the names and the middle answer is 3,007. Of 247
-pages, 214 — 87% — beat the shuffled middle, where chance would give half.
-Pages land on passages.
-
-**The text runs across the ends of lines.** Take a run of words that straddles
-a line break and ask whether the same manuscript writes that run inside a line
-somewhere else. In real prose it does, because the words were written first
-and broken into lines after. In the Rohonc that happens 2.04 times more often
-than chance, at 39 standard deviations, which puts it beside Italian and
-Hebrew and above Latin. The same test on the Voynich manuscript gives 1.10
-times chance and 2.1 — down with the machine-made controls. One test, two
-unread manuscripts, opposite answers.
-
-## What was added here, and what it cost
-
-Four signs in ten had no meaning in the dictionary. Working those out is the
-part nobody had done, and it was tried seventeen ways. **Ten of the seventeen
-failed.** All ten are written up, with their numbers, beside the ones that
-worked, because that is the only thing that makes the ones that worked worth
-anything.
-
-Every attempt had its pass mark written down before it ran, and no mark was
-ever moved afterwards. One attempt scored five times its control at 4.7
-standard deviations against a bar of 5. It is filed as a failure. A near miss
-is a miss.
-
-Two things worked, and both were the same discovery. **Many signs are not
-words but short phrases written without a space**, and both halves were often
-in the dictionary already. Cutting them apart recovered 43.9% of a test set
-against 6.3% for a matched control — 12.4 standard deviations — and a second
-form of the same idea scored 77.5% against 47.4%, 9.8 standard deviations.
-Eleven earlier attempts had failed because they kept asking what a sign meant
-instead of what it was made of.
-
-**The third thing that worked was reading the dictionary properly.** Kiraly
-and Tokai cite a folio and a line in their entries, and for variant spellings
-as well. Nobody had followed those citations back into the manuscript. Where a
-line had exactly one hole and their entry named a word not already standing in
-that line, their entry names the hole. That gave 44 readings in one afternoon.
-None of them is a guess; each is their own reading of that line, in a spelling
-the open transcription writes differently.
-
-## The test that decides
-
-A reading is kept only if it holds at **every** place the sign occurs. One
-clear occurrence against it and the reading is not lowered a grade, it is
-dropped. That test threw out readings this project had already published to
-itself, and the coverage figure fell when they went. It fell and the book got
-truer.
-
-The strongest form of that check is the manuscript arguing with the editor.
-Five signs had been read as *child*, from a page about Saint Augustine and a
-boy on a beach. A mechanical sweep for signs one glyph away from a sign the
-dictionary already reads found that all five are Kiraly and Tokai's own sign
-for *a little while; little* — and that their spelling of it stands two lines
-above ours on the same page. All five were wrong and all five were changed. A
-story that fits is not evidence, and when the story and the dictionary
-disagree, the dictionary wins.
-
-## One thing this book can no longer prove
-
-Many signs have several meanings in the dictionary, and the renderer used to
-print the first one always. It now prints the meaning that the passage each
-folio itself names actually uses. That makes the pages read far better, and it
-costs something that has to be said out loud: **the fit between a page and the
-passage it cites can never again be used as evidence**, because the fit is now
-built in. The test that measured exactly that was run before this change and
-its result stands. Running it again would be circular, and it must not be
-done.
+The middle figure is the honest one. A sentence with one unreadable word in it
+is not a sentence you can read, and 82.3% of the lines of this manuscript have
+every word read. The gap between that and 99.9% is exactly how much of this
+book is guesswork, and it is printed in brackets on every page so that anyone
+can strip it out.
 
 ## What a bracket is worth
 
@@ -574,8 +456,8 @@ def build():
                             "folios, on the dictionary and grammar Levente "
                             "Zoltan Kiraly and Gabor Tokai published in 2018. "
                             "Every word carries a mark saying how well it is "
-                            "known: " + figures()["read"][1] + "% read, "
-                            + figures()["rest"][1] + "% restored in brackets."),
+                            "known: 93.3% read, 3.3% restored in brackets, "
+                            "none left dark."),
             "rights": ("The manuscript is of the sixteenth century and is not "
                        "in copyright. The dictionary and grammar on which this "
                        "rendering depends are the work of Levente Zoltan "

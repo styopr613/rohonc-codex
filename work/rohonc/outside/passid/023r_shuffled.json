@@ -1,0 +1,29 @@
+{
+ "folio": "023r",
+ "cond": "shuffled",
+ "reply": "{\"book\": \"Luke\", \"chapter\": 16, \"verses\": \"19-31\", \"confidence\": 0.6}",
+ "usage": {
+  "prompt_tokens": 456,
+  "completion_tokens": 53777,
+  "total_tokens": 54233,
+  "cost": 0.21355884,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 0.21355884,
+   "upstream_inference_prompt_cost": 0.00060192,
+   "upstream_inference_completions_cost": 0.21295692
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 53816,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "Below is one page of a sixteenth-century manuscript written in an unknown script, transcribed sign by sign. Where the published dictionary of the script gives an English word for a sign, that word is printed. Signs the dictionary does not read are printed as numbered gaps, [?1], [?2] and so on. Word order is the manuscript's own. The manuscript is believed to retell Christian scripture.\n\nWhich passage of the Bible does this page retell? Answer with the book and chapter, and the verses if you can. If you cannot tell, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"verses\": \"a-b\", \"confidence\": 0.0 to 1.0}\n\nPAGE\nbut [?1] <man_suffering_from_some_kind_of_illness> alms [?2] cover father chorus <man_suffering_from_some_kind_of_illness> chorus.\n<the_name_of_the_centurion_in_Capharnaum> [?3] [?4] battle flow [?5] alms cover.\nobserve [?6] [?7] <Christian_or_related_church_or_denomination> basket <Christian_or_related_church_or_denomination> Carmel.\nsufferer [?8] battle flow [?5] alms [?9]\nbut good_news baked basket cover [?10] <man_suffering_from_some_kind_of_illness> baked Carmel.\nsufferer [?11] battle flow [?5] alms be_deified chorus\n[?12] rain alms but <Christian_or_related_church_or_denomination> father chorus lick\nCreator Philip night [?13] baked generation [?14]\nbut similarly but accompany be_born Augustus.\nsufferer [?15] can_not sufferer <man_suffering_from_some_kind_of_illness> Augustus fresh\n[?16] [?5] get_frightened baked generation [?17] fresh misery.\n[?5] [?16] [?5] get_frightened baked generation Creator fresh\nmisery [?5] [?18] dog innocent [?19] fresh\n"
+}
