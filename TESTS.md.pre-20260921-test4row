@@ -486,6 +486,7 @@ Mark 5 for Matthew 9, Acts 7 for Acts 6, and are counted as misses.
     Test 6   word order, held-out folios         A+B  6.9 sigma                 PASS
     Test 2   part of speech                      instrument fails on K&T's own words
     Test 3   blindfold, run clean                 4 of 24 strict, 16.7%; band 15-30%, consequence reaffirmed
+    Test 4   illustrations                       blocked on the image mapping
     Test 7   K&T's words removed                 reads 11.9% from ours alone; recovery 4.4 sigma, FAIL
     Test 8   bootstrap from a random 30%          passage 33.9 sigma, recovery 8.5 sigma, PASS; absolute 8.4% and 0.9%
     Test 9   hidden 70% validated by the 30%       A+B 11.3 sigma, 130% of K&T's own rate   PASS
