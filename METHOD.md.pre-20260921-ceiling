@@ -9,40 +9,20 @@ last three "Translate" commits; read their diffs to see what a batch is.
 
 ## Standing orders
 
-1. **THREE VERSIONS OF THIS ORDER HAVE BEEN WRONG. Here is the arithmetic,
-   measured, with the mistakes named.** Lines fully read stand at 74.9% on
-   2026-09-21, up from 62.4% on the morning of 2026-09-20.
+1. **The target is 90%, and the ceiling moves as readings land.** Lines fully
+   read stand at 74.8% tonight, up from 62.4% this morning. Two earlier versions
+   of this order were wrong and both were mine. The first said 98%, with no
+   arithmetic behind it. The second said 82% and showed its working, and the
+   working assumed that a sign occurring once in the book can never be read.
+   That assumption was false: Kiraly and Tokai's own entries name hundreds of
+   such signs, with folio and line, and reading them costs no guess.
 
-   The first version said 98%, with no arithmetic behind it at all.
-
-   The second said 82%, and showed its working, and assumed a sign occurring
-   once could never be read. That assumption was too strong -- K&T's own
-   entries name hundreds of such signs with folio and line -- but **the 82%
-   itself was right**, and the third version threw it away for a number that
-   does not mean what the sentence around it said.
-
-   The third said 90.3%, then 91.2%, described as what reading every sign
-   occurring twice or more would reach. It is not. That figure is the share
-   of lines whose only remaining holes are ONCE-ONLY signs, which counts a
-   line as reached while an unread word still stands in it. Measured on
-   2026-09-21:
-
-        lines                                             4,372
-        fully read now                                    3,274   74.9%
-        if every recurring unread sign were read          3,566   81.6%
-        lines whose only holes are once-only signs         3,991   91.3%
-
-   There are 176 recurring unread signs and reading every one closes 292
-   lines. There are 988 once-only signs, and they are worth more precisely
-   because there are five times as many of them.
-
-   **So no route to 90% avoids the once-only signs.** That is the real shape
-   of the work, and it is harder than the old order implied: a once-only
-   sign cannot be carried to a second occurrence, so it is tier C at best
-   unless K&T's apparatus names it, and `ktsupply.py` reports that seam down
-   to six. Recompute all three figures after every batch; do not quote these
-   without rerunning them, and do not quote one of them under another one's
-   sentence, which is how this went wrong.
+   Measured on 2026-09-20 after that supply was worked out: 1,468 words have
+   no reading, 1,181 distinct signs, 989 of them occurring exactly once. Read
+   every one of the 192 signs that occur twice or more and lines fully read
+   reach **90.3%**. Recompute that number after every batch rather than
+   quoting this one; it rose from 82.0% to 90.3% in a single day because the
+   hapax pile itself shrank.
 
    Nothing below stops until the user says stop. Do not end a turn to report
    a batch; report only when you are blocked on something only the user can

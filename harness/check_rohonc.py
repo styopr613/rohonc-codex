@@ -575,6 +575,12 @@ def main():
           "eighteenth attempt" in flat and "Twelve of them -- 0.4% -- agree" in flat
           and "0.0% inside the matched run" in flat
           and "it is retelling" in flat and "ktpair.py" in flat)
+    check("METHOD: the ceiling arithmetic, with the mislabelled figure named",
+          "THREE VERSIONS OF THIS ORDER HAVE BEEN WRONG" in meth
+          and "3,566   81.6%" in meth and "3,991   91.3%" in meth
+          and "no route to 90% avoids the once-only signs" in meth
+          and "under another one's" in meth)
+
     check("METHOD: the Mark 16:14 closed loop and the systematic-bias argument",
           "072r08, 072r11 and 191r04" in meth
           and "hand in setting" in meth
@@ -672,8 +678,9 @@ def main():
           and "56.0%" in flat and "68.3%" in flat)
 
     check("CONCLUSION: the live figures and the honest ceiling",
-          "95.2% of the words now" in conf and "74.8% of the lines" in conf
-          and "988" in conf and "91.2%" in conf
+          "95.2% of the words now" in conf and "74.9% of the lines" in conf
+          and "988" in conf and "81.6%" in conf and "91.3%" in conf
+          and "no route to 90% avoids them" in conf
           and "2.1% -- mean the same thing" in conf
           and "370 signs covering 577 words" in conf
           and "Three hundred and two of the 441 folios" in conf)

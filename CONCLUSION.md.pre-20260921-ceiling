@@ -104,7 +104,7 @@ across the whole book.
 
 It is worth being exact about what a percentage of the book means, because
 there are two numbers and one of them is much weaker. **95.2% of the words now
-have *a* reading, and 74.9% of the lines have every word read.** The second is
+have *a* reading, and 74.8% of the lines have every word read.** The second is
 the one that matters: a sentence with one unreadable word in it is not a
 sentence you can read. It stood at 2.8% before any of this and at 62.4% on the
 morning of 2026-09-20.
@@ -119,28 +119,10 @@ It is now two things: missing grammar, which is theirs to publish, and 988
 signs that occur exactly once in the manuscript and that their dictionary never
 mentions. A sign that occurs once cannot be checked against a second
 occurrence, which is the whole method, so a reading of one is a guess about a
-line rather than a reading of a sign. **A figure here was wrong and is corrected on 2026-09-21.** This paragraph
-said that reading every remaining sign occurring twice or more would bring
-lines fully read to 90.3%, and then to 91.2%. It would not. Measured
-directly, there are 176 such signs left and reading all of them closes 292
-lines, which takes the total from 74.9% to **81.6%**. The 91.2% was a
-different quantity that had been substituted under the old sentence: the
-share of lines whose only remaining holes are once-only signs, which counts
-a line as reached while an unread word is still standing in it. The earlier
-82.0% was the honest measure all along, and calling it a mistake was the
-mistake.
-
-So the three figures are these, and they are not interchangeable:
-
-    read every recurring unread sign (176 of them)      81.6%
-    read every once-only sign (988 of them)             91.3%
-    read both                                          100%
-
-The once-only signs are worth more than the recurring ones simply because
-there are five times as many, which means **no route to 90% avoids them**.
-Each is a reading of a line rather than of a sign, so tier C is the ceiling
-on its evidence unless Kiraly and Tokai's own apparatus happens to name it,
-and that seam is now worked out to six signs.
+line rather than a reading of a sign. Read every remaining sign that occurs
+twice or more and lines fully read would reach 91.2%. That is the ceiling of
+the honest method, and it is a moving number: it stood at 82.0% and then 90.3%
+earlier the same day and rose because the pile of once-only signs itself shrank.
 
 The fifteenth, sixteenth and seventeenth tried to work backwards from the passages that
 are certainly right. All three failed their gates, the last one on a held-out half after the failure had been diagnosed, so that the retry could not be tuning. But the search that finds those
