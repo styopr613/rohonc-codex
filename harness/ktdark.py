@@ -147,7 +147,10 @@ def apply(path):
     with open(bak, "w") as f:
         json.dump(prop, f, indent=1, ensure_ascii=False)
     added = skipped = 0
-    for h, (gloss, tier, ev) in new.items():
+    for h, v in new.items():
+        if h.startswith("_"):
+            continue
+        gloss, tier, ev = v
         if h in prop:
             print(f"  already read: {h} = {prop[h]['gloss']}  (skipping {gloss})")
             skipped += 1
