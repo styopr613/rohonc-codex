@@ -97,7 +97,7 @@ def stems(text):
 
 def masked_set(gl):
     hs = sorted(K.hx(c) for c in gl)
-    rng = random.Random(SEED)
+    rng = random.Random(SEED)  # module-level; ktblind.py overwrites it
     rng.shuffle(hs)
     return set(hs[:int(len(hs) * MASK_FRACTION)])
 

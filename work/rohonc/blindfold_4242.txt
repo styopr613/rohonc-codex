@@ -1,0 +1,265 @@
+GATE 4b BLIND SAMPLE. 25 signs, seed 4242.
+K&T read every one of these. Their gloss is NOT in this file.
+Write one reading per sign on the READING: line. Then score.
+
+=== 670ae0b91   x1 occurrence(s)
+  022v:10  can show Lord-Jézus inside <<MASKED 670ae0b91>> because from-healing living
+      cites: John 2:11, Matthew 8:5, Mark 7:24
+      free in that passage: beseech, border, cana, capernaum, capharnaum, centurion, coast, could, enter, galil, go, manif, ris, sidon, thenc, tyr
+      one glyph: 670ae0962 = Gabriel
+  READING: 
+
+=== 520950520201520   x1 occurrence(s)
+  092v:1   from somebody-Nicodemus <<MASKED 520950520201520>> on-light go a) darkness love
+      cites: John 3:19-21, Luke 14:16
+      free in that passage: bid, certain, condemn, doeth, hat, invit, lest, manif, neither, reprov, supper, work
+  READING: 
+
+=== 520382   x11 occurrence(s)
+  016v:5   +his_household ?coming thirty year and <<MASKED 520382>> offering-chapter
+  029r:10  <<MASKED 520382>> from Easter <<MASKED 520460670090a10>> who-exist Lord apostle to-dinner-chapter.
+  029r:13  <<MASKED 670ae0>> apostle <<MASKED 520382>> from Easter <<MASKED 520460670090a10>> and <<MASKED 520460670090a10>>
+  055r:2   go +the_three_Marys [?] burial_chamber Christ because-exist <<MASKED 520382>>
+      cites: Mark 16:1
+      free in that passage: anoint, buy, past, sabbath, spic
+  064r:10  redeem this +sheep/a_female_person and +sheep/a_female_person <<MASKED 520382>> inside herd
+      cites: John 10:11-13
+      free in that passage: car, cast, catch, fle, fli, hirel
+  083v:10  quake <<MASKED 080>> inside <preposition_of_genitive>-Lord [?] <<MASKED 520382>>
+  READING: 
+
+=== 4f0ae05203f0520   x2 occurrence(s)
+  021v:10  Lord-Jézus-Christ on-six-two-year time <<MASKED 4f0ae05203f0520>> son
+      cites: Matthew 2:13, Luke 2:21
+      free in that passage: accomplish, child, circumci, depart, eight, fle, fly, joseph, seek, young
+  021v:13  <<MASKED 4f0ae05203f0520>> Lord-Jézus inside Jerusalem exist-chapter and escape
+  READING: 
+
+=== 650a10ae0   x4 occurrence(s)
+  020r:12  one manger <<MASKED 080>> then-exist <<MASKED 650a10ae0>> very_old.
+      cites: Luke 2:7
+      free in that passage: firstborn, room, swaddl, wrapp
+  031v:11  +bread <<MASKED 650a10ae0>> ?brethren-exist shepherd from-+who-chapter because
+      cites: John 13:27, John 13:28
+      free in that passage: doest, enter, intent, morsel, purpo, quickly, sop
+  051v:3   Lord apostle then-exist <<MASKED 650a10ae0>> exist-nine sweet and
+      cites: John 19:29, Luke 23:46
+      free in that passage: commend, hyssop, loud, putt, spung
+  212v:2   exist-today’s <<MASKED 650a10ae0>> ?therefore <<MASKED 846>> enough +and_then
+      one glyph: 390a10ae0 = blessed; happy
+      one glyph: 4f2a10ae0 = (thorn)bush
+      one glyph: 6a0a10ae0 = <pertaining to the Old Testament>
+      one glyph: ae0a10ae0 = end; side
+  READING: 
+
+=== 630   x58 occurrence(s)
+  004v:15  +day sit <<MASKED 630>> throne from-father God go from-father God
+  004r:2   ?above <preposition_of_genitive>-father <<MASKED 630>> throne +and_then God angel hide_oneself-angel cup-to hide_oneself
+  004r:3   ?above Lord <<MASKED 630>> throne <<MASKED 080>> then-exist cup hide_oneself-~angel °steal cup-to hide_oneself ?above
+  004r:7   ?above on-<preposition_of_genitive>-father <<MASKED 630>> throne <<MASKED 080>> then-exist to-hide_oneself-angel go God
+  004r:8   angel say God angel cup-to hide_oneself ?above Lord <<MASKED 630>> throne <<MASKED 080>> then-exist
+  004r:12  angel [?] hide_oneself-angel this <<MASKED 630>> throne +and_then God angel Lord
+  READING: 
+
+=== 6a6520   x20 occurrence(s)
+  007r:7   evil this somebody <<MASKED 6a6520>> each,_every this serpent die and
+      cites: Genesis 3:24
+      free in that passage: cast, cherubim, driv, east, pleasur
+  007v:1   on-~gate ?cherub Garden_of_Eden <<MASKED 080>> one <<MASKED 6a6520>>
+  008r:3   <<MASKED 6a6520>> because [?] this who carry <preposition_of_genitive> commandment ~exist Lord-<suffix_of_divine_name> want each,_every
+  008r:6   broad in_turn +five lift_up +one-hide_oneself grab ?Noah each,_every <<MASKED 6a6520>> two-<infix_of_distributive_numeral>-two and
+  008r:8   <<MASKED 080>> then-exist ?Noah grab each,_every <<MASKED 6a6520>> two-<infix_of_distributive_numeral>-two and go before Lord-<suffix_of_divine_name>
+  026v:2   <<MASKED 6a6520>> +mourn then-exist Christ +crucified <<MASKED 080>> this each,_every +five confess
+  READING: 
+
+=== 670ae0   x608 occurrence(s)
+  004v:8   many ~angel on-~angel <<MASKED 080>> <<MASKED 670ae0>> to-from-father God on-many angel
+  004v:10  from-father ~Adam <<MASKED 080>> angel brother-+name <<MASKED 670ae0>> hide_oneself-angel <<MASKED 080>> two ~angel
+  002r:3   <<MASKED 670ae0>> earth +and_then from-father God ?eternal <<MASKED 715ae0ad3>>
+  002r:9   from-father God ?eternal leave hide_oneself-angel commandment because each,_every <<MASKED 670ae0>> angel
+  002r:11  leave this <<MASKED 670ae0>> angel leave food ~judge-year <<MASKED 080>> +three say angel
+  002r:12  to-Elijah prophet Elijah say +<subject_marker> from-father-<suffix_of_divine_name> <<MASKED 670ae0>>
+      structure: 152670ae0 = Peter
+      structure: 1f67a0670ae05202b5 = Jericho
+      structure: 520afa670ae01e0 = Saint Joachim and his houseful
+      structure: 6708c1152670ae0 = innkeeper
+      structure: 670ae0520060 = understanding; reason; recognize
+      structure: 00b670ae0670ae0 = read; pray; beg; the Glorified <a name of the resurrected Je
+  READING: 
+
+=== 582   x4 occurrence(s)
+  007v:7   descendant this-two to-son <<MASKED 080>> <<MASKED 582>> <<MASKED 670ae0>> Cain <<MASKED 080>> two [?]-end-+name <<MASKED 670ae0>>
+  079r:8   <<MASKED 582>> <<MASKED 670ae0>> be_damned to-exist-~exist [?] on-+Lazarus [?]
+  113r:1   die +this_is on-two divide <<MASKED 582>> +rejoiced remit
+      cites: Luke 15:11
+      free in that passage: certain
+  115v:5   <<MASKED 582>> exist-exist home because-exist on-field
+      cites: Luke 15:25
+      free in that passage: danc, elder, field, hear, music, musick, nigh
+  READING: 
+
+=== 9d69d3871ae0   x6 occurrence(s)
+  008v:1   <<MASKED 846>> <<MASKED 670ae0>> until Abraham <<MASKED 9d69d3871ae0>> [?] believe
+  023r:9   one prophet one <<MASKED 9d69d3871ae0>> this miracle.
+      cites: John 4:46-54
+      free in that passage: amend, beseech, cana, capernaum, capharnaum, certain, child, enquir, ere, fever, galil, go, grow, hear, judaea, judea, nobleman, point, ruler, seventh, sick, sir, therefor, wherein, yesterday
+  026v:13  and-this say confess first Abraham <<MASKED 9d69d3871ae0>> on-this
+  078r:10  <<MASKED 080>> each,_every prophet <<MASKED 080>> each,_every church_father <<MASKED 080>> each,_every <<MASKED 9d69d3871ae0>> <<MASKED 080>> [?]
+      cites: John 7:24
+      free in that passage: accord
+  089r:12  <<MASKED 9d69d3871ae0>> <<MASKED 080>> then-exist see this miracle this rich from this <<MASKED 540060131520>>
+      cites: Luke 16:21-22
+      free in that passage: also, beggar, moreover, sor
+  195r:1   righteous(ly) somebody <<MASKED 080>> one prophet <<MASKED 080>> one <<MASKED 9d69d3871ae0>>
+  READING: 
+
+=== 286a106026701f2   x12 occurrence(s)
+  019r:8   <<MASKED 286a106026701f2>> go very_old +Joseph.
+  019r:10  <<MASKED 286a106026701f2>> <<MASKED 670ae0>> [?] very_old ?Joseph-+cross-girl-+mouth
+  019v:11  <<MASKED 670ae0>> <<MASKED 080>> from two Mary very_old <<MASKED 286a106026701f2>> go to
+      cites: Luke 2:1
+      free in that passage: caesar, decr, enroll, go
+  019v:12  ?home <<MASKED 080>> then-exist two Mary very_old <<MASKED 286a106026701f2>>
+  020r:1   donkey because this <<MASKED 670ae0>> grab very_old <<MASKED 286a106026701f2>>
+      cites: Luke 2:7
+      free in that passage: firstborn, room, swaddl, wrapp
+  020r:2   from ox who two very_old <<MASKED 286a106026701f2>> Mary
+  READING: 
+
+=== a32   x9 occurrence(s)
+  030r:5   love-to-+high-[?] trespass this-Lord <<MASKED a32>> ?brethren-to-+high-[?]
+      cites: John 13:8
+      free in that passage: answer, hast, never
+  053v:4   +exist-[?] Lord-Jézus and +have two <<MASKED a32>>
+  077v:4   admonish because this somebody-+sin <<MASKED a32>> in_turn to-which this-somebody
+      cites: Matthew 18:15-17, John 21:15
+      free in that passage: alon, din, establish, fault, hast, hear, jona, lamb, moreover, neglect, publican, therefor, wit, yea
+  077v:5   <<MASKED a32>> +exist apostle this ?whosoever-+sin from ?heathen ?publican
+  077v:8   <<MASKED a32>> in_turn to-which this-somebody <<MASKED a32>> +exist apostle this ?whosoever-+sin
+  077v:8   <<MASKED a32>> in_turn to-which this-somebody <<MASKED a32>> +exist apostle this ?whosoever-+sin
+  READING: 
+
+=== 540060131520   x15 occurrence(s)
+  089r:7   lick-dog <preposition_of_genitive>-Lazarus wound-+mouth <<MASKED 080>> <<MASKED 540060131520>> more
+      cites: Luke 16:21-22
+      free in that passage: also, beggar, moreover, sor
+  089r:8   <<MASKED 670ae0>> from dog +have have_mercy this <<MASKED 540060131520>> in_turn from-rich
+  089r:9   have_mercy +robe-Lazarus +lame have_mercy <<MASKED 080>> then-exist this <<MASKED 540060131520>>
+  089r:10  die go angel heaven ?glory literal from-father God [?] this <<MASKED 540060131520>> and <<MASKED 540060131520>>
+  089r:10  die go angel heaven ?glory literal from-father God [?] this <<MASKED 540060131520>> and <<MASKED 540060131520>>
+  089r:11  grab-angel and <<MASKED 540060131520>> carry inside öl Abraham
+      one glyph: 540060520 = recognize; know
+  READING: 
+
+=== 080   x1610 occurrence(s)
+  004v:2   +heart +one-on-sky <<MASKED 080>> ~earth
+  004v:3   sun <<MASKED 080>> <<MASKED 522060>> write
+  004v:8   many ~angel on-~angel <<MASKED 080>> <<MASKED 670ae0>> to-from-father God on-many angel
+  004v:10  from-father ~Adam <<MASKED 080>> angel brother-+name <<MASKED 670ae0>> hide_oneself-angel <<MASKED 080>> two ~angel
+  004v:10  from-father ~Adam <<MASKED 080>> angel brother-+name <<MASKED 670ae0>> hide_oneself-angel <<MASKED 080>> two ~angel
+  004v:11  <<MASKED 080>> angel hide_oneself-angel pray <<MASKED 080>> ten-ten-ten-ten +day ten-ten-ten-ten <<MASKED 2c5a101a0ae0540>>
+  READING: 
+
+=== 6a1   x7 occurrence(s)
+  062r:3   <preposition_of_genitive>-father ?donkey <<MASKED 080>> go <<MASKED 6a1>>
+      cites: Genesis 22:1
+      free in that passage: afar, also, amongst, answer, aram, ass, azau, bathuel, beersheba, beget, behind, bersab, bethuel, brier, burnt, buz, camuel, cas, catch, che, child, cleav, concubin, early, eight, enemy, fast, fear, firstborn, gaham, go, hast, hazo, holocaust, horn, hus, huz, instead, jedlaph, jehovahjireh
+  113v:3   <preposition_of_genitive>-soul-son father-<suffix_of_divine_name> and go soul-son <<MASKED 6a1>> inside <<MASKED 812670ae0>>
+      cites: Luke 15:12-15
+      free in that passage: abroad, citizen, cleav, famin, field, go, join, mighty, riotou, riotously, spend, subst, swin, wast
+  114v:2   father-<suffix_of_divine_name> and soul-son see <<MASKED 6a1>> this <preposition_of_genitive>-soul-son
+      cites: Luke 15:20-21
+      free in that passage: compa, mov, neck, ris, run, runn, sinn, worthy, yet
+  178r:4   leave [?] <<MASKED 6a1>> ten leper <<MASKED 846>> and begin ten
+  207r:2   [?] one extort and leave <<MASKED 6a1>> +name-Jerusalem
+  207r:6   +spiritually blind righteous(ly)-half in_turn leave <<MASKED 6a1>> one
+  READING: 
+
+=== 6704f6670   x1 occurrence(s)
+  168r:9   <<MASKED 6704f6670>> +and_then this manager sit-have_mercy-somebody
+      one glyph: 670060670 = temple; church
+      one glyph: 670b30670 = evil; bad thing; demon; the Evil; devil
+  READING: 
+
+=== 060520344   x1 occurrence(s)
+  094r:2   because to-go-somebody-thief <<MASKED 060520344>> this-somebody-thief not
+      cites: Luke 14:21-23
+      free in that passage: city, compel, feebl, halt, hast, hedg, highway, hither, lan, maim, quickly, room, street, yet
+      one glyph: 0605201c4 = evil
+      one glyph: 060520250 = golden
+      one glyph: 0605204c6 = Salome
+      one glyph: 06052060e = spread
+      one glyph: 060520ae0 = donkey
+  READING: 
+
+=== 522060   x19 occurrence(s)
+  004v:3   sun <<MASKED 080>> <<MASKED 522060>> write
+  017v:10  virgin-Mary <<MASKED 080>> from Mary <<MASKED af1>> carry nine <<MASKED 522060>> in_turn ten <<MASKED af1>> be_born <<MASKED 080>> this
+  017v:11  out(ward) two <<MASKED 522060>> <<MASKED 080>> on-out(ward) +five <<MASKED 080>> on-six-year-to
+  018r:1   ~begin-ten <<MASKED 522060>> until offering inside chapter-year-chapter happy virgin-Mary
+      cites: Luke 1:28, Luke 1:34
+      free in that passage: favour, highly
+  018v:9   Mary have lo out(ward) six <<MASKED 522060>> <preposition_of_genitive>-girl relative holy-+name-chapter
+      cites: Luke 1:35, Luke 1:36
+      free in that passage: age, also, answer, barren, cousin, elisab, month, overshadow, sixth, therefor
+  023v:5   <<MASKED 522060>> +that Lord-Jézus righteous(ly) son God <<MASKED 080>> this each,_every confess.
+      cites: Matthew 16:16, Matthew 17:6
+      free in that passage: answer, hear, sor
+  READING: 
+
+=== 540060520882   x2 occurrence(s)
+  199r:10  one rich-somebody <<MASKED 540060520882>> <<MASKED 080>> then-exist have
+  200r:4   <preposition_of_genitive>-Lord vineyard_worker farm <preposition_of_genitive>-Lord <<MASKED 540060520882>> <<MASKED 080>> then-exist
+      structure: 540060520 = recognize; know
+  READING: 
+
+=== 846   x119 occurrence(s)
+  008v:1   <<MASKED 846>> <<MASKED 670ae0>> until Abraham <<MASKED 9d69d3871ae0>> [?] believe
+  022r:12  light die +<subject_marker> Lord +resurrect evil inside <<MASKED 846>> to-+who-[?]
+  022v:2   break +five +loaves +bread +five-?thousand <<MASKED 846>>
+      cites: John 2:11, Matthew 8:5, Mark 7:24
+      free in that passage: beseech, border, cana, capernaum, capharnaum, centurion, coast, could, enter, galil, go, manif, ris, sidon, thenc, tyr
+  033v:11  mountain_peak +mount to see this people-+day because <<MASKED 670ae0>> each,_every <<MASKED 846>>
+      cites: Luke 22:41
+      free in that passage: cast, withdrawn
+  035v:2   Jézus who(m)? search <<MASKED 846>> <preposition_of_genitive>-Lord Jew(ish) and shout
+      cites: John 18:4-8
+      free in that passage: also, answer, backward, go, seek, soon, therefor
+  035v:8   do, father-<suffix_of_divine_name> <preposition_of_genitive>-Lord to-Jew(ish) <<MASKED 846>> and
+  READING: 
+
+=== 9e0   x2 occurrence(s)
+  005r:12  <<MASKED 080>> then-exist from see <<MASKED 9e0>>
+      cites: Genesis 22:13
+      free in that passage: amongst, behind, brier, burnt, catch, fast, go, holocaust, horn, instead, ram, stead, thicket
+  038v:12  apostle-high inside-?brought inside house among apostle Christ <<MASKED 9e0>> leave [?]
+      cites: John 11:50, John 18:14
+      free in that passage: caiapha, caipha, consider, counsel, expedient, neither, peopl
+  READING: 
+
+=== 5db   x2 occurrence(s)
+  149r:8   soldier-Lord-Jézus-die-Christ suffering <<MASKED 5db>> +and_then
+  149v:2   grab-Lord <preposition_of_genitive>-soldier-Lord-Jézus-die-Christ suffering <<MASKED 5db>>
+      cites: Mark 16:16
+      free in that passage: condemn
+  READING: 
+
+=== 8d8   x1 occurrence(s)
+  075r:3   year write apostle literal in_turn two <<MASKED 8d8>> <<MASKED 080>> then-exist
+      cites: Acts 1:10
+      free in that passage: apparel, gar, go, stedfastly
+  READING: 
+
+=== 5204c8   x1 occurrence(s)
+  114r:6   a) this-soul-son leave <<MASKED 080>> <<MASKED 5204c8>> bread eat have_mercy
+      cites: Luke 15:15-18
+      free in that passage: abound, belly, citizen, cleav, fain, field, go, husk, join, sinn, spar, swin
+  READING: 
+
+=== 4c90604f04a4   x1 occurrence(s)
+  065v:4   food <<MASKED 4c90604f04a4>> [?] ~a) on-grapevine
+      cites: Matthew 7:16-20
+      free in that passage: cannot, cast, corrupt, hewn, neither, wherefor
+      structure: 0604f0 = good; goods; goodness; better; virtue, good nature
+  READING: 
+
