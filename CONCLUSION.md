@@ -215,6 +215,42 @@ placement is ours. The 290 read from a passage are the ones that stand or fall
 on this project's evidence alone, and they are the ones a reviewer should go
 at first.
 
+**The null control, because a method that cannot fail proves nothing.**
+Three gates, each with its bar written down before the run, in
+`harness/ktnull.py`. Two pass and one fails, and the failure is the useful
+one.
+
+    GATE 1  structurally related signs share a meaning
+            2.1% against 0.2% when the glosses are permuted
+            5.4 sigma, bar 5                                  PASS
+
+    GATE 2  the folios are about the passages they cite
+            27.8% against 16.9% when the folio-to-passage
+            assignment is shuffled
+            18.6 sigma, bar 5                                 PASS
+
+    GATE 3  the rendering reads like language
+            78.3% of adjacent word pairs occur together in
+            scripture, against 70.6% for a frequency-matched
+            shuffle of the dictionary
+            2.3 sigma, bar 5                                  FAIL
+
+Gate 1 clears its bar at ten times chance, but 2.1% is a small number and it
+means the structural tools are candidate generators, not readers: an
+arbitrary structural neighbour is wrong 98 times in 100, and what made a
+reading was the judgment step, which this control does not measure.
+
+Gate 2 is the strongest number in the project. The folios really are about the
+passages they are said to be about.
+
+Gate 3 failed and the bar was not moved. The finding underneath it is worth
+more than a pass would have been: **a frequency-matched random assignment of
+this dictionary already scores 70.6%**, because the commonest signs carry
+Lord, God, say, man, and any arrangement of those produces pairs that occur
+somewhere in scripture. "It reads like the Bible" is therefore a weak claim
+and this project should stop making it. The claim that survives is narrower
+and much stronger: it reads like *the particular passage the folio cites*.
+
 Where a hole cannot be read at all, the rendering now carries a fourth class.
 A **tier G** word is a guess: chosen by reading the line, its source passage
 and its neighbours, marked in the text with a degree sign (`°word`), and

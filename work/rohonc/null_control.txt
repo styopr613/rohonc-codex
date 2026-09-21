@@ -1,0 +1,28 @@
+NULL CONTROL, bars declared in the docstring before the run. 20 permutations, seed 20260921.
+
+GATE 1  do structurally related signs share a meaning?
+  pairs tested (sign, its structural neighbour)   188
+  observed: neighbour's gloss shares a stem       2.1%
+  control (glosses permuted, structure kept)      0.2%
+  observed beats 20 of 20 controls
+  5.4 sigma against a bar of 5.0   -> PASS
+
+GATE 2  are the cited passages the right passages?
+  folios citing a chapter and verse               195
+  tokens scored                                   7552
+  observed: gloss present in its OWN passage      27.8%
+  control (folio-to-passage shuffled)             16.9%
+  observed beats 20 of 20 controls
+  18.6 sigma against a bar of 5.0   -> PASS
+
+GATE 3  does the rendering read like language?
+  adjacent content-word pairs in the book         14725
+  corpus pairs indexed (within four words)        83582
+  observed: the pair stands within four words of
+    each other somewhere in Douay or King James   78.3%
+  control, free permutation of the glosses        40.2%  (4.8 sigma)
+  control, STRATIFIED by sign frequency           70.6%  (2.3 sigma)
+  observed beats 20 of 20 free controls, 20 of 20 stratified
+  2.3 sigma against a bar of 5.0   -> FAIL
+
+A GATE FAILED -- see above

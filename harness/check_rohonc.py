@@ -707,6 +707,17 @@ def main():
           and "ktvarcheck.py" in meth
           and "82.0%   the exposure" in meth
           and "is the number to quote" in meth)
+    check("ROHONC: the null control, two passes and one failure",
+          "The null control: can this method read noise?" in doc
+          and "18.6 sigma" in flat and "2.3 sigma against a bar of 5" in flat
+          and "recorded as a failure and the bar is not moved" in flat
+          and "candidate generators, not readers" in flat
+          and "70.6%" in doc)
+    check("CONCLUSION: the null control table",
+          "ktnull.py" in conf and "18.6 sigma, bar 5" in conf
+          and "2.3 sigma, bar 5" in conf and "FAIL" in conf
+          and "frequency-matched random assignment" in conf
+          and "stop making it" in conf)
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 

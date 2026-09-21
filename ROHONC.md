@@ -1602,6 +1602,98 @@ senses, as the two gates above showed, so a reader chooses, and this reader's
 blind score on held-out codes was one to two right in six. Single lines are
 proposals. The story-level reading rests on many lines agreeing.
 
+## The null control: can this method read noise?
+
+Everything above is an argument that the readings are right. This is the
+test that could have shown they are not. The question a reviewer asks is
+simple: if the pipeline were pointed at noise, would it produce readings
+anyway? Three mechanisms produced the 891 readings, they could fail
+separately, and each was given a gate with its bar written down in
+`harness/ktnull.py` **before** the run. Saved output: `work/rohonc/null_control.txt`.
+
+**Gate 1 -- do structurally related signs share a meaning? PASS, 5.4 sigma,
+and the absolute number matters more than the sigma.** `ktinside`, `ktcover`
+and `ktnear` all assume that a sign sitting inside, containing, or one glyph
+from a sign K&T read means something close to it. Tested on their own
+dictionary by hiding a sign's gloss and predicting its structural
+neighbour's, against a control in which the glosses are permuted among their
+signs and every structural relation is left identical:
+
+    pairs tested                                    188
+    observed, neighbour's gloss shares a stem       2.1%
+    control, glosses permuted                       0.2%
+    5.4 sigma, beats 20 of 20 controls              PASS
+
+Ten times chance, and it clears the bar. But 2.1% is a low number and it
+says something that has to be said plainly: **the structural tools are
+candidate generators, not readers.** Taking an arbitrary structural
+neighbour's meaning is wrong 98 times in 100. What turned a candidate into
+a reading was the judgment step -- reading the line, the folio and the source
+-- and this control does not measure that step at all. Nothing here licenses
+running those tools unsupervised.
+
+**Gate 2 -- are the cited passages the right passages? PASS, 18.6 sigma, and
+this is the strongest single number in the project.** A third of this
+project's readings come from matching a line against the chapter and verse
+its folio cites. If those citations are noise, so is everything drawn from
+them. Every token on every citing folio whose sign K&T read was scored for
+whether their gloss is present in that folio's own verses, against a control
+that shuffles which folio gets which passage and holds everything else fixed:
+
+    folios citing a chapter and verse               195
+    tokens scored                                  7552
+    observed, gloss present in its OWN passage     27.8%
+    control, folio-to-passage shuffled             16.9%
+    18.6 sigma, beats 20 of 20 controls             PASS
+
+The folios really are about the passages they are said to be about. That is
+the load-bearing fact under the whole reading method, and it is now measured
+rather than asserted.
+
+**Gate 3 -- does the rendering read like language? FAIL, 2.3 sigma against a
+bar of 5.** The strongest impression this work gives is that whole folios come
+out coherent. The gate turned that into a number: for every adjacent pair of
+content words in the rendering of the whole book, does that pair stand within
+four words of each other somewhere in the Douay-Rheims or the King James?
+
+    adjacent content-word pairs                   14725
+    observed                                       78.3%
+    control, free permutation of the glosses       40.2%   (4.8 sigma)
+    control, STRATIFIED by sign frequency          70.6%   (2.3 sigma)
+    beats 20 of 20 of both controls                 FAIL
+
+**This is recorded as a failure and the bar is not moved.** The stratified
+control -- a sign may only take the gloss of another sign in the same
+frequency decile -- was declared as the one the bar is set against precisely
+because it is the hard one, and it was not cleared. Two things follow, and
+the second is more interesting than the first.
+
+The first is a flaw in the statistic. The observed rate beat every one of the
+forty control runs, and the free-permutation gap is enormous -- 78.3% against
+40.2% -- yet that scores only 4.8 sigma, which would also fail. The control
+distribution is heavy-tailed because a permutation's score is dominated by
+where the handful of very common signs land. Sigma is the wrong summary for
+this test. Saying so does not rescue the gate: the bar was declared in sigma
+and it was missed.
+
+The second is the real finding. **A frequency-matched random assignment of
+this dictionary already scores 70.6%.** The commonest signs in the codex carry
+Lord, God, say, man, holy, son; any arrangement of those words produces pairs
+that occur somewhere in scripture. So "the rendering reads like the Bible" is
+a much weaker claim than it sounds, and this project should stop leaning on
+it. The claim that survives is gate 2's, which is narrower and far stronger:
+the rendering reads like *the particular passage the folio cites*, and a
+shuffle of that assignment loses 11 points at 18.6 sigma.
+
+**What the null control does and does not license.** It shows the citation
+machinery cannot be run on noise, and that structural relatedness carries real
+but thin signal. It does not show that the judgment step is sound, because
+nothing here measures it; and it does not support the coherence claim, which
+failed its own gate. Combined with `ktvarcheck.py`, which finds 82% of this
+project's merge claims untestable by anything in the book, the shape of the
+remaining risk is clear enough to state: it is not that the key is wrong, it
+is that particular regions of it are unfalsifiable from the inside.
+
 ## A third transcription from the scans: negative
 
 The pipeline splits each scanned opening at the gutter, finds the lit page
