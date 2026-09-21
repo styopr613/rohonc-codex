@@ -15008,3 +15008,347 @@ in Király & Tokai's dictionary, so the person is not named here.
 > shall not see death for ever. The Jews therefore said... Abraham is dead,
 > and the prophets.* The amen amen, the keeping and the not dying are here,
 > and the Jews' answer begins on line 9.
+
+## 215r — Abraham saw my day
+
+**1**  and the black one, God's word he heard, Abraham, and still […]
+`and black <subject> God say hear Abraham and still <subject> [?]`
+
+**2**  in turn, this Lord shall not die. And then the Lord Jesus: this Lord saw
+`in_turn this-Lord not die and_then Lord-Jézus this-Lord see`
+
+**3**  the death of father Abraham. Said the Jews to the chief men:
+`[?]-die from-father Abraham say Jew(ish) on-head`
+
+**4**  therefore this Lord is fifty, in turn this | two thousand
+`therefore* this-Lord fifty in_turn-+<subject> this | two-?thousand`
+
+**5**  years, likewise, of their father Abraham […] in turn | this
+`year likewise* <of>-+say from-father Abraham [?] in_turn | this`
+
+**6**  Lord spoke […] Abraham; the Lord saw; this, therefore, is pleasing;
+`Lord speak-Lord [?] Abraham Lord see-Lord this ?therefore pleasing`
+
+**7**  this Lord is a blasphemer. And then the Lord Jesus: the Lord is first; this Lord left, but rather
+`this-Lord blasphemer and_then Lord-Jézus first-Lord this-Lord leave but_rather`
+
+**8**  your father Abraham, in this world […]
+`you from-father Abraham on-this world* [?]`
+
+> John 8:56-58, Douay: *Abraham your father rejoiced that he might see my day:
+> he saw it, and was glad... Thou art not yet fifty years old, and hast thou
+> seen Abraham? Jesus said to them: Amen, amen I say to you, before Abraham
+> was made, I am.* The fifty years are on line 4 and the "before" on line 7.
+
+## 215v — then they took up stones
+
+**1**  And then the Jews: this, therefore, is pleasing; this Lord is a blasphemer;
+`and_then Jew(ish) this therefore* pleasing this-Lord one blasphemer`
+
+**2**  and they carried stones, and would have stoned
+`and carry-+say stone and would_say* stone-stone-this`
+
+**3**  the Lord Jesus; and the Lord Jesus left from among them, and out | of
+`Lord-Jézus and leave among-+say Lord-Jézus and out(ward) | on`
+
+**4**  the temple the Lord went, and the Lord's apostles. Here ends this holy gospel.
+`temple and go-Lord and <of>-Lord apostle end this holy-gospel`
+
+**5**  The Lord God, with all thy heart. Because it is written in Moses, truly, in turn […]
+`Lord-<divine> ?with_all_thy_heart because-exist inside Moses righteous(ly) write in_turn [?]`
+
+**6**  among you, if a man begin to blaspheme, and a man has
+`among you ~begin somebody how? blasphemer and have`
+
+**7**  stones, and out from among them […] […]
+`somebody stone-stone-this and among-+say out(ward) [?] [?]`
+
+**8**  spoke holy Elijah the prophet and holy Moses; therefore he said
+`speak holy-+Elijah prophet and holy-Moses therefore* he_said*`
+
+**9**  they could, because of […] the Lord, the Lord God created, of theirs
+`can-+say because* <of>-[?] Lord create Lord-<divine> <of>-+say`
+
+> John 8:59, Douay: *They took up stones therefore to cast at him. But Jesus
+> hid himself, and went out of the temple.* The stones and the going out of
+> the temple are both here, and the book's frame -- Elijah -- returns on line 8.
+
+## 014r — the Lord went in humility
+
+**1**  the Lord God; because the Lord went in humility, in turn the king, there is heaven and earth,
+`Lord-<divine> because go-Lord humble-Lord in_turn king exist heaven and ~earth`
+
+**2**  and many a miracle there was afterward, the Lord; and you, the Lord, | upon
+`and many miracle exist afterward-Lord and you Lord | on`
+
+**3**  the cross died, and on the third day stood up from the dead, and appeared to many people,
+`cross-die and on_the_third_day from die stand_up and appear many people`
+
+**4**  and the Lord was to you, through staying […] the year;
+`and exist-Lord to-you through stay [?]-year`
+
+**5**  and then this […] year […] see,
+`and then-exist this [?]-year [?] see`
+
+**6**  they said, upon all the people; see, he left behind, into heaven
+`say-[?] on-each,_every people see leave-leave inside heaven`
+
+**7**  and earth; and he left behind, they said […] believe:
+`land and on-leave-leave exist-+say [?] believe`
+
+**8**  he himself is truly the Son of the living God, and King of all kings, and
+`he_is* righteous(ly) son living God and king each,_every king and`
+
+**9**  Lord of all lords, the chief Lord of heaven and earth.
+`Lord each,_every Lord head Lord heaven and ~earth`
+
+> Revelation 19:16, Douay: *King of kings, and Lord of lords.* The manuscript's
+> page order jumps here, and this project keeps Kiraly and Tokai's order
+> rather than renumbering: 215v is followed by 014r, and the Palm Sunday
+> reading runs 014r, 014v, 011r, 011v, 012r, 012v, 010r, 010v, 013r, 013v.
+
+## 014v — a new gospel begins
+
+**1**  This holy gospel begins, written by holy Matthew, in
+`begins this holy-gospel write holy-Matthew inside`
+
+**2**  the twentieth, in the first chapter of the writing: the time | then
+`one-ten-+one-ten inside one chapter <of>-write time | then`
+
+## 011r — go into the village, and you shall find an ass
+
+**1**  the Lord Jesus was in his thirty-third year, the time | the Lord
+`exist Lord-Jézus thirty ~begin-+three_days time go | Lord`
+
+**2**  Jesus went to Bethany, into Jerusalem, and the twelve apostles; and then | the Lord
+`Jézus on-Bethany inside Jerusalem six-six apostle and then-exist | go`
+
+**3**  went to the lodging […] there was […] prayer, until, because
+`Lord on-+lodging [?] exist [?] as* ~until because`
+
+**4**  the trespassing way of the people, the lodging; and the trespassing, through the night,
+`trespass way people lodging and trespass through night`
+
+**5**  the lodging of the Lord Jesus; and then the Lord Jesus sent two apostles down to
+`lodging Lord-Jézus and then-exist-Lord go Lord-Jézus two apostle down`
+
+**6**  Bethany, because the trespassing, they carried all […] the way of the people,
+`Bethany because trespass carry-+say each,_every [?] way people`
+
+**7**  one ass; and then the Lord Jesus: in turn, brethren, you
+`one donkey and_then Lord-Jézus in_turn-?brethren you`
+
+**8**  […] therefore take it, they said, the two disciples,
+`[?] therefore-+say grab-+say say learn-two-learn`
+
+**9**  take it, the two disciples, the ass […] the apostles […] love
+`grab-+say learn-two-learn donkey [?] apostle-+<subject> [?] love`
+
+> Matthew 21:1-2, Douay: *And when they drew nigh to Jerusalem, and were come
+> to Bethphage, unto mount Olivet, then Jesus sent two disciples, saying to
+> them: Go ye into the village that is over against you, and immediately you
+> shall find an ass tied, and a colt with her.* The two disciples, the
+> village and the ass are all here.
+
+## 011v — they set him thereon
+
+**1**  […] they answered, going […] the ass, in the place, you, the ass, to
+`[?] answered on-go [?] donkey on-place you donkey to`
+
+**2**  say; and then the two disciples were […]
+`say and then-exist learn-two-learn exist [?]-[?].`
+
+**3**  one […] the ass, to the ass, two asses,
+`one [?] donkey to-donkey two donkey`
+
+**4**  the ass; and then the apostles untied this ass, and
+`donkey and then-exist tie_up-apostle this donkey and`
+
+**5**  […] this commandment; but […] and the Lord Jesus sat down
+`[?] this commandment a) [?] and sit down Lord-Jézus`
+
+**6**  upon the ass, he said; and the Lord had the apostles tie this, from
+`on-?he_said donkey and Lord tie_up apostle this from`
+
+**7**  the ass, the mother of this ass; and the Lord sat upon this
+`donkey mother this donkey and sit-Lord on-this`
+
+**8**  ass, and the Lord went into Jerusalem; and then
+`from donkey and go-Lord inside Jerusalem and then-exist.`
+
+**9**  the Lord was; the Lord went upon the mount of Olives, the most high, Jerusalem, […]
+`exist-Lord go-Lord on-tasty-to mount most_high Jerusalem in_turn-chapter-in_turn`
+
+> Matthew 21:7: *And they brought the ass and the colt, and laid their
+> garments upon them, and made him sit thereon.* The mother and the colt are
+> distinguished on line 7, as they are in Matthew and nowhere else.
+
+## 012r — the multitude went before him
+
+**1**  and […] the Lord Jesus and the Lord's apostles, because they were taught […]
+`and [?] Lord-Jézus and <of>-Lord apostle because learn exist [?]`
+
+**2**  and then the Lord Jesus to the Lord's apostles: go, you,
+`and_then Lord-Jézus apostle <of>-Lord go you`
+
+**3**  […] and in turn, brethren, you […] there is judgment,
+`[?] and in_turn-?brethren you [?] exist judge`
+
+**4**  who is it; and the apostles went, the apostles said, and the apostles went to the Lord, to
+`who_is_(it) and go-apostle say-apostle and go-apostle to Lord to`
+
+**5**  answer; in turn, to the Lord, they went the two ways; and then the Lord
+`answered in_turn to-Lord go two way and then-exist-Lord`
+
+**6**  was to the Lord […] many people, because they preached, this
+`exist to-Lord [?] many people because [?]-+preach this`
+
+**7**  people […] the Lord Jesus went; and an army went
+`people [?] go Lord-Jézus and and go an_army`
+
+**8**  to the Lord Jesus; and then the Lord Jesus kept going to Jerusalem,
+`to Lord-Jézus and then-exist keep_going Lord-Jézus to-Jerusalem`
+
+**9**  and then the Lord was; he saw upon Jerusalem the people; and the Lord Jesus went
+`and then-exist-Lord exist see on-Jerusalem people and go Lord-Jézus`
+
+## 012v — hosanna to the son of David
+
+**1**  into Jerusalem; and with much joy they cried out, this Lord; and the son came,
+`inside Jerusalem and many joy shout-[?] this-Lord and go son`
+
+**2**  David the king; and the Lord, with much joy, said,
+`David king ~and-Lord many joy say`
+
+**3**  because one man, they said, of […] believed;
+`because one somebody-+say <of>-[?] believe`
+
+**4**  mercy and love, they spread, the men, before the Lord Jesus;
+`have_mercy-love spread-+say-somebody before Lord-Jézus`
+
+**5**  and secondly they said, the men, branches of trees | they cut off,
+`in_turn-two say-somebody tree_branch-+<subject> | cut_off`
+
+**6**  they said, the men; and […] | […]
+`say-somebody and [?] | [?]`
+
+**7**  the men, before the Lord Jesus; and they cried out | this
+`somebody before Lord-Jézus and shout-[?] | this`
+
+**8**  Lord is the son of David the king; they brought
+`Lord <subject> son David king brought-[?].`
+
+**9**  the king a crown, they said; and the Jews spoke: this Lord
+`king crown-+say and speak Jew(ish) this-Lord`
+
+> Matthew 21:8-9, Douay: *And a very great multitude spread their garments in
+> the way: and others cut boughs from the trees, and strewed them in the way...
+> Hosanna to the son of David.* The spreading, the cutting of branches and
+> the cry are all here, in Matthew's order.
+
+## 010r — my house shall be called the house of prayer
+
+**1**  is the king of the Jews. And this word they cried out: thanks
+`king Jew(ish) and this word shout-[?] thanks`
+
+**2**  to the Lord from all the people on earth, and the angels of the eternal height; and
+`Lord each,_every people on-earth and angel from_the_eternal* high and`
+
+**3**  the Lord Jesus went into the temple at Jerusalem; and then the Lord found
+`go Lord-Jézus inside temple Jerusalem and then-exist exist-Lord find`
+
+**4**  the money changers; and the Lord, all the money changers, out […] | cast out,
+`money_changer and-Lord each,_every money_changer out(ward) [?] | exorcise`
+
+**5**  the Lord; and then the Lord Jesus: this temple is a house of prayer,
+`Lord and_then Lord-Jézus this temple-+<subject> pray house`
+
+**6**  a house by name; you have made it
+`name-+one house you say do, one`
+
+**7**  a den of thieves. And then, from one little son
+`thief-+one-house and then-exist from one little son`
+
+**8**  they cried out: this Lord is […] the king.
+`and shout-to this-Lord <subject> [?]-+say king`
+
+**9**  And then one of the Jews answered: see, the Lord, the brethren, this
+`and_then one Jew(ish) answered see-Lord brethren* this`
+
+> Matthew 21:12-13, Douay: *And Jesus went into the temple of God, and cast
+> out all them that sold and bought in the temple... My house shall be called
+> the house of prayer; but you have made it a den of thieves.* Both halves,
+> and K&T's own dictionary carries the money changers.
+
+## 010v — out of the mouth of infants
+
+**1**  little son speaks […] this Lord is their king. And then
+`little son speak-~son [?] this-Lord <of>-+say king and_then`
+
+**2**  the Lord Jesus: then this, every one, this little son, therefore | speaks;
+`Lord-Jézus then-exist this each,_every this little son therefore* | speak`
+
+**3**  the son, then, the earth is, and the rock and stone, all are,
+`~son then exist earth and rock-stone each,_every exist.`
+
+**4**  they cry out […] this Lord is your king.
+`shout-to [?] this-Lord you-+say king`
+
+**5**  Here ends this holy gospel. The Lord God, with all thy heart. And then
+`end this holy-gospel Lord-<divine> ?with_all_thy_heart* and then-[?]`
+
+**6**  the law of the Jews; and the Lord said: take, in this […] Jerusalem,
+`law Jew(ish) and say Lord grab inside this in_turn-chapter-in_turn Jerusalem`
+
+**7**  one rather, but rather they said, they could […] this,
+`one rather but_rather-+say exist-+say can-+say [?] this`
+
+**8**  they would, the chief, take; and then […]
+`would_say* head grab and then-exist [?]`
+
+**9**  the lodging to find, the Lord's heart, heaven and earth, Lord of all lords,
+`lodging find heart-Lord heaven and earth Lord each,_every Lord`
+
+> Matthew 21:15-16, Douay: *and the children crying in the temple, and saying:
+> Hosanna to the son of David... Have you never read: Out of the mouth of
+> infants and of sucklings thou hast perfected praise?* The children's cry and
+> the Lord's answer are both here, and line 3 is Luke 19:40, *the stones will
+> cry out* -- folded in, as always.
+
+## 013r — the prophet foretold it
+
+**1**  King of all kings; spoke holy […] the prophet, and holy […]
+`king each,_every king speak holy-<prophet> prophet and holy-<prophet>`
+
+**2**  the prophet, therefore, could the lodging find, the Lord's heart; and the chief
+`prophet therefore* can lodging find heart-Lord and head`
+
+**3**  of heaven and earth, Lord of all lords, King of all kings; and
+`heaven and earth Lord each,_every Lord king each,_every king and`
+
+**4**  out, the two, loving, foretold, the prophet, and holy […]
+`~out(ward) love-two-exist predict <prophet> prophet and holy-<prophet>`
+
+**5**  the prophet; and the Lord Jesus went […] into Bethany, this […]
+`prophet and go Lord-Jézus [?] inside Bethany this [?]`
+
+**6**  went […] the two, above, hidden, the earth; and this, many thanks the Lord did;
+`go [?] two above-hide_oneself earth and this many thanks Lord do,`
+
+**7**  in turn […] the Lord […] much sorrow; and then the Lord Jesus: this
+`in_turn [?] Lord [?] many sad(ly) and_then Lord-Jézus this`
+
+**8**  is […] every one, from a man; and a man is of the Lord's name
+`exist [?] each,_every from somebody and somebody exist <of>-Lord name`
+
+**9**  among men; and out of the man, the good man does.
+`among somebody and out(ward)-somebody good-somebody do,`
+
+## 013v — the three tables of Moses
+
+**1**  Three tables Moses took, and the Lord God wrote by the Lord's angel.
+`three tablet Moses grab and write Lord-<divine> on-angel <of>-Lord`
+
+> Exodus 31:18, Douay: *he gave to Moses... two tables of stone, written with
+> the finger of God.* The codex counts three, as it does elsewhere when it
+> is reckoning the Decalogue in three groups, which is how 208v-209v set it out.
