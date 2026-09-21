@@ -5837,47 +5837,5 @@
   "tier": "C",
   "n": 1,
   "evidence": "K&T's entry 520460670090a10 'lamb; Easter lamb' cites '029r10, 13, 029v02'. This sign is line-initial at 029v:2, whose line reads '[x] want Lord to you eat this EASTER'. Easter is read at the end of the line and lamb is not. A variant spelling of their word."
- },
- "8714162848c0520": {
-  "gloss": "holy_James",
-  "tier": "A",
-  "n": 1,
-  "evidence": "K&T's entry 1522818c0520 reads '035r09, 055r04; 033r06; 084v14 [apostle] JAMES'. This sign stands at 084v:14, ends in their 8c0520, and carries their 871 'holy' in front; the line reads 'amen, speak [x], APOSTOLIC LETTER'. The epistle of James, and the very next folio, 085r:2, is this project's own citation of James 2:10. Proved by K&T citation."
- },
- "a11460": {
-  "gloss": "the_host",
-  "tier": "C",
-  "n": 1,
-  "evidence": "K&T's entry a17 reads '141v11, 142r02 (2x); 180v06; 180v07; () 086v11 HOST (of the Eucharist)'. This sign is one glyph from their code and is the only hole on 086v:11, the line they cite. At their other cited line, 141v:11, the host is already rendered, which is why that hole was left dark and this one is not."
- },
- "6b6": {
-  "gloss": "covered",
-  "tier": "C",
-  "n": 1,
-  "evidence": "K&T's entry 6b5060 'pour; disperse; scatter, cover' ends 'expr. ? covered with WOUNDS 088v11'. This sign is one glyph from their code and is the only hole on 088v:11, which reads 'from HEAD until TOE [x] WOUND, Lazarus'. Their own expression, and the line says it."
- },
- "540362": {
-  "gloss": "born_again",
-  "tier": "C",
-  "n": 1,
-  "evidence": "K&T's entry 520b06 'be born' carries the expression 'e. g. 091r06-07 BE BORN AGAIN (Jn 3, 3 . 7)'. This sign is the only hole on 091r:6, which reads 'speak, and somebody cannot exist, to the Lord, believe, [x], two' -- John 3:3, 'unless a man be born again, he cannot see the kingdom of God'. Their own cited expression."
- },
- "6a4910": {
-  "gloss": "besought",
-  "tier": "C",
-  "n": 1,
-  "evidence": "K&T's entry 00b670ae0670ae0 'pray' names the lines its variants stand on and 135r03 is among them. This sign is the only hole on 135r:3, which reads 'remit, indebted, and see this Lord the king, [x]' -- Matthew 18:26, 'the servant falling down, BESOUGHT him, saying: Have patience with me'. Their word, the passage's sense."
- },
- "6305408ac": {
-  "gloss": "in_the_field",
-  "tier": "C",
-  "n": 1,
-  "evidence": "K&T's entry 5208ac reads '115v05, 140r01, 02, 10 (2x); 093v05 FIELD' and quotes their own translation of the neighbouring line, 'the firstborn brother was in the field (Lk 15, 25)'. This sign contains their 8ac, opens with their 630 'in, at', and is the only hole on 093v:5."
- },
- "a97": {
-  "gloss": "the_Most_High",
-  "tier": "C",
-  "n": 1,
-  "evidence": "K&T's entry a100a3 'most high [God]' lists the lines its variants stand on and marks this one with their own query: '? 089r10'. This sign is the only hole on 089r:10, which reads 'die, go, angel, heaven, glory, literal, from father God, [x], this Lazarus'. Their doubt is carried over: this is C, not A."
  }
 }

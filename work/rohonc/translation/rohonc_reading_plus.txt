@@ -2109,7 +2109,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 11  somebody-+<subject_marker> heaven land that_is have
 12  carry +law God [?] +sin somebody be_saved
 13  somebody ?answered to-many not-not-die chapter-oh chapter-oh
-14  amen speak [?] +apostolic_letter exist-exist <preposition_of_genitive>
+14  amen speak +holy_James +apostolic_letter exist-exist <preposition_of_genitive>
 
 
 === 085r ===
@@ -2167,7 +2167,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  8  Christ [?] symbolize fire Lord-<suffix_of_divine_name> and can each,_every | father-God
  9  Lord-Jézus-Christ-angel-holy-spirit-Mary-apostle one [?]
 10  God [?] and this [?] exist from-until on-execute
-11  Lord-Jézus-Christ on-thirty inside [?] Lord-year on-each,_every the_whole_wide_world ?world
+11  Lord-Jézus-Christ on-thirty inside ?the_host Lord-year on-each,_every the_whole_wide_world ?world
 
 
 === 087r ===
@@ -2224,7 +2224,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  8  and somebody-rich each,_every °linen and purple go-somebody-rich | and
  9  rich from +day until +day joy-rich and then-exist +that_way go
 10  one ~Lazarus to-house this-rich and ~Lazarus exist each,_every from
-11  +head until +toe [?] wound ~Lazarus time this rich
+11  +head until +toe ?covered wound ~Lazarus time this rich
 12  to +table sit-rich somebody Lord [?] king-Lord [?]
 13  who-and-this-and Lord and then-exist rich exist this ?the_poor_man/woman ask_(for)
 
@@ -2239,7 +2239,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  7  lick-dog <preposition_of_genitive>-Lazarus wound-+mouth and Lazarus more
  8  exist from dog +have have_mercy this Lazarus in_turn from-rich
  9  have_mercy +robe-Lazarus +lame have_mercy and then-exist this Lazarus
-10  die go angel heaven ?glory literal from-father God [?] this Lazarus and Lazarus
+10  die go angel heaven ?glory literal from-father God ?the_Most_High this Lazarus and Lazarus
 11  grab-angel and Lazarus carry inside öl Abraham
 12  forefather and then-exist see this miracle this rich from this Lazarus
 
@@ -2294,7 +2294,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  +that this-Lord righteous(ly) son living God because this-Lord go on-heaven.
  4  in_turn-[?] and-Lord this-Lord righteous(ly) son living God +and_then.
  5  Lord-Jézus Nicodemus +verily +verily this-Lord you.
- 6  speak and somebody ?cannot exist to-Lord believe [?] two.
+ 6  speak and somebody ?cannot exist to-Lord believe ?born_again two.
  7  be_born on-this ?world one somebody be_saved a) each,_every-somebody
  8  be_damned say Nicodemus +answered how?-this can exist who to-two-before
  9  two from <preposition_of_genitive> mother go-Nicodemus and two be_born-Nicodemus on-this ?world.
@@ -2362,7 +2362,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  two somebody-sense this-somebody-sense not
  3  can-somebody-sense because buy-somebody-sense
  4  +five yoke sense +ox want-somebody-sense
- 5  go-somebody-sense [?] want-somebody-sense
+ 5  go-somebody-sense ?in_the_field want-somebody-sense
  6  +<subject_marker> +ox thanks exist can +ox | [?]
  7  [?] [?] +believe this-living-~servant to-speak
  8  somebody-sense before <preposition_of_genitive>-living-+servant Lord-<suffix_of_divine_name> say
@@ -3430,7 +3430,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 135r ===
  1  king and Lord-<suffix_of_divine_name> begin ?as-believe [?] [?]
  2  have +law to somebody-+sin want somebody this Lord-<suffix_of_divine_name> +have_compassion
- 3  remit indebted ~and see this Lord-<suffix_of_divine_name>-king [?]
+ 3  remit indebted ~and see this Lord-<suffix_of_divine_name>-king ?besought
  4  ~humble this servant <preposition_of_genitive>-Lord-<suffix_of_divine_name>-king somebody-servant and
  5  somebody have_mercy this Lord-<suffix_of_divine_name>-king and somebody have_mercy each,_every ~exist-+one
  6  <preposition_of_genitive>-somebody sin and somebody go-angel <preposition_of_genitive>-somebody
@@ -5670,7 +5670,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  [?] +name <preposition_of_genitive>-Lord <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name>.
  2  in_turn-[?]-~out(ward) [?] two-thousand-year to-+this_is
  3  [?]-+brother <preposition_of_genitive> chapter +one +day and have
- 4  from [?] +judge-+day because +new-from son God +judge
+ 4  from ?covered-+one +judge-+day because +new-from son God +judge
  5  die somebody sin be_damned somebody sin and be_saved
  6  light say say Lord-Jézus this say apostle <preposition_of_genitive>-Lord exist on-somebody
  7  +one +one to-to earth water sun each,_every [?]
