@@ -703,7 +703,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  7  this-?with this-Lord grab-cut_off-to [?] head.
  8  wash and each,_every <preposition_of_genitive>-?with ?shall_be_called wash and | then
  9  exist ?with +<subject_marker> foot exist-Lord wash and foot
-10  +<subject_marker> ?garment [?] and two from +go_away apostle middle each,_every
+10  +<subject_marker> ?garment +towel and two from +go_away apostle middle each,_every
 11  wash and foot +<subject_marker> ?garment [?] and
 12  grab Lord-Jézus on-Lord <preposition_of_genitive>-Lord believe-~exist and
 
@@ -1684,7 +1684,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  7  and one somebody be_saved a) each,_every somebody be_damned
  8  ~to and somebody exist believe inside [?]-~Christ this
  9  ?whosoever exist +be_saved because this to-Lord one God
-10  end this holy-gospel [?] have somebody ask_(for)
+10  end this holy-gospel ?whatsoever have somebody ask_(for)
 11  inside Jézus +name be_saved speak holy-Paul apostle
 
 
@@ -1764,7 +1764,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  3  [?] you first +say Lord love whatever | ?is_he
  4  exist ~ask_(for) from-father-<suffix_of_divine_name> from <preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> inside
  5  <preposition_of_genitive>-Lord +name each,_every you be_saved grab
- 6  end this holy-gospel [?] have somebody ask_(for)
+ 6  end this holy-gospel ?whatsoever have somebody ask_(for)
  7  inside-Jézus +name +be_saved speak holy-Paul apostle
  8  this word exist-exist <preposition_of_genitive>-Paul have ?whosoever-Paul
  9  ask_(for) inside-Jézus +name +three ask_(for) somebody-Paul
@@ -1925,7 +1925,7 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 === 076v ===
  1  ~leave on-water heaven [?] Peter Peter if-?but_rather
  2  +<subject_marker> somebody among apostle you sin [?] from
- 3  [?] somebody apostle +sin [?] [?] somebody | <preposition_of_genitive>
+ 3  ?heathen somebody apostle +sin [?] ?publican somebody | <preposition_of_genitive>
  4  somebody-+sin leave a) if-exist many somebody-+sin in_turn
  5  thief-who in_turn +robber in_turn blood blood_shedder that_is
  6  people-die somebody in_turn [?] somebody in_turn from [?]
@@ -1943,8 +1943,8 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  5  somebody [?] [?] on-sin to Lord-Jézus-Christ
  6  one +sin ?penance be_saved a) each,_every ?whosoever-+sin be_damned
  7  say Lord-Jézus-Christ Peter Peter [?] that_is [?]
- 8  ?whosoever-+sin +exist apostle-this-?whosoever-+sin from [?] [?]
- 9  [?] somebody <preposition_of_genitive>-[?] leave [?]
+ 8  ?whosoever-+sin +exist apostle-this-?whosoever-+sin from ?heathen [?]
+ 9  ?publican somebody <preposition_of_genitive>-[?] leave [?]
 10  somebody [?] voice,_sound [?] ?brethren-exist somebody say somebody this
 
 
@@ -1953,11 +1953,11 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  2  in_turn [?] apostle-somebody among [?] somebody-+sin go | to
  3  Peter [?]-+sin to-home and somebody-on-+sin
  4  admonish because this somebody-+sin sufferer in_turn to-which this-somebody
- 5  sufferer +exist apostle this ?whosoever-+sin from [?] [?]
+ 5  sufferer +exist apostle this ?whosoever-+sin from ?heathen ?publican
  6  from-see <preposition_of_genitive>-[?] leave a) go-Peter to-Peter two
  7  [?]-+sin and somebody-on-+sin admonish because this ?whosoever-+sin
  8  sufferer in_turn to-which this-somebody sufferer +exist apostle this ?whosoever-+sin
- 9  from [?] [?] somebody <preposition_of_genitive>-[?] leave a)
+ 9  from ?heathen ?publican somebody <preposition_of_genitive>-[?] leave a)
 10  go Peter to-Peter +three [?]-+sin and somebody
 
 
@@ -1965,11 +1965,11 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
  1  on-sin admonish because this ?whosoever-+sin sufferer in_turn to-which this-somebody
  2  sufferer grab ?whosoever-+sin [?] from [?] inside
  3  why?-in_turn because this exist righteous(ly) righteous(ly) to-?whosoever-+sin because
- 4  false ~judge-somebody [?] chapter-judge-?whosoever righteous(ly) judge
+ 4  false ~judge-somebody ?according_to chapter-judge-?whosoever righteous(ly) judge
  5  ?but_rather-each,_every [?] false judge in_turn false ~judge-somebody
  6  righteous(ly) somebody false from-judge be_damned +<subject_marker> inside ~evil
  7  +<subject_marker> chapter-oh chapter-oh in_turn righteous(ly) ~judge-somebody each,_every
- 8  to-which-chapter righteous(ly) judge [?] judge-somebody false
+ 8  to-which-chapter righteous(ly) judge ?according_to judge-somebody false
  9  from-judge ?but_rather-each,_every to-which-chapter righteous(ly) judge Lord-<suffix_of_divine_name> speak each,_every write
 10  and each,_every prophet and each,_every church_father and each,_every forefather and [?]
 
@@ -2430,9 +2430,9 @@ declared variant spellings (1.2%), 6156 have no reading (20.5%).  Lines with eve
 
 === 096r ===
  1  to-to-this drink this pleasing who this-Lord speak because food
- 2  Jew(ish) who-[?] [?] and <preposition_of_genitive>-Lord body eat
+ 2  Jew(ish) who-[?] ?strive and <preposition_of_genitive>-Lord body eat
  3  and to-to-this drink which-hide_oneself say this Lord-Jézus who-Lord-exist
- 4  [?] a) say Lord-Jézus to-believe then-exist
+ 4  ?strive a) say Lord-Jézus to-believe then-exist
  5  believe-somebody inside Lord to-Lord this-?he_who righteous(ly) son
  6  living God +and_then Lord-Jézus <preposition_of_genitive>-Lord ?shall_be_called +this_is
  7  righteous(ly) eat and <preposition_of_genitive>-Lord to-to-this +this_is righteous(ly) drink

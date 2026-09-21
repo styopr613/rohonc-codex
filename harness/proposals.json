@@ -4241,5 +4241,41 @@
   "tier": "B",
   "n": 3,
   "evidence": "One formula, written three times on two folios: 046v:3 '[Pilate] if want Lord say [538] of-emperor', 046v:10 'Pilate if want Lord say [538] of-emperor', 047r:6 'Pilate if want Lord say [538] of-'. The folios are the Passion before Pilate -- 046v:2 has the Jews shouting for the cross, 046v:6-7 'and Pilate cried: behold Jesus, the King of the Jews'. The verse this formula is is John 19:12, Douay: 'If thou release this man, thou art not Caesar's friend.' 'release' is read (7114e1, 9555204f6), 'emperor' is read, and 'if', 'want' and 'say' are read, so the only word of the verse left for this sign is the one naming what Pilate would be to Caesar. 'friend' is carried by four other signs (520444962, 520ae0520ae0, 540444520ae0, 540444001) and none of them is on these lines, and there is no negative anywhere in the formula -- so the codex is not writing 'not Caesar's friend', it is writing the same thing the other way round, 'Caesar's enemy'. 'enemy' is free in both translations and is carried by no sign. Turning a negated noun into its opposite is ordinary in a vernacular paraphrase."
+ },
+ "a105204e4": {
+  "gloss": "towel",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Proved out of K&T's own dictionary. They read the compound 520af0a105204e4 as 'wipe with kerchief'. 520af0 is the sign this project reads as 'garment'. What is left of their compound, once the garment sign is taken out of the front of it, is a105204e4 -- the cloth itself. It stands at 030r:10, 'he laid aside his garments, [towel], and the two went out from among all the apostles', on a folio whose whole subject is John 13: 030r:3 and 030r:11 both have 'wash' and 030r:11 has 'wash and foot'. Douay John 13:4-5: 'he riseth from supper, and layeth aside his garments, and having taken a TOWEL, girded himself. After that, he putteth water into a basin, and began to wash the feet of the disciples, and to wipe them with the towel wherewith he was girded.' The codex's line has the garments laid aside and then this sign, which is where the towel stands in the verse. K&T's own English word for the object is 'kerchief'; 'towel' is the Douay's word for the same thing in this verse, and nothing turns on the choice."
+ },
+ "374670": {
+  "gloss": "according_to",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Both occurrences are on 078r, whose subject is judging. 078r:4 reads 'false judge-somebody [x] chapter-judge-whosoever righteously judge'; 078r:8 reads 'to-which-chapter righteously judge [x] judge-somebody false'. The verse is John 7:24, Douay: 'Judge not ACCORDING TO the appearance, but judge just judgment.' Both lines set false judging against righteous judging with this sign between them, which is the hinge of that verse. 'appearance' is spoken for by the appear signs (6e2, 7e5, 7e4) and 'judge', 'false' and 'righteous' are all read, so 'according' is the one word of the verse no sign carries, and it is free in the Douay and the King James alike."
+ },
+ "6c4520": {
+  "gloss": "whatsoever",
+  "tier": "C",
+  "n": 2,
+  "evidence": "One closing formula written twice, identically: 067v:10 and 070v:6 both read 'end this holy-gospel [x] have somebody ask(for)'. 070v cites John 14:13, Douay: 'And WHATSOEVER you shall ask the Father in my name, that will I do.' The codex's line ends the gospel reading and then begins the verse, and the word it begins it with stands immediately before its own 'ask'. 'whatsoever' is free in both translations. JUDGMENT, MARKED AS ONE: another sign renders 'whatever' and it stands three lines above this one at 070v:3. They are read as two signs because the codex writes them differently on the same folio and John 14:13-14 repeats the word twice; a reviewer who wants one word for both loses nothing but the distinction."
+ },
+ "574270003003": {
+  "gloss": "strive",
+  "tier": "C",
+  "n": 2,
+  "evidence": "Both occurrences are on 096r, whose cited source is John 6, the bread of life. 096r:2 reads 'the Jews who [x], and eat the body of the Lord'; 096r:4 reads '[x]; but said the Lord Jesus, to believe, and then'. Douay John 6:52: 'The Jews therefore STROVE among themselves, saying: How can this man give us his flesh to eat?' The codex's line puts the Jews, this sign, and the eating of the Lord's body in the order the verse puts them, and the next occurrence has the striving stop and the Lord answer, which is 6:53. 'strive' is free in both translations; 'murmur', the other word for what the Jews do in John 6, is already carried by 670152520 and 69c152520, so the codex distinguishes the murmuring of 6:41 from the striving of 6:52 as the chapter itself does."
+ },
+ "6733c4": {
+  "gloss": "publican",
+  "tier": "C",
+  "n": 4,
+  "evidence": "This sign and 5200a2501 occur as a PAIR, in that order, four times across 076v, 077r and 077v -- 077v:5 'from [5200a2501] [6733c4]', 077v:9 'from [5200a2501] [6733c4] somebody of- leave'. All three folios cite Matthew 18:15-17, the sin of a brother. The verse the pair sits in is Matthew 18:17, Douay: 'and if he will not hear the church, let him be to thee as the HEATHEN AND PUBLICAN.' Two nouns, in that order, at the end of the sentence, which is exactly the shape the codex writes. 'publican' is free in both translations and is carried by no sign. The rest of the chapter's free vocabulary -- alone, witnesses, yea, dined -- are single words, not a pair, and none of them ends a clause the way these do."
+ },
+ "5200a2501": {
+  "gloss": "heathen",
+  "tier": "C",
+  "n": 4,
+  "evidence": "The first half of the pair described under 6733c4: four times across 076v, 077r and 077v this sign stands immediately before the publican sign, on folios citing Matthew 18:15-17. Douay Matthew 18:17: 'let him be to thee as the HEATHEN and publican.' JUDGMENT, MARKED AS ONE: K&T read another sign as 'pagan', and heathen and pagan are one word in the Douay's own usage. This is read as 'heathen' rather than as a second sign for 'pagan' because the pagan sign appears nowhere on 076v, 077r or 077v, and because the pair has to be read together -- the publican sign is fixed by the verse, and the word standing before it in that verse is heathen. A reviewer who rejects the distinction should read this sign as 'pagan'; the lines complete either way, and the sense of the sentence does not change."
  }
 }
