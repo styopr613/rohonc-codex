@@ -5135,5 +5135,113 @@
   "tier": "C",
   "n": 1,
   "evidence": "Found by ktnear.py: one glyph from a sign already read. It is K&T's 670ae0 'exist' with the 031 prefix that this folio puts on other words too -- 025v:10 has it in front of 'rejoiced' and 025v:13 in front of 'fifth'. 025v:9: '[x], the sons, go, Bethlehem, and then'. Occurrence(s): 025v:9 '<<[x]>> ?sons go Bethlehem and then-exist.'"
+ },
+ "540ae00a20a2ae0": {
+  "gloss": "bread",
+  "tier": "B",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from THREE signs this project already reads as 'bread' -- 520ae00a20a2ae0 (A), 670ae00a20a2ae0 (B) and 540ae00a20a2270ae0 (A). The codex spells the word at least four ways and this is the fourth. Occurrence(s): 040r:2 '<<[x]>> [?] because exist virgin-cut_off [?] [?]'"
+ },
+ "5402c0990": {
+  "gloss": "know",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 5402c0670, which this project already reads as 'know' (tier A). The other neighbour is K&T's 5402c0a10 'Thomas', which the line does not want. Occurrence(s): 035r:4 '?serpent because from <<[x]>> go Jew(ish) [?]'"
+ },
+ "812a26ae0": {
+  "gloss": "town",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 812670ae0 'town'. Occurrence(s): 037r:7 '[?] <<[x]>> in_turn-two to-Lord to-house [?] +third'"
+ },
+ "8128b0ae0": {
+  "gloss": "town",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 812670ae0 'town'. Occurrence(s): 046r:6 '[?] <<[x]>> [?] each,_every <preposition_of_genitive>-Lord holy-nine-+name'"
+ },
+ "520151717": {
+  "gloss": "remain",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 520151, read in this project as 'remain' on the strength of K&T's 520151990060520969 'be; stay'. Tier C and the chain is worth stating: the base reading is itself tier C, and 520151 also heads K&T's 'priest' and 'sun', so this is the weakest kind of near-match in this batch. Occurrence(s): 009v:1 'this-Thomas this-Lord believe-Thomas <<[x]>> this-Lord righteous(ly)'"
+ },
+ "5201511a1": {
+  "gloss": "remain",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 520151, read in this project as 'remain' on the strength of K&T's 520151990060520969 'be; stay'. Tier C and the chain is worth stating: the base reading is itself tier C, and 520151 also heads K&T's 'priest' and 'sun', so this is the weakest kind of near-match in this batch. Occurrence(s): 045v:9 'six +an_army in_turn angel <<[x]>> this-Lord'"
+ },
+ "5201510a2": {
+  "gloss": "remain",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 520151, read in this project as 'remain' on the strength of K&T's 520151990060520969 'be; stay'. Tier C and the chain is worth stating: the base reading is itself tier C, and 520151 also heads K&T's 'priest' and 'sun', so this is the weakest kind of near-match in this batch. Occurrence(s): 051v:1 '<<[x]>> <preposition_of_genitive>-Mary +woe a) <preposition_of_genitive>-Lord three_nails long '"
+ },
+ "217520151": {
+  "gloss": "remain",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 520151, read in this project as 'remain' on the strength of K&T's 520151990060520969 'be; stay'. Tier C and the chain is worth stating: the base reading is itself tier C, and 520151 also heads K&T's 'priest' and 'sun', so this is the weakest kind of near-match in this batch. Occurrence(s): 060r:7 'way somebody this Lord this good <<[x]>> [?]'"
+ },
+ "5201b0520": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 037r:3 '[?] each,_every to-<preposition_of_genitive>-Lord to-year-to [?] <<[x]>> and then-exist Lord.'"
+ },
+ "520742520": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 041r:11 'hour and then-exist Lord ?brought <<[x]>>'"
+ },
+ "520787520": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 044v:8 'understand-eat soldier <<[x]>> [?] [?] Lord-Jézus and'"
+ },
+ "520423520": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 046r:9 'write <<[x]>> exist and [?] [?] beat'"
+ },
+ "5201c9520": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 057r:9 'from Jézus execute and say Mary Magdalene <<[x]>>'"
+ },
+ "520523520": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 060r:5 'apostle <<[x]>> two somebody from-Lord speak this-Lord two'"
+ },
+ "520158520": {
+  "gloss": "that",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 067r:3 'believe <<[x]>> this Lord [?] righteous(ly) son living God and say'"
+ },
+ "5694b0960": {
+  "gloss": "he_said",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 5694b0, which this project already reads as 'he said'. Occurrence(s): 061r:9 '[?] die <preposition_of_genitive>-brother <<[x]>> and this Jézus'"
+ },
+ "540060890": {
+  "gloss": "ox",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. It is the head of K&T's 540060890570 'ox', which this project already reads. 062r:6: 'from father Abraham, from the brethren, the Lord God, [x]' -- Douay Genesis 22:13: 'Abraham lifted up his eyes, and saw behind his back a RAM amongst the briers'. The other neighbour, their 540060520 'know', does not suit a line that is counting what Abraham brought. Occurrence(s): 062r:6 'from-father Abraham from ?brethren Lord-<suffix_of_divine_name> <<[x]>>'"
+ },
+ "6709a3ae0": {
+  "gloss": "chapter",
+  "tier": "C",
+  "n": 1,
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 670060ae0, read in this project as 'chapter'. 066r:3 is a citation line. Occurrence(s): 066r:3 '[?] out(ward)-year somebody <<[x]>> <preposition_of_genitive>-Lord father-<suffix_of_divine_nam'"
  }
 }
