@@ -26,7 +26,7 @@ ok=1
 # three checks (range, quotation, number) are the only thing standing between
 # an editorial retelling and a fabricated one. A gate that is not run on every
 # commit is not a gate.
-for c in gate.py check_results.py check_rohonc.py ktretellcheck.py; do
+for c in gate.py check_results.py check_rohonc.py ktretellcheck.py ktnotecheck.py; do
   if python3 "$c" > "/tmp/$c.out" 2>&1; then
     echo "  ok    $c   $(tail -1 /tmp/$c.out)"
   else

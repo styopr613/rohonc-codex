@@ -197,7 +197,7 @@ Two more leaves follow, 224r and 224v, and they are the worst-preserved in the
 codex: «Michael on Saturday», «Matthew on Saturday», «[the same week]», «[a
 portion] [of wine]», and «one [and a half] three, and one [and a half] three»
 (224r). They cite no source, and almost every guess on them is a placeholder;
-the apparatus says so. The final lines of the book ask that a soul go «on
+the apparatus says so. The last lines of the book ask that a soul go «on
 high» and «[into heaven]», «soul from lose, from rich [at the last], exist
 [amen] [for ever]» (224v).
 
