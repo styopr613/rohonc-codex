@@ -5112,7 +5112,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
  6  humble head [?]-~emperor-[?] this ?world and
  7  grab-[?] [?]-~emperor-[?] who
  8  +say-[?] and indebted-[?] because this
- 9  from [?]-~emperor-[?] you °render_to_Caesar
+ 9  from [?]-~emperor-[?] you °render
 
 
 === 204v ===
@@ -5642,7 +5642,7 @@ declared variant spellings (2.0%), 5918 have no reading (19.7%).  Lines with eve
  2  spirit Friday and ?years and +three_days God from spirit two-two-year
  3  °a_wind from spirit °shall_come +earth quake and moon
  4  in_turn on and year +<subject_marker> ~begin
- 5  from-father <preposition_of_genitive>-somebody °the_kingdom from °render_to_Caesar ?whosoever and
+ 5  from-father <preposition_of_genitive>-somebody °the_kingdom from °render ?whosoever and
  6  °within inside righteous(ly) +believe carry-Lord somebody °shall_be_saved
  7  +not_believe and this each,_every ?therefore-have_mercy somebody °shall_perish
  8  and somebody want Christ against leave somebody God learn

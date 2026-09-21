@@ -54,7 +54,7 @@
   "tier": "A"
  },
  "010": {
-  "evidence": "054r:1 and 124r:6.",
+  "evidence": "054r:1 and 124r:6. At 054r:1 the reading duplicates its neighbour: the line is 'this exist from and ___ go DOWN from the cross' and the down two words later is 0c0, a tier A reading of ours. At 124r:6, on the folio citing Genesis 3:9, the line ends 'in the Garden of Eden said ___' and the calling of Adam runs on into 124r:7, 'spirit to Adam, Adam, why'. The glyph belongs to K&T's place words -- it is inside a10520347010, read here as 'stay', and inside 5202c0010010 and 520060793010 -- so a place or a there would suit both slots better than a second down. Not changed, because no single word was found that carries both lines.",
   "gloss": "down",
   "n": 2,
   "tier": "G"
@@ -1728,7 +1728,7 @@
   "tier": "G"
  },
  "454022": {
-  "evidence": "108r:7 'PEOPLE see and then [x] PEOPLE to CITY', on the folio citing Matthew 5:13, 'it is good for nothing any more but to be cast out, and to be TRODDEN ON by men'. The sign is one glyph from K&T's 'great, many, very much'.",
+  "evidence": "108r:7 and 181r:2, and it reads at one of them. 108r is Matthew 5:13-16 and line 7 runs 'people see, and then ___ people to the city', which is 'trodden on by men'. 181r:2 is the creed sequence on a folio citing John 20:24 -- 'say, and ___, died the Lord Christ, and rose the Lord Christ, and appeared' -- where the slot wants suffered or was crucified and will not take trodden down. The sign is 454 022 and 454 is K&T's 'many, great', which fits neither. One line reads, one does not, and no word was found that reads both.",
   "gloss": "trodden_down",
   "n": 2,
   "tier": "G"
@@ -2442,7 +2442,7 @@
   "tier": "G"
  },
  "5200948f0094": {
-  "evidence": "186r:4 and 188r:4, the same legend.",
+  "evidence": "186r:4 and 188r:4, and it reads at one of them. 186r is the Golden Legend's Heraclius, who rode to Jerusalem in imperial purple and found the gate shut until he stripped it off: 'and the emperor, many, ___, love-say, cross'. 188r cites Exodus 16:1 and 16:33 and line 4 runs 'say ___ brought a vessel of manna, thanks', which is the golden vessel of manna and has no purple in it. One line reads, one does not.",
   "gloss": "his_purple",
   "n": 2,
   "tier": "G"
@@ -4002,7 +4002,7 @@
   "tier": "B"
  },
  "5208a8": {
-  "evidence": "141r:7 and 198v:5, in an identical formula; K&T's own 'fruit' stands on line 1 of 141r and they gloss the whole phrase at this line.",
+  "evidence": "141r:7 and 198v:5, an identical formula: 'Lord, sin, have mercy, ___, this, exist'. Correction to the earlier note on this entry, which said K&T gloss the whole phrase at this line. They do not: ktlook.py --cite finds no entry of theirs citing 141r07 or 198v05. Their word for fruit does stand on 141r:1, which is where the guess came from, and that is all the support it has.",
   "gloss": "fruit",
   "n": 2,
   "tier": "G"
@@ -4044,7 +4044,7 @@
   "tier": "G"
  },
  "520950969": {
-  "evidence": "099r:5, beside RICH and WEALTH; 1 John 3:17.",
+  "evidence": "099r:5 and 116r:2, and it reads at one of them. 099r:5 is 1 John 3:17 on a folio citing that letter: 'in turn ___ rich somebody have somebody wealth see' -- 'he that hath the substance of this world and shall see his brother in need'. 116r:2 is a repeated angel formula on a folio citing Luke 15:24 -- 'and then, of the angel, from the Father God, from the Father God, of the angel, ___' -- and has nothing of this world's goods in it. Worth a later pass: the middle glyph is 950, K&T's 'hide oneself', the sign that makes Lucifer when it takes the angel; 1 John 3:17 ends 'and shall SHUT UP his bowels from him', so a word for shutting or hiding may read both. Not changed on that alone.",
   "gloss": "hath_this_world's_goods",
   "n": 2,
   "tier": "G"
@@ -4140,7 +4140,7 @@
   "tier": "G"
  },
  "520990ae0": {
-  "evidence": "025r:8 'Jesus have mercy [x] son can from day healing', Matthew 17:15 'Lord, have mercy on my son, for he is a lunatic'; 'lunatic' free and the rarest word of the passage. The second occurrence, 222v:9 in the author's calendar, does NOT fit and is recorded. GUESS.",
+  "evidence": "025r:8 and 222v:9, and it reads at one of them. 025r:8 is Matthew 17:15 on a folio citing that chapter: 'Lord Jesus, have mercy, ___ son, can, from day, healing' -- 'have mercy on my son, for he is a lunatic'. 222v:9 is the author's own calendar and reads 'Friday, I fasted, ___, the author, this, out, two, Sunday', where a lunatic has no place. Worth a later pass: the middle glyph 990 is the one in K&T's 9909909b6 'have, must', and 520 is their verbal prefix, so a form of HAVE would suit both slots. Not changed on that alone.",
   "gloss": "lunatic",
   "n": 2,
   "tier": "G"
@@ -5478,7 +5478,7 @@
   "tier": "G"
  },
  "556": {
-  "evidence": "044v:7 and 221r:2; John 19:3, 'Hail, king of the Jews'.",
+  "evidence": "044v:7 and 221r:2. 044v:7 is John 19:3, 'Hail, king of the Jews', and the line ends with this word. 221r:2 is Acts 9:17, Ananias coming to Saul, and reads '___ upon Paul, laid his hands, and put, Ananias, of the Lord' -- a greeting is not impossible there, since Ananias opens with 'Brother Saul', but the slot would take a verb of coming just as well. One line reads clearly, the other only if the greeting is meant.",
   "gloss": "hail",
   "n": 2,
   "tier": "G"
@@ -6666,7 +6666,7 @@
   "tier": "A"
  },
  "64f": {
-  "evidence": "079r:5 and 085v:12; Matthew 12:36, 'they shall render an account for it in the day of judgment'.",
+  "evidence": "079r:5 and 085v:12, and the second does not read. 079r:5 is 'somebody ___ of somebody, righteously, good, have mercy, say, love, do' and the guess came from Matthew 12:36, 'they shall render an account for it in the day of judgment'. 085v:12 is 1 Kings 18 on a folio citing that chapter, the water poured on Elijah's altar: 'pierce ___ to the Lord God, in water, on this, destroy, exist, THREE' -- and 1 Kings 18:34 pours the water three times into a trench that Elijah dug. The word immediately before ours there is K&T's 649 'pierce', and 64f is one glyph code away from it, so this may be their pierce or dig word rather than an account. Not changed on adjacency alone, but the account does not read at 085v:12.",
   "gloss": "give_account",
   "n": 2,
   "tier": "G"
@@ -7662,7 +7662,7 @@
   "tier": "G"
  },
  "73a": {
-  "evidence": "174v:8 and 176r:2; Matthew 25:25, 'and being afraid I went and hid thy talent in the earth'.",
+  "evidence": "174v:8 and 176r:2, and it reads at one of them. 174v cites Matthew 25:24 and line 8 is the third servant's excuse, 'because this Lord, ___, have, servant' -- 'I was AFRAID, and went and hid thy talent'. 176r cites John 4:6, Jesus wearied at Jacob's well, and line 2 reads 'well, because, exist, ___, weary-Lord, in turn, apostle' -- where the slot wants the weariness, not the fear. One line reads, one does not.",
   "gloss": "afraid",
   "n": 2,
   "tier": "G"
@@ -8256,7 +8256,7 @@
   "tier": "B"
  },
  "805": {
-  "evidence": "088v:12, on the folio citing Luke 16:19, 'and feasted sumptuously every day'.",
+  "evidence": "088v:12 and 103v:4, and it reads at one of them. 088v cites Luke 16:19, the rich man 'clothed in purple and fine linen, and feasted sumptuously every day', and line 12 reads 'to the table, sitting rich, somebody, Lord, ___, king-Lord, in purple' -- with the purple beside it, so the slot is the feasting. 103v:4 is a doxology, 'amen, from every ghost, and from ___ Lord, from heavenly, on this', and no feast belongs in it. One line reads, one does not.",
   "gloss": "fared_sumptuously",
   "n": 2,
   "tier": "G"
@@ -8808,8 +8808,8 @@
   "tier": "G"
  },
  "8e4": {
-  "evidence": "204r:9 and 223r:5; Matthew 22:21, 'Render therefore to Caesar the things that are Caesar's'.",
-  "gloss": "render_to_Caesar",
+  "evidence": "204r:9 and 223r:5. 204r:9 is Matthew 22:21 and reads 'from ___ emperor ___ you ___' with K&T's own emperor already on the line, so the gloss 'render to Caesar' was putting the Caesar in twice. Cut back to RENDER, which is the part of the verse this slot needs. 223r:5, 'from the Father, of somebody, the kingdom, from ___ whosoever', takes a verb of giving over as well.",
+  "gloss": "render",
   "n": 2,
   "tier": "G"
  },
