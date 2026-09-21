@@ -11989,3 +11989,233 @@ in Király & Tokai's dictionary, so the person is not named here.
 > every man is the steward who will be called to account for them. The
 > eight-word chain is written out in full four times on this folio alone, which
 > is why the signs in it are among the best attested in the book.
+
+## 170r — the account, and a new gospel begins
+
+**1**  Here ends this holy gospel, spoken by holy Luke. Have | this:
+`end this holy-gospel speak holy-Luke have | this`
+
+**2**  the apostles, the Jews, the man, truly, are stewards of the man's father,
+`apostle-Jew(ish)-somebody righteous(ly) manager <of>-somebody father`
+
+**3**  the son; and among them the man has the son.
+`son and among somebody son have somebody.`
+
+**4**  He is found accused, because then the dead man is
+`?was_accused find because then-chapter die-somebody exist`
+
+**5**  accused; the man is quieted; accused. Here ends
+`?was_accused somebody calm_down ?was_accused end`
+
+**6**  this holy gospel. To the apostles, the Lord God, with all thy heart; the Lord God have mercy.
+`this holy-gospel on-apostle Lord-<divine> ?with_all_thy_heart Lord-<divine> <subject>-have_mercy`
+
+**7**  This holy gospel begins, written by
+`begins this holy-gospel write`
+
+**8**  holy Matthew in the fifth chapter | of
+`holy-Matthew inside five chapter | <of>`
+
+**9**  the writing; by holy Luke in the | twenty-
+`write holy-Luke inside | two-two`
+
+**10**  second chapter; the holy chapter of Jerusalem, in the ninth chapter:
+`two-two chapter holy-chapter-+one-Jerusalem inside nine chapter`
+
+**11**  the time, then, the Lord Jesus, in
+`time then-exist Lord-Jézus inside`
+
+> The codex gives its own chapter references on lines 8 to 10, and the story
+> that follows is Matthew 9 and Luke 8: the question about fasting, then
+> Jairus, then the woman with the issue of blood. Its numbering is not the
+> numbering of a printed Bible, which is worth saying plainly -- it has the
+> right books in the right order and its own chapter count.
+
+## 170v — can the children of the bridegroom mourn?
+
+**1**  his thirtieth year; the time the Lord Jesus went into the temple at Jerusalem, and | then
+`thirty years* time go Lord-Jézus inside Jerusalem temple and | then`
+
+**2**  he was in the temple; the Lord Jesus went, and the Lord saw the son, much joy
+`exist inside temple go Lord-Jézus and see-Lord son* many joy`
+
+**3**  and much sorrow; and from afar off were the apostles of holy John
+`and many sad(ly) and from-to-far exist apostle holy-John`
+
+**4**  the Baptist; and then the Lord Jesus left off; and then the apostles
+`three-+baptize the_Baptist/woman and then-exist leave Lord-Jézus and_then apostle`
+
+**5**  answered: the apostles fast, and the Pharisees fast; in turn, the Lord's apostles —
+`answered apostle fast-apostle and Pharisee fast in_turn <of>-Lord apostle`
+
+**6**  why do thy apostles not fast? And then the Lord Jesus to the apostles: | in
+`?therefore fast-apostle and_then Lord-Jézus to apostle | on`
+
+**7**  joy, in turn; then the apostles go in joy, keeping watch, while
+`joy in_turn then-exist go apostle on-joy observe exist`
+
+**8**  the apostles are two years; thus the apostles leave the Lord Jesus, from the chief man;
+`apostle two-year ~on-that_is leave apostle Lord-Jézus from head`
+
+**9**  and then the apostle Jairus: Jairus's daughter is dead; to the high priest,
+`and_then apostle Jairus <of>-Jairus daughter <subject> die to-high_priest`
+
+**10**  this one who answered; and he took this chief man.
+`this ~exist-who answered and grab this head.`
+
+> Matthew 9:14-15, Douay: *Then came to him the disciples of John, saying: Why
+> do we and the Pharisees fast often, but thy disciples do not fast? And Jesus
+> said to them: Can the children of the bridegroom mourn, as long as the
+> bridegroom is with them?* Then 9:18: *Behold a certain ruler came up, and
+> adored him, saying: Lord, my daughter is even now dead.* The codex names
+> Jairus outright, which is Mark's and Luke's name for that ruler, not
+> Matthew's -- so the compiler is working from more than one gospel at once.
+
+## 171r — the woman who touched the hem
+
+**1**  The Lord Jesus; and the Lord Jesus went with the chief man to this chief man's
+`Lord-Jézus and go-Lord-head-Jézus this head`
+
+**2**  house; and this one went, the Lord, and many people; and there was
+`house and go this-who Lord many people and exist`
+
+**3**  among this people one woman, a chief woman, which
+`among this people one woman head which`
+
+**4**  chief woman had been twelve years in an issue of blood;
+`woman head exist nine-year-six-six-year inside blood from-donkey`
+
+**5**  and then this woman, the chief, then this woman:
+`and_then this woman head then-exist this-woman`
+
+**6**  how shall we touch the woman? Why in turn? Of the Lord she believed:
+`how_shall_we* touch <of>-woman why?-in_turn <of>-Lord believe-exist`
+
+**7**  the hem — this woman, the woman's healing, the woman left off; and
+`hem this-woman healing-woman leave-woman and`
+
+**8**  then she touched, believing, the Lord Jesus, | within
+`then-exist touch believe-exist Lord-Jézus | inside`
+
+**9**  the hour the woman was healed, the woman left off; and the Lord Jesus saw
+`hour healing-woman leave-woman and see Lord-Jézus`
+
+**10**  upon the people; the Lord's hand; there were many people; and then the Lord Jesus, this
+`on-people hand-Lord ~exist many people and_then Lord-Jézus this`
+
+> Mark 5:25-29, Douay: *a woman who was under an issue of blood twelve years...
+> came in the crowd behind him, and touched his garment. For she said: If I
+> shall touch but his garment, I shall be whole. And forthwith the fountain of
+> her blood was dried up.* The twelve years, the touching from behind, and the
+> instant healing are all here.
+
+## 171v — thy faith hath made thee whole
+
+**1**  woman: the woman's faith healed the woman. Afterward,
+`woman <of>-woman believe healing-woman ?afterward`
+
+**2**  which day the Lord Jesus said, this Lord, to this woman, the Lord healed her; but
+`who-+day say Lord-Jézus this-Lord this-woman from-healing-Lord but`
+
+**3**  the Lord Jesus said to this woman: the woman's faith hath healing
+`say Lord-Jézus this-woman <of>-woman believe healing`
+
+**4**  done. And | the Lord went, the chief man, the apostles, Jesus, the woman;
+`do, and | go-Lord-head-apostle-Jézus-woman`
+
+**5**  this chief man's house said, and | then the Lord,
+`say this head house and | then-exist-Lord`
+
+**6**  the chief man […] Jesus, the woman, going in; and he saw,
+`~head-[?]-Jézus-woman-+say inside-go and see`
+
+**7**  the Lord Jesus, much sorrow; and then the Lord Jesus […]
+`Lord-Jézus many sad(ly) and_then Lord-Jézus [?]`
+
+**8**  therefore: this daughter is not a dead daughter, but rather the daughter sleeps. And then
+`?therefore this daughter die-daughter but_rather to-sleep-daughter and then-exist`
+
+**9**  they laughed, said the Lord Jesus; and then he said: see, love | this
+`say laugh Lord-Jézus and_then say see love | this`
+
+> Matthew 9:22-24, Douay: *Be of good heart, daughter, thy faith hath made
+> thee whole... Give place, for the girl is not dead, but sleepeth. And they
+> laughed him to scorn.* Both sayings are here, in order, with the laughing.
+
+## 172r — damsel, arise
+
+**1**  the Lord […] spoke; and then the Lord Jesus, this chief man,
+`Lord [?] speak and_then Lord-Jézus this head.`
+
+**2**  cast this people out; and then, having cast out,
+`cast_out this people out(ward) and then-exist out(ward) cast_out`
+
+**3**  the chief man, and with the Lord Jesus the daughter's father
+`head and among Lord-Jézus <of>-daughter father`
+
+**4**  and mother; and then the Lord Jesus to the sky said, said, named this:
+`and mother and_then Lord-Jézus sky say say name-this`
+
+**5**  servant, arise, servant daughter, among maidens; and | then
+`one-+servant +rise servant daughter among virgin-girl and | then`
+
+**6**  the daughter stood up and sat; and then, lo, the Lord went,
+`exist stand_up daughter on-sit and_then lo go-Lord`
+
+**7**  his descendant, to the pleasing of the Lord, the prophet foretold through; lo, the Lord went;
+`descendant to-pleasing-Lord prophet through predict lo go-Lord`
+
+**8**  and then the Lord Jesus had the father and mother bring wine and bread
+`and_then Lord-Jézus carry father mother wine and bread`
+
+**9**  […] […] and drink; and then the daughter
+`[?] [?] and drink and then-exist daughter`
+
+> Mark 5:40-43, Douay: *having put them all out, he taketh the father and the
+> mother of the damsel... and saith to her: Talitha cumi, which is, being
+> interpreted: Damsel (I say to thee) arise... And he bid them give her to
+> eat.* The putting out, the two parents kept back, the rising and the food
+> are all here in Mark's order. The wine and the bread are the codex's own.
+
+## 172v — the fame of it went abroad, and the talents begin
+
+**1**  drank; and the daughter […]; and then the Lord Jesus, this month,
+`drink and [?]-daughter and_then Lord-Jézus this moon`
+
+**2**  […] therefore said; and the news went out into all the sky
+`[?] ?therefore say ~and news leave each,_every sky`
+
+**3**  and earth. Here ends this holy gospel. The Lord God, with all thy heart.
+`earth end this holy-gospel Lord-<divine> ?with_all_thy_heart`
+
+**4**  This holy gospel begins,
+`begins this holy-gospel.`
+
+**5**  written by holy Stephen the king;
+`write holy-Stephen king`
+
+**6**  this word, written, the chief;
+`this word write head`
+
+**7**  this world, the Lord, the priest;
+`this world Lord priest.`
+
+**8**  and the high Magdalene day, the king, all
+`and high-Magdalene-+day king each,_every`
+
+**9**  the Lord […]; and the farm, the people; this word he speaks, from the king; there was
+`Lord to-[?] and farm people this word speak-from-+king exist`
+
+**10**  a rich lord going a long way; and | then
+`go-Lord one rich Lord long way and | then`
+
+**11**  the Lord had three living servants; and then the servants
+`exist have-Lord three living-servant and then-exist living-servant`
+
+> Matthew 9:26: *And the fame hereof went abroad into all that country.* Then
+> a new reading begins and it is the Talents, Matthew 25:14-15: *For even as a
+> man going into a far country, called his servants, and delivered to them his
+> goods.* The codex gives three servants, as Matthew does. The attribution on
+> line 5 to "holy Stephen the king" is the codex's own and belongs to no
+> gospel; Stephen is Hungary's first king and its patron, which is the
+> strongest hint of provenance anywhere in the book.

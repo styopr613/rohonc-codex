@@ -4955,7 +4955,9 @@ words. There are 15 of them now.
   9  living-hear-soul-exist-exist-chapter-reason-sense
  10  in_turn inside this world* rich have this-apostle-Jew(ish) was_accused* find
 
-## 170r
+## 170r — the account, and a new gospel begins
+
+> Here ends this holy gospel, spoken by holy Luke. Have | this: the apostles, the Jews, the man, truly, are stewards of the man's father, the son; and among them the man has the son. He is found accused, because then the dead man is accused; the man is quieted; accused. Here ends this holy gospel. To the apostles, the Lord God, with all thy heart; the Lord God have mercy. This holy gospel begins, written by holy Matthew in the fifth chapter | of the writing; by holy Luke in the | twenty- second chapter; the holy chapter of Jerusalem, in the ninth chapter: the time, then, the Lord Jesus, in
 
   1  end this holy-gospel speak holy-Luke have | this
   2  apostle-Jew(ish)-somebody righteous(ly) manager <preposition_of_genitive>-somebody father
@@ -4969,7 +4971,9 @@ words. There are 15 of them now.
  10  two-two chapter holy-chapter-+one-Jerusalem inside nine chapter
  11  time then-exist Lord-Jézus inside
 
-## 170v
+## 170v — can the children of the bridegroom mourn?
+
+> his thirtieth year; the time the Lord Jesus went into the temple at Jerusalem, and | then he was in the temple; the Lord Jesus went, and the Lord saw the son, much joy and much sorrow; and from afar off were the apostles of holy John the Baptist; and then the Lord Jesus left off; and then the apostles answered: the apostles fast, and the Pharisees fast; in turn, the Lord's apostles — why do thy apostles not fast? And then the Lord Jesus to the apostles: | in joy, in turn; then the apostles go in joy, keeping watch, while the apostles are two years; thus the apostles leave the Lord Jesus, from the chief man; and then the apostle Jairus: Jairus's daughter is dead; to the high priest, this one who answered; and he took this chief man.
 
   1  thirty years* time go Lord-Jézus inside Jerusalem temple and | then
   2  exist inside temple go Lord-Jézus and see-Lord son* many joy
@@ -4982,7 +4986,9 @@ words. There are 15 of them now.
   9  and_then apostle Jairus <preposition_of_genitive>-Jairus daughter <subject_marker> die to-high_priest
  10  this ~exist-who answered and grab this head.
 
-## 171r
+## 171r — the woman who touched the hem
+
+> The Lord Jesus; and the Lord Jesus went with the chief man to this chief man's house; and this one went, the Lord, and many people; and there was among this people one woman, a chief woman, which chief woman had been twelve years in an issue of blood; and then this woman, the chief, then this woman: how shall we touch the woman? Why in turn? Of the Lord she believed: the hem — this woman, the woman's healing, the woman left off; and then she touched, believing, the Lord Jesus, | within the hour the woman was healed, the woman left off; and the Lord Jesus saw upon the people; the Lord's hand; there were many people; and then the Lord Jesus, this
 
   1  Lord-Jézus and go-Lord-head-Jézus this head
   2  house and go this-who Lord many people and exist
@@ -4995,7 +5001,9 @@ words. There are 15 of them now.
   9  hour healing-woman leave-woman and see Lord-Jézus
  10  on-people hand-Lord ~exist many people and_then Lord-Jézus this
 
-## 171v
+## 171v — thy faith hath made thee whole
+
+> woman: the woman's faith healed the woman. Afterward, which day the Lord Jesus said, this Lord, to this woman, the Lord healed her; but the Lord Jesus said to this woman: the woman's faith hath healing done. And | the Lord went, the chief man, the apostles, Jesus, the woman; this chief man's house said, and | then the Lord, the chief man […] Jesus, the woman, going in; and he saw, the Lord Jesus, much sorrow; and then the Lord Jesus […] therefore: this daughter is not a dead daughter, but rather the daughter sleeps. And then they laughed, said the Lord Jesus; and then he said: see, love | this
 
   1  woman <preposition_of_genitive>-woman believe healing-woman afterward*
   2  who-+day say Lord-Jézus this-Lord this-woman from-healing-Lord but
@@ -5007,7 +5015,9 @@ words. There are 15 of them now.
   8  therefore* this daughter die-daughter but_rather to-sleep-daughter and then-exist
   9  say laugh Lord-Jézus and_then say see love | this
 
-## 172r
+## 172r — damsel, arise
+
+> the Lord […] spoke; and then the Lord Jesus, this chief man, cast this people out; and then, having cast out, the chief man, and with the Lord Jesus the daughter's father and mother; and then the Lord Jesus to the sky said, said, named this: servant, arise, servant daughter, among maidens; and | then the daughter stood up and sat; and then, lo, the Lord went, his descendant, to the pleasing of the Lord, the prophet foretold through; lo, the Lord went; and then the Lord Jesus had the father and mother bring wine and bread […] […] and drink; and then the daughter
 
   1  Lord [...] speak and_then Lord-Jézus this head.
   2  cast_out this people out(ward) and then-exist out(ward) cast_out
@@ -5019,7 +5029,9 @@ words. There are 15 of them now.
   8  and_then Lord-Jézus carry father mother wine and bread
   9  [...] [...] and drink and then-exist daughter
 
-## 172v
+## 172v — the fame of it went abroad, and the talents begin
+
+> drank; and the daughter […]; and then the Lord Jesus, this month, […] therefore said; and the news went out into all the sky and earth. Here ends this holy gospel. The Lord God, with all thy heart. This holy gospel begins, written by holy Stephen the king; this word, written, the chief; this world, the Lord, the priest; and the high Magdalene day, the king, all the Lord […]; and the farm, the people; this word he speaks, from the king; there was a rich lord going a long way; and | then the Lord had three living servants; and then the servants
 
   1  drink and [?]-daughter and_then Lord-Jézus this moon
   2  [...] therefore* say ~and news leave each,_every sky
