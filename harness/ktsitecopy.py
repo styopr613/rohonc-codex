@@ -32,7 +32,8 @@ KEYS = ["tagline", "intro", "how_far", "tiers", "new_here_lead", "is_it_true",
         "card_data", "edition", "credit", "reading_lead", "dictionary_lead", "data_lead",
         "outside_lead", "credit_line", "card_script", "script_intro", "script_signs",
         "script_numerals", "script_phrases", "script_shuffle_lead", "script_marks",
-        "script_plates"]
+        "script_plates", "method_intro", "method_loop", "method_bars", "method_mistakes",
+        "method_code", "tests_intro", "tests_after", "sources_intro", "docs_lead"]
 
 
 def fact_sheet():
@@ -96,6 +97,50 @@ FIGURES (these exact numbers may be used; no others. Every percentage is a share
 - {len(order)} folios; English was written for {n_eng} of them; the rest carry
   too little gloss to say anything true.
 
+THE METHOD (for the page about it) -- the loop that reads one unread sign
+- 1. Take the folio's own citation. K&T's notes cite a chapter and verse for
+  most folios; the source passage is the only outside evidence there is.
+- 2. Look at every line where the unread sign stands, not just the one in hand.
+- 3. Guess from the passage: the word the verse supplies for that slot.
+- 4. CHECK THE GUESS AT EVERY OTHER OCCURRENCE in the book. A reading that fits
+  where it was found and fails elsewhere is thrown away, not softened.
+- 5. Grade it: tier A fits everywhere checked, B fits most, C or D was read
+  from one passage with nothing able to refuse it, G is a guess in brackets.
+- 6. Write the evidence line into proposals.json with the folios and lines, so
+  anyone can repeat the check or overturn it.
+- The bar for every test is written into the test's own file BEFORE it runs,
+  and is never moved afterwards. A near miss is a miss. Failed attempts are
+  kept and written up with the number they failed by.
+- Seventeen attempts were made to extend the dictionary. Ten failed. The two
+  that worked were the same discovery: the signs are phrases, and cutting them
+  apart recovers readings from parts already in the dictionary.
+
+THE MISTAKES THAT COST THE MOST TIME (name them plainly; they are the useful part)
+- Treating a sign as an atom. Eleven attempts assumed one sign meant one word
+  with a meaning to guess. Many signs are short phrases written without a
+  space, and both halves were already in the dictionary. That was the whole
+  game, and the 2022 paper says so in passing.
+- Inheritance versus composition. Asking whether "Holy Word" inherits meaning
+  from "Word" gave a true negative that looked like a dead end. The right
+  question was whether signs COMBINE.
+- A unit error. Figures were computed per glyph when a word averages 2.43
+  glyphs. Every number moved when it was fixed. Always confirm what one row of
+  the transcription is before measuring it.
+- Homograph collision. Keying a scraped dictionary by code and keeping the
+  last entry made the book's commonest word read "eleven" when it is "and";
+  65 codes had to be merged.
+- Blaming the corpus. A failed aligner was predicted to be failing because it
+  used only the four gospels; 1.75 million words of the wider sources were
+  fetched and it scored no better. Test the cheap version of a corpus
+  hypothesis first.
+- Reading only the headword. K&T's entries carry variant spellings in their
+  own apparatus; keying by headword silently dropped 88 signs, 1.2% of the
+  book, that they had already read.
+- Three versions of the arithmetic of "what is left to read" were wrong,
+  including one that counted a line as reached while an unread word still
+  stood in it. The current figures are measured and the wrong ones are kept on
+  the page beside them.
+
 THE SCRIPT ITSELF (for the page about it)
 - The writing runs right to left. The codex dates itself 1593.
 - It is logographic: a sign stands for a word or a whole phrase, not a sound.
@@ -130,6 +175,19 @@ THE SCRIPT ITSELF (for the page about it)
   edition were REDRAWN by an image model from the library's low-resolution scan,
   because no print-quality scan is available. They are new drawings that follow
   the scribe's composition, not reproductions, and every caption says so.
+
+THE WORKING DOCUMENTS (described on the site, not published)
+- They are working files: written for whoever runs the project next, not for a
+  reader. They are kept accurate rather than tidy. Anyone who wants one can ask
+  for it at info@oona13.com.
+- ROHONC.md, the full account: the line-break measurement, the dictionary, all
+  seventeen attempts to extend it, what the book says, and what is not decided.
+- METHOD.md, the standing orders: the loop, and the arithmetic of what is left
+  to read, with three earlier versions of that arithmetic that were wrong.
+- TESTS.md: every test with its bar, its control and its saved run.
+- DATA_PROVENANCE.md: where each file came from and what may be done with it.
+- FINALPASS.md, BLINDFOLD.md, DARK.md: the vocabulary check before the guesses,
+  the one check the project cannot run on itself, and the last unread words.
 
 THE TESTS
 - Every bar was declared in the test's own docstring before it ran, and none
@@ -201,6 +259,15 @@ script_phrases   one paragraph explaining that phrases are written without a spa
 script_shuffle_lead  one sentence above the shuffler's controls
 script_marks     one paragraph explaining the marks used in the rendering
 script_plates    one paragraph introducing the redrawn plates, saying plainly that they are redrawings and why
+method_intro     2 paragraphs opening a page about the method: what problem it solves and what makes it checkable
+method_loop      one paragraph introducing the numbered steps of the loop, which are listed after it
+method_bars      one paragraph on declaring the bar before the run and keeping failures
+method_mistakes  one paragraph introducing the list of mistakes that cost the most time, which follows it
+method_code      one sentence introducing links to the programs themselves
+tests_intro      2 paragraphs opening a page about the tests: what was being tested and why the bar is declared first
+tests_after      one paragraph after the summary table saying what the passes and failures add up to, without restating numbers
+sources_intro    2 paragraphs opening a page about sources and credit: whose work each source is and what may be done with it
+docs_lead        one paragraph introducing a list of the project's own working documents, which are described rather than published, and can be asked for
 credit_line      one sentence, at most 35 words, for the foot of every page: whose dictionary this rests on, that their translation is unpublished, and that the readings here are this project's own
 
 FACT SHEET

@@ -51,38 +51,27 @@ OUT_DEFAULT = "/var/www/oona13/rohonc"
 BG = "#0B0D10"   # the family's dark ground; the page is a sheet laid on it
 V = "20260921"
 
-# The project's own working documents. They are DESCRIBED here, not published:
-# they are written for whoever runs the project next, they argue with earlier
-# versions of themselves, and a reader is not the audience. Anyone who wants one
-# can ask. The pages on this site are written from them instead.
 DOCS = [
-    ("ROHONC.md", "The full account",
-     "The line-break measurement that started it, the dictionary, all seventeen attempts to "
-     "extend it with the ten that failed, what the book turns out to say, and what none of it "
-     "decides. The longest of them by far."),
-    ("METHOD.md", "The standing orders",
-     "What the next person is to do, in order, and the arithmetic of how much of the book is "
-     "still unread. Three earlier versions of that arithmetic were wrong and are kept on the "
-     "page beside the right one."),
-    ("TESTS.md", "The tests in full",
-     "Every test with the bar it declared before it ran, the control it was measured against, "
-     "and the saved run it produced."),
-    ("DATA_PROVENANCE.md", "Where each file came from",
-     "Every source, the terms it carries, what may be done with it, and one courtesy failure "
-     "recorded so it is not repeated."),
-    ("FINALPASS.md", "The vocabulary before the guesses",
-     "Why the words had to be checked before the bracketed restorations were, and what that changed."),
-    ("BLINDFOLD.md", "The blindfold test",
-     "The one check the project cannot run on itself, written as instructions for a stranger."),
-    ("DARK.md", "The last unread words",
-     "The final few per cent of the manuscript, how they were closed, and what the attempt taught."),
+    # (slug, file, nav label, page title, one line for the data index)
+    ("tests", "TESTS.md", "Tests", "Tests",
+     "whether the added readings are true: nine tests, then the outside review's six"),
+    ("method", "METHOD.md", "Method", "Method",
+     "the loop that reads an unread sign, and the standing orders for whoever runs it"),
+    ("writeup", "ROHONC.md", "Write-up", "The write-up",
+     "the full account: the line-break result, the dictionary, seventeen extension attempts, what the book says"),
+    ("provenance", "DATA_PROVENANCE.md", "Sources", "Sources and what is owed",
+     "where every file came from and what may be done with it"),
+    ("finalpass", "FINALPASS.md", None, "The final pass",
+     "the vocabulary checked before the guesses"),
+    ("blindfold", "BLINDFOLD.md", None, "The blindfold test",
+     "the one check the project cannot run on itself"),
+    ("dark", "DARK.md", None, "The dark words",
+     "the last 3.6% of the book, and what reading them taught"),
 ]
 
-CONTACT = "info@oona13.com"
-
-NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("reading", "The reading"),
+NAV = [("index", "Overview"), ("script", "The script"), ("reading", "The reading"),
        ("dictionary", "Dictionary"), ("tests", "Tests"), ("method", "Method"),
-       ("sources", "Sources"), ("data", "Data")]
+       ("writeup", "Write-up"), ("data", "Data")]
 
 CREDIT = html.escape(COPY["credit_line"].strip())
 
@@ -128,39 +117,6 @@ main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:v
 .folio h2 small{font-family:"EB Garamond",serif;font-size:17px;color:var(--soft);letter-spacing:0;margin-left:10px;text-transform:none}
 .folio p{text-indent:0}
 .nof{color:var(--soft);font-style:italic}
-/* the front page: the book, the scroller */
-.hero{display:grid;grid-template-columns:minmax(0,1fr) 236px;gap:34px;align-items:center;margin:0 0 6px}
-.hero .blurb p:first-child{margin-top:0}
-.hero .bk{margin:0}
-.hero .bk img{width:100%;height:auto;display:block;filter:drop-shadow(0 16px 26px rgba(0,0,0,.32))}
-.hero .acts{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
-.hero .acts a{display:inline-block;text-decoration:none;font-family:Cinzel,serif;font-size:13.5px;letter-spacing:.08em;text-transform:uppercase;padding:9px 14px;border:1px solid var(--rub);border-radius:3px;color:var(--rub)}
-.hero .acts a.go{background:var(--rub);color:#fff}
-.hero .acts a:hover{background:var(--rub);color:#fff}
-.hero .sz{font-size:15px;color:var(--soft);margin:10px 0 0}
-.strip{margin:1.6em -64px;padding:18px 0;background:var(--paper2);overflow:hidden;position:relative}
-.strip .rail{display:flex;width:max-content;gap:34px;animation:rohroll 90s linear infinite}
-.strip:hover .rail{animation-play-state:paused}
-.strip .it{display:flex;flex-direction:column;align-items:center;gap:5px;min-width:74px}
-.strip .it .sv{color:var(--ink)}
-.strip .it b{font-weight:400;font-size:16px;white-space:nowrap}
-.strip .it span{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11.5px;color:var(--soft);letter-spacing:.06em}
-.strip .fade{position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,var(--paper) 0,transparent 8%,transparent 92%,var(--paper) 100%)}
-@keyframes rohroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-@media (prefers-reduced-motion:reduce){.strip .rail{animation:none}.strip{overflow-x:auto}}
-.shot{margin:1.6em 0}
-.shot img{width:100%;display:block;border:1px solid var(--line);background:#fff}
-.shot figcaption{font-size:15.5px;color:var(--soft);padding-top:8px}
-ol.steps,ul.steps{padding-left:1.3em}
-ol.steps li,ul.steps li{margin:0 0 .8em}
-ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
-/* the reader */
-#rdrwrap{border:1px solid var(--line);border-radius:3px;background:#fffdf8;margin:1.4em 0}
-#rdrbar{display:flex;align-items:center;gap:12px;padding:8px 10px;border-bottom:1px solid var(--line)}
-#rdrbar button{font:inherit;font-size:22px;line-height:1;width:40px;height:40px;border:1px solid var(--line);border-radius:3px;background:var(--paper2);color:var(--ink);cursor:pointer}
-#rdrbar button:hover{border-color:var(--rub);color:var(--rub)}
-#rloc{font-size:15px;color:var(--soft);margin:0 auto}
-#rdr{height:72vh;min-height:420px}
 /* the script page */
 .demo{background:var(--paper2);border-radius:3px;padding:18px 20px;margin:1.2em 0}
 .demo h3{font-family:Cinzel,serif;font-weight:400;font-size:15px;letter-spacing:.08em;text-transform:uppercase;color:var(--rub);margin:0 0 10px}
@@ -204,7 +160,6 @@ table.dict tr.open td.ev .full{display:inline}
 table.dict tr.open td.ev .short,table.dict tr.open td.ev .more{display:none}
 .tiers{font-size:16.5px;background:var(--paper2);padding:12px 16px;border-radius:3px}
 .tiers b{font-family:Cinzel,serif;font-weight:400;color:var(--rub)}
-@media(max-width:860px){.hero{grid-template-columns:1fr;gap:20px}.hero .bk{max-width:220px;margin:0 auto;order:-1}.strip{margin-left:-20px;margin-right:-20px}}
 @media(max-width:700px){body{font-size:17.5px}main.sheet{margin:14px 10px 40px;padding:26px 20px 34px}header.rh .mark{font-size:22px}nav.sub a{margin:0 6px 6px}.prose h1{font-size:24px}.tools .n{margin-left:0}}
 """
 
@@ -325,34 +280,6 @@ def sample_lines(folio="004v", first=10, last=11):
     return out
 
 
-def signs():
-    """Every sign of the script as an outline, from ktsigns.py."""
-    p = os.path.join(WORK, "signs.json")
-    return json.load(open(p, encoding="utf-8")) if os.path.isfile(p) else {"signs": {}, "upm": 1000}
-
-
-def sign_svg(code, sg, h=52, cls="sv"):
-    """Draw a reading's signs as one SVG, laid out RIGHT TO LEFT, the way the
-    manuscript is written: the first sign of the code sits on the right."""
-    gl = [sg["signs"].get(code[i:i + 3]) for i in range(0, len(code), 3)]
-    gl = [g for g in gl if g]
-    if not gl:
-        return ""
-    total = sum(g["w"] for g in gl)
-    y0 = min(g["b"][1] for g in gl)
-    y1 = max(g["b"][3] for g in gl)
-    pad = 40
-    parts, x = [], total
-    for g in gl:
-        x -= g["w"]
-        parts.append(f'<path d="{g["d"]}" transform="translate({x} 0)"/>')
-    vb = f"0 {-y1 - pad} {total} {y1 - y0 + 2 * pad}"
-    w = round(h * (total / max(1, (y1 - y0 + 2 * pad))))
-    return (f'<svg class="{cls}" viewBox="{vb}" width="{w}" height="{h}" '
-            f'role="img" aria-label="the sign read {html.escape(code)}">'
-            f'<g transform="scale(1,-1)" fill="currentColor">{"".join(parts)}</g></svg>')
-
-
 def plates():
     p = os.path.join(WORK, "plates.json")
     return json.load(open(p, encoding="utf-8")) if os.path.isfile(p) else []
@@ -369,44 +296,11 @@ def folio_order():
 
 # ---- pages ------------------------------------------------------------------------
 
-def strip_html(rows, sg, n=54):
-    """The moving rail of signs. Rendered into the page, not fetched: it has to be
-    there in the first frame, and it is the first thing anyone will look at."""
-    pick = [r for r in rows if r["tier"] in ("A", "B") and 3 <= len(r["code"]) <= 9 and r["gloss"]
-            and " " not in r["gloss"] and "<" not in r["gloss"]]
-    pick.sort(key=lambda r: (-r["n"], r["gloss"]))
-    pick = pick[:n]
-    it = "".join(
-        f'<span class="it">{sign_svg(r["code"], sg, 46)}'
-        f'<b>{html.escape(r["gloss"])}</b>'
-        f'<span>{html.escape(" ".join(r["code"][i:i+3] for i in range(0, len(r["code"]), 3)))}</span></span>'
-        for r in pick if sign_svg(r["code"], sg, 46))
-    return f'<div class="strip"><div class="rail">{it}{it}</div><div class="fade"></div></div>'
-
-
-def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
+def page_index(fig, summary, ktn, newpara, tiers, nfolio):
     tier_line = "   ".join(f"{t} {tiers.get(t, 0):,}" for t in ("A", "B", "C", "D", "G"))
-    shot = ""
-    if pl:
-        x = pl[min(2, len(pl) - 1)]
-        shot = (f'<figure class="shot"><img src="/rohonc/plates/{html.escape(x["file"])}" '
-                f'alt="{html.escape(x["folio"])} redrawn" loading="lazy">'
-                f'<figcaption>{html.escape(x["caption"])} Redrawn from the manuscript\'s own '
-                f'drawing; not a reproduction.</figcaption></figure>')
     body = f"""
 <h1>What this is</h1>
-<div class="hero">
-  <div class="blurb">{paras("intro")}
-    <div class="acts"><a class="go" href="/rohonc/read.html">Read it here</a>
-      <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a>
-      <a href="/rohonc/book/the-rohonc-codex-print.pdf">Print PDF</a></div>
-    <p class="sz">All {nfolio} folios · 633 pages · the retelling and the evidence in one volume.</p>
-  </div>
-  <figure class="bk"><img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the printed edition" width="576" height="900"></figure>
-</div>
-{strip_html(rows, sg)}
-<p class="nof">The signs above are the script itself, drawn from the outlines in Király and Tokai's own font, with this project's reading under each and its code beneath that. The script runs right to left. <a href="/rohonc/script.html">More about it →</a></p>
-{shot}
+{paras("intro", "lead")}
 
 <h2>How far it reads</h2>
 {paras("how_far")}
@@ -429,7 +323,7 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 <h2>Is it true?</h2>
 {paras("is_it_true")}
 <div class="fig">{html.escape(summary)}</div>
-<p>What each test asked is on the <a href="/rohonc/tests.html">tests page</a>. The saved runs are in the <a href="/rohonc/data.html">data</a>.</p>
+<p>The write-ups are on the <a href="/rohonc/tests.html">tests page</a>. The saved runs are in the <a href="/rohonc/data.html">data</a>.</p>
 
 <h2>What is here</h2>
 <div class="cards">
@@ -438,7 +332,7 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 <a class="card" href="/rohonc/dictionary.html"><b>Dictionary</b><span>{html.escape(COPY["card_dictionary"].strip())}</span></a>
 <a class="card" href="/rohonc/tests.html"><b>Tests</b><span>{html.escape(COPY["card_tests"].strip())}</span></a>
 <a class="card" href="/rohonc/method.html"><b>Method</b><span>{html.escape(COPY["card_method"].strip())}</span></a>
-<a class="card" href="/rohonc/code.html"><b>The programs</b><span>Every program behind the readings, as plain text, grouped by what it does.</span></a>
+<a class="card" href="/rohonc/writeup.html"><b>Write-up</b><span>{html.escape(COPY["card_writeup"].strip())}</span></a>
 <a class="card" href="/rohonc/data.html"><b>Data</b><span>{html.escape(COPY["card_data"].strip())}</span></a>
 </div>
 
@@ -447,7 +341,7 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 
 <h2>Credit and position</h2>
 {paras("credit")}
-<p>Their site: <a href="https://rechnitzer-kodex.hu/" rel="noopener">rechnitzer-kodex.hu</a>. Citations owed and the terms of every source are under <a href="/rohonc/sources.html">Sources</a>.</p>
+<p>Their site: <a href="https://rechnitzer-kodex.hu/" rel="noopener">rechnitzer-kodex.hu</a>. Citations owed and the terms of every source are under <a href="/rohonc/provenance.html">Sources</a>.</p>
 """
     return shell("index", "Overview",
                  "The Rohonc Codex read into English on Király and Tokai's dictionary, extended and tested: the reading, the dictionary, fifteen tests, the method and all the data.",
@@ -633,252 +527,10 @@ fetch('/rohonc/data/dictionary.json').then(function(r){{return r.json();}}).then
                  body)
 
 
-CODE_GROUPS = [
-    ("Reading the book", ["kttranslate.py", "ktreader.py", "ktcontext.py", "ktgap.py",
-                          "ktnext.py", "ktlook.py", "ktaffix.py", "ktbook.py"]),
-    ("The two rules that worked", ["ktname.py", "ktsegment.py", "ktvariant.py"]),
-    ("The tests", ["ktheldout.py", "ktsentence.py", "ktorder.py", "ktblind.py",
-                   "ktbootstrap.py", "ktpassid.py", "ktpassid2.py", "ktnullreplay.py",
-                   "ktnullreplay2.py", "ktnullreplay3.py", "ktstrict.py", "ktcensus.py",
-                   "ktblindfill.py", "kttestlib.py"]),
-    ("Attempts that failed", ["ktextend.py", "ktalign.py", "ktdistrib.py", "ktread.py",
-                              "ktreject.py", "ktmorph.py", "ktanchor.py", "ktverse.py",
-                              "ktverse2.py", "ktsense.py", "ktgrammar.py", "ktscanmap.py"]),
-    ("Checking ourselves", ["check_rohonc.py", "check_results.py", "gate.py",
-                            "ktretellcheck.py", "ktnotecheck.py", "ktagree.py",
-                            "keycheck.py", "whatbroke.py", "ktharden.py"]),
-    ("The site and the outside readers", ["ktsite.py", "ktsitecopy.py", "ktsigns.py", "ktor.py"]),
-]
-
-
-def code_files(out):
-    """Publish the programs themselves as plain text, and read each one's first
-    docstring line so the listing says what it does. Served as .txt because the
-    static handler has no rule for .py, and a download prompt is not a link."""
-    src = os.path.join(ROOT, "harness")
-    os.makedirs(os.path.join(out, "code"), exist_ok=True)
-    seen, listed = {}, set()
-    for fn in sorted(os.listdir(src)):
-        if not fn.endswith(".py") or ".pre-" in fn:
-            continue
-        txt = read(os.path.join(src, fn))
-        m = re.match(r'\s*"""(.*?)(?:\n|""")', txt, re.S)
-        one = " ".join((m.group(1) if m else "").split())
-        one = re.sub(r"^%s\s*--\s*" % re.escape(fn), "", one)
-        open(os.path.join(out, "code", fn + ".txt"), "w", encoding="utf-8").write(txt)
-        seen[fn] = one or "no description"
-    groups = []
-    for title, names in CODE_GROUPS:
-        items = [(n, seen[n]) for n in names if n in seen]
-        listed.update(n for n, _ in items)
-        if items:
-            groups.append((title, items))
-    rest = [(n, d) for n, d in sorted(seen.items()) if n not in listed]
-    if rest:
-        groups.append(("Everything else", rest))
-    return groups
-
-
-def page_code(groups):
-    out = []
-    for title, items in groups:
-        out.append(f"<h2>{html.escape(title)}</h2><ul>")
-        for n, d in items:
-            out.append(f'<li><a href="/rohonc/code/{html.escape(n)}.txt"><code>{html.escape(n)}</code></a> '
-                       f'<span class="nof">{html.escape(d[:190])}</span></li>')
-        out.append("</ul>")
-    body = ("<h1>The programs</h1>"
-            + paras("method_code", "lead")
-            + '<p>Every one of them runs on the files under <a href="/rohonc/data.html">Data</a>. '
-              'Each test states its bar in its own first lines, before any result exists. '
-              'They are plain text here; the repository itself is not public.</p>'
-            + "".join(out))
-    return shell("method", "The programs",
-                 "The programs behind the Rohonc readings, as plain text: the reading loop, the two rules that worked, the tests, and the attempts that failed.",
-                 body)
-
-
-def page_method():
-    steps = [
-        ("Take the folio's own citation",
-         "Király and Tokai's notes cite a chapter and verse for most folios. That passage is "
-         "the only evidence from outside the manuscript there is."),
-        ("Look at every line the sign stands in",
-         "Not only the line in hand. The other occurrences are what will decide it."),
-        ("Guess from the passage",
-         "The word the verse supplies for that slot, in the sense the folio's own context wants."),
-        ("Check the guess at every other occurrence",
-         "This is the step that does the work. A reading that fits where it was found and fails "
-         "elsewhere is thrown away, not softened."),
-        ("Grade it, and say so",
-         "Tier A fits everywhere checked. B fits most, the rest unclear rather than against. "
-         "C and D were read from one passage with nothing able to refuse them. G is a guess, "
-         "printed in brackets and counted as read nowhere."),
-        ("Write down the evidence",
-         "The folios and lines go into the file with the reading, so anyone can repeat the "
-         "check, or overturn it."),
-    ]
-    mistakes = [
-        ("A sign was treated as an atom",
-         "Eleven attempts assumed one sign meant one word with a meaning to guess. Many signs "
-         "are short phrases written without a space, and both halves were already in the "
-         "dictionary. That was the whole game."),
-        ("The wrong question about compounds",
-         "Asking whether <i>Holy Word</i> inherits its meaning from <i>Word</i> gave a true "
-         "negative that looked like a dead end. The question that paid was whether signs combine."),
-        ("A unit error",
-         "Figures were computed per glyph when a word averages 2.43 glyphs. Every number moved "
-         "when it was fixed. Confirm what one row of a transcription is before measuring it."),
-        ("A homograph collision",
-         "Keying a scraped dictionary by code and keeping the last entry made the book's "
-         "commonest word read <i>eleven</i> when it is <i>and</i>. Sixty-five codes had to be merged."),
-        ("Blaming the corpus",
-         "A failing aligner was predicted to be failing because it used only the four gospels. "
-         "1.75 million words of the wider sources were fetched and it scored no better."),
-        ("Reading only the headword",
-         "Their entries carry variant spellings in their own apparatus. Keying by headword "
-         "silently dropped 88 signs, 1.2% of the book, that they had already read."),
-        ("The arithmetic of what was left",
-         "Three versions of it were wrong, one of which counted a line as reached while an "
-         "unread word still stood in it. The wrong figures are kept beside the right ones."),
-    ]
-    sl = "".join(f"<li><b>{html.escape(t)}.</b> {d}</li>" for t, d in steps)
-    ml = "".join(f"<li><b>{html.escape(t)}.</b> {d}</li>" for t, d in mistakes)
-    body = f"""
-<h1>The method</h1>
-{paras("method_intro", "lead")}
-
-<h2>The loop, one sign at a time</h2>
-{paras("method_loop")}
-<ol class="steps">{sl}</ol>
-
-<h2>The bar goes up before the run</h2>
-{paras("method_bars")}
-
-<h2>What cost the most time</h2>
-{paras("method_mistakes")}
-<ul class="steps">{ml}</ul>
-
-<h2>The programs, and the orders</h2>
-<p>The programs are listed at <a href="/rohonc/code.html">The programs</a>, as plain text. The file the next person actually works from is the standing orders, which keep the arithmetic of how much is still unread; it is written for an operator rather than a reader, so it is described under <a href="/rohonc/sources.html">Sources</a> and sent on request rather than published.</p>
-"""
-    return shell("method", "The method",
-                 "How an unread sign is read and checked, the rule that the bar is declared before the run, and the mistakes that cost the most time.",
-                 body)
-
-
-def page_read():
-    body = """
-<h1>Read it here</h1>
-<p class="lead">The whole edition in the browser. Book One retells the manuscript part by part; Book Two prints all 441 folios with their marked lines. The same file, to keep or to send to a reader, is the <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a>; the interior as it prints is the <a href="/rohonc/book/the-rohonc-codex-print.pdf">PDF</a>.</p>
-<div id="rdrwrap">
-  <div id="rdrbar">
-    <button id="rprev" aria-label="Previous page">&#8249;</button>
-    <span id="rloc">opening the book…</span>
-    <button id="rnext" aria-label="Next page">&#8250;</button>
-  </div>
-  <div id="rdr"></div>
-</div>
-<!-- the same two files the house reader at /read/reader.php loads; cdnjs has no 0.3.x epub.js -->
-<script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/epubjs@0.3.93/dist/epub.min.js"></script>
-<script>
-(function(){
-  var el=document.getElementById('rdr'), loc=document.getElementById('rloc');
-  if(!window.ePub){ loc.textContent='The reader could not load. Use the EPUB link above.'; return; }
-  var book=ePub('/rohonc/book/the-rohonc-codex.epub'), rend=book.renderTo(el,{width:'100%',height:'100%',flow:'paginated',spread:'auto'});
-  rend.themes.default({'body':{'background':'#f5efe3','color':'#1d1a16'},
-                       'p':{'font-family':'"EB Garamond",Garamond,serif','line-height':'1.55'}});
-  rend.display().then(function(){ loc.textContent=''; });
-  book.loaded.navigation.then(function(){ return book.locations.generate(1600); })
-      .then(function(){ show(rend.currentLocation()); });
-  function show(l){ if(!l||!l.start) return;
-    var p=book.locations.percentageFromCfi(l.start.cfi);
-    loc.textContent = (l.start.displayed && l.start.displayed.page ? '' : '') +
-      (isNaN(p)?'':Math.round(p*100)+'% through');
-  }
-  rend.on('relocated', show);
-  document.getElementById('rprev').addEventListener('click',function(){rend.prev();});
-  document.getElementById('rnext').addEventListener('click',function(){rend.next();});
-  document.addEventListener('keydown',function(e){
-    if(e.key==='ArrowLeft'){rend.prev();} if(e.key==='ArrowRight'){rend.next();}});
-})();
-</script>
-"""
-    return shell("read", "Read it here",
-                 "The whole Rohonc Codex edition in the browser: the retelling and all 441 folios with their marked lines.",
-                 body)
-
-
-def docs_html():
-    return "".join(
-        f'<li><b>{html.escape(t)}</b> <span class="nof">{html.escape(d)}</span></li>'
-        for _, t, d in DOCS)
-
-
-def page_tests(summary):
-    body = f"""
-<h1>Are the readings true?</h1>
-{paras("tests_intro", "lead")}
-<div class="fig">{html.escape(summary)}</div>
-{paras("tests_after")}
-<p>Two things in that table are worth saying plainly. The passage map, which every
-other test leans on, can be recovered from Király and Tokai's words alone, so it does
-not depend on anything this project read. And the two instruments the outside reviewer
-specified for the search itself gave no verdict either way: they do not model the search
-as it was actually run, and that is written up as a failure of the instrument rather
-than a result about the manuscript.</p>
-<p>The saved run behind every line is in the <a href="/rohonc/data.html">data</a>, one
-file per test, each stating its bar at the top. The reviewers' own specifications are
-there too, quoted whole: <a href="/rohonc/outside-gemini.html">Gemini 2.5 Pro</a> and
-<a href="/rohonc/outside-grok.html">Grok 4.7</a>. The programs are at
-<a href="/rohonc/code.html">The programs</a>.</p>
-"""
-    return shell("tests", "Are the readings true?",
-                 "Fifteen tests of the Rohonc readings, every bar declared before the run and none moved, with the failures kept beside the passes.",
-                 body)
-
-
-def page_sources():
-    cites = [
-        ("Levente Zoltán Király and Gábor Tokai, “Cracking the code of the Rohonc Codex”, "
-         "<i>Cryptologia</i> 42:4 (2018), 285–315.",
-         "The dictionary and the grammar. Everything here rests on it."),
-        ("Levente Zoltán Király, “A Rohonci kódex teológiai karaktere”, in "
-         "<i>Hagyomány, Identitás, Történelem 2022</i>, KRE HTK, Budapest 2023, 363–376.",
-         "Why the site exists: so that their claims about the text can be checked."),
-        ("Ottó Gyürk (1970), on line breaks in the codex’s repeated sequences.",
-         "The idea the orientation test and the main measurement both rest on."),
-        ("Benedek Láng, <i>The Rohonc Code: Tracing a Historical Riddle</i>, "
-         "Penn State Press, 2021.",
-         "The standing survey of the manuscript and of everyone who has attacked it."),
-        ("The anonymous author of the 2014 open transcription.",
-         "Published openly; the site is gone and permission cannot be asked. Credited as "
-         "fully as it can be."),
-        ("Library of the Hungarian Academy of Sciences, the page scans.",
-         "Free for academic use, not to be passed on. Used locally. The plates in the edition "
-         "are redrawings made from them, never the scans themselves."),
-    ]
-    cl = "".join(f"<li>{c}<br><span class=\"nof\">{d}</span></li>" for c, d in cites)
-    body = f"""
-<h1>Sources and credit</h1>
-{paras("sources_intro", "lead")}
-<h2>What is cited</h2>
-<ul class="steps">{cl}</ul>
-<h2>What is not here</h2>
-<p>Király and Tokai's dictionary, their transcription, their page records and the library's
-scans are not on this site. Their site is <a href="https://rechnitzer-kodex.hu/" rel="noopener">rechnitzer-kodex.hu</a>
-and it is the place to read them. The one thing of theirs these pages do use is the shape of
-the signs, drawn from the outlines in their font so that the script can be seen at all; the
-font file itself is not served, and the shapes are the sixteenth-century scribe's.</p>
-<h2>The working documents</h2>
-{paras("docs_lead")}
-<ul class="steps">{docs_html()}</ul>
-<p>Ask for any of them at <a href="mailto:{CONTACT}">{CONTACT}</a>.</p>
-"""
-    return shell("sources", "Sources and credit",
-                 "Whose work each part of this rests on, what may be done with each source, and the project's own working documents.",
-                 body)
+def page_doc(slug, fname, title):
+    text = read(os.path.join(ROOT, fname))
+    return shell(slug, title, f"{title}: {fname} from the Rohonc Codex project, rendered as it stands in the repository.",
+                 md(text))
 
 
 def page_outside(slug, fname, title):
@@ -899,18 +551,14 @@ def page_data(files, runs, outside):
 
     body = ["<h1>Data</h1>",
             paras("data_lead", "lead"),
-            '<p>What is not here, and why, is under <a href="/rohonc/sources.html">Sources</a>.</p>',
+            '<p>What is not here, and why, is under <a href="/rohonc/provenance.html">Sources</a>.</p>',
             "<h2>The readings and the rendering</h2><ul>"]
     for href, name, desc, p in files:
         body.append(li(href, name, desc, sz(p)))
-    body.append("</ul><h2>The working documents</h2>")
-    body.extend(paras("docs_lead"))
-    body.append("<ul class=\"steps\">" + docs_html() + "</ul>")
-    body.append(f'<p>Ask for any of them at <a href="mailto:{CONTACT}">{CONTACT}</a>. '
-                f'What they say is on the <a href="/rohonc/method.html">method</a>, '
-                f'<a href="/rohonc/tests.html">tests</a> and '
-                f'<a href="/rohonc/sources.html">sources</a> pages.</p>')
-    body.append("<h2>The outside review</h2><ul>")
+    body.append("</ul><h2>The documents</h2><ul>")
+    for slug, fname, _, title, desc in DOCS:
+        body.append(li(f"/rohonc/{slug}.html", fname, desc, ""))
+    body.append("</ul><h2>The outside review</h2><ul>")
     for href, name, desc, p in outside:
         body.append(li(href, name, desc, sz(p) if p else ""))
     body.append("</ul><h2>Saved runs</h2><p>One file per test or measurement, exactly as the script that made it wrote it. The scripts are named in the documents; each run states its bar at the top.</p><ul>")
@@ -953,12 +601,6 @@ def main(argv):
     files.append(("/rohonc/data/proposals.json", "proposals.json",
                   "the dictionary of added readings, every tier, with evidence", os.path.join(out, "data", "proposals.json")))
     json.dump(rows, open(os.path.join(out, "data", "dictionary.json"), "w", encoding="utf-8"), ensure_ascii=False)
-    sp = os.path.join(WORK, "signs.json")
-    if os.path.isfile(sp):
-        copy(sp, os.path.join(out, "data", "signs.json"))
-        files.append(("/rohonc/data/signs.json", "signs.json",
-                      "every sign of the script as an SVG outline, drawn from Király and Tokai's font",
-                      os.path.join(out, "data", "signs.json")))
     copy(os.path.join(TR, "english.json"), os.path.join(out, "data", "english.json"))
     files.append(("/rohonc/data/english.json", "english.json",
                   "the English written for each folio from its gloss", os.path.join(out, "data", "english.json")))
@@ -1006,23 +648,18 @@ def main(argv):
 
     # pages
     w = lambda name, s: open(os.path.join(out, name), "w", encoding="utf-8").write(s)
-    sg = signs()
-    w("index.html", page_index(fig, summary, ktn, newpara, tiers, len(order), sg, rows, pl))
+    w("index.html", page_index(fig, summary, ktn, newpara, tiers, len(order)))
     w("script.html", page_script(sample, pl, ktn))
-    w("read.html", page_read())
-    w("method.html", page_method())
-    w("code.html", page_code(code_files(out)))
     rd, n_eng = page_reading(order, eng)
     w("reading.html", rd)
     w("dictionary.html", page_dictionary(about, rows, ktn))
-    w("tests.html", page_tests(summary))
-    w("sources.html", page_sources())
+    for slug, fname, _, title, _ in DOCS:
+        w(f"{slug}.html", page_doc(slug, fname, title))
     w("outside-gemini.html", page_outside("tests", "gemini_tests.md", "Outside review: Gemini 2.5 Pro"))
     w("outside-grok.html", page_outside("tests", "grok_tests.md", "Outside review: Grok 4.7"))
     w("data.html", page_data(files, runs, outside))
     print(f"wrote {out}: {len(order)} folios ({n_eng} with English), {len(rows)} dictionary rows, "
-          f"{10} pages, {len(runs)} runs, {len(pl)} plates, "
-          f"{len(sg.get('signs', {}))} signs")
+          f"{len(DOCS) + 6} pages, {len(runs)} runs, {len(pl)} plates")
     return 0
 
 
