@@ -103,44 +103,83 @@ The grammar is theirs. What is new is checking it independently and running it
 across the whole book.
 
 It is worth being exact about what a percentage of the book means, because
-there are two numbers and one of them is much weaker. **95.2% of the words now
-have *a* reading, and 74.9% of the lines have every word read.** The second is
+there are two numbers and one of them is much weaker. **96.4% of the words now
+have *a* reading, and 80.1% of the lines have every word read.** The second is
 the one that matters: a sentence with one unreadable word in it is not a
-sentence you can read. It stood at 2.8% before any of this and at 62.4% on the
-morning of 2026-09-20.
+sentence you can read. It stood at 2.8% before any of this, at 62.4% on the
+morning of 2026-09-20, and at 74.9% on the morning of 2026-09-21.
 
 Even the word figure overstates how much is understood. Only about one word in
 eight has a single meaning with no choice to make; most carry several senses
-each, and the rule for choosing between them is in the grammar paper Király
+each, and the rule for choosing between them is in the grammar paper Kiraly
 and Tokai have not published.
 
+**What moved it from 74.9% to 80.1% was not more reading of lines. It was three
+small instruments that read the dictionary instead.** Each asks a mechanical
+question about the shape of a sign, and each found words that hours of reading
+passages had walked past:
+
+    ktinside.py   an unread sign sitting INSIDE a sign K&T already read.
+                  Their 520af0a105204e4 'wipe with kerchief' minus the
+                  garment sign is the towel of John 13:4. Their 'cling'
+                  entry contains the clinging of the man in the pit.
+                  Joachim and his_household are the two halves of one of
+                  their compounds, standing alone on consecutive lines of
+                  the folio that compound is about.
+
+    ktcover.py    a sign almost entirely MADE of signs already read, with
+                  the gap measured. 021v:14 is a single unspaced string
+                  that covers out to Lord, mother, Mary, Holy Spirit and
+                  Joseph -- a naming formula written as one word, which is
+                  the central fact K&T established about this script.
+
+    ktnear.py     a sign ONE GLYPH from a sign already read. This is how
+                  the codex's own spelling wanders, and K&T's apparatus
+                  records it with var. entries.
+
+`ktnear.py` also audited this project against K&T on its first run, and the
+first thing it found was an error here. Five signs had been read as *child*
+from the story on the folio -- Augustine and the boy by the sea. They are one
+glyph from K&T's `5400609a2670690`, *a little while; little*, whose form stands
+two lines above ours on the same folio modifying the same phrase, and which
+gives *the tip of his finger* at Luke 16:24. All five were corrected to
+*little*. Three more of this project's readings went the same way in the same
+pass: *evil* twice to **serpent**, *remain* twice to **whom** (both lines have
+the seeking beside them -- John 18:4 and 18:7, *Whom seek ye?*), and *exist* to
+**Nicodemus**. The rule that costs the least to follow: **before reading a sign
+from its context, check whether it is one glyph from a sign already read.** A
+story that fits is not evidence; a near-match to their dictionary is.
+
 So the obstacle has moved rather than gone. It used to be missing vocabulary.
-It is now two things: missing grammar, which is theirs to publish, and 988
+It is now two things: missing grammar, which is theirs to publish, and 826
 signs that occur exactly once in the manuscript and that their dictionary never
 mentions. A sign that occurs once cannot be checked against a second
 occurrence, which is the whole method, so a reading of one is a guess about a
-line rather than a reading of a sign. **A figure here was wrong and is corrected on 2026-09-21.** This paragraph
-said that reading every remaining sign occurring twice or more would bring
-lines fully read to 90.3%, and then to 91.2%. It would not. Measured
-directly, there are 176 such signs left and reading all of them closes 292
-lines, which takes the total from 74.9% to **81.6%**. The 91.2% was a
-different quantity that had been substituted under the old sentence: the
-share of lines whose only remaining holes are once-only signs, which counts
-a line as reached while an unread word is still standing in it. The earlier
-82.0% was the honest measure all along, and calling it a mistake was the
-mistake.
+line rather than a reading of a sign.
 
-So the three figures are these, and they are not interchangeable:
+The three figures below are not interchangeable, and a version of this
+paragraph got that wrong on 2026-09-21 and was corrected in place: it claimed
+that reading every remaining recurring sign would reach 90%. It will not.
 
-    read every recurring unread sign (176 of them)      81.6%
-    read every once-only sign (988 of them)             91.3%
+    read every recurring unread sign (117 left)         83.5%
+    read every once-only sign (826 left)                bounded by the lines
+                                                        they stand on
     read both                                          100%
 
 The once-only signs are worth more than the recurring ones simply because
-there are five times as many, which means **no route to 90% avoids them**.
-Each is a reading of a line rather than of a sign, so tier C is the ceiling
-on its evidence unless Kiraly and Tokai's own apparatus happens to name it,
-and that seam is now worked out to six signs.
+there are seven times as many, which means **no route past the mid-eighties
+avoids them**. Each is a reading of a line rather than of a sign, so tier C is
+the ceiling on its evidence unless Kiraly and Tokai's own apparatus happens to
+name it -- and that seam, which looked worked out at six signs, turned out to
+hold about seventy once the three instruments above were pointed at it.
+
+Where a hole cannot be read at all, the rendering now carries a fourth class.
+A **tier G** word is a guess: chosen by reading the line, its source passage
+and its neighbours, marked in the text with a degree sign (`°word`), and
+counted separately everywhere. A line containing one is **not** counted as a
+line with every word read. That is why two figures are printed -- 80.1% read,
+80.5% complete including guesses -- and the gap between them is exactly how
+much of the book is being guessed at.
 
 The fifteenth, sixteenth and seventeenth tried to work backwards from the passages that
 are certainly right. All three failed their gates, the last one on a held-out half after the failure had been diagnosed, so that the retry could not be tuning. But the search that finds those

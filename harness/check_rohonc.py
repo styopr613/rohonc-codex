@@ -678,12 +678,25 @@ def main():
           and "56.0%" in flat and "68.3%" in flat)
 
     check("CONCLUSION: the live figures and the honest ceiling",
-          "95.2% of the words now" in conf and "74.9% of the lines" in conf
-          and "988" in conf and "81.6%" in conf and "91.3%" in conf
-          and "no route to 90% avoids them" in conf
+          "96.4% of the words now" in conf and "80.1% of the lines" in conf
+          and "826" in conf and "83.5%" in conf
+          and "no route past the mid-eighties" in conf
+          and "80.5% complete including guesses" in conf
           and "2.1% -- mean the same thing" in conf
           and "370 signs covering 577 words" in conf
           and "Three hundred and two of the 441 folios" in conf)
+    check("CONCLUSION: the three instruments that read the dictionary",
+          "ktinside.py" in conf and "ktcover.py" in conf and "ktnear.py" in conf
+          and "wipe with kerchief" in conf
+          and "one glyph from a sign already read" in conf
+          and "A story that fits is not evidence" in conf)
+    check("CONCLUSION: the corrections ktnear forced on this project",
+          "read as *child*" in conf and "corrected to" in conf
+          and "*little*" in conf and "Whom seek ye?" in conf
+          and "Nicodemus" in conf)
+    check("CONCLUSION: tier G is counted separately",
+          "tier G" in conf and "degree sign" in conf
+          and "is **not** counted as a line with every word read" in conf)
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 
