@@ -13009,3 +13009,200 @@ in Király & Tokai's dictionary, so the person is not named here.
 > stars... and he caused water to be conveyed by hidden pipes, that he might
 > as God make rain.* The gold, the precious stones, the sitting within, and
 > the rain are all here, which fixes the source beyond argument.
+
+## 185r — Chosroes sits between the cross and the cock
+
+**1**  of gold, among the cross, among the cock, the emperor sat,
+`golden among cross among cock sit emperor`
+
+**2**  as though one […] from […] the emperor,
+`how? one [?] from [?] emperor`
+
+**3**  to God he said, from, because there is the whole world […]
+`to-God as-+say from because-exist each,_every world* [?]`
+
+**4**  and then Heraclius the emperor went to this pagan
+`and then-exist Heraclius_<Byzantine_emperor> emperor go this to-of_an_alien_nation,_pagan`
+
+**5**  emperor in the tower; and then Heraclius the emperor
+`emperor inside tower and_then Heraclius_<Byzantine_emperor> emperor`
+
+**6**  believed, Heraclius's God, in turn, the whole wide world; this
+`believe <of>-Heraclius_<Byzantine_emperor> God in_turn the_whole_wide_world this`
+
+**7**  […] the chief; he said he must die, this | there was
+`[?] ~head-chapter die say this | ~exist`
+
+**8**  the emperor […]; and they took the emperor by the head, and
+`emperor [?] and emperor ~head-grab and`
+
+**9**  then Heraclius the emperor did all
+`then-exist do, Heraclius_<Byzantine_emperor> emperor each,_every`
+
+> The Golden Legend: Chosroes set the wood of the Cross on one side of his
+> throne and a cock on the other, and would be worshipped as the Father. The
+> cross and the cock are both on line 1.
+
+## 185v — the Cross comes back to Jerusalem
+
+**1**  […] the tower he pierced; and the tower, God, he took up,
+`[?] tower on-+pierce ~and tower God up grab`
+
+**2**  and […] […] the son | from
+`~and [?] [?] son | from`
+
+**3**  one woman; and the son the emperor left […] and
+`one-woman and son emperor leave [?] and`
+
+**4**  he took the tree of the Cross, and carried it off into
+`grab cross tree and <subject> from-carry inside`
+
+**5**  the town of Jerusalem; and then […] before | the army,
+`Jerusalem town and then-exist [?] before | army`
+
+**6**  the army; and then […] Jerusalem; and at the gate God's
+`army and then-exist [?] Jerusalem and to-gate God`
+
+**7**  angel, the gate of Jerusalem; and the angel cried out to Heraclius:
+`angel ~gate Jerusalem ~and shout-to angel Heraclius_<Byzantine_emperor>`
+
+**8**  thus the Lord Christ did not carry the tree of the Cross out to Jerusalem in pride,
+`this-this Lord-Christ proud out(ward) on-Jerusalem carry cross tree`
+
+**9**  but carried it in humility; and then he sat down […]
+`but humble carry and then-exist sit down [?]`
+
+> The Golden Legend again: Heraclius, riding in triumph with the Cross,
+> finds the gate of Jerusalem shut by an angel, who tells him the King of
+> heaven passed that way in humility. The gate, the angel and the rebuke are
+> all here.
+
+## 186r — the emperor takes off his robes
+
+**1**  and took off from the emperor his clothes; and then
+`and take_off on-+emperor <of> clothes and_then*`
+
+**2**  […] and with bowed head carried the tree of the Cross into
+`[?] and bowed head carry cross tree inside`
+
+**3**  Jerusalem; and then, from the gate, God's angel, the gate of Jerusalem;
+`Jerusalem and then-exist from-gate God angel ~gate Jerusalem`
+
+**4**  and the emperor, many […] loved, he said, the tree of the
+`and emperor many [?] [?]-love-+say cross`
+
+**5**  Cross; and the emperor put the cross within Jerusalem,
+`tree and cross <subject> put emperor inside Jerusalem`
+
+**6**  in the temple; and the emperor gave thanks to the Lord, the Lord God,
+`temple and as-+emperor to-Lord thanks Lord-<divine>`
+
+**7**  the whole wide world; and there is a man who takes the holy tree of the Cross,
+`each,_every the_whole_wide_world world* and exist somebody to grab holy-cross`
+
+**8**  the tree; and […] the tree of the Cross;
+`tree and [?] cross tree`
+
+**9**  and the tree of the Cross, two by two, through the law, upon all
+`and cross tree two-from-from through law on-each,_every`
+
+> The legend ends as it always does: the emperor puts off his purple and his
+> shoes, carries the Cross barefoot, and the gate opens. This is the feast of
+> the Exaltation of the Cross, 14 September, and its place here -- between the
+> gospels and the Old Testament readings that follow -- is where a missal or
+> a breviary would put it.
+
+## 186v — the holy Cross against the evil
+
+**1**  the wide world; because this holy tree of the Cross, this cross, of a man's
+`the_whole_wide_world world because this holy-cross tree this cross <subject> <of>-somebody`
+
+**2**  […] and of a man's […]; and this holy tree of the Cross, this,
+`[?] and <of>-somebody [?] and this holy-cross tree this`
+
+**3**  of a man's […] against […]; and believe:
+`<subject> <of>-somebody [?] against [?] and believe`
+
+**4**  the evil, the evil one, the Lord God, that is, against the evil one, the evil.
+`evil ~evil Lord-<divine> that_is against ~evil evil`
+
+**5**  On the Sunday
+`inside Sunday`
+
+**6**  the Lord God created
+`create Lord-<divine>`
+
+**7**  from the world
+`from world`
+
+**8**  and
+`and`
+
+## 187r — the Red Sea
+
+**1**  the angel, in the eternal land; thus the Lord God, on the Sunday,
+`angel inside eternal* land on-that_is Lord-<divine> inside Sunday`
+
+**2**  led them through, through […] the Red Sea, by Moses
+`through go-Lord through [?] the_Red_Sea on-+Moses`
+
+**3**  and by Aaron, the Jewish people, from the land of Egypt,
+`and on-Aaron Jew(ish) people on-Egypt earth`
+
+**4**  from Pharaoh king's earth; and then Moses
+`on-Pharaoh king earth and then-exist Moses`
+
+**5**  and Aaron went to the Red Sea; and then
+`and Aaron to-+the_Red_Sea go and_then`
+
+**6**  God's angel: Moses, hold out this rod over the Red Sea;
+`God angel Moses hold_out this stick on-+the_Red_Sea`
+
+**7**  and then he held it out over the Red Sea; and then | the Red Sea,
+`and then-exist hold_out on-+the_Red_Sea and then-exist | the_Red_Sea`
+
+**8**  in the Lord's name, left apart in two ways; and then the people went through,
+`Lord-+name apart leave on-two ways* and then-exist through go people`
+
+**9**  said Moses, Aaron, the angel, through the Red Sea.
+`say Moses Aaron angel through the_Red_Sea`
+
+> Exodus 14:16 and 14:21-22, Douay: *lift up thy rod, and stretch forth thy
+> hand over the sea, and divide it: that the children of Israel may go through
+> the midst of the sea on dry ground... And the children of Israel went in
+> through the midst of the sea dried up.* Kiraly and Tokai's dictionary
+> carries the Red Sea as a sign of its own, and it is on this folio five
+> times.
+
+## 187v — Pharaoh in the midst of the sea
+
+**1**  The time Pharaoh the king went into the Red Sea, the king,
+`time Pharaoh king inside the_Red_Sea go-king`
+
+**2**  Pharaoh's army; and then the king went | into
+`<of>-Pharaoh an_army and then-exist go-king | on`
+
+**3**  the middle of the Red Sea; the time God's angel said: Moses, hold out
+`half the_Red_Sea time say God angel Moses hold_out`
+
+**4**  this rod over the Red Sea; and then he held it out; the time
+`this stick on-+the_Red_Sea and then-exist hold_out time`
+
+**5**  the Red Sea closed in upon Pharaoh the king; and then went
+`the_Red_Sea close_in Pharaoh king and then-exist to-go`
+
+**6**  Moses and Aaron […]; thus the Lord God,
+`Moses and Aaron [?] on-that_is Lord-<divine>`
+
+**7**  on the Sunday […] from the people, who was the Lord's, going | upon
+`inside Sunday [?] from people who exist-Lord on-go-Lord | on`
+
+**8**  […] the earth; the Lord God took the heavenly manna
+`[?] earth grab Lord-<divine> heavenly manna`
+
+**9**  from the eternal land; and this manna, this, is this day's
+`from_the_eternal* land and this manna this <subject> exist-today’s`
+
+> Exodus 14:27-28 and then Exodus 16:15. The manna on line 8 runs straight
+> into the daily bread of the Our Father on the next folio, which is the
+> standard typological pairing and is why the two stand together here.
