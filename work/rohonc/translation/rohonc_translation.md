@@ -15352,3 +15352,343 @@ in Király & Tokai's dictionary, so the person is not named here.
 > Exodus 31:18, Douay: *he gave to Moses... two tables of stone, written with
 > the finger of God.* The codex counts three, as it does elsewhere when it
 > is reckoning the Decalogue in three groups, which is how 208v-209v set it out.
+
+## 218r — Gamaliel and Nicodemus, and a servant named Saul
+
+**1**  the second, this holy man remits; the mother, the temple; let a man hear the preaching,
+`two holy-this-somebody remit mother temple preach hear-somebody`
+
+**2**  from the seeing; heaven and earth; and the time of prayer, the two
+`<of>-from-see <subject> heaven land and time pray two`
+
+**3**  church fathers at Jerusalem; three chiselled on tables of stone, because the Lord God had Moses
+`church_father on-Jerusalem three on-stone-tablet chisel because exist Lord-<divine> Moses`
+
+**4**  chisel three tables of stone by the Lord's angel, and wrote three commandments.
+`three stone-tablet chisel on-angel <of>-Lord and write three commandment`
+
+**5**  Thanks to the Lord God. The time, then, from Adam onward, seven […] and
+`to-Lord thanks Lord-<divine> time then-exist from ~Adam onward* seven-[?] and`
+
+**6**  three thousand; and the time of these three tables of Moses, the prayer,
+`~begin-+three_thousand and time this three tablet Moses pray`
+
+**7**  two church fathers, two high priests at Jerusalem: Gamaliel the high priest and Nicodemus
+`two church_father two high_priest-high_priest on-Jerusalem Gamaliel high_priest and Nicodemus`
+
+**8**  the high priest; and then two servants hired themselves to these two high priests, as apostles;
+`high_priest and then-exist two servant hire_oneself_out on-apostle this two high_priest-high_priest`
+
+**9**  one man there was, and his name was Saul,
+`one somebody exist and-~exist-exist-+name Saul`
+
+> The Golden Legend's account of Stephen, which makes Gamaliel and Nicodemus
+> his patrons -- Gamaliel is Acts 5:34 and Nicodemus John 3:1, and the legend
+> buries Stephen in Gamaliel's field. Kiraly and Tokai's dictionary carries
+> both names.
+
+## 218v — Stephen, the first martyr
+
+**1**  and the second apostle was holy Stephen, the Lord God's first martyr; and | then
+`in_turn-two apostle exist holy-Stephen first-suffering-Lord-<divine> and | then`
+
+**2**  there were two servants, these two, two apostles, these two, two high priests;
+`exist two servant two this-two two apostle this-two two high_priest-high_priest`
+
+**3**  in turn these two, two apostles, the two of them from […] the two, in belief,
+`in_turn this-two two apostle exist-two from [?] two on-believe`
+
+**4**  of Christ; this was the time, then, the Lord Christ was crucified,
+`[?]-~Christ this exist time then Lord-~Christ crucified`
+
+**5**  and then the Jews […] down, believing Christ, the Jews,
+`and then-exist Jew(ish) [?] to-down believe ~Christ Jew(ish)`
+
+**6**  the chief men; and they were, they said […]; and there was
+`head and exist exist-+say [?] and exist`
+
+**7**  a man, to many […]; a man by the name of Christ,
+`somebody to-many [?] somebody name [?]-~Christ`
+
+**8**  every man suffering; in turn, a man rather, the chief | take,
+`each,_every somebody suffering in_turn somebody-?but_rather head | grab`
+
+**9**  they said; and then holy Stephen […] […] the name
+`say and then-exist holy-Stephen [?] [?] name`
+
+## 217r — they brought him to suffer
+
+**1**  of Christ; and then the Jews, the chief men, made ready against this
+`[?]-~Christ and then-exist prepare Jew(ish) ~head-chapter on-this`
+
+**2**  holy Stephen, the Lord God's first martyr; and then Stephen
+`holy-Stephen first-suffering-Lord-<divine> and then-exist Stephen`
+
+**3**  they brought, they said, to suffer, within the temple at Jerusalem,
+`exist-+say brought* on-suffering inside Jerusalem temple`
+
+**4**  the two of them, among them; Stephen went […]; and this Saul
+`two-+say among-+say Stephen go-[?] and this Saul`
+
+**5**  to them; and Saul went, because therefore […] many; and this Saul,
+`to-+say and go Saul because therefore* [?] many and this Saul`
+
+**6**  and then Stephen, they said, was brought within the temple at Jerusalem,
+`and_then Stephen exist-+say to-?brought inside temple Jerusalem`
+
+**7**  because they would stone Stephen, because it is written in
+`because Stephen would_say* stone-stone-this because-exist write inside`
+
+**8**  Moses, truly, in turn […] among you, if a man begin
+`righteous(ly) Moses in_turn [?] among you begin somebody`
+
+**9**  to blaspheme, and a man has stones, and | among
+`how? blasphemer and have somebody stone-stone-this and | among`
+
+> Acts 6:12-13, Douay: *And they stirred up the people... and running
+> together, they took him, and brought him to the council. And they set up
+> false witnesses, who said: This man ceaseth not to speak words against the
+> holy place and the law.* The law of Moses on blasphemy is Leviticus 24:16
+> and the codex has just quoted it at 215v.
+
+## 217v — the heavens opened
+
+**1**  they said, out […] […] | and then holy Stephen knelt down; and | then
+`say out(ward) [?] [?] | and then-exist kneel_(down) holy-Stephen and | then`
+
+**2**  Stephen prayed to the Lord, gave thanks to the Lord God, they said; and then
+`exist pray-Stephen to-Lord to-thanks Lord-<divine> to-+say and then`
+
+**3**  Stephen prayed, redeemed, to the Lord, gave thanks to the Lord God; and Stephen lifted up
+`pray ~redeem Stephen to-Lord to-thanks Lord-<divine> and lift_up-Stephen`
+
+**4**  Stephen's two eyes to heaven and earth, and to the Lord, to thanks,
+`<of>-Stephen two-eye-eye heaven land and to-Lord to-thanks.`
+
+**5**  the Lord God; and this word holy Stephen said, to the Lord, to thanks, the Lord God, through
+`Lord-<divine> and this word say holy-Stephen to-Lord to-thanks Lord-<divine> through`
+
+**6**  offering, Stephen, this Stephen, this Lord, Stephen's soul
+`offer Stephen this-Stephen this-Lord <of>-Stephen soul`
+
+**7**  within, the Lord's, why in turn; the time, then, the gate
+`inside <of>-Lord why?-in_turn time then-exist from-gate`
+
+**8**  of heaven; and then Stephen saw one king
+`heaven and then-exist-Stephen see-Stephen one king`
+
+**9**  sitting on a throne, and […] an army, an army
+`inside throne sit and [?] an_army army`
+
+> Acts 7:54-55, Douay: *But he, being full of the Holy Ghost, looking up
+> steadfastly to heaven, saw the glory of God, and Jesus standing on the right
+> hand of God.* The lifting of the eyes is on line 3 and the sign for the
+> seeing on 216r:1 was read from this very passage.
+
+## 216r — they stopped their ears
+
+**1**  of angels; and holy Stephen cried out; Stephen saw […] | see,
+`angel and shout-to holy-Stephen see-Stephen [?] | see*`
+
+**2**  the gate of heaven and earth is opened, and Stephen saw one
+`gate/open heaven land and see-Stephen one`
+
+**3**  king, crowned, sitting on a throne, and […]
+`king crown inside throne sit and [?]`
+
+**4**  an army, an army of angels. And then the Jews:
+`an_army army angel and_then Jew(ish)`
+
+**5**  this Stephen is a blasphemer, Stephen; and
+`this-Stephen-+<subject> one blasphemer-Stephen and.`
+
+**6**  they took off from themselves their belief; and
+`take_off-+say on-+say <of>-+say believe and.`
+
+**7**  they left, the letter, the man, one son; and this son
+`leave-+say literal man* one son and this son.`
+
+**8**  was this Saul; and the man was this belief;
+`exist this Saul and man* exist this believe`
+
+**9**  and the scribes would stone holy Stephen | the first martyr
+`and from the_scribes* want stone-stone-this holy-Stephen | first-suffering`
+
+> Acts 7:56-58, Douay: *Behold, I see the heavens opened, and the Son of man
+> standing on the right hand of God. And they crying out with a loud voice,
+> stopped their ears... and the witnesses laid down their garments at the feet
+> of a young man, whose name was Saul.* The laying down of the garments at
+> Saul's feet is on lines 6-8.
+
+## 216v — Stephen prays for those who stone him
+
+**1**  of the Lord God […] and the scribes judged; they could stone Stephen;
+`Lord-<divine> [?] and judge-?the_scribes can Stephen stone-stone-this`
+
+**2**  and the scribes were […] in Stephen's death; and this, spoken,
+`and from the_scribes* exist [?] inside <of>-Stephen die and this speak`
+
+**3**  written; then, therefore, Stephen prayed for the scribes,
+`write then-exist therefore* Stephen to-?the_scribes pray-Stephen`
+
+**4**  and Stephen, the Lord God's first martyr, to the Lord, to thanks, the Lord God;
+`and Stephen first-suffering-Lord-<divine> to-Lord to-thanks Lord-<divine>`
+
+**5**  the scribes were; they are damned; and then Stephen, they said,
+`exist-?the_scribes exist be_damned and then-exist Stephen exist-+say`
+
+**6**  out of the town, stoned […] […]; and | then
+`out(ward) on-town stone-stone [?] [?] and | then-chapter`
+
+**7**  that day he was; he saw this suffering, this Saul,
+`day exist see this suffering this Saul`
+
+**8**  […] what the Jews did to holy Stephen; | the first, not,
+`[?] do, Jew(ish) on-holy-Stephen | first-not`
+
+**9**  not, not; to the Lord, to thanks, the Lord God; and then | there were
+`not-not to-Lord to-thanks Lord-<divine> and then-exist | exist`
+
+**10**  the scribes; through startling, this Saul, and trespassing, to the place
+`the_scribes* through startle this Saul and trespass to-place`
+
+> Acts 7:59-8:1, Douay: *And falling on his knees, he cried with a loud voice,
+> saying: Lord, lay not this sin to their charge... And Saul was consenting to
+> his death.* The praying for them and Saul's consent are both here.
+
+## 219r — Saul takes letters to Damascus
+
+**1**  and by the name of the brethren of the Lord Jesus Christ; and this
+`and-brother-+name Lord-Jézus-Christ and go this`
+
+**2**  Saul went to the chief men of the Jews, to Jerusalem;
+`Saul to-head Jew(ish) on-in_turn-chapter-in_turn Jerusalem`
+
+**3**  one from this Saul they took, the chief men, the scribes;
+`one-from this Saul grab-+say head the_scribes*`
+
+**4**  they could, upon this man that believeth not, and the man who this Jesus, this
+`can on-this somebody not_believe and somebody this Jézus this`
+
+**5**  Christ, believes; and […] the scribes, the mother, the scribes would, every
+`Christ believe and [?] the_scribes* mother want-?the_scribes <subject> each,_every`
+
+**6**  one take prisoner, and whosoever, to many […] see, by the name of the brethren
+`take_prisoner and whosoever-+<subject> to-many [?] see* and-brother-+name`
+
+**7**  of the Lord, the scribes would, every man to you, this going;
+`<of>-Lord want-?the_scribes each,_every somebody to-you this-go-this`
+
+**8**  and then the scribes, they said, took a commission, many riches;
+`and then-exist the_scribes* exist-+say grab mission many ~rich`
+
+**9**  and then the scribes were […] many servants on the commission.
+`and then-exist exist-?the_scribes [?] many servant on-mission`
+
+> Acts 9:1-2, Douay: *And Saul, as yet breathing out threatenings and slaughter
+> against the disciples of the Lord, went to the high priest, and asked of him
+> letters to Damascus to the synagogues: that if he found any men and women of
+> this way, he might bring them bound to Jerusalem.*
+
+## 219v — a light from heaven
+
+**1**  And then, within | within Jerusalem, one […]
+`and then-exist inside | inside Jerusalem one-in_turn-chapter-in_turn`
+
+**2**  a town there was, named Damascus, because, and
+`exist-[?] town exist Damascus because and`
+
+**3**  within […] they believed the Lord Jesus Christ; and then this one went,
+`inside [?] believe Lord-Jézus Christ and then-exist go this-who`
+
+**4**  Saul, upon this town, many an army; and | then
+`Saul on-this town many an_army and | then-exist`
+
+**5**  Saul said to the servants, at the beginning of the way, Saul and the servants going,
+`say-Saul-servant on-~begin way to-go-Saul-servant`
+
+**6**  the time; and this Saul went, the scribes' servant,
+`time and go this Saul ~exist-chapter <of>-?the_scribes servant`
+
+**7**  and then there was a light […] from heaven and earth,
+`and then-[?] exist light [?] on-heaven land`
+
+**8**  and then there was a light […] to the heavenly; he bowed down,
+`and then-[?] exist light [?] on-+heavenly-to bow_down`
+
+**9**  and the Lord God cried out upon the water: Saul, Saul,
+`and shout-to Lord-<divine> on-water Saul Saul`
+
+> Acts 9:3-4, Douay: *And as he went on his journey, it came to pass that he
+> drew nigh to Damascus; and suddenly a light from heaven shined round about
+> him. And falling on the ground, he heard a voice saying to him: Saul, Saul,
+> why persecutest thou me?* The light, the falling and the doubled name are
+> all here.
+
+## 220r — I am Jesus of Nazareth
+
+**1**  to the brethren of the Lord, through persecuting the scribes; and he cried out, this | Saul,
+`to-?brethren Lord through persecute-?the_scribes and shout-to this | Saul`
+
+**2**  the scribes […] lie; in turn the Lord […] this Lord; and
+`the_scribes* [?] lie in_turn Lord [?] this-Lord and`
+
+**3**  the Lord God cried out upon the water: this Lord is Jesus of Nazareth,
+`shout-to Lord-<divine> on-water this-Lord from Jézus Nazareth`
+
+**4**  the Lord, on the cross executed; and this Saul cried out:
+`the_Lord cross execute and shout-to this Saul`
+
+**5**  Lord, brethren, Saul, the Lord, afterward; and
+`Lord brethren* Saul Lord afterward* and shout-to`
+
+**6**  the Lord God cried out upon the water: go, scribes, into the […]; from the scribes, teach a man
+`Lord-<divine> on-water go-?the_scribes inside in_turn-chapter-in_turn from the_scribes* on-learn somebody`
+
+**7**  love; the scribes were; the scribes did it, the time, the hour, from
+`love exist-?the_scribes do,-?the_scribes time hour from`
+
+**8**  the blinding of the scribes' eyes; and […] and then there were
+`blind-eye-?the_scribes and [?] and then-[?] exist`
+
+**9**  those who took Saul's servants; and Saul they carried,
+`grab <of>-Saul servant and Saul from-carry`
+
+> Acts 9:5-8, Douay: *Who said: Who art thou, Lord? And he: I am Jesus whom
+> thou persecutest... And Saul arose from the ground; and when his eyes were
+> opened, he saw nothing.* The naming and the blindness are both here.
+
+## 220v — the house of Judas, and Ananias
+
+**1**  Saul, the servants, into the […]; and they put Saul, the servants,
+`Saul servant inside in_turn-chapter-in_turn and Saul put servant`
+
+**2**  one man, Ananias; and a man, Ananias, was coming,
+`one man* Ananias* and somebody Ananias* exist coming*`
+
+**3**  Gamaliel, the […]; and this Saul, trespassing, the scribes were
+`Gamaliel in_turn-chapter-in_turn and this Saul trespass exist-?the_scribes`
+
+**4**  at the coming; and then there was this Saul, this
+`on-?coming and then-[?] exist this Saul this`
+
+**5**  Ananias put Saul, the servants, into one house;
+`Ananias* put <of>-Saul servant inside one house`
+
+**6**  and then three days the scribes lay, this Saul, within
+`and then-[?] three lie-?the_scribes this Saul inside`
+
+**7**  this house, this Ananias, the man; and this man's name
+`this house this Ananias* somebody and this somebody [?]-~exist-+name`
+
+**8**  was Judas; and then one man within this […]
+`exist Judas and then-exist one somebody inside this in_turn-to-in_turn`
+
+**9**  could, the man said, to the high understanding; in turn the man's name was
+`can somebody say to-high-understand in_turn [?]-~exist-+name somebody exist`
+
+> Acts 9:9-11, Douay: *And he was there three days, without sight... And there
+> was a certain disciple at Damascus, named Ananias... Arise, and go into the
+> street that is called Strait, and seek in the house of Judas, one named Saul
+> of Tarsus.* The three days, Ananias and the house of Judas are all here --
+> and Ananias is the name this project read from this very folio.
