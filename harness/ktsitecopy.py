@@ -290,7 +290,7 @@ Voice: plain English, sentences of ordinary length, one idea per sentence. No hy
 
 Return a single JSON object with exactly these keys, each a string of plain text (paragraphs separated by a blank line):
 
-tagline          one line under the site title, at most 14 words, no full stop, naming Király and Tokai
+tagline          the fixed line 'Using AI to extend and test the Király and Tokai dictionary', verbatim; the owner set it
 intro            3 paragraphs: what the manuscript is; what Király and Tokai did and what they established the book contains (name the contents); what this project did; then ONE paragraph saying plainly that this was done with AI under an editor and which model did what (Anthropic's Claude read the undefined signs under written standing orders and checked each at every occurrence; OpenAI's GPT-5.6 wrote the translation's English from the gloss and the sources; DeepSeek wrote the folio English and the site's prose; Gemini 2.5 Pro and Grok 4.7 specified the tests); then ONE paragraph on the two parts: Book Two the gloss and the evidence, Book One the translation read against the sources, and where they disagree Book Two is right
 how_far          one paragraph introducing a table of the reading figures that follows it
 tiers            one paragraph after the tier counts, explaining the tiers
