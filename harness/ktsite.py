@@ -154,7 +154,7 @@ main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:v
 .strip .track::-webkit-scrollbar{height:0;display:none}
 .strip .track:focus-visible{outline:2px solid var(--rub);outline-offset:-3px;border-radius:3px}
 .strip .rail{display:flex;width:max-content;height:100%;align-items:center;gap:34px;padding:0 var(--padr) 0 var(--padl)}
-.strip .it{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;min-width:64px}
+.strip .it{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;min-width:58px}
 .strip .it .sv{color:var(--ink)}
 .strip .it b{font-weight:400;font-size:16px;white-space:nowrap}
 .strip .it span{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11.5px;color:var(--soft);letter-spacing:.06em}
@@ -415,28 +415,51 @@ STRIP_OPEN = 4   # which sign the strip opens under the glass
 # cutter measured the hole it left and wrote the numbers to work/rohonc/glass.json,
 # and everything below is computed from them, so a different glass -- a thicker
 # rim, a handle at another angle -- needs no CSS touched, only the file swapped.
-SIGN_PX = 40     # how tall a sign is drawn on the strip
-LENS_PX = 128    # the hole, on screen
+SIGN_PX = 36     # how tall a sign is drawn on the strip
+LENS_PX = 150         # the hole, on screen
+LENS_MOBILE_PX = 118  # ... on a narrow screen
+LENS_SMALL_PX = 104   # ... on the narrowest
 WIN_PX = 104     # the height of the row the signs sit in
 TUCK = 5         # the clipped rail runs this much under the rim, so no seam of
                  # paper shows between the magnified sign and the brass
 
 
-def glass_geom():
+def glass_geom(lens=None):
+    lens = LENS_PX if lens is None else lens
     g = json.load(open(os.path.join(WORK, "glass.json"), encoding="utf-8"))
-    k = LENS_PX / (2.0 * g["r"])
+    k = lens / (2.0 * g["r"])
     above = g["cy"] * k                     # how far the rim stands above the lens
     below = (g["h"] - g["cy"]) * k          # how far the handle hangs below it
     half = WIN_PX / 2
     return {
         "w": round(g["w"] * k), "h": round(g["h"] * k),
         "cx": round(g["cx"] * k), "cy": round(g["cy"] * k),
-        "clip": LENS_PX + TUCK,
+        "clip": lens + TUCK,
         # the band opens above the highest ink and the caption clears the lowest,
         # whatever picture it is and whatever size the lens is set to
         "top": max(18, round(above - half + 14)),
         "cap": max(16, round(below - half + 14)),
     }
+
+
+def glass_vars(gg):
+    return (f'--lens:{gg["clip"]}px;--gw:{gg["w"]}px;--gh:{gg["h"]}px;'
+            f'--gx:{gg["cx"]}px;--gy:{gg["cy"]}px;--cap:{gg["cap"]}px;--top:{gg["top"]}px')
+
+
+def strip_css():
+    """Every size the glass is drawn at, as a stylesheet rule.
+
+    These were inline on the element to begin with, and a media query can never
+    beat an inline style, so the phone kept the wide sheet's 150px glass and it
+    covered the whole band. They live here, after the main stylesheet, where the
+    narrow rules win by coming later. A phone is not a wide sheet: at 150px the
+    glass hides the signs either side of it, which is the one thing the strip is
+    for. Each smaller lens is the SAME measurement run again at a smaller size,
+    so the rim and the hole still agree."""
+    return ("<style>.strip{" + glass_vars(glass_geom()) + f";--win:{WIN_PX}px" + "}"
+            + "@media(max-width:620px){.strip{" + glass_vars(glass_geom(LENS_MOBILE_PX)) + "}}"
+            + "@media(max-width:400px){.strip{" + glass_vars(glass_geom(LENS_SMALL_PX)) + "}}</style>")
 
 
 def strip_html(rows, sg, n=54):
@@ -470,10 +493,7 @@ def strip_html(rows, sg, n=54):
     cap = (f'<p class="rcap"><b>{html.escape(gloss(pick[op]))}</b>'
            f'<span>{html.escape(spaced(pick[op]["code"]))}</span></p>')
     gg = glass_geom()
-    style = (f'--lens:{gg["clip"]}px;--gw:{gg["w"]}px;--gh:{gg["h"]}px;'
-             f'--gx:{gg["cx"]}px;--gy:{gg["cy"]}px;--cap:{gg["cap"]}px;'
-             f'--top:{gg["top"]}px;--win:{WIN_PX}px')
-    return (f'<div class="strip" data-open="{op}" style="{style}"><div class="win">'
+    return (f'<div class="strip" data-open="{op}"><div class="win">'
             f'<div class="track" tabindex="0" role="group" '
             f'aria-label="signs of the codex: drag the strip, or use the left and right arrow keys">'
             f'<div class="rail">{it}</div></div>'
@@ -762,7 +782,7 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 """
     return shell("index", "Overview",
                  "The Rohonc Codex read into English on Király and Tokai's dictionary, extended and tested: the reading, the dictionary, fifteen tests, the method and all the data.",
-                 body)
+                 body, strip_css())
 
 
 def page_reading(order, eng):
