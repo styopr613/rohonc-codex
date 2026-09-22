@@ -296,7 +296,7 @@ the way a dictionary is used. Their own translation of the codex is
 unpublished, and this is not it. Nothing here should be attributed to them
 beyond the foundation it was built on. What has not existed before is the
 whole manuscript, end to end, in a modern language, with every word marked
-for how well it is known, and that is what this edition is.
+for how well it is known, and that is what this edition attempts.
 
 **It was made with AI, under an editor.** Four signs in ten had no meaning in
 the dictionary. The readings of those signs were made by Anthropic's Claude,
