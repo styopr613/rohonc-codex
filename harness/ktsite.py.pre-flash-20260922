@@ -231,11 +231,6 @@ table.dict tr.open td.ev .short,table.dict tr.open td.ev .more{display:none}
 """
 
 
-FAM_CSS = "https://oona13.com/fam/fam.css?v=20260909b"
-FONTS_URL = ("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;"
-             "0,600;1,400;1,500&family=Cinzel:wght@400;600&display=swap")
-
-
 def shell(slug, title, desc, body, extra_head=""):
     nav = "".join(
         f'<a href="/rohonc/{"" if s == "index" else s + ".html"}"'
@@ -245,22 +240,19 @@ def shell(slug, title, desc, body, extra_head=""):
     d = html.escape(desc)
     url = "https://oona13.com/rohonc/" + ("" if slug == "index" else slug + ".html")
     return f"""<!doctype html><html lang="en"><head>
+<style>html{{background:{BG}}}</style>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="color-scheme" content="dark">
-<style>html{{background:{BG}}}body{{background:{BG}}}</style>
-<link rel="stylesheet" href="{FAM_CSS}" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="{FAM_CSS}"></noscript>
+<link rel="stylesheet" href="https://oona13.com/fam/fam.css?v=20260909b">
 <title>{t} · The Rohonc Codex · OONA 13</title>
 <meta name="description" content="{d}">
 <link rel="canonical" href="{url}">
 <meta property="og:title" content="{t} · The Rohonc Codex"><meta property="og:description" content="{d}">
 <meta property="og:type" content="article"><meta property="og:url" content="{url}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="{FONTS_URL}" rel="stylesheet" media="print" onload="this.media='all'">
-<noscript><link href="{FONTS_URL}" rel="stylesheet"></noscript>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cinzel:wght@400;600&display=swap" rel="stylesheet">
 <style>{CSS}</style>{extra_head}
 </head><body>
-<script src="https://oona13.com/fam/fam.js?v={V}" defer></script>
+<script src="https://oona13.com/fam/fam.js?v={V}"></script>
 <header class="rh"><div class="wrap">
   <a class="mark" href="/rohonc/">The Rohonc Codex</a>
   <p class="tag">{html.escape(COPY["tagline"].strip())}</p>
