@@ -279,7 +279,7 @@ could read it. It dates itself: on one of its last leaves it counts one
 thousand five hundred and sixty years from the Ascension, which is 1593.
 
 In 2018 **Levente Zoltan Kiraly** and **Gabor Tokai** published, in
-*Cryptologia*, the dictionary and grammar that broke it: 841 signs, read. The
+*Cryptologia*, the dictionary and grammar that opened it: 841 signs read. The
 script runs right to left, several hundred signs, mostly logographic, and the
 language is not Hungarian but something the scribe built for the purpose. The
 book is a Christian devotional compilation: the apocryphal Life of Adam and
@@ -299,11 +299,23 @@ whole manuscript, end to end, in a modern language, with every word marked
 for how well it is known, and that is what this edition attempts.
 
 **It was made with AI, under an editor.** Four signs in ten had no meaning in
-the dictionary. Anthropic's Claude decoded the remaining signs using Kiraly and
-Tokai's dictionary as a foundation; the editor decided what stood. Different
+the dictionary. Anthropic's Claude proposed readings for the remaining signs,
+using Kiraly and Tokai's dictionary as a foundation; the editor decided what
+stood. Different
 models assembled the gloss and composed the translation. Every
 figure in this book comes from a program that can be rerun, and where any of
 this went wrong it is written down with the number it went wrong by.
+
+**What this is, and is not.** This is an attempt, not a solution. It is
+published so that it can be checked: it is internally consistent -- every
+reading holds at every place its sign stands, every figure comes from a
+program that can be rerun, and the tests that failed are printed beside the
+ones that passed -- but it has not been peer reviewed. Kiraly and Tokai's
+dictionary was, in *Cryptologia*; nothing added here has been, and Kiraly and
+Tokai have not seen it. The two outside reviews were by models from other
+labs, not by scholars of the manuscript. Treat every reading this project
+added as a proposal until someone who does not depend on it has tried to
+break it.
 
 **The book is in two parts.** Book Two is the gloss: the manuscript folio by
 folio and line by line, each sign rendered by Kiraly and Tokai's dictionary

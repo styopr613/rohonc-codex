@@ -291,8 +291,8 @@ Voice: plain English, sentences of ordinary length, one idea per sentence. No hy
 Return a single JSON object with exactly these keys, each a string of plain text (paragraphs separated by a blank line):
 
 tagline          the fixed line 'Using AI to extend and test the Király and Tokai dictionary', verbatim; the owner set it
-intro            3 paragraphs: what the manuscript is; what Király and Tokai did and what they established the book contains (name the contents); what this project did; then ONE paragraph, in these words: this was done with AI, under an editor; Anthropic's Claude decoded the remaining signs using the Király and Tokai dictionary as a foundation; different models assembled the gloss and composed the translation. Name no other model; then ONE paragraph on the two parts: Book Two the gloss and the evidence, Book One the translation read against the sources, and where they disagree Book Two is right; the paragraph on what the project did must NOT say it read undefined signs, checked every occurrence, or marked every word -- the AI paragraph and the two-parts paragraph already cover that
-how_far          one paragraph introducing a table of the reading figures that follows it
+intro            3 paragraphs: what the manuscript is; what Király and Tokai did and what they established the book contains (name the contents); what this project did; then ONE paragraph, in these words: this was done with AI, under an editor; Anthropic's Claude decoded the remaining signs using the Király and Tokai dictionary as a foundation; different models assembled the gloss and composed the translation. Name no other model; then ONE paragraph on the two parts: Book Two the gloss and the evidence, Book One the translation read against the sources, and where they disagree Book Two is right; the paragraph on what the project did must NOT say it read undefined signs, checked every occurrence, or marked every word -- the AI paragraph and the two-parts paragraph already cover that; Claude PROPOSED readings, never 'decoded' or 'cracked'; and a LAST paragraph headed 'What this is, and is not' saying: an attempt not a solution, published to be checked, internally consistent, NOT peer reviewed (Király and Tokai's dictionary was, in Cryptologia; nothing added here has been; they have not seen it), the outside reviews were by models not scholars, and every added reading is a proposal until someone independent has tried to break it
+how_far          one paragraph introducing a table of the reading figures that follows it; say the project HAS A READING FOR the percentage, not that it reads it
 tiers            one paragraph after the tier counts, explaining the tiers
 new_here_lead    one sentence introducing a quoted paragraph titled "What is new here and what is not"
 is_it_true       one paragraph introducing the test summary table that follows it
@@ -316,13 +316,13 @@ script_phrases   one paragraph explaining that phrases are written without a spa
 script_shuffle_lead  one sentence above the shuffler's controls
 script_marks     one paragraph explaining the marks used in the rendering
 script_plates    one paragraph introducing the redrawn plates, saying plainly that they are redrawings and why
-method_intro     ONE paragraph opening a page about the method: what problem it solves and what makes it checkable; do not state the bar rule here, it has its own section below
+method_intro     ONE paragraph opening a page about the method: what problem it solves and what makes it checkable; do not state the bar rule here, it has its own section below; say the method is this project's attempt, never that it solves anything
 method_loop      one paragraph introducing the numbered steps of the loop, which are listed after it
 method_bars      one paragraph on declaring the bar before the run and keeping failures
 method_mistakes  one paragraph introducing the list of mistakes that cost the most time, which follows it
 method_code      one sentence introducing links to the programs themselves
 tests_intro      2 paragraphs opening a page about the tests: what was being tested and why the bar is declared first; where it mentions the outside review it names the reviewers as two frontier models from other labs, Gemini 2.5 Pro and Grok 4.7
-tests_after      one paragraph after the summary table saying what the passes and failures add up to, without restating numbers
+tests_after      one paragraph after the summary table saying what the passes and failures add up to, without restating numbers; it must say a checked ATTEMPT, not a settled result, checked by the project's own tests and two models and not yet by anyone who reads the manuscript independently
 sources_intro    2 paragraphs opening a page about sources and credit: whose work each source is and what may be done with it
 docs_lead        one paragraph introducing a list of the project's own working documents, which are described rather than published, and can be asked for
 read_lead        one paragraph at the top of a page whose only job is to open the book in the OONA reader at /read/rohonc.php, the same reader the Free Library uses; mention that the same book can be taken away as an EPUB or a print PDF. The page itself does NOT contain a reader
