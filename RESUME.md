@@ -254,7 +254,7 @@ the retelling draws on **441 of 441 folios** — every leaf of the manuscript is
 cited somewhere in the front of the book. Ten chapters, 19,988 words; the
 whole volume is 88 chapters and 105,349 words.
 
-Run `cd harness && python3 whatbroke.py` after any change to the readings.
+Run `cd harness && ./ktpush.sh --check` after any change to the readings. (`whatbroke.py` did this job until 2026-09-22; it counted quotations, and the printed Book One has none. See `archive/tools-20260922/`.)
 `fix.md` at the repo root is the standing instruction for what to do with what
 it reports. The one thing no checker can do for you is its section 3, and that
 now has exactly one entry: **Enoch**, bracketed in all three places it stands
@@ -311,7 +311,7 @@ Its stretches, this edition's divisions and not the book's:
 
 ## When the readings have been hardened
 
-    cd harness && python3 whatbroke.py
+    cd harness && ./ktpush.sh --check
 
 One command: what broke, what is exposed, what is load-bearing, what is left.
 `fix.md` at the repo root explains each section and what to do about it. The

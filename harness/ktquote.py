@@ -1,9 +1,12 @@
 """Quotation clerk for Book One. Ask the gloss what it actually says.
 
-The retelling gate (ktretellcheck.py) refuses a «quotation» whose content
-words are not in the gloss of a cited folio. That gate says no. This says
-what to write instead, with exactly the same instrument -- ktenglish.stems --
-so the two can never disagree about what a word is.
+This was the other half of the retelling gate's quotation check: that gate
+refused a «quotation» whose content words were not in the gloss of a cited
+folio, and this said what to write instead. The check was removed on
+2026-09-22 -- the printed Book One carries no guillemets, so it weighed
+nothing -- and this stayed, because asking the gloss what it actually says is
+the job whether or not the answer ends up in quotation marks. It uses
+ktenglish.stems, the same instrument the rest of the edition is checked with.
 
     python3 ktquote.py show 029r 029v ...        gloss lines + English
     python3 ktquote.py part V                    every folio of a part

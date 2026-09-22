@@ -11,20 +11,35 @@ run and is ZERO failures.
                the sentence is. A deliberate reach elsewhere is written
                "cf. 028v" and is allowed, because it announces itself.
 
-  THE QUOTATION CHECK WAS REMOVED on 2026-09-22, and this says so rather
-  than leaving a gap in the numbering. It required every word inside
-  guillemets to stand in the gloss of a folio the part cites, and it was the
-  strictest thing in this file. It went because the printed Book One does not
-  quote: Codex's rewrite carries no guillemets at all, so the check weighed
-  nothing on the book that ships. It had been reading retelling.md, the draft
-  the rewrite replaced, where its 1,142 quotations made it look like the
-  strictest pass in the project while the printed book was checked by
-  nothing. If Book One is ever given marked quotations again, this check is
-  worth restoring from the history -- commit 901c161 is the last one that has
-  it, and archive/drafts-20260922/retelling.md is the text it was written
-  for.
+  2. QUOTE.    Every phrase in guillemets is a claim that the manuscript says
+               this. Each of its content words must appear in the gloss of a
+               folio the part cites. One word that is not there is a
+               fabricated quotation, which is the worst thing this edition
+               could contain. Guillemets and nothing else carry that claim --
+               italics are for book titles and emphasis and are not checked,
+               which is exactly why the two must not share a mark.
 
-  2. NUMBER.   Every digit-number in the retelling must either be spelled out
+  2b. NEAR.    The same claim, checked against the folios named in the
+               quotation's OWN paragraph rather than the whole part. This
+               matters more than it sounds: Part VII cites 79 folios, so
+               check 2 was asking whether a word appears anywhere in a
+               79-folio haystack, and a quotation could name one folio while
+               borrowing a word from another eighty leaves away.
+
+               This check was NOT declared before it was first run. It was
+               written as a diagnostic after the fact, over 420 quotations
+               that had already passed check 2, and it found three. Two were
+               real -- «a bright light from heaven» at 023v, where the gloss
+               has "bright" and "[from_heaven]" and no "light" at all, and
+               «end this holy gospel» at 057r, where that folio does not
+               carry "end". Both are corrected. The third was the
+               diagnostic's own window, not a defect. Saying so here is the
+               point: a gate promoted after seeing its results is weaker
+               evidence than one declared first, and the only honest thing to
+               do is write down which kind it is. From now on its bar is
+               ZERO, like the others.
+
+  3. NUMBER.   Every digit-number in the retelling must either be spelled out
                in the cited folios' gloss, or be listed in ARITHMETIC below
                as an editorial calculation, with its working. A number that is
                neither is an anchor that came from expectation.
@@ -81,10 +96,25 @@ ARITHMETIC = {
 
 WORD = re.compile(r"[a-z]+")
 FOL = re.compile(r"\b(\d{3}[rv])\b")
+QUOTE = re.compile(r"«([^»]{4,400})»")
 CF = re.compile(r"cf\.\s*(\d{3}[rv])")
 NUM = re.compile(r"(?<![\w.])(\d{1,5})(?![\w%])")
+STOP = set("""a an the and or but if then so that this these those there here
+of to in on at by for from with into onto upon over under about as than when
+while where who whom whose which what because since until before after again
+also too very not no nor only own same such both each few more most other some
+any all every is are was were be been being am do does did doing done have has
+had having will would shall should may might must can could let it its they
+them their he him his she her we us our you your i me my mine one two three
+four five six seven eight nine ten thy thee thou ye unto said say says""".split())
 
 
+import ktenglish as E   # ONE instrument. The retelling is checked against the
+# gloss with exactly the machinery that checks the folio English against it:
+# same accent folding, same alias table, same handling of Jew(ish) and of
+# <suffix of divine name>. Two gates with two different stemmers would
+# disagree about what the manuscript says, and then neither would mean
+# anything.
 
 
 def main(argv):
@@ -94,6 +124,7 @@ def main(argv):
     idx = {p: i for i, p in enumerate(order)}
     txt = open(RT, encoding="utf-8").read()
     bad = 0
+    nq = 0
     for m in re.finditer(r"^## ([^\n]+)\n\n### folios (\d{3}[rv])–(\d{3}[rv])\n"
                          r"(.*?)(?=^## |\Z)", txt, re.M | re.S):
         name, lo, hi, body = m.groups()
@@ -105,6 +136,34 @@ def main(argv):
         if out:
             bad += len(out)
             print(f"   RANGE FAIL: cites outside {lo}-{hi}: {' '.join(out)}")
+        have = set()
+        for p in cited:
+            if p in fol:
+                have |= E.stems(" ".join(fol[p][3]))
+        for q in QUOTE.findall(body):
+            miss = [w for w in sorted(E.stems(q))
+                    if w not in STOP and w not in have]
+            if miss:
+                bad += 1
+                print(f"   QUOTE FAIL: {q[:60]}...  not in gloss: {' '.join(miss)}")
+        # 2b. the same words, against the folios of the quotation's own
+        # paragraph. A paragraph is the unit because that is how the prose
+        # cites: the folio may be named before the quotation or after it.
+        for para in re.split(r"\n\s*\n", body):
+            near_ids = set(FOL.findall(para))
+            if not near_ids:
+                continue
+            near = set()
+            for p in near_ids:
+                if p in fol:
+                    near |= E.stems(" ".join(fol[p][3]))
+            for q in QUOTE.findall(para):
+                miss = [w for w in sorted(E.stems(q))
+                        if w not in STOP and w not in near]
+                if miss:
+                    bad += 1
+                    print(f"   NEAR FAIL: {q[:52]}...  not on "
+                          f"{' '.join(sorted(near_ids))}: {' '.join(miss)}")
         # folio names, verse references and comma groups are not claims
         clean = FOL.sub(" ", body)
         clean = re.sub(r"\b\d+:\d+\b", " ", clean)
@@ -114,8 +173,16 @@ def main(argv):
             if n in ARITHMETIC:
                 continue
             bad += 1
-            print(f"   NUMBER FAIL: {n} is not declared in ARITHMETIC")
-        print(f"   {len(cited)} folios cited")
+            print(f"   NUMBER FAIL: {n} is neither in the gloss nor declared")
+        nq += len(QUOTE.findall(body))
+        print(f"   {len(cited)} folios cited, {len(QUOTE.findall(body))} quotations")
+    if nq == 0:
+        print("\nNOTE: the printed Book One carries no guillemet quotations, so")
+        print("checks 2 and 2b weighed nothing this run. Only RANGE and NUMBER")
+        print("were tested. This is stated rather than passed over in silence:")
+        print("whether Book One should quote the manuscript is an editorial")
+        print("decision, and a gate with nothing to check must not read as one")
+        print("that found nothing wrong.")
     print(f"\n{'PASS' if bad == 0 else 'FAIL'}: {bad} problems, bar was 0")
     return 1 if bad else 0
 
