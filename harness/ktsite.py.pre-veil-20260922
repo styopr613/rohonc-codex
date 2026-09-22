@@ -97,14 +97,6 @@ NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("r
 CREDIT = html.escape(COPY["credit_line"].strip())
 
 CSS = """
-/* fam.js lays an opaque veil over every arrival and fades it out over .17s even
-   when the browser's own view transition is doing the hop. On a light page that
-   veil is the page's own cream and nobody sees it; here it is #0B0D10 over a cream
-   sheet, so every hop read as the page going black and lighting up again --
-   measured live at 150->22 brightness on each click. The veil is dropped on
-   ARRIVAL with no fade. On the way OUT (html.oona-leaving) it keeps its fade, so
-   a hop to another OONA property still dims before it goes. */
-html:not(.oona-leaving) #oona-veil.out{transition:none!important}
 :root{--bg:#0B0D10;--ink:#1d1a16;--soft:#5a5248;--paper:#f5efe3;--paper2:#ece5d5;--rub:#7a2418;--ivory:#e9e2d3;--line:#d9cfb9}
 body{margin:0;background:var(--bg);color:var(--ivory);font-family:"EB Garamond",Garamond,"Times New Roman",serif;font-size:19px;line-height:1.55}
 header.rh{padding:34px 20px 8px;text-align:center}
