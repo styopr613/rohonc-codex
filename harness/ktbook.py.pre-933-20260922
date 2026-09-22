@@ -193,7 +193,7 @@ def _n(s, w=6):
     return f"{int(s.replace(',', '')):,}".rjust(w)
 
 
-def annotate(body, part="p"):
+def annotate(body):
     """Put [1], [2] ... into a part's prose and return its notes in order.
 
     House format, copied from the Plaintext Classics gospels: a bracketed
@@ -248,21 +248,19 @@ def annotate(body, part="p"):
     out, notes, last = [], [], 0
     for i, (end, _, note) in enumerate(hits, 1):
         out.append(body[last:end])
-        # gen's footnote syntax: the marker is a real noteref in the EPUB, so it
-        # pops up in Apple Books, Kobo and the house reader, and the note itself
-        # is gathered on a Notes page at the back with a link back to the marker
-        out.append(f"[^{part}n{i}]")
+        out.append(f"[{i}]")
         last = end
         prose, src = N.split_note(note)
-        notes.append(f"[^{part}n{i}]: " + " ".join(prose.split()) + ("  " + src if src else ""))
+        notes.append(" ".join(prose.split()) + ("  " + src if src else ""))
     out.append(body[last:])
     rendered = "".join(out)
     # A note placed by folio lands immediately before that paragraph's terminal
-    # citation.  Without a separating space, Markdown reads `[^x](002r)` as a link
-    # to a nonexistent file named 002r.  Keep the folio label as ordinary text.
+    # citation.  Without a separating space, Markdown reads `[1](002r)` as a link
+    # to a nonexistent file named 002r, corrupting the note marker and making the
+    # EPUB invalid.  Keep the folio label as ordinary text.
     rendered = re.sub(
-        r"(\[\^[^\]]+\])(\(\d{3}[rv](?:\s*[-–,]\s*\d{3}[rv])*\))",
-        r"\1 \2",
+        r"\[(\d+)\](\(\d{3}[rv](?:\s*[-–,]\s*\d{3}[rv])*\))",
+        r"[\1] \2",
         rendered,
     )
     return rendered, notes
@@ -496,7 +494,6 @@ right.
 
 
 def back_matter():
-    g = figures()
     return [
         {"type": "appendix", "pos": 0, "title": "How this was checked",
          "text": """Every figure in this book comes from a program that can be
@@ -536,7 +533,7 @@ masked signs with no surviving structural neighbour -- the hardest population
 in the book, and the one that actually resembles what is left. On it, the best
 passage candidate recovered their gloss 0.0% of the time. That number
 calibrates the brackets, and it is why no bracket is ever counted as a reading.
-It does not bear on the """ + g["read"][1] + """% that are read, which rest on the dictionary and
+It does not bear on the 93.3% that are read, which rest on the dictionary and
 on survival at every occurrence, not on any generator. A second form
 of the test had to be thrown away: the reader running it had spent the day
 reading the dictionary, and flagged twelve of twenty-five sampled signs as
@@ -603,51 +600,6 @@ None of these people are responsible for anything in this edition."""},
     ]
 
 
-CITE = re.compile(r"\((\d{3}[rv])((?:\s*[-–,]\s*\d{3}[rv])*)\)\s*$")
-
-
-def link_gloss(chapters):
-    """Every paragraph of Book One ends with the folios it renders. Make that
-    citation a link to the folio in Book Two, and make the folio's heading in
-    Book Two a link back to the paragraph. gen names chapter files by their
-    position, ch-001.xhtml onward, so the file a folio lands in is known once
-    the chapter list is complete, which is why this runs last."""
-    def fname(i):
-        return f"ch-{i + 1:03d}.xhtml"
-    heading = re.compile(r"^\*\*(\d{3}[rv])\*\*", re.M)
-    in_two = {}
-    for i, ch in enumerate(chapters):
-        for m in heading.finditer(ch["text"]):
-            in_two.setdefault(m.group(1), i)
-    in_one, seen = {}, set()
-    for i, ch in enumerate(chapters):
-        if "**" in ch["text"] and heading.search(ch["text"]):
-            continue                                   # Book Two
-        paras = ch["text"].split("\n\n")
-        for k, p in enumerate(paras):
-            m = CITE.search(p)
-            if not m or m.group(1) not in in_two:
-                continue
-            first = m.group(1)
-            ids = [first] + re.findall(r"\d{3}[rv]", m.group(2))
-            spans = ""
-            for f in ids:
-                if f not in seen:
-                    seen.add(f); in_one[f] = i
-                    spans += f'<span id="p{f}"></span>'
-            cite = p[m.start():m.end()].strip()
-            paras[k] = (p[:m.start()] + spans
-                        + f'<a class="gloss" href="{fname(in_two[first])}#f{first}">{cite}</a>')
-        ch["text"] = "\n\n".join(paras)
-    for i, ch in enumerate(chapters):
-        def back(m):
-            f = m.group(1)
-            if f in in_one:
-                return f'<a id="f{f}" href="{fname(in_one[f])}#p{f}"><b>{f}</b></a>'
-            return f'<a id="f{f}"><b>{f}</b></a>'
-        ch["text"] = heading.sub(back, ch["text"])
-
-
 def build():
     fol = folios()
     eng = english()
@@ -665,10 +617,11 @@ def build():
         got = rt.get(pname)
         if not got:
             continue
-        body, notes = annotate(got[2], part=f"p{bi + 1}")
+        body, notes = annotate(got[2])
         body = body.replace("«", "*").replace("»", "*")
         if notes:
-            body += "\n\n" + "\n".join(notes)
+            body += "\n\n    --- NOTES ---\n" + "\n".join(
+                f"    {i}. {t}" for i, t in enumerate(notes, 1))
         ch = {"title": pname.split(".", 1)[-1].strip(),
               "subtitle": "folios %s–%s" % (lo, hi),
               "text": body}
@@ -749,7 +702,6 @@ def build():
                     "in Book One was made from."
                     if bi == 0 else pblurb)
             chapters.append(ch)
-    link_gloss(chapters)
     return {
         "title": "The Rohonc Codex",
 

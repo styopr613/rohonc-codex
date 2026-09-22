@@ -307,7 +307,7 @@ credit           one paragraph on credit and position
 reading_lead     one paragraph at the top of the reading page
 dictionary_lead  two paragraphs at the top of the dictionary page (how the signs are written, what is and is not included)
 data_lead        one paragraph at the top of the data page
-outside_lead     one paragraph introducing an outside reviewer's specification, quoted whole
+outside_lead     one paragraph introducing a reviewer's specification, quoted whole; the reviewers are two frontier models from other labs, Gemini 2.5 Pro and Grok 4.7, and the paragraph must say so in its own words, never 'outside reviewers' alone
 card_script      one sentence for a link card to a page about the script itself
 script_intro     2 paragraphs opening a page about the script: what kind of writing it is, and what is not known about where it came from
 script_signs     one paragraph introducing a shuffler that shows one sign's reading at a time
@@ -321,7 +321,7 @@ method_loop      one paragraph introducing the numbered steps of the loop, which
 method_bars      one paragraph on declaring the bar before the run and keeping failures
 method_mistakes  one paragraph introducing the list of mistakes that cost the most time, which follows it
 method_code      one sentence introducing links to the programs themselves
-tests_intro      2 paragraphs opening a page about the tests: what was being tested and why the bar is declared first
+tests_intro      2 paragraphs opening a page about the tests: what was being tested and why the bar is declared first; where it mentions the outside review it names the reviewers as two frontier models from other labs, Gemini 2.5 Pro and Grok 4.7
 tests_after      one paragraph after the summary table saying what the passes and failures add up to, without restating numbers
 sources_intro    2 paragraphs opening a page about sources and credit: whose work each source is and what may be done with it
 docs_lead        one paragraph introducing a list of the project's own working documents, which are described rather than published, and can be asked for

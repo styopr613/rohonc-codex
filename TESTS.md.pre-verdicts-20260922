@@ -92,8 +92,7 @@ passes are our readings scored.
 
 Both fail on K&T's own words. That is an instrument that cannot reach its
 bar on the sample available, not a verdict on anything here. The readings
-were never scored by it. Verdict: NO VERDICT, not FAIL -- a test that cannot
-score the known-good entries cannot condemn anything.
+were never scored by it.
 
 ## Test 3 — the blindfold, run clean
 
@@ -158,9 +157,7 @@ book from this project's readings alone. Does it still read?
     lines fully read        2 /  4372     0.0%
 
 No. Our readings are an extension of their dictionary and read nothing
-without it. That is what they were built to be, so the 11.9% is a fact
-about the design and not a verdict. The verdict below is on the recovery
-bar, which was declared at 5 sigma and reached 4.4: FAIL, and it stays FAIL.
+without it. That is what they were built to be.
 
 Second: can ours give K&T's words back? Hide one of their signs, render its
 line with our readings only, align the line to the cited passage in order,
@@ -394,13 +391,8 @@ the keep-rule.
 
     at the verse the note cites (reported): 70 signs, chosen survives 1, rivals 3
 
-The bar fails as declared. In plain terms: the 94 are this project's tier
-A/B readings whose signs stand on folios citing three or more chapters; the
-rule asks whether some other word appears in every one of those chapters;
-for 61 of the 94 a common verb does. The 64.9% measures how often a common
-verb turns up in three chapters, not how often a reading is arbitrary. What
-the count shows is that the rule being censused is not the rule that made
-the readings: not one of the 94 glosses
+The bar fails as declared. What the count shows is that the rule being
+censused is not the rule that made the readings: not one of the 94 glosses
 is present in every chapter its sign's folios cite, so the rivals — answer,
 tell, ruler, cast, enter, depart — are words that satisfy a rule the
 readings themselves do not. The rivals are the commonest free verbs of the
@@ -492,27 +484,20 @@ Mark 5 for Matthew 9, Acts 7 for Acts 6, and are counted as misses.
     Test 1   source presence, held-out folios    A+B 17.5 sigma   99% of K&T    PASS
     Test 5   K&T's own sentence translations     A+B  8.6 sigma  153% of K&T    PASS
     Test 6   word order, held-out folios         A+B  6.9 sigma                 PASS
-    Test 2   part of speech                      instrument fails on K&T's own words   NO VERDICT
+    Test 2   part of speech                      instrument fails on K&T's own words
     Test 3   blindfold, run clean                 4 of 24 strict, 16.7%; band 15-30%, consequence reaffirmed
-    Test 7   K&T's words removed                 reads 11.9% from ours alone (by design: they extend the dictionary); recovery 4.4 sigma against a declared 5, FAIL
-    Test 8   bootstrap from a random 30%          passage 33.9 sigma (8.4% absolute), recovery 8.5 sigma (0.9% absolute)   PASS
+    Test 7   K&T's words removed                 reads 11.9% from ours alone; recovery 4.4 sigma, FAIL
+    Test 8   bootstrap from a random 30%          passage 33.9 sigma, recovery 8.5 sigma, PASS; absolute 8.4% and 0.9%
     Test 9   hidden 70% validated by the 30%       A+B 11.3 sigma, 130% of K&T's own rate   PASS
 
     After the outside review, same day:
     Test 11  passage map from K&T's words alone   median rank 25 of 1334, top-1 12.4%, p 2e-28   PASS
-    Test 10  search replayed on null books        7 / 215 / 2 kept at three scales; the count rule has no power at any   NO VERDICT
-             held-out, same runs                  real 8 sigma over shuffle, null books none
-    Test 12  Test 5 rescored strict               73.7%, 8.4 sigma; but +22.9 points over K&T's own headwords trips the declared leakage clause   FAIL on that clause
-             then two independent re-glossers     given K&T's words only, recover our gloss 68% and 71% of the time   PASS
-    Test 13  underdetermination census            61 of 94 A/B readings have a common verb present in every chapter their folios cite   FAIL (bar 40%)
-             the same rule                        0 of the 94 chosen glosses pass it: the rule censused is not the rule that made them
+    Test 10  search replayed on null books        7 / 215 / 2 kept at three scales; no power at any; FAIL FAIL PASS
+    Test 12  Test 5 rescored strict               73.7%, 8.4 sigma; +22.9 over K&T   FAIL on the leakage clause
+             outside re-glossers                  68% and 71% agree with ours   PASS
+    Test 13  underdetermination census            rivals 64.9%   FAIL; 0 of 94 readings satisfy the rule censused
     Test 14  blind rotated run, outside reader     rotated 0 fills, 0 matches; real 3.8 fills/page, 13/18   PASS
     Test 15  passage identification, outside reader   chapter 9/20 vs 0/20 shuffled, p 0.002   PASS
-
-    PASS and FAIL are verdicts on the readings against a bar declared before the run.
-    NO VERDICT means the instrument failed its own check on Kiraly and Tokai's words,
-    or has no power to tell a search from a decipherment; it says nothing about the
-    readings either way, and it is kept on the page because it was specified.
 
 Where that leaves the 670 tier A/B readings. The passage map survives
 without them (Test 11), so Tests 1, 6 and 9 keep their target and their
