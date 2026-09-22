@@ -148,13 +148,13 @@ main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:v
 .hero .acts a.go{background:var(--rub);color:#fff}
 .hero .acts a:hover{background:var(--rub);color:#fff}
 .hero .sz{font-size:15px;color:var(--soft);margin:10px 0 0}
-.strip{margin:1.6em -64px;padding:var(--top) 0 22px;background:var(--paper2);position:relative;--pad:0px;--lens:104px}
+.strip{margin:1.6em -64px;padding:var(--top) 0 22px;background:var(--paper2);position:relative;--padl:0px;--padr:0px;--lens:104px}
 .strip .win{position:relative;height:var(--win)}
 .strip .track{position:absolute;inset:0;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-ms-overflow-style:none;overscroll-behavior-x:contain}
 .strip .track::-webkit-scrollbar{height:0;display:none}
 .strip .track:focus-visible{outline:2px solid var(--rub);outline-offset:-3px;border-radius:3px}
-.strip .rail{display:flex;width:max-content;height:100%;align-items:center;gap:34px;padding:0 var(--pad)}
-.strip .it{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;min-width:74px}
+.strip .rail{display:flex;width:max-content;height:100%;align-items:center;gap:34px;padding:0 var(--padr) 0 var(--padl)}
+.strip .it{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;min-width:64px}
 .strip .it .sv{color:var(--ink)}
 .strip .it b{font-weight:400;font-size:16px;white-space:nowrap}
 .strip .it span{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11.5px;color:var(--soft);letter-spacing:.06em}
@@ -415,6 +415,7 @@ STRIP_OPEN = 4   # which sign the strip opens under the glass
 # cutter measured the hole it left and wrote the numbers to work/rohonc/glass.json,
 # and everything below is computed from them, so a different glass -- a thicker
 # rim, a handle at another angle -- needs no CSS touched, only the file swapped.
+SIGN_PX = 40     # how tall a sign is drawn on the strip
 LENS_PX = 128    # the hole, on screen
 WIN_PX = 104     # the height of the row the signs sit in
 TUCK = 5         # the clipped rail runs this much under the rim, so no seam of
@@ -448,7 +449,7 @@ def strip_html(rows, sg, n=54):
     pick = [r for r in rows if r["tier"] in ("A", "B") and 3 <= len(r["code"]) <= 9 and r["gloss"]
             and " " not in r["gloss"] and "<" not in r["gloss"]]
     pick.sort(key=lambda r: (-r["n"], r["gloss"]))
-    pick = [r for r in pick[:n] if sign_svg(r["code"], sg, 46)]
+    pick = [r for r in pick[:n] if sign_svg(r["code"], sg, SIGN_PX)]
     if not pick:
         return ""
     def spaced(code):
@@ -458,7 +459,7 @@ def strip_html(rows, sg, n=54):
         # ambiguity with a slash; the caption has room to say both properly
         return r["gloss"].replace("_", " ").replace("/", " / ")
     it = "".join(
-        f'<span class="it">{sign_svg(r["code"], sg, 46)}'
+        f'<span class="it">{sign_svg(r["code"], sg, SIGN_PX)}'
         f'<b>{html.escape(gloss(r))}</b>'
         f'<span>{html.escape(spaced(r["code"]))}</span></span>'
         for r in pick)
@@ -499,7 +500,7 @@ STRIP_JS = """<script>
       prev=strip.querySelector('.nudge.l'), next=strip.querySelector('.nudge.r'),
       cap=strip.querySelector('.rcap'), capw=cap.querySelector('b'), capc=cap.querySelector('span'),
       items=Array.prototype.slice.call(rail.children),
-      M=2.1, mid=[], cur=-1,
+      M=1.8, mid=[], cur=-1,
       calm=window.matchMedia('(prefers-reduced-motion: reduce)');
   if(!items.length) return;
   strip.classList.add('glassed');
@@ -614,7 +615,12 @@ STRIP_JS = """<script>
 
   var opened=false;
   function layout(){
-    strip.style.setProperty('--pad',(track.clientWidth/2-37)+'px');
+    // enough padding at each end that the FIRST and LAST signs can reach the
+    // middle; taken from those two signs, because they are not the same width
+    // as each other and neither is the width the CSS floor happens to be
+    var half=track.clientWidth/2;
+    strip.style.setProperty('--padl',(half-items[0].offsetWidth/2)+'px');
+    strip.style.setProperty('--padr',(half-items[items.length-1].offsetWidth/2)+'px');
     var x0=rail.getBoundingClientRect().left;
     mid=items.map(function(el){var r=el.getBoundingClientRect();return r.left-x0+r.width/2;});
     if(!opened&&mid.length){opened=true;
