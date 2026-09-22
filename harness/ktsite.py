@@ -1314,7 +1314,7 @@ def page_data(files, runs, outside):
     body.append("<h2>The outside review</h2><ul>")
     for href, name, desc, p in outside:
         body.append(li(href, name, desc, sz(p) if p else ""))
-    body.append("</ul><h2>Saved runs</h2><p>The runs the checked-results page cites, one file per test, exactly as the program that made it wrote it; each states its bar at the top. <a href="/rohonc/code.html">The programs</a> page says which program made which. The full set of runs goes up with the repository.</p><ul>")
+    body.append('</ul><h2>Saved runs</h2><p>The runs the checked-results page cites, one file per test, exactly as the program that made it wrote it; each states its bar at the top. <a href="/rohonc/code.html">The programs</a> page says which program made which. The full set of runs goes up with the repository.</p><ul>')
     for href, name, p in runs:
         body.append(li(href, name, "", sz(p)))
     body.append("</ul>")
