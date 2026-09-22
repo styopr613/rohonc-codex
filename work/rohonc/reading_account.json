@@ -1,0 +1,1957 @@
+[
+ {
+  "pages": [
+   "015r",
+   "015v",
+   "016r",
+   "016v"
+  ],
+  "manuscript": 57,
+  "source": 2,
+  "neither": [
+   "alon",
+   "beginn",
+   "children",
+   "kept",
+   "r",
+   "sinn",
+   "tog",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0022637472
+ },
+ {
+  "pages": [
+   "008r",
+   "008v",
+   "005r",
+   "005v"
+  ],
+  "manuscript": 83,
+  "source": 4,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.00291159
+ },
+ {
+  "pages": [
+   "007r",
+   "007v",
+   "006r",
+   "006v"
+  ],
+  "manuscript": 66,
+  "source": 2,
+  "neither": [
+   "evilthy",
+   "eyesadam",
+   "mak",
+   "pain",
+   "return",
+   "shut"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003073158
+ },
+ {
+  "pages": [
+   "003r",
+   "003v",
+   "001r",
+   "001v"
+  ],
+  "manuscript": 60,
+  "source": 1,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.00329868
+ },
+ {
+  "pages": [
+   "004v",
+   "004r",
+   "002r",
+   "002v"
+  ],
+  "manuscript": 70,
+  "source": 0,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0037064148
+ },
+ {
+  "pages": [
+   "017r",
+   "017v",
+   "018r",
+   "018v"
+  ],
+  "manuscript": 87,
+  "source": 3,
+  "neither": [
+   "pas",
+   "r",
+   "ris",
+   "seclusion",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003989832
+ },
+ {
+  "pages": [
+   "025r",
+   "025v",
+   "026r",
+   "026v"
+  ],
+  "manuscript": 75,
+  "source": 2,
+  "neither": [
+   "shon"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.002721972
+ },
+ {
+  "pages": [
+   "021r",
+   "021v",
+   "022r",
+   "022v"
+  ],
+  "manuscript": 81,
+  "source": 4,
+  "neither": [
+   "lost",
+   "r",
+   "twentynin",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0074864328
+ },
+ {
+  "pages": [
+   "023r",
+   "023v",
+   "024r",
+   "024v"
+  ],
+  "manuscript": 70,
+  "source": 3,
+  "neither": [
+   "everyon",
+   "r",
+   "rv",
+   "thirtytwo",
+   "v",
+   "vr",
+   "woman"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003398538
+ },
+ {
+  "pages": [
+   "029r",
+   "029v",
+   "030r",
+   "030v"
+  ],
+  "manuscript": 54,
+  "source": 2,
+  "neither": [
+   "giv",
+   "r",
+   "rv",
+   "spok",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0031977
+ },
+ {
+  "pages": [
+   "019r",
+   "019v",
+   "020r",
+   "020v"
+  ],
+  "manuscript": 80,
+  "source": 2,
+  "neither": [
+   "r",
+   "spok",
+   "twentytwo",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.004936432
+ },
+ {
+  "pages": [
+   "031r",
+   "031v",
+   "032r",
+   "032v"
+  ],
+  "manuscript": 66,
+  "source": 8,
+  "neither": [
+   "crow",
+   "eye",
+   "r",
+   "sen",
+   "won"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003005838
+ },
+ {
+  "pages": [
+   "033r",
+   "033v",
+   "034r",
+   "034v"
+  ],
+  "manuscript": 61,
+  "source": 8,
+  "neither": [
+   "enem",
+   "look",
+   "r",
+   "refus",
+   "taken"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0029569188
+ },
+ {
+  "pages": [
+   "027r",
+   "027v",
+   "028r",
+   "028v"
+  ],
+  "manuscript": 72,
+  "source": 0,
+  "neither": [
+   "exorcy",
+   "fourteenth",
+   "r",
+   "rv",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0066875688
+ },
+ {
+  "pages": [
+   "037r",
+   "038r",
+   "038v",
+   "039r"
+  ],
+  "manuscript": 43,
+  "source": 5,
+  "neither": [
+   "offpet",
+   "peteran",
+   "r",
+   "rv"
+  ],
+  "attempts": 2,
+  "missing": [
+   "038r"
+  ],
+  "cost": 0.00309111
+ },
+ {
+  "pages": [
+   "035r",
+   "035v",
+   "036r",
+   "036v"
+  ],
+  "manuscript": 61,
+  "source": 2,
+  "neither": [
+   "ros",
+   "stay"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0036166548
+ },
+ {
+  "pages": [
+   "041v",
+   "042r",
+   "042v",
+   "043r"
+  ],
+  "manuscript": 50,
+  "source": 5,
+  "neither": [
+   "goe"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.00275451
+ },
+ {
+  "pages": [
+   "043v",
+   "044v",
+   "045v",
+   "046r"
+  ],
+  "manuscript": 58,
+  "source": 1,
+  "neither": [
+   "destroy",
+   "fell",
+   "understoo",
+   "v",
+   "wheth"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003396294
+ },
+ {
+  "pages": [
+   "048v",
+   "049r",
+   "049v",
+   "050r"
+  ],
+  "manuscript": 60,
+  "source": 4,
+  "neither": [
+   "belong",
+   "fell",
+   "r",
+   "seek"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0029302152
+ },
+ {
+  "pages": [
+   "046v",
+   "047r",
+   "047v",
+   "048r"
+  ],
+  "manuscript": 43,
+  "source": 2,
+  "neither": [
+   "hol",
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.002734314
+ },
+ {
+  "pages": [
+   "050v",
+   "051v",
+   "052r",
+   "052v"
+  ],
+  "manuscript": 67,
+  "source": 3,
+  "neither": [
+   "limb",
+   "spok",
+   "touch"
+  ],
+  "attempts": 2,
+  "missing": [
+   "052r"
+  ],
+  "cost": 0.002476254
+ },
+ {
+  "pages": [
+   "053r",
+   "053v",
+   "054r",
+   "054v"
+  ],
+  "manuscript": 60,
+  "source": 2,
+  "neither": [
+   "breaststrik",
+   "harm",
+   "r",
+   "understoo"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.001996038
+ },
+ {
+  "pages": [
+   "059r",
+   "059v",
+   "060r",
+   "060v"
+  ],
+  "manuscript": 54,
+  "source": 6,
+  "neither": [
+   "r",
+   "v",
+   "yourselv"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.002914956
+ },
+ {
+  "pages": [
+   "057r",
+   "057v",
+   "058r",
+   "058v"
+  ],
+  "manuscript": 89,
+  "source": 2,
+  "neither": [],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0033386232
+ },
+ {
+  "pages": [
+   "055r",
+   "055v",
+   "056r",
+   "056v"
+  ],
+  "manuscript": 48,
+  "source": 2,
+  "neither": [
+   "full",
+   "mournth",
+   "r",
+   "rv",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [
+   "055v",
+   "056r"
+  ],
+  "cost": 0.002374152
+ },
+ {
+  "pages": [
+   "063r",
+   "063v",
+   "009r",
+   "009v"
+  ],
+  "manuscript": 58,
+  "source": 7,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0081843168
+ },
+ {
+  "pages": [
+   "039v",
+   "040r",
+   "040v",
+   "041r"
+  ],
+  "manuscript": 41,
+  "source": 5,
+  "neither": [
+   "fre",
+   "r",
+   "rv",
+   "spoken",
+   "v",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.001764504
+ },
+ {
+  "pages": [
+   "061r",
+   "061v",
+   "062r",
+   "062v"
+  ],
+  "manuscript": 64,
+  "source": 2,
+  "neither": [
+   "dea",
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0028839888
+ },
+ {
+  "pages": [
+   "064r",
+   "064v",
+   "065r",
+   "065v"
+  ],
+  "manuscript": 73,
+  "source": 1,
+  "neither": [
+   "r",
+   "rv"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0030152628
+ },
+ {
+  "pages": [
+   "074r",
+   "074v",
+   "075r",
+   "075v"
+  ],
+  "manuscript": 72,
+  "source": 3,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0074841888
+ },
+ {
+  "pages": [
+   "068r",
+   "068v",
+   "069r",
+   "069v"
+  ],
+  "manuscript": 68,
+  "source": 0,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0027740328
+ },
+ {
+  "pages": [
+   "066r",
+   "066v",
+   "067r",
+   "067v"
+  ],
+  "manuscript": 67,
+  "source": 0,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0027437388
+ },
+ {
+  "pages": [
+   "070r",
+   "070v",
+   "071r",
+   "071v"
+  ],
+  "manuscript": 67,
+  "source": 1,
+  "neither": [
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0027515928
+ },
+ {
+  "pages": [
+   "076r",
+   "076v",
+   "077r",
+   "077v"
+  ],
+  "manuscript": 70,
+  "source": 2,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0035504568
+ },
+ {
+  "pages": [
+   "081r",
+   "081v",
+   "082r",
+   "082v"
+  ],
+  "manuscript": 54,
+  "source": 2,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0031846848
+ },
+ {
+  "pages": [
+   "078r",
+   "079r",
+   "080r",
+   "080v"
+  ],
+  "manuscript": 93,
+  "source": 1,
+  "neither": [
+   "outwar",
+   "r",
+   "whoev"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0030287268
+ },
+ {
+  "pages": [
+   "083v",
+   "084r",
+   "084v",
+   "085r"
+  ],
+  "manuscript": 90,
+  "source": 1,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003256044
+ },
+ {
+  "pages": [
+   "085v",
+   "086r",
+   "086v",
+   "087r"
+  ],
+  "manuscript": 85,
+  "source": 0,
+  "neither": [
+   "kept",
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003386196
+ },
+ {
+  "pages": [
+   "072r",
+   "072v",
+   "073r",
+   "073v"
+  ],
+  "manuscript": 67,
+  "source": 0,
+  "neither": [
+   "r",
+   "twentyfifth",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0077343948
+ },
+ {
+  "pages": [
+   "087v",
+   "088r",
+   "088v",
+   "089r"
+  ],
+  "manuscript": 87,
+  "source": 1,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003442296
+ },
+ {
+  "pages": [
+   "091v",
+   "092r",
+   "092v",
+   "093r"
+  ],
+  "manuscript": 60,
+  "source": 1,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0039308148
+ },
+ {
+  "pages": [
+   "095v",
+   "096r",
+   "096v",
+   "097r"
+  ],
+  "manuscript": 55,
+  "source": 1,
+  "neither": [
+   "r",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [
+   "096r",
+   "096v"
+  ],
+  "cost": 0.0030051648
+ },
+ {
+  "pages": [
+   "089v",
+   "090r",
+   "090v",
+   "091r"
+  ],
+  "manuscript": 77,
+  "source": 6,
+  "neither": [
+   "ate",
+   "manhow",
+   "manlet",
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0041058468
+ },
+ {
+  "pages": [
+   "097v",
+   "098r",
+   "098v",
+   "099r"
+  ],
+  "manuscript": 74,
+  "source": 1,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.00356796
+ },
+ {
+  "pages": [
+   "099v",
+   "100r",
+   "100v",
+   "101r"
+  ],
+  "manuscript": 79,
+  "source": 3,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0082381728
+ },
+ {
+  "pages": [
+   "093v",
+   "094r",
+   "094v",
+   "095r"
+  ],
+  "manuscript": 58,
+  "source": 16,
+  "neither": [
+   "inherit",
+   "r",
+   "roa",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0029255028
+ },
+ {
+  "pages": [
+   "101v",
+   "102r",
+   "102v",
+   "103r"
+  ],
+  "manuscript": 85,
+  "source": 2,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0080754828
+ },
+ {
+  "pages": [
+   "103v",
+   "104r",
+   "104v",
+   "105r"
+  ],
+  "manuscript": 88,
+  "source": 2,
+  "neither": [],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0028548168
+ },
+ {
+  "pages": [
+   "105v",
+   "106r",
+   "106v",
+   "107r"
+  ],
+  "manuscript": 75,
+  "source": 1,
+  "neither": [
+   "lett",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0032520048
+ },
+ {
+  "pages": [
+   "113v",
+   "114r",
+   "114v",
+   "115r"
+  ],
+  "manuscript": 54,
+  "source": 3,
+  "neither": [
+   "noth",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0033709368
+ },
+ {
+  "pages": [
+   "109v",
+   "110r",
+   "110v",
+   "111r"
+  ],
+  "manuscript": 84,
+  "source": 0,
+  "neither": [
+   "look",
+   "r",
+   "v",
+   "vespasianu"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0032834208
+ },
+ {
+  "pages": [
+   "115v",
+   "116r",
+   "116v",
+   "117r"
+  ],
+  "manuscript": 82,
+  "source": 1,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0031499028
+ },
+ {
+  "pages": [
+   "111v",
+   "112r",
+   "112v",
+   "113r"
+  ],
+  "manuscript": 81,
+  "source": 1,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003558984
+ },
+ {
+  "pages": [
+   "117v",
+   "118r",
+   "118v",
+   "119r"
+  ],
+  "manuscript": 68,
+  "source": 2,
+  "neither": [
+   "v",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0034808928
+ },
+ {
+  "pages": [
+   "107v",
+   "108r",
+   "108v",
+   "109r"
+  ],
+  "manuscript": 83,
+  "source": 0,
+  "neither": [
+   "r",
+   "v",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [
+   "108r",
+   "108v"
+  ],
+  "cost": 0.005415512
+ },
+ {
+  "pages": [
+   "123v",
+   "124r",
+   "124v",
+   "125r"
+  ],
+  "manuscript": 53,
+  "source": 4,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0078062028
+ },
+ {
+  "pages": [
+   "125v",
+   "126r",
+   "126v",
+   "127r"
+  ],
+  "manuscript": 72,
+  "source": 2,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0081327048
+ },
+ {
+  "pages": [
+   "119v",
+   "120r",
+   "120v",
+   "121r"
+  ],
+  "manuscript": 67,
+  "source": 3,
+  "neither": [
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003788994
+ },
+ {
+  "pages": [
+   "121v",
+   "122r",
+   "122v",
+   "123r"
+  ],
+  "manuscript": 55,
+  "source": 2,
+  "neither": [
+   "goe"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0033653268
+ },
+ {
+  "pages": [
+   "131v",
+   "132r",
+   "132v",
+   "133r"
+  ],
+  "manuscript": 61,
+  "source": 2,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0073820868
+ },
+ {
+  "pages": [
+   "127v",
+   "128r",
+   "128v",
+   "129r"
+  ],
+  "manuscript": 53,
+  "source": 1,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003103452
+ },
+ {
+  "pages": [
+   "133v",
+   "134r",
+   "134v",
+   "135r"
+  ],
+  "manuscript": 84,
+  "source": 3,
+  "neither": [
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0033294228
+ },
+ {
+  "pages": [
+   "135v",
+   "136r",
+   "136v",
+   "137r"
+  ],
+  "manuscript": 52,
+  "source": 3,
+  "neither": [
+   "throat"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0028043268
+ },
+ {
+  "pages": [
+   "137v",
+   "138r",
+   "138v",
+   "139r"
+  ],
+  "manuscript": 67,
+  "source": 0,
+  "neither": [
+   "judgment",
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0063116988
+ },
+ {
+  "pages": [
+   "139v",
+   "140r",
+   "140v",
+   "141r"
+  ],
+  "manuscript": 61,
+  "source": 1,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0028256448
+ },
+ {
+  "pages": [
+   "141v",
+   "142r",
+   "142v",
+   "143r"
+  ],
+  "manuscript": 48,
+  "source": 0,
+  "neither": [],
+  "attempts": 2,
+  "missing": [
+   "141v",
+   "142r",
+   "142v",
+   "143r"
+  ],
+  "cost": 0.0
+ },
+ {
+  "pages": [
+   "149v",
+   "150r",
+   "150v",
+   "151r"
+  ],
+  "manuscript": 63,
+  "source": 2,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0083806668
+ },
+ {
+  "pages": [
+   "143v",
+   "144r",
+   "144v",
+   "145r"
+  ],
+  "manuscript": 58,
+  "source": 0,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0029818272
+ },
+ {
+  "pages": [
+   "147v",
+   "148r",
+   "148v",
+   "149r"
+  ],
+  "manuscript": 71,
+  "source": 3,
+  "neither": [
+   "hel"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0029515332
+ },
+ {
+  "pages": [
+   "145v",
+   "146r",
+   "146v",
+   "147r"
+  ],
+  "manuscript": 39,
+  "source": 0,
+  "neither": [
+   "foo",
+   "r",
+   "v",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [
+   "146r",
+   "146v"
+  ],
+  "cost": 0.0029425572
+ },
+ {
+  "pages": [
+   "151v",
+   "152r",
+   "152v",
+   "153r"
+  ],
+  "manuscript": 62,
+  "source": 0,
+  "neither": [
+   "r",
+   "v",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [
+   "152r",
+   "152v"
+  ],
+  "cost": 0.0026775408
+ },
+ {
+  "pages": [
+   "153v",
+   "154r",
+   "154v",
+   "155r"
+  ],
+  "manuscript": 71,
+  "source": 0,
+  "neither": [
+   "dying",
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.002226048
+ },
+ {
+  "pages": [
+   "155v",
+   "156r",
+   "156v",
+   "157r"
+  ],
+  "manuscript": 37,
+  "source": 1,
+  "neither": [
+   "fromlov",
+   "fromoh",
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0057204048
+ },
+ {
+  "pages": [
+   "157v",
+   "158r",
+   "158v",
+   "159r"
+  ],
+  "manuscript": 56,
+  "source": 2,
+  "neither": [
+   "r",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [
+   "158r",
+   "158v"
+  ],
+  "cost": 0.002910468
+ },
+ {
+  "pages": [
+   "129v",
+   "130r",
+   "130v",
+   "131r"
+  ],
+  "manuscript": 57,
+  "source": 1,
+  "neither": [
+   "goe",
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.002074736
+ },
+ {
+  "pages": [
+   "161v",
+   "162r",
+   "162v",
+   "163r"
+  ],
+  "manuscript": 65,
+  "source": 1,
+  "neither": [
+   "merciful",
+   "r",
+   "thirtysecon",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0029468208
+ },
+ {
+  "pages": [
+   "163v",
+   "164r",
+   "164v",
+   "165r"
+  ],
+  "manuscript": 74,
+  "source": 1,
+  "neither": [
+   "arisean",
+   "r",
+   "sonin"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003443418
+ },
+ {
+  "pages": [
+   "165v",
+   "166r",
+   "166v",
+   "167r"
+  ],
+  "manuscript": 70,
+  "source": 1,
+  "neither": [
+   "r",
+   "vv"
+  ],
+  "attempts": 2,
+  "missing": [
+   "166r"
+  ],
+  "cost": 0.00292281
+ },
+ {
+  "pages": [
+   "167v",
+   "168r",
+   "168v",
+   "169r"
+  ],
+  "manuscript": 52,
+  "source": 3,
+  "neither": [
+   "answ",
+   "belong",
+   "management",
+   "wrot"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003469224
+ },
+ {
+  "pages": [
+   "171v",
+   "172r",
+   "172v",
+   "173r"
+  ],
+  "manuscript": 76,
+  "source": 2,
+  "neither": [
+   "rv",
+   "v",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0027796428
+ },
+ {
+  "pages": [
+   "173v",
+   "174r",
+   "174v",
+   "175r"
+  ],
+  "manuscript": 50,
+  "source": 2,
+  "neither": [
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [
+   "174r",
+   "174v"
+  ],
+  "cost": 0.0026943708
+ },
+ {
+  "pages": [
+   "177v",
+   "178r",
+   "178v",
+   "179r"
+  ],
+  "manuscript": 49,
+  "source": 0,
+  "neither": [
+   "r",
+   "thirtyfirst",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [
+   "177v"
+  ],
+  "cost": 0.003150576
+ },
+ {
+  "pages": [
+   "175v",
+   "176r",
+   "176v",
+   "177r"
+  ],
+  "manuscript": 53,
+  "source": 0,
+  "neither": [
+   "fear",
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0029950668
+ },
+ {
+  "pages": [
+   "181v",
+   "182r",
+   "182v",
+   "183r"
+  ],
+  "manuscript": 77,
+  "source": 2,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0073585248
+ },
+ {
+  "pages": [
+   "179v",
+   "180r",
+   "180v",
+   "181r"
+  ],
+  "manuscript": 85,
+  "source": 2,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0074763348
+ },
+ {
+  "pages": [
+   "169v",
+   "170r",
+   "170v",
+   "171r"
+  ],
+  "manuscript": 74,
+  "source": 0,
+  "neither": [
+   "belong",
+   "r",
+   "twentysecon",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0083537388
+ },
+ {
+  "pages": [
+   "185v",
+   "186r",
+   "186v",
+   "187r"
+  ],
+  "manuscript": 67,
+  "source": 0,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0031893972
+ },
+ {
+  "pages": [
+   "183v",
+   "184r",
+   "184v",
+   "185r"
+  ],
+  "manuscript": 66,
+  "source": 1,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.008382
+ },
+ {
+  "pages": [
+   "187v",
+   "188r",
+   "188v",
+   "189r"
+  ],
+  "manuscript": 87,
+  "source": 1,
+  "neither": [
+   "r",
+   "thirtythir"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0033395208
+ },
+ {
+  "pages": [
+   "189v",
+   "190r",
+   "190v",
+   "191r"
+  ],
+  "manuscript": 88,
+  "source": 3,
+  "neither": [
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003364878
+ },
+ {
+  "pages": [
+   "159v",
+   "160r",
+   "160v",
+   "161r"
+  ],
+  "manuscript": 80,
+  "source": 0,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.001649084
+ },
+ {
+  "pages": [
+   "193v",
+   "194r",
+   "194v",
+   "195r"
+  ],
+  "manuscript": 75,
+  "source": 1,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.002963202
+ },
+ {
+  "pages": [
+   "191v",
+   "192r",
+   "192v",
+   "193r"
+  ],
+  "manuscript": 83,
+  "source": 2,
+  "neither": [
+   "r",
+   "v",
+   "whoev"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003554496
+ },
+ {
+  "pages": [
+   "199v",
+   "200r",
+   "200v",
+   "201r"
+  ],
+  "manuscript": 49,
+  "source": 1,
+  "neither": [
+   "tol",
+   "v",
+   "vr",
+   "whoev",
+   "wish"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0024643608
+ },
+ {
+  "pages": [
+   "197v",
+   "198r",
+   "198v",
+   "199r"
+  ],
+  "manuscript": 71,
+  "source": 0,
+  "neither": [
+   "r",
+   "twentyfirst",
+   "v",
+   "whoev"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.00286671
+ },
+ {
+  "pages": [
+   "195v",
+   "196r",
+   "196v",
+   "197r"
+  ],
+  "manuscript": 62,
+  "source": 1,
+  "neither": [
+   "r",
+   "v",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.00294525
+ },
+ {
+  "pages": [
+   "203v",
+   "204r",
+   "204v",
+   "205r"
+  ],
+  "manuscript": 50,
+  "source": 2,
+  "neither": [
+   "belong",
+   "cast",
+   "forgiven",
+   "r",
+   "spok",
+   "v",
+   "whatev"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0028505532
+ },
+ {
+  "pages": [
+   "205v",
+   "206r",
+   "206v",
+   "207r"
+  ],
+  "manuscript": 42,
+  "source": 1,
+  "neither": [
+   "r",
+   "vr"
+  ],
+  "attempts": 2,
+  "missing": [
+   "206r",
+   "206v"
+  ],
+  "cost": 0.002424642
+ },
+ {
+  "pages": [
+   "207v",
+   "208r",
+   "208v",
+   "209r"
+  ],
+  "manuscript": 68,
+  "source": 2,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003061938
+ },
+ {
+  "pages": [
+   "211v",
+   "212r",
+   "212v",
+   "213r"
+  ],
+  "manuscript": 62,
+  "source": 0,
+  "neither": [
+   "nur",
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.002927298
+ },
+ {
+  "pages": [
+   "215v",
+   "014r",
+   "014v",
+   "011r"
+  ],
+  "manuscript": 72,
+  "source": 2,
+  "neither": [],
+  "attempts": 1,
+  "missing": [],
+  "cost": 0.0064788768
+ },
+ {
+  "pages": [
+   "209v",
+   "210r",
+   "210v",
+   "211r"
+  ],
+  "manuscript": 69,
+  "source": 0,
+  "neither": [
+   "r",
+   "rr",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [
+   "210v"
+  ],
+  "cost": 0.002755632
+ },
+ {
+  "pages": [
+   "213v",
+   "214r",
+   "214v",
+   "215r"
+  ],
+  "manuscript": 67,
+  "source": 0,
+  "neither": [
+   "r",
+   "thirtythir",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003165162
+ },
+ {
+  "pages": [
+   "010v",
+   "013r",
+   "013v",
+   "218r"
+  ],
+  "manuscript": 69,
+  "source": 1,
+  "neither": [
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.002808366
+ },
+ {
+  "pages": [
+   "011v",
+   "012r",
+   "012v",
+   "010r"
+  ],
+  "manuscript": 64,
+  "source": 0,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.00295647
+ },
+ {
+  "pages": [
+   "218v",
+   "217r",
+   "217v",
+   "216r"
+  ],
+  "manuscript": 65,
+  "source": 3,
+  "neither": [
+   "gon",
+   "seiz",
+   "struck"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003341316
+ },
+ {
+  "pages": [
+   "224v"
+  ],
+  "manuscript": 30,
+  "source": 0,
+  "neither": [
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.0011531916
+ },
+ {
+  "pages": [
+   "216v",
+   "219r",
+   "219v",
+   "220r"
+  ],
+  "manuscript": 69,
+  "source": 3,
+  "neither": [
+   "r",
+   "shon",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003653232
+ },
+ {
+  "pages": [
+   "220v",
+   "221r",
+   "221v",
+   "223r"
+  ],
+  "manuscript": 73,
+  "source": 0,
+  "neither": [
+   "r",
+   "v"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003195456
+ },
+ {
+  "pages": [
+   "223v",
+   "222r",
+   "222v",
+   "224r"
+  ],
+  "manuscript": 90,
+  "source": 2,
+  "neither": [
+   "ninetynin"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.003952806
+ },
+ {
+  "pages": [
+   "201v",
+   "202r",
+   "202v",
+   "203r"
+  ],
+  "manuscript": 74,
+  "source": 2,
+  "neither": [
+   "lack",
+   "r"
+  ],
+  "attempts": 2,
+  "missing": [],
+  "cost": 0.001846516
+ }
+]

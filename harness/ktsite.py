@@ -402,6 +402,17 @@ def strip_html(rows, sg, n=54):
 
 def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
     tier_line = "   ".join(f"{t} {tiers.get(t, 0):,}" for t in ("A", "B", "C", "D", "G"))
+    # the page count is read off the print PDF on the shelf, never typed
+    pages_note = ""
+    try:
+        import subprocess
+        info = subprocess.run(["pdfinfo", "/opt/publish-app/data/u1/books/20260921-052535-r0hc/print.pdf"],
+                              capture_output=True, text=True).stdout
+        m = re.search(r"Pages:\s+(\d+)", info)
+        if m:
+            pages_note = f" · {m.group(1)} pages"
+    except Exception:
+        pass
     shot = ""
     if pl:
         x = pl[min(2, len(pl) - 1)]
@@ -413,10 +424,10 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
 <h1>What this is</h1>
 <div class="hero">
   <div class="blurb">{paras("intro")}
-    <div class="acts"><a class="go" href="/rohonc/read.html">Read it here</a>
+    <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
       <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a>
       <a href="/rohonc/book/the-rohonc-codex-print.pdf">Print PDF</a></div>
-    <p class="sz">All {nfolio} folios · 633 pages · the retelling and the evidence in one volume.</p>
+    <p class="sz">All {nfolio} folios{pages_note} · the translation and the evidence in one volume.</p>
   </div>
   <figure class="bk"><img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the printed edition" width="576" height="900"></figure>
 </div>
@@ -739,6 +750,49 @@ def page_method():
 
 
 def page_read():
+    """No second reader. The book opens in the OONA reader at /read/rohonc.php,
+    the same one the Free Library uses, with its own notes, contents and type
+    controls. This page is the door to it."""
+    body = ("<h1>Read it here</h1>"
+            + paras("read_lead", "lead")
+            + '<p class="acts"><a class="go" href="/read/rohonc.php">Open the book</a> '
+              '<a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a> '
+              '<a href="/rohonc/book/the-rohonc-codex-print.pdf">Print PDF</a></p>'
+            + '<figure class="shot"><a href="/read/rohonc.php">'
+              '<img src="/rohonc/img/book3d.png" alt="The Rohonc Codex" width="576" height="900" '
+              'style="width:auto;max-height:520px;margin:0 auto;border:0;background:none"></a></figure>')
+    return shell("read", "Read it here",
+                 "The whole Rohonc Codex edition in the OONA reader: the translation and all 441 folios with their marked lines.",
+                 body)
+
+
+def page_method():
+    sl = items("method_steps")
+    ml = items("method_mistakes_list")
+    body = f"""
+<h1>The method</h1>
+{paras("method_intro", "lead")}
+
+<h2>The loop, one sign at a time</h2>
+{paras("method_loop")}
+<ol class="steps">{sl}</ol>
+
+<h2>The bar goes up before the run</h2>
+{paras("method_bars")}
+
+<h2>What cost the most time</h2>
+{paras("method_mistakes")}
+<ul class="steps">{ml}</ul>
+
+<h2>The programs, and the orders</h2>
+<p>The programs are listed at <a href="/rohonc/code.html">The programs</a>, as plain text. The file the next person actually works from is the standing orders, which keep the arithmetic of how much is still unread; it is written for an operator rather than a reader, so it is described under <a href="/rohonc/sources.html">Sources</a> and sent on request rather than published.</p>
+"""
+    return shell("method", "The method",
+                 "How an unread sign is read and checked, the rule that the bar is declared before the run, and the mistakes that cost the most time.",
+                 body)
+
+
+def page_read():
     body = """
 <h1>Read it here</h1>
 """ + paras("read_lead", "lead") + """
@@ -778,7 +832,7 @@ def page_read():
 </script>
 """
     return shell("read", "Read it here",
-                 "The whole Rohonc Codex edition in the browser: the retelling and all 441 folios with their marked lines.",
+                 "The whole Rohonc Codex edition in the OONA reader: the translation and all 441 folios with their marked lines.",
                  body)
 
 

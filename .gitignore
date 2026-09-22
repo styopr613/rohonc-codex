@@ -4,3 +4,4 @@ data/
 work/scitext/
 __pycache__/
 *.pyc
+work/rohonc/source_index.pkl

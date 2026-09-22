@@ -1,0 +1,104 @@
+[
+ {
+  "pages": [
+   "004v",
+   "004r",
+   "002r",
+   "002v",
+   "003r",
+   "003v",
+   "001r"
+  ],
+  "attempt": 1,
+  "worst": 13.33,
+  "leaks": [
+   "act",
+   "goe",
+   "knew",
+   "left",
+   "saw",
+   "stol",
+   "understoo",
+   "way",
+   "went"
+  ]
+ },
+ {
+  "pages": [
+   "004v",
+   "004r",
+   "002r",
+   "002v",
+   "003r",
+   "003v",
+   "001r"
+  ],
+  "attempt": 2,
+  "worst": 13.33,
+  "leaks": [
+   "act",
+   "goe",
+   "knew",
+   "left",
+   "saw",
+   "stol",
+   "understoo",
+   "way",
+   "went"
+  ],
+  "refused": true
+ },
+ {
+  "pages": [
+   "001v",
+   "007r",
+   "007v",
+   "006r",
+   "006v"
+  ],
+  "attempt": 1,
+  "worst": 26.32,
+  "leaks": [
+   "exorcy",
+   "foun",
+   "gav",
+   "goe",
+   "going",
+   "high",
+   "old",
+   "saw",
+   "sent",
+   "sli",
+   "thing",
+   "tol",
+   "went"
+  ]
+ },
+ {
+  "pages": [
+   "001v",
+   "007r",
+   "007v",
+   "006r",
+   "006v"
+  ],
+  "attempt": 2,
+  "worst": 26.32,
+  "leaks": [
+   "exorcy",
+   "foun",
+   "gav",
+   "goe",
+   "going",
+   "high",
+   "old",
+   "saw",
+   "sent",
+   "sli",
+   "thing",
+   "tol",
+   "went"
+  ],
+  "refused": true
+ }
+]

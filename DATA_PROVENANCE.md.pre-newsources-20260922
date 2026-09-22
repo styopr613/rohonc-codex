@@ -80,27 +80,6 @@ educational use, do not pass on. Analysed locally and not redistributed, which
 is within that. The high-resolution colour version on the same page is
 restricted to repository staff and was not obtained.
 
-## 5. Two sources added for the reading edition, 2026-09-22
-
-The reading edition (`harness/ktreading.py`) is shown the passages each folio
-is working from, so the corpus had to cover what the compiler was working from.
-Two gaps were filled.
-
-**`charles_pseudepigrapha.txt` and `adam_and_eve.txt`.** R. H. Charles, *The
-Apocrypha and Pseudepigrapha of the Old Testament in English*, vol. 2 (Oxford,
-1913), from the Internet Archive scan `apocryphapseudep02charuoft`. Published
-1913 and out of copyright. The *Vita Adae et Evae* in it is the source of the
-codex's whole opening -- Satan refusing to worship Adam, Michael, Seth at the
-gates of Paradise for the oil of mercy -- and nothing in the corpus had covered
-it. Only the Books of Adam and Eve are indexed: four fifths of that volume is
-critical apparatus whose dense rare vocabulary outscored every real parallel.
-
-**`josephus_wars.txt`.** Flavius Josephus, *The Wars of the Jews*, tr. William
-Whiston, Project Gutenberg ebook 2850. Public domain. The codex tells the siege
-of Jerusalem, Vespasian and Titus, and the mother who eats her child.
-
-Both were fetched once, at one request, with the project's user agent.
-
 ## Citations owed in any write-up
 
 - Levente Zoltán Király and Gábor Tokai, "Cracking the code of the Rohonc

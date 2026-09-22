@@ -1,44 +1,44 @@
 {
- "tagline": "Extending Király and Tokai's dictionary of the Rohonc Codex",
- "intro": "The Rohonc Codex is a small paper book of the sixteenth century. It is kept at the Library of the Hungarian Academy of Sciences in Budapest. It is written in a script that occurs in no other document. The script runs right to left and uses several hundred signs.\n\nLevente Zoltán Király and Gábor Tokai established what the book contains. They published a dictionary of 841 signs and the grammar. The book contains the apocryphal Life of Adam and Eve running into the legend of the Rood. It contains the story of Joachim and Anne. It contains a Passion the codex itself says it takes from Matthew and John. It contains sermons and parables for the gospels of the year. It contains the Finding of the Cross. It contains the Acts of the Apostles. At the end are a few pages of one man's diary. The frame is a revelation. An angel of God speaks and the prophet Elijah is the one addressed.\n\nThis project started from Király and Tokai's dictionary. It tested their dictionary and extended it. It read signs their dictionary leaves undefined. It checked every reading at every place the sign stands in the book. It rendered the whole manuscript into English. Every word is marked by how well it is known.",
- "how_far": "The manuscript contains 29,997 words. This project reads 93.4 percent of them. 3.2 percent are read from one passage only. 3.3 percent are restored in brackets. 0.2 percent are dark. 81.6 percent of lines have every word read. Lines are complete once brackets are counted 98.9 percent of the time.",
- "tiers": "The dictionary of added readings has 1,787 entries. They are graded by how well they are known. Tier A readings survive every place the sign stands in the book. Tier B readings survive most places. Tier C and D readings are read from one passage with nothing inside the book able to refuse them. Tier G is a guess printed in brackets and counted as read nowhere. Withdrawn readings stay in the file with the reason they went.",
+ "tagline": "Extending and testing the Király and Tokai dictionary",
+ "intro": "The Rohonc Codex is a small paper book of the sixteenth century. It is kept at the Library of the Hungarian Academy of Sciences in Budapest. The book is written in a script that occurs in no other document.\n\nLevente Zoltán Király and Gábor Tokai established what the book contains. They published a dictionary of 841 signs and the grammar. The book contains the apocryphal Life of Adam and Eve running into the legend of the Rood, the story of Joachim and Anne, a Passion the codex itself says it takes from Matthew and John, sermons and parables for the gospels of the year, the Finding of the Cross, the Acts of the Apostles, and at the end a few pages of one man's diary. The frame is a revelation where an angel of God speaks and the prophet Elijah is the one addressed.\n\nThis project started from the Király and Tokai dictionary. It tested the dictionary and extended it. The project read signs their dictionary leaves undefined. It checked every reading at every place the sign stands in the book. It rendered the whole manuscript into English with every word marked by how well it is known.",
+ "how_far": "The manuscript contains 29997 words. The project reads 93.4% of them. 3.2% of all words are read from one passage only. 3.3% are restored in brackets. 0.2% are dark. 81.6% of lines have every word read. Lines are 98.9% complete once brackets are counted.",
+ "tiers": "The dictionary of added readings has 1787 entries. They are graded by how well they are known. Tier A readings survive every place the sign stands in the book, or are proved by an identical formula or a numeral. Tier B readings survive most places, with the rest unclear rather than against. Tiers C and D are read from one passage with nothing inside the book able to refuse them. Tier G is a guess, printed in brackets, and counted as read nowhere. 21 withdrawn readings stay in the file with the reason they went.",
  "new_here_lead": "The following paragraph states what is new here and what is not.",
- "is_it_true": "The project designed tests to break its own readings. Two outside reviewers were shown the write-up and asked what tests they would require. Those were run as specified. The summary table shows the results.",
- "card_reading": "Read the book folio by folio in English.",
- "card_dictionary": "Search the dictionary of added readings.",
- "card_tests": "See every test with its declared bar and result.",
- "card_method": "Follow the loop that reads one unread sign.",
+ "is_it_true": "The project ran tests to check its own readings. Every test's bar was declared before it ran. Failures are recorded beside passes. The summary table shows the results.",
+ "card_reading": "Read the manuscript folio by folio.",
+ "card_dictionary": "Browse the dictionary of added readings.",
+ "card_tests": "See the tests and their results.",
+ "card_method": "Read the method, the loop that reads one unread sign.",
  "card_writeup": "Read the full account of the project.",
- "card_data": "Download the data files the site is built from.",
- "edition": "The whole manuscript is set as a book in two parts. One part is a continuous retelling by episode. The other part presents all 441 folios with their marked lines.",
- "credit": "The manuscript is out of copyright. Király and Tokai's dictionary, transcription and page images are theirs. They are credited on every page and linked. The readings, tests, English and editorial matter are this project's own. Every figure on the site is read out of a saved run.",
- "reading_lead": "This page presents one paragraph of English for each folio. All 441 folios are shown in Király and Tokai's page order. Restorations are in brackets. The full per-word marks are in the edition and the rendering.",
- "dictionary_lead": "This dictionary lists the readings this project added to Király and Tokai's work. Their own 841 entries are not reproduced here. The signs are written as glyph codes. Each glyph is three hexadecimal digits. The drawn signs are on their site.\n\nThe dictionary is searchable by reading or sign. It can be filtered by tier. Each entry shows the evidence line. The evidence line lists the folios and lines where the sign stands.",
- "data_lead": "This page provides every file the site is built from. The files include the dictionary and folio English as JSON. They include the rendering and the reader's edition. They include every saved run and the outside readers' replies.",
- "outside_lead": "Two outside reviewers were shown the write-up and asked what tests they would require. The following specification is quoted from one reviewer.",
+ "card_data": "Download the data files.",
+ "edition": "The book edition is in two parts. Book One is a reading edition. It is an interpretation, not a word-for-word rendering. Book Two is the gloss itself, all 441 folios line for line with every mark. Where the two disagree, Book Two is right.",
+ "credit": "The manuscript is out of copyright. Király and Tokai's dictionary, transcription and page images are theirs. The readings, tests, English and editorial matter are this project's own. Every figure on the site is read out of a saved run.",
+ "reading_lead": "This page presents one paragraph of English for each of the 441 folios. Restorations are in brackets. The full per-word marks are in the edition.",
+ "dictionary_lead": "This dictionary contains the readings this project added to the work of Király and Tokai. Their own 841 entries are not reproduced here. The signs are written as glyph codes, three hexadecimal digits per glyph. The drawn signs are on their site.\n\nThe dictionary includes 1787 added readings. It is searchable by reading or sign and filterable by tier. Each entry shows the evidence line. Tier A readings survive every check. Tier B readings survive most. Tiers C and D are from one passage. Tier G is a guess.",
+ "data_lead": "This page provides downloads of the data files the site is built from. The files include the dictionary, the folio English as JSON, the rendering, the reader's edition, every saved test run, and the outside readers' replies.",
+ "outside_lead": "Two outside reviewers were shown the write-up and asked what tests they would require. The following specification is from one of them, quoted whole.",
  "card_script": "Learn about the script itself.",
- "script_intro": "The writing runs right to left. The codex dates itself 1593. It is logographic. A sign stands for a word or a whole phrase, not a sound. Király and Tokai established this. Several hundred signs are in use.\n\nWhere the signs came from is not settled. This project does not claim to know. The script occurs in no other document. What can be said is structural. A logographic script is not tied to any one language. A sign meaning Lord can be voiced in whatever the reader speaks. That is an argument from the structure of the script. It is not a tested result.",
- "script_signs": "The following shuffler shows one sign's reading at a time.",
- "script_numerals": "Numerals are strokes that add. A ten written after a group multiplies that group by ten. This was checked four times. Ten-ten-ten-ten is forty at the forty days and forty nights. Two-two-ten is also forty at the forty days of rain. Six-two is eight at the circumcision on the eighth day. Six-six is twelve at the twelve apostles.",
- "script_phrases": "Phrases are written without a space. The example Király and Tokai print is you-Mary. That is a single sign made of their sign for the second person pronoun joined to their sign for Mary.",
+ "script_intro": "The script is logographic. A sign stands for a word or a whole phrase, not a sound. Király and Tokai established this. Several hundred signs are in use. The writing runs right to left.\n\nWhere the signs came from is not settled. This project does not claim to know. The script occurs in no other document. A logographic script is not tied to any one language. That is an argument from the structure of the script, not a tested result.",
+ "script_signs": "The shuffler below shows one sign at a time. It displays the sign's code and the reading this project gives it.",
+ "script_numerals": "Numerals are strokes that add. A 'ten' written after a group multiplies that group by ten. This was checked four times. Ten-ten-ten-ten is forty. Two-two-ten is also forty. Six-two is eight. Six-six is twelve.",
+ "script_phrases": "Phrases are written without a space. The example Király and Tokai print is 'you-Mary', a single sign made of their sign for the second person pronoun joined to their sign for Mary.",
  "script_shuffle_lead": "Click to see another sign.",
- "script_marks": "The marks in the rendering have these meanings. A plain word is read. A word with an asterisk was read from one passage with nothing in the book able to refuse it. A word in brackets is a restoration and is counted as read nowhere. A hyphen inside a word means one sign read as the smaller signs it is built from. A tilde marks a spelling their own apparatus files as a variant.",
- "script_plates": "Twenty-six folios carry pictures. There are forty-nine pictures in all. The plates in this edition were redrawn. They are new drawings made by an image model from the library's low-resolution scan. No print-quality scan is available. They follow the scribe's composition.",
- "method_intro": "The method solves the problem of reading one unread sign. It starts from Király and Tokai's dictionary. The only outside evidence is the source passage their notes cite for most folios.\n\nThe method is checkable. It writes the evidence line for every reading into a file. Anyone can repeat the check or overturn it. The bar for every test is written into the test's own file before it runs. A near miss is a miss.",
+ "script_marks": "The marks in the rendering have specific meanings. A plain word is read. A word with * was read from one passage. A word in [brackets] is a restoration. A hyphen inside a word means one sign read as smaller signs. A ~ marks a spelling variant.",
+ "script_plates": "Twenty-six folios carry pictures. The plates in this edition were redrawn by an image model from the library's low-resolution scan. They are new drawings that follow the scribe's composition.",
+ "method_intro": "The method solves the problem of reading an undefined sign. It starts from the only outside evidence there is, the source passage Király and Tokai cite for a folio. The method is checkable because every guess is tested at every other occurrence in the book.\n\nA reading that fits where it was found and fails elsewhere is thrown away. The bar for every test is written into the test's own file before it runs. A near miss is a miss. Failed attempts are kept and written up.",
  "method_loop": "The loop that reads one unread sign has six numbered steps.",
- "method_bars": "The bar for every test is written into the test's own file before it runs. It is never moved afterwards. A near miss is a miss. Failed attempts are kept. They are written up with the number they failed by.",
- "method_mistakes": "The following mistakes cost the most time.",
+ "method_bars": "The bar for every test is declared in the test's own first lines before it runs. It is never moved afterwards. Failed attempts are kept and written up with the number they failed by.",
+ "method_mistakes": "The following mistakes cost the most time. They are named plainly.",
  "method_code": "The programs themselves are linked below.",
- "tests_intro": "The tests check the project's own readings. They were designed to break those readings. The bar for each test is declared first. It is written into the test's own file before the test runs.\n\nTwo outside reviewers were shown the write-up. They were asked what tests they would require. Those tests were run as specified.",
- "tests_after": "The passes and failures add up to a picture of what the method can and cannot do.",
- "sources_intro": "The site uses several sources. Each source is the work of its named author or institution. The following sentences say what each citation is to this project.\n\nKirály and Tokai put their transcription online so their claims could be checked. Their own translation of the codex is unpublished. Nothing on this site is it.",
- "docs_lead": "The project's own working documents are described here. They are working files written for whoever runs the project next. They are kept accurate rather than tidy. Anyone who wants one can ask for it.",
- "read_lead": "This page reads the book in the browser. It presents the whole manuscript page by page. The same book can be taken away as an EPUB or a print PDF.",
- "strip_note": "The strip shows one sign at a time. The script runs right to left.",
+ "tests_intro": "The tests check the project's own readings. They were designed to break the readings. The bar for each test was declared first, before the test ran.\n\nNine tests were designed by the project. Then two outside reviewers were shown the write-up and asked what tests they would require. Those were run as specified.",
+ "tests_after": "The passes and failures add up to a checked result. Two things are worth saying plainly.",
+ "sources_intro": "This page states where every file came from. It credits the work of others. It also states what may be done with each source.\n\nThe manuscript is out of copyright. Király and Tokai's dictionary, transcription and page images are theirs. The readings, tests, English and editorial matter are this project's own.",
+ "docs_lead": "The project's working documents are described here. They are working files written for whoever runs the project next. They are kept accurate rather than tidy. Anyone who wants one can ask for it.",
+ "read_lead": "This page reads the book in the browser. The same book can be taken away as an EPUB or a print PDF.",
+ "strip_note": "The strip shows signs from the manuscript. The script runs right to left.",
  "tests_note": "Two things are worth saying plainly. The passage map can be recovered from Király and Tokai's words alone. It does not depend on anything this project read. The two instruments an outside reviewer specified for the search itself gave no verdict either way. They do not model the search as it was run.",
- "code_lead": "The programs run on the published data. Each test states its bar in its own first lines. The repository itself is not public.",
- "sources_not_here": "Király and Tokai's dictionary is not on this site. Their transcription is not on this site. Their page records are not on this site. The library scans are not on this site. The one thing of theirs used is the shape of the signs. The shapes are drawn from the outlines in their font. The font file itself is never served. The shapes are the sixteenth-century scribe's.",
+ "code_lead": "This page lists the programs. They run on the published data. Each test states its bar in its own first lines. The repository itself is not public.",
+ "sources_not_here": "Király and Tokai's dictionary, transcription, page records and the library scans are not on this site. The one thing of theirs used is the shape of the signs. It is drawn from the outlines in their font. The font file itself is never served. The shapes are the sixteenth-century scribe's.",
  "method_steps": [
   {
    "t": "Take the citation",
@@ -46,7 +46,7 @@
   },
   {
    "t": "Look at every line",
-   "d": "Look at every line where the unread sign stands. Do not look only at the one line in hand."
+   "d": "Look at every line where the unread sign stands, not just the one in hand."
   },
   {
    "t": "Guess from the passage",
@@ -54,25 +54,25 @@
   },
   {
    "t": "Check the guess everywhere",
-   "d": "Check the guess at every other occurrence in the book. A reading that fits where it was found and fails elsewhere is thrown away. It is not softened."
+   "d": "Check the guess at every other occurrence in the book. A reading that fits where it was found and fails elsewhere is thrown away."
   },
   {
    "t": "Grade it",
-   "d": "Grade the reading. Tier A fits everywhere checked. Tier B fits most. Tier C or D was read from one passage with nothing able to refuse it. Tier G is a guess in brackets."
+   "d": "Grade the reading. Tier A fits everywhere checked. Tier B fits most. Tier C or D was read from one passage. Tier G is a guess in brackets."
   },
   {
-   "t": "Write the evidence line",
-   "d": "Write the evidence line into the proposals file. The line includes the folios and lines. Anyone can repeat the check or overturn it."
+   "t": "Write the evidence",
+   "d": "Write the evidence line into the proposals file with the folios and lines. This allows anyone to repeat the check or overturn it."
   }
  ],
  "method_mistakes_list": [
   {
    "t": "Treating a sign as an atom",
-   "d": "Eleven attempts assumed one sign meant one word with a meaning to guess. Many signs are short phrases written without a space. Both halves were already in the dictionary. That was the whole game."
+   "d": "Eleven attempts assumed one sign meant one word. Many signs are short phrases written without a space. Both halves were already in the dictionary."
   },
   {
    "t": "Inheritance versus composition",
-   "d": "Asking whether Holy Word inherits meaning from Word gave a true negative that looked like a dead end. The right question was whether signs combine."
+   "d": "Asking whether a phrase inherits meaning gave a true negative that looked like a dead end. The right question was whether signs combine."
   },
   {
    "t": "A unit error",
@@ -80,30 +80,33 @@
   },
   {
    "t": "Homograph collision",
-   "d": "Keying a scraped dictionary by code and keeping the last entry made the book's commonest word read eleven when it is and. Sixty-five codes had to be merged."
+   "d": "Keying a scraped dictionary by code and keeping the last entry made the book's commonest word read 'eleven' when it is 'and'. Sixty-five codes had to be merged."
   },
   {
    "t": "Blaming the corpus",
-   "d": "A failed aligner was predicted to be failing because it used only the four gospels. 1.75 million words of the wider sources were fetched and it scored no better. Test the cheap version of a corpus hypothesis first."
+   "d": "A failed aligner was predicted to be failing because it used only the four gospels. A wider corpus was fetched and it scored no better. Test the cheap version of a corpus hypothesis first."
   },
   {
    "t": "Reading only the headword",
-   "d": "Király and Tokai's entries carry variant spellings in their own apparatus. Keying by headword silently dropped 88 signs. That is 1.2 percent of the book that they had already read."
+   "d": "Király and Tokai's entries carry variant spellings. Keying by headword silently dropped 88 signs that they had already read."
   },
   {
    "t": "Wrong arithmetic",
-   "d": "Three versions of the arithmetic of what is left to read were wrong. One counted a line as reached while an unread word still stood in it. The current figures are measured. The wrong ones are kept on the page beside them."
+   "d": "Three versions of the arithmetic of 'what is left to read' were wrong. One counted a line as reached while an unread word still stood in it. The current figures are measured and the wrong ones are kept on the page."
   }
  ],
+ "reading_what": "The reading edition is an interpretation. It is not a word-for-word rendering. It was made by reading the manuscript against the books it is compiled from.\n\nThis is the front half of the book. The codex is elliptical. A word-for-word rendering of it does not read. The project has one of those already.",
+ "reading_how": "The reading edition was made by putting each folio's gloss beside the passages that folio is working from. The English was written from both. The manuscript leads and the source only says what a phrase means. Every paragraph names the folios it renders.",
+ "reading_limits": "The reading edition is not the evidence. The gloss printed in full at the back is the evidence. Where the two disagree the gloss is right. A reader who wants the evidence should go there.",
  "sources_cites": [
-  "This is the dictionary and the grammar.",
-  "This explains why their site exists so their claims about the text can be checked.",
-  "This is the idea the orientation test and the main measurement both rest on.",
-  "This is the standing survey of the manuscript and of everyone who has attacked it.",
-  "This was published openly. The site is gone and permission cannot be asked.",
-  "These are free for academic use and not to be passed on. They were used locally. The plates are redrawings made from them rather than the scans themselves."
+  "The dictionary and the grammar are from Király and Tokai's 2018 paper.",
+  "The explanation of why their site exists is from Király's 2022 paper.",
+  "The idea the orientation test rests on is from Ottó Gyürk.",
+  "The standing survey of the manuscript is from Benedek Láng's book.",
+  "The open transcription is from its anonymous 2014 author.",
+  "The page scans are from the Library of the Hungarian Academy of Sciences."
  ],
- "credit_line": "This rests on Király and Tokai's dictionary; their translation is unpublished; the readings here are this project's own.",
+ "credit_line": "This rests on the Király and Tokai dictionary; their translation is unpublished; the readings here are this project's own.",
  "_by": "deepseek/deepseek-v3.2",
- "_sheet_words": 2359
+ "_sheet_words": 2809
 }

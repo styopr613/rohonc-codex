@@ -35,7 +35,8 @@ KEYS = ["tagline", "intro", "how_far", "tiers", "new_here_lead", "is_it_true",
         "script_plates", "method_intro", "method_loop", "method_bars", "method_mistakes",
         "method_code", "tests_intro", "tests_after", "sources_intro", "docs_lead",
         "read_lead", "strip_note", "tests_note", "code_lead", "sources_not_here",
-        "method_steps", "method_mistakes_list", "sources_cites"]
+        "method_steps", "method_mistakes_list", "sources_cites", "reading_what",
+        "reading_how", "reading_limits"]
 
 
 def fact_sheet():
@@ -78,9 +79,15 @@ WHAT THIS PROJECT DID
   and both halves were already in the dictionary. Cutting them apart, confirmed
   independently of their glosses at 12.4 and 9.8 sigma against matched controls,
   produced 1,282 readings their published dictionary does not contain.
-- The English for each folio was written from that folio's gloss alone: no
-  source passage, no chapter title, no page image, so that a writer who knows
-  the Bible could not simply recite it.
+- CAREFUL, THERE ARE TWO DIFFERENT LAYERS AND THEIR RULES ARE OPPOSITE.
+  (a) THE LITERAL LAYER, one paragraph per folio: written from that folio's
+  gloss ALONE, with no source passage, no chapter title and no page image, so
+  that a writer who knows the Bible could not simply recite it. It is a check,
+  and it does not read.
+  (b) THE READING EDITION, which is the front half of the book: written from
+  the gloss AND from the passages the folio is working from, on purpose,
+  because that is the only way an elliptical text becomes English. Never
+  describe the reading edition as made from the gloss alone.
 
 FIGURES (these exact numbers may be used; no others. Every percentage is a share of ALL words in the manuscript, not of the words read; restored and dark words are not read.)
 - words in the manuscript {fig['words'][0]}; read {fig['read'][1]}%; read from one
@@ -194,6 +201,32 @@ CITATIONS OWED (quote each exactly as written here)
   use, not to be passed on; used locally, and the plates are redrawings made from
   them rather than the scans themselves.
 
+THE READING EDITION (2026-09-22)
+- The book's front half is a READING EDITION, and it is interpretive on purpose.
+  The codex is elliptical: its script writes whole phrases as single signs, it
+  drops verbs and articles, it repeats formulas, and many leaves are damaged.
+  A word-for-word rendering of it does not read, and the project has one of
+  those already.
+- So each folio was read against the books it is compiled from: the verses it
+  cites, from the Douay Bible the compiler had, and the medieval texts behind
+  it -- the Life of Adam and Eve, the Golden Legend, the apocryphal gospels,
+  Barlaam and Ioasaph, the Roman Missal, the Office of Holy Week, the four
+  English mystery play cycles, Josephus. Those are found for each folio by
+  searching the corpus for the passage that shares its rare vocabulary.
+- The rule throughout: the manuscript leads and the source only ever says what
+  a phrase MEANS. Where the codex departs from the source -- a different name,
+  a different number, an episode the source does not have -- the codex is
+  followed, because those departures are the most interesting thing in it.
+- The English is plain modern English, the same house voice as every other
+  edition on this imprint. No archaic Bible cadence.
+- Every paragraph names the folios it renders. The gloss of all 441 folios is
+  printed in full in the second half of the book, line for line, with every
+  mark. Where the two disagree the gloss is right.
+- Every paragraph was then put back beside its own gloss and checked: does it
+  still say what the manuscript says, does it add a person or an event the
+  manuscript does not have, what does it leave out. The figures from that
+  check are published with the edition.
+
 THE WORKING DOCUMENTS (described on the site, not published)
 - They are working files: written for whoever runs the project next, not for a
   reader. They are kept accurate rather than tidy. Anyone who wants one can ask
@@ -229,8 +262,14 @@ WHAT IS ON THE SITE
   be done with it), and Data (every file the pages are built from: the
   dictionary and folio English as JSON, the rendering, the reader's edition,
   every saved run, the outside readers' replies).
-- The edition: the whole manuscript set as a book in two parts, a continuous
-  retelling by episode and all 441 folios with their marked lines.
+- The edition: the whole manuscript set as a book in two parts. Book One is a
+  TRANSLATION: the gloss of every folio put into English by a language model
+  working from the gloss and a glossary of the script's formulas, then proofed
+  into plain prose by a second pass; every paragraph closes with the folios it
+  renders; a gap is printed as three dots and a restored word keeps its
+  brackets. Book Two is the gloss itself, all 441 folios line for line with
+  every mark, the evidence the translation was made from. Where they disagree,
+  Book Two is right.
 - A read page: that whole book opened in the browser, page by page, with the
   same book downloadable as an EPUB or as the interior print PDF.
 
@@ -293,6 +332,9 @@ code_lead        one paragraph on a page listing the programs, saying they run o
 sources_not_here one paragraph saying what is NOT on the site and why: their dictionary, transcription, page records and the library scans; and that the one thing of theirs used is the shape of the signs, drawn from the outlines in their font, the font file itself never served, the shapes being the sixteenth-century scribe's
 method_steps     a JSON ARRAY of exactly 6 objects {"t": short title, "d": one or two sentences} for the six numbered steps of the loop, in order
 method_mistakes_list  a JSON ARRAY of exactly 7 objects {"t": short title, "d": one or two sentences} for the mistakes that cost the most time, in the order the sheet gives them
+reading_what     2 paragraphs for the first page of the book and for the site, saying what the reading edition is: an interpretation, not a word-for-word rendering, made by reading the manuscript against the books it is compiled from
+reading_how      one paragraph on how the READING EDITION was made, which is layer (b) and NOT layer (a): each folio's gloss was put beside the passages that folio is working from, and the English was written from both; the manuscript leads and the source only says what a phrase means; every paragraph names the folios it renders. Do not say it was made from the gloss alone.
+reading_limits   one paragraph saying plainly what it is not and where a reader should go instead: the gloss printed in full at the back is the evidence, and where the two disagree the gloss is right
 sources_cites    a JSON ARRAY of exactly 6 strings, one sentence each, saying what each of the six citations listed under CITATIONS OWED is to this project, in the same order. Do NOT repeat the citation itself.
 credit_line      one sentence, at most 35 words, for the foot of every page: whose dictionary this rests on, that their translation is unpublished, and that the readings here are this project's own
 
