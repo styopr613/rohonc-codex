@@ -1379,6 +1379,17 @@ def main(argv):
                 if os.path.isfile(fp) and not (sub == "data" and fn == "dictionary.json"):
                     os.remove(fp)
     json.dump(rows, open(os.path.join(out, "data", "dictionary.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    # the two pictures the pages need, from the repository: the glass over the
+    # strip (three times its drawn size, sharp on a retina screen) and the 3-D
+    # mock of the printed book, made by Cover Maker's own snapshot from the wrap
+    from PIL import Image as _Im
+    os.makedirs(os.path.join(out, "img"), exist_ok=True)
+    gg = glass_geom()
+    _g = _Im.open(os.path.join(WORK, "glass.png")).resize((gg["w"] * 3, gg["h"] * 3), _Im.LANCZOS)
+    _g.save(os.path.join(out, "img", "glass.png"), optimize=True)
+    _b3 = os.path.join(WORK, "book3d.png")
+    if os.path.isfile(_b3):
+        _m = _Im.open(_b3); _m.thumbnail((576, 900)); _m.save(os.path.join(out, "img", "book3d.png"))
     files = []
     outside = [("/rohonc/outside-gemini.html", "gemini_tests.md", "Gemini 2.5 Pro's specification", os.path.join(WORK, "outside", "gemini_tests.md")),
                ("/rohonc/outside-grok.html", "grok_tests.md", "Grok 4.7's specification", os.path.join(WORK, "outside", "grok_tests.md"))]

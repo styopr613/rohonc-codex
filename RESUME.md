@@ -1,32 +1,23 @@
 # Where this stopped — 2026-09-22
 
-## TOMORROW: THE COVER BADGE (Cover Maker design 20260921-212932-2sdz)
+## THE COVER BADGE — DONE 2026-09-22 (Cover Maker design 20260921-212932-2sdz)
 
-The cover's "THE FIRST COMPLETE ENGLISH RENDERING" roundel was baked into the
-art, not a badge. Done so far, all in Cover Maker's own data, nothing pushed to
-Book Maker or the site yet:
+The baked "THE FIRST COMPLETE ENGLISH RENDERING" roundel is cloned out of the
+raw art (`gen/20260921-212932-2sdz.png`, backup `.png.pre-badge-20260922`) and
+a real Cover Maker badge stands in its place, in the saved design
+(`.meta.json`, backup `.meta.json.pre-badge-20260922`): shape `seal`, flat,
+#b3261e, white ink, `badge_show` true, placed by `badge_x` 0.185 / `badge_y`
+0.072, size 0.82. Text "FIRST EDITION" in the disc; `badge_text2` "NEVER
+BEFORE READ  •  NEVER SEEN BY HUMAN EYES" splits onto the top and bottom arcs
+(a text2 over 16 characters is rim-split). It clears the title box.
 
-- The roundel is cloned out of the raw art with paper from the same band
-  (`gen/20260921-212932-2sdz.png`; backup `.png.pre-badge-20260922`). A faint
-  disc ghost is visible where the patch is cleaner than the paper around it.
-- A real Cover Maker badge is in the saved design (`.meta.json`; backup
-  `.meta.json.pre-badge-20260922`): shape `label`, flat, red #b3261e, white ink,
-  `badge_show` true (that flag gates drawing), placed by `badge_x` 0.30 /
-  `badge_y` 0.085 where the roundel was, size 0.9, stretch 1.3. Text
-  "FIRST EDITION EVER\nNEVER BEFORE READ" -- the label draws ONE line, so the
-  second is dropped; use `badge_text2` or a seal/ribbon if both lines are wanted.
-  Rendered front: `scratchpad/front_try2.jpg` -- red rounded label, clear of
-  the title. The owner's words for it: first edition ever, never before read,
-  never seen by human eyes; "I'm a popularizer not an academic". It dates
-  itself 1593, so "four centuries", not six hundred years.
-
-Still to do: adjust in the studio if wanted; then Book Maker re-import of the
-composed front (`_render_cover_wrap(uid, gid, dst, mode="front", dpi=300,
-maxpx=2560)` from `/opt/publish-app/web/bookapi.py`, the same call
-`/api/covers/use` makes, writing the shelf's `cover.jpg`); rebuild the book
-(`ktbook.py --shelf ...`, which also publishes the reader's EPUB); the KDP wrap
-is built in the studio; the site's `img/book3d.png` was made by hand and still
-shows the old roundel.
+Carried through: the composed front (300 dpi, 2560px) is the shelf book's
+`cover.jpg` (backup `cover.jpg.pre-seal-20260922`), the EPUB carries the same
+bytes, the reader's copy is republished, the 6x9 wrap renders with the seal on
+the front only, and the site's `img/book3d.png` is regenerated with the
+studio's own `book3d.snapshot` at rx -14 / ry -34 from the composed wrap — the
+master is `work/rohonc/book3d.png` and ktsite copies it. The KDP wrap is
+downloaded from the studio as before; the design opens there as it is now.
 
 ## THE NEXT THING TO DO: THE GITHUB REPOSITORY
 
