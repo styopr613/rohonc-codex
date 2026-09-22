@@ -97,7 +97,11 @@ def run(dry=False):
             cost += c
             done += 1
             # it must still be a paragraph of this book, citing the same folios
-            if new and V.paragraphs.__doc__ and new.rstrip().endswith(")") and len(new) > 40:
+            # one paragraph, and nothing of the brief echoed back with it: the
+            # model once returned its working (the gloss block, the word list, a
+            # note to itself) ahead of the paragraph, and that reached the book
+            if new and "\n\n" not in new.strip() and new.rstrip().endswith(")") \
+                    and len(new) > 40 and "MANUSCRIPT" not in new and "[The " not in new:
                 if parts[r["i"]].strip() != new:
                     parts[r["i"]] = new
                     changed += 1
