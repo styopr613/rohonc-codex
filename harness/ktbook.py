@@ -300,10 +300,8 @@ for how well it is known, and that is what this edition attempts.
 
 **It was made with AI, under an editor.** Four signs in ten had no meaning in
 the dictionary. Anthropic's Claude decoded the remaining signs using Kiraly and
-Tokai's dictionary as a foundation, working as the editor's assistant under
-written standing orders, and every one was checked at every place the sign
-stands in the book before it was kept; the editor decided what stood.
-Different models assembled the gloss and composed the translation. Every
+Tokai's dictionary as a foundation; the editor decided what stood. Different
+models assembled the gloss and composed the translation. Every
 figure in this book comes from a program that can be rerun, and where any of
 this went wrong it is written down with the number it went wrong by.
 
