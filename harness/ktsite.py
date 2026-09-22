@@ -1277,7 +1277,7 @@ def corpus_list():
     if sec:
         for b in re.findall(r"^- (\*\*.*?)(?=^- |\Z)", sec.group(0), re.M | re.S):
             one = " ".join(b.split())
-            m = re.match(r"\*\*(.+?)\*\*\s*[—-]+\s*(.*)", one)
+            m = re.match(r"\*\*(.+?)\*\*\s*(?:[—-]+|,)\s*(.*)", one)
             if not m:
                 continue
             name = re.sub(r"\*", "", m.group(1)).strip()
@@ -1396,7 +1396,7 @@ def main(argv):
     w("outside-grok.html", page_outside("tests", "grok_tests.md", "Outside review: Grok 4.7"))
     w("data.html", page_data([]))
     print(f"wrote {out}: {len(order)} folios ({n_eng} with English), {len(rows)} dictionary rows, "
-          f"{10} pages, {len(runs)} runs, {len(pl)} plates, "
+          f"{10} pages, {len(pl)} plates, "
           f"{len(sg.get('signs', {}))} signs")
     return 0
 
