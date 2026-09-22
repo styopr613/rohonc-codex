@@ -9,7 +9,7 @@ Gábor Tokai published the dictionary and grammar that opened it. This
 repository is an attempt to read the rest of it, and everything needed to
 check that attempt.
 
-**It has not been peer reviewed. It is published so that it can be attacked.**
+**It has not been peer reviewed. It is published so that it can be examined.**
 
 * **[`TESTS.md`](TESTS.md)** — every test, its bar declared before the run, and
   the ones that failed. Start here if you want to know whether to believe any
@@ -58,7 +58,7 @@ Three parts, three licences, set out in full in [`LICENSE`](LICENSE).
 sold, and the text is the thing being sold. Everything you need in order to
 *check* the work — the data and the programs — is under the permissive licences,
 which is the point: the restriction is on reselling the translation, not on
-attacking it.
+examining it.
 
 Király and Tokai's dictionary, grammar and transcription are their published
 work, are not redistributed here, and no licence over them is claimed or
