@@ -19,11 +19,6 @@ import gen  # noqa: E402
 EPUBCHECK = "/opt/publish-app/tools/epubcheck/epubcheck.jar"
 READER_EPUB = Path("/var/www/oona13/read/books/rohonc-codex.epub")
 DOWNLOAD_EPUB = Path("/var/www/oona13/rohonc/book/the-rohonc-codex.epub")
-# THE REPOSITORY CARRIES THE BOOK TOO, and nothing wrote it. It was published once by
-# hand and then sat at whatever build that was while the site and the reader moved on:
-# on 2026-09-22 it was five formatting fixes behind the two live copies, and the only
-# way to notice was to compare hashes. A copy nothing updates is a copy that is wrong.
-REPO_EPUB = Path("/home/ubuntu/voynich/book/the-rohonc-codex.epub")
 
 
 def digest(path):
@@ -89,8 +84,6 @@ def publish(shelf):
 
     deploy(final_epub, READER_EPUB)
     deploy(final_epub, DOWNLOAD_EPUB)
-    if REPO_EPUB.parent.is_dir():
-        deploy(final_epub, REPO_EPUB)
     # The print PDF is NOT served. It is still built, because it is what goes
     # to KDP and the site reads its page count off the shelf copy; it is just
     # not published or linked. The owner's call, 2026-09-22: the EPUB is the
