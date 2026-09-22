@@ -5,3 +5,11 @@ work/scitext/
 __pycache__/
 *.pyc
 work/rohonc/source_index.pkl
+
+# Backups. The convention here is <name>.pre-<what>-<date>, and ktcommit.sh commits
+# with `git add -A`, so every backup taken during a session went into a public
+# archive: on 2026-09-22 that included a 6.4MB duplicate of the EPUB written by the
+# publisher's own deploy step. The deliberate archive/backups-20260922/ folder is
+# already tracked and stays tracked; this only stops new ones from being swept in.
+*.pre-*
+*.pre-update
