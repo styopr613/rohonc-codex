@@ -129,28 +129,6 @@ main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:v
 .prose table{border-collapse:collapse;font-size:16px;margin:1em 0}
 .prose th,.prose td{border-bottom:1px solid var(--line);padding:5px 10px;text-align:left;vertical-align:top}
 .prose .tw{overflow-x:auto}
-table.tests{width:100%;font-size:15.5px}
-table.tests th{font-weight:400;color:var(--soft);font-size:13px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
-table.tests tbody th{color:var(--ink);font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13.5px;text-transform:none;letter-spacing:0}
-table.tests td{line-height:1.4}
-table.tests td.verdict{font-family:Cinzel,serif;font-size:12.5px;letter-spacing:.07em;white-space:nowrap}
-table.tests .v-pass{color:#3b6b3a}
-table.tests .v-fail{color:var(--rub)}
-table.tests .v-none{color:var(--soft)}
-table.tests .v-band{color:#7a5a1e}
-table.tests td.verdict.v-note{color:var(--soft);font-family:"EB Garamond",serif;font-size:14px;letter-spacing:0;text-transform:none;white-space:normal;font-style:italic}
-table.tests tr.cap td{color:var(--soft);font-style:italic;border-bottom:0;padding-top:12px}
-table.tests tr.cap+tr.cap td{padding-top:2px}
-@media(max-width:620px){
-  table.tests,table.tests tbody,table.tests tr,table.tests td,table.tests tbody th{display:block;width:auto}
-  table.tests thead{display:none}
-  table.tests tr{border-bottom:1px solid var(--line);padding:10px 0}
-  table.tests td,table.tests tbody th{border:0;padding:2px 0}
-  table.tests tbody th{float:left;padding-right:10px}
-  table.tests td.verdict{float:right;padding-top:3px}
-  table.tests td:nth-child(2){clear:both;font-style:italic;color:var(--soft)}
-  table.tests tr.cap{padding:14px 0 2px}
-}
 .prose hr{border:0;border-top:1px solid var(--line);margin:2em 0}
 .prose ul,.prose ol{padding-left:1.4em}
 .prose li{margin:.25em 0}
@@ -349,43 +327,6 @@ def tests_summary():
     block = "\n".join(l[4:] if l.startswith("    ") else l for l in m.group(1).rstrip("\n").split("\n"))
     kt = re.search(r"dictionary of (\d+) signs", txt)
     return block, (kt.group(1) if kt else "?")
-
-
-VERDICT_CLASS = (("NO VERDICT", "v-none"), ("IN BAND", "v-band"), ("PASS", "v-pass"),
-                 ("FAIL", "v-fail"), ("reported", "v-note"))
-
-
-def summary_table(block):
-    """The tests summary as a table. TESTS.md keeps it as pipe-separated rows,
-    test | what it asks | result | verdict, so the document reads on its own and
-    the page can give the verdict its own column. A line without pipes is a
-    caption row: the legend, or the line that says the outside review began."""
-    rows, cap = [], []
-    def flush():
-        if cap:
-            rows.append(f'<tr class="cap"><td colspan="4">{html.escape(" ".join(cap))}</td></tr>')
-            cap.clear()
-    for line in block.split("\n") + [""]:
-        if not line.strip():
-            flush()
-            continue
-        if "|" not in line:
-            cap.append(line.strip())
-            continue
-        flush()
-        cells = [c.strip() for c in line.split("|")]
-        while len(cells) < 4:
-            cells.append("")
-        test, what, result, verdict = cells[:4]
-        cls = "v-note"
-        for word, c in VERDICT_CLASS:
-            if verdict.startswith(word):
-                cls = c
-                break
-        rows.append(f'<tr><th scope="row">{html.escape(test)}</th><td>{html.escape(what)}</td>'
-                    f'<td>{html.escape(result)}</td><td class="verdict {cls}">{html.escape(verdict)}</td></tr>')
-    return ('<div class="tw"><table class="tests"><thead><tr><th>test</th><th>what it asks</th>'
-            '<th>result</th><th>verdict</th></tr></thead><tbody>' + "".join(rows) + "</tbody></table></div>")
 
 
 def new_here():
@@ -826,7 +767,7 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 
 <h2>Is it true?</h2>
 {paras("is_it_true")}
-{summary_table(summary)}
+<div class="fig">{html.escape(summary)}</div>
 <p>What each test asked is on the <a href="/rohonc/tests.html">tests page</a>. The saved runs are in the <a href="/rohonc/data.html">data</a>.</p>
 
 <h2>What is here</h2>
@@ -1174,7 +1115,7 @@ def page_tests(summary):
     body = f"""
 <h1>Are the readings true?</h1>
 {paras("tests_intro", "lead")}
-{summary_table(summary)}
+<div class="fig">{html.escape(summary)}</div>
 {paras("tests_after")}
 {paras("tests_note")}
 <p>The saved run behind every line is in the <a href="/rohonc/data.html">data</a>, one

@@ -331,7 +331,7 @@ presence in a verse. The test that would settle Grok's point is the human
 loop run on a rotated book by a reader who does not know it is rotated.
 That has not been done.
 
-## Test 12 and 12b — Test 5 rescored under a strict rule, then two outside re-glossers
+## Test 12 — Test 5 rescored under a strict rule, with outside readers
 
 `harness/ktstrict.py` · `work/rohonc/ktstrict.txt`,
 `ktstrict_reglosser_gemini.txt`, `ktstrict_reglosser_grok.txt`,
@@ -491,32 +491,30 @@ Mark 5 for Matthew 9, Acts 7 for Acts 6, and are counted as misses.
 
 ## Summary
 
-    Test 1  | source presence, held-out folios | A+B 17.5 sigma; 99% of K&T's own rate | PASS
-    Test 5  | K&T's own sentence translations | A+B 8.6 sigma; 153% of K&T | PASS
-    Test 6  | word order, held-out folios | A+B 6.9 sigma | PASS
-    Test 2  | part of speech from context | the instrument fails on K&T's own words (68.3% against a needed 70%; 4.7 sigma against a needed 5); the readings were never scored | NO VERDICT
-    Test 3  | the blindfold, run clean | 4 of 24 strict, 16.7%; the declared band for that result was 15-30%, and its declared consequence, tier C passage readings become tier D, was applied | IN BAND
-    Test 7  | K&T's words removed | reads 11.9% from ours alone, by design: the readings extend the dictionary. Recovery of a hidden K&T word: 4.4 sigma against a declared 5 | FAIL
-    Test 8  | bootstrap from a random 30% | passage 33.9 sigma (8.4% absolute); recovery 8.5 sigma (0.9% absolute) | PASS
-    Test 9  | hidden 70% validated by the 30% | A+B 11.3 sigma; 130% of K&T's own rate | PASS
+    Test 1   source presence, held-out folios    A+B 17.5 sigma   99% of K&T    PASS
+    Test 5   K&T's own sentence translations     A+B  8.6 sigma  153% of K&T    PASS
+    Test 6   word order, held-out folios         A+B  6.9 sigma                 PASS
+    Test 2   part of speech                      instrument fails on K&T's own words   NO VERDICT
+    Test 3   blindfold, run clean                 4 of 24 strict, 16.7%; band 15-30%, consequence reaffirmed
+    Test 7   K&T's words removed                 reads 11.9% from ours alone (by design: they extend the dictionary); recovery 4.4 sigma against a declared 5, FAIL
+    Test 8   bootstrap from a random 30%          passage 33.9 sigma (8.4% absolute), recovery 8.5 sigma (0.9% absolute)   PASS
+    Test 9   hidden 70% validated by the 30%       A+B 11.3 sigma, 130% of K&T's own rate   PASS
 
-    After the outside review by Gemini 2.5 Pro and Grok 4.7, same day:
-    Test 11 | passage map from K&T's words alone | median rank 25 of 1,334; top-1 12.4%; p 2e-28 | PASS
-    Test 10 | the search replayed on null books | 7 / 215 / 2 signs kept at three scales; the count rule has no power at any, so it cannot tell a search from a decipherment | NO VERDICT
-    Test 10, held out | the same runs, scored where the readings were not derived | real book 8 sigma over shuffle; null books none | reported, not a verdict
-    Test 12 | Test 5 rescored under the strict rule | 73.7%, 8.4 sigma; but +22.9 points over K&T's own headwords trips the declared leakage clause | FAIL on that clause
-    Test 12b | two independent re-glossers, Gemini 2.5 Pro and Grok 4.7 | given K&T's words only and the sign blanked, they recover our gloss 68% and 71% of the time | PASS
-    Test 13 | the underdetermination census | 61 of 94 A/B readings have a common verb present in every chapter their folios cite, against a bar of 40% | FAIL
-    Test 13, the same rule | applied to the chosen glosses | 0 of the 94 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did | reported, not a verdict
-    Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS
-    Test 15 | passage identification, outside reader | chapter level 9 of 20 against 0 of 20 shuffled; p 0.002 | PASS
+    After the outside review, same day:
+    Test 11  passage map from K&T's words alone   median rank 25 of 1334, top-1 12.4%, p 2e-28   PASS
+    Test 10  search replayed on null books        7 / 215 / 2 kept at three scales; the count rule has no power at any   NO VERDICT
+             held-out, same runs                  real 8 sigma over shuffle, null books none
+    Test 12  Test 5 rescored strict               73.7%, 8.4 sigma; but +22.9 points over K&T's own headwords trips the declared leakage clause   FAIL on that clause
+             then two independent re-glossers     given K&T's words only, recover our gloss 68% and 71% of the time   PASS
+    Test 13  underdetermination census            61 of 94 A/B readings have a common verb present in every chapter their folios cite   FAIL (bar 40%)
+             the same rule                        0 of the 94 chosen glosses pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did
+    Test 14  blind rotated run, outside reader     rotated 0 fills, 0 matches; real 3.8 fills/page, 13/18   PASS
+    Test 15  passage identification, outside reader   chapter 9/20 vs 0/20 shuffled, p 0.002   PASS
 
     PASS and FAIL are verdicts on the readings against a bar declared before the run.
     NO VERDICT means the instrument failed its own check on Kiraly and Tokai's words,
     or has no power to tell a search from a decipherment; it says nothing about the
     readings either way, and it is kept on the page because it was specified.
-    IN BAND is a test with declared bands rather than a bar: the result fell in the
-    band it was predicted to, and the consequence declared for that band was applied.
 
 Where that leaves the 670 tier A/B readings. The passage map survives
 without them (Test 11), so Tests 1, 6 and 9 keep their target and their
