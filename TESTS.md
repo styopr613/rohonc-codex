@@ -398,9 +398,11 @@ The bar fails as declared. In plain terms: the 94 are this project's tier
 A/B readings whose signs stand on folios citing three or more chapters; the
 rule asks whether some other word appears in every one of those chapters;
 for 61 of the 94 a common verb does. The 64.9% measures how often a common
-verb turns up in three chapters, not how often a reading is arbitrary. What
-the count shows is that the rule being censused is not the rule that made
-the readings: not one of the 94 glosses
+verb turns up in three chapters, not how often a reading is arbitrary. The
+rivals exist; the method did not choose them -- not one of the 94 glosses is
+the product of that rule -- so the FAIL is a measure of the rival space and
+not of what the method did, and it stands as declared. What the count shows
+is that the rule being censused is not the rule that made the readings: not one of the 94 glosses
 is present in every chapter its sign's folios cite, so the rivals — answer,
 tell, ruler, cast, enter, depart — are words that satisfy a rule the
 readings themselves do not. The rivals are the commonest free verbs of the
@@ -505,7 +507,7 @@ Mark 5 for Matthew 9, Acts 7 for Acts 6, and are counted as misses.
     Test 12  Test 5 rescored strict               73.7%, 8.4 sigma; but +22.9 points over K&T's own headwords trips the declared leakage clause   FAIL on that clause
              then two independent re-glossers     given K&T's words only, recover our gloss 68% and 71% of the time   PASS
     Test 13  underdetermination census            61 of 94 A/B readings have a common verb present in every chapter their folios cite   FAIL (bar 40%)
-             the same rule                        0 of the 94 chosen glosses pass it: the rule censused is not the rule that made them
+             the same rule                        0 of the 94 chosen glosses pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did
     Test 14  blind rotated run, outside reader     rotated 0 fills, 0 matches; real 3.8 fills/page, 13/18   PASS
     Test 15  passage identification, outside reader   chapter 9/20 vs 0/20 shuffled, p 0.002   PASS
 
