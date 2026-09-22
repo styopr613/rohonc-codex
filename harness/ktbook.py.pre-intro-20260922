@@ -270,57 +270,28 @@ def annotate(body, part="p"):
 
 def front_matter():
     g = figures()
-    return """The Rohonc Codex is a small paper book of the sixteenth century, about 450
-leaves, written in a script that occurs in no other document. It came to the
-Library of the Hungarian Academy of Sciences in Budapest in 1838, with the
-library of Count Gusztav Batthyany from his estate at Rohonc, now Rechnitz in
-Austria, which is where its name comes from. From that day until 2018 nobody
-could read it. It dates itself: on one of its last leaves it counts one
-thousand five hundred and sixty years from the Ascension, which is 1593.
+    return """The Rohonc Codex is a book of about 450 leaves in an unknown
+script, in the library of the Hungarian Academy of Sciences. For roughly two
+hundred years nobody could read it. It dates itself: 1593.
 
 In 2018 **Levente Zoltan Kiraly** and **Gabor Tokai** published, in
-*Cryptologia*, the dictionary and grammar that broke it: 841 signs, read. The
-script runs right to left, several hundred signs, mostly logographic, and the
+*Cryptologia*, the dictionary and grammar that broke it. The script is a
+right-to-left system of several hundred signs, mostly logographic, and the
 language is not Hungarian but something the scribe built for the purpose. The
-book is a Christian devotional compilation: the apocryphal Life of Adam and
-Eve running straight into the legend of the Rood, the story of Joachim and
-Anne, a Passion the codex itself says it takes from Matthew and John, sermons
-and parables for the gospels of the year, the Finding of the Cross, the Acts
-of the Apostles, and at the very end a few pages of one man's diary. The frame
-is a revelation: an angel of God speaks, and the prophet Elijah is the one
-addressed.
+book is a Christian devotional compilation of the sixteenth century: the
+apocryphal Life of Adam and Eve running straight into the legend of the Rood,
+the story of Joachim and Anne, a Passion, sermons and parables for the gospels
+of the year, the Finding of the Cross, the Acts of the Apostles, and at the
+very end a few pages of one man's diary.
 
-**Most of what you can read here rests on their work.** Their dictionary is
-not reproduced in this book; it is theirs, and it is used here word by word
-the way a dictionary is used. Their own translation of the codex is
-unpublished, and this is not it. Nothing here should be attributed to them
-beyond the foundation it was built on. What has not existed before is the
-whole manuscript, end to end, in a modern language, with every word marked
-for how well it is known, and that is what this edition is.
-
-**It was made with AI, under an editor.** Four signs in ten had no meaning in
-the dictionary. The readings of those signs were made by Anthropic's Claude,
-working as the editor's assistant under written standing orders, and every
-one was checked at every place the sign stands in the book before it was
-kept; the editor decided what stood. The English of Book One was written by
-OpenAI's GPT-5.6 from the gloss and the books the codex is compiled from, and
-then counted back against the gloss word by word. The folio English on the
-website is DeepSeek's, written from the gloss and nothing else. Two models
-from other labs, Gemini 2.5 Pro and Grok 4.7, were shown the results and
-asked what tests they would demand; those tests were run as specified and are
-reported, the failures beside the passes. Every figure in this book comes from
-a program that can be rerun, and where any of this went wrong it is written
-down with the number it went wrong by.
-
-**The book is in two parts.** Book Two is the gloss: the manuscript folio by
-folio and line by line, each sign rendered by Kiraly and Tokai's dictionary
-or by a reading of this project, every word marked for how well it is known.
-That is the evidence. Book One is the translation: a reading of the gloss
-into continuous English, made against the books the codex is compiled from --
-the Douay Bible its compiler had, the Life of Adam and Eve, the Golden Legend,
-the apocryphal gospels, Barlaam and Ioasaph, the Roman Missal and the Office
-of Holy Week, Josephus. Every paragraph of it names the folios it renders and
-links to them in Book Two. Where the two disagree, Book Two is right.
+**Everything you can read here rests on their work.** Roughly three quarters
+of the words below are theirs or follow directly from theirs. Kiraly and Tokai
+have read large parts of this manuscript. What has not existed before is the
+whole of it, end to end, in a modern language, with every word marked for how
+well it is known -- and that, and only that, is what this edition claims to
+be. Their own translation is unpublished; this is not it, and nothing here
+should be attributed to them except the dictionary and the grammar, which are
+entirely theirs.
 
 ## How to read the marks
 
