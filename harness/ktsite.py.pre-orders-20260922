@@ -61,8 +61,7 @@ OUT_DEFAULT = "/var/www/oona13/rohonc"
 BG = "#0B0D10"   # the family's dark ground; the page is a sheet laid on it
 V = "20260921"
 
-# The project's own working documents. They are DESCRIBED here; METHOD.md, the
-# standing orders, is also published whole at orders.html:
+# The project's own working documents. They are DESCRIBED here, not published:
 # they are written for whoever runs the project next, they argue with earlier
 # versions of themselves, and a reader is not the audience. Anyone who wants one
 # can ask. The pages on this site are written from them instead.
@@ -169,7 +168,6 @@ table.tests tr.cap+tr.cap td{padding-top:2px}
 .folio h2 small{font-family:"EB Garamond",serif;font-size:17px;color:var(--soft);letter-spacing:0;margin-left:10px;text-transform:none}
 .folio p{text-indent:0}
 .nof{color:var(--soft);font-style:italic}
-.orders h1{font-size:24px;margin-top:1.6em}.orders h2{font-size:20px}.orders pre{font-size:13px}.orders code{font-size:.82em}
 /* the front page: the book, the scroller */
 .hero{display:grid;grid-template-columns:minmax(0,1fr) 236px;gap:34px;align-items:center;margin:0 0 6px}
 .hero .blurb p:first-child{margin-top:0}
@@ -1097,30 +1095,6 @@ def page_code(groups):
                  body)
 
 
-ORDERS_REDACT = re.compile(r"/home/[\w-]+/[\w./-]*")
-
-
-def page_orders():
-    """METHOD.md, the file the next person works from, published as it is. It
-    was written for an operator, not a reader, and that is left showing: the
-    roughness is provenance, like the withdrawal entries. Local paths are the
-    only thing in it that is nobody's business, and each is replaced by a
-    visible mark; the count is measured, not typed."""
-    raw = read(os.path.join(ROOT, "METHOD.md"))
-    raw, n = ORDERS_REDACT.subn("[local path redacted]", raw)
-    body = ('<h1>The standing orders</h1>'
-            '<p class="lead">This is <code>METHOD.md</code>, the file the next person actually works '
-            'from: what to do, in order, and the arithmetic of how much of the book is still unread. '
-            'It is written for the operator and it is published unedited. '
-            + (f'{n} local path{"s" if n != 1 else ""} {"are" if n != 1 else "is"} replaced by the mark '
-               '<code>[local path redacted]</code>; nothing else is changed.' if n else 'Nothing in it is changed.')
-            + ' The three earlier versions of its arithmetic that were wrong are kept on the page beside the right one, as it says.</p>'
-            + '<div class="orders">' + md(raw) + '</div>')
-    return shell("orders", "The standing orders",
-                 "The project's own operating file, published whole and unedited: the loop for reading a sign, the standing orders, and the arithmetic of what is left.",
-                 body)
-
-
 def page_method():
     sl = items("method_steps")
     ml = items("method_mistakes_list")
@@ -1140,7 +1114,7 @@ def page_method():
 <ul class="steps">{ml}</ul>
 
 <h2>The programs, and the orders</h2>
-<p>The programs are listed at <a href="/rohonc/code.html">The programs</a>, as plain text. The file the next person actually works from is <a href="/rohonc/orders.html">the standing orders</a>, published whole and unedited: the loop, the orders, and the arithmetic of how much is still unread, with the three earlier versions of that arithmetic that were wrong kept beside the right one.</p>
+<p>The programs are listed at <a href="/rohonc/code.html">The programs</a>, as plain text. The file the next person actually works from is the standing orders, which keep the arithmetic of how much is still unread; it is written for an operator rather than a reader, so it is described under <a href="/rohonc/sources.html">Sources</a> and sent on request rather than published.</p>
 """
     return shell("method", "The method",
                  "How an unread sign is read and checked, the rule that the bar is declared before the run, and the mistakes that cost the most time.",
@@ -1164,12 +1138,36 @@ def page_read():
                  body)
 
 
+def page_method():
+    sl = items("method_steps")
+    ml = items("method_mistakes_list")
+    body = f"""
+<h1>The method</h1>
+{paras("method_intro", "lead")}
+
+<h2>The loop, one sign at a time</h2>
+{paras("method_loop")}
+<ol class="steps">{sl}</ol>
+
+<h2>The bar goes up before the run</h2>
+{paras("method_bars")}
+
+<h2>What cost the most time</h2>
+{paras("method_mistakes")}
+<ul class="steps">{ml}</ul>
+
+<h2>The programs, and the orders</h2>
+<p>The programs are listed at <a href="/rohonc/code.html">The programs</a>, as plain text. The file the next person actually works from is the standing orders, which keep the arithmetic of how much is still unread; it is written for an operator rather than a reader, so it is described under <a href="/rohonc/sources.html">Sources</a> and sent on request rather than published.</p>
+"""
+    return shell("method", "The method",
+                 "How an unread sign is read and checked, the rule that the bar is declared before the run, and the mistakes that cost the most time.",
+                 body)
+
+
 def docs_html():
     return "".join(
-        (f'<li><b><a href="/rohonc/orders.html">{html.escape(t)}</a></b> <span class="nof">{html.escape(d)} Published whole.</span></li>'
-         if fn == "METHOD.md" else
-         f'<li><b>{html.escape(t)}</b> <span class="nof">{html.escape(d)}</span></li>')
-        for fn, t, d in DOCS)
+        f'<li><b>{html.escape(t)}</b> <span class="nof">{html.escape(d)}</span></li>'
+        for _, t, d in DOCS)
 
 
 def page_tests(summary):
@@ -1365,7 +1363,6 @@ def main(argv):
     sg = signs()
     w("index.html", page_index(fig, summary, ktn, newpara, tiers, len(order), sg, rows, pl))
     w("script.html", page_script(sample, pl, ktn))
-    w("orders.html", page_orders())
     w("read.html", page_read())
     w("method.html", page_method())
     w("code.html", page_code(code_files(out)))

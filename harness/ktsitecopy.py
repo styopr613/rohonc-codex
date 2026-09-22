@@ -227,7 +227,7 @@ THE READING EDITION (2026-09-22)
   manuscript does not have, what does it leave out. The figures from that
   check are published with the edition.
 
-THE WORKING DOCUMENTS (described on the site, not published)
+THE WORKING DOCUMENTS (described on the site; METHOD.md is also published whole, unedited, at orders.html)
 - They are working files: written for whoever runs the project next, not for a
   reader. They are kept accurate rather than tidy. Anyone who wants one can ask
   for it at info@oona13.com.
@@ -316,7 +316,7 @@ script_phrases   one paragraph explaining that phrases are written without a spa
 script_shuffle_lead  one sentence above the shuffler's controls
 script_marks     one paragraph explaining the marks used in the rendering
 script_plates    one paragraph introducing the redrawn plates, saying plainly that they are redrawings and why
-method_intro     2 paragraphs opening a page about the method: what problem it solves and what makes it checkable
+method_intro     ONE paragraph opening a page about the method: what problem it solves and what makes it checkable; do not state the bar rule here, it has its own section below
 method_loop      one paragraph introducing the numbered steps of the loop, which are listed after it
 method_bars      one paragraph on declaring the bar before the run and keeping failures
 method_mistakes  one paragraph introducing the list of mistakes that cost the most time, which follows it
@@ -330,7 +330,7 @@ strip_note       one sentence under a moving strip of signs, saying what the str
 tests_note       one paragraph after the test summary, starting straight on the first fact with no framing sentence, saying that the passage map can be recovered from Király and Tokai's words alone so it does not depend on anything this project read, and that the two instruments an outside reviewer specified for the search itself gave no verdict either way because they do not model the search as it was run
 code_lead        one paragraph on a page listing the programs, saying they run on the published data, that each test states its bar in its own first lines, and that the repository itself is not public
 sources_not_here one paragraph saying what is NOT on the site and why: their dictionary, transcription, page records and the library scans; and that the one thing of theirs used is the shape of the signs, drawn from the outlines in their font, the font file itself never served, the shapes being the sixteenth-century scribe's
-method_steps     a JSON ARRAY of exactly 6 objects {"t": short title, "d": one or two sentences} for the six numbered steps of the loop, in order
+method_steps     a JSON ARRAY of exactly 6 objects {"t": short title, "d": one or two sentences} for the six numbered steps of the loop, in order; d must not repeat the words of t; the grading step must say that tiers C and D are where the sign occurs too rarely for the everywhere check to bite
 method_mistakes_list  a JSON ARRAY of exactly 7 objects {"t": short title, "d": one or two sentences} for the mistakes that cost the most time, in the order the sheet gives them
 reading_what     2 paragraphs for the first page of the book and for the site, saying what the reading edition is: an interpretation, not a word-for-word rendering, made by reading the manuscript against the books it is compiled from
 reading_how      one paragraph on how the READING EDITION was made, which is layer (b) and NOT layer (a): each folio's gloss was put beside the passages that folio is working from, and the English was written from both; the manuscript leads and the source only says what a phrase means; every paragraph names the folios it renders. Do not say it was made from the gloss alone.

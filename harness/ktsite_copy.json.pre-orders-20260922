@@ -25,7 +25,7 @@
  "script_shuffle_lead": "Click to see another sign.",
  "script_marks": "The marks in the rendering have specific meanings. A plain word is read. A word with * was read from one passage. A word in [brackets] is a restoration. A hyphen inside a word means one sign read as smaller signs. A ~ marks a spelling variant.",
  "script_plates": "Twenty-six folios carry pictures. The plates in this edition were redrawn by an image model from the library's low-resolution scan. They are new drawings that follow the scribe's composition.",
- "method_intro": "The method solves the problem of reading an undefined sign. It starts from the only outside evidence there is, the source passage Király and Tokai cite for a folio. The method is checkable because every guess is tested at every other occurrence in the book.",
+ "method_intro": "The method solves the problem of reading an undefined sign. It starts from the only outside evidence there is, the source passage Király and Tokai cite for a folio. The method is checkable because every guess is tested at every other occurrence in the book.\n\nA reading that fits where it was found and fails elsewhere is thrown away. The bar for every test is written into the test's own file before it runs. A near miss is a miss. Failed attempts are kept and written up.",
  "method_loop": "The loop that reads one unread sign has six numbered steps.",
  "method_bars": "The bar for every test is declared in the test's own first lines before it runs. It is never moved afterwards. Failed attempts are kept and written up with the number they failed by.",
  "method_mistakes": "The following mistakes cost the most time. They are named plainly.",
@@ -42,27 +42,27 @@
  "method_steps": [
   {
    "t": "Take the citation",
-   "d": "Király and Tokai's notes cite a chapter and verse for most folios. That source passage is the only outside evidence there is."
+   "d": "Take the folio's own citation. Király and Tokai's notes cite a chapter and verse for most folios. The source passage is the only outside evidence there is."
   },
   {
    "t": "Look at every line",
-   "d": "Every line where the unread sign stands, not just the one in hand."
+   "d": "Look at every line where the unread sign stands, not just the one in hand."
   },
   {
    "t": "Guess from the passage",
-   "d": "The guess is the word the verse supplies for that slot."
+   "d": "Guess from the passage. The guess is the word the verse supplies for that slot."
   },
   {
    "t": "Check the guess everywhere",
-   "d": "At every other occurrence in the book. A reading that fits where it was found and fails elsewhere is thrown away."
+   "d": "Check the guess at every other occurrence in the book. A reading that fits where it was found and fails elsewhere is thrown away."
   },
   {
    "t": "Grade it",
-   "d": "Tier A fits everywhere checked. Tier B fits most. Tier C or D is where the sign occurs too rarely for the check in step 4 to bite: it was read from one passage and there was nowhere else in the book to test it. Tier G is a guess in brackets and is counted as read nowhere."
+   "d": "Grade the reading. Tier A fits everywhere checked. Tier B fits most. Tier C or D was read from one passage. Tier G is a guess in brackets."
   },
   {
    "t": "Write the evidence",
-   "d": "The evidence line goes into the proposals file with the folios and lines, so that anyone can repeat the check or overturn it."
+   "d": "Write the evidence line into the proposals file with the folios and lines. This allows anyone to repeat the check or overturn it."
   }
  ],
  "method_mistakes_list": [
