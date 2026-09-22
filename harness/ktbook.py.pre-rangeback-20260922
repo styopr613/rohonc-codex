@@ -703,27 +703,6 @@ None of these people are responsible for anything in this edition."""},
     ]
 
 
-def _cite_span(first, rest, order):
-    """Every folio a citation covers, ranges filled in, in manuscript order.
-
-    "(055r-056v)" covers four folios, not two. Taking the endpoints alone left
-    the ones between them with no paragraph anchor and no back-link.
-    """
-    idx = {pg: i for i, pg in enumerate(order)}
-    out, seen = [], set()
-    for part in re.split(r"\s*,\s*", (first + rest)):
-        ends = re.findall(r"\d{3}[rv]", part)
-        span = ends
-        if len(ends) == 2 and re.search(r"[-\u2013]", part):
-            a, b = idx.get(ends[0]), idx.get(ends[1])
-            if a is not None and b is not None:
-                span = order[min(a, b):max(a, b) + 1]
-        for f in span:
-            if f not in seen:
-                seen.add(f); out.append(f)
-    return out
-
-
 CITE = re.compile(r"\((\d{3}[rv])((?:\s*[-–,]\s*\d{3}[rv])*)\)\s*$")
 
 
@@ -740,7 +719,6 @@ def link_gloss(chapters):
     for i, ch in enumerate(chapters):
         for m in heading.finditer(ch["text"]):
             in_two.setdefault(m.group(1), i)
-    order = [pg for pg, _, _, _ in folios()]
     in_one, seen = {}, set()
     for i, ch in enumerate(chapters):
         if "**" in ch["text"] and heading.search(ch["text"]):
@@ -751,13 +729,7 @@ def link_gloss(chapters):
             if not m or m.group(1) not in in_two:
                 continue
             first = m.group(1)
-            # EXPAND THE RANGE. This took the citation's endpoints only, so a
-            # paragraph citing (055r-056v) anchored 055r and 056v and skipped
-            # 055v and 056r -- and those folios' headings in Book Two came out
-            # as plain text with no way back to the paragraph that renders
-            # them. Eleven folios were stranded that way. A range means every
-            # folio in it, which is what cited_folios() already assumes.
-            ids = _cite_span(first, m.group(2), order)
+            ids = [first] + re.findall(r"\d{3}[rv]", m.group(2))
             spans = ""
             for f in ids:
                 if f not in seen:
