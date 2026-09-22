@@ -1,5 +1,43 @@
 # Where this stopped — 2026-09-22
 
+## VERIFICATION BEFORE PUBLISHING — 2026-09-22
+
+The owner asked whether the signs or the sources could be wrong and whether
+we could verify as much as possible first. What was done and found:
+
+- **The rendering runs on Király and Tokai's OWN transcription** (`data/rohonc/
+  kt/pages`, via `rohonc_kt.py`), not the 2014 open `latest.txt`, which only
+  the old line-break statistics use. So the transcription the dictionary was
+  keyed to is the transcription we read. Book Two carries every main-block
+  row of every folio (441 of 441 match K&T's row counts). Not rendered: the
+  rows K&T mark `picture` (57 rows, 252 signs), `header` (32 rows, 65 signs,
+  e.g. `270 754` running heads) and `block` (10 rows, 30 signs) -- about 350
+  signs of captions and headers, an honest gap to name if anyone asks.
+- **Every folio's citation resolves**: 297 folios cite a passage, all 297
+  resolve to verses; 144 have retrieved sources only; 0 have nothing.
+- **Every deterministic test rerun from scratch** (14 programs) and diffed
+  against its saved run. EIGHT DID NOT MATCH: Tests 1, 2, 2b, 5, 6, 7, 8, 9.
+  Cause: proposals.json last changed 09-21 17:10 (the variant-loader fix,
+  234 spellings newly seen); those runs were written 16:01-16:52. Seeds are
+  pinned, so the drift was the input, not randomness. Regenerated on the
+  final readings; the old files are `*_v2_prevariantfix.txt`. Test 7's
+  ten-shuffle control was unstable (sd 0.67 then 0.36); NSHUF raised to 100,
+  declared in the docstring first, bar unchanged: 10.3 sigma, PASS. The
+  ten-shuffle rerun (8.4) is `ktrecover_v3_tenshuffles.txt`. TESTS.md has a
+  section on all of it, before the Summary.
+- **New gate: `harness/check_tests.py`** -- every `NN sigma` / `NN%` on an
+  indented line of a test section, and on its Summary row, must appear
+  verbatim in the test's cited run file. 111 figures checked. It runs in
+  `ktcommit.sh`. It caught one rounding (Test 12's re-glosser 84% for the
+  file's 83.9%); the table now prints the files' figures.
+- Not rerun, on purpose: the extension-attempt gates and the null control
+  ROHONC.md reports (`ktsegment`, `ktname`, `ktalign_gate*`, `ktextend_gates`,
+  `null_control`, `ktproof`, `ktsense*`, 09-20). They are records of attempts
+  made on the readings of their day. TESTS.md says so.
+- Not possible from here: an independent transcription check (the 2014 open
+  transcription uses a different glyph alphabet and page numbering; mapping
+  it would be a project), and anything K&T's own transcription gets wrong.
+
 ## THE COVER — DONE 2026-09-22 (Cover Maker design 20260921-212932-2sdz)
 
 The baked "THE FIRST COMPLETE ENGLISH RENDERING" roundel is cloned out of the

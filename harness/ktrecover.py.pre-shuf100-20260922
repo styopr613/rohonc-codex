@@ -45,13 +45,7 @@ import ktrederive as R
 import kttranslate as T
 import ktorder as O
 
-# 2026-09-22, declared before the rerun: ten shuffles gave a standard deviation
-# that swung from 0.67 to 0.36 between two runs on readings that differed by one
-# commit, and the sigma with it (4.4 then 8.4) while the measured presence hardly
-# moved (3.7% then 3.6%). The instrument, not the readings, was unstable. The
-# shuffle count goes to 100 for a stable control; the bar stays at 5 sigma; both
-# earlier runs are kept beside this one and the verdict is whatever this gives.
-NSHUF = 100
+NSHUF = 10
 CAP = 3
 
 

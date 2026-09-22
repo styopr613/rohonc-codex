@@ -4,6 +4,6 @@ TEST 2: PART OF SPEECH FROM CONTEXT ALONE
   the instrument cannot see parts of speech; stage 2 is NOT a result
 
   tier   signs   agree  shuffle    sd  sigma
-  A+B      437   63.2%    52.1%  2.12    5.2
-  C+D      183   53.0%    48.3%  3.97    1.2
-  G        665   51.9%    48.6%  1.66    2.0
+  A+B      437   63.2%    51.7%  1.51    7.6
+  C+D      188   52.7%    47.4%  4.02    1.3
+  G        665   51.9%    47.8%  1.84    2.2

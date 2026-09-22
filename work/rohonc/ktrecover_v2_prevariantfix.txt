@@ -1,0 +1,18 @@
+TEST 7: WITHOUT K&T'S WORDS
+  part 1, coverage from this project's readings alone (tiers A-D)
+    words read          3579 / 29997    11.9%
+    lines touched       2466 / 4372   56.4%
+    lines fully read       2 / 4372    0.0%
+
+  part 2, recovering K&T's words from the slot our readings bracket
+    K&T signs tested 616   occurrences 1392
+
+    condition     presence   top-1  no anchor  window
+    ours A+B          2.6%    0.4%      89.1%    30.3
+    ours A-D          3.7%    0.5%      84.6%    28.8
+    K&T + ours       10.9%    1.9%      39.7%    20.0
+    shuffled          0.7%    0.1%   (sd 0.67, 10 shuffles)
+
+    ours A-D presence 3.7% vs shuffled 0.7%   4.4 sigma
+    ours A-D reaches 34% of what the whole dictionary reaches (10.9%)
+    BAR: >= 5 sigma  ->  FAIL
