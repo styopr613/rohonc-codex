@@ -19,7 +19,7 @@ it can decide.
 | `VOYNICH_PLAN.md` | the plan, including the prior-work survey that decided the scope |
 | `PREDICTION_abbrev.md` | prediction for the abbreviation model, written before the code. Not edited afterwards |
 | `harness/` | the code |
-| `harness/ktsite.py` | builds the public page, oona13.com/rohonc/, from the files above: documents as they stand, the dictionary of added readings, the folio English, every saved run. Nothing of Király and Tokai's is copied there |
+| `harness/ktsite.py` | builds the public page, oona13.com/rohonc/, from the files above: the introduction, the reading, the dictionary, the tests as a verdict table, the method, and the standing orders published whole. The data and the programs are not served from it — they go to GitHub — except `dictionary.json`, which the dictionary page's search loads. Nothing of Király and Tokai's is copied there |
 | `data/` | six IVTFF transcriptions from voynich.nu, plus reference corpora. Not redistributed |
 | `refs/` | ten cloned prior-work repositories, read-only |
 | `work/` | results JSON, tuned configurations, logs |
