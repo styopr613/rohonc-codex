@@ -5,15 +5,17 @@
 The baked "THE FIRST COMPLETE ENGLISH RENDERING" roundel is cloned out of the
 raw art with paper from the same rows, tone-matched to the annulus round the
 hole (`gen/20260921-212932-2sdz.png`; the untouched art is
-`.png.pre-badge-20260922`). A Cover Maker seal was tried in its place and taken
-off again; the owner wanted the line in the cover's own lettering. So "FIRST
-TIME IN PRINT" is SET INTO THE ART, Cinzel Black (the variable Cinzel.ttf has
-Regular/Bold/Black), sized to the baked subtitle's 110px cap height, ink
-(20,7,8) measured from that subtitle, centred on its axis (x 0.536), at y 4180
-of 5056 in the empty space between the subtitle and the imprint. No badge keys
-remain in the design. Why not a native slot: every front-text slot and the
-`text` badge draw a knock-out halo and load the Regular weight, and the baked
-lines on this cover are heavy; on cream paper the halo reads as a smudge.
+`.png.pre-badge-20260922`). A red seal was tried in its place and taken off; a
+line in the lower cream space was tried and taken off (that region is restored
+from the backup, y 3990-4380). What the owner wanted, and what stands: "FIRST
+TIME IN PRINT" SET INTO THE ART inside the woodcut's own empty box at its foot
+-- the band between the two tower bases, x 720-2960, y 3488-3695 of the
+3371x5056 art -- in the title bar's weight of lettering: Cinzel Black (the
+variable Cinzel.ttf carries Regular/Bold/Black), fitted to 90% of the box's
+width (size 152, cap 107px in a 207px box), ink (20,7,8) measured from the
+cut. No badge keys remain in the design. Why not a native slot: every
+front-text slot and the `text` badge draw a knock-out halo and load the
+Regular weight; the cover's own lettering is heavy and halo-free.
 
 Carried through: the composed front is the shelf book's `cover.jpg` (backup
 `cover.jpg.pre-seal-20260922` is the roundel version), the EPUB carries the
