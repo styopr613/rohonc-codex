@@ -93,7 +93,7 @@ DOCS = [
 CONTACT = "info@oona13.com"
 
 NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("reading", "The reading"),
-       ("corpus", "The corpus"), ("dictionary", "Dictionary"), ("tests", "Tests"), ("method", "Method"),
+       ("dictionary", "Dictionary"), ("tests", "Tests"), ("method", "Method"),
        ("sources", "Sources"), ("data", "Data")]
 
 CREDIT = html.escape(COPY["credit_line"].strip())
@@ -1132,28 +1132,6 @@ def page_code(out):
 ORDERS_REDACT = re.compile(r"/home/[\w-]+/[\w./-]*")
 
 
-def page_corpus():
-    """The books the codex was read against, one entry per book, from the
-    provenance file: what it is, what it supplied, and where it can be read."""
-    import ktcorpus
-    body = ["<h1>The corpus</h1>",
-            '<p class="lead">The codex is a compilation, and most of what its compiler wrote fits inside a small shelf of books. '
-            "Every folio of the translation was read against the passage it retells, because an elliptical text does not become "
-            "English on its own: the manuscript leads, and the source only ever says what one of its phrases means. "
-            "This is that shelf. Every book on it is public domain, and each links to where it can be read.</p>",
-            '<p>How each was fetched and under what terms is in the provenance file; the reading itself is in the '
-            '<a href="/read/rohonc.php">book</a>, and every departure from these sources is named in its notes.</p>']
-    for e in ktcorpus.entries():
-        links = " · ".join(f'<a href="{html.escape(u)}" rel="noopener">{html.escape(l)}</a>' for l, u in e["links"])
-        body.append(f'<h2 id="{html.escape(e["anchor"])}">{html.escape(e["name"])}</h2>')
-        body.append(md(e["text"]))
-        if links:
-            body.append(f'<p class="nof">Read it: {links}</p>')
-    return shell("corpus", "The corpus",
-                 "The books the Rohonc Codex was read against: the Douay Bible, the Life of Adam and Eve, the Golden Legend, the apocryphal gospels, Barlaam, the Missal and the Office of Holy Week, Josephus, the play cycles; what each supplied and where to read it.",
-                 "\n".join(body))
-
-
 def page_orders():
     """METHOD.md, the file the next person works from, published as it is. It
     was written for an operator, not a reader, and that is left showing: the
@@ -1326,11 +1304,10 @@ def page_data(outside):
 
     body = ["<h1>Data</h1>", paras("data_lead", "lead"),
             "<h2>The corpus</h2>",
-            "<p>The books the codex is compiled from, which every folio is read against. What each supplied and where to read it is on "
-            "<a href=\"/rohonc/corpus.html\">The corpus</a>.</p><ul class=\"steps\">"]
-    import ktcorpus
-    for e in ktcorpus.entries():
-        body.append(f'<li><b><a href="/rohonc/corpus.html#{html.escape(e["anchor"])}">{html.escape(e["name"])}</a></b></li>')
+            "<p>The books the codex is compiled from, which every folio is read against. All are public domain; "
+            "the full list, with terms and the courtesy failures, is in the provenance file, and this list is read out of it.</p><ul class=\"steps\">"]
+    for name, src in corpus_list():
+        body.append(f"<li><b>{html.escape(name)}</b>" + (f' <span class="nof">{html.escape(src)}</span>' if src else "") + "</li>")
     body.append("</ul><h2>The outside review</h2><p>The two reviewers' specifications are quoted whole: "
                 '<a href="/rohonc/outside-gemini.html">Gemini 2.5 Pro</a> and <a href="/rohonc/outside-grok.html">Grok 4.7</a>. '
                 "Their replies as re-glossers and blind readers are files, and go up with the rest.</p>")
@@ -1407,7 +1384,6 @@ def main(argv):
     w("index.html", page_index(fig, summary, ktn, newpara, tiers, len(order), sg, rows, pl))
     w("script.html", page_script(sample, pl, ktn))
     w("orders.html", page_orders())
-    w("corpus.html", page_corpus())
     w("read.html", page_read())
     w("method.html", page_method())
     w("code.html", page_code(out))

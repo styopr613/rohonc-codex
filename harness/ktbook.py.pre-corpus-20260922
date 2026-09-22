@@ -524,21 +524,6 @@ right.
 """
 
 
-def corpus_appendix():
-    """The shelf the codex was read against, from the provenance file, so the
-    printed book carries it and it cannot drift from the record."""
-    import ktcorpus
-    out = ["The codex is a compilation, and most of what its compiler wrote fits inside a small shelf "
-           "of books. Every folio of Book One was read against the passage it retells; the manuscript "
-           "leads, and the source only ever says what one of its phrases means. Every book here is "
-           "public domain. Where a Project Gutenberg number is given, the text is at "
-           "gutenberg.org/ebooks/ followed by the number.", ""]
-    for e in ktcorpus.entries():
-        out.append(f"**{e['name']}.** {e['text']}")
-        out.append("")
-    return "\n".join(out).strip()
-
-
 def back_matter():
     g = figures()
     return [
@@ -629,9 +614,7 @@ Passion preaching all over Europe.
 
 Both are printed as the manuscript has them. An edition that cut them would be
 a worse witness to what a Catholic in Hungary in 1593 was actually reading."""},
-        {"type": "appendix", "pos": 3, "title": "The corpus",
-         "text": corpus_appendix()},
-        {"type": "appendix", "pos": 4, "title": "Acknowledgment",
+        {"type": "appendix", "pos": 3, "title": "Acknowledgment",
          "text": """The dictionary and the grammar of the Rohonc Codex are the
 work of **Levente Zoltan Kiraly** and **Gabor Tokai**, published as "Cracking
 the code of the Rohonc Codex", *Cryptologia* 42:4 (2018), 285-315, with
@@ -726,12 +709,7 @@ def build():
                 "from, because an elliptical text does not become English on "
                 "its own. Every paragraph names the folios it renders, and the "
                 "gloss of every one of them is printed in Book Two, line for "
-                "line. The books it was read against -- the Douay Bible, the Life "
-                "of Adam and Eve, the Golden Legend, the apocryphal gospels, "
-                "Barlaam and Ioasaph, the Roman Missal and the Office of Holy "
-                "Week, Josephus, the English play cycles -- are described at the "
-                "back, under The corpus; most of what the compiler wrote fits "
-                "inside them. A word in brackets is a restoration. Where this and "
+                "line. A word in brackets is a restoration. Where this and "
                 "Book Two disagree, Book Two is right.")
             first = False
         chapters.append(ch)
