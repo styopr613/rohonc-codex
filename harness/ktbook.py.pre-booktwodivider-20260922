@@ -894,18 +894,13 @@ def build():
                   "subtitle": grp[0][1] or "",
                   "text": "\n".join(body).strip()}
             if ci == 0:
-                # THE FIRST GROUP OPENS TWO DIVIDERS, not one. Book Two begins here and
-                # so does Book Two's first section, on the same folio -- and only the
-                # book divider used to be written, so section I lost its page and its
-                # blurb and Book Two read from II to X with no I in front of it. A list
-                # is two divider pages, in this order. (2026-09-22)
-                ch["part"] = (["Book Two — The Manuscript, Folio by Folio", pname]
+                ch["part"] = ("Book Two — The Manuscript, Folio by Folio"
                               if bi == 0 else pname)
                 ch["part_sub"] = (
-                    ["All 441 written pages in the order the manuscript has them, six "
-                     "to a chapter: the manuscript itself, line for line, with "
-                     "every mark intact. This is the evidence the translation "
-                     "in Book One was made from.", pblurb]
+                    "All 441 written pages in the order the manuscript has them, six "
+                    "to a chapter: the manuscript itself, line for line, with "
+                    "every mark intact. This is the evidence the translation "
+                    "in Book One was made from."
                     if bi == 0 else pblurb)
             chapters.append(ch)
     link_gloss(chapters)
@@ -999,14 +994,6 @@ def shelf_edits(shelf_book, stamp_path):
     return sorted(t for t, h in now.items() if t in prev and prev[t] != h)
 
 
-
-def _partlist(ch):
-    """The divider titles a chapter opens. `part` is a list where a chapter opens more
-    than one -- see the note where Book Two is written."""
-    p = ch.get("part")
-    return [x for x in (p if isinstance(p, list) else [p]) if x]
-
-
 def main(argv):
     ap = argparse.ArgumentParser()
     ap.add_argument("--out")
@@ -1019,7 +1006,7 @@ def main(argv):
     bk = build()
     nw = sum(len(c["text"].split()) for c in bk["chapters"])
     print(f"chapters {len(bk['chapters'])}   words {nw}   "
-          f"parts {len({t for c in bk['chapters'] for t in _partlist(c)})}")
+          f"parts {len({c.get('part') for c in bk['chapters'] if c.get('part')})}")
     for c in bk["chapters"][:3]:
         print("  ", c["title"], "|", c["subtitle"][:48], "|", c.get("part", ""))
     if a.out:

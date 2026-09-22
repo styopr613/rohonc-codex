@@ -382,18 +382,14 @@ gap or an unreadable glyph in the transcription.
 
 ## What this book is worth, in numbers
 
-<table>
-<tr><th>words in the manuscript</th><th>""" + _n(g["words"][0]) + """</th><th></th></tr>
-<tr><td>read</td><td>""" + _n(g["read"][0]) + "</td><td>" + g["read"][1] + """%</td></tr>
-<tr><td>read from one passage</td><td>""" + _n(g["soft"][0]) + "</td><td>" + g["soft"][1] + """%</td></tr>
-<tr><td>restored, in brackets</td><td>""" + _n(g["rest"][0]) + "</td><td>" + g["rest"][1] + """%</td></tr>
-<tr><td>dark</td><td>""" + _n(g["dark"][0]) + "</td><td>" + g["dark"][1] + """%</td></tr>
-</table>
+        words in the manuscript            """ + _n(g["words"][0]) + """
+    read                               """ + _n(g["read"][0]) + "   " + g["read"][1] + """%
+    read from one passage              """ + _n(g["soft"][0]) + "   " + g["soft"][1] + """%
+    restored, in brackets              """ + _n(g["rest"][0]) + "   " + g["rest"][1] + """%
+    dark                               """ + _n(g["dark"][0]) + "   " + g["dark"][1] + """%
 
-<table>
-<tr><td>lines with every word read</td><td>""" + g["lread"][2] + """%</td></tr>
-<tr><td>lines complete once brackets are counted</td><td>""" + g["lall"][2] + """%</td></tr>
-</table>
+    lines with every word read                  """ + g["lread"][2] + """%
+    lines complete once brackets are counted    """ + g["lall"][2] + """%
 
 The middle figure is the honest one. A sentence with one word you cannot read
 is not a sentence you can read. The gap between that figure and the one below
@@ -894,18 +890,13 @@ def build():
                   "subtitle": grp[0][1] or "",
                   "text": "\n".join(body).strip()}
             if ci == 0:
-                # THE FIRST GROUP OPENS TWO DIVIDERS, not one. Book Two begins here and
-                # so does Book Two's first section, on the same folio -- and only the
-                # book divider used to be written, so section I lost its page and its
-                # blurb and Book Two read from II to X with no I in front of it. A list
-                # is two divider pages, in this order. (2026-09-22)
-                ch["part"] = (["Book Two — The Manuscript, Folio by Folio", pname]
+                ch["part"] = ("Book Two — The Manuscript, Folio by Folio"
                               if bi == 0 else pname)
                 ch["part_sub"] = (
-                    ["All 441 written pages in the order the manuscript has them, six "
-                     "to a chapter: the manuscript itself, line for line, with "
-                     "every mark intact. This is the evidence the translation "
-                     "in Book One was made from.", pblurb]
+                    "All 441 written pages in the order the manuscript has them, six "
+                    "to a chapter: the manuscript itself, line for line, with "
+                    "every mark intact. This is the evidence the translation "
+                    "in Book One was made from."
                     if bi == 0 else pblurb)
             chapters.append(ch)
     link_gloss(chapters)
@@ -999,14 +990,6 @@ def shelf_edits(shelf_book, stamp_path):
     return sorted(t for t, h in now.items() if t in prev and prev[t] != h)
 
 
-
-def _partlist(ch):
-    """The divider titles a chapter opens. `part` is a list where a chapter opens more
-    than one -- see the note where Book Two is written."""
-    p = ch.get("part")
-    return [x for x in (p if isinstance(p, list) else [p]) if x]
-
-
 def main(argv):
     ap = argparse.ArgumentParser()
     ap.add_argument("--out")
@@ -1019,7 +1002,7 @@ def main(argv):
     bk = build()
     nw = sum(len(c["text"].split()) for c in bk["chapters"])
     print(f"chapters {len(bk['chapters'])}   words {nw}   "
-          f"parts {len({t for c in bk['chapters'] for t in _partlist(c)})}")
+          f"parts {len({c.get('part') for c in bk['chapters'] if c.get('part')})}")
     for c in bk["chapters"][:3]:
         print("  ", c["title"], "|", c["subtitle"][:48], "|", c.get("part", ""))
     if a.out:

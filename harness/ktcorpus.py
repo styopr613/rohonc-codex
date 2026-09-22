@@ -53,8 +53,21 @@ def entries():
             if not m:
                 continue
             body = m.group(1)
-            name = re.sub(r"\*", "", re.split(r",\s*(?:from|tr\.)|\s*\(", body, 1)[0]).strip().rstrip(",")
-            out.append({"name": name, "text": body, "links": _links(one),
+            # Section 5 heads each paragraph with the FILE that was added, which is
+            # what that section of the record is about and is no use to a reader of
+            # the book, so the entry is named from the citation that opens the body.
+            # The body then has to START AFTER that citation, or the printed appendix
+            # says it twice -- which is what it did: "R. H. Charles, The Apocrypha and
+            # Pseudepigrapha ... vol. 2. R. H. Charles, The Apocrypha and Pseudepigrapha
+            # ... vol. 2 (Oxford, 1913), from ...". Every entry from section 4 splits
+            # head from body at the em dash and reads correctly; these two were the only
+            # ones that did not. The cut keeps its own separator, so "tr. William
+            # Whiston" does not come out as "William Whiston". (2026-09-22)
+            cut = re.search(r",\s*(?:from|tr\.)|\s*\(", body)
+            head = body[:cut.start()] if cut else body
+            name = re.sub(r"\*", "", head).strip().rstrip(",")
+            rest = re.sub(r"^,\s*", "", body[cut.start():].strip()) if cut else ""
+            out.append({"name": name, "text": rest, "links": _links(one),
                         "anchor": re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")[:60]})
     return out
 
