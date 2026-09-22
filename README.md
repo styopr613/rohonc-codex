@@ -1,5 +1,7 @@
 # The Rohonc Codex, read
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22902166.svg)](https://doi.org/10.5281/zenodo.22902166)
+
 The Rohonc Codex is a paper book of the sixteenth century, 224 leaves, held at
 the Library of the Hungarian Academy of Sciences in Budapest, written in a
 script that occurs in no other document. In 2018 Levente Zoltán Király and
@@ -41,6 +43,17 @@ random.
 **Király and Tokai's dictionary is their published work and is not in this
 repository.** Neither are the manuscript scans. `DATA_PROVENANCE.md` says where
 everything came from and what may be done with it.
+
+## Citing this
+
+Cite the concept DOI, which always resolves to the latest version:
+
+> Taylor, Stephen. *The Rohonc Codex, read: an attempt, and everything needed to
+> check it.* https://doi.org/10.5281/zenodo.22902166
+
+The archived snapshot of this release is 10.5281/zenodo.22902167. The work it
+builds on is Király, L. Z. and Tokai, G. (2018), "Cracking the code of the
+Rohonc Codex", *Cryptologia* 42(4):285-315, doi:10.1080/01611194.2018.1449147.
 
 ## The Voynich harness
 
