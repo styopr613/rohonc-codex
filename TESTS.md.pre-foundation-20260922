@@ -4,89 +4,11 @@ Written 2026-09-21. Every bar below was declared in the test's own docstring
 before it ran, and none was moved. Saved runs are in `work/rohonc/`.
 
 The question: Király and Tokai published a dictionary of 841 signs. This
-project added 919 readings on top (tiers A–D) and 847 bracketed
-restorations (tier G), which are counted as readings nowhere. Are the
-additions true?
+project added 926 readings on top (tiers A–D) and 848 bracketed guesses
+(tier G). Are the additions true?
 
 Every earlier check was run by the process that made the readings. These
-were designed to break that. Test 16 comes first: it checks the transcription
-they are all read from.
-
-## Test 16 — a second, independent transcription
-
-`harness/ktopen.py` · `work/rohonc/ktopen.txt`
-
-**This one comes first because it is not a test of the readings. It is a test
-of the page they are read from.** Every other test in this document reads
-Kiraly and Tokai's transcription. If that transcription were wrong, nothing
-below would notice: they would all be wrong together and agree with each other
-about it.
-
-There is one outside witness. An anonymous author published an open
-transcription of the codex in 2014, glyph by glyph, in an alphabet of their
-own, with no word division, four years before Kiraly and Tokai published.
-Different person, different alphabet, different page numbering, same book. No
-dictionary and no reading are involved: if both are honestly recording the
-same physical marks, some bijection carries one alphabet onto the other, and
-it has to hold across the whole manuscript.
-
-**The pages line up on their own, and say the book reads right to left.** The
-open transcription numbers SPREADS of the library scan and labels each row L
-or R. Matching row-length profiles alone — no glyphs, no readings — puts the
-left page of spread k at folio k recto and the right page at folio k-1 verso.
-That is the order a right-to-left book falls open in, neither transcription
-states it, and it drops out of nothing but arithmetic on how many marks are in
-each row. Kiraly and Tokai's finding that the script runs right to left is
-corroborated here by two transcriptions that never mention it.
-
-    the open transcription covers       417 of 441 sides
-    rows comparable glyph for glyph     1131 of 4372   25.9%
-    glyphs compared                     17454
-
-    GATE A, the two alphabets
-      best map, as transcribed          91.1%
-      the same rows, open row reversed  14.3%
-      control, rows paired at random    12.9%   (sd 0.17, 20 shuffles)
-                                        458.5 sigma
-      BAR: observed >= 60%, control <= 30%, >= 5 sigma   PASS
-
-    GATE B, the words this edition reads
-      words compared                    7356
-      identical in both transcriptions  83.8%
-      BAR: >= 80%                       PASS
-
-**Which rows are compared, and why only a quarter.** The rule is mechanical,
-is in `aligned()` in the script, and is applied to every row in the book: a row
-is comparable when the two transcriptions put it on the same side of the same
-leaf, agree on how many rows that side has, and agree on how many marks are in
-that row. Nothing is chosen by hand and nothing is dropped for scoring badly —
-the criterion never looks at a glyph. The three quarters that fail it are where
-the two split a line differently, or where one reads damage the other does not,
-and a row that fails is counted in the denominator and never guessed at.
-
-**What the 83.8% is a fraction of.** 7,356 words: every word lying wholly
-inside a comparable row, cut at Kiraly and Tokai's own word boundaries, since
-the open transcription has none. A word counts as identical only if every one
-of its glyphs maps through.
-
-**A mistake worth recording, because it is the same one twice.** The first pass
-at this found 2,114 rows and a flat contradiction with the provenance file's
-4,250. The open transcription labels rows `L` and `R` for the two pages of a
-spread, and the parser matched only `R` — half the book, thrown away silently,
-and the comparison it produced was noise. This is the glyph-versus-word unit
-error of the early Rohonc figures wearing different clothes: **confirm what one
-row of a file IS before measuring anything with it.** Learned twice now.
-
-**What was already seen when the bars were written**, said plainly: an
-exploratory pass had reported the 91.1% and the reversed 14.3%, so the headline
-is not a prediction. The bars were declared for the part that had not been run
-— the matched control, each open row paired with a random row of the same
-length from elsewhere in the book, a map learned the same way, twenty times —
-and it came in at 12.9%, which is what picking each symbol's commonest partner
-gets you when the pairing means nothing.
-
-Within what can be compared, the text this edition reads is not one person's
-reading of the page.
+six were designed to break that.
 
 ## Test 1 — do the readings track their source where nobody looked?
 
@@ -576,6 +498,54 @@ same words on the wrong signs, never the chapter. Of the misses, four
 name the parallel telling of the same event, John 18 for Matthew 27,
 Mark 5 for Matthew 9, Acts 7 for Acts 6, and are counted as misses.
 
+## Test 16 — a second, independent transcription
+
+`harness/ktopen.py` · `work/rohonc/ktopen.txt`
+
+Every other test in this document reads Kiraly and Tokai's transcription. If
+that transcription were wrong, nothing here would notice. There is one outside
+witness: an anonymous open transcription published in 2014, glyph by glyph, in
+an alphabet of its own, with no word separation, years before Kiraly and Tokai
+published. Different person, different alphabet, different page numbering, same
+book. No dictionary and no reading are involved — if both transcribe the same
+manuscript honestly, some bijection carries one alphabet onto the other, and it
+has to hold across the whole book.
+
+The pages line up without being told how. The open transcription numbers
+SPREADS of the library scan and labels each row L or R; matching row-length
+profiles alone say that the left page of spread k is folio k recto and the
+right page is folio k-1 verso, which is how a right-to-left book falls open,
+and is a fact about the manuscript that neither transcription states.
+
+    the open transcription covers       417 of 441 sides
+    rows comparable glyph for glyph     1131 of 4372   25.9%
+    glyphs compared                     17454
+
+    GATE A, the two alphabets
+      best map, as transcribed          91.1%
+      the same rows, open row reversed  14.3%
+      control, rows paired at random    12.9%   (sd 0.17, 20 shuffles)
+                                        458.5 sigma
+      BAR: observed >= 60%, control <= 30%, >= 5 sigma   PASS
+
+    GATE B, the words this edition reads
+      words compared                    7356
+      identical in both transcriptions  83.8%
+      BAR: >= 80%                       PASS
+
+What had already been seen when the bars were written, said plainly: an
+exploratory pass had reported the 91.1% and the reversed 14.3%. So the headline
+was not a prediction. The bars were declared for the part that had not been
+run — the matched control, each open row paired with a random K&T row of the
+same length, a map learned the same way — and it came in at 12.9%, which is
+what picking each symbol's commonest partner gets you when the pairing means
+nothing.
+
+Three quarters of the rows cannot be compared: the two transcriptions split
+lines and read damage differently, and those rows are counted, never guessed
+at. Within what can be compared, the text this edition reads is not one
+person's reading of the page.
+
 ## Every run regenerated — 2026-09-22
 
 Before publication every deterministic test was rerun from scratch and
@@ -617,10 +587,6 @@ says so where it quotes them.
 
 ## Summary
 
-    The transcription every other test reads, checked against an independent one:
-    Test 16 | a second, independent transcription | 91.1% of glyphs agree where both can be compared, against a 12.9% control, 458.5 sigma; 83.8% of the words identical | PASS
-
-    The readings:
     Test 1  | source presence, held-out folios | A+B 16.4 sigma; 99% of K&T's own rate | PASS
     Test 5  | K&T's own sentence translations | A+B 8.6 sigma; 153% of K&T | PASS
     Test 6  | word order, held-out folios | A+B 7.1 sigma | PASS
@@ -640,6 +606,7 @@ says so where it quotes them.
     Test 13, the same rule | applied to the chosen glosses | 0 of the 94 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did | reported, not a verdict
     Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS
     Test 15 | passage identification, outside reader | chapter level 9 of 20 against 0 of 20 shuffled; p 0.002 | PASS
+    Test 16 | a second, independent transcription | 91.1% of glyphs agree where both can be compared, against a 12.9% control, 458.5 sigma; 83.8% of the words identical | PASS
 
     PASS and FAIL are verdicts on the readings against a bar declared before the run.
     NO VERDICT means the instrument failed its own check on Kiraly and Tokai's words,
