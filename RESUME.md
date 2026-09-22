@@ -1,5 +1,51 @@
 # Where this stopped — 2026-09-22
 
+## HANDOFF, evening 2026-09-22 — Cover Maker, picked up by Opus
+
+The book, site, repo and DOI are all published and consistent (see below). The
+evening went on the COVER, in `/opt/covers-app`. State:
+
+**Done and live**
+- The ebook cover was CROPPED: `compose_wrap.py` scaled the front to cover
+  1600x2560 and cut 3.1% off each side, taking the woodcut's right border and
+  the end of "STEPHEN TAYLOR". Fixed with `ebook_from_front()` (scale to FIT,
+  pad top/bottom in paper colour sampled from the front's edges). The rebuilt
+  file is `data/users/u1/out/20260921-212932-2sdz/the-rohonc-codex-ebook-cover-1600x2560.jpg`
+  and was emailed to the owner. The wrap (553pp) was never wrong.
+- Server: `web/galleryapi.py` `_keep_geometry()` — a save can no longer null
+  trim/paper/printer/pages. Both write paths use it.
+- Client: `static/studio.js` restoreState() now applies the cover's own saved
+  design OVER the localStorage blob (`covers_form_v1`), only where the design
+  holds a value. Backups: `.pre-designwins-20260922` (original),
+  `.broke-preview-20260922` (the over-broad first fix that blanked the form),
+  `.fixed-20260922` (current).
+- Design `20260921-212932-2sdz`: pages 553, trim 6x9, cream, badge off,
+  tagline removed, new back blurb ("branch from the tree of mercy").
+- Stale wraps (591pp, 633pp) deleted from the out folder; only 553pp remains.
+- Kindle price decided: $0.99. No paperback yet.
+
+**Open — do these next**
+1. `scripts/shellgate.js` has a new `[preview]` check that is VACUOUS: it
+   passed against the broken script too, because it CLICKS the cover and a
+   click applies the saved design regardless. The failure was at page LOAD.
+   Rewrite it to seed the stale blob, have the cover already selected at load
+   (find how `pick()` / the gallery auto-selects — grep `pick(` call sites),
+   reload, NOT click, then assert the stage draws and the form carries the
+   design, not the blob. Prove it with the mutation: swap in
+   `studio.js.broke-preview-20260922`, restart, expect `[preview] FAIL`,
+   restore `.fixed-20260922`, restart. Do not ship a gate that stays green
+   through the bug it was written for.
+2. `[v1-layout]` FAILS: 4 of 402 elements moved. The gate now prints their ids
+   (patch added this evening). Find whether the applyConfig-at-load change
+   moved them before touching the baseline; never rebaseline blind.
+3. Offered, not decided: texture the ebook cover's 80px padding bands with
+   cloned paper grain instead of a flat fill.
+
+Owner's note on tone: the previous session kept insisting the cover was right
+while he held a cut-off file, and told him to hard-reload when localStorage
+restore made that useless. LOOK AT THE EXACT FILE HE DOWNLOADED FIRST.
+
+
 ## THE SYNC MESS, FIXED — 2026-09-22
 
 **One command now pushes everything: `harness/ktpush.sh`.** It regenerates what
