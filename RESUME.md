@@ -130,25 +130,46 @@ line on the front only, and `work/rohonc/book3d.png` is regenerated with the
 studio's `book3d.snapshot` (rx -14, ry -34) and copied to the site by ktsite.
 The KDP wrap is downloaded from the studio as before.
 
-## THE NEXT THING TO DO: THE GITHUB REPOSITORY
+## PUBLISHED — 2026-09-22
 
-Every page that used to link a data file or a program now says "will be
-posted to GitHub", and nothing is served from /rohonc/data or /rohonc/code any
-more (the one exception is `data/dictionary.json`, which the dictionary page's
-search loads; it is not linked). When the repository exists:
+**The repository is live and public: https://github.com/styopr613/rohonc-codex**
+(the owner's account, the former `fluent613`, renamed. A copy went up under the
+secondary account `SUP613` first and has been deleted; there is one place.)
 
-1. What goes up: `harness/`, `work/rohonc/` (the saved runs, proposals.json,
-   english.json, the readers' edition, notes.md, reading.md, the outside
-   readers' replies), the documents at the root. What does NOT: `data/rohonc/kt/`
-   (Kiraly and Tokai's dictionary and transcription), `data/rohonc/latest.txt`
-   and `scan/`, and `data/ref/` — see DATA_PROVENANCE.md for why each.
-2. Replace the "posted to GitHub" sentences with the address. They live in
-   `harness/ktsite_copy.json` (`data_lead`) and in `harness/ktsite.py`:
-   `page_data`, `page_code`, the dictionary page's file sentence, and the
-   crosswalk note. Grep for `GitHub`. The brief in `ktsitecopy.py` says the
-   same, so a regeneration keeps it.
-3. The site is still behind the gate (see 2026-09-21 below). Same steps to
-   open it.
+What is in it: `harness/`, `work/rohonc/`, the root documents, `archive/`, and
+`book/` with the EPUB and the cover. What is NOT: `data/` is gitignored, so
+Kiraly and Tokai's dictionary and the manuscript scans are not published. A scan
+of every tracked file found no credential, no personal email and no server
+address; the two programs that need keys read them from `/opt/secrets` at run
+time.
+
+**oona13.com/rohonc/ is public again.** The magic-link `forward_auth` block is
+out of the Caddyfile with its `no-store` header, and the bare-path redirect is
+`permanent` again as it was before the gate. The gated config is kept at
+`/etc/caddy/Caddyfile.pre-rohonc-live-20260922`. Caddy needs RESTART, not
+reload, on this box. Signed out, the index, the tests page, the reader and the
+EPUB all answer 200.
+
+**Every "will be posted to GitHub" is now the real address** -- in the book's
+front matter, the site introduction, the data page, the dictionary page and the
+programs page. That promise had been unredeemable since it was written.
+
+### Still to do
+
+1. **Zenodo.** The DOI comes from Zenodo watching the repository, and enabling
+   that needs the owner's own login: sign in at zenodo.org with GitHub, switch
+   `rohonc-codex` on under Settings -> GitHub, and only THEN cut a release --
+   Zenodo archives releases made after the switch, not before.
+2. **The paperback.** KDP upload; the 6x9 print PDF is on the shelf at
+   `/opt/publish-app/data/u1/books/20260921-052535-r0hc/print.pdf`, 553 pages,
+   and is deliberately NOT served from the site. Skip KDP Select: digital
+   exclusivity would disqualify the free EPUB. When it is live, put its link in
+   the README's first line.
+3. **The cover claim.** "FIRST TIME IN PRINT" is gone; the woodcut's foot now
+   reads THE COMPLETE MANUSCRIPT IN ENGLISH. Jason Edward Lee's "The Rohonc
+   Codex: A Working Solution" (Lulu, 2019, 620pp) is a prior printed English
+   claim, unreviewed anywhere and absent from Wikipedia's list of attempts, and
+   a 2011 joke edition exists whose text is The Wind in the Willows.
 
 ## WHAT CHANGED 2026-09-22
 
