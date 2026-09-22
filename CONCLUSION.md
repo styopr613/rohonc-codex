@@ -103,13 +103,16 @@ The grammar is theirs. What is new is checking it independently and running it
 across the whole book.
 
 It is worth being exact about what a percentage of the book means, because
-there are three numbers and they mean very different things. **96.7% of the
-words have *a* reading; 82.3% of the lines have every word read; and 99.9% of
+there are three numbers and they mean very different things. **96.6% of the
+words have *a* reading; 81.5% of the lines have every word read; and 98.9% of
 the lines are complete once bracketed guesses are counted.** The middle one is
 the one that matters, because a sentence with one unreadable word in it is not
 a sentence you can read. It stood at 2.8% before any of this, at 62.4% on the
 morning of 2026-09-20, at 74.9% on the morning of 2026-09-21, and at 82.3%
-that evening. The third number is not a decipherment figure at all; it is the
+that evening. It then went DOWN, to the figure at the head of this section:
+the hardening sweeps of 21 and 22 September withdrew readings that did not
+survive every occurrence, and a withdrawal takes a line out of the fully-read
+count. A number that only ever rises is a number nobody is checking. The third number is not a decipherment figure at all; it is the
 reader's edition having a word in every slot, 3.3% of them guesses.
 
 Even the word figure overstates how much is understood. Only about one word in
@@ -178,7 +181,7 @@ the ceiling on its evidence unless Kiraly and Tokai's own apparatus happens to
 name it -- and that seam, which looked worked out at six signs, turned out to
 hold about seventy once the three instruments above were pointed at it.
 
-**What the 82.3% is made of.** A percentage without a tier distribution
+**What the 81.5% is made of.** A percentage without a tier distribution
 behind it is a claim, not a result. `ktprov.py` computes this and reads none
 of the prose of the evidence field -- every class is worked out from the sign
 itself against Kiraly and Tokai's dictionary, so a reviewer can rerun it.
@@ -394,8 +397,8 @@ Where a hole cannot be read at all, the rendering now carries a fourth class.
 A **tier G** word is a guess: chosen by reading the line, its source passage
 and its neighbours, marked in the text with a degree sign (`°word`), and
 counted separately everywhere. A line containing one is **not** counted as a
-line with every word read. That is why two figures are printed -- **82.3%
-read, 99.9% complete including guesses** -- and the gap between them, 17.6
+line with every word read. That is why two figures are printed -- **81.5%
+read, 98.9% complete including guesses** -- and the gap between them, 17.4
 points, is exactly how much of the book is being guessed at. It is a large
 gap and it is meant to be visible.
 

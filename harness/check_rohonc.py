@@ -692,10 +692,10 @@ def main():
           and "56.0%" in flat and "68.3%" in flat)
 
     check("CONCLUSION: the live figures and the honest ceiling",
-          "96.7% of the" in conf and "82.3% of the lines" in conf
+          "96.6% of the" in conf and "81.5% of the lines" in conf
           and "826" in conf and "83.5%" in conf
           and "no route past the mid-eighties" in conf
-          and "99.9% complete including guesses" in conf
+          and "98.9% complete including guesses" in conf
           and "2.1% -- mean the same thing" in conf
           and "370 signs covering 577 words" in conf
           and "Three hundred and fifteen of the 441 folios" in conf)

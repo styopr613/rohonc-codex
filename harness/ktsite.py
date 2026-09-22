@@ -785,7 +785,10 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
     tier_line = ("readings " + "   ".join(f"{t} {tiers.get(t, 0):,}" for t in ("A", "B", "C", "D"))
                  + f"   =  {sum(tiers.get(t, 0) for t in ('A', 'B', 'C', 'D')):,}"
                  + f"\nrestorations in brackets, counted as a reading nowhere   {tiers.get('G', 0):,}")
-    # the page count is read off the print PDF on the shelf, never typed
+    # The page count is read off the print PDF on the SHELF, never typed. The
+    # shelf PDF is still built -- it is what goes to KDP -- it is just not
+    # served from the site any more, so this reads the shelf copy, not a
+    # published one.
     pages_note = ""
     try:
         import subprocess
@@ -808,8 +811,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
 <div class="hero">
   <div class="blurb">{intro_html}
     <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
-      <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a>
-      <a href="/rohonc/book/the-rohonc-codex-print.pdf">Print PDF</a></div>
+      <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a></div>
     <p class="sz">All {nfolio} folios{pages_note} · the translation and the evidence in one volume.</p>
   </div>
   <figure class="bk"><img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the printed edition" width="576" height="900"></figure>
@@ -1222,8 +1224,7 @@ def page_read():
     body = ("<h1>Read it here</h1>"
             + paras("read_lead", "lead")
             + '<p class="acts"><a class="go" href="/read/rohonc.php">Open the book</a> '
-              '<a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a> '
-              '<a href="/rohonc/book/the-rohonc-codex-print.pdf">Print PDF</a></p>'
+              '<a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a></p>'
             + '<figure class="shot"><a href="/read/rohonc.php">'
               '<img src="/rohonc/img/book3d.png" alt="The Rohonc Codex" width="576" height="900" '
               'style="width:auto;max-height:520px;margin:0 auto;border:0;background:none"></a></figure>')

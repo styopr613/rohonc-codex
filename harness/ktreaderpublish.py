@@ -19,7 +19,6 @@ import gen  # noqa: E402
 EPUBCHECK = "/opt/publish-app/tools/epubcheck/epubcheck.jar"
 READER_EPUB = Path("/var/www/oona13/read/books/rohonc-codex.epub")
 DOWNLOAD_EPUB = Path("/var/www/oona13/rohonc/book/the-rohonc-codex.epub")
-DOWNLOAD_PDF = Path("/var/www/oona13/rohonc/book/the-rohonc-codex-print.pdf")
 
 
 def digest(path):
@@ -85,8 +84,12 @@ def publish(shelf):
 
     deploy(final_epub, READER_EPUB)
     deploy(final_epub, DOWNLOAD_EPUB)
-    deploy(final_pdf, DOWNLOAD_PDF)
-    print(f"print PDF {pages} pages at {trim}")
+    # The print PDF is NOT served. It is still built, because it is what goes
+    # to KDP and the site reads its page count off the shelf copy; it is just
+    # not published or linked. The owner's call, 2026-09-22: the EPUB is the
+    # edition people read, and a second downloadable of the same book is one
+    # more artefact to keep in step with the readings.
+    print(f"print PDF {pages} pages at {trim} (shelf only, not published)")
 
 
 def main():

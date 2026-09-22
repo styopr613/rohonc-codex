@@ -34,9 +34,19 @@ def live():
     kt = open(os.path.join(WORK, "kttranslate.txt"), encoding="utf-8").read()
     prop = re.findall(r"proposed here\s+(\d+)\s+([\d.]+)%", kt)[-1]
     full = re.findall(r"lines with every word read\s+(\d+)\s+([\d.]+)%", kt)[-1]
+    comp = re.findall(r"lines complete incl\. guesses\s+(\d+)\s+([\d.]+)%", kt)[-1]
+    # The words that have a reading which is NOT a guess. CONCLUSION.md states
+    # this beside the two line figures, and it was the one of the three that
+    # nothing generated: it sat at 96.7% while the run said 96.6%, and the
+    # gate pinned the stale string rather than comparing it to anything.
+    words = int(re.search(r"^words\s+(\d+)", kt, re.M).group(1))
+    guessed = int(re.findall(r"GUESSED here \(tier G\)\s+(\d+)", kt)[-1])
+    noread = int(re.findall(r"no reading\s+(\d+)", kt)[-1])
     return dict(folios=folios, signs=sum(tiers.values()), a=tiers["A"],
                 ptok=int(prop[0]), ppct=float(prop[1]),
-                flines=int(full[0]), fpct=float(full[1]))
+                flines=int(full[0]), fpct=float(full[1]),
+                cpct=float(comp[1]),
+                rpct=round(100.0 * (words - guessed - noread) / words, 1))
 
 
 def sub(text, pattern, repl, name, changes):
@@ -66,6 +76,29 @@ def main(argv):
     if not dry:
         open(p, "w", encoding="utf-8").write(s)
 
+    # CONCLUSION.md states the same three figures in plain English and nothing
+    # carried them: it still said 82.3% / 99.9% / 96.7% when the run said
+    # 81.5 / 98.9 / 96.6, and check_rohonc.py required those stale strings to
+    # be present, so the gate was holding the wrong number in place. The dated
+    # sentences ("at 82.3% that evening", "from 80.1% to 82.3%") are history
+    # and are deliberately NOT touched.
+    p = os.path.join(ROOT, "CONCLUSION.md")
+    s = open(p, encoding="utf-8").read()
+    gap = round(L["cpct"] - L["fpct"], 1)
+    s = sub(s, r"\*\*[\d.]+% of the\nwords have \*a\* reading",
+            f"**{L['rpct']:.1f}% of the\nwords have *a* reading".replace("\\n", "\n"),
+            "CONCLUSION words %", changes)
+    s = sub(s, r"; [\d.]+% of the lines have every word read; and [\d.]+% of\nthe lines are complete",
+            f"; {L['fpct']:.1f}% of the lines have every word read; and {L['cpct']:.1f}% of\nthe lines are complete".replace("\\n", "\n"),
+            "CONCLUSION line figures", changes)
+    s = sub(s, r"\*\*What the [\d.]+% is made of\.\*\*",
+            f"**What the {L['fpct']:.1f}% is made of.**", "CONCLUSION made-of", changes)
+    s = sub(s, r"\*\*[\d.]+%\nread, [\d.]+% complete including guesses\*\* -- and the gap between them, [\d.]+",
+            f"**{L['fpct']:.1f}%\nread, {L['cpct']:.1f}% complete including guesses** -- and the gap between them, {gap}".replace("\\n", "\n"),
+            "CONCLUSION two figures", changes)
+    if not dry:
+        open(p, "w", encoding="utf-8").write(s)
+
     p = os.path.join(HERE, "check_rohonc.py")
     s = open(p, encoding="utf-8").read()
     s = sub(s, r'check\("proposals: \d+ tokens = [\d.]+% rendered",\n\s+len\(g\) == 2 and g\[0\] == \d+ and close\(g\[1\], [\d.]+, \.02\)',
@@ -75,6 +108,12 @@ def main(argv):
     s = sub(s, r'"\d+ signs are read" in flat\n\s+and "23\.8% to \*\*[\d.]+%\*\*" in flat',
             f'"{L["signs"]} signs are read" in flat\n          and "23.8% to **{L["fpct"]:.1f}%**" in flat', "check signs", changes)
     s = sub(s, r'"\d+\\nfolios are translated" in doc', f'"{L["folios"]}\\nfolios are translated" in doc', "check folios doc", changes)
+    s = sub(s, r'"[\d.]+% of the" in conf and "[\d.]+% of the lines" in conf',
+            f'"{L["rpct"]:.1f}% of the" in conf and "{L["fpct"]:.1f}% of the lines" in conf',
+            "check CONCLUSION figures", changes)
+    s = sub(s, r'and "[\d.]+% complete including guesses" in conf',
+            f'and "{L["cpct"]:.1f}% complete including guesses" in conf',
+            "check CONCLUSION complete", changes)
     # Count folio headings with the SAME regex live() uses. The old form
     # counted only "## 0" and "## 1", which silently stopped counting when
     # the translation reached folio 200r -- six folios went missing and the
