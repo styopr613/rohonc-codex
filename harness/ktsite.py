@@ -188,10 +188,20 @@ table.tests tr.cap+tr.cap td{padding-top:2px}
 .hero .blurb p:first-child{margin-top:0}
 .hero .bk{margin:0}
 .hero .bk img{width:100%;height:auto;display:block;filter:drop-shadow(0 16px 26px rgba(0,0,0,.32))}
-.hero .acts{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
-.hero .acts a{display:inline-block;text-decoration:none;font-family:Cinzel,serif;font-size:13.5px;letter-spacing:.08em;text-transform:uppercase;padding:9px 14px;border:1px solid var(--rub);border-radius:3px;color:var(--rub)}
-.hero .acts a.go{background:var(--rub);color:#fff}
-.hero .acts a:hover{background:var(--rub);color:#fff}
+/* THE DOOR TO THE READER IS A BUTTON. This rule was scoped to .hero, so the same
+   markup on the Read page -- the one page whose whole job is to open the book --
+   printed as two plain underlined links with a space between them: "Open the book
+   EPUB", which reads as one string and says nothing about the book opening here.
+   Unscoped, with the standalone one given the size of a page's primary action.
+   (2026-09-22) */
+.acts{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:1.5em 0}
+.acts a{display:inline-block;text-decoration:none;font-family:Cinzel,serif;font-size:13.5px;letter-spacing:.08em;text-transform:uppercase;padding:9px 14px;border:1px solid var(--rub);border-radius:3px;color:var(--rub)}
+.acts a.go{background:var(--rub);color:#fff}
+.acts a:hover{background:var(--rub);color:#fff}
+.hero .acts{margin:14px 0 0}
+.prose .acts{gap:14px}
+.prose .acts a.go{font-size:17px;padding:15px 30px;border-radius:4px;box-shadow:0 2px 0 rgba(122,36,24,.35)}
+.prose .acts a.go:hover{box-shadow:0 1px 0 rgba(122,36,24,.35);transform:translateY(1px)}
 .hero .sz{font-size:15px;color:var(--soft);margin:10px 0 0}
 .strip{margin:1.6em -64px;padding:var(--top) 0 22px;background:var(--paper2);position:relative;--padl:0px;--padr:0px;--lens:104px}
 .strip .win{position:relative;height:var(--win)}
@@ -1264,7 +1274,7 @@ def page_read():
     body = ("<h1>Read it here</h1>"
             + paras("read_lead", "lead")
             + '<p class="acts"><a class="go" href="/read/rohonc.php">Open the book</a> '
-              '<a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a></p>'
+              '<a href="/rohonc/book/the-rohonc-codex.epub">Download EPUB</a></p>'
             + '<figure class="shot"><a href="/read/rohonc.php">'
               '<img src="/rohonc/img/book3d.png" alt="The Rohonc Codex" width="576" height="900" '
               'style="width:auto;max-height:520px;margin:0 auto;border:0;background:none"></a></figure>')
