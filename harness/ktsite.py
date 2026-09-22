@@ -148,8 +148,8 @@ main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:v
 .hero .acts a.go{background:var(--rub);color:#fff}
 .hero .acts a:hover{background:var(--rub);color:#fff}
 .hero .sz{font-size:15px;color:var(--soft);margin:10px 0 0}
-.strip{margin:1.6em -64px;padding:36px 0 22px;background:var(--paper2);position:relative;--pad:0px;--lens:104px}
-.strip .win{position:relative;height:104px}
+.strip{margin:1.6em -64px;padding:var(--top) 0 22px;background:var(--paper2);position:relative;--pad:0px;--lens:104px}
+.strip .win{position:relative;height:var(--win)}
 .strip .track{position:absolute;inset:0;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-ms-overflow-style:none;overscroll-behavior-x:contain}
 .strip .track::-webkit-scrollbar{height:0;display:none}
 .strip .track:focus-visible{outline:2px solid var(--rub);outline-offset:-3px;border-radius:3px}
@@ -415,7 +415,8 @@ STRIP_OPEN = 4   # which sign the strip opens under the glass
 # cutter measured the hole it left and wrote the numbers to work/rohonc/glass.json,
 # and everything below is computed from them, so a different glass -- a thicker
 # rim, a handle at another angle -- needs no CSS touched, only the file swapped.
-LENS_PX = 100    # the hole, on screen
+LENS_PX = 128    # the hole, on screen
+WIN_PX = 104     # the height of the row the signs sit in
 TUCK = 5         # the clipped rail runs this much under the rim, so no seam of
                  # paper shows between the magnified sign and the brass
 
@@ -423,13 +424,17 @@ TUCK = 5         # the clipped rail runs this much under the rim, so no seam of
 def glass_geom():
     g = json.load(open(os.path.join(WORK, "glass.json"), encoding="utf-8"))
     k = LENS_PX / (2.0 * g["r"])
-    below = (g["h"] - g["cy"]) * k          # how far the handle hangs below the lens
+    above = g["cy"] * k                     # how far the rim stands above the lens
+    below = (g["h"] - g["cy"]) * k          # how far the handle hangs below it
+    half = WIN_PX / 2
     return {
         "w": round(g["w"] * k), "h": round(g["h"] * k),
         "cx": round(g["cx"] * k), "cy": round(g["cy"] * k),
         "clip": LENS_PX + TUCK,
-        # the caption clears the lowest ink in the picture, whatever picture it is
-        "cap": max(16, round(below - 52 + 14)),
+        # the band opens above the highest ink and the caption clears the lowest,
+        # whatever picture it is and whatever size the lens is set to
+        "top": max(18, round(above - half + 14)),
+        "cap": max(16, round(below - half + 14)),
     }
 
 
@@ -465,7 +470,8 @@ def strip_html(rows, sg, n=54):
            f'<span>{html.escape(spaced(pick[op]["code"]))}</span></p>')
     gg = glass_geom()
     style = (f'--lens:{gg["clip"]}px;--gw:{gg["w"]}px;--gh:{gg["h"]}px;'
-             f'--gx:{gg["cx"]}px;--gy:{gg["cy"]}px;--cap:{gg["cap"]}px')
+             f'--gx:{gg["cx"]}px;--gy:{gg["cy"]}px;--cap:{gg["cap"]}px;'
+             f'--top:{gg["top"]}px;--win:{WIN_PX}px')
     return (f'<div class="strip" data-open="{op}" style="{style}"><div class="win">'
             f'<div class="track" tabindex="0" role="group" '
             f'aria-label="signs of the codex: drag the strip, or use the left and right arrow keys">'
