@@ -1,9 +1,9 @@
 """Turn the reader's edition into a book for OONA Book Maker.
 
 Writes the engine's own structure -- title, meta, front, chapters, back -- to
-a book.json on a shelf. Updating the canonical Rohonc shelf also builds and
-deploys the public reader EPUB, the downloadable EPUB, and the print PDF after
-validation. The saved studio design and cover remain the owner's decisions.
+a book.json on a shelf. Updating the canonical Rohonc shelf also builds,
+validates and deploys the EPUB used by the public reader. The saved studio
+design and cover remain the owner's decisions.
 
     python3 ktbook.py --out /tmp/book.json
     python3 ktbook.py --shelf /opt/publish-app/data/u1/books/<bid>
@@ -480,7 +480,7 @@ episode the source has not got -- the codex is followed, because those
 departures are the most interesting thing in it.
 
 Every content word of the reading was then counted back against its own
-folio's gloss. 97.9% of them are the gloss's own, 1.3% come from a
+folio's gloss. 97.9% of them are the manuscript's own, 1.3% come from a
 passage the folio was read against, and 0.8% are ordinary English supplied to
 make a sentence. Every paragraph names the folios it renders. Where Book One
 and Book Two disagree, Book Two is right.
