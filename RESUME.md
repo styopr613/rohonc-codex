@@ -1,23 +1,26 @@
 # Where this stopped — 2026-09-22
 
-## THE COVER BADGE — DONE 2026-09-22 (Cover Maker design 20260921-212932-2sdz)
+## THE COVER — DONE 2026-09-22 (Cover Maker design 20260921-212932-2sdz)
 
 The baked "THE FIRST COMPLETE ENGLISH RENDERING" roundel is cloned out of the
-raw art (`gen/20260921-212932-2sdz.png`, backup `.png.pre-badge-20260922`) and
-a real Cover Maker badge stands in its place, in the saved design
-(`.meta.json`, backup `.meta.json.pre-badge-20260922`): shape `seal`, flat,
-#b3261e, white ink, `badge_show` true, placed by `badge_x` 0.185 / `badge_y`
-0.072, size 0.82. Text "FIRST EDITION" in the disc; `badge_text2` "NEVER
-BEFORE READ  •  NEVER SEEN BY HUMAN EYES" splits onto the top and bottom arcs
-(a text2 over 16 characters is rim-split). It clears the title box.
+raw art with paper from the same rows, tone-matched to the annulus round the
+hole (`gen/20260921-212932-2sdz.png`; the untouched art is
+`.png.pre-badge-20260922`). A Cover Maker seal was tried in its place and taken
+off again; the owner wanted the line in the cover's own lettering. So "FIRST
+TIME IN PRINT" is SET INTO THE ART, Cinzel Black (the variable Cinzel.ttf has
+Regular/Bold/Black), sized to the baked subtitle's 110px cap height, ink
+(20,7,8) measured from that subtitle, centred on its axis (x 0.536), at y 4180
+of 5056 in the empty space between the subtitle and the imprint. No badge keys
+remain in the design. Why not a native slot: every front-text slot and the
+`text` badge draw a knock-out halo and load the Regular weight, and the baked
+lines on this cover are heavy; on cream paper the halo reads as a smudge.
 
-Carried through: the composed front (300 dpi, 2560px) is the shelf book's
-`cover.jpg` (backup `cover.jpg.pre-seal-20260922`), the EPUB carries the same
-bytes, the reader's copy is republished, the 6x9 wrap renders with the seal on
-the front only, and the site's `img/book3d.png` is regenerated with the
-studio's own `book3d.snapshot` at rx -14 / ry -34 from the composed wrap — the
-master is `work/rohonc/book3d.png` and ktsite copies it. The KDP wrap is
-downloaded from the studio as before; the design opens there as it is now.
+Carried through: the composed front is the shelf book's `cover.jpg` (backup
+`cover.jpg.pre-seal-20260922` is the roundel version), the EPUB carries the
+same bytes, the reader's copy is republished, the 6x9 wrap renders with the
+line on the front only, and `work/rohonc/book3d.png` is regenerated with the
+studio's `book3d.snapshot` (rx -14, ry -34) and copied to the site by ktsite.
+The KDP wrap is downloaded from the studio as before.
 
 ## THE NEXT THING TO DO: THE GITHUB REPOSITORY
 
