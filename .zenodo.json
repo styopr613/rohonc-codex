@@ -1,0 +1,12 @@
+{
+  "title": "The Rohonc Codex, read: an attempt, and everything needed to check it",
+  "description": "<p>An attempt to read the Rohonc Codex (MTAK MS K 114), a paper book of the sixteenth century in a script found in no other document, building on the dictionary and grammar published by Levente Zoltán Király and Gábor Tokai in 2018.</p><p><strong>It has not been peer reviewed. It is published so that it can be attacked.</strong></p><p>Every word of the reading carries its evidence: a plain word is read, a word marked * is read from one passage with nothing in the book able to refuse it, and a word in [brackets] is a restoration counted as a reading nowhere. 94.1% of the manuscript's 29,997 words have a reading; 81.5% of its 4,372 lines have every word read, and 98.9% are complete once the bracketed guesses are counted. The gap between those two figures is how much is being guessed at.</p><p>Fourteen of seventeen attempts to extend the dictionary failed and all fourteen are written up beside the ones that worked. Every test had its bar declared before it ran and no bar was moved afterwards. The one check that is not internal: an anonymous transcription published in 2014, made independently in its own glyph alphabet, agrees with Király and Tokai's on 91.1% of comparable glyphs against 12.9% for the same rows paired at random.</p><p>Király and Tokai's dictionary is their published work and is not redistributed here, nor are the manuscript scans.</p>",
+  "creators": [{"name": "Taylor, Stephen"}],
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": ["Rohonc Codex", "decipherment", "historical cryptography", "undeciphered manuscripts", "digital philology", "reproducibility"],
+  "related_identifiers": [
+    {"identifier": "10.1080/01611194.2018.1449147", "relation": "isDerivedFrom", "resource_type": "publication-article", "scheme": "doi"}
+  ]
+}
