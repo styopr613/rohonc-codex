@@ -299,18 +299,13 @@ whole manuscript, end to end, in a modern language, with every word marked
 for how well it is known, and that is what this edition attempts.
 
 **It was made with AI, under an editor.** Four signs in ten had no meaning in
-the dictionary. The readings of those signs were made by Anthropic's Claude,
-working as the editor's assistant under written standing orders, and every
-one was checked at every place the sign stands in the book before it was
-kept; the editor decided what stood. The English of Book One was written by
-OpenAI's GPT-5.6 from the gloss and the books the codex is compiled from, and
-then counted back against the gloss word by word. The folio English on the
-website is DeepSeek's, written from the gloss and nothing else. Two models
-from other labs, Gemini 2.5 Pro and Grok 4.7, were shown the results and
-asked what tests they would demand; those tests were run as specified and are
-reported, the failures beside the passes. Every figure in this book comes from
-a program that can be rerun, and where any of this went wrong it is written
-down with the number it went wrong by.
+the dictionary. Anthropic's Claude decoded the remaining signs using Kiraly and
+Tokai's dictionary as a foundation, working as the editor's assistant under
+written standing orders, and every one was checked at every place the sign
+stands in the book before it was kept; the editor decided what stood.
+Different models assembled the gloss and composed the translation. Every
+figure in this book comes from a program that can be rerun, and where any of
+this went wrong it is written down with the number it went wrong by.
 
 **The book is in two parts.** Book Two is the gloss: the manuscript folio by
 folio and line by line, each sign rendered by Kiraly and Tokai's dictionary
