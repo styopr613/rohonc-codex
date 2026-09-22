@@ -53,9 +53,11 @@ import ktsource as S
 
 OUT = os.path.join(corpus.ROOT, "work", "rohonc", "translation", "reading.md")
 ACC = os.path.join(corpus.ROOT, "work", "rohonc", "reading_account.json")
-MODEL = "deepseek/deepseek-v4-pro-0813"
-EXTRA = {"reasoning": {"enabled": False}}
-PER_CALL = 4
+SENSES = os.path.join(corpus.ROOT, "work", "rohonc", "senses.json")
+FORMULAS = os.path.join(corpus.ROOT, "work", "rohonc", "translation", "formulas.md")
+MODEL = "openai/gpt-5.6-sol"
+EXTRA = {"reasoning": {"effort": "medium"}}
+PER_CALL = 1
 BAR = 0          # words from neither the manuscript nor its sources
 
 SYSTEM = """You are making a reading edition of the Rohonc Codex, a sixteenth-century
@@ -71,6 +73,12 @@ For each folio you are given, in this order:
                    Eve, the Golden Legend, the apocryphal gospels, Barlaam, the missal,
                    the mystery plays. The compiler knew these stories and wrote for
                    readers who knew them too.
+  THE FULL DICTIONARY SENSES
+                   Király and Tokai's whole entry for every sign on the folio, not
+                   merely its first sense. Choose the sense that makes the sentence;
+                   their example translations and folio citations are the guide.
+  FIXED FORMULAS   repeated phrases already resolved from those dictionary entries.
+                   Use their fixed English whenever the matching phrase occurs.
 
 Write what the folio says, in clear English prose, using the source to resolve what
 the manuscript's broken lines are reaching for. It must READ: a person who knows none
@@ -99,7 +107,9 @@ THE RULES:
   "six-hundred and six-thousand and six-ten and six" is six hundred, and six thousand,
   and sixty, and six, and all four parts stay.
 - Resolve the formulas the same way every time: the angel who hides himself is Lucifer;
-  "in turn" introduces the next item; "somebody" is a man; "then-exist" is "there was".
+  use the supplied formula table. Choose pronouns and finite verbs from the full senses
+  and the surrounding lines. Never print apparatus labels such as "somebody", "exist",
+  "in turn", "then-exist", "chapter-oh", or "O chapter".
 - THE HOUSE VOICE, the same one used for every other edition on this imprint: plain
   words a twelve-year-old reads easily. Prefer the common word over the literary one
   wherever the common word is equally faithful. Do not sanitise: where the manuscript
@@ -114,8 +124,10 @@ THE RULES:
 - Punctuate for sense. A question mark only where the line is actually a question.
   "Master, do not wash my feet" is a refusal, not a question.
 - No commentary, no notes, no quotation of the gloss, no editorial voice. Just the text.
-- Paragraph naturally. End each paragraph with the folios it renders in brackets, like
-  (052v) or (029r-030v).
+- Return exactly one plain prose paragraph for each folio, with no heading or preface.
+  End it with that folio in parentheses, like (052v). Do not put the citation in square
+  brackets. Avoid semicolons: use full sentences. Do not chain clauses with repeated
+  ", and". Every sentence must have a finite verb unless it is a deliberate exclamation.
 
 NEVER DESCRIBE THE MATERIAL. You are not writing about this manuscript, you are writing
 it out. Do not summarise what a folio contains, do not say what a source says, do not
@@ -134,28 +146,30 @@ TWO WORKED EXAMPLES, which are the standard. The first is an easy page.
     a blind man, and that soldier was Longinus, and he ran his spear into the side
     of the Lord Jesus Christ. (052v)
 
-The second is a hard page: formulaic, half of it broken, and the source is what
-tells you what it is saying. Note that it is written as sentences even so, that the
-source (the angels commanded to bow to Adam, and one refusing) resolves line 7, and
-that nothing is invented to fill the holes.
+The second is a hard page whose first-sense gloss once produced fragments. The full
+dictionary entries identify "we", "our forefather", 257, forty days and forty nights,
+hell, and the throne on this very folio. Notice that the result supplies syntax but no
+new event, uses no semicolons, and stays in plain modern English.
 
-    gloss: Lord-<divine> mother be_born and hide_oneself-angel to-Lord to-Lord /
-    hide_oneself-angel this on throne [?] Lord-<divine> <of>-Lord [?] / exist earth
-    [?] from-father God [?] Michael / angel believe servant stand_up up and then-exist
-    stand_up / heavenly say from-father-<divine> [?] go to-hide_oneself-angel and /
-    hide_oneself-angel bow_down on throne <of>-Lord and then-exist inside [?] /
-    bow_down and from angel each,_every to-which hide_oneself-angel bow_down /
-    and then-exist [?] from-father God [?] and shout
+    gloss: beginning Lord-divine and earth / sun and moon this write / Elijah prophet /
+    say God angel to Elijah prophet / before somebody be_made / father Adam bow_down
+    before Lord / God heaven eternal and brethren / many angel and father God many
+    angel around / among angel two half hundred seven before somebody be_made / father
+    Adam and angel exist Lucifer and other angel / and angel pray forty day forty night /
+    Lucifer among brethren in hell / again angel say Elijah / Elijah when exist as
+    Lucifer who do this / Lucifer when sit on throne God Father / God Father go
 
-    The mother of the Lord God was born; and Lucifer spoke to the Lord, to the Lord;
-    Lucifer set himself upon the throne, equal to the Lord God. There was the earth;
-    and then God the Father eternal, and Michael. The angels, faithful servants, rose
-    up; and when they had risen the heavenly ones spoke. God the Father eternal went
-    to Lucifer, and Lucifer bowed down before the throne of the Lord; and within, they
-    bowed down, every one of the angels, to him whom Lucifer would not bow to. And
-    then God the Father eternal saw it, and cried out. (002r)
+    Once there was the Lord God, and there was the earth. The sun and the moon were
+    there, as scripture says. Elijah the prophet heard the angel of God speak: before
+    we were made, our forefather Adam bowed down before the Lord. God was in eternal
+    heaven with the brethren, and God the Father had many angels around him. Among the
+    angels, two hundred and fifty-seven were there before we were made. Our forefather
+    Adam and the angels were there. Lucifer was there too, with the other angels. The
+    angels prayed for forty days and forty nights. Lucifer was among the brethren in
+    hell. Again the angel said to Elijah: Elijah, Lucifer did this when he sat on the
+    throne of God the Father, and God the Father went to him. (004v)
 
-Return only the prose."""
+Return only the prose paragraph."""
 
 
 def blocks():
@@ -165,6 +179,7 @@ def blocks():
     for m in re.finditer(r"^## (\d{3}[rv])([^\n]*)\n(.*?)(?=^## |\Z)", txt, re.M | re.S):
         pg, title, body = m.groups()
         lines = []
+        notes = []
         cur = None
         for l in body.splitlines():
             if l.startswith("**"):
@@ -172,19 +187,53 @@ def blocks():
             elif l.strip().startswith("`") and cur:
                 lines.append(cur + "\n       gloss: " + l.strip().strip("`"))
                 cur = None
+            elif l.startswith(">"):
+                notes.append(l.lstrip("> ").strip())
         if cur:
             lines.append(cur)
-        out[pg] = {"title": title.strip(" —"), "lines": lines}
+        out[pg] = {"title": title.strip(" —"), "lines": lines,
+                   "note": " ".join(notes)}
     return out
 
 
-def folio_prompt(pg, bl, src):
+def sense_block(pg, senses):
+    """K&T's whole entry for every sign, in line and word order."""
+    out = []
+    for line in senses.get(pg, []):
+        out.append(f"  line {line.get('line') or '?'}")
+        for i, word in enumerate(line.get("words", []), 1):
+            entries = word.get("entry") or []
+            if not entries:
+                entries = [t for part in word.get("parts", [])
+                           for t in part.get("entry", [])]
+            desc = " || ".join(entries) if entries else "not in the dictionary"
+            out.append(f"    {i}. {word.get('hex', '?')}: {desc}")
+    return out
+
+
+def folio_prompt(pg, bl, src, senses, formulas):
     d = src.get(pg, {})
     p = [f"FOLIO {pg}" + (f" — {bl[pg]['title']}" if bl[pg]["title"] else ""), "",
          "THE MANUSCRIPT"]
     p += bl[pg]["lines"]
+    order = list(bl)
+    pos = order.index(pg)
+    context = []
+    if pos:
+        prev = order[pos - 1]
+        context += [f"  preceding folio {prev} — {bl[prev]['title']}"]
+        context += ["    " + x.replace("\n", " ") for x in bl[prev]["lines"][-2:]]
+    if pos + 1 < len(order):
+        nxt = order[pos + 1]
+        context += [f"  following folio {nxt} — {bl[nxt]['title']}"]
+        context += ["    " + x.replace("\n", " ") for x in bl[nxt]["lines"][:2]]
+    if context:
+        p += ["", "NEIGHBORING CONTEXT (for continuity only; do not add its events)"]
+        p += context
     p.append("")
     p.append("THE SOURCE")
+    if bl[pg].get("note"):
+        p.append("  note on this folio: " + bl[pg]["note"])
     if d.get("note"):
         p.append("  note on this folio: " + d["note"])
     for c in d.get("cited", [])[:14]:
@@ -193,6 +242,9 @@ def folio_prompt(pg, bl, src):
         p.append(f"  from the {r['source']}: {r['text']}")
     if not d.get("cited") and not d.get("retrieved"):
         p.append("  (nothing found; go on the manuscript alone)")
+    p += ["", "THE FULL DICTIONARY SENSES"]
+    p += sense_block(pg, senses) or ["  (no dictionary data for this folio)"]
+    p += ["", "FIXED FORMULAS", formulas]
     return "\n".join(p)
 
 
@@ -277,14 +329,44 @@ def words_of(pg, bl, src):
     return g, s
 
 
-def do_chunk(pages, bl, src):
-    body = "\n\n".join(folio_prompt(pg, bl, src) for pg in pages)
+APPARATUS = re.compile(
+    r"\b(?:in turn|somebody|then-exist|exist|chapter-oh|O chapter)\b", re.I)
+ARCHAIC = re.compile(
+    r"\b(?:thee|thou|thy|thine|ye|unto|whither|behold|verily|lo|doth|hath|saith)\b",
+    re.I)
+
+
+def prose_issues(text, pages):
+    """Mechanical failures that merit one more writing attempt."""
+    issues = []
+    stripped = text.strip()
+    if "\n\n" in stripped:
+        issues.append("returned more than one paragraph")
+    for pg in pages:
+        if not re.search(rf"\({re.escape(pg)}\)\s*$", stripped):
+            issues.append(f"did not end with ({pg})")
+    bad = sorted(set(m.group(0) for m in APPARATUS.finditer(stripped)))
+    if bad:
+        issues.append("left apparatus words: " + ", ".join(bad))
+    old = sorted(set(m.group(0) for m in ARCHAIC.finditer(stripped)))
+    if old:
+        issues.append("used archaic words: " + ", ".join(old))
+    words = max(1, len(re.findall(r"\b[\w’'-]+\b", stripped)))
+    if 100.0 * stripped.count(";") / words > 1.2:
+        issues.append("used too many semicolons")
+    if 100.0 * len(re.findall(r",\s+and\b", stripped, re.I)) / words > 1.3:
+        issues.append("chained too many clauses with ', and'")
+    return issues
+
+
+def do_chunk(pages, bl, src, senses, formulas):
+    body = "\n\n".join(folio_prompt(pg, bl, src, senses, formulas) for pg in pages)
     gw, sw = set(), set()
     for pg in pages:
         a, b = words_of(pg, bl, src)
         gw |= a; sw |= b
     caught = ()
-    for attempt in (1, 2):
+    for attempt in (1, 2, 3):
         ask = body
         if caught:
             ask += ("\n\nYOUR LAST ATTEMPT USED THESE WORDS, AND THEY ARE IN NEITHER THE "
@@ -309,23 +391,30 @@ def do_chunk(pages, bl, src):
                                    temperature=0.3, extra=EXTRA)
             ms, sr, no = account(text, gw, sw)
             missing = [pg for pg in pages if pg not in text]
-        if len(no) <= BAR or attempt == 2:
+        issues = prose_issues(text, pages)
+        if (len(no) <= BAR and not issues) or attempt == 3:
             return text, {"pages": pages, "manuscript": len(ms), "source": len(sr),
                           "neither": sorted(no), "attempts": attempt,
-                          "missing": missing,
+                          "missing": missing, "prose_issues": issues,
                           "cost": float((usage or {}).get("cost") or 0)}
         caught = sorted(no)[:26]
+        if issues:
+            body += ("\n\nYOUR LAST ATTEMPT ALSO FAILED THESE PLAIN-ENGLISH RULES:\n  "
+                     + "\n  ".join(issues) + "\nWrite the folio again as one clear paragraph.")
 
 
 def run(only=None):
     bl = blocks()
     src = json.load(open(S.OUT, encoding="utf-8")) if os.path.isfile(S.OUT) else {}
+    senses = json.load(open(SENSES, encoding="utf-8"))
+    formulas = open(FORMULAS, encoding="utf-8").read()
     fol = [pg for pg, _, _, _ in ktbook.folios()]
     pages = only or fol
     groups = [pages[i:i + PER_CALL] for i in range(0, len(pages), PER_CALL)]
     got, log = {}, []
     with cf.ThreadPoolExecutor(max_workers=6) as ex:
-        futs = {ex.submit(do_chunk, g, bl, src): tuple(g) for g in groups}
+        futs = {ex.submit(do_chunk, g, bl, src, senses, formulas): tuple(g)
+                for g in groups}
         done = 0
         for f in cf.as_completed(futs):
             key = futs[f]
