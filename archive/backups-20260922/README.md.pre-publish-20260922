@@ -1,56 +1,12 @@
-# The Rohonc Codex, read
+# Voynich hypothesis-ranking harness
 
-The Rohonc Codex is a paper book of the sixteenth century, 224 leaves, held at
-the Library of the Hungarian Academy of Sciences in Budapest, written in a
-script that occurs in no other document. In 2018 Levente Zoltán Király and
-Gábor Tokai published the dictionary and grammar that opened it. This
-repository is an attempt to read the rest of it, and everything needed to
-check that attempt.
+One metric vector, one held-out protocol, fourteen candidate processes and five
+controls for the Voynich manuscript's text, and a row that says how much of the
+difference is sampling noise.
 
-**It has not been peer reviewed. It is published so that it can be attacked.**
-
-* **[`TESTS.md`](TESTS.md)** — every test, its bar declared before the run, and
-  the ones that failed. Start here if you want to know whether to believe any
-  of it.
-* **[`CONCLUSION.md`](CONCLUSION.md)** — the plain-English account, including
-  what is still guessed at.
-* **[`ROHONC.md`](ROHONC.md)** — the long technical record.
-* **[`METHOD.md`](METHOD.md)** — the rules the work was done under, written
-  before the results.
-* **[`book/`](book)** — the edition itself as an EPUB, free.
-
-## What it claims, and what it does not
-
-Every word of the reading carries its evidence. A plain word is read. A word
-marked `*` is read from one passage with nothing in the book able to refuse it.
-A word in `[brackets]` is a restoration, a guess, and is counted as a reading
-nowhere. `[...]` is a word nobody can read.
-
-Of the manuscript's 29,997 words this edition has a reading for 94.1%. Of its
-4,372 lines, 81.5% have every word read; 98.9% are complete once the bracketed
-guesses are counted. The gap between those two numbers is how much is being
-guessed at, and it is meant to be visible.
-
-The one check that is not internal: everything here reads Király and Tokai's
-transcription, so no test of this project's could catch an error in it. An
-anonymous transcription published in 2014 — a different person, a different
-glyph alphabet, no word division, four years earlier — agrees with it on 91.1%
-of the glyphs that can be compared, against 12.9% for the same rows paired at
-random.
-
-**Király and Tokai's dictionary is their published work and is not in this
-repository.** Neither are the manuscript scans. `DATA_PROVENANCE.md` says where
-everything came from and what may be done with it.
-
-## The Voynich harness
-
-This began as something else: a hypothesis-ranking harness for the Voynich
-manuscript, which is still here and still stands on its own. One metric vector,
-one held-out protocol, fourteen candidate processes and five controls, and a
-row that says how much of the difference is sampling noise.
-**[`RESULTS.md`](RESULTS.md)** is that deliverable. The Rohonc work started as
-its positive control: a book whose script was genuinely solved, to check that
-the instruments could tell a solved book from an unsolved one.
+**Start with [`RESULTS.md`](RESULTS.md).** It is the deliverable: the ranking,
+what each process fails on, the corrections made along the way, and what none of
+it can decide.
 
 ## What is here
 
@@ -121,3 +77,5 @@ own code: Sachak's `voynich-fingerprint`, Timm & Schinner's self-citation jar,
 Greshko's Naibbe cipher, Gaskell & Bowern's gibberish samples, and the grille
 and Llull implementations in Antenore's `voynich-toolkit`. Full attribution and
 licences are in `RESULTS.md` §9. Transliterations are Zandbergen's, CC0.
+
+Private working repository. Publish only if the table turns out to be worth it.
