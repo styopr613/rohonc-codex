@@ -148,7 +148,7 @@ main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:v
 .hero .acts a.go{background:var(--rub);color:#fff}
 .hero .acts a:hover{background:var(--rub);color:#fff}
 .hero .sz{font-size:15px;color:var(--soft);margin:10px 0 0}
-.strip{margin:1.6em -64px;padding:30px 0 22px;background:var(--paper2);position:relative;--pad:0px;--lens:104px}
+.strip{margin:1.6em -64px;padding:36px 0 22px;background:var(--paper2);position:relative;--pad:0px;--lens:104px}
 .strip .win{position:relative;height:104px}
 .strip .track{position:absolute;inset:0;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-ms-overflow-style:none;overscroll-behavior-x:contain}
 .strip .track::-webkit-scrollbar{height:0;display:none}
@@ -159,22 +159,22 @@ main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:v
 .strip .it b{font-weight:400;font-size:16px;white-space:nowrap}
 .strip .it span{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11.5px;color:var(--soft);letter-spacing:.06em}
 .strip .fade{position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,var(--paper) 0,transparent 8%,transparent 92%,var(--paper) 100%)}
-.strip .glass,.strip .nudge,.strip .rcap{display:none}
+.strip .glass,.strip .lens,.strip .nudge,.strip .rcap{display:none}
 /* with JS the strip becomes a thing you drag, and the glass reads what passes under it */
 .strip.glassed .track{cursor:grab;scroll-snap-type:x proximity}
 .strip.glassed .track.grabbing{cursor:grabbing}
 .strip.glassed .it{flex-direction:row;scroll-snap-align:center}
 .strip.glassed .it b,.strip.glassed .it span{position:absolute;width:1px;height:1px;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-.strip.glassed .glass{display:block;position:absolute;left:50%;top:50%;width:200px;height:200px;margin:-100px 0 0 -100px;pointer-events:none}
-.strip .lens{position:absolute;left:50%;top:50%;width:var(--lens);height:var(--lens);margin:calc(var(--lens)/-2) 0 0 calc(var(--lens)/-2);border-radius:50%;overflow:hidden;background:var(--paper2)}
+.strip.glassed .glass{display:block;position:absolute;left:50%;top:50%;width:var(--gw);height:var(--gh);margin:calc(var(--gy) * -1) 0 0 calc(var(--gx) * -1);pointer-events:none}
+.strip.glassed .lens{display:block;position:absolute;left:50%;top:50%;width:var(--lens);height:var(--lens);margin:calc(var(--lens)/-2) 0 0 calc(var(--lens)/-2);border-radius:50%;overflow:hidden;background:var(--paper2);pointer-events:none}
 .strip .lens .rail{position:absolute;left:0;top:50%;transform-origin:0 50%;will-change:transform}
-.strip .rim{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
+.strip .rim{display:block;width:100%;height:100%}
 .strip.glassed .nudge{display:block;position:absolute;top:50%;width:38px;height:38px;margin-top:-19px;padding:0;border:1px solid var(--line);border-radius:50%;background:var(--paper);color:var(--soft);font:400 26px/1 "EB Garamond",Garamond,serif;cursor:pointer}
 .strip .nudge:hover{color:var(--rub);border-color:var(--rub)}
 .strip .nudge[disabled]{opacity:.25;cursor:default;color:var(--soft);border-color:var(--line)}
 .strip .nudge.l{left:12px}
 .strip .nudge.r{right:12px}
-.strip.glassed .rcap{display:block;text-align:center;margin:22px 0 0;padding:0 16px;min-height:28px}
+.strip.glassed .rcap{display:block;text-align:center;margin:var(--cap) 0 0;padding:0 16px;min-height:28px}
 .strip .rcap b{font-weight:400;font-size:21px;color:var(--rub)}
 .strip .rcap span{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px;color:var(--soft);letter-spacing:.06em;margin-left:12px}
 .shot{margin:1.6em 0}
@@ -410,20 +410,27 @@ def folio_order():
 # the CSS clips and the ring the SVG paints are the same circle by construction.
 STRIP_OPEN = 4   # which sign the strip opens under the glass
 
-RIM_SVG = """<svg class="rim" viewBox="-100 -100 200 200" aria-hidden="true">
-<defs><linearGradient id="rgring" x1="0" y1="0" x2="1" y2="1">
-<stop offset="0" stop-color="#d8b475"/><stop offset=".42" stop-color="#8a6a33"/>
-<stop offset=".6" stop-color="#eed9a8"/><stop offset="1" stop-color="#63491f"/></linearGradient>
-<linearGradient id="rghand" x1="0" y1="0" x2="0" y2="1">
-<stop offset="0" stop-color="#7c5c2e"/><stop offset=".55" stop-color="#3a2a14"/>
-<stop offset="1" stop-color="#5d4520"/></linearGradient></defs>
-<g transform="rotate(45)"><rect x="50" y="-9" width="46" height="18" rx="9" fill="url(#rghand)"/></g>
-<circle r="57" fill="none" stroke="url(#rgring)" stroke-width="11"/>
-<circle r="51.5" fill="none" stroke="rgba(29,26,22,.34)" stroke-width="1"/>
-<circle r="62.5" fill="none" stroke="rgba(29,26,22,.20)" stroke-width="1"/>
-<circle r="52" fill="#fff" opacity=".05"/>
-<path d="M-37 -28 A46 46 0 0 1 4 -51" fill="none" stroke="#fff" stroke-width="6"
- stroke-linecap="round" opacity=".32"/></svg>"""
+# The glass itself is a photograph made with Seedream (harness/ktglass.py), cut
+# so that the lens is a real hole. Nothing about its geometry is typed here: the
+# cutter measured the hole it left and wrote the numbers to work/rohonc/glass.json,
+# and everything below is computed from them, so a different glass -- a thicker
+# rim, a handle at another angle -- needs no CSS touched, only the file swapped.
+LENS_PX = 100    # the hole, on screen
+TUCK = 5         # the clipped rail runs this much under the rim, so no seam of
+                 # paper shows between the magnified sign and the brass
+
+
+def glass_geom():
+    g = json.load(open(os.path.join(WORK, "glass.json"), encoding="utf-8"))
+    k = LENS_PX / (2.0 * g["r"])
+    below = (g["h"] - g["cy"]) * k          # how far the handle hangs below the lens
+    return {
+        "w": round(g["w"] * k), "h": round(g["h"] * k),
+        "cx": round(g["cx"] * k), "cy": round(g["cy"] * k),
+        "clip": LENS_PX + TUCK,
+        # the caption clears the lowest ink in the picture, whatever picture it is
+        "cap": max(16, round(below - 52 + 14)),
+    }
 
 
 def strip_html(rows, sg, n=54):
@@ -456,11 +463,16 @@ def strip_html(rows, sg, n=54):
     op = min(STRIP_OPEN, len(pick) - 1)
     cap = (f'<p class="rcap"><b>{html.escape(gloss(pick[op]))}</b>'
            f'<span>{html.escape(spaced(pick[op]["code"]))}</span></p>')
-    return (f'<div class="strip" data-open="{op}"><div class="win">'
+    gg = glass_geom()
+    style = (f'--lens:{gg["clip"]}px;--gw:{gg["w"]}px;--gh:{gg["h"]}px;'
+             f'--gx:{gg["cx"]}px;--gy:{gg["cy"]}px;--cap:{gg["cap"]}px')
+    return (f'<div class="strip" data-open="{op}" style="{style}"><div class="win">'
             f'<div class="track" tabindex="0" role="group" '
             f'aria-label="signs of the codex: drag the strip, or use the left and right arrow keys">'
             f'<div class="rail">{it}</div></div>'
-            f'<div class="glass"><div class="lens"><div class="rail">{it}</div></div>{RIM_SVG}</div>'
+            f'<div class="lens"><div class="rail">{it}</div></div>'
+            f'<div class="glass"><img class="rim" src="/rohonc/img/glass.png" alt="" '
+            f'width="{gg["w"]}" height="{gg["h"]}"></div>'
             f'<div class="fade"></div>'
             f'<button class="nudge l" type="button" aria-label="previous sign">‹</button>'
             f'<button class="nudge r" type="button" aria-label="next sign">›</button>'
@@ -1128,6 +1140,14 @@ def main(argv):
         files.append(("/rohonc/data/signs.json", "signs.json",
                       "every sign of the script as an SVG outline, drawn from Király and Tokai's font",
                       os.path.join(out, "data", "signs.json")))
+    # the glass ships at three times the size it is drawn at, which is sharp on a
+    # retina screen and a tenth of the master's weight
+    from PIL import Image as _Im
+    gg = glass_geom()
+    _g = _Im.open(os.path.join(WORK, "glass.png"))
+    _g = _g.resize((gg["w"] * 3, gg["h"] * 3), _Im.LANCZOS)
+    os.makedirs(os.path.join(out, "img"), exist_ok=True)
+    _g.save(os.path.join(out, "img", "glass.png"), optimize=True)
     copy(os.path.join(TR, "english.json"), os.path.join(out, "data", "english.json"))
     files.append(("/rohonc/data/english.json", "english.json",
                   "the English written for each folio from its gloss", os.path.join(out, "data", "english.json")))

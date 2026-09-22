@@ -55,10 +55,11 @@ OUT = os.path.join(corpus.ROOT, "work", "rohonc", "translation", "reading.md")
 ACC = os.path.join(corpus.ROOT, "work", "rohonc", "reading_account.json")
 SENSES = os.path.join(corpus.ROOT, "work", "rohonc", "senses.json")
 FORMULAS = os.path.join(corpus.ROOT, "work", "rohonc", "translation", "formulas.md")
-MODEL = "openai/gpt-5.6-sol"
+MODEL = "openai/gpt-5.6-luna-pro"
 EXTRA = {"reasoning": {"effort": "medium"}}
 PER_CALL = 1
 BAR = 0          # words from neither the manuscript nor its sources
+MAX_ATTEMPTS = 1
 
 SYSTEM = """You are making a reading edition of the Rohonc Codex, a sixteenth-century
 manuscript, in English, for people who want to know what it says.
@@ -366,7 +367,7 @@ def do_chunk(pages, bl, src, senses, formulas):
         a, b = words_of(pg, bl, src)
         gw |= a; sw |= b
     caught = ()
-    for attempt in (1, 2, 3):
+    for attempt in range(1, MAX_ATTEMPTS + 1):
         ask = body
         if caught:
             ask += ("\n\nYOUR LAST ATTEMPT USED THESE WORDS, AND THEY ARE IN NEITHER THE "
@@ -392,7 +393,7 @@ def do_chunk(pages, bl, src, senses, formulas):
             ms, sr, no = account(text, gw, sw)
             missing = [pg for pg in pages if pg not in text]
         issues = prose_issues(text, pages)
-        if (len(no) <= BAR and not issues) or attempt == 3:
+        if (len(no) <= BAR and not issues) or attempt == MAX_ATTEMPTS:
             return text, {"pages": pages, "manuscript": len(ms), "source": len(sr),
                           "neither": sorted(no), "attempts": attempt,
                           "missing": missing, "prose_issues": issues,
@@ -412,7 +413,7 @@ def run(only=None):
     pages = only or fol
     groups = [pages[i:i + PER_CALL] for i in range(0, len(pages), PER_CALL)]
     got, log = {}, []
-    with cf.ThreadPoolExecutor(max_workers=6) as ex:
+    with cf.ThreadPoolExecutor(max_workers=12) as ex:
         futs = {ex.submit(do_chunk, g, bl, src, senses, formulas): tuple(g)
                 for g in groups}
         done = 0
