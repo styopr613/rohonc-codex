@@ -1,0 +1,44 @@
+# Licence
+
+Three parts, three licences, because they are three different kinds of thing.
+The full texts are in `LICENSES/`.
+
+## The programs — MIT
+
+`harness/`, and any script or tool in this repository.
+See `LICENSES/MIT.txt`. Take them, use them, sell what you build with them.
+
+## The data — CC BY 4.0
+
+The saved runs in `work/rohonc/`, `harness/proposals.json`, the reader's
+edition, the alignments, and the mechanical outputs generally.
+See `LICENSES/CC-BY-4.0.txt`. Build on them; credit this work.
+
+## The translation and the editorial prose — CC BY-NC-ND 4.0
+
+Book One and Book Two as published, the EPUB in `book/`, and the written
+documents in this repository: `ROHONC.md`, `CONCLUSION.md`, `TESTS.md`,
+`METHOD.md`, `RESULTS.md` and the rest.
+See `LICENSES/CC-BY-NC-ND-4.0.txt`.
+
+You may read it, quote it, teach from it, check it and republish it whole for
+non-commercial purposes, with credit. You may not sell it, and you may not
+publish an altered version of it. **The commercial rights to the English text
+are reserved**, because a paperback of it is sold and the text is the thing
+being sold.
+
+Nothing here is meant to restrict checking the work. Quotation for review,
+criticism, scholarship and reproduction of the results is what this is
+published for, and the data and the programs, which are what you need in order
+to check it, are under the permissive licences above.
+
+## What is not this project's to license
+
+Levente Zoltán Király and Gábor Tokai's dictionary, grammar and transcription
+are their published work. They are not redistributed here and no licence over
+them is claimed or implied. The manuscript images belong to the Library of the
+Hungarian Academy of Sciences. The manuscript itself is of the sixteenth
+century and is out of copyright. `DATA_PROVENANCE.md` states the position on
+every file.
+
+Copyright 2026 Stephen Taylor.

@@ -892,7 +892,13 @@ def build():
                        "Kiraly and Gabor Tokai and are theirs; their own "
                        "translation of the codex is unpublished and this is "
                        "not it. The editorial matter and the English are this "
-                       "edition's own."),
+                       "edition's own, under Creative Commons "
+                       "Attribution-NonCommercial-NoDerivatives 4.0. They "
+                       "may be read, quoted, taught from and republished "
+                       "whole for non-commercial purposes with credit, and "
+                       "not sold. The programs and the data behind them are "
+                       "MIT and CC BY 4.0 in the repository, so that nobody "
+                       "who wants to check this work is restricted at all."),
             "edition": "First edition",
         },
         "front": [{"type": "introduction", "pos": 0,

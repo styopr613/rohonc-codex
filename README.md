@@ -44,6 +44,28 @@ random.
 repository.** Neither are the manuscript scans. `DATA_PROVENANCE.md` says where
 everything came from and what may be done with it.
 
+## Licence
+
+Three parts, three licences, set out in full in [`LICENSE`](LICENSE).
+
+| what | licence | what you may do |
+|---|---|---|
+| the programs, `harness/` | MIT | anything, including sell what you build |
+| the data and saved runs | CC BY 4.0 | build on it, with credit |
+| the translation and the prose | CC BY-NC-ND 4.0 | read, quote, teach, check, republish whole non-commercially, with credit |
+
+**The commercial rights to the English text are reserved.** A paperback of it is
+sold, and the text is the thing being sold. Everything you need in order to
+*check* the work — the data and the programs — is under the permissive licences,
+which is the point: the restriction is on reselling the translation, not on
+attacking it.
+
+Király and Tokai's dictionary, grammar and transcription are their published
+work, are not redistributed here, and no licence over them is claimed or
+implied. The manuscript images belong to the Library of the Hungarian Academy of
+Sciences; the manuscript itself is out of copyright. `DATA_PROVENANCE.md` states
+the position on every file.
+
 ## Citing this
 
 Cite the concept DOI, which always resolves to the latest version:
