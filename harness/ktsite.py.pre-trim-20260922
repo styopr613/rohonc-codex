@@ -1053,14 +1053,16 @@ def runtime():
     return ver, numpy
 
 
-def test_rows():
-    """(number, label, question, programs, runs, docs) for every test in TESTS.md,
-    from its heading and the backtick line under it."""
+def crosswalk(out):
+    """Test number -> the program that produced it -> the saved run, read from
+    the heading and the backtick line under it in TESTS.md. A script is linked
+    when its text is published under /rohonc/code/, a run when it is under
+    /rohonc/data/runs/; anything else is named and not linked."""
     txt = read(os.path.join(ROOT, "TESTS.md"))
     rows = []
     for m in re.finditer(r"^## (Test [^\n—]+?)\s*—\s*([^\n]+)\n\n?((?:`[^\n]*\n?)+)?", txt, re.M):
         label, asks, line = m.group(1).strip(), m.group(2).strip(), (m.group(3) or "")
-        num = int(re.match(r"Test (\d+)", label).group(1))
+        num = re.match(r"Test (\d+)", label).group(1)
         progs, runs, docs = [], [], []
         for tok in re.findall(r"`([^`]+)`", line):
             for part in re.split(r"\s*,\s*", tok):
@@ -1071,63 +1073,47 @@ def test_rows():
                     docs.append(part)
                 elif part.endswith(".txt") or part.startswith("_"):
                     runs.append(part)
-        full = []                      # "ktpos2.txt" and "_score.txt" are written short
+        # "ktpos.txt, ktpos2.txt" and "_score.txt" are written short; resolve them
+        full = []
         for r in runs:
             if r.startswith("_") and full:
                 r = full[-1].replace(".txt", "") + r
             full.append(os.path.basename(r))
-        rows.append((num, label, asks, progs, full, docs))
-    rows.sort()
-    return rows
-
-
-def cited():
-    """The programs and saved runs the results page names. Those are what is
-    served; the rest of the harness comes with the repository."""
-    progs, runs = set(), set()
-    for _, _, _, p, r, _ in test_rows():
-        progs.update(p); runs.update(r)
-    return progs, runs
-
-
-def crosswalk(out):
-    """Test number -> the program that produced it -> the saved run. A script is
-    linked when its text is published under /rohonc/code/, a run when it is under
-    /rohonc/data/runs/; anything else is named and not linked."""
-    def plink(n):
-        return (f'<a href="/rohonc/code/{html.escape(n)}.txt"><code>{html.escape(n)}</code></a>'
-                if os.path.isfile(os.path.join(out, "code", n + ".txt")) else f"<code>{html.escape(n)}</code>")
-    def rlink(n):
-        return (f'<a href="/rohonc/data/runs/{html.escape(n)}">{html.escape(n)}</a>'
-                if os.path.isfile(os.path.join(out, "data", "runs", n)) else html.escape(n))
-    body = ""
-    for n, label, asks, progs, runs, docs in test_rows():
-        pr = ", ".join(plink(x) for x in progs) or "—"
-        rn = ", ".join(rlink(x) for x in runs) + ("" if not docs else " · " + ", ".join(html.escape(d) for d in docs))
-        body += f'<tr id="test-{n}"><th scope="row">{html.escape(label)}</th><td>{html.escape(asks)}</td><td>{pr}</td><td>{rn or "—"}</td></tr>'
+        def plink(n):
+            return (f'<a href="/rohonc/code/{html.escape(n)}.txt"><code>{html.escape(n)}</code></a>'
+                    if os.path.isfile(os.path.join(out, "code", n + ".txt")) else f"<code>{html.escape(n)}</code>")
+        def rlink(n):
+            return (f'<a href="/rohonc/data/runs/{html.escape(n)}">{html.escape(n)}</a>'
+                    if os.path.isfile(os.path.join(out, "data", "runs", n)) else html.escape(n))
+        rows.append((num, label, asks, ", ".join(plink(n) for n in progs),
+                     ", ".join(rlink(n) for n in full) + ("" if not docs else (" · " + ", ".join(html.escape(d) for d in docs)))))
+    rows.sort(key=lambda r: int(r[0]))
+    body = "".join(f'<tr id="test-{n}"><th scope="row">{html.escape(l)}</th><td>{html.escape(a)}</td><td>{p or "—"}</td><td>{r or "—"}</td></tr>'
+                   for n, l, a, p, r in rows)
     return ('<div class="tw"><table class="tests"><thead><tr><th>test</th><th>what it asks</th><th>program</th>'
             '<th>saved run</th></tr></thead><tbody>' + body + "</tbody></table></div>")
 
 
 def code_files(out):
-    """Publish the programs the results page cites, as plain text. Served as
-    .txt because the static handler has no rule for .py. A file served by an
-    earlier build and no longer cited is removed, by name."""
+    """Publish the programs themselves as plain text, and read each one's first
+    docstring line so the listing says what it does. Served as .txt because the
+    static handler has no rule for .py, and a download prompt is not a link."""
     src = os.path.join(ROOT, "harness")
-    dst = os.path.join(out, "code")
-    os.makedirs(dst, exist_ok=True)
-    want, _ = cited()
-    for fn in sorted(os.listdir(dst)):
-        if fn.endswith(".txt") and fn[:-4] not in want:
-            os.remove(os.path.join(dst, fn))
-    out_list = []
-    for fn in sorted(want):
-        if os.path.isfile(os.path.join(src, fn)):
-            open(os.path.join(dst, fn + ".txt"), "w", encoding="utf-8").write(read(os.path.join(src, fn)))
-            out_list.append(fn)
-    return out_list
+    os.makedirs(os.path.join(out, "code"), exist_ok=True)
+    seen = {}
+    for fn in sorted(os.listdir(src)):
+        if not fn.endswith(".py") or ".pre-" in fn:
+            continue
+        txt = read(os.path.join(src, fn))
+        m = re.match(r'\s*"""(.*?)(?:\n|""")', txt, re.S)
+        one = " ".join((m.group(1) if m else "").split())
+        one = re.sub(r"^%s\s*--\s*" % re.escape(fn), "", one)
+        open(os.path.join(out, "code", fn + ".txt"), "w", encoding="utf-8").write(txt)
+        seen[fn] = one or "no description"
+    return sorted(seen.items())
 
-def page_code(out):
+
+def page_code(programs, out):
     ver, numpy = runtime()
     stack = "Python" + (f" {ver}" if ver else "") + (f" with numpy {numpy}" if numpy else "") + " and the standard library"
     body = ["<h1>The programs</h1>", paras("code_lead", "lead"),
@@ -1143,9 +1129,13 @@ def page_code(out):
             "<p>Every test on the <a href=\"/rohonc/tests.html\">checked-results page</a> names its program, and each program "
             "names its saved run. This table is read out of the tests document at build time.</p>",
             crosswalk(out),
-            "<p>These are the programs the results rest on. The whole harness, with its history, goes up "
-            "as a public repository on GitHub; until it does, nothing else is listed here, because a "
-            "hand-kept list of files is stale the first week the code is touched.</p>"]
+            "<h2>Everything else in the harness</h2>",
+            "<p>The rest, by name, each with the first line of its own description. Utilities, the readers, the checkers, "
+            "and the attempts that failed are all here.</p><ul>"]
+    for n, d in programs:
+        body.append(f'<li><a href="/rohonc/code/{html.escape(n)}.txt"><code>{html.escape(n)}</code></a> '
+                    f'<span class="nof">{html.escape(d[:190])}</span></li>')
+    body.append("</ul>")
     return shell("code", "The programs",
                  "Which program produced each number on the checked-results page, what they run on, and every program in the harness as plain text.",
                  "\n".join(body))
@@ -1307,14 +1297,14 @@ def page_data(files, runs, outside):
     body.append("</ul><h2>The working documents</h2>")
     body.extend(paras("docs_lead"))
     body.append("<ul class=\"steps\">" + docs_html() + "</ul>")
-    body.append('<p>The standing orders are published whole at <a href="/rohonc/orders.html">The standing orders</a>. '
-                'The rest go up with the public repository on GitHub, with their history. What they say is on the '
-                '<a href="/rohonc/method.html">method</a>, <a href="/rohonc/tests.html">tests</a> and '
-                '<a href="/rohonc/sources.html">sources</a> pages.</p>')
+    body.append(f'<p>Ask for any of them at <a href="mailto:{CONTACT}">{CONTACT}</a>. '
+                f'What they say is on the <a href="/rohonc/method.html">method</a>, '
+                f'<a href="/rohonc/tests.html">tests</a> and '
+                f'<a href="/rohonc/sources.html">sources</a> pages.</p>')
     body.append("<h2>The outside review</h2><ul>")
     for href, name, desc, p in outside:
         body.append(li(href, name, desc, sz(p) if p else ""))
-    body.append("</ul><h2>Saved runs</h2><p>The runs the checked-results page cites, one file per test, exactly as the program that made it wrote it; each states its bar at the top. <a href="/rohonc/code.html">The programs</a> page says which program made which. The full set of runs goes up with the repository.</p><ul>")
+    body.append("</ul><h2>Saved runs</h2><p>One file per test or measurement, exactly as the script that made it wrote it. The scripts are named in the documents; each run states its bar at the top.</p><ul>")
     for href, name, p in runs:
         body.append(li(href, name, "", sz(p)))
     body.append("</ul>")
@@ -1387,15 +1377,10 @@ def main(argv):
                 im.save(os.path.join(out, "plates", x["file"].replace(".png", ".jpg")), "JPEG", quality=84)
 
     runs = []
-    _, want_runs = cited()
-    rdir = os.path.join(out, "data", "runs")
-    for fn in sorted(os.listdir(rdir)):
-        if fn not in want_runs:
-            os.remove(os.path.join(rdir, fn))
-    for fn in sorted(want_runs):
-        if os.path.isfile(os.path.join(WORK, fn)):
-            copy(os.path.join(WORK, fn), os.path.join(rdir, fn))
-            runs.append((f"/rohonc/data/runs/{fn}", fn, os.path.join(rdir, fn)))
+    for fn in sorted(os.listdir(WORK)):
+        if fn.endswith(".txt") and os.path.isfile(os.path.join(WORK, fn)):
+            copy(os.path.join(WORK, fn), os.path.join(out, "data", "runs", fn))
+            runs.append((f"/rohonc/data/runs/{fn}", fn, os.path.join(out, "data", "runs", fn)))
 
     outside = [("/rohonc/outside-gemini.html", "gemini_tests.md", "Gemini 2.5 Pro's specification", os.path.join(WORK, "outside", "gemini_tests.md")),
                ("/rohonc/outside-grok.html", "grok_tests.md", "Grok 4.7's specification", os.path.join(WORK, "outside", "grok_tests.md"))]
@@ -1426,8 +1411,7 @@ def main(argv):
     w("orders.html", page_orders())
     w("read.html", page_read())
     w("method.html", page_method())
-    code_files(out)
-    w("code.html", page_code(out))
+    w("code.html", page_code(code_files(out), out))
     rd, n_eng = page_reading(order, eng)
     w("reading.html", rd)
     w("dictionary.html", page_dictionary(about, rows, ktn))
