@@ -239,99 +239,6 @@ table.dict tr.open td.ev .short,table.dict tr.open td.ev .more{display:none}
 """
 
 
-
-# The shell -- the family bar, the title, the nav -- is the same on every page
-# here, and a plain link still threw the whole document away and built a new one.
-# That is the repaint. This swaps the sheet and leaves the shell standing, so the
-# bar and the heading above it are never touched and there is nothing to repaint.
-# Without JavaScript every link is still an ordinary link to a real page, and any
-# failure falls back to one.
-ROUTER_JS = """<script>
-(function(){
-  var main=document.querySelector('main.sheet');
-  if(!main||!window.history||!window.fetch||!window.DOMParser) return;
-  var P=new DOMParser(), busy=false;
-
-  function mine(a){
-    if(!a||!a.href||a.target||a.hasAttribute('download')) return false;
-    var u;
-    try{ u=new URL(a.href, location.href); }catch(e){ return false; }
-    if(u.origin!==location.origin) return false;
-    if(u.pathname.indexOf('/rohonc/')!==0) return false;      // the sheet only
-    if(!/(\/|\.html)$/.test(u.pathname)) return false;        // not the epub or the pdf
-    return u;
-  }
-
-  function runScripts(root){
-    var ss=root.querySelectorAll('script');
-    for(var i=0;i<ss.length;i++){
-      var old=ss[i], el=document.createElement('script');
-      for(var j=0;j<old.attributes.length;j++)
-        el.setAttribute(old.attributes[j].name, old.attributes[j].value);
-      el.text=old.textContent;
-      old.parentNode.replaceChild(el, old);
-    }
-  }
-
-  // a page may carry a <style> of its own (the strip's measured glass sizes do);
-  // the shared stylesheet is identical everywhere, so only what differs is copied
-  function pageStyles(doc){
-    var keep=[], have=[];
-    document.querySelectorAll('head style:not([data-page])').forEach(function(n){ have.push(n.textContent); });
-    document.querySelectorAll('head style[data-page]').forEach(function(n){ n.remove(); });
-    doc.querySelectorAll('head style').forEach(function(n){
-      if(have.indexOf(n.textContent)<0) keep.push(n.textContent);
-    });
-    keep.forEach(function(t){
-      var st=document.createElement('style'); st.setAttribute('data-page',''); st.textContent=t;
-      document.head.appendChild(st);
-    });
-  }
-
-  function paint(doc, url){
-    var fresh=doc.querySelector('main.sheet');
-    if(!fresh) { location.href=url; return; }
-    pageStyles(doc);
-    main.innerHTML=fresh.innerHTML;
-    document.title=doc.title;
-    var d=doc.querySelector('meta[name=description]'), c=document.querySelector('meta[name=description]');
-    if(d&&c) c.setAttribute('content', d.getAttribute('content'));
-    // the nav lives in the shell, so its current-page mark is moved by hand
-    var want=new URL(url, location.href).pathname;
-    document.querySelectorAll('nav.sub a').forEach(function(a){
-      a.classList.toggle('here', new URL(a.href, location.href).pathname===want);
-    });
-    runScripts(main);
-    window.scrollTo(0,0);
-  }
-
-  function go(url, push){
-    if(busy) return; busy=true;
-    fetch(url, {credentials:'same-origin'}).then(function(r){
-      if(!r.ok) throw 0;
-      return r.text();
-    }).then(function(t){
-      var doc=P.parseFromString(t,'text/html');
-      if(push) history.pushState({rdr:1}, '', url);
-      if(document.startViewTransition) document.startViewTransition(function(){ paint(doc,url); });
-      else paint(doc,url);
-      busy=false;
-    }).catch(function(){ busy=false; location.href=url; });
-  }
-
-  document.addEventListener('click', function(e){
-    if(e.defaultPrevented||e.button!==0||e.metaKey||e.ctrlKey||e.shiftKey||e.altKey) return;
-    var a=e.target.closest? e.target.closest('a') : null;
-    var u=mine(a); if(!u) return;
-    if(u.pathname===location.pathname && u.hash) return;        // let an anchor be an anchor
-    e.preventDefault();
-    go(u.pathname+u.search+u.hash, true);
-  });
-  window.addEventListener('popstate', function(){ go(location.pathname+location.search, false); });
-  history.replaceState({rdr:1}, '', location.href);
-})();
-</script>"""
-
 FAM_CSS = "https://oona13.com/fam/fam.css?v=20260909b"
 FONTS_URL = ("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;"
              "0,600;1,400;1,500&family=Cinzel:wght@400;600&display=swap")
@@ -372,7 +279,6 @@ def shell(slug, title, desc, body, extra_head=""):
 <p class="credit">{CREDIT}</p>
 </article></main>
 <script src="https://oona13.com/fam/foot.js" data-note="{html.escape(re.sub('<[^>]+>', '', CREDIT))}" defer></script>
-{ROUTER_JS}
 </body></html>
 """
 
