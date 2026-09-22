@@ -2,41 +2,57 @@
 
 ## VERIFICATION BEFORE PUBLISHING — 2026-09-22
 
-The owner asked whether the signs or the sources could be wrong and whether
-we could verify as much as possible first. What was done and found:
+The owner asked whether the signs or the sources could be wrong, and whether we
+could verify as much as possible first. What was done:
 
-- **The rendering runs on Király and Tokai's OWN transcription** (`data/rohonc/
-  kt/pages`, via `rohonc_kt.py`), not the 2014 open `latest.txt`, which only
-  the old line-break statistics use. So the transcription the dictionary was
-  keyed to is the transcription we read. Book Two carries every main-block
-  row of every folio (441 of 441 match K&T's row counts). Not rendered: the
-  rows K&T mark `picture` (57 rows, 252 signs), `header` (32 rows, 65 signs,
-  e.g. `270 754` running heads) and `block` (10 rows, 30 signs) -- about 350
-  signs of captions and headers, an honest gap to name if anyone asks.
-- **Every folio's citation resolves**: 297 folios cite a passage, all 297
-  resolve to verses; 144 have retrieved sources only; 0 have nothing.
-- **Every deterministic test rerun from scratch** (14 programs) and diffed
-  against its saved run. EIGHT DID NOT MATCH: Tests 1, 2, 2b, 5, 6, 7, 8, 9.
-  Cause: proposals.json last changed 09-21 17:10 (the variant-loader fix,
-  234 spellings newly seen); those runs were written 16:01-16:52. Seeds are
-  pinned, so the drift was the input, not randomness. Regenerated on the
-  final readings; the old files are `*_v2_prevariantfix.txt`. Test 7's
-  ten-shuffle control was unstable (sd 0.67 then 0.36); NSHUF raised to 100,
-  declared in the docstring first, bar unchanged: 10.3 sigma, PASS. The
-  ten-shuffle rerun (8.4) is `ktrecover_v3_tenshuffles.txt`. TESTS.md has a
-  section on all of it, before the Summary.
-- **New gate: `harness/check_tests.py`** -- every `NN sigma` / `NN%` on an
-  indented line of a test section, and on its Summary row, must appear
-  verbatim in the test's cited run file. 111 figures checked. It runs in
-  `ktcommit.sh`. It caught one rounding (Test 12's re-glosser 84% for the
-  file's 83.9%); the table now prints the files' figures.
-- Not rerun, on purpose: the extension-attempt gates and the null control
-  ROHONC.md reports (`ktsegment`, `ktname`, `ktalign_gate*`, `ktextend_gates`,
-  `null_control`, `ktproof`, `ktsense*`, 09-20). They are records of attempts
-  made on the readings of their day. TESTS.md says so.
-- Not possible from here: an independent transcription check (the 2014 open
-  transcription uses a different glyph alphabet and page numbering; mapping
-  it would be a project), and anything K&T's own transcription gets wrong.
+**THE BIG ONE: the transcription now has an outside witness (Test 16,
+`harness/ktopen.py`).** Every other test reads Kiraly and Tokai's own
+transcription, so none of them could see an error in it. The 2014 anonymous
+open transcription (`data/rohonc/latest.txt`) is the only independent one that
+exists: different person, its own glyph alphabet, no word separation, spread
+numbering, published years before K&T. Parse it as `<spread>: <L|R><row>:` --
+BOTH sides, 4,188 rows, not the 2,114 you get if you only match `R`. Row-length
+profiles alone then say the left page of spread k is folio k recto and the
+right page folio k-1 verso, which is how a RIGHT-TO-LEFT book falls open and is
+stated by neither transcription. On the quarter of rows where both agree on the
+shape (1,131 rows, 17,454 glyphs), one alphabet maps onto the other 91.1% of
+the time; the same rows with the open row reversed give 14.3%, and the declared
+control -- each open row paired with a random K&T row of the same length,
+a map learned the same way, 20 times -- gives 12.9%, so 458.5 sigma. 83.8% of
+the words this edition reads are identical in both. Both bars declared before
+the control ran; the 91.1% had been seen exploratorily first and the test says
+so. The other three quarters of rows are where the two split lines or read
+damage differently: counted, never guessed at.
+
+**Every deterministic test rerun and diffed** (14 programs). EIGHT did not match
+their saved runs: Tests 1, 2, 2b, 5, 6, 7, 8, 9. Cause: proposals.json last
+changed 09-21 17:10 (the variant-loader fix, 234 spellings newly seen) and
+those runs were written 16:01-16:52. Seeds are pinned, so it was the input, not
+randomness. Regenerated on the final readings; the old files are kept as
+`*_v2_prevariantfix.txt`. Test 7's ten-shuffle control was itself unstable (sd
+0.67 then 0.36); NSHUF raised to 100, declared in the docstring first, bar
+unchanged: 10.3 sigma, PASS, and all three runs kept. TESTS.md has a section on
+it before the Summary.
+
+**New gate `harness/check_tests.py`**, in ktcommit.sh: every `NN sigma` / `NN%`
+on an indented line of a test section, and on its Summary row, must appear
+verbatim in that test's cited run file. 125 figures checked, bar zero. It
+caught Test 12's re-glosser 84% for the file's 83.9%.
+
+**Also checked:** the rendering reads K&T's own transcription (`rohonc_kt.py`),
+not the open one; Book Two carries every main-block row of all 441 folios;
+about 350 signs of K&T's `picture`, `header` and `block` rows are NOT rendered
+and that is an honest gap to name. All 297 citing folios resolve to verses; 144
+have retrieved sources only; none has nothing.
+
+**Not rerun, on purpose:** the extension-attempt gates and null control that
+ROHONC.md reports (`ktsegment`, `ktname`, `ktalign_gate*`, `ktextend_gates`,
+`null_control`, `ktproof`, `ktsense*`, all 09-20). They are records of attempts
+made on the readings of their day, and the document says so.
+
+**Still not possible from here:** anything K&T's transcription itself gets
+wrong in the same way the open one does, and a reading of the manuscript by
+someone who does not depend on this project.
 
 ## THE COVER — DONE 2026-09-22 (Cover Maker design 20260921-212932-2sdz)
 

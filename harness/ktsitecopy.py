@@ -305,7 +305,7 @@ card_data        one sentence for a link card to the data downloads
 edition          one paragraph about the book edition
 credit           one paragraph on credit and position
 reading_lead     one paragraph at the top of the reading page
-dictionary_lead  two paragraphs at the top of the dictionary page (how the signs are written, what is and is not included)
+dictionary_lead  2 paragraphs opening the dictionary page: whose readings these are, that K&T's own 841 entries are not reproduced and their drawn signs are on their site, how a sign is written, and that the table is searchable and filterable. Do NOT define the tiers -- a legend on the page does that -- and do NOT give a total: the page prints the split
 data_lead        one or two sentences: the data will be posted to GitHub; this page names the reference corpus and says where everything else goes. No file links
 outside_lead     one paragraph introducing a reviewer's specification, quoted whole; the reviewers are two frontier models from other labs, Gemini 2.5 Pro and Grok 4.7, and the paragraph must say so in its own words, never 'outside reviewers' alone
 card_script      one sentence for a link card to a page about the script itself

@@ -9257,7 +9257,7 @@
   "n": 1,
   "tier": "G"
  },
- "_about": "Readings for signs Kiraly & Tokai leave undefined, made this way: read from one passage, then checked at every occurrence in the book. Tier A fits every occurrence checked, or is proved by an identical formula or a numeral; B fits most, the rest unclear rather than contrary; C and D are read from one passage with nothing in the book able to refuse them; G is a guess, printed in brackets and counted as a reading nowhere. Keys are glyph codes minus E000, three hex digits per glyph.",
+ "_about": "Readings for signs Kiraly & Tokai leave undefined, made their way: guessed from one passage, then checked at every occurrence in the book. Tier A fits every occurrence checked or is proved by an identical formula or a numeral; B fits most; C is a guess. Keys are glyph codes minus E000, three hex digits per glyph.",
  "_withdrawn_060060060060060ae0": {
   "evidence": "REMOVED 2026-09-21. A phantom: the sign does not exist in the manuscript. It occurs zero times as a token, and unlike the other eight readings with no standalone occurrence it is not inside any other token type either -- those eight are pieces that feed compounds, which is how this writing works. This one reads nothing at all. It is 'five' misspelled: the real signs are 060060060060060 (five tally strokes, 29 occurrences) and 060060060060060ae1 (four occurrences, the numeral-end marker ae1), both already entered at tier A and both correct. This entry ended in ae0 instead of ae1 and so matched nothing. It was carrying a stored n of 2 that no occurrence supports. Prior gloss and evidence: {\"evidence\": \"five strokes with the other numeral terminator\", \"gloss\": \"five\", \"n\": 2, \"tier\": \"C\"}",
   "gloss": "_withdrawn_",

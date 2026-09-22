@@ -781,9 +781,7 @@ STRIP_JS = """<script>
 
 
 def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
-    tier_line = ("readings " + "   ".join(f"{t} {tiers.get(t, 0):,}" for t in ("A", "B", "C", "D"))
-                 + f"   =  {sum(tiers.get(t, 0) for t in ('A', 'B', 'C', 'D')):,}"
-                 + f"\nrestorations in brackets, counted as a reading nowhere   {tiers.get('G', 0):,}")
+    tier_line = "   ".join(f"{t} {tiers.get(t, 0):,}" for t in ("A", "B", "C", "D", "G"))
     # the page count is read off the print PDF on the shelf, never typed
     pages_note = ""
     try:
@@ -886,18 +884,11 @@ def page_dictionary(about, rows, ktn):
     tiers = {}
     for r in rows:
         tiers[r["tier"]] = tiers.get(r["tier"], 0) + 1
-    # The top line must not lump what the legend separates: tier G is a bracketed
-    # restoration, counted as a reading nowhere, and adding it to the total would
-    # let one number say the opposite of the legend three lines below it.
-    read = sum(tiers.get(t, 0) for t in ("A", "B", "C", "D"))
-    counts = (f"readings        {read:>6,}     "
-              + "   ".join(f"{t} {tiers.get(t, 0):,}" for t in ("A", "B", "C", "D"))
-              + f"\nrestorations    {tiers.get('G', 0):>6,}     bracketed, counted as a reading nowhere"
-              + f"\nwithdrawn       {tiers.get('withdrawn', 0):>6,}     made, then refused, and kept with the reason")
+    counts = "   ".join(f"{t} {tiers.get(t, 0):,}" for t in ("A", "B", "C", "D", "G", "withdrawn"))
     body = f"""
 <h1>The dictionary of added readings</h1>
 {paras("dictionary_lead", "lead")}
-<p>From the file itself: {html.escape(about)}</p>
+<p>The drawn signs are on <a href="https://rechnitzer-kodex.hu/" rel="noopener">their site</a>. From the file itself: {html.escape(about)}</p>
 <div class="tiers"><b>A</b> fits every occurrence checked, or is proved by an identical formula or a numeral &nbsp;·&nbsp; <b>B</b> fits most &nbsp;·&nbsp; <b>C</b> and <b>D</b> read from one passage, nothing in the book able to refuse them &nbsp;·&nbsp; <b>G</b> a guess, printed in brackets and never counted &nbsp;·&nbsp; <b>withdrawn</b> a reading that was made and then refused, kept with the reason</div>
 <div class="fig">{counts}</div>
 <div class="tools">

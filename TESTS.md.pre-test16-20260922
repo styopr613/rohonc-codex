@@ -498,54 +498,6 @@ same words on the wrong signs, never the chapter. Of the misses, four
 name the parallel telling of the same event, John 18 for Matthew 27,
 Mark 5 for Matthew 9, Acts 7 for Acts 6, and are counted as misses.
 
-## Test 16 — a second, independent transcription
-
-`harness/ktopen.py` · `work/rohonc/ktopen.txt`
-
-Every other test in this document reads Kiraly and Tokai's transcription. If
-that transcription were wrong, nothing here would notice. There is one outside
-witness: an anonymous open transcription published in 2014, glyph by glyph, in
-an alphabet of its own, with no word separation, years before Kiraly and Tokai
-published. Different person, different alphabet, different page numbering, same
-book. No dictionary and no reading are involved — if both transcribe the same
-manuscript honestly, some bijection carries one alphabet onto the other, and it
-has to hold across the whole book.
-
-The pages line up without being told how. The open transcription numbers
-SPREADS of the library scan and labels each row L or R; matching row-length
-profiles alone say that the left page of spread k is folio k recto and the
-right page is folio k-1 verso, which is how a right-to-left book falls open,
-and is a fact about the manuscript that neither transcription states.
-
-    the open transcription covers       417 of 441 sides
-    rows comparable glyph for glyph     1131 of 4372   25.9%
-    glyphs compared                     17454
-
-    GATE A, the two alphabets
-      best map, as transcribed          91.1%
-      the same rows, open row reversed  14.3%
-      control, rows paired at random    12.9%   (sd 0.17, 20 shuffles)
-                                        458.5 sigma
-      BAR: observed >= 60%, control <= 30%, >= 5 sigma   PASS
-
-    GATE B, the words this edition reads
-      words compared                    7356
-      identical in both transcriptions  83.8%
-      BAR: >= 80%                       PASS
-
-What had already been seen when the bars were written, said plainly: an
-exploratory pass had reported the 91.1% and the reversed 14.3%. So the headline
-was not a prediction. The bars were declared for the part that had not been
-run — the matched control, each open row paired with a random K&T row of the
-same length, a map learned the same way — and it came in at 12.9%, which is
-what picking each symbol's commonest partner gets you when the pairing means
-nothing.
-
-Three quarters of the rows cannot be compared: the two transcriptions split
-lines and read damage differently, and those rows are counted, never guessed
-at. Within what can be compared, the text this edition reads is not one
-person's reading of the page.
-
 ## Every run regenerated — 2026-09-22
 
 Before publication every deterministic test was rerun from scratch and
@@ -606,7 +558,6 @@ says so where it quotes them.
     Test 13, the same rule | applied to the chosen glosses | 0 of the 94 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did | reported, not a verdict
     Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS
     Test 15 | passage identification, outside reader | chapter level 9 of 20 against 0 of 20 shuffled; p 0.002 | PASS
-    Test 16 | a second, independent transcription | 91.1% of glyphs agree where both can be compared, against a 12.9% control, 458.5 sigma; 83.8% of the words identical | PASS
 
     PASS and FAIL are verdicts on the readings against a bar declared before the run.
     NO VERDICT means the instrument failed its own check on Kiraly and Tokai's words,

@@ -365,8 +365,8 @@ every page so that anyone can take them out.
 ## How it was checked
 
 This is a book made from somebody else's dictionary, so the first question is
-whether the dictionary is right. That was tested four ways, and not one of the
-four needs you to trust anyone.
+whether the dictionary is right. That was tested three ways before a word of
+the translation was written, and none of the three needs you to trust anyone.
 
 **The common signs behave like common words.** In any language the words that
 come up most are the small ones — and, this, in, one, say, go. Sort the codex
@@ -390,18 +390,6 @@ than chance, at 39 standard deviations, which puts it beside Italian and
 Hebrew and above Latin. The same test on the Voynich manuscript gives 1.10
 times chance and 2.1 — down with the machine-made controls. One test, two
 unread manuscripts, opposite answers.
-
-**A second person transcribed the book, and the two agree.** Everything above
-reads Kiraly and Tokai's transcription; if that were wrong, none of it would
-notice. But an anonymous author published an open transcription in 2014, glyph
-by glyph, in an alphabet of their own, years before Kiraly and Tokai published:
-different person, different alphabet, different page numbering, same book.
-Where the two can be compared glyph for glyph -- a quarter of the manuscript's
-lines; elsewhere they split lines differently -- one alphabet maps onto the
-other 91.1% of the time, against 12.9% for the same rows paired at random, and
-83.8% of the words this edition reads are identical in both. The pages line up
-without being told how, and say on their own that the left page of a spread is
-a recto and the right a verso, which is how a right-to-left book falls open.
 
 ## What was added here, and what it cost
 
@@ -577,14 +565,6 @@ already scores 70.6% on that test, so reading like the Bible is nearly free.
 folio cites* — not the Bible in general — at 18.6 sigma against a control
 where the folios are shuffled against their passages. That is the result the
 whole book stands on.
-
-**The transcription itself, checked from outside.** The one thing no other test
-here could reach: every one of them reads the same transcription. The 2014 open
-transcription, made independently and in its own alphabet, agrees with it on
-91.1% of the glyphs that can be compared, against a 12.9% control, and on 83.8%
-of the words. A quarter of the lines can be compared; the rest are where the
-two split lines or read damage differently, and they are counted rather than
-guessed at.
 
 **A held-out test, and a contaminated one.** A seeded random tenth of Kiraly
 and Tokai's own dictionary entries were hidden from the tools, exactly as a

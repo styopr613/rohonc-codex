@@ -1,0 +1,17 @@
+TEST 16: A SECOND, INDEPENDENT TRANSCRIPTION
+  the 2014 open transcription covers 417 of 441 sides, 4188 rows
+  rows comparable glyph for glyph      1131 of 4372   25.9%
+  glyphs compared                      17454
+  open symbols seen 480, of which 75 map to one K&T glyph >=80% of >=20 sightings
+
+  GATE A: the two alphabets
+    best map, as transcribed            91.1%
+    same rows, open row reversed        14.3%
+    control: rows paired at random      12.9%  (sd 0.17, 20 shuffles)
+    458.5 sigma
+    BAR: observed >= 60%, control <= 30%, >= 5 sigma  ->  PASS
+
+  GATE B: the words this edition reads
+    words compared                      7356
+    identical in both transcriptions    83.8%
+    BAR: >= 80%  ->  PASS
