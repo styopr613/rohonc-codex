@@ -20,7 +20,7 @@ Shape: two books between one pair of covers, and the split is the whole point.
   written down twice on purpose: this line said 97.9% for a day after Book
   One was rewritten and the true figure had become 71.1%.
 
-  BOOK TWO is the evidence. All 441 folios in manuscript order, six to a
+  BOOK TWO is the evidence. All 441 written pages in manuscript order, six to a
   chapter: the marked line-by-line text, and nothing between the reader and
   it. The marks are the point: a reader has to be able to see which words are
   read and which are guesses.
@@ -292,8 +292,8 @@ def front_matter():
     # ktverify imports this module, so it is imported here and not at the top.
     import ktverify
     v = ktverify.accounting()
-    return """The Rohonc Codex is a small paper book of the sixteenth century, about 450
-leaves, written in a script that occurs in no other document. It came to the
+    return """The Rohonc Codex is a small paper book of the sixteenth century, 224 leaves
+and about 450 pages, written in a script that occurs in no other document. It came to the
 Library of the Hungarian Academy of Sciences in Budapest in 1838, with the
 library of Count Gusztav Batthyany from his estate at Rohonc, now Rechnitz in
 Austria, which is where its name comes from. From that day until 2018 nobody
@@ -438,9 +438,9 @@ a recto and the right a verso, which is how a right-to-left book falls open.
 ## What was added here, and what it cost
 
 Four signs in ten had no meaning in the dictionary. Working those out is the
-part nobody had done, and it was tried seventeen ways. **Ten of the seventeen
-failed.** All ten are written up, with their numbers, beside the ones that
-worked, because that is the only thing that makes the ones that worked worth
+part nobody had done, and it was tried seventeen ways. **Fourteen of the
+seventeen failed.** All fourteen are written up, with their numbers, beside
+the ones that worked, because that is the only thing that makes the ones that worked worth
 anything.
 
 Every attempt had its pass mark written down before it ran, and no mark was
@@ -863,7 +863,7 @@ def build():
                 ch["part"] = ("Book Two — The Manuscript, Folio by Folio"
                               if bi == 0 else pname)
                 ch["part_sub"] = (
-                    "All 441 folios in the order the manuscript has them, six "
+                    "All 441 written pages in the order the manuscript has them, six "
                     "to a chapter: the manuscript itself, line for line, with "
                     "every mark intact. This is the evidence the translation "
                     "in Book One was made from."
@@ -879,7 +879,7 @@ def build():
                    "note_marker": "bracket", "indent_first": False},
         "meta": {
             "notes_placement": "back", "notes_numbering": "book",
-            "description": ("The Rohonc Codex rendered into English, all 441 "
+            "description": ("The Rohonc Codex rendered into English, all 441 written "
                             "folios, on the dictionary and grammar Levente "
                             "Zoltan Kiraly and Gabor Tokai published in 2018. "
                             "Every word carries a mark saying how well it is "

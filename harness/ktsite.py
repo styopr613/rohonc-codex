@@ -349,6 +349,24 @@ def edition_figures():
     return g
 
 
+def how_far(g):
+    """The reading figures in a sentence, generated from the edition header.
+
+    This paragraph was stored prose in ktsite_copy.json and nothing carried
+    it: it said 93.4% read, 3.2% from one passage and 81.6% of lines while the
+    edition said 94.1, 2.5 and 81.5. Model-written copy goes stale exactly
+    like typed copy, and the figures belong to the run, so the sentence is
+    built here and the stored key is no longer read.
+    """
+    return (
+        f"<p>The manuscript contains {int(g['words'][0].replace(',', '')):,} words. "
+        f"The project has a reading for {g['read'][1]}% of them. "
+        f"{g['soft'][1]}% of all words are read from one passage only. "
+        f"{g['rest'][1]}% are restored in brackets. {g['dark'][1]}% are dark. "
+        f"{g['lread'][2]}% of lines have every word read. "
+        f"Lines are {g['lall'][2]}% complete once brackets are counted.</p>")
+
+
 def tests_summary():
     txt = read(os.path.join(ROOT, "TESTS.md"))
     m = re.search(r"\n## Summary\n\n((?:    .*\n|\n)+?)\n(?=[^\s])", txt)
@@ -821,7 +839,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
 {shot}
 
 <h2>How far it reads</h2>
-{paras("how_far")}
+{how_far(fig)}
 <div class="fig">words in the manuscript        {fig['words'][0]:>7}
 read                           {fig['read'][0]:>7}   {fig['read'][1]}%
 read from one passage only     {fig['soft'][0]:>7}   {fig['soft'][1]}%
@@ -1229,7 +1247,7 @@ def page_read():
               '<img src="/rohonc/img/book3d.png" alt="The Rohonc Codex" width="576" height="900" '
               'style="width:auto;max-height:520px;margin:0 auto;border:0;background:none"></a></figure>')
     return shell("read", "Read it here",
-                 "The whole Rohonc Codex edition in the OONA reader: the translation and all 441 folios with their marked lines.",
+                 "The whole Rohonc Codex edition in the OONA reader: the translation and all 441 written pages with their marked lines.",
                  body)
 
 

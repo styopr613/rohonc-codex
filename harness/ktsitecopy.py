@@ -50,7 +50,7 @@ def fact_sheet():
     eng = json.load(open(os.path.join(ktsite.TR, "english.json"), encoding="utf-8"))
     n_eng = sum(1 for f, _ in order if eng.get(f, {}).get("english", "").strip())
     return f"""THE MANUSCRIPT
-- The Rohonc Codex: a small paper book of the sixteenth century, about 450 leaves,
+- The Rohonc Codex: a small paper book of the sixteenth century, 224 leaves and about 450 pages,
   kept at the Library of the Hungarian Academy of Sciences in Budapest.
 - Written in a script that occurs in no other document. Right to left, several
   hundred signs, mostly one sign per word or phrase.
@@ -219,7 +219,7 @@ THE READING EDITION (2026-09-22)
   followed, because those departures are the most interesting thing in it.
 - The English is plain modern English, the same house voice as every other
   edition on this imprint. No archaic Bible cadence.
-- Every paragraph names the folios it renders. The gloss of all 441 folios is
+- Every paragraph names the folios it renders. The gloss of all 441 written pages is
   printed in full in the second half of the book, line for line, with every
   mark. Where the two disagree the gloss is right.
 - Every paragraph was then put back beside its own gloss and checked: does it
@@ -267,7 +267,7 @@ WHAT IS ON THE SITE
   working from the gloss and a glossary of the script's formulas, then proofed
   into plain prose by a second pass; every paragraph closes with the folios it
   renders; a gap is printed as three dots and a restored word keeps its
-  brackets. Book Two is the gloss itself, all 441 folios line for line with
+  brackets. Book Two is the gloss itself, all 441 written pages line for line with
   every mark, the evidence the translation was made from. Where they disagree,
   Book Two is right.
 - A read page: that whole book opened in the browser, page by page, with the
