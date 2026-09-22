@@ -328,15 +328,16 @@ models assembled the gloss and composed the translation. Every
 figure in this book comes from a program that can be rerun, and where any of
 this went wrong it is written down with the number it went wrong by.
 
-**One check is not internal.** Everything in this book is read from Kiraly and
+**We found one external test to validate the signal.** Everything in this book is read from Kiraly and
 Tokai's transcription, so no test of this project's could catch an error in it.
 An anonymous transcription of the codex published in 2014 -- a different
 person, a different glyph alphabet, no word division, four years earlier --
 agrees with it on 91.1% of the glyphs that can be compared, against 12.9% for
 the same rows paired at random, and on 83.8% of the words this edition reads.
-The two share nothing but the book itself, so neither could have copied the
-other's mistakes, and the page these readings are made from is recorded
-faithfully by both.
+Our understanding is the two share no common root but the book. That
+independence is inferred from what the two documents are, not established: the
+2014 author is anonymous and what they worked from cannot be audited. It is
+the weight-bearing assumption of this check and it is stated as an assumption.
 
 **What this is, and is not.** This is an attempt, not peer reviewed, and
 published to be checked. As of now, the tests, for what they are, find it

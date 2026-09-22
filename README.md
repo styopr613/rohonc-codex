@@ -33,7 +33,7 @@ Of the manuscript's 29,997 words this edition has a reading for 94.1%. Of its
 guesses are counted. The gap between those two numbers is how much is being
 guessed at, and it is meant to be visible.
 
-The one check that is not internal: everything here reads Király and Tokai's
+We found one external test to validate the signal. Everything here reads Király and Tokai's
 transcription, so no test of this project's could catch an error in it. An
 anonymous transcription published in 2014 — a different person, a different
 glyph alphabet, no word division, four years earlier — agrees with it on 91.1%

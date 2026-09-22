@@ -281,6 +281,18 @@ FONTS_URL = ("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,4
              "0,600;1,400;1,500&family=Cinzel:wght@400;600&display=swap")
 
 
+# The social card and the traffic tag. These pages were behind the sign-in gate
+# from 2026-09-21 until they were published, so they never carried either: no
+# og:image, and none of the Google Analytics property the rest of oona13 uses.
+# A page nobody could reach needs no tag; a published one does.
+OG_IMAGE = "https://oona13.com/rohonc/img/book3d.png"
+GA_ID = "G-RYS4E6EW16"
+ANALYTICS = (
+    f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA_ID}"></script>\n'
+    '<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}'
+    f"gtag('js',new Date());gtag('config','{GA_ID}');</script>\n")
+
+
 def shell(slug, title, desc, body, extra_head=""):
     nav = "".join(
         f'<a href="/rohonc/{"" if s == "index" else s + ".html"}"'
@@ -300,10 +312,13 @@ def shell(slug, title, desc, body, extra_head=""):
 <link rel="canonical" href="{url}">
 <meta property="og:title" content="{t} · The Rohonc Codex"><meta property="og:description" content="{d}">
 <meta property="og:type" content="article"><meta property="og:url" content="{url}">
+<meta property="og:site_name" content="OONA 13"><meta property="og:image" content="{OG_IMAGE}">
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{OG_IMAGE}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="{FONTS_URL}" rel="stylesheet" media="print" onload="this.media='all'">
 <noscript><link href="{FONTS_URL}" rel="stylesheet"></noscript>
-<style>{CSS}</style>{extra_head}
+<style>{CSS}</style>
+{ANALYTICS}{extra_head}
 </head><body>
 <script src="https://oona13.com/fam/fam.js?v={V}"></script><i id="oona-fam-ready" hidden></i>
 <header class="rh"><div class="wrap">
@@ -1429,7 +1444,7 @@ def publish(stage, final):
     gone = 0
     for rel in sorted(_files(final) - made):
         top = rel.split(os.sep)[0]
-        if top in MANAGED or (os.sep not in rel and rel.endswith(".html")):
+        if top in MANAGED or (os.sep not in rel and (rel.endswith(".html") or rel == "sitemap.xml")):
             os.remove(os.path.join(final, rel))
             gone += 1
     for sub in MANAGED:                       # drop folders left empty
@@ -1526,6 +1541,23 @@ def _build(out, final):
     w("outside-gemini.html", page_outside("tests", "gemini_tests.md", "Outside review: Gemini 2.5 Pro"))
     w("outside-grok.html", page_outside("tests", "grok_tests.md", "Outside review: Grok 4.7"))
     w("data.html", page_data([]))
+    # A sitemap, because these pages were behind the gate and no crawler has
+    # ever seen them. Built from the files this run actually wrote, so it can
+    # never list a page that does not exist or miss one that does.
+    import datetime as _dt
+    today = _dt.date.today().isoformat()
+    pages = sorted(f for f in os.listdir(out) if f.endswith(".html"))
+    locs = []
+    for f in pages:
+        loc = "https://oona13.com/rohonc/" + ("" if f == "index.html" else f)
+        pri = "1.0" if f == "index.html" else "0.8" if f in ("reading.html", "tests.html", "dictionary.html") else "0.6"
+        locs.append(f"  <url><loc>{loc}</loc><lastmod>{today}</lastmod>"
+                    f"<changefreq>monthly</changefreq><priority>{pri}</priority></url>")
+    open(os.path.join(out, "sitemap.xml"), "w", encoding="utf-8").write(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+        + "\n".join(locs) + "\n</urlset>\n")
+
     n_new, n_gone = publish(out, final)
     print(f"wrote {final}: {len(order)} folios ({n_eng} with English), {len(rows)} dictionary rows, "
           f"{10} pages, {len(pl)} plates, "
