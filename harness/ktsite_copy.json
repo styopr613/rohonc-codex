@@ -37,7 +37,7 @@
  "read_lead": "The book opens in the OONA reader, the same one the Free Library uses, with its contents, its notes and its type controls. The same book can be taken away as an EPUB or a print PDF.",
  "strip_note": "The strip shows signs from the manuscript. The script runs right to left.",
  "tests_note": "The passage map can be recovered from Király and Tokai's words alone. It does not depend on anything this project read. The two instruments Grok 4.7 specified for the search itself gave no verdict either way. They do not model the search as it was run.",
- "code_lead": "This page lists the programs. They run on the published data. Each test states its bar in its own first lines. The repository itself is not public.",
+ "code_lead": "The programs behind every number on this site are runnable, and this page says where. Each test on the checked-results page names its program, and each program states its bar in its own first lines. The repository itself is not public; the programs are served here as plain text.",
  "sources_not_here": "Király and Tokai's dictionary, transcription, page records and the library scans are not on this site. The one thing of theirs used is the shape of the signs. It is drawn from the outlines in their font. The font file itself is never served. The shapes are the sixteenth-century scribe's.",
  "method_steps": [
   {
