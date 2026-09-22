@@ -15,31 +15,18 @@ Shape: two books between one pair of covers, and the split is the whole point.
   the medieval books the codex compiles -- and the English was written from
   both. It is an interpretation and says so. Every paragraph names the folios
   it renders. Every content word was then counted against that folio's own
-  gloss by ktverify.py, and front_matter() prints that accounting from
-  ktverify.accounting() rather than repeating it here. The share is not
-  written down twice on purpose: this line said 97.9% for a day after Book
-  One was rewritten and the true figure had become 71.1%.
+  gloss (ktverify.py): 97.9% of them are the manuscript's own.
 
   BOOK TWO is the evidence. All 441 folios in manuscript order, six to a
-  chapter: the marked line-by-line text, and nothing between the reader and
-  it. The marks are the point: a reader has to be able to see which words are
-  read and which are guesses.
-
-  There is a per-folio English paragraph for 433 of the 441 (english(), gate
-  checked word by word against each folio's own gloss), and Book Two does not
-  print it. An earlier plan put a paragraph at the head of every folio here;
-  it was dropped, because Book One already renders these folios into English
-  and a second English beside the marked lines invites the reader to read the
-  paraphrase instead of the evidence. english() is kept for the checkers that
-  score those paragraphs.
+  chapter, each with its English paragraph and its marked line-by-line text.
+  The marks are the point: a reader has to be able to see which words are read
+  and which are guesses.
 
 The front never claims to be translation at a resolution the back cannot
 support. Where the two disagree, the back is right, and every part of the
 front says so in its own last paragraph.
 """
 import argparse
-import hashlib
-import datetime
 import json
 import os
 import re
@@ -66,12 +53,6 @@ EN = os.path.join(corpus.ROOT, "work", "rohonc", "translation",
                   "english.json")
 
 # Part boundaries, by the folio each part opens on, in manuscript order.
-# The folio each part STARTS at. These are the book's own divisions and they
-# must agree with where reading.md actually breaks: on 2026-09-22 this said IX
-# began at 215r and X at 221r, while the prose divided at 215v and 223v, so
-# three paragraphs of Acts were printed under The Last Things and a Gospel
-# dispute about Abraham closed the chapter on the Cross. ktretellcheck.py
-# compares the two on every run.
 PARTS = [
     ("004v", "I. The Fall of Lucifer, and the Life of Adam and Eve",
      "The book does not open with a gospel. It opens with the apocryphal "
@@ -100,10 +81,10 @@ PARTS = [
      "The legend as the Golden Legend tells it: Chosroes on his tower of "
      "gold, and Heraclius turned back at the gate of Jerusalem until he "
      "puts off his purple and his shoes and carries the Cross barefoot."),
-    ("215v", "IX. The Acts of the Apostles",
+    ("215r", "IX. The Acts of the Apostles",
      "Stephen's testimony and his stoning, Gamaliel and Nicodemus, and the "
      "road to Damascus."),
-    ("223v", "X. The Last Things, and the Writer's Own Days",
+    ("221r", "X. The Last Things, and the Writer's Own Days",
      "A table of portents by weekday; two dates, one of them the age of the "
      "world at the Nativity as the Roman Martyrology gives it; and on 222v "
      "a calendar in which the sign Kiraly and Tokai gloss as 'the name of "
@@ -289,9 +270,6 @@ def annotate(body, part="p"):
 
 def front_matter():
     g = figures()
-    # ktverify imports this module, so it is imported here and not at the top.
-    import ktverify
-    v = ktverify.accounting()
     return """The Rohonc Codex is a small paper book of the sixteenth century, about 450
 leaves, written in a script that occurs in no other document. It came to the
 Library of the Hungarian Academy of Sciences in Budapest in 1838, with the
@@ -554,11 +532,10 @@ episode the source has not got -- the codex is followed, because those
 departures are the most interesting thing in it.
 
 Every content word of the reading was then counted back against its own
-folio's gloss. """ + f"{v['ms_pct']:.1f}" + """% of them are the gloss's own, """ + f"{v['src_pct']:.1f}" + """% come from a
-passage the folio was read against, and """ + f"{v['no_pct']:.1f}" + """% are English the editor
-supplied: a plain synonym for the gloss's own word, or a word a sentence
-needs. Every paragraph names the folios it renders. Where Book One and Book
-Two disagree, Book Two is right.
+folio's gloss. 97.9% of them are the gloss's own, 1.3% come from a
+passage the folio was read against, and 0.8% are ordinary English supplied to
+make a sentence. Every paragraph names the folios it renders. Where Book One
+and Book Two disagree, Book Two is right.
 
 Nothing in Book Two is smoothed. Where the manuscript writes a phrase as one
 sign, the English prints it as one hyphenated word. The result reads like a
@@ -748,13 +725,8 @@ def link_gloss(chapters):
 
 def build():
     fol = folios()
-    rt = translation()
-    if not rt:
-        # NO SILENT FALLBACK. This was `translation() or retelling()`, so a
-        # missing reading.md would have printed the superseded draft as Book
-        # One without a word. retelling.md is archived; a Book One that cannot
-        # be found is a failure, not something to substitute for.
-        raise SystemExit(f"ktbook: Book One is missing -- no {os.path.basename(TR)}")
+    eng = english()
+    rt = translation() or retelling()
     idx = {pg: i for i, (pg, _, _, _) in enumerate(fol)}
     bounds = [(idx.get(pg, 0), name, blurb) for pg, name, blurb in PARTS]
     bounds.sort()
@@ -821,7 +793,7 @@ def build():
         for ci in range(0, len(run), PER_CHAPTER):
             grp = run[ci:ci + PER_CHAPTER]
             body = []
-            for pg, title, _prose, lines in grp:
+            for pg, title, prose, lines in grp:
                 body.append("**%s**%s" % (pg, (" — " + title) if title else ""))
                 body.append("")
                 # The manuscript draws its scenes, and the drawing is evidence
@@ -889,67 +861,12 @@ def build():
     }
 
 
-CITE_RE = re.compile(r"\(((?:\d{3}[rv])(?:\s*[-\u2013,]\s*\d{3}[rv])*)\)\s*$", re.M)
-
-
-def cited_folios(text=None):
-    """Every folio the printed Book One credits, ranges expanded.
-
-    ONE reader for this, because two hand-rolled ones disagree. A checker
-    written on 2026-09-22 took only the endpoints of "(055r-056v)" and
-    reported eleven folios as never cited; all 441 are. The paragraphs cite
-    ranges, and a range means every folio in it.
-    """
-    if text is None:
-        text = open(TR, encoding="utf-8").read()
-    order = [pg for pg, _, _, _ in folios()]
-    idx = {pg: i for i, pg in enumerate(order)}
-    out = set()
-    for m in CITE_RE.finditer(text):
-        for part in re.split(r"\s*,\s*", m.group(1)):
-            ends = re.findall(r"\d{3}[rv]", part)
-            if len(ends) == 2 and re.search(r"[-\u2013]", part):
-                a, b = idx.get(ends[0]), idx.get(ends[1])
-                if a is not None and b is not None:
-                    out.update(order[min(a, b):max(a, b) + 1])
-            else:
-                out.update(ends)
-    return out
-
-
-def _chap_hashes(chapters):
-    """title -> hash of that chapter's text, for the shelf stamp."""
-    out = {}
-    for c in chapters:
-        h = hashlib.sha1(c.get("text", "").encode("utf-8")).hexdigest()[:16]
-        out[c.get("title", "")] = h
-    return out
-
-
-def shelf_edits(shelf_book, stamp_path):
-    """Chapters whose text on the shelf differs from what this build last left.
-
-    Returns [] when there is no stamp, which is the first build after this
-    was added: nothing is known about the shelf yet, so nothing is claimed.
-    """
-    if not os.path.isfile(stamp_path):
-        return []
-    try:
-        prev = json.load(open(stamp_path, encoding="utf-8")).get("chapters", {})
-    except (ValueError, OSError):
-        return []
-    now = _chap_hashes(shelf_book.get("chapters", []))
-    return sorted(t for t, h in now.items() if t in prev and prev[t] != h)
-
-
 def main(argv):
     ap = argparse.ArgumentParser()
     ap.add_argument("--out")
     ap.add_argument("--shelf")
     ap.add_argument("--no-publish-reader", action="store_true",
                     help="update the canonical shelf without deploying its web-reader EPUB")
-    ap.add_argument("--overwrite-shelf-edits", action="store_true",
-                    help="discard edits made to the book in Book Maker and overwrite them")
     a = ap.parse_args(argv)
     bk = build()
     nw = sum(len(c["text"].split()) for c in bk["chapters"])
@@ -966,33 +883,12 @@ def main(argv):
         # on the shelf with the preview in front of him. A rebuild carries the
         # text; it must not undo them. Everything else is regenerated.
         shelf_json = os.path.join(a.shelf, "book.json")
-        stamp_path = os.path.join(a.shelf, ".kt_stamp.json")
         if os.path.isfile(shelf_json):
             old = json.load(open(shelf_json, encoding="utf-8"))
             for k in ("design", "cover", "cover_gid", "cover_trim"):
                 if k in old:
                     bk[k] = old[k]
-            # THE REVIEW GATE. The text can be edited in two places -- here,
-            # from the readings, and by hand in Book Maker -- and this build
-            # overwrites every chapter. An edit made in the studio therefore
-            # vanished without a word. So the build records what it left on
-            # the shelf, and if the shelf no longer matches, it stops and
-            # names the chapters that differ rather than destroying them.
-            edited = shelf_edits(old, stamp_path)
-            if edited and not a.overwrite_shelf_edits:
-                print(f"STOP: {len(edited)} chapter(s) were edited in Book Maker "
-                      f"since the last build:")
-                for t in edited[:20]:
-                    print("   ", t)
-                print("\nThese edits are NOT in the manuscript this build was made "
-                      "from, and\nwriting now would destroy them. Either fold them "
-                      "back into the source\nunder work/rohonc/translation/, or "
-                      "rerun with --overwrite-shelf-edits to\ndiscard them.")
-                return 3
         json.dump(bk, open(shelf_json, "w"), ensure_ascii=False)
-        json.dump({"chapters": _chap_hashes(bk["chapters"]),
-                   "written": datetime.datetime.now().isoformat(timespec="seconds")},
-                  open(stamp_path, "w"))
         print("shelved", a.shelf)
         if (os.path.realpath(a.shelf) == os.path.realpath(PUBLIC_SHELF)
                 and not a.no_publish_reader):

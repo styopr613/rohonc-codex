@@ -32,7 +32,6 @@ import json
 import os
 import re
 import shutil
-import tempfile
 import sys
 
 import markdown
@@ -1363,73 +1362,11 @@ def copy(src, dst):
     shutil.copyfile(src, dst)
 
 
-# The subtrees this program owns. Everything else under the site root -- book/,
-# plates/ -- is put there by another program and is never touched here.
-MANAGED = ("data", "code", "img")
-
-
-def _files(root):
-    """Every file under root, as paths relative to it."""
-    got = set()
-    for base, _, names in os.walk(root):
-        for n in names:
-            got.add(os.path.relpath(os.path.join(base, n), root))
-    return got
-
-
-def publish(stage, final):
-    """Move a finished build over the live tree, file by file, replacing.
-
-    The build used to render straight into the live directory, and before
-    rendering it deleted the served data files. A build that died in the
-    middle -- a missing plate, a bad figure, a checker raising -- therefore
-    took the site's data down with it and left half-written pages behind, and
-    the nested data/outside/ folders were never cleared at all, so a renamed
-    reply file stayed served for ever. So the build now renders into a staging
-    directory and only reaches the live tree here, after it has succeeded.
-
-    Each file lands by os.replace, which is atomic: a reader gets the old file
-    or the new one, never a partial one. Stale files are taken down by name
-    after the new ones are in place, and only inside MANAGED and the top-level
-    pages, so no link can point at a copy this build no longer makes.
-    """
-    made = _files(stage)
-    for rel in sorted(made):
-        dst = os.path.join(final, rel)
-        os.makedirs(os.path.dirname(dst), exist_ok=True)
-        tmp = dst + ".new"
-        shutil.copyfile(os.path.join(stage, rel), tmp)
-        os.replace(tmp, dst)
-    gone = 0
-    for rel in sorted(_files(final) - made):
-        top = rel.split(os.sep)[0]
-        if top in MANAGED or (os.sep not in rel and rel.endswith(".html")):
-            os.remove(os.path.join(final, rel))
-            gone += 1
-    for sub in MANAGED:                       # drop folders left empty
-        d = os.path.join(final, sub)
-        for base, dirs, _ in os.walk(d, topdown=False):
-            if base != d and not os.listdir(base):
-                os.rmdir(base)
-    return len(made), gone
-
-
 def main(argv):
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default=OUT_DEFAULT)
     a = ap.parse_args(argv)
-    final = a.out
-    os.makedirs(final, exist_ok=True)
-    # render into a staging directory beside the live one, never into it; see
-    # publish(). Same filesystem, so the files land by rename, not by copy.
-    out = tempfile.mkdtemp(prefix=".build-", dir=os.path.dirname(os.path.abspath(final)))
-    try:
-        return _build(out, final)
-    finally:
-        shutil.rmtree(out, ignore_errors=True)
-
-
-def _build(out, final):
+    out = a.out
     os.makedirs(os.path.join(out, "data", "runs"), exist_ok=True)
 
     fig = edition_figures()
@@ -1445,9 +1382,15 @@ def _build(out, final):
     pl = plates()
 
     # the data itself goes up on GitHub. Only what the pages load is served: the
-    # dictionary page searches dictionary.json. Copies served by earlier builds
-    # are taken down by name in publish(), after this build has succeeded, so no
-    # link anywhere can point at a stale file.
+    # dictionary page searches dictionary.json. Copies served by earlier builds are
+    # taken down by name, so no link anywhere can point at a stale file.
+    for sub in ("data/runs", "data", "code"):
+        d = os.path.join(out, sub)
+        if os.path.isdir(d):
+            for fn in sorted(os.listdir(d)):
+                fp = os.path.join(d, fn)
+                if os.path.isfile(fp) and not (sub == "data" and fn == "dictionary.json"):
+                    os.remove(fp)
     json.dump(rows, open(os.path.join(out, "data", "dictionary.json"), "w", encoding="utf-8"), ensure_ascii=False)
     # the two pictures the pages need, from the repository: the glass over the
     # strip (three times its drawn size, sharp on a retina screen) and the 3-D
@@ -1500,11 +1443,9 @@ def _build(out, final):
     w("outside-gemini.html", page_outside("tests", "gemini_tests.md", "Outside review: Gemini 2.5 Pro"))
     w("outside-grok.html", page_outside("tests", "grok_tests.md", "Outside review: Grok 4.7"))
     w("data.html", page_data([]))
-    n_new, n_gone = publish(out, final)
-    print(f"wrote {final}: {len(order)} folios ({n_eng} with English), {len(rows)} dictionary rows, "
+    print(f"wrote {out}: {len(order)} folios ({n_eng} with English), {len(rows)} dictionary rows, "
           f"{10} pages, {len(pl)} plates, "
           f"{len(sg.get('signs', {}))} signs")
-    print(f"published {n_new} files, took down {n_gone} stale")
     return 0
 
 

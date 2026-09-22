@@ -1,0 +1,9 @@
+# The gates, in one place, read by ktcommit.sh and ktpush.sh.
+# Two scripts with two hand-kept lists is the drift this project keeps paying
+# for. One list. Add a gate here and both run it.
+gate.py
+check_results.py
+check_rohonc.py
+ktretellcheck.py
+ktnotecheck.py
+check_tests.py

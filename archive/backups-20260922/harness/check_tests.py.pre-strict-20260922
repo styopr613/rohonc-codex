@@ -53,21 +53,6 @@ def load(files):
     return txt
 
 
-def in_run(f, run):
-    """Is this figure really in the run, as a NUMBER?
-
-    Plain `f in run` was a substring test, so the document could print 68% and
-    be "verified" by a run that says 68.4%, or 100% by 100.0%. Five figures
-    were passing that way. A figure now has to stand as a whole number, with
-    one documented latitude: a run that writes a whole number as N.0 satisfies
-    a document that writes N.
-    """
-    for cand in (f, f + ".0") if "." not in f else (f,):
-        if re.search(r"(?<![\d.])" + re.escape(cand) + r"(?![\d.])", run):
-            return True
-    return False
-
-
 def opening_counts(txt):
     """The document's first paragraph says how many readings and how many
     bracketed restorations there are. Those were typed once and went stale by
@@ -104,13 +89,6 @@ def main():
         bad.append((["opening"], "counts", ["proposals.json"]))
     for nums, files, body in secs:
         run = load(files)
-        if files and not run:
-            # A test whose saved run has gone missing used to be skipped in
-            # silence, so this checker could return PASS after the evidence for
-            # a figure had disappeared. Missing evidence is now a failure.
-            print(f"  FAIL  Test {'/'.join(nums)}: cited run file(s) missing: {', '.join(files)}")
-            bad.append((nums, "missing run", files))
-            continue
         if not run:
             continue
         figs = []
@@ -122,7 +100,7 @@ def main():
                 figs += FIG.findall(r)
         for f in figs:
             checked += 1
-            if not in_run(f, run):
+            if f not in run:
                 bad.append((nums, f, files))
     for nums, f, files in bad:
         print(f"  FAIL  Test {'/'.join(nums)}: {f} is not in {', '.join(os.path.basename(x) for x in files)}")

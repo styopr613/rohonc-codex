@@ -635,7 +635,7 @@ says so where it quotes them.
     Test 10 | the search replayed on null books | 7 / 215 / 2 signs kept at three scales; the count rule has no power at any, so it cannot tell a search from a decipherment | NO VERDICT
     Test 10, held out | the same runs, scored where the readings were not derived | real book 8 sigma over shuffle; null books none | reported, not a verdict
     Test 12 | Test 5 rescored under the strict rule | 73.7%, 8.4 sigma; but +22.9 points over K&T's own headwords trips the declared leakage clause | FAIL on that clause
-    Test 12b | two independent re-glossers, Gemini 2.5 Pro and Grok 4.7 | given K&T's words only and the sign blanked, they recover our gloss 68% and 71% of the time | PASS
+    Test 12b | two independent re-glossers, Gemini 2.5 Pro and Grok 4.7 | given K&T's words only and the sign blanked, they recover our gloss 68.4% and 71.1% of the time | PASS
     Test 13 | the underdetermination census | 61 of 94 A/B readings have a common verb present in every chapter their folios cite, against a bar of 40% | FAIL
     Test 13, the same rule | applied to the chosen glosses | 0 of the 94 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did | reported, not a verdict
     Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS

@@ -1,56 +1,33 @@
 # Where this stopped — 2026-09-22
 
-## THE SYNC MESS, FIXED — 2026-09-22
+## STOP: BOOK ONE HAS 31 QUOTATIONS THE READINGS NO LONGER SUPPORT
 
-**One command now pushes everything: `harness/ktpush.sh`.** It regenerates what
-the readings produce, runs every gate, then builds the shelf book, its EPUB,
-the web reader's copy, the print PDF and the public site, in dependency order,
-nothing piped. `--check` stops before pushing. The gate list is
-`harness/gates.txt` and `ktcommit.sh` reads the same file, so the two cannot
-drift. All six gates pass and everything above was pushed from one run.
+Do not publish, and do not commit, until these are dealt with. The worklist is
+`work/rohonc/translation/BOOKONE_QUOTE_FAILS.md`, one entry per quotation, with
+the reading that now stands where the quoted word used to be.
 
-**Edits made in Book Maker are no longer destroyed.** `ktbook.py --shelf`
-writes `.kt_stamp.json` beside `book.json` recording what it left. If the shelf
-no longer matches, the build stops, names the edited chapters and exits 3.
-`--overwrite-shelf-edits` discards them deliberately. Tested both ways on a
-copy of the shelf, never the real one.
+`ktretellcheck.py` reads Book One's guillemet quotations against the gloss in
+`rohonc_readers_edition.md`, and NOTHING regenerated that file, so it drifted
+behind the readings. Book One and the document that checks it were stale
+together, and the gate was green the whole time -- the same failure the header
+of `ktcommit.sh` already describes about `kttranslate.txt`. Regenerating the
+reader's edition turns it red: 46 failure lines, 31 distinct quotations.
 
-**The draft is archived.** `retelling.md` stopped being Book One when Codex
-rewrote it, and two checkers went on reading it for a day: ktretellcheck
-measured its 1,142 quotations and reported the strictest-looking pass in the
-project while the printed book was checked by nothing, and ktnotecheck proved
-all 50 endnote anchors stood in it, which is true and beside the point, since
-not one of them is in the printed text and ktbook has always placed those notes
-by folio. Both now read `reading.md`. ktnotecheck checks what actually decides
-placement: the folio on the note's source line, against the folios Book One
-cites. ktbook no longer falls back to the draft -- a missing Book One is a
-failure, not something to substitute for. See `archive/drafts-20260922/`.
+The readings genuinely moved. `eternal*` is now `heaven*`, `anointed*` is now
+`~place`, the restoration `[equal]` is now `finger`, `[cherubim]` is now
+`can_be`, `[maimed]` is now `[lame]`, `judge-+day` is now `judge-~year`. Where
+a bracketed restoration changed, the guess was withdrawn: the sentence that
+quoted it has no basis at all and has to go or be rewritten around what is
+there. Some of the rest may be a word swap -- "the eternal kingdom" for "the
+heavenly kingdom" -- but that is an editorial call per quotation, on the folios
+each one cites, and it is Book One's author's call, not the harness's.
 
-**195 backup files archived** to `archive/backups-20260922/`, 179 with their
-git history. Nothing reads them. The rule is in `archive/README.md`: back up
-before editing, then move it there once committed, because a tree with 179 dead
-files in it is a tree where nobody can see which file is live.
+`ktcommit.sh` now runs `ktreader.py` before any checker, so the two documents
+can never go stale together again.
 
-**Defects the repointed gate found in the printed book, all fixed:**
+The site and the book were NOT rebuilt. Rebuilding would publish readings that
+Book One contradicts.
 
-- Three part headings sat below paragraphs belonging to the next part. The
-  opening of the Cross story was printed inside the Preaching chapter.
-- `PARTS` said IX began at 215r and X at 221r while the prose divided at 215v
-  and 223v, so three paragraphs of Acts were printed under The Last Things.
-  PARTS and the declared ranges in reading.md now match the book.
-- The front matter stated "97.9% of them are the gloss's own". The rewrite made
-  it 71.1/9.2/19.7. `front_matter()` now calls `ktverify.accounting()`.
-
-**Two things I got wrong and corrected**, both worth keeping: 31 quotations
-were reported as broken in the printed book when they were in the archived
-draft; and 11 folios were reported as never cited, which was a citation parser
-that read only the endpoints of "(055r-056v)". All 441 are cited.
-`ktbook.cited_folios()` is now the one reader for that.
-
-**Still open, and the author's call:** the printed Book One carries no
-guillemet quotations at all, so the quotation check weighs nothing. It says so
-out loud every run rather than passing in silence. Whether Book One should
-quote the manuscript is an editorial decision.
 
 ## VERIFICATION BEFORE PUBLISHING — 2026-09-22
 

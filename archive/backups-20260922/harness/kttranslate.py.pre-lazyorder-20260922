@@ -75,55 +75,7 @@ def ordered():
     return out
 
 
-class _Order(dict):
-    """K&T's listed sense order, filled the first time anything reads it.
-
-    This was a plain dict that every caller had to prime with
-    `ORDER.update(ordered())`, and forty-one modules import this one.
-    ktreader.py primed `prop_ref` and not this, so every reader's edition it
-    rendered fell back to alphabetical order and printed the wrong headline
-    sense -- "all, whole" for sign 071, where Kiraly and Tokai list
-    "each, every" first. Priming it inside senses() would not have been
-    enough either: ktsensefit.py reads ORDER.get() directly rather than
-    through senses(). A global each caller must remember to prime is a bug
-    waiting for the next caller, so it fills itself, once, wherever it is
-    first read. ordered() reads the dictionary file and never reads ORDER,
-    so the flag is set before the fill and cannot recurse.
-    """
-
-    _filled = False
-
-    def _fill(self):
-        if not self._filled:
-            self._filled = True
-            dict.update(self, ordered())
-
-    def get(self, k, d=None):
-        self._fill()
-        return dict.get(self, k, d)
-
-    def __getitem__(self, k):
-        self._fill()
-        return dict.__getitem__(self, k)
-
-    def __contains__(self, k):
-        self._fill()
-        return dict.__contains__(self, k)
-
-    def __len__(self):
-        self._fill()
-        return dict.__len__(self)
-
-    def __iter__(self):
-        self._fill()
-        return dict.__iter__(self)
-
-    def update(self, *a, **k):
-        self._filled = True
-        return dict.update(self, *a, **k)
-
-
-ORDER = _Order()
+ORDER = {}
 
 
 def senses(glosses):

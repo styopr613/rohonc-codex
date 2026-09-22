@@ -53,20 +53,7 @@ import sys
 import corpus
 import ktbook
 
-# THE FILE THE BOOK PRINTS. This read retelling.md, which stopped being Book
-# One when Codex rewrote it: ktbook.build() takes reading.md and falls back to
-# the draft only if it is missing. So for a day this guarded a superseded
-# draft, and its 1,142 quotations made it look like the strictest gate in the
-# project while the printed book went unchecked. Pointed here it found eight
-# paragraphs sitting under the wrong part heading, including the opening of
-# the Cross story printed inside the Preaching chapter.
-#
-# THE PRINTED TEXT CARRIES NO GUILLEMETS. Checks 2 and 2b therefore have
-# nothing to weigh, and main() says so out loud every run rather than
-# reporting a silent pass: a gate with nothing to check is not a gate, and
-# whether Book One should quote the manuscript at all is an editorial
-# decision, not something this file should settle by saying PASS.
-RT = os.path.join(corpus.ROOT, "work", "rohonc", "translation", "reading.md")
+RT = os.path.join(corpus.ROOT, "work", "rohonc", "translation", "retelling.md")
 
 # Numbers the retelling states that the manuscript does not itself write.
 # Each one is arithmetic this edition performed, and the working is here so a
@@ -124,7 +111,6 @@ def main(argv):
     idx = {p: i for i, p in enumerate(order)}
     txt = open(RT, encoding="utf-8").read()
     bad = 0
-    nq = 0
     for m in re.finditer(r"^## ([^\n]+)\n\n### folios (\d{3}[rv])–(\d{3}[rv])\n"
                          r"(.*?)(?=^## |\Z)", txt, re.M | re.S):
         name, lo, hi, body = m.groups()
@@ -174,15 +160,7 @@ def main(argv):
                 continue
             bad += 1
             print(f"   NUMBER FAIL: {n} is neither in the gloss nor declared")
-        nq += len(QUOTE.findall(body))
         print(f"   {len(cited)} folios cited, {len(QUOTE.findall(body))} quotations")
-    if nq == 0:
-        print("\nNOTE: the printed Book One carries no guillemet quotations, so")
-        print("checks 2 and 2b weighed nothing this run. Only RANGE and NUMBER")
-        print("were tested. This is stated rather than passed over in silence:")
-        print("whether Book One should quote the manuscript is an editorial")
-        print("decision, and a gate with nothing to check must not read as one")
-        print("that found nothing wrong.")
     print(f"\n{'PASS' if bad == 0 else 'FAIL'}: {bad} problems, bar was 0")
     return 1 if bad else 0
 

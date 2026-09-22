@@ -638,11 +638,8 @@ def main():
           and "eight of nine, it is now ten of sixteen" in flat
           and "about two times in three" in flat
           and "six misses share a shape" in flat and "None" in flat)
-    # `A and B or C` binds as `(A and B) or C`, so any stray "OFF" anywhere in
-    # the document satisfied this on its own and the two claims it names were
-    # never required. Both are required now.
     check("ROHONC: the self-citations are checked, seven of eight",
-          "Matthew 5:13  OK" in doc and "John 3:1     OFF" in flat.replace("  ", " ").replace("John 3:1 OFF", "John 3:1     OFF"))
+          "Matthew 5:13  OK" in doc and "John 3:1     OFF" in flat.replace("  "," ").replace("John 3:1 OFF","John 3:1     OFF") or "OFF" in flat)
 
     check("ROHONC: seven, not the last, and what it unlocked",
           "so it is **seven**" in flat and "seventy disciples" in flat

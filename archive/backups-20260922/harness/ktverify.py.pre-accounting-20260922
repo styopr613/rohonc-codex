@@ -117,27 +117,6 @@ def show(row, gl, width=0):
     print()
 
 
-def accounting(rows=None):
-    """The three shares the front matter states, computed in one place.
-
-    The front matter used to TYPE them: "97.9% of them are the gloss's own,
-    1.3% ... 0.8%". Book One was then rewritten from end to end and the real
-    figures became 71.1, 9.2 and 19.7, and the typed sentence stayed in the
-    printed book. ktbook.figures() already refuses to retype the edition's
-    counts, and says why: a figure written in two places will go wrong in
-    one. This is that rule applied to the one paragraph that had escaped it.
-    """
-    if rows is None:
-        rows, _ = risk_table()
-    ms = sum(r["ms"] for r in rows)
-    sr = sum(r["src"] for r in rows)
-    no = sum(len(r["no"]) for r in rows)
-    t = max(1, ms + sr + no)
-    return {"paras": len(rows), "ms": ms, "src": sr, "no": no,
-            "ms_pct": 100.0 * ms / t, "src_pct": 100.0 * sr / t,
-            "no_pct": 100.0 * no / t}
-
-
 def main(argv):
     ap = argparse.ArgumentParser()
     ap.add_argument("cmd", choices=["risk", "brief", "folio"])
@@ -145,11 +124,13 @@ def main(argv):
     a = ap.parse_args(argv)
     rows, gl = risk_table()
     if a.cmd == "risk":
-        a = accounting(rows)
-        print(f"paragraphs {a['paras']}")
-        print(f"  content words from the manuscript  {a['ms']:>6}  {a['ms_pct']:.1f}%")
-        print(f"  only in the source it was shown    {a['src']:>6}  {a['src_pct']:.1f}%")
-        print(f"  in neither                         {a['no']:>6}  {a['no_pct']:.1f}%")
+        tot_ms = sum(r["ms"] for r in rows); tot_sr = sum(r["src"] for r in rows)
+        tot_no = sum(len(r["no"]) for r in rows)
+        t = max(1, tot_ms + tot_sr + tot_no)
+        print(f"paragraphs {len(rows)}")
+        print(f"  content words from the manuscript  {tot_ms:>6}  {100.0*tot_ms/t:.1f}%")
+        print(f"  only in the source it was shown    {tot_sr:>6}  {100.0*tot_sr/t:.1f}%")
+        print(f"  in neither                         {tot_no:>6}  {100.0*tot_no/t:.1f}%")
         print(f"  paragraphs with a word from neither {sum(1 for r in rows if r['no'])}")
         for r in rows[:25]:
             print(f"  {' '.join(r['pages']):26} off {r['off']:>5}%  {', '.join(r['no'][:8])}")
