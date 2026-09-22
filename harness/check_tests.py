@@ -11,6 +11,7 @@ the figure blocks, which is where the site and the book read from.
 
     python3 check_tests.py
 """
+import glob
 import os
 import re
 import sys
@@ -43,14 +44,36 @@ def sections(txt):
 
 
 def load(files):
-    txt = ""
+    """The cited run files, concatenated, and the ones that could not be found.
+
+    This used to return only the text, and the caller failed a test just when
+    NOTHING it cited existed. So a test citing three runs kept passing when
+    two of them had been deleted, which is the case that matters: the figures
+    from the surviving run go on matching and the rest are checked against
+    nothing. Every cited file is now named and a single missing one fails.
+
+    A citation may be a wildcard -- reglosser_*.json -- and those were never
+    expanded, so they could only ever count as missing. They are expanded
+    here, and a pattern matching no file is missing like any other.
+    """
+    txt, missing = "", []
     for f in files:
-        for cand in (os.path.join(WORK, os.path.basename(f)), os.path.join(corpus.ROOT, f),
+        got = []
+        for cand in (os.path.join(WORK, os.path.basename(f)),
+                     os.path.join(corpus.ROOT, f),
                      os.path.join(WORK, f)):
-            if os.path.isfile(cand):
-                txt += open(cand, encoding="utf-8", errors="replace").read() + "\n"
+            if any(ch in cand for ch in "*?["):
+                got = sorted(g for g in glob.glob(cand) if os.path.isfile(g))
+            elif os.path.isfile(cand):
+                got = [cand]
+            if got:
                 break
-    return txt
+        if not got:
+            missing.append(f)
+            continue
+        for g in got:
+            txt += open(g, encoding="utf-8", errors="replace").read() + "\n"
+    return txt, missing
 
 
 def in_run(f, run):
@@ -103,13 +126,15 @@ def main():
         print(f"  FAIL  {msg}")
         bad.append((["opening"], "counts", ["proposals.json"]))
     for nums, files, body in secs:
-        run = load(files)
-        if files and not run:
+        run, missing = load(files)
+        if missing:
             # A test whose saved run has gone missing used to be skipped in
             # silence, so this checker could return PASS after the evidence for
-            # a figure had disappeared. Missing evidence is now a failure.
-            print(f"  FAIL  Test {'/'.join(nums)}: cited run file(s) missing: {', '.join(files)}")
-            bad.append((nums, "missing run", files))
+            # a figure had disappeared. Missing evidence is now a failure, and
+            # ONE missing file is enough -- not only the case where every file
+            # a test cites has gone.
+            print(f"  FAIL  Test {'/'.join(nums)}: cited run file(s) missing: {', '.join(missing)}")
+            bad.append((nums, "missing run", missing))
             continue
         if not run:
             continue

@@ -756,7 +756,19 @@ def build():
         # be found is a failure, not something to substitute for.
         raise SystemExit(f"ktbook: Book One is missing -- no {os.path.basename(TR)}")
     idx = {pg: i for i, (pg, _, _, _) in enumerate(fol)}
-    bounds = [(idx.get(pg, 0), name, blurb) for pg, name, blurb in PARTS]
+    # A part boundary that names a folio the manuscript has not got is a
+    # mistake in PARTS, not a part that starts at the beginning. This was
+    # idx.get(pg, 0), so a renamed or dropped folio silently moved that part
+    # to index 0, where it would overlap or reorder every part before it and
+    # the book would still build. Two boundaries were wrong by a folio as
+    # recently as 2026-09-22; this is the failure that would have hidden the
+    # next one.
+    for pg, name, _ in PARTS:
+        if pg not in idx:
+            raise SystemExit(
+                f"ktbook: part {name.split('.')[0]} starts at {pg}, "
+                f"which is not a folio of this manuscript")
+    bounds = [(idx[pg], name, blurb) for pg, name, blurb in PARTS]
     bounds.sort()
     chapters = []
 

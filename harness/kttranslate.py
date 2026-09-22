@@ -142,13 +142,22 @@ def clean(s):
 
 
 def seg_word(c, gl, var, prop, full):
-    """Render one piece of an extended segmentation."""
+    """Render one piece of an extended segmentation.
+
+    `prop` is used, and the module global is only the fallback. This took
+    `prop` and then read `prop_ref` regardless, so a caller that passed its
+    own proposal-backed parts but had not primed the global got "[?]" for
+    every one of them -- the same trap ORDER had, and found by the same
+    review. Priming a global is not part of a function's signature, so a
+    reader of this line could not see that it was required.
+    """
+    ref = prop or prop_ref
     if c in gl:
         return word(c, gl, full)
     if c in var:
         return "~" + word(var[c], gl, full)
-    if c in prop_ref:
-        g, tier = prop_ref[c]
+    if c in ref:
+        g, tier = ref[c]
         return MARK.get(tier, "?") + g.replace(" ", "_")
     return "[?]"
 
