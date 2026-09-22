@@ -161,11 +161,11 @@ main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:v
 .strip .fade{position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,var(--paper) 0,transparent 8%,transparent 92%,var(--paper) 100%)}
 .strip .glass,.strip .lens,.strip .nudge,.strip .rcap{display:none}
 /* with JS the strip becomes a thing you drag, and the glass reads what passes under it */
-.strip.glassed .track{cursor:grab}
+.strip.glassed .track{cursor:grab;scroll-snap-type:x proximity}
 .strip.glassed .track.grabbing{cursor:grabbing}
-.strip.glassed .it{flex-direction:row}
+.strip.glassed .it{flex-direction:row;scroll-snap-align:center}
 .strip.glassed .it b,.strip.glassed .it span{position:absolute;width:1px;height:1px;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
-.strip.glassed .glass{display:block;position:absolute;left:50%;top:50%;width:var(--gw);height:var(--gh);margin:calc(var(--gy) * -1) 0 0 calc(var(--gx) * -1);pointer-events:none;transform-origin:var(--gx) var(--gy);will-change:transform}
+.strip.glassed .glass{display:block;position:absolute;left:50%;top:50%;width:var(--gw);height:var(--gh);margin:calc(var(--gy) * -1) 0 0 calc(var(--gx) * -1);pointer-events:none}
 .strip.glassed .lens{display:block;position:absolute;left:50%;top:50%;width:var(--lens);height:var(--lens);margin:calc(var(--lens)/-2) 0 0 calc(var(--lens)/-2);border-radius:50%;overflow:hidden;background:var(--paper2);pointer-events:none}
 .strip .lens .rail{position:absolute;left:0;top:50%;transform-origin:0 50%;will-change:transform}
 .strip .rim{display:block;width:100%;height:100%}
@@ -495,182 +495,73 @@ STRIP_JS = """<script>
   var strip=document.querySelector('.strip'); if(!strip||!strip.querySelector('.glass')) return;
   var track=strip.querySelector('.track'), rail=track.firstElementChild,
       lens=strip.querySelector('.lens'), mag=lens.firstElementChild,
-      glass=strip.querySelector('.glass'),
       prev=strip.querySelector('.nudge.l'), next=strip.querySelector('.nudge.r'),
       cap=strip.querySelector('.rcap'), capw=cap.querySelector('b'), capc=cap.querySelector('span'),
       items=Array.prototype.slice.call(rail.children),
-      M=2.1, mid=[], cur=-1,
+      M=2.1, mid=[], cur=-1, raf=0,
       calm=window.matchMedia('(prefers-reduced-motion: reduce)');
   if(!items.length) return;
   strip.classList.add('glassed');
-
-  // ---- the detents ---------------------------------------------------------
-  function nearest(p){
-    var best=0,d=Infinity;
-    for(var i=0;i<mid.length;i++){var v=Math.abs(mid[i]-p); if(v<d){d=v;best=i;}}
-    return best;
-  }
-  function stop(i){
-    var x=mid[Math.max(0,Math.min(mid.length-1,i))]-track.clientWidth/2;
-    return Math.max(0,Math.min(track.scrollWidth-track.clientWidth,x));
-  }
-  function here(){ return nearest(track.scrollLeft+track.clientWidth/2); }
-
-  // ---- the click -----------------------------------------------------------
-  // A short burst of decaying noise through a bandpass: a wooden tick, not a
-  // beep. Built once, on the first gesture, because a page may not open an
-  // AudioContext before the reader has touched it.
-  var ac=null, noise=null;
-  function audio(){
-    if(ac||calm.matches) return;
-    var C=window.AudioContext||window.webkitAudioContext; if(!C) return;
-    ac=new C();
-    var n=Math.floor(ac.sampleRate*0.03), b=ac.createBuffer(1,n,ac.sampleRate), d=b.getChannelData(0);
-    for(var i=0;i<n;i++) d[i]=(Math.random()*2-1)*Math.pow(1-i/n,7);
-    noise=b;
-  }
-  function tick(speed){
-    if(!ac||!noise) return;
-    if(ac.state==='suspended') ac.resume();
-    var s=ac.createBufferSource(); s.buffer=noise;
-    s.playbackRate.value=0.85+Math.min(0.5,speed*0.25);
-    var f=ac.createBiquadFilter(); f.type='bandpass'; f.frequency.value=1900; f.Q.value=1.1;
-    var g=ac.createGain(); g.gain.value=0.05+Math.min(0.05,speed*0.03);
-    s.connect(f); f.connect(g); g.connect(ac.destination);
-    s.start();
-  }
-
-  // ---- the loop ------------------------------------------------------------
-  // One animation loop drives everything that moves: the throw after a drag,
-  // the glide onto a detent, and the flick of the glass as each sign passes.
-  // Two loops writing scrollLeft is how this kind of thing starts stuttering.
-  // scrollLeft reads back as a whole number. An animation that adds a fraction
-  // of the remaining distance each frame therefore STOPS DEAD once that fraction
-  // rounds to nothing, and this one parked four pixels short of the detent every
-  // single time. The position is kept here as a float and written out each frame.
-  var raf=0, last=0, pos=0, vel=0, flick=0, armed=false,
-      goal=null, from=0, t0=0, dur=0;
-  function run(){ if(!raf) raf=requestAnimationFrame(loop); }
-  function sync(){ pos=track.scrollLeft; }
-  var aim=-1;                                         // the detent being glided to
-  function glide(i){
-    aim=Math.max(0,Math.min(mid.length-1,i));
-    sync(); from=pos; goal=Math.round(stop(aim)); t0=0;
-    dur=Math.max(170,Math.min(430,170+Math.abs(goal-from)*1.1));
-    run();
-  }
-  function put(x){
-    var max=track.scrollWidth-track.clientWidth;
-    pos=Math.max(0,Math.min(max,x));
-    track.scrollLeft=pos;
-    return pos!==x;                                   // true if it hit an end
-  }
-  function loop(ts){
-    raf=0;
-    var dt=last?Math.min(40,ts-last):16; last=ts;
-    var busy=false;
-    // while a hand is on it the hand is the only thing that moves it; the loop
-    // still runs, but only to spring the glass back
-    if(down){ }
-    else if(goal!==null){
-      if(!t0) t0=ts;
-      var u=Math.min(1,(ts-t0)/dur), e=1-Math.pow(1-u,3);
-      put(from+(goal-from)*e);
-      if(u>=1) goal=null; else busy=true;
-    }
-    else if(Math.abs(vel)>0.04){
-      if(put(pos-vel*dt)) vel=0;
-      else vel*=Math.pow(0.0012,dt/1000);
-      if(Math.abs(vel)<=0.04){ vel=0; glide(here()); }
-      busy=true;
-    }
-    if(flick!==0){
-      flick*=Math.pow(0.0009,dt/1000);
-      if(Math.abs(flick)<0.04) flick=0;
-      glass.style.transform=flick?'rotate('+flick.toFixed(2)+'deg)':'';
-      busy=busy||flick!==0;
-    }
-    draw();
-    if(busy) run(); else last=0;
-  }
-
-  function draw(){
-    var p=track.scrollLeft+track.clientWidth/2;
-    mag.style.transform='translate('+(lens.clientWidth/2-M*p)+'px,-50%) scale('+M+')';
-    var i=nearest(p);
-    if(i!==cur){
-      var was=cur;
-      cur=i;
-      capw.textContent=items[i].querySelector('b').textContent;
-      capc.textContent=items[i].querySelector('span').textContent;
-      prev.disabled=(i===0); next.disabled=(i===mid.length-1);
-      if(armed&&was>=0){                              // a sign has passed the glass
-        var sp=Math.abs(vel);
-        tick(sp);
-        if(!calm.matches){ flick=(i>was?-1:1)*(2.2+Math.min(1.8,sp*0.8)); run(); }
-      }
-    }
-  }
-
   var opened=false;
   function layout(){
     strip.style.setProperty('--pad',(track.clientWidth/2-37)+'px');
     var x0=rail.getBoundingClientRect().left;
     mid=items.map(function(el){var r=el.getBoundingClientRect();return r.left-x0+r.width/2;});
+    // the strip opens a few signs in, so the glass has signs on both sides of
+    // it; from a standing start at the first sign the left half of the band is
+    // empty and the strip does not look like something that moves
     if(!opened&&mid.length){opened=true;
-      track.scrollLeft=stop(+strip.dataset.open||0);}
+      track.scrollLeft=mid[Math.min(+strip.dataset.open||0,mid.length-1)]-track.clientWidth/2;}
     cur=-1; draw();
   }
-
-  // ---- input ---------------------------------------------------------------
-  var nudge=0;
-  track.addEventListener('scroll',function(){ if(!raf) { draw(); rest(); } },{passive:true});
-  function rest(){                                    // settle after a native throw
-    clearTimeout(nudge);
-    nudge=setTimeout(function(){
-      if(!down&&goal===null&&Math.abs(vel)<=0.04){ armed=true; glide(here()); }
-    },130);
+  function nearest(p){
+    var best=0,d=Infinity;
+    for(var i=0;i<mid.length;i++){var v=Math.abs(mid[i]-p); if(v<d){d=v;best=i;}}
+    return best;
   }
+  function draw(){
+    raf=0;
+    var p=track.scrollLeft+track.clientWidth/2;
+    mag.style.transform='translate('+(lens.clientWidth/2-M*p)+'px,-50%) scale('+M+')';
+    var i=nearest(p);
+    if(i!==cur){
+      cur=i;
+      capw.textContent=items[i].querySelector('b').textContent;
+      capc.textContent=items[i].querySelector('span').textContent;
+      // an arrow that cannot move the strip says so rather than doing nothing
+      prev.disabled=(i===0); next.disabled=(i===mid.length-1);
+    }
+  }
+  function tick(){ if(!raf) raf=requestAnimationFrame(draw); }
+  function step(d){
+    var i=nearest(track.scrollLeft+track.clientWidth/2)+d;
+    if(i<0||i>=mid.length) return;
+    track.scrollTo({left:mid[i]-track.clientWidth/2,behavior:calm.matches?'auto':'smooth'});
+  }
+  track.addEventListener('scroll',tick,{passive:true});
   window.addEventListener('resize',layout);
-
-  function step(d){ audio(); armed=true; vel=0; glide((goal!==null?aim:here())+d); }
   prev.addEventListener('click',function(){step(-1);});
   next.addEventListener('click',function(){step(1);});
   track.addEventListener('keydown',function(e){
     if(e.key==='ArrowRight'){step(1);e.preventDefault();}
     else if(e.key==='ArrowLeft'){step(-1);e.preventDefault();}
   });
-
-  // Mouse drag with a throw. A touch already scrolls the box natively and with
-  // the platform's own momentum, so it is left alone and only settled at the end;
-  // handling it here as well moved the strip at twice the speed of the finger.
-  var down=false,x0=0,s0=0,px=0,pt=0;
+  // mouse drag only: a touch already scrolls the box natively, and handling it
+  // here as well moved the strip at twice the speed of the finger
+  var down=false,x0=0,s0=0;
   track.addEventListener('pointerdown',function(e){
     if(e.pointerType==='touch'||e.button) return;
-    audio(); armed=true;
-    down=true; vel=0; goal=null; sync();
-    x0=px=e.clientX; s0=track.scrollLeft; pt=e.timeStamp;
+    down=true; x0=e.clientX; s0=track.scrollLeft;
     track.classList.add('grabbing'); track.setPointerCapture(e.pointerId);
   });
   track.addEventListener('pointermove',function(e){
     if(!down) return;
-    var dt=e.timeStamp-pt;
-    if(dt>0){ var v=(e.clientX-px)/dt; vel=Math.max(-4,Math.min(4,vel*0.7+v*0.3)); px=e.clientX; pt=e.timeStamp; }
-    put(s0-(e.clientX-x0));
-    draw(); e.preventDefault();
+    track.scrollLeft=s0-(e.clientX-x0); e.preventDefault();
   });
-  function release(e){
-    if(!down) return;
-    down=false; track.classList.remove('grabbing');
-    if(e&&e.timeStamp-pt>90) vel=0;                   // let go after a pause: no throw
-    sync();
-    if(Math.abs(vel)<=0.04){ vel=0; glide(here()); } else run();
-  }
+  function release(){ if(down){down=false; track.classList.remove('grabbing');} }
   track.addEventListener('pointerup',release);
   track.addEventListener('pointercancel',release);
   track.addEventListener('dragstart',function(e){e.preventDefault();});
-  track.addEventListener('touchstart',function(){audio();armed=true;},{passive:true});
-
   layout();
   if(document.fonts&&document.fonts.ready) document.fonts.ready.then(layout);
 })();
