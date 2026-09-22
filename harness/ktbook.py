@@ -207,9 +207,14 @@ def figures():
     return g
 
 
-def _n(s, w=6):
-    """A count, right-aligned, so the column in the front matter lines up."""
-    return f"{int(s.replace(',', '')):,}".rjust(w)
+def _n(s, w=0):
+    """A count with its thousands separator.
+
+    It used to be right-aligned into a six-character field, because the figures stood in
+    a space-aligned block. They stand in a table now and the column does the aligning, so
+    the padding only put leading spaces inside a cell. (2026-09-22)"""
+    out = f"{int(s.replace(',', '')):,}"
+    return out.rjust(w) if w else out
 
 
 def annotate(body, part="p"):
@@ -287,7 +292,15 @@ def annotate(body, part="p"):
     return rendered, notes
 
 
-def front_matter():
+# Where the front matter stops and the appendix begins. Everything from this heading
+# to the end of the introduction is how the work was done and what it cost -- true,
+# and too much to put between a reader and the first page of the book. The owner,
+# 2026-09-22: "tmi up front". It moves to the back whole, in its own words, with
+# nothing cut. (2026-09-22)
+_APPENDIX_FROM = "## How it was checked"
+
+
+def _intro_all():
     g = figures()
     # ktverify imports this module, so it is imported here and not at the top.
     import ktverify
@@ -383,16 +396,16 @@ gap or an unreadable glyph in the transcription.
 ## What this book is worth, in numbers
 
 <table>
-<tr><th>words in the manuscript</th><th>""" + _n(g["words"][0]) + """</th><th></th></tr>
-<tr><td>read</td><td>""" + _n(g["read"][0]) + "</td><td>" + g["read"][1] + """%</td></tr>
-<tr><td>read from one passage</td><td>""" + _n(g["soft"][0]) + "</td><td>" + g["soft"][1] + """%</td></tr>
-<tr><td>restored, in brackets</td><td>""" + _n(g["rest"][0]) + "</td><td>" + g["rest"][1] + """%</td></tr>
-<tr><td>dark</td><td>""" + _n(g["dark"][0]) + "</td><td>" + g["dark"][1] + """%</td></tr>
+<tr><td><strong>words in the manuscript</strong></td><td class="num"><strong>""" + _n(g["words"][0]) + """</strong></td></tr>
+<tr><td>read</td><td class="num">""" + _n(g["read"][0]) + '</td><td class="num">' + g["read"][1] + """%</td></tr>
+<tr><td>read from one passage</td><td class="num">""" + _n(g["soft"][0]) + '</td><td class="num">' + g["soft"][1] + """%</td></tr>
+<tr><td>restored, in brackets</td><td class="num">""" + _n(g["rest"][0]) + '</td><td class="num">' + g["rest"][1] + """%</td></tr>
+<tr><td>dark</td><td class="num">""" + _n(g["dark"][0]) + '</td><td class="num">' + g["dark"][1] + """%</td></tr>
 </table>
 
 <table>
-<tr><td>lines with every word read</td><td>""" + g["lread"][2] + """%</td></tr>
-<tr><td>lines complete once brackets are counted</td><td>""" + g["lall"][2] + """%</td></tr>
+<tr><td>lines with every word read</td><td class="num">""" + g["lread"][2] + """%</td></tr>
+<tr><td>lines complete once brackets are counted</td><td class="num">""" + g["lall"][2] + """%</td></tr>
 </table>
 
 The middle figure is the honest one. A sentence with one word you cannot read
@@ -574,6 +587,25 @@ right.
 """
 
 
+def front_matter():
+    """The introduction, down to where the method starts."""
+    head, sep, _ = _intro_all().partition("\n" + _APPENDIX_FROM + "\n")
+    if not sep:
+        raise SystemExit("front_matter: '%s' is no longer in the introduction; the "
+                         "split that moves it to the back cannot be made blind."
+                         % _APPENDIX_FROM)
+    return head.rstrip() + "\n"
+
+
+def method_appendix():
+    """The same text, in the back, where somebody who wants it will look for it."""
+    _, sep, tail = _intro_all().partition("\n" + _APPENDIX_FROM + "\n")
+    if not sep:
+        raise SystemExit("method_appendix: the introduction no longer contains "
+                         + _APPENDIX_FROM)
+    return (_APPENDIX_FROM + "\n" + tail).rstrip() + "\n"
+
+
 def corpus_appendix():
     """The shelf the codex was read against, from the provenance file, so the
     printed book carries it and it cannot drift from the record."""
@@ -651,7 +683,11 @@ downgraded a tier.
 each is corrected in place with the mistake named rather than quietly amended.
 Forty more restorations were corrected by a sweep that looks for a guessed
 word repeating a word already standing beside it in the line."""},
-        {"type": "appendix", "pos": 1, "title": "What would prove this wrong",
+        # Moved out of the introduction on 2026-09-22: true, and too much to put
+        # between a reader and the first page. Its own words, nothing cut.
+        {"type": "appendix", "pos": 1, "title": "The work behind the reading",
+         "text": method_appendix()},
+        {"type": "appendix", "pos": 2, "title": "What would prove this wrong",
          "text": """Three things could falsify large parts of this book, and
 none of them is in the project's own hands.
 
@@ -671,7 +707,7 @@ a line and deciding what a sign means — has never been measured by anyone who
 had not already read the dictionary. The project prepared that test, named it,
 and could not run it honestly on itself. It is the cheapest and most damaging
 external check available, and anyone may run it."""},
-        {"type": "appendix", "pos": 2, "title": "What this edition transmits",
+        {"type": "appendix", "pos": 3, "title": "What this edition transmits",
          "text": """This is a sixteenth-century Catholic devotional book and it
 carries its genre's material without alteration here.
 
@@ -687,9 +723,9 @@ Passion preaching all over Europe.
 
 Both are printed as the manuscript has them. An edition that cut them would be
 a worse witness to what a Catholic in Hungary in 1593 was actually reading."""},
-        {"type": "appendix", "pos": 3, "title": "The corpus",
+        {"type": "appendix", "pos": 4, "title": "The corpus",
          "text": corpus_appendix()},
-        {"type": "appendix", "pos": 4, "title": "Acknowledgment",
+        {"type": "appendix", "pos": 5, "title": "Acknowledgment",
          "text": """The dictionary and the grammar of the Rohonc Codex are the
 work of **Levente Zoltan Kiraly** and **Gabor Tokai**, published as "Cracking
 the code of the Rohonc Codex", *Cryptologia* 42:4 (2018), 285-315, with
