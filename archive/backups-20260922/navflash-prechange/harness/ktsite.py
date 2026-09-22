@@ -927,7 +927,7 @@ def page_dictionary(about, rows, ktn):
   <span class="n" id="n"></span>
 </div>
 <div class="tw"><table class="dict"><thead><tr><th>Sign</th><th>Reading</th><th>Tier</th><th>Times</th><th>Evidence</th></tr></thead><tbody id="tb"></tbody></table></div>
-<p>The file itself, every entry with its full evidence, is in the repository: <a href="https://github.com/SUP613/rohonc-codex">github.com/SUP613/rohonc-codex</a>.</p>
+<p>The file itself, every entry with its full evidence, is in the repository: <a href="https://github.com/styopr613/rohonc-codex">github.com/styopr613/rohonc-codex</a>.</p>
 <script>
 (function(){{
 var ROWS=[];var T='',Q='';
@@ -1157,7 +1157,7 @@ def page_code(out):
             "<p>Every test on the <a href=\"/rohonc/tests.html\">checked-results page</a> names its program, and each program "
             "names its saved run. This table is read out of the tests document at build time.</p>",
             crosswalk(out),
-            '<p>The programs and every saved run are in the repository, with their history: <a href="https://github.com/SUP613/rohonc-codex">github.com/SUP613/rohonc-codex</a>. Nothing is served '
+            '<p>The programs and every saved run are in the repository, with their history: <a href="https://github.com/styopr613/rohonc-codex">github.com/styopr613/rohonc-codex</a>. Nothing is served '
             "from here, so nothing on this page can point at a copy that has gone stale.</p>"]
     return shell("code", "The programs",
                  "Which program produced each number on the checked-results page, what they run on, and every program in the harness as plain text.",

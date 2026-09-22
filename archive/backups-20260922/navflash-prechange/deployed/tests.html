@@ -1,0 +1,206 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="dark">
+<link rel="expect" href="#oona-fam-ready" blocking="render">
+<style>html{background:#0B0D10}body{background:#0B0D10}</style>
+<link rel="stylesheet" href="https://oona13.com/fam/fam.css?v=20260909b">
+<title>Are the readings true? · The Rohonc Codex · OONA 13</title>
+<meta name="description" content="Fifteen tests of the Rohonc readings, every bar declared before the run and none moved, with the failures kept beside the passes.">
+<link rel="canonical" href="https://oona13.com/rohonc/tests.html">
+<meta property="og:title" content="Are the readings true? · The Rohonc Codex"><meta property="og:description" content="Fifteen tests of the Rohonc readings, every bar declared before the run and none moved, with the failures kept beside the passes.">
+<meta property="og:type" content="article"><meta property="og:url" content="https://oona13.com/rohonc/tests.html">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cinzel:wght@400;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Cinzel:wght@400;600&display=swap" rel="stylesheet"></noscript>
+<style>
+/* fam.js lays an opaque veil over every arrival and fades it out over .17s even
+   when the browser's own view transition is doing the hop. On a light page that
+   veil is the page's own cream and nobody sees it; here it is #0B0D10 over a cream
+   sheet, so every hop read as the page going black and lighting up again --
+   measured live at 150->22 brightness on each click. The veil is dropped on
+   ARRIVAL with no fade. On the way OUT (html.oona-leaving) it keeps its fade, so
+   a hop to another OONA property still dims before it goes. */
+html:not(.oona-leaving) #oona-veil.out{transition:none!important}
+:root{--bg:#0B0D10;--ink:#1d1a16;--soft:#5a5248;--paper:#f5efe3;--paper2:#ece5d5;--rub:#7a2418;--ivory:#e9e2d3;--line:#d9cfb9}
+body{margin:0;background:var(--bg);color:var(--ivory);font-family:"EB Garamond",Garamond,"Times New Roman",serif;font-size:19px;line-height:1.55}
+header.rh{padding:34px 20px 8px;text-align:center}
+header.rh .mark{font-family:Cinzel,"Times New Roman",serif;font-size:30px;letter-spacing:.12em;color:var(--ivory);text-decoration:none;text-transform:uppercase}
+header.rh .tag{margin:8px 0 0;color:#b7ad9b;font-style:italic;font-size:18px}
+nav.sub{margin:20px 0 0;font-size:14px;letter-spacing:.09em;text-transform:uppercase}
+nav.sub a{color:#bdb3a1;text-decoration:none;margin:0 10px;padding-bottom:3px;display:inline-block}
+nav.sub a:hover{color:#e6c979}
+nav.sub a.here{color:#e6c979;border-bottom:1px solid #e6c979}
+main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:var(--ink);padding:52px 64px 60px;border-radius:3px;box-shadow:0 12px 40px rgba(0,0,0,.55)}
+.prose h1,.prose h2,.prose h3,.prose h4{font-family:Cinzel,"Times New Roman",serif;font-weight:400;color:var(--rub);line-height:1.2;letter-spacing:.03em}
+.prose h1{font-size:30px;margin:0 0 .6em}
+.prose h2{font-size:22px;margin:1.8em 0 .5em}
+.prose h3{font-size:18px;margin:1.5em 0 .4em}
+.prose h4{font-size:17px;margin:1.3em 0 .3em;color:var(--ink)}
+.prose p{margin:0 0 1em}
+.prose a{color:var(--rub)}
+.prose pre{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13.5px;line-height:1.45;background:var(--paper2);padding:14px 16px;border-radius:3px;overflow-x:auto;white-space:pre}
+.prose code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.85em;background:var(--paper2);padding:1px 4px;border-radius:2px}
+.prose pre code{background:none;padding:0;font-size:inherit}
+.prose blockquote{margin:1em 0;padding:0 0 0 18px;border-left:3px solid var(--line);color:var(--soft)}
+.prose table{border-collapse:collapse;font-size:16px;margin:1em 0}
+.prose th,.prose td{border-bottom:1px solid var(--line);padding:5px 10px;text-align:left;vertical-align:top}
+.prose .tw{overflow-x:auto}
+table.tests{width:100%;font-size:15.5px}
+table.tests th{font-weight:400;color:var(--soft);font-size:13px;letter-spacing:.06em;text-transform:uppercase;white-space:nowrap}
+table.tests tbody th{color:var(--ink);font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13.5px;text-transform:none;letter-spacing:0}
+table.tests td{line-height:1.4}
+table.tests td.verdict{font-family:Cinzel,serif;font-size:12.5px;letter-spacing:.07em;white-space:nowrap}
+table.tests .v-pass{color:#3b6b3a}
+table.tests .v-fail{color:var(--rub)}
+table.tests .v-none{color:var(--soft)}
+table.tests .v-band{color:#7a5a1e}
+table.tests td.verdict.v-note{color:var(--soft);font-family:"EB Garamond",serif;font-size:14px;letter-spacing:0;text-transform:none;white-space:normal;font-style:italic}
+table.tests tr.cap td{color:var(--soft);font-style:italic;border-bottom:0;padding-top:12px}
+table.tests tr.cap+tr.cap td{padding-top:2px}
+@media(max-width:620px){
+  table.tests,table.tests tbody,table.tests tr,table.tests td,table.tests tbody th{display:block;width:auto}
+  table.tests thead{display:none}
+  table.tests tr{border-bottom:1px solid var(--line);padding:10px 0}
+  table.tests td,table.tests tbody th{border:0;padding:2px 0}
+  table.tests tbody th{float:left;padding-right:10px}
+  table.tests td.verdict{float:right;padding-top:3px}
+  table.tests td:nth-child(2){clear:both;font-style:italic;color:var(--soft)}
+  table.tests tr.cap{padding:14px 0 2px}
+}
+.prose hr{border:0;border-top:1px solid var(--line);margin:2em 0}
+.prose ul,.prose ol{padding-left:1.4em}
+.prose li{margin:.25em 0}
+.prose img{max-width:100%}
+.lead{font-size:21px}
+.fig{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14px;line-height:1.5;background:var(--paper2);padding:14px 18px;border-radius:3px;margin:1em 0;white-space:pre;overflow-x:auto}
+.credit{border-top:1px solid var(--line);margin-top:2.5em;padding-top:1em;color:var(--soft);font-size:16.5px}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin:1.2em 0}
+.card{display:block;background:var(--paper2);padding:14px 16px;border-radius:3px;text-decoration:none;color:var(--ink)}
+.card b{display:block;font-family:Cinzel,serif;font-weight:400;font-size:15px;letter-spacing:.06em;color:var(--rub);margin-bottom:4px}
+.card span{font-size:16px;color:var(--soft)}
+/* the reading */
+.folio{margin:0 0 1.6em}
+.folio h2{margin:1.4em 0 .3em}
+.folio h2 small{font-family:"EB Garamond",serif;font-size:17px;color:var(--soft);letter-spacing:0;margin-left:10px;text-transform:none}
+.folio p{text-indent:0}
+.nof{color:var(--soft);font-style:italic}
+/* the illuminated initial: a rubric capital in the display face, set in a
+   paper-coloured square with a double rule, the way a manuscript opens */
+.hero .blurb p.dc::first-letter{float:left;font-family:Cinzel,"Times New Roman",serif;font-size:4.9em;line-height:.82;color:var(--rub);padding:.14em .16em .08em .12em;margin:.06em .16em 0 0;background:var(--paper2);border:1px solid var(--rub);outline:1px solid var(--rub);outline-offset:2px}
+.hero .blurb p.dc{margin-top:.3em}
+.orders h1{font-size:24px;margin-top:1.6em}.orders h2{font-size:20px}.orders pre{font-size:13px}.orders code{font-size:.82em}
+/* the front page: the book, the scroller */
+.hero{display:grid;grid-template-columns:minmax(0,1fr) 236px;gap:34px;align-items:center;margin:0 0 6px}
+.hero .blurb p:first-child{margin-top:0}
+.hero .bk{margin:0}
+.hero .bk img{width:100%;height:auto;display:block;filter:drop-shadow(0 16px 26px rgba(0,0,0,.32))}
+.hero .acts{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.hero .acts a{display:inline-block;text-decoration:none;font-family:Cinzel,serif;font-size:13.5px;letter-spacing:.08em;text-transform:uppercase;padding:9px 14px;border:1px solid var(--rub);border-radius:3px;color:var(--rub)}
+.hero .acts a.go{background:var(--rub);color:#fff}
+.hero .acts a:hover{background:var(--rub);color:#fff}
+.hero .sz{font-size:15px;color:var(--soft);margin:10px 0 0}
+.strip{margin:1.6em -64px;padding:var(--top) 0 22px;background:var(--paper2);position:relative;--padl:0px;--padr:0px;--lens:104px}
+.strip .win{position:relative;height:var(--win)}
+.strip .track{position:absolute;inset:0;overflow-x:auto;overflow-y:hidden;scrollbar-width:none;-ms-overflow-style:none;overscroll-behavior-x:contain}
+.strip .track::-webkit-scrollbar{height:0;display:none}
+.strip .track:focus-visible{outline:2px solid var(--rub);outline-offset:-3px;border-radius:3px}
+.strip .rail{display:flex;width:max-content;height:100%;align-items:center;gap:34px;padding:0 var(--padr) 0 var(--padl)}
+.strip .it{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;min-width:58px}
+.strip .it .sv{color:var(--ink)}
+.strip .it b{font-weight:400;font-size:16px;white-space:nowrap}
+.strip .it span{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:11.5px;color:var(--soft);letter-spacing:.06em}
+.strip .fade{position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,var(--paper) 0,transparent 8%,transparent 92%,var(--paper) 100%)}
+.strip .glass,.strip .lens,.strip .nudge,.strip .rcap{display:none}
+/* with JS the strip becomes a thing you drag, and the glass reads what passes under it */
+.strip.glassed .track{cursor:grab}
+.strip.glassed .track.grabbing{cursor:grabbing}
+.strip.glassed .it{flex-direction:row}
+.strip.glassed .it b,.strip.glassed .it span{position:absolute;width:1px;height:1px;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.strip.glassed .glass{display:block;position:absolute;left:50%;top:50%;width:var(--gw);height:var(--gh);margin:calc(var(--gy) * -1) 0 0 calc(var(--gx) * -1);pointer-events:none;transform-origin:var(--gx) var(--gy);will-change:transform}
+.strip.glassed .lens{display:block;position:absolute;left:50%;top:50%;width:var(--lens);height:var(--lens);margin:calc(var(--lens)/-2) 0 0 calc(var(--lens)/-2);border-radius:50%;overflow:hidden;background:var(--paper2);pointer-events:none}
+.strip .lens .rail{position:absolute;left:0;top:50%;transform-origin:0 50%;will-change:transform}
+.strip .rim{display:block;width:100%;height:100%}
+.strip.glassed .nudge{display:block;position:absolute;top:50%;width:38px;height:38px;margin-top:-19px;padding:0;border:1px solid var(--line);border-radius:50%;background:var(--paper);color:var(--soft);font:400 26px/1 "EB Garamond",Garamond,serif;cursor:pointer}
+.strip .nudge:hover{color:var(--rub);border-color:var(--rub)}
+.strip .nudge[disabled]{opacity:.25;cursor:default;color:var(--soft);border-color:var(--line)}
+.strip .nudge.l{left:12px}
+.strip .nudge.r{right:12px}
+.strip.glassed .rcap{display:block;text-align:center;margin:var(--cap) 0 0;padding:0 16px;min-height:28px}
+.strip .rcap b{font-weight:400;font-size:21px;color:var(--rub)}
+.strip .rcap span{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px;color:var(--soft);letter-spacing:.06em;margin-left:12px}
+.shot{margin:1.6em 0}
+.shot img{width:100%;display:block;border:1px solid var(--line);background:#fff}
+.shot figcaption{font-size:15.5px;color:var(--soft);padding-top:8px}
+ol.steps,ul.steps{padding-left:1.3em}
+ol.steps li,ul.steps li{margin:0 0 .8em}
+ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
+/* the script page */
+.demo{background:var(--paper2);border-radius:3px;padding:18px 20px;margin:1.2em 0}
+.demo h3{font-family:Cinzel,serif;font-weight:400;font-size:15px;letter-spacing:.08em;text-transform:uppercase;color:var(--rub);margin:0 0 10px}
+.sign{display:flex;flex-wrap:wrap;gap:18px;align-items:baseline}
+.sign .code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:15px;color:var(--soft);letter-spacing:.08em}
+.sign .gl{font-size:26px}
+.sign .glyph{font-family:"Rohonc Codex";font-size:34px;line-height:1.1}
+.sign .meta{font-size:15px;color:var(--soft);width:100%}
+.sign .ev{font-size:15.5px;width:100%;margin:0}
+.ctl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px}
+.ctl button{font:inherit;font-size:14px;letter-spacing:.06em;text-transform:uppercase;padding:7px 12px;border:1px solid var(--line);border-radius:3px;background:var(--paper);color:var(--ink);cursor:pointer}
+.ctl button:hover{border-color:var(--rub);color:var(--rub)}
+.ctl button.on{background:var(--rub);border-color:var(--rub);color:#fff}
+.ctl .sp{margin-left:auto;font-size:15px;color:var(--soft)}
+.parts{display:flex;flex-wrap:wrap;gap:10px;align-items:stretch;margin:2px 0 0}
+.parts .pc{background:var(--paper);border:1px solid var(--line);border-radius:3px;padding:8px 12px;min-width:92px}
+.parts .pc b{display:block;font-size:19px;font-weight:400}
+.parts .pc span{font-size:13px;color:var(--soft);font-family:ui-monospace,monospace}
+.parts .op{align-self:center;color:var(--rub);font-size:20px}
+.sums{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:15px;line-height:1.9}
+.sums b{color:var(--rub);font-weight:400}
+.gloss{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14.5px;line-height:1.8;overflow-x:auto}
+.gloss .m{border-bottom:2px solid var(--rub);cursor:help}
+.plates{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px;margin:1.2em 0}
+.plates figure{margin:0}
+.plates img{width:100%;display:block;border:1px solid var(--line);background:#fff}
+.plates figcaption{font-size:15.5px;color:var(--soft);padding-top:7px}
+/* the dictionary */
+.tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:1em 0 1.2em}
+.tools input{font:inherit;font-size:17px;padding:6px 10px;border:1px solid var(--line);border-radius:3px;background:#fffdf8;color:var(--ink);min-width:240px}
+.tools button{font:inherit;font-size:14px;letter-spacing:.06em;text-transform:uppercase;padding:6px 10px;border:1px solid var(--line);border-radius:3px;background:var(--paper2);color:var(--ink);cursor:pointer}
+.tools button.on{background:var(--rub);color:#fff;border-color:var(--rub)}
+.tools .n{color:var(--soft);font-size:16px;margin-left:auto}
+table.dict{width:100%;font-size:16.5px}
+table.dict td.code{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px;white-space:nowrap;color:var(--soft)}
+table.dict td.tier{font-family:Cinzel,serif;font-size:13px;letter-spacing:.06em;white-space:nowrap}
+table.dict td.ev{font-size:15px;color:var(--soft)}
+table.dict td.ev .more{cursor:pointer;color:var(--rub)}
+table.dict td.ev .full{display:none}
+table.dict tr.open td.ev .full{display:inline}
+table.dict tr.open td.ev .short,table.dict tr.open td.ev .more{display:none}
+.tiers{font-size:16.5px;background:var(--paper2);padding:12px 16px;border-radius:3px}
+.tiers b{font-family:Cinzel,serif;font-weight:400;color:var(--rub)}
+@media(max-width:860px){.hero{grid-template-columns:1fr;gap:20px}.hero .bk{max-width:220px;margin:0 auto;order:-1}.strip{margin-left:-20px;margin-right:-20px}}
+@media(max-width:700px){body{font-size:17.5px}main.sheet{margin:14px 10px 40px;padding:26px 20px 34px}header.rh .mark{font-size:22px}nav.sub a{margin:0 6px 6px}.prose h1{font-size:24px}.tools .n{margin-left:0}}
+</style>
+</head><body>
+<script src="https://oona13.com/fam/fam.js?v=20260921"></script><i id="oona-fam-ready" hidden></i>
+<header class="rh"><div class="wrap">
+  <a class="mark" href="/rohonc/">The Rohonc Codex</a>
+  <p class="tag">Using AI to extend and test the Király and Tokai dictionary</p>
+  <nav class="sub"><a href="/rohonc/">Overview</a><a href="/rohonc/read.html">Read it</a><a href="/rohonc/script.html">The script</a><a href="/rohonc/reading.html">The reading</a><a href="/rohonc/corpus.html">The corpus</a><a href="/rohonc/dictionary.html">Dictionary</a><a href="/rohonc/tests.html" class=here>Tests</a><a href="/rohonc/method.html">Method</a><a href="/rohonc/sources.html">Sources</a><a href="/rohonc/data.html">Data</a></nav>
+</div></header>
+<main class="sheet"><article class="prose">
+
+<h1>Are the readings true?</h1>
+<p class="lead">The tests check the project&#x27;s own readings. They were designed to break the readings. The bar for each test was declared first, before the test ran.</p><p class="lead">Nine tests were designed by the project. Then two frontier models from other labs, Gemini 2.5 Pro and Grok 4.7, were shown the write-up and asked what tests they would require. Those were run as specified.</p>
+<div class="tw"><table class="tests"><thead><tr><th>test</th><th>what it asks</th><th>result</th><th>verdict</th></tr></thead><tbody><tr class="cap"><td colspan="4">The transcription every other test reads, checked against an independent one:</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-16">Test 16</a></th><td>a second, independent transcription</td><td>91.1% of glyphs agree where both can be compared, against a 12.9% control, 458.5 sigma; 83.8% of the words identical</td><td class="verdict v-pass">PASS</td></tr><tr class="cap"><td colspan="4">The readings:</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-1">Test 1</a></th><td>source presence, held-out folios</td><td>A+B 16.4 sigma; 99% of K&amp;T&#x27;s own rate</td><td class="verdict v-pass">PASS</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-5">Test 5</a></th><td>K&amp;T&#x27;s own sentence translations</td><td>A+B 8.6 sigma; 153% of K&amp;T</td><td class="verdict v-pass">PASS</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-6">Test 6</a></th><td>word order, held-out folios</td><td>A+B 7.1 sigma</td><td class="verdict v-pass">PASS</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-2">Test 2</a></th><td>part of speech from context</td><td>the instrument fails on K&amp;T&#x27;s own words (68.3% against a needed 70%; 4.7 sigma against a needed 5); the readings were never scored</td><td class="verdict v-none">NO VERDICT</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-3">Test 3</a></th><td>the blindfold, run clean</td><td>4 of 24 strict, 16.7%; the declared band for that result was 15-30%, and its declared consequence, tier C passage readings become tier D, was applied</td><td class="verdict v-band">IN BAND</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-7">Test 7</a></th><td>K&amp;T&#x27;s words removed</td><td>reads 11.6% from ours alone, by design: the readings extend the dictionary. Recovery of a hidden K&amp;T word: 10.3 sigma against a declared 5, on a hundred-shuffle control; the ten-shuffle runs gave 4.4 before the variant fix and 8.4 after, and all three are kept</td><td class="verdict v-pass">PASS</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-8">Test 8</a></th><td>bootstrap from a random 30%</td><td>passage 37.6 sigma (6.1% absolute); recovery 15.3 sigma (1.0% absolute)</td><td class="verdict v-pass">PASS</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-9">Test 9</a></th><td>hidden 70% validated by the 30%</td><td>A+B 6.9 sigma; 115% of K&amp;T&#x27;s own rate</td><td class="verdict v-pass">PASS</td></tr><tr class="cap"><td colspan="4">After the outside review by Gemini 2.5 Pro and Grok 4.7, same day:</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-11">Test 11</a></th><td>passage map from K&amp;T&#x27;s words alone</td><td>median rank 25 of 1,334; top-1 12.4%; p 2e-28</td><td class="verdict v-pass">PASS</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-10">Test 10</a></th><td>the search replayed on null books</td><td>7 / 215 / 2 signs kept at three scales; the count rule has no power at any, so it cannot tell a search from a decipherment</td><td class="verdict v-none">NO VERDICT</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-10">Test 10, held out</a></th><td>the same runs, scored where the readings were not derived</td><td>real book 8 sigma over shuffle; null books none</td><td class="verdict v-note">reported, not a verdict</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-12">Test 12</a></th><td>Test 5 rescored under the strict rule</td><td>73.7%, 8.4 sigma; but +22.9 points over K&amp;T&#x27;s own headwords trips the declared leakage clause</td><td class="verdict v-fail">FAIL on that clause</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-12">Test 12b</a></th><td>two independent re-glossers, Gemini 2.5 Pro and Grok 4.7</td><td>given K&amp;T&#x27;s words only and the sign blanked, they recover our gloss 68.4% and 71.1% of the time</td><td class="verdict v-pass">PASS</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-13">Test 13</a></th><td>the underdetermination census</td><td>61 of 94 A/B readings have a common verb present in every chapter their folios cite, against a bar of 40%</td><td class="verdict v-fail">FAIL</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-13">Test 13, the same rule</a></th><td>applied to the chosen glosses</td><td>0 of the 94 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did</td><td class="verdict v-note">reported, not a verdict</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-14">Test 14</a></th><td>the blind rotated run, outside reader</td><td>rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18</td><td class="verdict v-pass">PASS</td></tr><tr><th scope="row"><a href="/rohonc/code.html#test-15">Test 15</a></th><td>passage identification, outside reader</td><td>chapter level 9 of 20 against 0 of 20 shuffled; p 0.002</td><td class="verdict v-pass">PASS</td></tr><tr class="cap"><td colspan="4">PASS and FAIL are verdicts on the readings against a bar declared before the run. NO VERDICT means the instrument failed its own check on Kiraly and Tokai&#x27;s words, or has no power to tell a search from a decipherment; it says nothing about the readings either way, and it is kept on the page because it was specified. IN BAND is a test with declared bands rather than a bar: the result fell in the band it was predicted to, and the consequence declared for that band was applied.</td></tr></tbody></table></div>
+<p>The passes and failures add up to a checked attempt, not a settled result: checked by the project&#x27;s own tests and by two models from other labs, not yet by anyone who reads the manuscript independently.</p>
+<p>The passage map can be recovered from Király and Tokai&#x27;s words alone. It does not depend on anything this project read. The two instruments Grok 4.7 specified for the search itself gave no verdict either way. They do not model the search as it was run.</p>
+<p>The saved run behind every line is in the <a href="/rohonc/data.html">data</a>, one
+file per test, each stating its bar at the top. The reviewers' own specifications are
+there too, quoted whole: <a href="/rohonc/outside-gemini.html">Gemini 2.5 Pro</a> and
+<a href="/rohonc/outside-grok.html">Grok 4.7</a>. The programs are at
+<a href="/rohonc/code.html">The programs</a>.</p>
+
+<p class="credit">This rests on the Király and Tokai dictionary; their translation is unpublished; the readings here are this project&#x27;s own.</p>
+</article></main>
+<script src="https://oona13.com/fam/foot.js" data-note="This rests on the Király and Tokai dictionary; their translation is unpublished; the readings here are this project&amp;#x27;s own." defer></script>
+</body></html>

@@ -108,15 +108,22 @@ CSS = """
    ARRIVAL with no fade. On the way OUT (html.oona-leaving) it keeps its fade, so
    a hop to another OONA property still dims before it goes. */
 html:not(.oona-leaving) #oona-veil.out{transition:none!important}
+/* The family stylesheet enables cross-document view transitions globally. On
+   these pages the active item in the local menu changes at the same moment,
+   so Chromium briefly blended two copies of the menu. Use a direct navigation
+   within Rohonc instead. A stable scrollbar gutter keeps short and long pages
+   at the same content width. */
+@view-transition{navigation:none}
+html{scrollbar-gutter:stable}
 :root{--bg:#0B0D10;--ink:#1d1a16;--soft:#5a5248;--paper:#f5efe3;--paper2:#ece5d5;--rub:#7a2418;--ivory:#e9e2d3;--line:#d9cfb9}
 body{margin:0;background:var(--bg);color:var(--ivory);font-family:"EB Garamond",Garamond,"Times New Roman",serif;font-size:19px;line-height:1.55}
 header.rh{padding:34px 20px 8px;text-align:center}
 header.rh .mark{font-family:Cinzel,"Times New Roman",serif;font-size:30px;letter-spacing:.12em;color:var(--ivory);text-decoration:none;text-transform:uppercase}
 header.rh .tag{margin:8px 0 0;color:#b7ad9b;font-style:italic;font-size:18px}
 nav.sub{margin:20px 0 0;font-size:14px;letter-spacing:.09em;text-transform:uppercase}
-nav.sub a{color:#bdb3a1;text-decoration:none;margin:0 10px;padding-bottom:3px;display:inline-block}
+nav.sub a{color:#bdb3a1;text-decoration:none;margin:0 10px;padding-bottom:3px;border-bottom:1px solid transparent;display:inline-block}
 nav.sub a:hover{color:#e6c979}
-nav.sub a.here{color:#e6c979;border-bottom:1px solid #e6c979}
+nav.sub a.here{color:#e6c979;border-bottom-color:#e6c979}
 main.sheet{max-width:860px;margin:26px auto 60px;background:var(--paper);color:var(--ink);padding:52px 64px 60px;border-radius:3px;box-shadow:0 12px 40px rgba(0,0,0,.55)}
 .prose h1,.prose h2,.prose h3,.prose h4{font-family:Cinzel,"Times New Roman",serif;font-weight:400;color:var(--rub);line-height:1.2;letter-spacing:.03em}
 .prose h1{font-size:30px;margin:0 0 .6em}
@@ -927,7 +934,7 @@ def page_dictionary(about, rows, ktn):
   <span class="n" id="n"></span>
 </div>
 <div class="tw"><table class="dict"><thead><tr><th>Sign</th><th>Reading</th><th>Tier</th><th>Times</th><th>Evidence</th></tr></thead><tbody id="tb"></tbody></table></div>
-<p>The file itself, every entry with its full evidence, is in the repository: <a href="https://github.com/SUP613/rohonc-codex">github.com/SUP613/rohonc-codex</a>.</p>
+<p>The file itself, every entry with its full evidence, is in the repository: <a href="https://github.com/styopr613/rohonc-codex">github.com/styopr613/rohonc-codex</a>.</p>
 <script>
 (function(){{
 var ROWS=[];var T='',Q='';
@@ -1157,7 +1164,7 @@ def page_code(out):
             "<p>Every test on the <a href=\"/rohonc/tests.html\">checked-results page</a> names its program, and each program "
             "names its saved run. This table is read out of the tests document at build time.</p>",
             crosswalk(out),
-            '<p>The programs and every saved run are in the repository, with their history: <a href="https://github.com/SUP613/rohonc-codex">github.com/SUP613/rohonc-codex</a>. Nothing is served '
+            '<p>The programs and every saved run are in the repository, with their history: <a href="https://github.com/styopr613/rohonc-codex">github.com/styopr613/rohonc-codex</a>. Nothing is served '
             "from here, so nothing on this page can point at a copy that has gone stale.</p>"]
     return shell("code", "The programs",
                  "Which program produced each number on the checked-results page, what they run on, and every program in the harness as plain text.",
