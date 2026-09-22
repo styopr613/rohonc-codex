@@ -306,7 +306,7 @@ edition          one paragraph about the book edition
 credit           one paragraph on credit and position
 reading_lead     one paragraph at the top of the reading page
 dictionary_lead  two paragraphs at the top of the dictionary page (how the signs are written, what is and is not included)
-data_lead        one paragraph at the top of the data page
+data_lead        one or two sentences: the data will be posted to GitHub; this page names the reference corpus and says where everything else goes. No file links
 outside_lead     one paragraph introducing a reviewer's specification, quoted whole; the reviewers are two frontier models from other labs, Gemini 2.5 Pro and Grok 4.7, and the paragraph must say so in its own words, never 'outside reviewers' alone
 card_script      one sentence for a link card to a page about the script itself
 script_intro     2 paragraphs opening a page about the script: what kind of writing it is, and what is not known about where it came from

@@ -893,7 +893,7 @@ def page_dictionary(about, rows, ktn):
   <span class="n" id="n"></span>
 </div>
 <div class="tw"><table class="dict"><thead><tr><th>Sign</th><th>Reading</th><th>Tier</th><th>Times</th><th>Evidence</th></tr></thead><tbody id="tb"></tbody></table></div>
-<p>The file itself, every entry with its full evidence, will be posted to GitHub with the rest of the data.</p>
+<p><a href="/rohonc/data/proposals.json">Download the file</a> (JSON, every entry with its full evidence).</p>
 <script>
 (function(){{
 var ROWS=[];var T='',Q='';
@@ -1095,9 +1095,11 @@ def crosswalk(out):
     linked when its text is published under /rohonc/code/, a run when it is under
     /rohonc/data/runs/; anything else is named and not linked."""
     def plink(n):
-        return f"<code>{html.escape(n)}</code>"
+        return (f'<a href="/rohonc/code/{html.escape(n)}.txt"><code>{html.escape(n)}</code></a>'
+                if os.path.isfile(os.path.join(out, "code", n + ".txt")) else f"<code>{html.escape(n)}</code>")
     def rlink(n):
-        return html.escape(n)
+        return (f'<a href="/rohonc/data/runs/{html.escape(n)}">{html.escape(n)}</a>'
+                if os.path.isfile(os.path.join(out, "data", "runs", n)) else html.escape(n))
     body = ""
     for n, label, asks, progs, runs, docs in test_rows():
         pr = ", ".join(plink(x) for x in progs) or "—"
@@ -1106,6 +1108,24 @@ def crosswalk(out):
     return ('<div class="tw"><table class="tests"><thead><tr><th>test</th><th>what it asks</th><th>program</th>'
             '<th>saved run</th></tr></thead><tbody>' + body + "</tbody></table></div>")
 
+
+def code_files(out):
+    """Publish the programs the results page cites, as plain text. Served as
+    .txt because the static handler has no rule for .py. A file served by an
+    earlier build and no longer cited is removed, by name."""
+    src = os.path.join(ROOT, "harness")
+    dst = os.path.join(out, "code")
+    os.makedirs(dst, exist_ok=True)
+    want, _ = cited()
+    for fn in sorted(os.listdir(dst)):
+        if fn.endswith(".txt") and fn[:-4] not in want:
+            os.remove(os.path.join(dst, fn))
+    out_list = []
+    for fn in sorted(want):
+        if os.path.isfile(os.path.join(src, fn)):
+            open(os.path.join(dst, fn + ".txt"), "w", encoding="utf-8").write(read(os.path.join(src, fn)))
+            out_list.append(fn)
+    return out_list
 
 def page_code(out):
     ver, numpy = runtime()
@@ -1123,8 +1143,9 @@ def page_code(out):
             "<p>Every test on the <a href=\"/rohonc/tests.html\">checked-results page</a> names its program, and each program "
             "names its saved run. This table is read out of the tests document at build time.</p>",
             crosswalk(out),
-            "<p>The programs and every saved run will be posted to GitHub, with their history. Nothing is served "
-            "from here, so nothing on this page can point at a copy that has gone stale.</p>"]
+            "<p>These are the programs the results rest on. The whole harness, with its history, goes up "
+            "as a public repository on GitHub; until it does, nothing else is listed here, because a "
+            "hand-kept list of files is stale the first week the code is touched.</p>"]
     return shell("code", "The programs",
                  "Which program produced each number on the checked-results page, what they run on, and every program in the harness as plain text.",
                  "\n".join(body))
@@ -1268,32 +1289,7 @@ def page_outside(slug, fname, title):
                  f"<h1>{html.escape(title)}</h1>" + intro + md(text))
 
 
-def corpus_list():
-    """The reference texts the folios are read against, from DATA_PROVENANCE.md:
-    the bullets of its corpus section and the two sources added after."""
-    txt = read(os.path.join(ROOT, "DATA_PROVENANCE.md"))
-    out = []
-    sec = re.search(r"^## 4\. `data/ref/rohonc/`.*?(?=^## )", txt, re.M | re.S)
-    if sec:
-        for b in re.findall(r"^- (\*\*.*?)(?=^- |\Z)", sec.group(0), re.M | re.S):
-            one = " ".join(b.split())
-            m = re.match(r"\*\*(.+?)\*\*\s*[—-]+\s*(.*)", one)
-            if not m:
-                continue
-            name = re.sub(r"\*", "", m.group(1)).strip()
-            src = m.group(2).split(".")[0]
-            out.append((name, src))
-    sec = re.search(r"^## 5\. Two sources added.*?(?=^## )", txt, re.M | re.S)
-    if sec:
-        for para in sec.group(0).split("\n\n"):
-            m = re.match(r"\*\*`[^`]+`(?: and `[^`]+`)?\.\*\*\s*(.+?)\s*(?:\(|,\s*from|,\s*tr\.)", " ".join(para.split()))
-            if m:
-                src = "Project Gutenberg" if "Gutenberg" in para else ("Internet Archive" if "Internet Archive" in para else "")
-                out.append((re.sub(r"\*", "", m.group(1)).strip().rstrip(","), src))
-    return out
-
-
-def page_data(outside):
+def page_data(files, runs, outside):
     def li(href, name, desc, size):
         return (f'<li><a href="{href}">{html.escape(name)}</a> <span class="nof">{html.escape(desc)}'
                 f'{" · " + size if size else ""}</span></li>')
@@ -1302,19 +1298,26 @@ def page_data(outside):
         n = os.path.getsize(p)
         return f"{n/1024:.0f} KB" if n < 1024 * 1024 else f"{n/1024/1024:.1f} MB"
 
-    body = ["<h1>Data</h1>", paras("data_lead", "lead"),
-            "<h2>The corpus</h2>",
-            "<p>The books the codex is compiled from, which every folio is read against. All are public domain; "
-            "the full list, with terms and the courtesy failures, is in the provenance file, and this list is read out of it.</p><ul class=\"steps\">"]
-    for name, src in corpus_list():
-        body.append(f"<li><b>{html.escape(name)}</b>" + (f' <span class="nof">{html.escape(src)}</span>' if src else "") + "</li>")
-    body.append("</ul><h2>The outside review</h2><p>The two reviewers' specifications are quoted whole: "
-                '<a href="/rohonc/outside-gemini.html">Gemini 2.5 Pro</a> and <a href="/rohonc/outside-grok.html">Grok 4.7</a>. '
-                "Their replies as re-glossers and blind readers are files, and go up with the rest.</p>")
-    body.append("<h2>Everything else</h2><p>The dictionary of added readings with its evidence, the folio English, the rendering, "
-                "every saved run, the outside readers' replies, the working documents and the programs will be posted to GitHub, "
-                "with their history, so that nothing here links to a copy that can go stale. The standing orders are already "
-                'published whole at <a href="/rohonc/orders.html">The standing orders</a>.</p>')
+    body = ["<h1>Data</h1>",
+            paras("data_lead", "lead"),
+            '<p>What is not here, and why, is under <a href="/rohonc/sources.html">Sources</a>.</p>',
+            "<h2>The readings and the rendering</h2><ul>"]
+    for href, name, desc, p in files:
+        body.append(li(href, name, desc, sz(p)))
+    body.append("</ul><h2>The working documents</h2>")
+    body.extend(paras("docs_lead"))
+    body.append("<ul class=\"steps\">" + docs_html() + "</ul>")
+    body.append('<p>The standing orders are published whole at <a href="/rohonc/orders.html">The standing orders</a>. '
+                'The rest go up with the public repository on GitHub, with their history. What they say is on the '
+                '<a href="/rohonc/method.html">method</a>, <a href="/rohonc/tests.html">tests</a> and '
+                '<a href="/rohonc/sources.html">sources</a> pages.</p>')
+    body.append("<h2>The outside review</h2><ul>")
+    for href, name, desc, p in outside:
+        body.append(li(href, name, desc, sz(p) if p else ""))
+    body.append('</ul><h2>Saved runs</h2><p>The runs the checked-results page cites, one file per test, exactly as the program that made it wrote it; each states its bar at the top. <a href="/rohonc/code.html">The programs</a> page says which program made which. The full set of runs goes up with the repository.</p><ul>')
+    for href, name, p in runs:
+        body.append(li(href, name, "", sz(p)))
+    body.append("</ul>")
     return shell("data", "Data", "Every file the Rohonc pages are built from: the dictionary of added readings, the folio English, the rendering, the saved test runs and the outside readers' replies.",
                  "\n".join(body))
 
@@ -1345,18 +1348,55 @@ def main(argv):
     sample = sample_lines()
     pl = plates()
 
-    # the data itself goes up on GitHub. Only what the pages load is served: the
-    # dictionary page searches dictionary.json. Copies served by earlier builds are
-    # taken down by name, so no link anywhere can point at a stale file.
-    for sub in ("data/runs", "data", "code"):
-        d = os.path.join(out, sub)
-        if os.path.isdir(d):
-            for fn in sorted(os.listdir(d)):
-                fp = os.path.join(d, fn)
-                if os.path.isfile(fp) and not (sub == "data" and fn == "dictionary.json"):
-                    os.remove(fp)
-    json.dump(rows, open(os.path.join(out, "data", "dictionary.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    # data files
     files = []
+    copy(os.path.join(ROOT, "harness", "proposals.json"), os.path.join(out, "data", "proposals.json"))
+    files.append(("/rohonc/data/proposals.json", "proposals.json",
+                  "the dictionary of added readings, every tier, with evidence", os.path.join(out, "data", "proposals.json")))
+    json.dump(rows, open(os.path.join(out, "data", "dictionary.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    sp = os.path.join(WORK, "signs.json")
+    if os.path.isfile(sp):
+        copy(sp, os.path.join(out, "data", "signs.json"))
+        files.append(("/rohonc/data/signs.json", "signs.json",
+                      "every sign of the script as an SVG outline, drawn from Király and Tokai's font",
+                      os.path.join(out, "data", "signs.json")))
+    # the glass ships at three times the size it is drawn at, which is sharp on a
+    # retina screen and a tenth of the master's weight
+    from PIL import Image as _Im
+    gg = glass_geom()
+    _g = _Im.open(os.path.join(WORK, "glass.png"))
+    _g = _g.resize((gg["w"] * 3, gg["h"] * 3), _Im.LANCZOS)
+    os.makedirs(os.path.join(out, "img"), exist_ok=True)
+    _g.save(os.path.join(out, "img", "glass.png"), optimize=True)
+    copy(os.path.join(TR, "english.json"), os.path.join(out, "data", "english.json"))
+    files.append(("/rohonc/data/english.json", "english.json",
+                  "the English written for each folio from its gloss", os.path.join(out, "data", "english.json")))
+    for fn, desc in (("rohonc_reading_plus.txt", "the whole book rendered word by word, every word marked by how far it reads"),
+                     ("rohonc_readers_edition.md", "the reader's edition: every folio, its English, and its marked lines")):
+        copy(os.path.join(TR, fn), os.path.join(out, "data", fn))
+        files.append((f"/rohonc/data/{fn}", fn, desc, os.path.join(out, "data", fn)))
+
+    if pl:
+        from PIL import Image
+        os.makedirs(os.path.join(out, "plates"), exist_ok=True)
+        for x in pl:
+            srcp = os.path.join("/opt/publish-app/data/u1/books/20260921-052535-r0hc/img", x["file"])
+            if os.path.isfile(srcp):
+                im = Image.open(srcp).convert("RGB")
+                im.thumbnail((1400, 1400), Image.LANCZOS)
+                im.save(os.path.join(out, "plates", x["file"].replace(".png", ".jpg")), "JPEG", quality=84)
+
+    runs = []
+    _, want_runs = cited()
+    rdir = os.path.join(out, "data", "runs")
+    for fn in sorted(os.listdir(rdir)):
+        if fn not in want_runs:
+            os.remove(os.path.join(rdir, fn))
+    for fn in sorted(want_runs):
+        if os.path.isfile(os.path.join(WORK, fn)):
+            copy(os.path.join(WORK, fn), os.path.join(rdir, fn))
+            runs.append((f"/rohonc/data/runs/{fn}", fn, os.path.join(rdir, fn)))
+
     outside = [("/rohonc/outside-gemini.html", "gemini_tests.md", "Gemini 2.5 Pro's specification", os.path.join(WORK, "outside", "gemini_tests.md")),
                ("/rohonc/outside-grok.html", "grok_tests.md", "Grok 4.7's specification", os.path.join(WORK, "outside", "grok_tests.md"))]
     odir = os.path.join(WORK, "outside")
@@ -1386,6 +1426,7 @@ def main(argv):
     w("orders.html", page_orders())
     w("read.html", page_read())
     w("method.html", page_method())
+    code_files(out)
     w("code.html", page_code(out))
     rd, n_eng = page_reading(order, eng)
     w("reading.html", rd)
@@ -1394,7 +1435,7 @@ def main(argv):
     w("sources.html", page_sources())
     w("outside-gemini.html", page_outside("tests", "gemini_tests.md", "Outside review: Gemini 2.5 Pro"))
     w("outside-grok.html", page_outside("tests", "grok_tests.md", "Outside review: Grok 4.7"))
-    w("data.html", page_data([]))
+    w("data.html", page_data(files, runs, outside))
     print(f"wrote {out}: {len(order)} folios ({n_eng} with English), {len(rows)} dictionary rows, "
           f"{10} pages, {len(runs)} runs, {len(pl)} plates, "
           f"{len(sg.get('signs', {}))} signs")
