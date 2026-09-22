@@ -170,6 +170,10 @@ table.tests tr.cap+tr.cap td{padding-top:2px}
 .folio h2 small{font-family:"EB Garamond",serif;font-size:17px;color:var(--soft);letter-spacing:0;margin-left:10px;text-transform:none}
 .folio p{text-indent:0}
 .nof{color:var(--soft);font-style:italic}
+/* the illuminated initial: a rubric capital in the display face, set in a
+   paper-coloured square with a double rule, the way a manuscript opens */
+.hero .blurb p.dc::first-letter{float:left;font-family:Cinzel,"Times New Roman",serif;font-size:4.9em;line-height:.82;color:var(--rub);padding:.14em .16em .08em .12em;margin:.06em .16em 0 0;background:var(--paper2);border:1px solid var(--rub);outline:1px solid var(--rub);outline-offset:2px}
+.hero .blurb p.dc{margin-top:.3em}
 .orders h1{font-size:24px;margin-top:1.6em}.orders h2{font-size:20px}.orders pre{font-size:13px}.orders code{font-size:.82em}
 /* the front page: the book, the scroller */
 .hero{display:grid;grid-template-columns:minmax(0,1fr) 236px;gap:34px;align-items:center;margin:0 0 6px}
@@ -796,10 +800,10 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
                 f'alt="{html.escape(x["folio"])} redrawn" loading="lazy">'
                 f'<figcaption>{html.escape(x["caption"])} Redrawn from the manuscript\'s own '
                 f'drawing; not a reproduction.</figcaption></figure>')
+    intro_html = paras("intro").replace("<p>", '<p class="dc">', 1)
     body = f"""
-<h1>What this is</h1>
 <div class="hero">
-  <div class="blurb">{paras("intro")}
+  <div class="blurb">{intro_html}
     <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
       <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a>
       <a href="/rohonc/book/the-rohonc-codex-print.pdf">Print PDF</a></div>
