@@ -20,7 +20,7 @@ PROV = os.path.join(corpus.ROOT, "DATA_PROVENANCE.md")
 
 def _links(text):
     out = []
-    for m in re.finditer(r"Project Gutenberg ebooks? (\d+)(?:[–-](\d+))?", text):
+    for m in re.finditer(r"(?:Project )?Gutenberg ebooks? (\d+)(?:[–-](\d+))?", text):
         a, b = int(m.group(1)), int(m.group(2) or m.group(1))
         for n in range(a, min(b, a + 12) + 1):
             out.append((f"Gutenberg {n}", f"https://www.gutenberg.org/ebooks/{n}"))

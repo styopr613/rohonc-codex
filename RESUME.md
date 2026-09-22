@@ -1,5 +1,33 @@
 # Where this stopped — 2026-09-22
 
+## TOMORROW: THE COVER BADGE (Cover Maker design 20260921-212932-2sdz)
+
+The cover's "THE FIRST COMPLETE ENGLISH RENDERING" roundel was baked into the
+art, not a badge. Done so far, all in Cover Maker's own data, nothing pushed to
+Book Maker or the site yet:
+
+- The roundel is cloned out of the raw art with paper from the same band
+  (`gen/20260921-212932-2sdz.png`; backup `.png.pre-badge-20260922`). A faint
+  disc ghost is visible where the patch is cleaner than the paper around it.
+- A real Cover Maker badge is in the saved design (`.meta.json`; backup
+  `.meta.json.pre-badge-20260922`): shape `label`, flat, red #b3261e, white ink,
+  `badge_show` true (that flag gates drawing), placed by `badge_x` 0.30 /
+  `badge_y` 0.085 where the roundel was, size 0.9, stretch 1.3. Text
+  "FIRST EDITION EVER\nNEVER BEFORE READ" -- the label draws ONE line, so the
+  second is dropped; use `badge_text2` or a seal/ribbon if both lines are wanted.
+  Rendered front: `scratchpad/front_try2.jpg` -- red rounded label, clear of
+  the title. The owner's words for it: first edition ever, never before read,
+  never seen by human eyes; "I'm a popularizer not an academic". It dates
+  itself 1593, so "four centuries", not six hundred years.
+
+Still to do: adjust in the studio if wanted; then Book Maker re-import of the
+composed front (`_render_cover_wrap(uid, gid, dst, mode="front", dpi=300,
+maxpx=2560)` from `/opt/publish-app/web/bookapi.py`, the same call
+`/api/covers/use` makes, writing the shelf's `cover.jpg`); rebuild the book
+(`ktbook.py --shelf ...`, which also publishes the reader's EPUB); the KDP wrap
+is built in the studio; the site's `img/book3d.png` was made by hand and still
+shows the old roundel.
+
 ## THE NEXT THING TO DO: THE GITHUB REPOSITORY
 
 Every page that used to link a data file or a program now says "will be
