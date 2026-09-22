@@ -306,16 +306,10 @@ models assembled the gloss and composed the translation. Every
 figure in this book comes from a program that can be rerun, and where any of
 this went wrong it is written down with the number it went wrong by.
 
-**What this is, and is not.** This is an attempt, not a solution. It is
-published so that it can be checked: it is internally consistent -- every
-reading holds at every place its sign stands, every figure comes from a
-program that can be rerun, and the tests that failed are printed beside the
-ones that passed -- but it has not been peer reviewed. Kiraly and Tokai's
-dictionary was, in *Cryptologia*; nothing added here has been, and Kiraly and
-Tokai have not seen it. The two outside reviews were by models from other
-labs, not by scholars of the manuscript. Treat every reading this project
-added as a proposal until someone who does not depend on it has tried to
-break it.
+**What this is, and is not.** This is an attempt, not peer reviewed, and
+published to be checked. As of now, the tests, for what they are, find it
+internally consistent. Tests and all programs and documents can be found in
+the GitHub repo.
 
 **The book is in two parts.** Book Two is the gloss: the manuscript folio by
 folio and line by line, each sign rendered by Kiraly and Tokai's dictionary
