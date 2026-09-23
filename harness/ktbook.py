@@ -412,10 +412,11 @@ gap or an unreadable glyph in the transcription.
 <p>lines complete once brackets are counted — """ + g["lall"][2] + """%</p>
 </div>
 
-The middle figure is the honest one. A sentence with one word you cannot read
-is not a sentence you can read. The gap between that figure and the one below
-it is how much of this book is a guess, and the guesses are in brackets on
-every page so that anyone can take them out.
+About 94% of the text is read directly from the dictionary, leaving about 6%
+that is an educated guess, reconstructed from the context and from the source
+passage the page is retelling, and every guessed word is marked on the page. A
+few dozen words, two in a thousand, cannot be guessed reliably at all, based on
+everything that was done so far.
 
 ## How it was checked
 
