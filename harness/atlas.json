@@ -1,0 +1,1722 @@
+{
+ "_about": "Data behind the atlas plates (ktatlas.py). Every event and every source carries a `source` line saying where the fact was read; ktatlascheck.py refuses an entry without one. Region rings are hand-placed approximations and the plates say so. Coordinates are lon, lat. Read dates are 2026-09-23 unless stated.",
+ "places": {
+  "Rohonc": {
+   "ll": [
+    16.44,
+    47.31
+   ],
+   "source": "en.wikipedia.org/wiki/Rechnitz: 47°18′25″N 16°26′18″E; Hungarian Rohonc, Croatian Rohunac"
+  },
+  "Vienna": {
+   "ll": [
+    16.37,
+    48.21
+   ]
+  },
+  "Pozsony": {
+   "ll": [
+    17.11,
+    48.14
+   ]
+  },
+  "Graz": {
+   "ll": [
+    15.44,
+    47.07
+   ]
+  },
+  "Sopron": {
+   "ll": [
+    16.59,
+    47.68
+   ]
+  },
+  "Gyor": {
+   "ll": [
+    17.63,
+    47.69
+   ]
+  },
+  "Buda": {
+   "ll": [
+    19.04,
+    47.5
+   ]
+  },
+  "Esztergom": {
+   "ll": [
+    18.74,
+    47.79
+   ]
+  },
+  "Eger": {
+   "ll": [
+    20.37,
+    47.9
+   ]
+  },
+  "Kanizsa": {
+   "ll": [
+    17.0,
+    46.45
+   ]
+  },
+  "Szekesfehervar": {
+   "ll": [
+    18.41,
+    47.19
+   ]
+  },
+  "Pecs": {
+   "ll": [
+    18.23,
+    46.07
+   ]
+  },
+  "Szeged": {
+   "ll": [
+    20.15,
+    46.25
+   ]
+  },
+  "Temesvar": {
+   "ll": [
+    21.23,
+    45.76
+   ]
+  },
+  "Belgrade": {
+   "ll": [
+    20.46,
+    44.82
+   ]
+  },
+  "Gyulafehervar": {
+   "ll": [
+    23.58,
+    46.07
+   ]
+  },
+  "Kolozsvar": {
+   "ll": [
+    23.6,
+    46.77
+   ]
+  },
+  "Torda": {
+   "ll": [
+    23.79,
+    46.57
+   ]
+  },
+  "Brasso": {
+   "ll": [
+    25.6,
+    45.65
+   ]
+  },
+  "Debrecen": {
+   "ll": [
+    21.63,
+    47.53
+   ]
+  },
+  "Kassa": {
+   "ll": [
+    21.26,
+    48.72
+   ]
+  },
+  "Zagreb": {
+   "ll": [
+    15.98,
+    45.81
+   ]
+  },
+  "Sisak": {
+   "ll": [
+    16.37,
+    45.49
+   ]
+  },
+  "Varasd": {
+   "ll": [
+    16.34,
+    46.31
+   ]
+  },
+  "Venice": {
+   "ll": [
+    12.33,
+    45.44
+   ]
+  },
+  "Nemetujvar": {
+   "ll": [
+    16.32,
+    47.06
+   ]
+  },
+  "Sarvar": {
+   "ll": [
+    16.94,
+    47.25
+   ]
+  },
+  "Nemetlovo": {
+   "ll": [
+    16.33,
+    47.22
+   ]
+  },
+  "Monyorokerek": {
+   "ll": [
+    16.47,
+    47.1
+   ]
+  },
+  "Kereszur": {
+   "ll": [
+    16.63,
+    47.6
+   ]
+  },
+  "Lovold": {
+   "ll": [
+    17.63,
+    47.15
+   ]
+  },
+  "Marosvasarhely": {
+   "ll": [
+    24.56,
+    46.54
+   ]
+  },
+  "Budapest": {
+   "ll": [
+    19.04,
+    47.5
+   ]
+  },
+  "Jerusalem": {
+   "ll": [
+    35.23,
+    31.78
+   ]
+  },
+  "Alexandria": {
+   "ll": [
+    29.92,
+    31.2
+   ]
+  },
+  "Antioch": {
+   "ll": [
+    36.16,
+    36.2
+   ]
+  },
+  "Rome": {
+   "ll": [
+    12.5,
+    41.9
+   ]
+  },
+  "Carthage": {
+   "ll": [
+    10.32,
+    36.85
+   ]
+  },
+  "Hippo": {
+   "ll": [
+    7.75,
+    36.9
+   ]
+  },
+  "Athos": {
+   "ll": [
+    24.33,
+    40.16
+   ]
+  },
+  "Tarnovo": {
+   "ll": [
+    25.62,
+    43.08
+   ]
+  },
+  "Kiev": {
+   "ll": [
+    30.52,
+    50.45
+   ]
+  },
+  "Montier": {
+   "ll": [
+    4.77,
+    48.48
+   ]
+  },
+  "Genoa": {
+   "ll": [
+    8.93,
+    44.41
+   ]
+  },
+  "Wartburg": {
+   "ll": [
+    10.3,
+    50.98
+   ]
+  },
+  "Florence": {
+   "ll": [
+    11.25,
+    43.77
+   ]
+  },
+  "Trent": {
+   "ll": [
+    11.12,
+    46.07
+   ]
+  },
+  "Wittenberg": {
+   "ll": [
+    12.65,
+    51.87
+   ]
+  },
+  "Douai": {
+   "ll": [
+    3.08,
+    50.37
+   ]
+  },
+  "London": {
+   "ll": [
+    -0.13,
+    51.5
+   ]
+  },
+  "York": {
+   "ll": [
+    -1.08,
+    53.96
+   ]
+  },
+  "Lyon": {
+   "ll": [
+    4.83,
+    45.76
+   ]
+  },
+  "Agreda": {
+   "ll": [
+    -1.92,
+    41.85
+   ]
+  },
+  "Bucharest": {
+   "ll": [
+    26.1,
+    44.43
+   ]
+  },
+  "Lund": {
+   "ll": [
+    13.19,
+    55.7
+   ]
+  }
+ },
+ "regions_1593": [
+  {
+   "name": "HABSBURG LANDS",
+   "sub": "Royal Hungary, Croatia, Austria",
+   "fill": "#8fa2b8",
+   "at": [
+    17.7,
+    48.75
+   ],
+   "ring": [
+    [
+     11.8,
+     49.8
+    ],
+    [
+     14.0,
+     49.8
+    ],
+    [
+     17.4,
+     49.5
+    ],
+    [
+     18.8,
+     49.55
+    ],
+    [
+     20.0,
+     49.45
+    ],
+    [
+     21.5,
+     49.4
+    ],
+    [
+     22.6,
+     49.1
+    ],
+    [
+     22.9,
+     48.6
+    ],
+    [
+     22.4,
+     48.4
+    ],
+    [
+     21.6,
+     48.15
+    ],
+    [
+     21.0,
+     48.05
+    ],
+    [
+     20.6,
+     47.85
+    ],
+    [
+     20.3,
+     48.0
+    ],
+    [
+     19.9,
+     48.35
+    ],
+    [
+     19.2,
+     48.25
+    ],
+    [
+     18.6,
+     47.95
+    ],
+    [
+     18.1,
+     47.75
+    ],
+    [
+     17.6,
+     47.7
+    ],
+    [
+     17.9,
+     47.0
+    ],
+    [
+     17.4,
+     46.7
+    ],
+    [
+     17.0,
+     46.45
+    ],
+    [
+     17.1,
+     45.9
+    ],
+    [
+     16.4,
+     45.4
+    ],
+    [
+     15.5,
+     45.0
+    ],
+    [
+     14.3,
+     45.4
+    ],
+    [
+     13.8,
+     45.7
+    ],
+    [
+     13.6,
+     46.2
+    ],
+    [
+     12.6,
+     46.6
+    ],
+    [
+     11.8,
+     47.0
+    ]
+   ],
+   "source": "The frontier of 1593 drawn by hand from the fortress lines: Kanizsa (Ottoman 1600), Gyor (Ottoman 1594-98), Komarom, Esztergom (Ottoman 1543-95), Fulek and Nograd (Ottoman to 1593), Eger (Ottoman 1596), Tokaj and Kassa (Royal). Approximate. en.wikipedia.org/wiki/Long_Turkish_War; en.wikipedia.org/wiki/Ottoman_Hungary"
+  },
+  {
+   "name": "OTTOMAN HUNGARY",
+   "sub": "Buda a pashalik since 1541",
+   "fill": "#c9905f",
+   "at": [
+    19.6,
+    46.6
+   ],
+   "ring": [
+    [
+     16.0,
+     44.2
+    ],
+    [
+     17.0,
+     45.5
+    ],
+    [
+     17.5,
+     46.3
+    ],
+    [
+     17.9,
+     46.75
+    ],
+    [
+     18.3,
+     47.05
+    ],
+    [
+     18.6,
+     47.45
+    ],
+    [
+     18.5,
+     47.75
+    ],
+    [
+     19.0,
+     48.1
+    ],
+    [
+     19.7,
+     48.25
+    ],
+    [
+     20.2,
+     48.0
+    ],
+    [
+     20.4,
+     47.75
+    ],
+    [
+     20.9,
+     47.85
+    ],
+    [
+     21.4,
+     47.95
+    ],
+    [
+     21.4,
+     47.2
+    ],
+    [
+     21.5,
+     46.8
+    ],
+    [
+     21.8,
+     46.3
+    ],
+    [
+     22.1,
+     45.6
+    ],
+    [
+     22.3,
+     45.2
+    ],
+    [
+     21.8,
+     44.5
+    ],
+    [
+     20.0,
+     44.2
+    ]
+   ],
+   "source": "Same construction; the Ottoman side of the same fortress line. Approximate."
+  },
+  {
+   "name": "TRANSYLVANIA",
+   "sub": "a principality under Ottoman suzerainty",
+   "fill": "#a8842f",
+   "at": [
+    24.1,
+    46.55
+   ],
+   "ring": [
+    [
+     21.8,
+     47.9
+    ],
+    [
+     22.6,
+     48.3
+    ],
+    [
+     23.5,
+     48.5
+    ],
+    [
+     24.8,
+     48.0
+    ],
+    [
+     25.2,
+     47.8
+    ],
+    [
+     25.8,
+     47.2
+    ],
+    [
+     26.0,
+     46.5
+    ],
+    [
+     25.9,
+     45.6
+    ],
+    [
+     25.0,
+     45.4
+    ],
+    [
+     24.0,
+     45.5
+    ],
+    [
+     23.0,
+     45.5
+    ],
+    [
+     22.4,
+     45.4
+    ],
+    [
+     22.2,
+     46.0
+    ],
+    [
+     21.6,
+     46.5
+    ],
+    [
+     21.4,
+     47.0
+    ],
+    [
+     21.3,
+     47.5
+    ],
+    [
+     21.5,
+     47.8
+    ]
+   ],
+   "source": "The principality with the Partium (Bihar, Szatmar, Maramaros) as it stood before the 1594-95 alliance with the Habsburgs. Approximate. en.wikipedia.org/wiki/Principality_of_Transylvania_(1570%E2%80%931711)"
+  },
+  {
+   "name": "VENICE",
+   "sub": "",
+   "fill": "#6b8e8a",
+   "at": [
+    14.5,
+    44.55
+   ],
+   "ring": [
+    [
+     12.0,
+     45.6
+    ],
+    [
+     12.6,
+     45.75
+    ],
+    [
+     13.4,
+     45.72
+    ],
+    [
+     13.9,
+     45.45
+    ],
+    [
+     14.4,
+     45.05
+    ],
+    [
+     15.2,
+     44.4
+    ],
+    [
+     15.8,
+     43.8
+    ],
+    [
+     16.2,
+     43.4
+    ],
+    [
+     15.6,
+     43.0
+    ],
+    [
+     14.6,
+     44.0
+    ],
+    [
+     13.9,
+     44.6
+    ],
+    [
+     12.4,
+     44.9
+    ],
+    [
+     12.0,
+     45.2
+    ]
+   ],
+   "source": "Venetian Istria and Dalmatia, the coast only. Approximate."
+  }
+ ],
+ "events": [
+  {
+   "year": 1535,
+   "date": "1530s",
+   "lane": "book",
+   "label": "The paper is made",
+   "desc": "The paper the codex is written on is reported to be Venetian, made in the 1530s. The watermark study is cited at second hand and this edition has not seen it.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex: 'Study of the paper on which the codex is written shows that it is most probably a Venetian paper made in the 1530s.' Read 2026-09-23."
+  },
+  {
+   "year": 1593,
+   "date": "1593",
+   "lane": "book",
+   "label": "The codex counts to 1593",
+   "star": true,
+   "desc": "On one of its last leaves the codex counts one thousand five hundred and sixty years from the Ascension, which is 1593. That summer the Long Turkish War began. Where in Hungary it was written, and by whom, is not known.",
+   "source": "The book, introduction and the endnote on 223v; Kiraly and Tokai 2018; en.wikipedia.org/wiki/Long_Turkish_War (1593-1606)."
+  },
+  {
+   "year": 1743,
+   "date": "1743",
+   "lane": "book",
+   "label": "A catalogue entry, perhaps",
+   "desc": "A 1743 catalogue of the Batthyany library at Rohonc lists 'Magyar imadsagok, volumen I in 12' -- Hungarian prayers, one small volume. It may or may not be the codex.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex and hu.wikipedia.org/wiki/Rohonci_kodex, both read 2026-09-23; both say the identification is uncertain."
+  },
+  {
+   "year": 1838,
+   "date": "1838",
+   "lane": "book",
+   "label": "To the Academy",
+   "star": true,
+   "desc": "Count Gusztav Batthyany gives his library at Rohonc, some 30,000 volumes, to the Hungarian Academy of Sciences. The codex is in it and takes the town's name. Most accounts say 1838; the Hungarian article on the town says 1839.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex (1838); hu.wikipedia.org/wiki/Rohonc: '30 000 kotetes konyvtarat 1839-ben Batthyany Gusztav a Magyar Tudomanyos Akademianak ajandekozta.'"
+  },
+  {
+   "year": 1840,
+   "date": "c. 1840",
+   "lane": "read",
+   "label": "Toldy looks first",
+   "desc": "Ferenc Toldy is the first scholar to study it. Pal Hunfalvy follows; neither reads a word.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex; hu.wikipedia.org/wiki/Rohonci_kodex."
+  },
+  {
+   "year": 1866,
+   "date": "1866",
+   "lane": "read",
+   "label": "Called a forgery",
+   "desc": "Karoly Szabo proposes that the codex is a hoax by Samuel Literati Nemes, a known forger of antiquities. The charge stands in the literature for a century and a half.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex, citing Szabo 1866."
+  },
+  {
+   "year": 1885,
+   "date": "1884-85",
+   "lane": "read",
+   "label": "Jirecek and Julg give up",
+   "desc": "Josef and Konstantin Jirecek, then Bernhard Julg at Innsbruck, examine it and find nothing they can read.",
+   "source": "hu.wikipedia.org/wiki/Rohonci_kodex."
+  },
+  {
+   "year": 1889,
+   "date": "1889",
+   "lane": "read",
+   "label": "Nemati counts 792 signs",
+   "desc": "Kalman Nemati counts the distinct signs and finds 792 -- far too many for an alphabet, which is the first real fact about the script.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex: 'Nemati (1889) having counted 792'."
+  },
+  {
+   "year": 1921,
+   "date": "1921",
+   "lane": "book",
+   "label": "Rohonc becomes Rechnitz",
+   "desc": "Burgenland passes from Hungary to Austria; the town the codex is named for is Rechnitz from now on. The codex itself stays in Budapest.",
+   "source": "en.wikipedia.org/wiki/Rechnitz: 'Since 1921, the village has been a part of the Austrian state of Burgenland.'"
+  },
+  {
+   "year": 1970,
+   "date": "1970",
+   "lane": "read",
+   "label": "Gyurk: right to left, and numbers",
+   "star": true,
+   "desc": "Otto Gyurk shows the writing runs right to left and finds the numbers. His observation that the repeated sequences break at the line is the one this edition's whole reading rests on.",
+   "source": "Otto Gyurk, 'Megfejtheto-e a Rohonci-kodex?', Elet es Tudomany 25 (1970), 1923-1928, cited in the book's Acknowledgment; en.wikipedia.org/wiki/Rohonc_Codex."
+  },
+  {
+   "year": 1994,
+   "date": "1990s",
+   "lane": "read",
+   "label": "Locsmandi: not gibberish",
+   "desc": "Miklos Locsmandi runs the text through a computer and rejects the idea that it is meaningless filler.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex."
+  },
+  {
+   "year": 1996,
+   "date": "1996",
+   "lane": "read",
+   "label": "Nyiri: Sumerian",
+   "desc": "Attila Nyiri reads it as Sumerian ligatures. Dismissed at once.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex."
+  },
+  {
+   "year": 2002,
+   "date": "2002",
+   "lane": "read",
+   "label": "Enachiuc: Dacian",
+   "desc": "Viorica Enachiuc publishes a reading as a Daco-Romanian dialect of Vulgar Latin, a history of the Vlachs in the eleventh and twelfth centuries, read right to left and bottom to top. Rejected.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex."
+  },
+  {
+   "year": 2004,
+   "date": "2004",
+   "lane": "read",
+   "label": "Singh: Brahmi",
+   "desc": "Mahesh Kumar Singh reads it as a variant of Brahmi carrying an apocryphal gospel, left to right. Rejected.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex."
+  },
+  {
+   "year": 2010,
+   "date": "2010-11",
+   "lane": "read",
+   "label": "Lang: a cipher, not a hoax",
+   "desc": "Benedek Lang argues the codex is a consciously encoded text and not a forgery, and writes the history of the problem (A Rohonci kod, 2011; in English as The Rohonc Code, 2021).",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex; the book's Acknowledgment (Penn State Press, 2021)."
+  },
+  {
+   "year": 2011,
+   "date": "2010-11",
+   "lane": "read",
+   "label": "Tokai and Kiraly begin",
+   "desc": "Gabor Tokai identifies the codes for the evangelists and reads the year numbers as Anno Mundi; Levente Zoltan Kiraly works out the chapter structure and a table of contents.",
+   "source": "en.wikipedia.org/wiki/Rohonc_Codex."
+  },
+  {
+   "year": 2014,
+   "date": "2014",
+   "lane": "book",
+   "label": "An open transcription",
+   "desc": "An anonymous author publishes a free, glyph-by-glyph transcription of the whole codex, in an alphabet of their own. It is the independent check this edition's tests lean on.",
+   "source": "DATA_PROVENANCE.md section 1: revision 2.5, 2014-09-18, recovered from the Internet Archive."
+  },
+  {
+   "year": 2018,
+   "date": "2018",
+   "lane": "read",
+   "label": "Kiraly and Tokai read it",
+   "star": true,
+   "desc": "Cracking the code of the Rohonc Codex, in Cryptologia: a code system rather than a cipher, 841 signs read, the date 1593, and the content a Catholic reader of its time. The dictionary this edition stands on.",
+   "source": "Kiraly and Tokai, Cryptologia 42:4 (2018), 285-315; en.wikipedia.org/wiki/Rohonc_Codex."
+  },
+  {
+   "year": 2023,
+   "date": "2023",
+   "lane": "read",
+   "label": "Kiraly on its theology",
+   "desc": "Kiraly's paper on the theological character of the codex, with the transcription and dictionary put online at rechnitzer-kodex.hu so the claims can be checked.",
+   "source": "DATA_PROVENANCE.md section 2: A Rohonci kodex teologiai karaktere, in Hagyomany, Identitas, Tortenelem 2022 (publ. 2023)."
+  },
+  {
+   "year": 2026,
+   "date": "2026",
+   "lane": "book",
+   "label": "This edition",
+   "star": true,
+   "desc": "All 441 folios rendered into English end to end, every word marked for how well it is known, with the tests and the data published beside it.",
+   "source": "RESUME.md; the book's introduction."
+  }
+ ],
+ "texts": [
+  {
+   "name": "The Gospels and Acts",
+   "place": "Jerusalem",
+   "year": 85,
+   "date": "c. 70-100",
+   "kind": "had",
+   "line": "the Passion, the parables, the Acts",
+   "desc": "The codex says its Passion is taken from Matthew and John, and most of its pages retell the gospels of the year. The compiler had them in the Vulgate.",
+   "source": "The book, introduction; the corpus appendix (Douay-Rheims, Gutenberg 8300).",
+   "short": "Gospels, Acts"
+  },
+  {
+   "name": "Josephus, The Wars of the Jews",
+   "place": "Rome",
+   "year": 75,
+   "date": "c. 75",
+   "kind": "had",
+   "line": "the siege of Jerusalem",
+   "desc": "Written in Rome after the war. The codex tells the siege, Vespasian and Titus, and the mother who eats her child.",
+   "source": "The corpus appendix (Whiston's translation, Gutenberg 2850).",
+   "short": "Josephus"
+  },
+  {
+   "name": "The Life of Adam and Eve",
+   "place": "Jerusalem",
+   "year": 100,
+   "date": "1st c.",
+   "kind": "had",
+   "line": "Adam, Eve, Seth and the branch",
+   "desc": "A Jewish work of the first century, Greek and Latin. The codex opens with it and runs it straight into the legend of the Rood.",
+   "source": "The corpus appendix (Charles 1913, vol. 2).",
+   "short": "Life of Adam and Eve"
+  },
+  {
+   "name": "The Protevangelium of James",
+   "place": "Antioch",
+   "year": 150,
+   "date": "2nd c.",
+   "kind": "had",
+   "line": "Joachim and Anne",
+   "desc": "The infancy gospel behind the Joachim and Anne cycle; Pseudo-Matthew (7th c., Latin) adds the Golden Gate.",
+   "source": "The corpus appendix (Wake); DATA_PROVENANCE.md section 6.",
+   "short": "Protevangelium"
+  },
+  {
+   "name": "Tertullian, Adversus Praxean",
+   "place": "Carthage",
+   "year": 210,
+   "date": "c. 210",
+   "kind": "had",
+   "line": "sun, ray and the ray's tip",
+   "desc": "The figure of the sun for the three Persons, in the endnotes.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Tertullian"
+  },
+  {
+   "name": "The Apocalypse of Elijah",
+   "place": "Alexandria",
+   "year": 260,
+   "date": "3rd c.",
+   "kind": "had",
+   "line": "Elijah addressed by the word of the Lord",
+   "desc": "Egyptian, surviving in Coptic. Enoch and Elijah killed by the Antichrist and raised after three days and a half. Part of the frame the codex hangs everything on.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Apocalypse of Elijah"
+  },
+  {
+   "name": "Augustine, Quaestiones Evangeliorum",
+   "place": "Hippo",
+   "year": 400,
+   "date": "c. 400",
+   "kind": "had",
+   "line": "the Samaritan's two pence",
+   "desc": "The two pence as the two commandments of love, in the endnotes.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Augustine"
+  },
+  {
+   "name": "The Reversio sanctae crucis",
+   "place": "Rome",
+   "year": 720,
+   "date": "7th-8th c.",
+   "kind": "had",
+   "line": "Heraclius and the Cross",
+   "desc": "The Latin legend of Heraclius humbled at the gate of Jerusalem, dated between the end of the seventh century and the middle of the eighth. Where it was written is not settled.",
+   "source": "Borgehammar, Millennium 6 (2009); DATA_PROVENANCE.md section 6.",
+   "short": "Reversio crucis"
+  },
+  {
+   "name": "Adso, On the Antichrist",
+   "place": "Montier",
+   "year": 950,
+   "date": "c. 950",
+   "kind": "had",
+   "line": "the birth of Antichrist",
+   "desc": "Montier-en-Der, Champagne.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Adso"
+  },
+  {
+   "name": "Barlaam and Ioasaph",
+   "place": "Athos",
+   "year": 1000,
+   "date": "c. 1000",
+   "kind": "had",
+   "line": "the apologue of the man in the well",
+   "desc": "Greek, attributed to St John Damascene; the version behind the Latin ones is from Mount Athos around the year 1000.",
+   "source": "The corpus appendix (Woodward and Mattingly, Gutenberg 749).",
+   "short": "Barlaam and Ioasaph"
+  },
+  {
+   "name": "Michael and Satanael",
+   "place": "Tarnovo",
+   "year": 1150,
+   "date": "11th-12th c.",
+   "kind": "had",
+   "line": "the stolen robe, wreath and sceptre",
+   "desc": "A Bulgarian apocryphon: Satanael sets up a throne of his own; Gabriel is sent and refuses, then Michael. The nearest cousin to the codex's Lucifer pages.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Michael and Satanael"
+  },
+  {
+   "name": "The Slavonic Book of Enoch",
+   "place": "Kiev",
+   "year": 1350,
+   "date": "MSS 14th-18th c.",
+   "kind": "had",
+   "line": "Enoch writes 360 books",
+   "desc": "Survives whole only in Church Slavonic, over twenty manuscripts; Coptic fragments exist. Its date of composition is disputed.",
+   "source": "DATA_PROVENANCE.md section 6 (Hagen 2012 for the Coptic).",
+   "short": "Slavonic Enoch"
+  },
+  {
+   "name": "Voragine, the Golden Legend",
+   "place": "Genoa",
+   "year": 1260,
+   "date": "c. 1260",
+   "kind": "had",
+   "line": "the Rood, the Finding of the Cross, the saints",
+   "desc": "The great Latin legendary. The compiler had it in Latin; this edition reads it in Caxton's English.",
+   "source": "The corpus appendix.",
+   "short": "Golden Legend"
+  },
+  {
+   "name": "The Wartburgkrieg",
+   "place": "Wartburg",
+   "year": 1260,
+   "date": "13th c.",
+   "kind": "had",
+   "line": "a stone from Lucifer's crown",
+   "desc": "Recorded as a trap: the Grail cup was added to the poem in 1832. The codex's cup has no medieval Grail behind it.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Wartburgkrieg"
+  },
+  {
+   "name": "The Council of Florence",
+   "place": "Florence",
+   "year": 1439,
+   "date": "1439",
+   "kind": "had",
+   "line": "purgatorial punishments, no fire named",
+   "desc": "",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Florence"
+  },
+  {
+   "name": "The Debreceni codex",
+   "place": "Debrecen",
+   "year": 1519,
+   "date": "1519",
+   "kind": "had",
+   "line": "Seth at Adam's grave, in Hungarian",
+   "desc": "One of three Hungarian codices of the 1520s that carry the Seth episode.",
+   "source": "Lovas, 'Adam a kereszt alatt' (ELTE); DATA_PROVENANCE.md section 6.",
+   "short": "Debreceni codex"
+  },
+  {
+   "name": "The Erdy codex",
+   "place": "Lovold",
+   "year": 1526,
+   "date": "1526-27",
+   "kind": "had",
+   "line": "the branch promised, the healing deferred",
+   "desc": "Written by the Carthusian of Lovold.",
+   "source": "Lovas (ELTE); DATA_PROVENANCE.md section 6.",
+   "short": "Erdy codex"
+  },
+  {
+   "name": "The Teleki codex",
+   "place": "Marosvasarhely",
+   "year": 1528,
+   "date": "1525-31",
+   "kind": "had",
+   "line": "Adam alive when Seth returns",
+   "desc": "The only telling named in the notes in which Adam is alive when Seth comes back, as the codex has it.",
+   "source": "Lovas (ELTE); DATA_PROVENANCE.md section 6.",
+   "short": "Teleki codex"
+  },
+  {
+   "name": "Carion's Chronicle",
+   "place": "Wittenberg",
+   "year": 1532,
+   "date": "1532",
+   "kind": "had",
+   "line": "six thousand years, in three spans",
+   "desc": "Melanchthon's preface carries the scheme the codex's end-of-world count belongs to.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Carion"
+  },
+  {
+   "name": "The Council of Trent",
+   "place": "Trent",
+   "year": 1562,
+   "date": "1562",
+   "kind": "had",
+   "line": "the water mixed with the wine",
+   "desc": "Session 22, chapter 7 and canon 9.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Trent"
+  },
+  {
+   "name": "The Roman Missal and Martyrology",
+   "place": "Rome",
+   "year": 1570,
+   "date": "1570",
+   "kind": "had",
+   "line": "the liturgy; 5,199 years to the Nativity",
+   "desc": "A Catholic reader of 1593 is at least as much missal and breviary as it is scripture.",
+   "source": "The corpus appendix; DATA_PROVENANCE.md section 6.",
+   "short": "Missal, Martyrology"
+  },
+  {
+   "name": "Caxton's Golden Legend",
+   "place": "London",
+   "year": 1483,
+   "date": "1483",
+   "kind": "read",
+   "line": "the English the Legend is read in here",
+   "desc": "Westminster. Also London: the King James Bible (1611), Whiston's Josephus (1737), Wake's apocryphal gospels (1820), the English Missal (1865).",
+   "source": "The corpus appendix.",
+   "short": "Caxton"
+  },
+  {
+   "name": "The York, Chester, Towneley and N-Town plays",
+   "place": "York",
+   "year": 1470,
+   "date": "15th c.",
+   "kind": "read",
+   "line": "the mystery cycles",
+   "desc": "",
+   "source": "The corpus appendix.",
+   "short": "the play cycles"
+  },
+  {
+   "name": "The Douay-Rheims Bible",
+   "place": "Douai",
+   "year": 1600,
+   "date": "1582-1610",
+   "kind": "read",
+   "line": "the Catholic English of the Vulgate",
+   "desc": "Challoner's revision (1750). The Bible this edition reads the codex against, because the compiler worked from the Vulgate.",
+   "source": "The corpus appendix (Gutenberg 8300).",
+   "short": "Douay Bible"
+  },
+  {
+   "name": "Suarez, De Angelis",
+   "place": "Lyon",
+   "year": 1620,
+   "date": "1620",
+   "kind": "read",
+   "line": "the angels' test, as theology",
+   "desc": "Posthumous. Cited at second hand.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Suarez"
+  },
+  {
+   "name": "Mary of Agreda, Mystical City of God",
+   "place": "Agreda",
+   "year": 1670,
+   "date": "1670",
+   "kind": "read",
+   "line": "the angels' test, as narrative",
+   "desc": "Too late to be a source; cited as a parallel.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Agreda"
+  },
+  {
+   "name": "Kalmany's folk tellings",
+   "place": "Szeged",
+   "year": 1893,
+   "date": "1893",
+   "kind": "read",
+   "line": "Elijah at the fall of the angels",
+   "desc": "Villages near Szeged; restated by Balint (1978).",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Kalmany"
+  },
+  {
+   "name": "The Romanian carols of Judas",
+   "place": "Bucharest",
+   "year": 1900,
+   "date": "19th-20th c.",
+   "kind": "read",
+   "line": "Judas plunders paradise",
+   "desc": "Colinde collected in Wallachia and Transylvania: the little jug of wine, the throne, the sun and moon.",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Romanian carols"
+  },
+  {
+   "name": "Borgehammar's Reversio",
+   "place": "Lund",
+   "year": 2009,
+   "date": "2009",
+   "kind": "read",
+   "line": "the Heraclius legend edited",
+   "desc": "",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Borgehammar"
+  },
+  {
+   "name": "Lovas on the Hungarian codices",
+   "place": "Budapest",
+   "year": 2015,
+   "date": "ELTE",
+   "kind": "read",
+   "line": "the Seth episode in three codices",
+   "desc": "",
+   "source": "DATA_PROVENANCE.md section 6.",
+   "short": "Lovas",
+   "map": false,
+   "map_note": "not plotted: a study of the codices, not a source of stories; the codices themselves are."
+  }
+ ],
+ "tongues": {
+  "areas": [
+   {
+    "name": "GERMAN",
+    "at": [
+     14.6,
+     48.4
+    ],
+    "fill": "#8fa2b8",
+    "ring": [
+     [
+      11.8,
+      49.8
+     ],
+     [
+      16.9,
+      49.8
+     ],
+     [
+      17.0,
+      48.6
+     ],
+     [
+      16.9,
+      47.9
+     ],
+     [
+      16.6,
+      47.4
+     ],
+     [
+      16.2,
+      46.9
+     ],
+     [
+      15.6,
+      46.6
+     ],
+     [
+      14.6,
+      46.4
+     ],
+     [
+      13.4,
+      46.5
+     ],
+     [
+      12.6,
+      46.9
+     ],
+     [
+      11.8,
+      47.2
+     ]
+    ]
+   },
+   {
+    "name": "HUNGARIAN",
+    "at": [
+     19.6,
+     46.95
+    ],
+    "fill": "#c9905f",
+    "ring": [
+     [
+      16.9,
+      47.9
+     ],
+     [
+      17.4,
+      48.2
+     ],
+     [
+      18.6,
+      48.0
+     ],
+     [
+      19.6,
+      48.3
+     ],
+     [
+      20.6,
+      48.4
+     ],
+     [
+      21.6,
+      48.4
+     ],
+     [
+      22.4,
+      48.3
+     ],
+     [
+      22.2,
+      47.6
+     ],
+     [
+      21.8,
+      47.0
+     ],
+     [
+      21.4,
+      46.4
+     ],
+     [
+      21.0,
+      45.9
+     ],
+     [
+      20.2,
+      45.9
+     ],
+     [
+      19.2,
+      46.0
+     ],
+     [
+      18.4,
+      45.8
+     ],
+     [
+      17.7,
+      46.0
+     ],
+     [
+      17.1,
+      46.5
+     ],
+     [
+      16.6,
+      47.0
+     ],
+     [
+      16.7,
+      47.5
+     ]
+    ]
+   },
+   {
+    "name": "SLOVAK",
+    "at": [
+     19.3,
+     48.95
+    ],
+    "fill": "#a8842f",
+    "ring": [
+     [
+      17.0,
+      48.6
+     ],
+     [
+      17.4,
+      49.5
+     ],
+     [
+      18.8,
+      49.55
+     ],
+     [
+      20.0,
+      49.45
+     ],
+     [
+      21.5,
+      49.4
+     ],
+     [
+      22.4,
+      49.1
+     ],
+     [
+      22.4,
+      48.5
+     ],
+     [
+      21.6,
+      48.5
+     ],
+     [
+      20.6,
+      48.5
+     ],
+     [
+      19.6,
+      48.4
+     ],
+     [
+      18.6,
+      48.1
+     ],
+     [
+      17.4,
+      48.3
+     ]
+    ]
+   },
+   {
+    "name": "CROATIAN",
+    "at": [
+     15.9,
+     45.5
+    ],
+    "fill": "#6b8e8a",
+    "ring": [
+     [
+      14.3,
+      45.4
+     ],
+     [
+      15.3,
+      46.2
+     ],
+     [
+      16.2,
+      46.4
+     ],
+     [
+      17.0,
+      46.3
+     ],
+     [
+      17.6,
+      45.9
+     ],
+     [
+      18.4,
+      45.4
+     ],
+     [
+      18.2,
+      44.9
+     ],
+     [
+      17.0,
+      44.2
+     ],
+     [
+      15.4,
+      44.2
+     ],
+     [
+      14.6,
+      44.8
+     ]
+    ]
+   },
+   {
+    "name": "SLOVENE",
+    "at": [
+     14.7,
+     46.05
+    ],
+    "fill": "#7d9a6a",
+    "ring": [
+     [
+      13.4,
+      46.5
+     ],
+     [
+      14.6,
+      46.4
+     ],
+     [
+      15.6,
+      46.6
+     ],
+     [
+      16.2,
+      46.9
+     ],
+     [
+      16.4,
+      46.5
+     ],
+     [
+      15.8,
+      46.1
+     ],
+     [
+      15.0,
+      45.7
+     ],
+     [
+      14.3,
+      45.5
+     ],
+     [
+      13.7,
+      45.6
+     ],
+     [
+      13.5,
+      46.0
+     ]
+    ]
+   },
+   {
+    "name": "SERBIAN",
+    "at": [
+     20.4,
+     44.55
+    ],
+    "fill": "#9a7ba8",
+    "ring": [
+     [
+      18.4,
+      44.2
+     ],
+     [
+      18.8,
+      45.2
+     ],
+     [
+      19.6,
+      45.7
+     ],
+     [
+      20.8,
+      45.4
+     ],
+     [
+      21.9,
+      44.9
+     ],
+     [
+      22.4,
+      44.2
+     ],
+     [
+      20.0,
+      44.2
+     ]
+    ]
+   },
+   {
+    "name": "ROMANIAN",
+    "at": [
+     24.3,
+     45.45
+    ],
+    "fill": "#b9543b",
+    "ring": [
+     [
+      22.2,
+      47.6
+     ],
+     [
+      23.4,
+      48.4
+     ],
+     [
+      24.8,
+      48.0
+     ],
+     [
+      25.8,
+      47.2
+     ],
+     [
+      26.4,
+      46.0
+     ],
+     [
+      26.4,
+      44.2
+     ],
+     [
+      22.4,
+      44.2
+     ],
+     [
+      21.9,
+      44.9
+     ],
+     [
+      21.4,
+      45.6
+     ],
+     [
+      21.8,
+      46.6
+     ],
+     [
+      22.0,
+      47.2
+     ]
+    ]
+   }
+  ],
+  "areas_source": "Indicative, not surveyed: the broad distribution of the vernaculars of the Kingdom of Hungary and its neighbours around 1600, drawn by hand. German also in the towns of Upper Hungary and among the Transylvanian Saxons; Croat refugee villages in the west from the 1530s (en.wikipedia.org/wiki/Burgenland_Croats: 'These areas were occupied by the Turks during the Turkish wars (1533-1584)'; hu.wikipedia.org/wiki/Rohonc: 1532, 'horvatokat telepitettek ide'); Romanian written in Cyrillic 1500s-1860s (en.wikipedia.org/wiki/Romanian_Cyrillic_alphabet, Neacsu's letter 1521).",
+  "marks": [
+   {
+    "place": "Vienna",
+    "faith": "Catholic",
+    "label": "Vienna",
+    "note": "Habsburg court"
+   },
+   {
+    "place": "Graz",
+    "faith": "Catholic",
+    "label": "Graz"
+   },
+   {
+    "place": "Zagreb",
+    "faith": "Catholic",
+    "label": "Zagreb"
+   },
+   {
+    "place": "Sopron",
+    "faith": "Lutheran",
+    "label": "Sopron"
+   },
+   {
+    "place": "Pozsony",
+    "faith": "Lutheran",
+    "label": "Pozsony"
+   },
+   {
+    "place": "Debrecen",
+    "faith": "Calvinist",
+    "label": "Debrecen",
+    "note": "the Calvinist centre"
+   },
+   {
+    "place": "Kolozsvar",
+    "faith": "Unitarian",
+    "label": "Kolozsvar"
+   },
+   {
+    "place": "Torda",
+    "faith": "Unitarian",
+    "label": "Torda",
+    "note": "four faiths received, 1568"
+   },
+   {
+    "place": "Belgrade",
+    "faith": "Orthodox",
+    "label": "Belgrade"
+   },
+   {
+    "place": "Brasso",
+    "faith": "Lutheran",
+    "label": "Brasso",
+    "note": "Saxon town"
+   },
+   {
+    "place": "Buda",
+    "faith": "Islam",
+    "label": "Buda",
+    "note": "the pasha's seat"
+   },
+   {
+    "place": "Pecs",
+    "faith": "Islam",
+    "label": "Pecs"
+   },
+   {
+    "place": "Temesvar",
+    "faith": "Islam",
+    "label": "Temesvar"
+   }
+  ],
+  "marks_source": "Edict of Torda, 28 January 1568: Catholic, Lutheran, Calvinist and Unitarian received; the Orthodox tolerated but not received (en.wikipedia.org/wiki/Edict_of_Torda). The other confessional placings are the standard account: Lutheran among the Germans and the western and Saxon towns, Calvinist at Debrecen, Ottoman garrisons and mosques in the occupied towns (en.wikipedia.org/wiki/Protestantism_in_Hungary; en.wikipedia.org/wiki/Ottoman_Hungary).",
+  "presses": [
+   {
+    "place": "Nemetlovo",
+    "year": 1592,
+    "label": "Nemetlovo 1592",
+    "note": "Manlius prints Kozarvari's epic"
+   },
+   {
+    "place": "Monyorokerek",
+    "year": 1587,
+    "label": "Monyorokerek",
+    "note": "Manlius, Erdody estate"
+   },
+   {
+    "place": "Sarvar",
+    "year": 1602,
+    "label": "Sarvar 1602",
+    "note": "Magyari's anti-Catholic book"
+   },
+   {
+    "place": "Varasd",
+    "year": 1587,
+    "label": "Varasd 1587"
+   },
+   {
+    "place": "Kereszur",
+    "year": 1604,
+    "label": "Keresztur",
+    "note": "Manlius dies here, c. 1604"
+   }
+  ],
+  "presses_source": "hu.wikipedia.org/wiki/Manlius_Janos, read 2026-09-23: Laibach 1575-81; from 1582 on the western Hungarian estates; Varasd 1587; Nemetlovo 1592 (Kozarvari); Sarvar 1602 (Magyari); died c. 1604-05 at Nemetkeresztur.",
+  "glyphs": [
+   {
+    "code": "754",
+    "gloss": "Christ"
+   },
+   {
+    "code": "607",
+    "gloss": "Mary"
+   },
+   {
+    "code": "3b1",
+    "gloss": "Jerusalem"
+   },
+   {
+    "code": "462",
+    "gloss": "cross"
+   },
+   {
+    "code": "270",
+    "gloss": "Lord"
+   }
+  ],
+  "glyphs_source": "Kiraly and Tokai's dictionary, exact-gloss entries; outlines from their font via ktsigns.py, credited on the plate."
+ }
+}

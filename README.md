@@ -46,6 +46,21 @@ random.
 repository.** Neither are the manuscript scans. `DATA_PROVENANCE.md` says where
 everything came from and what may be done with it.
 
+## Reproducing the Rohonc tests
+
+After placing the source inputs named in [`DATA_PROVENANCE.md`](DATA_PROVENANCE.md),
+run this from the repository root:
+
+```sh
+python3 harness/reproduce_tests.py
+```
+
+The checker verifies the exact source-file hashes, runs every published saved
+result under two Python hash seeds, and requires byte-for-byte agreement with
+the archived output. Tests 3, 12b, 14, and 15 score their committed blind or
+outside-reader replies without contacting a model API. Test 4 is explicitly
+blocked and has no result to reproduce.
+
 ## Licence
 
 Three parts, three licences, set out in full in [`LICENSE`](LICENSE).

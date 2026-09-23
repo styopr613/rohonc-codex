@@ -1,5 +1,5 @@
 TEST 6: ORDER OF WORDS ON HELD-OUT FOLIOS
   cited folios 297   K&T-only LCS total 1345
-  A+B, held out      signs  670   gain   +68   shuffled    +7.1 (sd 8.6)   7.1 sigma
+  A+B, held out      signs  670   gain   +57   shuffled   -35.9 (sd 11.3)   8.2 sigma
   BAR: >= 5 sigma  ->  PASS
-  G, not held out    signs  847   gain  +151   shuffled   +11.6 (sd 3.4)   41.1 sigma
+  G, not held out    signs  847   gain  +103   shuffled   -36.5 (sd 3.5)   40.4 sigma

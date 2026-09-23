@@ -31,7 +31,8 @@ BARS, declared before the run, not moved:
   reader who knows the Bible and has six words in ten of a page should do
   better than a bag of stems, or the words are not carrying the story.
 
-    python3 ktpassid2.py     (replies cached under work/rohonc/outside/passid/)
+    python3 ktpassid2.py            (score the cached replies; no network)
+    python3 ktpassid2.py --refresh  (request replies that are not cached)
 """
 import json
 import math
@@ -83,6 +84,15 @@ def main(argv):
             lines, gaps = B.render_page(pages[f], g, var)
             jobs.append((f, cond, PROMPT.format(page="\n".join(lines))))
 
+    refresh = "--refresh" in argv
+    missing = [f"{f}_{cond}" for f, cond, _ in jobs
+               if not os.path.exists(os.path.join(OUT, f"{f}_{cond}.json"))]
+    if missing and not refresh:
+        print("TEST 15: cached outside-reader replies are incomplete", file=sys.stderr)
+        print("  missing: " + ", ".join(missing), file=sys.stderr)
+        print("  use --refresh to request them", file=sys.stderr)
+        return 2
+
     def run(job):
         f, cond, prompt = job
         path = os.path.join(OUT, f"{f}_{cond}.json")
@@ -93,7 +103,7 @@ def main(argv):
             except Exception:
                 pass
             os.remove(path)          # an empty reply (thinking budget spent) is fetched again
-        if not os.path.exists(path):
+        if not os.path.exists(path) and refresh:
             txt, usage = ktor.ask(MODEL, prompt, extra=EXTRA)
             json.dump({"folio": f, "cond": cond, "reply": txt, "usage": usage, "prompt": prompt},
                       open(path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
@@ -147,4 +157,6 @@ def main(argv):
 
 
 if __name__ == "__main__":
+    import ktcwd
+    ktcwd.enter()
     sys.exit(main(sys.argv[1:]))

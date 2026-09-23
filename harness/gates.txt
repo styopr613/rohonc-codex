@@ -7,3 +7,4 @@ check_rohonc.py
 ktretellcheck.py
 ktnotecheck.py
 check_tests.py
+ktatlascheck.py

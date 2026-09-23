@@ -2,6 +2,9 @@
 
 Written 2026-09-21. Every bar below was declared in the test's own docstring
 before it ran, and none was moved. Saved runs are in `work/rohonc/`.
+Replay every saved result, twice under different Python hash seeds, from the
+repository root with `python3 harness/reproduce_tests.py`. The checker first
+verifies the exact source inputs and never contacts an outside model API.
 
 The question: Király and Tokai published a dictionary of 841 signs. This
 project added 919 readings on top (tiers A–D) and 847 bracketed
@@ -154,7 +157,7 @@ only if that folio is not named in its evidence.
 
     cited folios 297      K&T-only match total 1345
 
-    A+B, held out    670 signs   gain +68    shuffled +7.1 (sd 8.6)   7.1 sigma   PASS
+    A+B, held out    670 signs   gain +57    shuffled -35.9 (sd 11.3)   8.2 sigma   PASS
 
 ## Test 2 and 2b — part of speech from context: the instrument is no good
 
@@ -623,7 +626,7 @@ says so where it quotes them.
     The readings:
     Test 1  | source presence, held-out folios | A+B 16.4 sigma; 99% of K&T's own rate | PASS
     Test 5  | K&T's own sentence translations | A+B 8.6 sigma; 153% of K&T | PASS
-    Test 6  | word order, held-out folios | A+B 7.1 sigma | PASS
+    Test 6  | word order, held-out folios | A+B 8.2 sigma | PASS
     Test 2  | part of speech from context | the instrument fails on K&T's own words (68.3% against a needed 70%; 4.7 sigma against a needed 5); the readings were never scored | NO VERDICT
     Test 3  | the blindfold, run clean | 4 of 24 strict, 16.7%; the declared band for that result was 15-30%, and its declared consequence, tier C passage readings become tier D, was applied | IN BAND
     Test 7  | K&T's words removed | reads 11.6% from this project's readings alone, by design: the readings extend the dictionary. Recovery of a hidden K&T word: 10.3 sigma against a declared 5, on a hundred-shuffle control; the ten-shuffle runs gave 4.4 before the variant fix and 8.4 after, and all three are kept | PASS

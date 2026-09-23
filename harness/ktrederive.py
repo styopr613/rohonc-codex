@@ -300,7 +300,7 @@ def score(gl, path):
     print("GATE 4b  the judgment step, scored against K&T's own dictionary\n")
     for h, rd in got:
         rd = rd.strip().splitlines()[0].strip() if rd.strip() else ""
-        truth = "; ".join(gl[unhex[h]])
+        truth = "; ".join(sorted(gl[unhex[h]]))
         if not rd:
             blank += 1
             print(f"  {h:24s} (no reading committed)   truth = {truth[:60]}")

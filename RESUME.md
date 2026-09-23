@@ -1,5 +1,47 @@
 # Where this stopped — 2026-09-23
 
+## THE ATLAS — 2026-09-23, evening
+
+The owner asked for maps and timelines, "natgeo style", on their own menu
+item. Built and LIVE at https://oona13.com/rohonc/atlas.html (nav: Atlas,
+after The script; card on the front page):
+
+- `harness/ktmapgen.py` — the Plaintext Classics map engine ported (real
+  Natural Earth coastlines), with rivers, lakes and hand-placed shaded
+  regions added. `data/geo/` holds the three geojson files (gitignored;
+  DATA_PROVENANCE.md section 8).
+- `harness/atlas.json` — EVERY place, event, text, region and language area,
+  each event and text with a `source` line saying where it was read. Region
+  rings and language areas are approximate by construction; every plate
+  that uses them says so on its face.
+- `harness/ktatlas.py` — five plates to `work/rohonc/atlas/` as SVG (viewBox
+  only, inlined on the page) and PNG (1600 wide): hungary-1593, tongues,
+  sources-map, sources-timeline, codex-timeline. `--check` re-renders and
+  compares. Site: `ktsite.page_atlas()`; the plates' click popups read the
+  `data-desc` of each `<g class="ev">`.
+- `harness/ktatlascheck.py` — in gates.txt: no entry without a source, the
+  years the book states (1593, 1838, 2014, 2018) present on the plate and
+  still in ktbook.py, plates fresh, SVGs well-formed with unique ids, copy
+  keys present.
+- Facts verified 2026-09-23 at en/hu Wikipedia (codex, Rohonc, Manlius,
+  Long Turkish War, Edict of Torda, Burgenland Croats, Romanian Cyrillic,
+  Protestantism in Hungary). Not verified: Batthyany Boldizsar's
+  Protestantism and library (the pages 404ed) -- so NOT claimed. The
+  watermark study is cited at second hand and the plate says so.
+- Fonts: EB Garamond + Cinzel installed in ~/.fonts so cairosvg proofs
+  match the site. `pip3 install --user cairosvg` for system python3.
+
+**Not done, deliberately:** the plates are not in the BOOK. gen.py takes
+`[img:name|caption]` PNGs, so an appendix "Maps and timelines" is a small
+job, but at 6x9 column width the 15-unit labels come out near 6pt; they
+would want the full-page plate mode or a redesign at larger type. Decide
+before adding. The Kindle file is still behind the shelf.
+
+**Swept in with this commit:** the front page's "Turn it over" book button
+and back-cover modal (`.book-peek`, `#book-blurb`) in ktsite.py, plus one
+diacritic fix in DATA_PROVENANCE.md, were sitting uncommitted from an
+earlier session; they render and the dialog opens (checked live 2026-09-23).
+
 ## SOURCE AUDIT — 2026-09-23, later
 
 Every source behind all 55 endnotes was checked: all 19 addresses fetched

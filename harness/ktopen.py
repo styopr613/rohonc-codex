@@ -198,4 +198,6 @@ def main():
 
 
 if __name__ == "__main__":
+    import ktcwd
+    ktcwd.enter()
     sys.exit(main())

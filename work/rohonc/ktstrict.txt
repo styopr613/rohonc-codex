@@ -4,7 +4,7 @@ TEST 12: TEST 5 RESCORED, STRICT LEMMA RULE, FIRST SENSE ONLY
 
   tier   signs  pairs  strict  shuffle    sd  sigma   loose
   A+B       26     38   73.7%     6.7%  7.94    8.4   81.6%
-         strict misses: 285(law), 060060060060060(five), 060060060ae1(three days), 27d(give_up_the_ghost), 646(pierce), a10af9670(redeem), 060060060(three), 670ae0060788060270540(the Red Sea), 520b78(mount), 670ae0060788060270540(the Red Sea)
+         strict misses: 285(law), 060060060ae1(three days), 060060060060060(five), 27d(give_up_the_ghost), 646(pierce), a10af9670(redeem), 060060060(three), 670ae0060788060270540(the Red Sea), 520b78(mount), 670ae0060788060270540(the Red Sea)
   C+D        2      2  100.0%   100.0%  0.00    0.0  100.0%
          strict misses: 
   G          0

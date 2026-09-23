@@ -1,0 +1,27 @@
+[
+ {
+  "name": "hungary-1593",
+  "title": "Hungary in 1593",
+  "caption": "The kingdom in three parts in the year the codex counts to, with Rohonc in its Habsburg west."
+ },
+ {
+  "name": "tongues",
+  "title": "Tongues and faiths",
+  "caption": "Seven languages, six confessions and three scripts around one town, and a book in a script of its own."
+ },
+ {
+  "name": "sources-map",
+  "title": "Where the stories came from",
+  "caption": "The books the codex is compiled from, where they were written, flowing to Rohonc; and where this edition's witnesses come from."
+ },
+ {
+  "name": "sources-timeline",
+  "title": "When the stories were written",
+  "caption": "Sixteen centuries of texts, ending at the year the codex gathered them."
+ },
+ {
+  "name": "codex-timeline",
+  "title": "The codex, from the paper to the present",
+  "caption": "The book above the line and the people who tried to read it below, with the last sixty years enlarged."
+ }
+]

@@ -103,7 +103,7 @@ DOCS = [
 
 CONTACT = "info@oona13.com"
 
-NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("reading", "The reading"),
+NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("atlas", "Atlas"), ("reading", "The reading"),
        ("finds", "Discoveries"), ("corpus", "The corpus"), ("dictionary", "Dictionary"), ("tests", "Tests"), ("method", "Method"),
        ("sources", "Sources"), ("data", "Data")]
 
@@ -198,6 +198,19 @@ table.tests tr.cap+tr.cap td{padding-top:2px}
 .hero .blurb p:first-child{margin-top:0}
 .hero .bk{margin:0}
 .hero .bk img{width:100%;height:auto;display:block;filter:drop-shadow(0 16px 26px rgba(0,0,0,.32))}
+.book-peek{display:block;width:100%;padding:0;border:0;background:transparent;color:var(--rub);font:inherit;cursor:pointer}
+.book-peek img{transition:transform .18s ease,filter .18s ease}
+.book-peek:hover img{transform:translateY(-3px);filter:drop-shadow(0 19px 28px rgba(0,0,0,.38))}
+.book-peek:focus-visible{outline:2px solid var(--rub);outline-offset:8px;border-radius:2px}
+.book-peek-note{display:block;margin:.8em 0 0;text-align:center;font-size:14px;font-style:italic;color:var(--soft)}
+.book-modal{width:min(620px,calc(100vw - 40px));max-height:calc(100vh - 40px);box-sizing:border-box;overflow:auto;padding:38px 42px 32px;border:1px solid var(--line);border-radius:4px;background:var(--paper);color:var(--ink);box-shadow:0 20px 70px rgba(0,0,0,.65)}
+.book-modal::backdrop{background:rgba(5,6,8,.78)}
+.book-modal h2{margin:0 35px .8em 0}
+.book-modal p{font-size:18px;line-height:1.5}
+.book-modal .modal-close{position:absolute;top:13px;right:15px;width:34px;height:34px;padding:0;border:0;background:transparent;color:var(--soft);font:28px/1 Georgia,serif;cursor:pointer}
+.book-modal .modal-close:hover,.book-modal .modal-close:focus{color:var(--rub)}
+.book-modal .acts{margin-bottom:0}
+body:has(.book-modal[open]){overflow:hidden}
 /* THE DOOR TO THE READER IS A BUTTON. This rule was scoped to .hero, so the same
    markup on the Read page -- the one page whose whole job is to open the book --
    printed as two plain underlined links with a space between them: "Open the book
@@ -275,6 +288,25 @@ ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
 .plates figure{margin:0}
 .plates img{width:100%;display:block;border:1px solid var(--line);background:#fff}
 .plates figcaption{font-size:15.5px;color:var(--soft);padding-top:7px}
+/* THE ATLAS. Each plate is an inline SVG with a viewBox and no size, so it takes the
+   column; the page's EB Garamond reaches into it. Marked items are <g class="ev"> and
+   the popup below is positioned fixed from the click. [hidden] is guarded because a
+   display rule on the popup would otherwise beat the attribute. */
+.atlas figure{margin:2.4em 0 0}
+.atlas svg{width:100%;height:auto;display:block;border:1px solid var(--line);border-radius:3px;background:#f6f1e7}
+.atlas figcaption{font-size:16px;color:var(--soft);padding-top:8px;font-style:italic}
+.atlas .ev{cursor:pointer;outline:none}
+.atlas .ev:hover circle,.atlas .ev:focus circle,.atlas .ev:hover polygon,.atlas .ev:focus polygon{stroke:#b9543b;stroke-width:3}
+.atlas .ev:hover rect[rx],.atlas .ev:focus rect[rx]{stroke-width:2.6}
+.tlpop{position:fixed;z-index:60;max-width:min(360px,calc(100vw - 24px));background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:4px;padding:14px 38px 14px 16px;box-shadow:0 12px 40px rgba(0,0,0,.55);font-size:16px;line-height:1.45}
+.tlpop[hidden]{display:none}
+.tlpop b{display:block;font-family:Cinzel,serif;font-weight:400;color:var(--rub);letter-spacing:.03em;font-size:15px;margin-bottom:2px}
+.tlpop i{display:block;color:var(--soft);font-size:14px;margin-bottom:6px}
+.tlpop p{margin:0}
+.tlpop button{position:absolute;top:2px;right:6px;border:0;background:none;font:22px/1 Georgia,serif;cursor:pointer;color:var(--soft)}
+.atlas-src{margin-top:2.4em;font-size:15px;color:var(--soft)}
+.atlas-src summary{cursor:pointer;color:var(--rub)}
+.atlas-src ul{padding-left:1.2em}.atlas-src li{margin:.35em 0}
 /* the dictionary */
 .tools{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:1em 0 1.2em}
 .tools input{font:inherit;font-size:17px;padding:6px 10px;border:1px solid var(--line);border-radius:3px;background:#fffdf8;color:var(--ink);min-width:240px}
@@ -292,7 +324,7 @@ table.dict tr.open td.ev .short,table.dict tr.open td.ev .more{display:none}
 .tiers{font-size:16.5px;background:var(--paper2);padding:12px 16px;border-radius:3px}
 .tiers b{font-family:Cinzel,serif;font-weight:400;color:var(--rub)}
 @media(max-width:860px){.hero{grid-template-columns:1fr;gap:20px}.hero .bk{max-width:220px;margin:0 auto;order:-1}.strip{margin-left:-20px;margin-right:-20px}}
-@media(max-width:700px){body{font-size:17.5px}main.sheet{margin:14px 10px 40px;padding:26px 20px 34px}header.rh .mark{font-size:22px}nav.sub a{margin:0 6px 6px}.prose h1{font-size:24px}.tools .n{margin-left:0}}
+@media(max-width:700px){body{font-size:17.5px}main.sheet{margin:14px 10px 40px;padding:26px 20px 34px}header.rh .mark{font-size:22px}nav.sub a{margin:0 6px 6px}.prose h1{font-size:24px}.book-modal{padding:32px 24px 26px}.tools .n{margin-left:0}}
 """
 
 
@@ -867,6 +899,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
                 f'<figcaption>{html.escape(x["caption"])} Redrawn from the manuscript\'s own '
                 f'drawing; not a reproduction.</figcaption></figure>')
     intro_html = paras("intro").replace("<p>", '<p class="dc">', 1)
+    cover_blurb = paras("cover_blurb")
     body = f"""
 <div class="hero">
   <div class="blurb">{intro_html}
@@ -875,8 +908,37 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
       <a href="https://www.amazon.com/dp/B0HKQCWV2S" rel="noopener">Read on Kindle</a></div>
     <p class="sz">All {nfolio} folios{pages_note} · the translation and the evidence in one volume.</p>
   </div>
-  <figure class="bk"><img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the printed edition" width="576" height="900"></figure>
+  <figure class="bk"><button class="book-peek" id="book-peek" type="button" aria-haspopup="dialog" aria-controls="book-blurb">
+    <img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the printed edition" width="576" height="900">
+    <span class="book-peek-note">Turn it over</span>
+  </button></figure>
 </div>
+<dialog class="book-modal" id="book-blurb" aria-labelledby="book-blurb-title">
+  <form method="dialog"><button class="modal-close" aria-label="Close" value="close">×</button></form>
+  <h2 id="book-blurb-title">The back of the book</h2>
+  {cover_blurb}
+  <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
+    <a href="https://www.amazon.com/dp/B0HKQCWV2S" rel="noopener">Read on Kindle</a></div>
+</dialog>
+<script>
+(function(){{
+  var opener=document.getElementById('book-peek');
+  var dialog=document.getElementById('book-blurb');
+  if(!opener||!dialog) return;
+  opener.addEventListener('click',function(){{
+    if(typeof dialog.showModal==='function') dialog.showModal();
+    else dialog.setAttribute('open','');
+  }});
+  dialog.addEventListener('click',function(e){{
+    if(e.target!==dialog) return;
+    if(typeof dialog.close==='function') dialog.close();
+    else dialog.removeAttribute('open');
+  }});
+  dialog.querySelector('.modal-close').addEventListener('click',function(){{
+    if(typeof dialog.close!=='function') dialog.removeAttribute('open');
+  }});
+}})();
+</script>
 {strip_html(rows, sg)}
 <p class="nof">{html.escape(COPY["strip_note"].strip())} Drag it, or use the arrows: the glass magnifies whatever sign passes under it and names this project's reading of that sign and its code. The outlines are drawn from Király and Tokai's own font. <a href="/rohonc/script.html">More about the script →</a></p>
 {shot}
@@ -907,6 +969,7 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 <h2>What is here</h2>
 <div class="cards">
 <a class="card" href="/rohonc/script.html"><b>The script</b><span>{html.escape(COPY["card_script"].strip())}</span></a>
+<a class="card" href="/rohonc/atlas.html"><b>Atlas</b><span>{html.escape(COPY["card_atlas"].strip())}</span></a>
 <a class="card" href="/rohonc/reading.html"><b>The reading</b><span>{html.escape(COPY["card_reading"].strip())}</span></a>
 <a class="card" href="/rohonc/dictionary.html"><b>Dictionary</b><span>{html.escape(COPY["card_dictionary"].strip())}</span></a>
 <a class="card" href="/rohonc/tests.html"><b>Tests</b><span>{html.escape(COPY["card_tests"].strip())}</span></a>
@@ -1196,6 +1259,10 @@ def page_code(out):
             "Király and Tokai's dictionary, which is their published work and is not served here; and the reference corpora "
             "the folios are read against, all public-domain texts named under Sources and fetched from Project Gutenberg and "
             "archive.org. With those three in place every saved run below can be reproduced.</p>",
+            "<p>From the repository root, <code>python3 harness/reproduce_tests.py</code> verifies the exact input "
+            "files, runs every published result twice under different Python hash seeds, and requires byte-for-byte "
+            "agreement with the saved runs. The blind and outside-reader tests score their committed replies without "
+            "making network requests. Test 4 is explicitly blocked and has no result to reproduce.</p>",
             "<h2>Which program made which number</h2>",
             "<p>Every test on the <a href=\"/rohonc/tests.html\">checked-results page</a> names its program, and each program "
             "names its saved run. This table is read out of the tests document at build time.</p>",
@@ -1525,6 +1592,67 @@ def page_finds():
                  "What reading the sources behind the Rohonc Codex turned up: the stolen cup's neighbours, Adam healed by the branch, Elijah at the fall of the angels, and the date the book gives the end of the world.",
                  body)
 
+def page_atlas():
+    """Maps and timelines of where the codex came out of. The plates are drawn
+    by ktatlas.py from atlas.json and saved under work/rohonc/atlas/; this page
+    only places them. Every date on them is in atlas.json with the line where it
+    was read, and the list under the plates is generated from those lines."""
+    adir = os.path.join(WORK, "atlas")
+    man = os.path.join(adir, "atlas.json")
+    if not os.path.isfile(man):
+        raise SystemExit("ktsite: no atlas at %s -- run harness/ktatlas.py" % adir)
+    plates = json.load(open(man, encoding="utf-8"))
+    figs = []
+    for pl in plates:
+        svg = read(os.path.join(adir, pl["name"] + ".svg"))
+        figs.append(f'<figure id="{html.escape(pl["name"])}">{svg}'
+                    f'<figcaption>{html.escape(pl["caption"])}</figcaption></figure>')
+    src = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "atlas.json"), encoding="utf-8"))
+    items = []
+    for e in src["events"]:
+        items.append(f"<li><b>{html.escape(e['date'])} · {html.escape(e['label'])}.</b> {linkify(html.escape(e['source']))}</li>")
+    for t in src["texts"]:
+        items.append(f"<li><b>{html.escape(t['name'])}, {html.escape(t['date'])}.</b> {linkify(html.escape(t['source']))}</li>")
+    for r in src["regions_1593"]:
+        items.append(f"<li><b>{html.escape(r['name'].title())}.</b> {linkify(html.escape(r['source']))}</li>")
+    tg = src["tongues"]
+    for k, lab in (("areas_source", "The language areas"), ("marks_source", "The confessions"),
+                   ("presses_source", "The presses"), ("glyphs_source", "The signs")):
+        items.append(f"<li><b>{lab}.</b> {linkify(html.escape(tg[k]))}</li>")
+    body = f"""
+<h1>Atlas</h1>
+{paras("atlas_lead", "lead")}
+<div class="atlas">{"".join(figs)}</div>
+<details class="atlas-src"><summary>Where every date and place on these plates was read</summary>
+<p>Coastlines, rivers and lakes are Natural Earth, public domain. The borders of 1593 and the language areas are drawn by hand from the standard accounts and are approximate; every plate that uses them says so. Wikipedia pages were read on 23 September 2026; the book's own sources are cited to the book and to the provenance file.</p>
+<ul>{"".join(items)}</ul></details>
+<div class="tlpop" id="tlpop" hidden><button type="button" aria-label="Close">×</button><b></b><i></i><p></p></div>
+<script>
+(function(){{
+  var pop=document.getElementById('tlpop');if(!pop)return;
+  var t=pop.querySelector('b'),dt=pop.querySelector('i'),tx=pop.querySelector('p');
+  function show(g,x,y){{
+    t.textContent=g.getAttribute('data-label')||'';var d=g.getAttribute('data-date')||'';dt.textContent=(d===t.textContent)?'':d;
+    tx.textContent=g.getAttribute('data-desc')||'';pop.hidden=false;
+    var w=pop.offsetWidth,h=pop.offsetHeight,L=Math.min(x+14,window.innerWidth-w-10),T=y+14;
+    if(T+h>window.innerHeight-10)T=y-h-14;if(T<10)T=10;if(L<10)L=10;
+    pop.style.left=L+'px';pop.style.top=T+'px';
+  }}
+  document.querySelectorAll('.atlas .ev').forEach(function(g){{
+    g.addEventListener('click',function(e){{e.stopPropagation();show(g,e.clientX,e.clientY)}});
+    g.addEventListener('keydown',function(e){{if(e.key==='Enter'||e.key===' '){{e.preventDefault();var r=g.getBoundingClientRect();show(g,r.left+r.width/2,r.top+r.height/2)}}}});
+  }});
+  document.addEventListener('click',function(e){{if(!pop.contains(e.target))pop.hidden=true}});
+  document.addEventListener('keydown',function(e){{if(e.key==='Escape')pop.hidden=true}});
+  pop.querySelector('button').addEventListener('click',function(){{pop.hidden=true}});
+}})();
+</script>
+"""
+    return shell("atlas", "Atlas",
+                 "Maps and timelines of the Rohonc Codex: Hungary in 1593, the tongues and faiths around Rohonc, where its stories were written and when, and the codex's own history from the paper to the present.",
+                 body)
+
+
 def page_sources():
     cites = citations()
     gloss = [str(x) for x in COPY["sources_cites"]]
@@ -1620,7 +1748,7 @@ def copy(src, dst):
 
 # The subtrees this program owns. Everything else under the site root -- book/,
 # plates/ -- is put there by another program and is never touched here.
-MANAGED = ("data", "code", "img")
+MANAGED = ("data", "code", "img", "atlas")
 
 
 def _files(root):
@@ -1755,6 +1883,12 @@ def _build(out, final):
     w("tests.html", page_tests(summary))
     w("sources.html", page_sources())
     w("finds.html", page_finds())
+    w("atlas.html", page_atlas())
+    # the atlas plates, as drawn: the SVGs the page inlines, and the PNGs for image search
+    adir = os.path.join(WORK, "atlas")
+    for fn in sorted(os.listdir(adir)):
+        if fn.endswith((".svg", ".png")):
+            copy(os.path.join(adir, fn), os.path.join(out, "atlas", fn))
     w("outside-gemini.html", page_outside("tests", "gemini_tests.md", "Outside review: Gemini 2.5 Pro"))
     w("outside-grok.html", page_outside("tests", "grok_tests.md", "Outside review: Grok 4.7"))
     w("data.html", page_data([]))

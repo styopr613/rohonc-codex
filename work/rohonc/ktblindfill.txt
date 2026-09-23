@@ -1,5 +1,3 @@
-  no answer for 221r: HTTP Error 403: Forbidden
-  no answer for 105r: HTTP Error 403: Forbidden
 TEST 14: THE BLIND ROTATED RUN, OUTSIDE READER
   reader deepseek/deepseek-v4-pro-0813; 40 folios, 20 real, 20 rotated by 17; seed 20260921
 

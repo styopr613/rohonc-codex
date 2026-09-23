@@ -156,7 +156,7 @@ supplied:
   material, pp. 430-432. In copyright; consulted at
   `https://epa.oszk.hu/01600/01609/00023/pdf/MFME_EPA01609_1978_1979_2_429-466.pdf`,
   not copied.
-- **The Romanian carols of Judas plundering paradise (*Iuda si pradarea
+- **The Romanian carols of Judas plundering paradise (*Iuda și prădarea
   raiului*).** Judas takes the little jug of wine, the throne, the sun and
   moon; a servant tells God. Nineteenth- and twentieth-century collections,
   read in the survey at
@@ -351,3 +351,44 @@ whether the multiple senses per code are an artefact of translating into
 English. They are not: see ROHONC.md. It is theirs, it is not republished
 here, and only derived statistics are reported.
 
+
+## 8. `data/geo/` and the atlas — 2026-09-23
+
+The maps on the site's Atlas page (`harness/ktatlas.py`, drawn through
+`harness/ktmapgen.py`, data in `harness/atlas.json`) stand on three files
+from Natural Earth, 1:50m: `ne_50m_land.geojson` (a link to the copy the
+Plaintext Classics plates already use), `ne_50m_rivers_lake_centerlines.geojson`
+and `ne_50m_lakes.geojson`, fetched once from
+`github.com/nvkelso/natural-earth-vector` at 1.5 seconds between requests.
+
+**Terms:** Natural Earth is public domain; no permission is needed and none
+is asked, but it is credited on every plate that uses it.
+
+**The borders and the language areas are not data.** The three-part Hungary
+of 1593 and the language areas around 1600 are rings of points placed by
+hand from the fortress lines and the standard accounts, smoothed into
+curves. They are approximate by construction and every plate that carries
+them says so on its face. Nobody should measure anything against them.
+
+**What the atlas read, and where.** Every event and every text on the plates
+carries a `source` line in `atlas.json`; `ktatlascheck.py` refuses an entry
+without one, and the Atlas page prints the whole list under the plates. The
+pages read on 2026-09-23, nothing copied, were the English and Hungarian
+Wikipedia articles on the codex (the Venetian paper of the 1530s, the 1743
+catalogue entry, the 1838 gift, the attempts from Toldy to Kiraly and Tokai,
+Nemati's count of 792 signs), on Rohonc / Rechnitz (the Croat settlement of
+1532, the 1839 date the Hungarian article gives for the gift, the town's
+passage to Austria in 1921), on Manlius Janos (the presses at Varasd,
+Monyorokerek, Nemetlovo, Sarvar and Keresztur), on the Long Turkish War,
+the Edict of Torda, the Burgenland Croats, the Romanian Cyrillic alphabet and
+Protestantism in Hungary (the 85-90% figure). Where the accounts disagree,
+the plate says so: 1838 against 1839 for the gift. Where a claim is at second
+hand, the plate says that too: the watermark study has not been seen here.
+
+**The signs on the tongues plate** are five entries from Kiraly and Tokai's
+dictionary, drawn from the outlines `ktsigns.py` took from their font
+(section 2b); the plate credits them and the glosses are theirs.
+
+**Fonts.** EB Garamond and Cinzel (both SIL Open Font License) were installed
+under `~/.fonts` on Rachel so the PNG proofs render in the same face the site
+uses; the SVGs name the family and the page supplies it.

@@ -1,30 +1,30 @@
 GATE 4b  the judgment step, scored against K&T's own dictionary
 
-  b33670ae0b20             miss  read 'disciple'   truth = sister; nun
+  b33670ae0b20             miss  read 'disciple'   truth = nun; sister
   5203c4                   HIT   read 'sin'   truth = sin; sinner
   520156520                miss  read 'sorrow (pain)'   truth = painful
   a12                      HIT   read 'eye'   truth = eye; sight
   804                      miss  read 'together (with)'   truth = lady; wife
-  4e3                      miss  read 'sick'   truth = have mercy; elongate one’s life
-  5201525209d1             (no reading committed)   truth = Carmel; <a hill where John the Baptist baptizes>
+  4e3                      miss  read 'sick'   truth = elongate one’s life; have mercy
+  5201525209d1             (no reading committed)   truth = <a hill where John the Baptist baptizes>; Carmel
   695                      miss  read 'sleep'   truth = strengthen
   5205f3a10670             miss  read 'pay'   truth = denarius
-  520ae0520                miss  read 'to (unto)'   truth = to afore; in front of; from before; before him; before
+  520ae0520                miss  read 'to (unto)'   truth = before; before him; from before; in front of; to afore
   520060962ae0             miss  read 'likewise'   truth = give back; regive
   540441962                HIT   read 'fish'   truth = fish
   145                      miss  read 'council'   truth = hire oneself out
   520460ae0                miss  read 'old age'   truth = Simeon
   5202d1                   miss  read 'witness'   truth = Stephen
   5201d3520                miss  read 'sign'   truth = lose
-  540362520                miss  read 'love'   truth = judge; destroy
+  540362520                miss  read 'love'   truth = destroy; judge
   1522818c0520             HIT   read 'James'   truth = James
   540444a10060             miss  read 'sign'   truth = kiss
-  5203f4                   miss  read 'Abraham'   truth = white; black
+  5203f4                   miss  read 'Abraham'   truth = black; white
   a10540ae0                miss  read 'day'   truth = accuse
   5400607b4881             miss  read 'husbandmen'   truth = vineyard worker
   6f3                      miss  read 'rod'   truth = stick
   2709d8                   miss  read 'enter'   truth = rest
-  5204c8                   miss  read 'hired servant'   truth = tasty; <adjective of bread>; fresh
+  5204c8                   miss  read 'hired servant'   truth = <adjective of bread>; fresh; tasty
 
   committed 24, blank 1
   recovered 4 of 24   16.7%

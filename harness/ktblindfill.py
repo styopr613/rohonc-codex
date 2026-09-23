@@ -39,7 +39,8 @@ BARS, declared before the run, not moved:
   fresh reader on the same evidence, and a fresh reader scored 16.7%
   strict on K&T's own words.
 
-    python3 ktblindfill.py            (replies cached under work/rohonc/outside/blindfill/)
+    python3 ktblindfill.py            (score the cached replies; no network)
+    python3 ktblindfill.py --refresh  (request replies that are not cached)
 """
 import json
 import math
@@ -178,6 +179,8 @@ def main(argv):
     json.dump({f: {"arm": a, "passage_of": s} for f, (a, s) in arms.items()},
               open(os.path.join(OUT, "manifest.json"), "w"), indent=1)
 
+    refresh = "--refresh" in argv
+
     def run(job):
         f, arm, src, gaps, prompt = job
         path = os.path.join(OUT, f"{f}.json")
@@ -188,6 +191,8 @@ def main(argv):
             except Exception:
                 pass
             os.remove(path)          # an empty reply (thinking budget spent) is fetched again
+        if not os.path.exists(path) and not refresh:
+            return f
         if not os.path.exists(path):
             try:
                 txt, usage = ktor.ask(MODEL, prompt)
@@ -281,4 +286,6 @@ def main(argv):
 
 
 if __name__ == "__main__":
+    import ktcwd
+    ktcwd.enter()
     sys.exit(main(sys.argv[1:]))
