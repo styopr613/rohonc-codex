@@ -71,7 +71,7 @@ WORK = os.path.join(ROOT, "work", "rohonc")
 TR = os.path.join(WORK, "translation")
 OUT_DEFAULT = "/var/www/oona13/rohonc"
 BG = "#0B0D10"   # the family's dark ground; the page is a sheet laid on it
-V = "20260921"
+V = "20260923"
 
 # The project's own working documents. They are DESCRIBED here; METHOD.md, the
 # standing orders, is also published whole at orders.html:
@@ -871,7 +871,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
 <div class="hero">
   <div class="blurb">{intro_html}
     <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
-      <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a>
+      <a href="/rohonc/book/the-rohonc-codex.epub" download>EPUB</a>
       <a href="https://www.amazon.com/dp/B0HKQCWV2S" rel="noopener">Read on Kindle</a></div>
     <p class="sz">All {nfolio} folios{pages_note} · the translation and the evidence in one volume.</p>
   </div>
@@ -1441,7 +1441,7 @@ def page_read():
     body = ("<h1>Read it here</h1>"
             + paras("read_lead", "lead")
             + '<p class="acts"><a class="go" href="/read/rohonc.php">Open the book</a> '
-              '<a href="/rohonc/book/the-rohonc-codex.epub">Download EPUB</a> '
+              '<a href="/rohonc/book/the-rohonc-codex.epub" download>Download EPUB</a> '
               '<a href="https://www.amazon.com/dp/B0HKQCWV2S" rel="noopener">Read on Kindle</a></p>'
             + spin_css(g) + spin_html(g) + SPIN_JS)
     return shell("read", "Read it here",

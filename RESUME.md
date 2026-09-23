@@ -32,6 +32,14 @@ precedents. What was done, all committed through ktcommit.sh and pushed:
   (`/var/www/oona13/read/rohonc.php`, `kindle` key; backup `.pre-kindle-20260923`)
   and the README's first line. Plain text "Read on Kindle", no logo.
 
+- **Download bug fixed (site).** Pressing Download EPUB killed every other button:
+  fam.js set its `navigating` flag and waited for a page that never came. Watchdog
+  added in `oona13/public/fam/fam.js` (backup `.pre-dlwatchdog-20260923`), the
+  site's EPUB anchors carry `download`, include bumped to `fam.js?v=20260923`,
+  Cloudflare purged. Gate `harness/ktdownloadgate.js` (needs live site + Playwright
+  from character-playground/node_modules): FAILED before, PASSES after, also with
+  `STRIP=1`. Written up in `oona13/OONA13.md`.
+
 **Open:** the Kindle file on Amazon is the 03:40 build of 2026-09-23 and is
 now BEHIND the shelf by five notes and the 006r correction. Re-upload from
 the shelf when the notes settle. The paperback and Zenodo items below still
