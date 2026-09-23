@@ -223,7 +223,8 @@ last three "Translate" commits; read their diffs to see what a batch is.
         > note naming the source verse, if any
 
 - `work/rohonc/translation/rohonc_reading_plus.txt` — the book rendered with
-  our readings applied (`+word` tiers A/B, `?word` tiers C/D, `[?]` unread).
+  this project's readings applied (`+word` tiers A/B, `?word` tiers C/D, `[?]`
+  unread).
   Regenerate with `python3 kttranslate.py` after any change to
   `proposals.json`. Its output is byte-reproducible; if two runs differ, a
   set is being iterated somewhere and that is a bug.
@@ -318,7 +319,7 @@ last three "Translate" commits; read their diffs to see what a batch is.
 
 A single clear contradicting occurrence drops the tier. Do not argue it away.
 
-## What burned us, so you do not do it again
+## What cost the most time, so you do not repeat it
 
 - **Blast radius.** A short piece enters the cut of every word containing
   it. `540` read as *shall* had 4 tokens of its own and fed 55 words, 99
@@ -414,7 +415,7 @@ language-independent; that is a use, not a disguise. Say "probably".
 Plain English to the user, short sentences, no tables in chat. No
 subagents. Never `rm` a glob; backups `.pre`/`.post`, never reuse a name.
 Credit Király & Tokai for the dictionary, transcription and grammar; the
-readings in `proposals.json` and the translation are ours and say so. Fetch
+readings in `proposals.json` and the translation are this project's and say so. Fetch
 at 1.5s intervals. Private for now.
 
 ## A reading of this project's own was wrong, and the instrument that caught it
@@ -424,11 +425,11 @@ level of whole glyphs and reports the pairs one glyph apart. On its first run
 it did not only find new words. It found that five signs this project had
 read as **child** are one glyph from K&T's `5400609a2670690`, which they read
 as *a little while; little* -- and that their form stands two lines above
-ours on the same folio, modifying the same phrase:
+this project's on the same folio, modifying the same phrase:
 
     084r:10  find one LITTLE son-of-God on-shore this        <- K&T's sign
     084r:11  sit son-of-God LITTLE                           <- K&T's sign
-    084v:1   and then holy-Augustine this CHILD son-of-God   <- ours, wrong
+    084v:1   and then holy-Augustine this CHILD son-of-God   <- this project's, wrong
     089v:6   Lazarus LITTLE finger immerge water and cool    <- K&T's sign
 
 089v:6 is Douay Luke 16:24, *that he may dip the TIP of his finger in water*.

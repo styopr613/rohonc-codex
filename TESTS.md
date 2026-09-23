@@ -598,7 +598,7 @@ What moved:
     1      C+D signs / sigma              37 / 6.2   32 / 5.6
     5      readings excluded as circular      583        581
     6      A+B gain / sigma               +73 / 6.9  +68 / 7.1
-    7      read from ours alone            11.9%      11.6%
+    7      read from this project alone    11.9%      11.6%
     7      recovery sigma, ten shuffles      4.4        8.4
     7      recovery sigma, hundred shuffles    —       10.3
     8      passage sigma (absolute)     33.9 (8.4%) 37.6 (6.1%)
@@ -626,7 +626,7 @@ says so where it quotes them.
     Test 6  | word order, held-out folios | A+B 7.1 sigma | PASS
     Test 2  | part of speech from context | the instrument fails on K&T's own words (68.3% against a needed 70%; 4.7 sigma against a needed 5); the readings were never scored | NO VERDICT
     Test 3  | the blindfold, run clean | 4 of 24 strict, 16.7%; the declared band for that result was 15-30%, and its declared consequence, tier C passage readings become tier D, was applied | IN BAND
-    Test 7  | K&T's words removed | reads 11.6% from ours alone, by design: the readings extend the dictionary. Recovery of a hidden K&T word: 10.3 sigma against a declared 5, on a hundred-shuffle control; the ten-shuffle runs gave 4.4 before the variant fix and 8.4 after, and all three are kept | PASS
+    Test 7  | K&T's words removed | reads 11.6% from this project's readings alone, by design: the readings extend the dictionary. Recovery of a hidden K&T word: 10.3 sigma against a declared 5, on a hundred-shuffle control; the ten-shuffle runs gave 4.4 before the variant fix and 8.4 after, and all three are kept | PASS
     Test 8  | bootstrap from a random 30% | passage 37.6 sigma (6.1% absolute); recovery 15.3 sigma (1.0% absolute) | PASS
     Test 9  | hidden 70% validated by the 30% | A+B 6.9 sigma; 115% of K&T's own rate | PASS
 
@@ -635,7 +635,7 @@ says so where it quotes them.
     Test 10 | the search replayed on null books | 7 / 215 / 2 signs kept at three scales; the count rule has no power at any, so it cannot tell a search from a decipherment | NO VERDICT
     Test 10, held out | the same runs, scored where the readings were not derived | real book 8 sigma over shuffle; null books none | reported, not a verdict
     Test 12 | Test 5 rescored under the strict rule | 73.7%, 8.4 sigma; but +22.9 points over K&T's own headwords trips the declared leakage clause | FAIL on that clause
-    Test 12b | two independent re-glossers, Gemini 2.5 Pro and Grok 4.7 | given K&T's words only and the sign blanked, they recover our gloss 68.4% and 71.1% of the time | PASS
+    Test 12b | two independent re-glossers, Gemini 2.5 Pro and Grok 4.7 | given K&T's words only and the sign blanked, they recover this project's gloss 68.4% and 71.1% of the time | PASS
     Test 13 | the underdetermination census | 61 of 94 A/B readings have a common verb present in every chapter their folios cite, against a bar of 40% | FAIL
     Test 13, the same rule | applied to the chosen glosses | 0 of the 94 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did | reported, not a verdict
     Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS

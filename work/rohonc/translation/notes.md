@@ -245,7 +245,7 @@ Five signs on these folios had been read by this project as *child*. A sweep
 comparing every unread sign against every sign Kiraly and Tokai read, one
 glyph at a time, found that all five are one glyph from their sign glossed
 "a little while; little", and that their spelling of it stands two lines above
-ours on the same folio at 084r:10. All five were changed.
+this edition's on the same folio at 084r:10. All five were changed.
 source: 084r:10, 084r:11, 084v:1; K&T entry glossed "a little while; little";
 proposals.json
 

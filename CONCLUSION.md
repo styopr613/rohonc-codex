@@ -149,7 +149,7 @@ passages had walked past:
 first thing it found was an error here. Five signs had been read as *child*
 from the story on the folio -- Augustine and the boy by the sea. They are one
 glyph from K&T's `5400609a2670690`, *a little while; little*, whose form stands
-two lines above ours on the same folio modifying the same phrase, and which
+two lines above this project's on the same folio modifying the same phrase, and which
 gives *the tip of his finger* at Luke 16:24. All five were corrected to
 *little*. Three more of this project's readings went the same way in the same
 pass: *evil* twice to **serpent**, *remain* twice to **whom** (both lines have

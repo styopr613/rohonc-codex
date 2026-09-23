@@ -300,6 +300,14 @@ def annotate(body, part="p"):
 _APPENDIX_FROM = "## How it was checked"
 
 
+# THE FIGURES TABLE, AND KINDLE. Every row carries the same number of cells and no
+# cell is ever left to serialise as a self-closing <td/>. The total row had two cells
+# where the rest had three and the empty one came out as <td class="num"/>; Kindle
+# converts an EPUB into its own format before it draws anything, and a ragged row and
+# a self-closed non-void element are two of the things that survive that trip worst.
+# Reported by the owner as a dark mark, like a symbol, under the last row on the left.
+# There is no Kindle renderer on this box, so this is the conservative shape and not a
+# verified fix. Keep the &#160; in the empty cell. (2026-09-23)
 def _intro_all():
     g = figures()
     # ktverify imports this module, so it is imported here and not at the top.
@@ -341,13 +349,13 @@ models assembled the gloss and composed the translation. Every
 figure in this book comes from a program that can be rerun, and where any of
 this went wrong it is written down with the number it went wrong by.
 
-**We found one external test to validate the signal.** Everything in this book is read from Kiraly and
+**One test is not this project's own, and the reading rests on it.** Everything in this book is read from Kiraly and
 Tokai's transcription, so no test of this project's could catch an error in it.
 An anonymous transcription of the codex published in 2014 -- a different
 person, a different glyph alphabet, no word division, four years earlier --
 agrees with it on 91.1% of the glyphs that can be compared, against 12.9% for
 the same rows paired at random, and on 83.8% of the words this edition reads.
-Our understanding is the two share no common root but the book. That
+The two are taken to share no common root but the book. That
 independence is inferred from what the two documents are, not established: the
 2014 author is anonymous and what they worked from cannot be audited. It is
 the weight-bearing assumption of this check and it is stated as an assumption.
@@ -396,7 +404,7 @@ gap or an unreadable glyph in the transcription.
 ## What this book is worth, in numbers
 
 <table>
-<tr><td><strong>words in the manuscript</strong></td><td class="num"><strong>""" + _n(g["words"][0]) + """</strong></td></tr>
+<tr><td><strong>words in the manuscript</strong></td><td class="num"><strong>""" + _n(g["words"][0]) + """</strong></td><td class="num">&#160;</td></tr>
 <tr><td>read</td><td class="num">""" + _n(g["read"][0]) + '</td><td class="num">' + g["read"][1] + """%</td></tr>
 <tr><td>read from one passage</td><td class="num">""" + _n(g["soft"][0]) + '</td><td class="num">' + g["soft"][1] + """%</td></tr>
 <tr><td>restored, in brackets</td><td class="num">""" + _n(g["rest"][0]) + '</td><td class="num">' + g["rest"][1] + """%</td></tr>
@@ -496,7 +504,8 @@ Five signs had been read as *child*, from a page about Saint Augustine and a
 boy on a beach. A mechanical sweep for signs one glyph away from a sign the
 dictionary already reads found that all five are Kiraly and Tokai's own sign
 for *a little while; little* — and that their spelling of it stands two lines
-above ours on the same page. All five were wrong and all five were changed. A
+above this edition's on the same page. All five were wrong and all five were
+changed. A
 story that fits is not evidence, and when the story and the dictionary
 disagree, the dictionary wins.
 
