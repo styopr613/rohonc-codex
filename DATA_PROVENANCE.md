@@ -116,6 +116,55 @@ of Jerusalem, Vespasian and Titus, and the mother who eats her child.
 
 Both were fetched once, at one request, with the project's user agent.
 
+## 6. Sources consulted for the endnotes, 2026-09-23 -- read, not fetched
+
+Three endnotes in Book One (on 004r, 004v and 002r) name texts outside the
+corpus. None was downloaded into `data/ref/`; each was read online once, at
+the address below, and is cited in the note by chapter or page. Nothing from
+any of them is reproduced. What each supplied:
+
+- **The Slavonic Book of Enoch (2 Enoch).** The angel Vereveil dictates and
+  Enoch writes 360 books (chapters 22-23). Survives only in Church Slavonic,
+  over twenty manuscripts, 14th to 18th century. R. H. Charles's 1913 volume
+  already on the shelf (section 5) prints it, but only the Adam and Eve pages
+  of that volume are indexed. Read from the Wikipedia summary,
+  `https://en.wikipedia.org/wiki/2_Enoch`.
+- **The Apocalypse of Elijah.** Opens "The word of the Lord came to me" and
+  ends with Enoch and Elijah killed by the Antichrist and raised (4:7-19).
+  Coptic, third or fourth century. English text read at
+  `https://www.abrahamicstudyhall.org/2026/03/15/the-apocalypse-of-elijah-apocrypha-1-elijah/`.
+- **Lajos Kalmany, *Vilagunk alakulasai nyelvhagyomanyainkban* (Szeged,
+  1893).** Folk tellings from villages near Szeged: Elijah at the fall of the
+  angels, Lucifer's war at the making of man, Elijah and Enoch taken up.
+  Public domain; the PDF is at `https://mek.oszk.hu/06900/06953/`, p. 29.
+- **Sandor Balint, "Nepi kozmogonia, termeszetismeret", *A Mora Ferenc
+  Muzeum Evkonyve* 1978/79-2, 429-466.** Restates and extends Kalmany's
+  material, p. 431. In copyright; consulted at
+  `https://epa.oszk.hu/01600/01609/00023/pdf/MFME_EPA01609_1978_1979_2_429-466.pdf`,
+  not copied.
+- **The Romanian carols of Judas plundering paradise (*Iuda si pradarea
+  raiului*).** Judas takes the little jug of wine, the throne, the sun and
+  moon; a servant tells God. Nineteenth- and twentieth-century collections,
+  read in the survey at
+  `https://www.crestinortodox.ro/craciun/obiceiuri-craciun/iuda-pradarea-raiului-colindele-traditionale-romanesti-122000.html`.
+- **The Slavonic apocryphon of Michael and Satanael.** Bulgarian, 11th or
+  12th century; Satanael's throne above the seventh heaven, Michael sent
+  twice. Read from the abstract of a 2017 Humboldt thesis on its Romanian
+  version (academia.edu 43677889) and Nikolai Rainov's Bulgarian retelling
+  at `https://www.otizvora.com/2013/02/5331/nikolaj-rajnov-satanailovo-tsarst/`.
+  The full editions (Miltenova 1981, 1983) were not reachable from here.
+- **The Wartburgkrieg and the Grail.** Recorded as a trap: the 13th-century
+  poem has a stone falling from Lucifer's crown; the cup was added by Albert
+  Schulz ("San Marte") in 1832. Read at
+  `https://www.jasoncolavito.com/the-holy-grail-as-lucifers-crown-jewel.html`.
+- **Carmelite tradition on John and Carmel.** *Catholic Encyclopedia* (1908),
+  "The Carmelite Order", `https://www.newadvent.org/cathen/03354a.htm`, public
+  domain; and the Order's own page on the legend of the Holy Family and the
+  hermits at Elijah's well, `https://ocarm.org/en/item/4443-with-mary-the-mother-of-jesus`.
+- **Suarez, *De Angelis* VII.13, and Mary of Agreda, *Mystical City of God*
+  (1670).** Cited at second hand for the angels' test in its Franciscan and
+  its narrated forms; neither was read in the original.
+
 ## Citations owed in any write-up
 
 - Levente Zoltán Király and Gábor Tokai, "Cracking the code of the Rohonc
@@ -127,6 +176,8 @@ Both were fetched once, at one request, with the project's user agent.
 - Benedek Láng, *The Rohonc Code: Tracing a Historical Riddle*, Penn State
   Press, 2021.
 - The anonymous author of the 2014 open transcription.
+- Lajos Kálmány (1893) and Sándor Bálint (1978/79), for the Szeged folk
+  tellings three endnotes cite.
 
 ## 4. `data/ref/rohonc/` — the wider reference corpus, 2026-09-20
 
@@ -177,7 +228,7 @@ so one edition per work is included.
 The corpus did not rescue the method: 13% in the top five against the same 30%
 bar, versus 15% on the gospels alone.
 
-## 5. Kiraly & Tokai's Hungarian dictionary
+## 7. Kiraly & Tokai's Hungarian dictionary
 
 `data/rohonc/kt/dict_hu.json`, fetched 2026-09-20 from
 `http://rechnitzer-kodex.hu/api/GetDictionary/hu`, one request, same user
