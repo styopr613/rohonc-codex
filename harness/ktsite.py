@@ -1284,10 +1284,13 @@ def page_method():
 # themselves, so a new trim or spine changes the box without touching this.
 # No `filter` anywhere on the rotating subtree: a filter makes a containing
 # block and flattens preserve-3d into a card. The floor ellipse is the shadow.
-# THE SHADING IS FOR A LIGHT JACKET. The home page's values (black at .42-.52
-# on the crease and spine edges, white .24 on the hinge) were tuned on OONA's
-# dark cover; on this cream one they printed as grey and white stripes. Warm
-# ink at a quarter of the weight reads as a rounded spine instead.
+# THE SPINE IS LIT THE WAY THE STUDIO'S SNAPSHOT LIGHTS IT. Cover Maker's
+# book3d.py draws no curl and no gradient: each face is a flat tone, the spine
+# 0.82 of the front. That is the render on the hero. The home page's and Book
+# Maker's ridge gradient (black .5 at the edges, a white band at the centre,
+# stops in percent) is invisible on their dark art and paints stripes on a
+# blank cream spine twice as wide; tried at full weight and at a quarter on
+# 2026-09-23, both wrong. Now: a flat .18 over the spine and a 7px edge.
 SPIN_FACES = ("front", "back", "spine")
 
 
@@ -1310,28 +1313,28 @@ def spin_css(g):
   cursor:grab;touch-action:pan-y;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}}
 .book3d-scene:hover .book3d,.book3d-scene:focus-within .book3d{{animation-play-state:paused}}
 .book3d img{{pointer-events:none;-webkit-user-drag:none;width:100%;height:100%;object-fit:cover;display:block}}
-.book3d.is-manual{{animation:none;transform:rotateZ(-2deg) rotateX(7deg) rotateY(var(--spin,0deg))}}
+.book3d.is-manual{{animation:none;transform:rotateZ(-3deg) rotateX(8deg) rotateY(var(--spin,0deg))}}
 .book3d.is-grabbed{{cursor:grabbing}}
 .book3d:focus-visible{{outline:2px solid var(--rub);outline-offset:14px}}
-@keyframes book3d-spin{{from{{transform:rotateZ(-2deg) rotateX(7deg) rotateY(0deg)}}to{{transform:rotateZ(-2deg) rotateX(7deg) rotateY(360deg)}}}}
+@keyframes book3d-spin{{from{{transform:rotateZ(-3deg) rotateX(8deg) rotateY(0deg)}}to{{transform:rotateZ(-3deg) rotateX(8deg) rotateY(360deg)}}}}
 .book3d .face{{position:absolute;backface-visibility:hidden}}
 .book3d .b-front,.book3d .b-back{{inset:0;overflow:hidden;background:#e8dcc4}}
-.book3d .b-front{{transform:translateZ(var(--bth));border-radius:2px 6px 6px 2px}}
-.book3d .b-back{{transform:rotateY(180deg) translateZ(var(--bth));border-radius:6px 2px 2px 6px}}
+.book3d .b-front{{transform:translateZ(var(--bth));border-radius:2px 7px 7px 2px}}
+.book3d .b-back{{transform:rotateY(180deg) translateZ(var(--bth));border-radius:7px 2px 2px 7px}}
 .book3d .b-front::after,.book3d .b-back::after{{content:'';position:absolute;inset:0;border-radius:inherit;pointer-events:none}}
-.book3d .b-front::after{{background:linear-gradient(90deg,rgba(60,45,25,.22) 0,rgba(60,45,25,.06) 3%,rgba(255,255,255,.10) 6%,rgba(255,255,255,0) 11%,rgba(0,0,0,0) 90%,rgba(60,45,25,.07) 100%)}}
-.book3d .b-back::after{{background:linear-gradient(270deg,rgba(60,45,25,.22) 0,rgba(60,45,25,.06) 3%,rgba(255,255,255,.10) 6%,rgba(255,255,255,0) 11%,rgba(0,0,0,0) 90%,rgba(60,45,25,.07) 100%)}}
-.book3d .b-spine{{top:0;left:0;width:var(--bt);height:100%;transform:translateX(calc(var(--bth)*-1)) rotateY(-90deg);border-radius:2px;overflow:hidden;background:#e8dcc4}}
-.book3d .b-spine::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(60,45,25,.24) 0,rgba(60,45,25,0) 24%,rgba(255,255,255,.08) 50%,rgba(60,45,25,0) 76%,rgba(60,45,25,.24) 100%)}}
+.book3d .b-front::after{{background:linear-gradient(90deg,rgba(0,0,0,.30) 0,rgba(0,0,0,.10) 6px,rgba(255,255,255,.12) 14px,rgba(255,255,255,0) 30px,rgba(0,0,0,0) calc(100% - 20px),rgba(0,0,0,.08) 100%)}}
+.book3d .b-back::after{{background:linear-gradient(270deg,rgba(0,0,0,.30) 0,rgba(0,0,0,.10) 6px,rgba(255,255,255,.12) 14px,rgba(255,255,255,0) 30px,rgba(0,0,0,0) calc(100% - 20px),rgba(0,0,0,.08) 100%)}}
+.book3d .b-spine{{top:0;left:0;width:var(--bt);height:100%;transform:translateX(calc(var(--bth)*-1)) rotateY(-90deg);border-radius:3px;overflow:hidden;background:#e8dcc4}}
+.book3d .b-spine::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(0,0,0,.30) 0,rgba(0,0,0,0) 7px,rgba(0,0,0,0) calc(100% - 7px),rgba(0,0,0,.30) 100%),linear-gradient(rgba(0,0,0,.18),rgba(0,0,0,.18))}}
 .book3d .b-pages,.book3d .b-head{{background-color:#f6f1e4}}
 .book3d .b-pages{{top:2px;right:0;width:var(--bt);height:calc(100% - 4px);transform:translateX(var(--bth)) rotateY(90deg);background-image:repeating-linear-gradient(90deg,#f6f1e4 0 2px,#d9cfb8 2px 3px)}}
 .book3d .b-pages::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(74,58,32,.30) 0,rgba(74,58,32,.08) 30%,rgba(74,58,32,.10) 70%,rgba(74,58,32,.32) 100%)}}
 .book3d .b-head{{top:0;left:2px;width:calc(100% - 4px);height:var(--bt);transform:translateY(calc(var(--bth)*-1)) rotateX(90deg);background-image:repeating-linear-gradient(0deg,#f6f1e4 0 2px,#ddd4bf 2px 3px)}}
 .book3d .b-head::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(74,58,32,.10),rgba(74,58,32,.22))}}
-.book3d-floor{{width:var(--bw);height:calc(var(--bw)*.085);margin:calc(var(--bw)*-.02) auto 0;border-radius:50%;background:radial-gradient(closest-side,rgba(0,0,0,.42),rgba(0,0,0,.12) 55%,transparent)}}
+.book3d-floor{{width:var(--bw);height:calc(var(--bw)*.085);margin:calc(var(--bw)*-.02) auto 0;border-radius:50%;background:radial-gradient(closest-side,#00000045,#00000018 55%,transparent)}}
 .book3d-note{{text-align:center;color:var(--soft);font-style:italic;font-size:15.5px;margin:0 0 1.6em}}
 @media(max-width:700px){{.book3d-scene{{--bw:220px}}}}
-@media(prefers-reduced-motion:reduce){{.book3d{{animation:none;transform:rotateZ(-2deg) rotateX(7deg) rotateY(-26deg)}}}}
+@media(prefers-reduced-motion:reduce){{.book3d{{animation:none;transform:rotateZ(-3deg) rotateX(8deg) rotateY(-26deg)}}}}
 </style>"""
 
 
