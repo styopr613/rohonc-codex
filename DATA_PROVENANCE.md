@@ -118,8 +118,8 @@ Both were fetched once, at one request, with the project's user agent.
 
 ## 6. Sources consulted for the endnotes, 2026-09-23 -- read, not fetched
 
-Four endnotes in Book One (on 004r, 004v, 002r and 006r) name texts outside
-the corpus. None was downloaded into `data/ref/`; each was read online once, at
+Five endnotes in Book One (on 004r, 004v, 002r, 006r and 223v) name texts
+outside the corpus. None was downloaded into `data/ref/`; each was read online once, at
 the address below, and is cited in the note by chapter or page. Nothing from
 any of them is reproduced. What each supplied:
 
@@ -169,6 +169,12 @@ any of them is reproduced. What each supplied:
   the Teleki codex (1525-31) and the Debreceni codex (1519), which were not
   reachable themselves. Read at
   `https://magyar-irodalom.elte.hu/arianna/plaustrum/01LBoriD.html`.
+- **Sanhedrin 97a and Carion's Chronicle.** The "prophecy of Elias": six
+  thousand years, in three spans of two thousand. The Talmud read at
+  `https://www.sefaria.org/Sanhedrin.97a.14-97b.1`; Melanchthon's use of it
+  in the 1532 chronicle from `https://en.wikipedia.org/wiki/Three_Eras` and
+  `https://en.wikipedia.org/wiki/Johann_Carion`. The chronicle itself was not
+  read.
 
 ## Citations owed in any write-up
 

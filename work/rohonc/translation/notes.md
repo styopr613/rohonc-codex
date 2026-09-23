@@ -447,3 +447,21 @@ on his grave. The Erdy codex (1526-27) follows that; the Teleki codex
 sends Seth for the oil of mercy and has Michael refuse it until the end of
 time.
 source: K&T entries for the signs glossed "branch or seedling or seed", "light" (b), "heal" (III) and "place" (b, expr. immediately); 006r:1-3, 9-11; Caxton's Golden Legend, The Invention of the Holy Cross; Latin Life of Adam and Eve 40-42; Erdy-kodex, Teleki-kodex, as quoted in "Adam es a keresztfa" (ELTE, magyar-irodalom.elte.hu)
+
+## anchor: «Master, when will judgment day come?» (223v)
+
+The answer stands on the next leaf, 222r:2-4: "in turn, [?], out, [after]
+two thousand, this is ... one day, and ... judgment year, because the new Son
+of God judges." "Two thousand" is a numeral by Kiraly and Tokai's composition
+rule, two strokes and their thousand sign with the year ending, and the same
+word is read at 215r:4, "two thousand years since Abraham died". "Out" is the
+word 223v:1-2 uses for the 1,560 years run since the Ascension. "After" is
+this edition's, tier G, and the sign before "out" is unread; what the two
+thousand are counted from is not on the leaf. From the Nativity that is the
+year 2000; from the Ascension, the epoch 223v counts from, it is 2033. The
+Talmud, Sanhedrin 97a, has the school of Elijah teach that the world lasts six
+thousand years: two thousand of chaos, two thousand of the Law, two thousand
+of the Messiah. Melanchthon put that scheme at the head of Carion's Chronicle
+in 1532. The book's own 5,199 years to the Nativity would put six thousand in
+the year 801, so its count is the last two thousand of the three.
+source: 222r:2-4, 223v:1-2, 223v:13, 215r:4; proposals.json 060060990990990971ae1 tier A, 531ae0b14ae0 tier G; Sanhedrin 97a; Melanchthon, Chronicon Carionis (1532)
