@@ -1321,12 +1321,21 @@ def spin_css(g):
 </style>"""
 
 
+def _v(name):
+    """A content stamp on the face URLs. Cloudflare caches images by extension
+    and served the previous jacket for hours after the faces were re-cut on
+    2026-09-23; a new file must get a new URL."""
+    import hashlib
+    return hashlib.sha256(open(os.path.join(WORK, name), "rb").read()).hexdigest()[:8]
+
+
 def spin_html(g):
+    v = {f: _v(f"spin-{f}.webp") for f in SPIN_FACES}
     return f"""<div class="book3d-scene">
   <div class="book3d" id="book3d" tabindex="0" role="img" aria-label="The Rohonc Codex paperback, turning. Drag it, or use the left and right arrow keys, to turn it yourself.">
-    <div class="face b-front"><img draggable="false" src="/rohonc/img/spin-front.webp" width="{g['fw']}" height="{g['fh']}" alt="The Rohonc Codex, front cover"></div>
-    <div class="face b-back" aria-hidden="true"><img draggable="false" src="/rohonc/img/spin-back.webp" width="{g['fw']}" height="{g['fh']}" alt=""></div>
-    <div class="face b-spine" aria-hidden="true"><img draggable="false" src="/rohonc/img/spin-spine.webp" width="{g['sw']}" height="{g['sh']}" alt=""></div>
+    <div class="face b-front"><img draggable="false" src="/rohonc/img/spin-front.webp?v={v['front']}" width="{g['fw']}" height="{g['fh']}" alt="The Rohonc Codex, front cover"></div>
+    <div class="face b-back" aria-hidden="true"><img draggable="false" src="/rohonc/img/spin-back.webp?v={v['back']}" width="{g['fw']}" height="{g['fh']}" alt=""></div>
+    <div class="face b-spine" aria-hidden="true"><img draggable="false" src="/rohonc/img/spin-spine.webp?v={v['spine']}" width="{g['sw']}" height="{g['sh']}" alt=""></div>
     <div class="face b-pages" aria-hidden="true"></div>
     <div class="face b-head" aria-hidden="true"></div>
   </div>
