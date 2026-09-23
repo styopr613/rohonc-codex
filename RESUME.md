@@ -1,5 +1,18 @@
 # Where this stopped — 2026-09-23
 
+## RELEASE v1.4.0 — 2026-09-23, 22:13 UTC
+
+https://github.com/styopr613/rohonc-codex/releases/tag/v1.4.0. Note: every
+result-bearing test repeatable (`harness/reproduce_tests.py`, GPT's work,
+20/20 saved runs replayed exactly under two hash seeds, verified here in
+5m40s before tagging); Test 6 moved 7.1 -> 8.2 sigma on replay, PASS both
+ways; the Atlas; the footer links. Book unchanged since v1.3.0 (EPUBCheck
+rerun: 0/0/0). GPT's commit had been swept into the Atlas commit f97f327 by
+ktcommit's `git add -A`; both went up together. Version rule applied: a
+figure moved = v1.x.0; ktatlascheck gates the atlas, not the method, so not
+v2. Zenodo: check the concept DOI shows v1.4.0 (v1.2.x lagged an hour+).
+Open: Kindle file behind the shelf EPUB (sha256 917a01de4f73fc4b).
+
 ## THE ATLAS — 2026-09-23, evening
 
 The owner asked for maps and timelines, "natgeo style", on their own menu
