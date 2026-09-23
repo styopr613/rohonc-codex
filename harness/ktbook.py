@@ -364,6 +364,11 @@ published to be checked. As of now, the tests, for what they are, find it
 internally consistent. Tests and all programs and documents can be found in
 the repository at
 [github.com/styopr613/rohonc-codex](https://github.com/styopr613/rohonc-codex).
+The book's own site is [oona13.com/rohonc](https://oona13.com/rohonc/): the
+whole reading free to read there, every folio beside its page of the
+manuscript with each sign and what it is read as, the dictionary, the tests,
+the sources, and a page of what the sources turned up. What is added after
+this printing goes there first.
 
 **The book is in two parts.** Book Two is the gloss: the manuscript folio by
 folio and line by line, each sign rendered by Kiraly and Tokai's dictionary
@@ -826,7 +831,11 @@ years before this book. The book's own 5,199 years to the Nativity would put
 six thousand in the year 801, so its two thousand cannot be the whole count;
 it is the last span of the three, and the book is counting to its end. That is
 as far as the leaf goes. It does not say 2033. It says two thousand, and the
-reader chooses where to start counting."""},
+reader chooses where to start counting.
+
+Finds after this printing are added to the same page on the book's site,
+[oona13.com/rohonc/finds.html](https://oona13.com/rohonc/finds.html), where
+the folios themselves can be read sign by sign."""},
         {"type": "appendix", "pos": 6, "title": "References for the endnotes",
          "text": note_references()},
         {"type": "appendix", "pos": 7, "title": "Acknowledgment",
