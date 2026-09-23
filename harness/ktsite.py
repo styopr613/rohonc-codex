@@ -1284,6 +1284,10 @@ def page_method():
 # themselves, so a new trim or spine changes the box without touching this.
 # No `filter` anywhere on the rotating subtree: a filter makes a containing
 # block and flattens preserve-3d into a card. The floor ellipse is the shadow.
+# THE SHADING IS FOR A LIGHT JACKET. The home page's values (black at .42-.52
+# on the crease and spine edges, white .24 on the hinge) were tuned on OONA's
+# dark cover; on this cream one they printed as grey and white stripes. Warm
+# ink at a quarter of the weight reads as a rounded spine instead.
 SPIN_FACES = ("front", "back", "spine")
 
 
@@ -1315,10 +1319,10 @@ def spin_css(g):
 .book3d .b-front{{transform:translateZ(var(--bth));border-radius:2px 6px 6px 2px}}
 .book3d .b-back{{transform:rotateY(180deg) translateZ(var(--bth));border-radius:6px 2px 2px 6px}}
 .book3d .b-front::after,.book3d .b-back::after{{content:'';position:absolute;inset:0;border-radius:inherit;pointer-events:none}}
-.book3d .b-front::after{{background:linear-gradient(90deg,rgba(0,0,0,.42) 0,rgba(0,0,0,.16) 2.6%,rgba(255,255,255,.24) 6%,rgba(255,255,255,0) 11%,rgba(0,0,0,0) 90%,rgba(0,0,0,.16) 100%)}}
-.book3d .b-back::after{{background:linear-gradient(270deg,rgba(0,0,0,.42) 0,rgba(0,0,0,.16) 2.6%,rgba(255,255,255,.22) 6%,rgba(255,255,255,0) 11%,rgba(0,0,0,0) 90%,rgba(0,0,0,.16) 100%)}}
+.book3d .b-front::after{{background:linear-gradient(90deg,rgba(60,45,25,.22) 0,rgba(60,45,25,.06) 3%,rgba(255,255,255,.10) 6%,rgba(255,255,255,0) 11%,rgba(0,0,0,0) 90%,rgba(60,45,25,.07) 100%)}}
+.book3d .b-back::after{{background:linear-gradient(270deg,rgba(60,45,25,.22) 0,rgba(60,45,25,.06) 3%,rgba(255,255,255,.10) 6%,rgba(255,255,255,0) 11%,rgba(0,0,0,0) 90%,rgba(60,45,25,.07) 100%)}}
 .book3d .b-spine{{top:0;left:0;width:var(--bt);height:100%;transform:translateX(calc(var(--bth)*-1)) rotateY(-90deg);border-radius:2px;overflow:hidden;background:#e8dcc4}}
-.book3d .b-spine::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(0,0,0,.52) 0,rgba(0,0,0,0) 26%,rgba(255,255,255,.13) 50%,rgba(0,0,0,0) 74%,rgba(0,0,0,.52) 100%)}}
+.book3d .b-spine::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(60,45,25,.24) 0,rgba(60,45,25,0) 24%,rgba(255,255,255,.08) 50%,rgba(60,45,25,0) 76%,rgba(60,45,25,.24) 100%)}}
 .book3d .b-pages,.book3d .b-head{{background-color:#f6f1e4}}
 .book3d .b-pages{{top:2px;right:0;width:var(--bt);height:calc(100% - 4px);transform:translateX(var(--bth)) rotateY(90deg);background-image:repeating-linear-gradient(90deg,#f6f1e4 0 2px,#d9cfb8 2px 3px)}}
 .book3d .b-pages::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(74,58,32,.30) 0,rgba(74,58,32,.08) 30%,rgba(74,58,32,.10) 70%,rgba(74,58,32,.32) 100%)}}
