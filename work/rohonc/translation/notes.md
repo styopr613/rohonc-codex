@@ -13,13 +13,22 @@ this edition is a restoration and is counted as read nowhere.
 ## anchor: «God's angel to Elijah the prophet» (008v)
 
 The angel speaks to Elijah and Elijah writes it down: the frame stands at
-004v, 002r, 001r, 007v, 008r and 008v, and comes back at 132v and 133r. No
-source for it has been found in the Life of Adam and Eve, the Gospel of
-Nicodemus, the Golden Legend or the gospels; the Life of Adam and Eve is told
-by Seth, not to Elijah. The same book puts the baptism on Carmel, Elijah's
-mountain, at 024r, 189r and 195r, against Matthew 3:13 and Mark 1:9, and has
-John preach there at 116v.
-source: 004v:1, 008v, 132v, 024r, 116v:8, 189r:6, 195r; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18; Latin Life of Adam and Eve
+004v, 002r, 001r, 007v, 008r and 008v, and comes back at 132v and 133r. It is
+not in the Life of Adam and Eve, which Seth tells, nor in the Gospel of
+Nicodemus, the Golden Legend or the gospels. It has three relatives. In the
+Slavonic Book of Enoch the angel Vereveil dictates and Enoch writes 360 books;
+the codex names holy Enoch beside Elijah at 008v:6. The Apocalypse of Elijah
+opens "The word of the Lord came to me" and ends with Enoch and Elijah killed
+by the Antichrist and raised, which is 133v. In Hungarian folk tellings
+gathered near Szeged in the 1890s, Elijah is present at the fall of the
+angels and throws them down with lightning at the Father's word, Michael runs
+to the Father for help, and in one village Lucifer forms Elijah and Enoch but
+cannot give them souls, so God does and takes them up to heaven. Those
+tellings are three hundred years younger than the book. The same book puts
+the baptism on Carmel, Elijah's mountain, at 024r, 189r and 195r, against
+Matthew 3:13 and Mark 1:9, and has John preach there at 116v; Carmelite
+tradition makes John the heir of Elijah's hermits on Carmel.
+source: 004v:1, 008v:6, 132v, 133v, 024r, 116v:8, 189r:6, 195r; 2 Enoch 22-23; Apocalypse of Elijah 1:1, 4:7-19; Kalmany, Vilagunk alakulasai (Szeged 1893) 29; Balint, Nepi kozmogonia, MFME 1978/79-2, 431; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18; Catholic Encyclopedia, "The Carmelite Order"
 
 ## anchor: the distinguishing episode of the apocryphal *Life of Adam and Eve*
 
@@ -406,3 +415,17 @@ the Wartburgkrieg, about 1250, has only the stone, and the cup was added by
 Albert Schulz in 1832. The word in brackets, steal, is this edition's, tier G,
 read from this folio alone.
 source: K&T entry for the sign glossed "cup or jar"; 004r:3, 5, 9, 13; 030v:7, 095v:1, 133v:4; Romanian colinde "Iuda și prădarea raiului"; Slavonic "Struggle of Michael and Satanael"; Wartburgkrieg; proposals.json 747540, tier G
+
+## anchor: «The mother of the Lord God was born» (002r)
+
+The same three signs stand at 004r:11, and Kiraly and Tokai's entries for
+*mother* and *be born* each cite that line. The Life of Adam and Eve, chapter
+14, has the angels ordered to worship Adam as the image of God, and Lucifer
+refuse. From Duns Scotus onward Franciscan teaching held that the Incarnation,
+and Mary as its mother, was shown to the angels before their fall and was the
+test Lucifer failed; Suarez set it out in his book on the angels in the 1590s,
+the decade the book dates itself to at 223v. The story form, in which God
+shows the angels Mary and Lucifer refuses to serve her, is Mary of Agreda's,
+1670, later than the book. Lucifer's throne set beside God's is Isaias 14:13
+and the Life of Adam and Eve, chapter 15.
+source: 002r:1-2, 004r:11, 223v; K&T entries for the signs glossed "mother" and "be born"; Latin Life of Adam and Eve 14-15; Douay-Rheims Isaias 14:13; Suarez, De Angelis VII.13; Mary of Agreda, Mystical City of God, part I
