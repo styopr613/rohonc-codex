@@ -845,7 +845,8 @@ work of **Levente Zoltan Kiraly** and **Gabor Tokai**, published as "Cracking
 the code of the Rohonc Codex", *Cryptologia* 42:4 (2018), 285-315, with
 Kiraly's later paper on the book's theological character (2023). The
 observation that the manuscript's repeated sequences break at the line, on
-which the whole reading rests, is **Otto Gyurk's**, from 1970. **Benedek
+which the whole reading rests, is **Otto Gyurk's**: "Megfejtheto-e a
+Rohonci-kodex?", *Elet es Tudomany* 25 (1970), 1923-1928. **Benedek
 Lang's** *The Rohonc Code: Tracing a Historical Riddle* (Penn State Press,
 2021) is the history of the problem.
 
