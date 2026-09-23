@@ -19,7 +19,13 @@ repointed to the page that carries the Holy Family legend; "three endnotes"
 cite Szeged is one. DATA_PROVENANCE.md section 6 gained a second list of
 the six outside texts the earlier notes cite, with the addresses read.
 ktcorpus.note_sources() now stops a bullet at a blank line so the paragraph
-between the lists is not swallowed. Open item unchanged: the Kindle file is
+between the lists is not swallowed. Then DISCOVERIES: four readings of the check (cup's neighbours, Teleki
+relative, Elijah folk belief, author cites what he was taught) and the
+end-of-world count are ONE text, ktbook.back_matter() appendix "What the
+sources turned up" (pos 5), rendered on the site as finds.html "Discovering
+the work" (nav: Discoveries) by ktsite.page_finds(). Four notes extended
+(004r cup, 006r branch, 008v Elijah, 223v 1593 count -> 2033). Open item
+unchanged: the Kindle file is
 behind the shelf EPUB.
 
 ## NOTES, SOURCES, KINDLE — 2026-09-23
