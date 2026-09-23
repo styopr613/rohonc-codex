@@ -53,10 +53,20 @@ def items(key, tag="li", kt="t", kd="d"):
     return "".join(out)
 
 
+_URL = re.compile(r"https?://[^\s<>\"]+?(?=[.,;:)]*(?:\s|$))")
+
+
+def linkify(escaped):
+    """A web address written out in the copy becomes a link to itself, shown
+    without its scheme. The owner found the repository's address printed as
+    plain text on the Data page; escaping is not the same as rendering."""
+    return _URL.sub(lambda m: f'<a href="{m.group(0)}">{m.group(0).split("://", 1)[1]}</a>', escaped)
+
+
 def paras(key, cls=""):
     """A copy piece as <p> paragraphs."""
     c = f' class="{cls}"' if cls else ""
-    return "".join(f"<p{c}>{html.escape(t.strip())}</p>" for t in COPY[key].split("\n\n") if t.strip())
+    return "".join(f"<p{c}>{linkify(html.escape(t.strip()))}</p>" for t in COPY[key].split("\n\n") if t.strip())
 WORK = os.path.join(ROOT, "work", "rohonc")
 TR = os.path.join(WORK, "translation")
 OUT_DEFAULT = "/var/www/oona13/rohonc"

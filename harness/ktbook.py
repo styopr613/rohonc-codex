@@ -363,7 +363,7 @@ the weight-bearing assumption of this check and it is stated as an assumption.
 published to be checked. As of now, the tests, for what they are, find it
 internally consistent. Tests and all programs and documents can be found in
 the repository at
-https://github.com/styopr613/rohonc-codex.
+[github.com/styopr613/rohonc-codex](https://github.com/styopr613/rohonc-codex).
 
 **The book is in two parts.** Book Two is the gloss: the manuscript folio by
 folio and line by line, each sign rendered by Kiraly and Tokai's dictionary
