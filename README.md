@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22902166.svg)](https://doi.org/10.5281/zenodo.22902166)
 
+**Kindle edition:** https://www.amazon.com/dp/B0HKQCWV2S · **Read free:** https://oona13.com/rohonc/
+
 The Rohonc Codex is a paper book of the sixteenth century, 224 leaves, held at
 the Library of the Hungarian Academy of Sciences in Budapest, written in a
 script that occurs in no other document. In 2018 Levente Zoltán Király and

@@ -871,7 +871,8 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
 <div class="hero">
   <div class="blurb">{intro_html}
     <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
-      <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a></div>
+      <a href="/rohonc/book/the-rohonc-codex.epub">EPUB</a>
+      <a href="https://www.amazon.com/dp/B0HKQCWV2S" rel="noopener">Read on Kindle</a></div>
     <p class="sz">All {nfolio} folios{pages_note} · the translation and the evidence in one volume.</p>
   </div>
   <figure class="bk"><img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the printed edition" width="576" height="900"></figure>
@@ -1440,7 +1441,8 @@ def page_read():
     body = ("<h1>Read it here</h1>"
             + paras("read_lead", "lead")
             + '<p class="acts"><a class="go" href="/read/rohonc.php">Open the book</a> '
-              '<a href="/rohonc/book/the-rohonc-codex.epub">Download EPUB</a></p>'
+              '<a href="/rohonc/book/the-rohonc-codex.epub">Download EPUB</a> '
+              '<a href="https://www.amazon.com/dp/B0HKQCWV2S" rel="noopener">Read on Kindle</a></p>'
             + spin_css(g) + spin_html(g) + SPIN_JS)
     return shell("read", "Read it here",
                  "The whole Rohonc Codex edition in the OONA reader: the translation and all 441 written pages with their marked lines.",
@@ -1488,6 +1490,26 @@ def citations():
     return out
 
 
+def notes_sources():
+    """The texts the endnotes read but did not fetch, from DATA_PROVENANCE.md
+    section 6: name, what it supplied, and the address it was read at."""
+    txt = read(os.path.join(ROOT, "DATA_PROVENANCE.md"))
+    sec = re.search(r"^## 6\. Sources consulted for the endnotes.*?(?=^## )", txt, re.M | re.S)
+    out = []
+    if sec:
+        for b in re.findall(r"^- (\*\*.*?)(?=^- |\Z)", sec.group(0), re.M | re.S):
+            one = " ".join(b.split())
+            m = re.match(r"\*\*(.+?)\*\*\s*(.*)", one)
+            if not m:
+                continue
+            name = re.sub(r"\*", "", m.group(1)).strip().rstrip(".")
+            body = html.escape(m.group(2).strip())
+            body = re.sub(r"`(https?://[^`]+)`", lambda k: f'<a href="{k.group(1)}" rel="noopener">{re.sub(r"^https?://", "", k.group(1)).split("/")[0]}</a>', body)
+            body = re.sub(r"\*(.+?)\*", r"<i>\1</i>", body)
+            out.append((name, body))
+    return out
+
+
 def page_sources():
     cites = citations()
     gloss = [str(x) for x in COPY["sources_cites"]]
@@ -1499,6 +1521,9 @@ def page_sources():
 {paras("sources_intro", "lead")}
 <h2>What is cited</h2>
 <ul class="steps">{cl}</ul>
+<h2>Read for the endnotes</h2>
+{paras("sources_notes_lead")}
+<ul class="steps">{"".join(f'<li><b>{md_inline(n)}</b><br><span class="nof">{b}</span></li>' for n, b in notes_sources())}</ul>
 <h2>What is not here</h2>
 {paras("sources_not_here")}
 <p>Their site is <a href="https://rechnitzer-kodex.hu/" rel="noopener">rechnitzer-kodex.hu</a>, and it is the place to read them.</p>
