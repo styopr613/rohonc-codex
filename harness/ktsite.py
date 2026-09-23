@@ -1267,17 +1267,155 @@ def page_method():
                  body)
 
 
+# The book on the Read page is the same turning object the OONA 13 home page
+# shows: a CSS box whose front, back and spine are real slices of the printed
+# wrap (cut by ktspin.py into work/rohonc/spin-*.webp), drifting on a CSS
+# animation until somebody grabs it. The geometry is read from the slices
+# themselves, so a new trim or spine changes the box without touching this.
+# No `filter` anywhere on the rotating subtree: a filter makes a containing
+# block and flattens preserve-3d into a card. The floor ellipse is the shadow.
+SPIN_FACES = ("front", "back", "spine")
+
+
+def spin_geometry():
+    from PIL import Image as _Im
+    paths = {f: os.path.join(WORK, f"spin-{f}.webp") for f in SPIN_FACES}
+    missing = [v for v in paths.values() if not os.path.isfile(v)]
+    if missing:
+        raise SystemExit("the book's faces are missing: " + " ".join(missing) + "\n   run: python3 ktspin.py")
+    fw, fh = _Im.open(paths["front"]).size
+    sw, sh = _Im.open(paths["spine"]).size
+    return {"ratio": fh / fw, "spine": sw / fw, "fw": fw, "fh": fh, "sw": sw, "sh": sh}
+
+
+def spin_css(g):
+    return f"""<style>
+.book3d-scene{{--bw:300px;--bh:calc(var(--bw)*{g['ratio']:.4f});--bt:calc(var(--bw)*{g['spine']:.4f});--bth:calc(var(--bw)*{g['spine']/2:.4f});
+  perspective:1600px;display:flex;flex-direction:column;align-items:center;margin:2.2em auto 1.4em;padding-top:10px}}
+.book3d{{position:relative;width:var(--bw);height:var(--bh);transform-style:preserve-3d;animation:book3d-spin 22s linear infinite;will-change:transform;
+  cursor:grab;touch-action:pan-y;user-select:none;-webkit-user-select:none;-webkit-touch-callout:none}}
+.book3d-scene:hover .book3d,.book3d-scene:focus-within .book3d{{animation-play-state:paused}}
+.book3d img{{pointer-events:none;-webkit-user-drag:none;width:100%;height:100%;object-fit:cover;display:block}}
+.book3d.is-manual{{animation:none;transform:rotateZ(-2deg) rotateX(7deg) rotateY(var(--spin,0deg))}}
+.book3d.is-grabbed{{cursor:grabbing}}
+.book3d:focus-visible{{outline:2px solid var(--rub);outline-offset:14px}}
+@keyframes book3d-spin{{from{{transform:rotateZ(-2deg) rotateX(7deg) rotateY(0deg)}}to{{transform:rotateZ(-2deg) rotateX(7deg) rotateY(360deg)}}}}
+.book3d .face{{position:absolute;backface-visibility:hidden}}
+.book3d .b-front,.book3d .b-back{{inset:0;overflow:hidden;background:#e8dcc4}}
+.book3d .b-front{{transform:translateZ(var(--bth));border-radius:2px 6px 6px 2px}}
+.book3d .b-back{{transform:rotateY(180deg) translateZ(var(--bth));border-radius:6px 2px 2px 6px}}
+.book3d .b-front::after,.book3d .b-back::after{{content:'';position:absolute;inset:0;border-radius:inherit;pointer-events:none}}
+.book3d .b-front::after{{background:linear-gradient(90deg,rgba(0,0,0,.42) 0,rgba(0,0,0,.16) 2.6%,rgba(255,255,255,.24) 6%,rgba(255,255,255,0) 11%,rgba(0,0,0,0) 90%,rgba(0,0,0,.16) 100%)}}
+.book3d .b-back::after{{background:linear-gradient(270deg,rgba(0,0,0,.42) 0,rgba(0,0,0,.16) 2.6%,rgba(255,255,255,.22) 6%,rgba(255,255,255,0) 11%,rgba(0,0,0,0) 90%,rgba(0,0,0,.16) 100%)}}
+.book3d .b-spine{{top:0;left:0;width:var(--bt);height:100%;transform:translateX(calc(var(--bth)*-1)) rotateY(-90deg);border-radius:2px;overflow:hidden;background:#e8dcc4}}
+.book3d .b-spine::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(0,0,0,.52) 0,rgba(0,0,0,0) 26%,rgba(255,255,255,.13) 50%,rgba(0,0,0,0) 74%,rgba(0,0,0,.52) 100%)}}
+.book3d .b-pages,.book3d .b-head{{background-color:#f6f1e4}}
+.book3d .b-pages{{top:2px;right:0;width:var(--bt);height:calc(100% - 4px);transform:translateX(var(--bth)) rotateY(90deg);background-image:repeating-linear-gradient(90deg,#f6f1e4 0 2px,#d9cfb8 2px 3px)}}
+.book3d .b-pages::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(74,58,32,.30) 0,rgba(74,58,32,.08) 30%,rgba(74,58,32,.10) 70%,rgba(74,58,32,.32) 100%)}}
+.book3d .b-head{{top:0;left:2px;width:calc(100% - 4px);height:var(--bt);transform:translateY(calc(var(--bth)*-1)) rotateX(90deg);background-image:repeating-linear-gradient(0deg,#f6f1e4 0 2px,#ddd4bf 2px 3px)}}
+.book3d .b-head::after{{content:'';position:absolute;inset:0;pointer-events:none;background:linear-gradient(180deg,rgba(74,58,32,.10),rgba(74,58,32,.22))}}
+.book3d-floor{{width:var(--bw);height:calc(var(--bw)*.085);margin:calc(var(--bw)*-.02) auto 0;border-radius:50%;background:radial-gradient(closest-side,rgba(0,0,0,.42),rgba(0,0,0,.12) 55%,transparent)}}
+.book3d-note{{text-align:center;color:var(--soft);font-style:italic;font-size:15.5px;margin:0 0 1.6em}}
+@media(max-width:700px){{.book3d-scene{{--bw:220px}}}}
+@media(prefers-reduced-motion:reduce){{.book3d{{animation:none;transform:rotateZ(-2deg) rotateX(7deg) rotateY(-26deg)}}}}
+</style>"""
+
+
+def spin_html(g):
+    return f"""<div class="book3d-scene">
+  <div class="book3d" id="book3d" tabindex="0" role="img" aria-label="The Rohonc Codex paperback, turning. Drag it, or use the left and right arrow keys, to turn it yourself.">
+    <div class="face b-front"><img draggable="false" src="/rohonc/img/spin-front.webp" width="{g['fw']}" height="{g['fh']}" alt="The Rohonc Codex, front cover"></div>
+    <div class="face b-back" aria-hidden="true"><img draggable="false" src="/rohonc/img/spin-back.webp" width="{g['fw']}" height="{g['fh']}" alt=""></div>
+    <div class="face b-spine" aria-hidden="true"><img draggable="false" src="/rohonc/img/spin-spine.webp" width="{g['sw']}" height="{g['sh']}" alt=""></div>
+    <div class="face b-pages" aria-hidden="true"></div>
+    <div class="face b-head" aria-hidden="true"></div>
+  </div>
+  <div class="book3d-floor" aria-hidden="true"></div>
+</div>
+<p class="book3d-note">The printed book. Drag it to turn it.</p>"""
+
+
+# Grab-and-turn, ported from the OONA 13 home page. The cover drifts on the
+# CSS animation; the first grab takes the angle over FROM THE ANIMATION'S
+# CURRENT TIME so it never jumps, and keeps the same idle rate afterwards so a
+# release eases back into the drift instead of stopping dead.
+SPIN_JS = """<script>
+(function(){
+  var book = document.getElementById("book3d"); if (!book) return;
+  var SPIN_MS = 22000, SENS = 0.6;
+  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var IDLE = reduce ? 0 : 360 / (SPIN_MS / 1000);
+  var angle = 0, vel = 0, raf = 0, last = 0, manual = false, dragging = false;
+  var lastX = 0, lastMove = 0, onScreen = true, resting = false, look = false;
+  function apply(){ book.style.setProperty("--spin", angle.toFixed(2) + "deg"); }
+  function goManual(){
+    if (manual) return;
+    var anim = book.getAnimations ? book.getAnimations()[0] : null;
+    var ct = anim && typeof anim.currentTime === "number" ? anim.currentTime : null;
+    angle = ct !== null ? ((ct % SPIN_MS) / SPIN_MS) * 360 : -26;
+    manual = true; book.classList.add("is-manual"); apply();
+    last = performance.now(); if (!raf) raf = requestAnimationFrame(tick);
+  }
+  function tick(now){
+    raf = 0;
+    var dt = Math.min(0.05, (now - last) / 1000); last = now;
+    if (!dragging) {
+      var want = look ? 0 : IDLE;
+      vel += (want - vel) * Math.min(1, dt * 1.6);
+      angle += vel * dt; apply();
+    }
+    resting = !dragging && Math.abs(vel) < 0.05 && (look || IDLE === 0);
+    if (onScreen && !document.hidden && !resting) raf = requestAnimationFrame(tick);
+  }
+  function wake(){ if (manual && !raf && onScreen) { last = performance.now(); raf = requestAnimationFrame(tick); } }
+  book.addEventListener("pointerdown", function(e){
+    if (e.button !== undefined && e.button !== 0) return;
+    goManual(); dragging = true; vel = 0; lastX = e.clientX; lastMove = performance.now();
+    book.setPointerCapture(e.pointerId); book.classList.add("is-grabbed");
+  });
+  book.addEventListener("pointermove", function(e){
+    if (!dragging) return;
+    var now = performance.now(), dx = e.clientX - lastX, dt = Math.max(8, now - lastMove) / 1000;
+    angle += dx * SENS; vel = (dx * SENS) / dt; lastX = e.clientX; lastMove = now; apply(); e.preventDefault();
+  });
+  function up(e){
+    if (!dragging) return;
+    dragging = false; book.classList.remove("is-grabbed");
+    if (performance.now() - lastMove > 120) vel = 0;
+    if (e.type === "pointercancel") vel = 0;
+    vel = Math.max(-720, Math.min(720, vel));
+    last = performance.now(); if (!raf) raf = requestAnimationFrame(tick);
+    try { book.releasePointerCapture(e.pointerId); } catch (_) {}
+  }
+  book.addEventListener("pointerup", up); book.addEventListener("pointercancel", up);
+  book.addEventListener("keydown", function(e){
+    var d = e.key === "ArrowRight" ? 1 : e.key === "ArrowLeft" ? -1 : 0; if (!d) return;
+    goManual(); vel = 0; angle += d * 15; apply(); last = performance.now();
+    if (!raf) raf = requestAnimationFrame(tick); e.preventDefault();
+  });
+  book.addEventListener("dragstart", function(e){ e.preventDefault(); });
+  var scene = book.parentElement;
+  scene.addEventListener("pointerenter", function(){ look = true; wake(); });
+  scene.addEventListener("pointerleave", function(){ look = false; wake(); });
+  book.addEventListener("focus", function(){ look = true; wake(); });
+  book.addEventListener("blur", function(){ look = false; wake(); });
+  if (window.IntersectionObserver) new IntersectionObserver(function(en){
+    onScreen = en[0].isIntersecting; if (onScreen && manual && !raf) { last = performance.now(); raf = requestAnimationFrame(tick); }
+  }, {rootMargin: "80px"}).observe(book);
+})();
+</script>"""
+
+
 def page_read():
     """No second reader. The book opens in the OONA reader at /read/rohonc.php,
     the same one the Free Library uses, with its own notes, contents and type
-    controls. This page is the door to it."""
+    controls. This page is the door to it, and the printed book turns on it."""
+    g = spin_geometry()
     body = ("<h1>Read it here</h1>"
             + paras("read_lead", "lead")
             + '<p class="acts"><a class="go" href="/read/rohonc.php">Open the book</a> '
               '<a href="/rohonc/book/the-rohonc-codex.epub">Download EPUB</a></p>'
-            + '<figure class="shot"><a href="/read/rohonc.php">'
-              '<img src="/rohonc/img/book3d.png" alt="The Rohonc Codex" width="576" height="900" '
-              'style="width:auto;max-height:520px;margin:0 auto;border:0;background:none"></a></figure>')
+            + spin_css(g) + spin_html(g) + SPIN_JS)
     return shell("read", "Read it here",
                  "The whole Rohonc Codex edition in the OONA reader: the translation and all 441 written pages with their marked lines.",
                  body)
@@ -1511,6 +1649,8 @@ def _build(out, final):
     _b3 = os.path.join(WORK, "book3d.png")
     if os.path.isfile(_b3):
         _m = _Im.open(_b3); _m.thumbnail((576, 900)); _m.save(os.path.join(out, "img", "book3d.png"))
+    for _f in SPIN_FACES:   # the turning book's three faces, cut by ktspin.py
+        copy(os.path.join(WORK, f"spin-{_f}.webp"), os.path.join(out, "img", f"spin-{_f}.webp"))
     files = []
     outside = [("/rohonc/outside-gemini.html", "gemini_tests.md", "Gemini 2.5 Pro's specification", os.path.join(WORK, "outside", "gemini_tests.md")),
                ("/rohonc/outside-grok.html", "grok_tests.md", "Grok 4.7's specification", os.path.join(WORK, "outside", "grok_tests.md"))]
