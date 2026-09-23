@@ -1513,10 +1513,12 @@ def page_finds():
     app = [a for a in ktbook.back_matter() if a["title"] == "What the sources turned up"]
     if not app:
         raise SystemExit("ktsite: the book has no appendix 'What the sources turned up'")
+    # the appendix ends by pointing at this page; a page need not point at itself
+    text = app[0]["text"].split("\n\nFinds after this printing")[0]
     body = f"""
 <h1>Discovering the work</h1>
 <p class="lead">Things the sources turned up that are readings of the facts rather than facts about the manuscript. They stand outside the endnotes for that reason, and each one says what is not known. The same text is printed in the book as the appendix "What the sources turned up".</p>
-{md(app[0]["text"].split("\n\nFinds after this printing")[0])}
+{md(text)}
 <p>The facts these rest on are in the endnotes of Book One, and every text they cite is listed under <a href="/rohonc/sources.html">Sources</a>.</p>
 """
     return shell("finds", "Discovering the work",
