@@ -300,14 +300,13 @@ def annotate(body, part="p"):
 _APPENDIX_FROM = "## How it was checked"
 
 
-# THE FIGURES TABLE, AND KINDLE. Every row carries the same number of cells and no
-# cell is ever left to serialise as a self-closing <td/>. The total row had two cells
-# where the rest had three and the empty one came out as <td class="num"/>; Kindle
-# converts an EPUB into its own format before it draws anything, and a ragged row and
-# a self-closed non-void element are two of the things that survive that trip worst.
-# Reported by the owner as a dark mark, like a symbol, under the last row on the left.
-# There is no Kindle renderer on this box, so this is the conservative shape and not a
-# verified fix. Keep the &#160; in the empty cell. (2026-09-23)
+# THE FIGURES ARE NOT A TABLE. They were one -- it is what they are -- and the owner
+# sent a screenshot of them on a Kindle: a rule above and below, and a small dark tile
+# at the left margin under each one. That tile is Kindle's own expand-this-table
+# control, which it hangs under every table it draws, and on a page of quiet prose it
+# reads as damage rather than as a button. Seven short rows gain nothing from being a
+# table, so they are paragraphs in a .figs block and Kindle has nothing to decorate.
+# Do not put them back in a <table>. (2026-09-23)
 def _intro_all():
     g = figures()
     # ktverify imports this module, so it is imported here and not at the top.
@@ -403,18 +402,15 @@ gap or an unreadable glyph in the transcription.
 
 ## What this book is worth, in numbers
 
-<table>
-<tr><td><strong>words in the manuscript</strong></td><td class="num"><strong>""" + _n(g["words"][0]) + """</strong></td><td class="num">&#160;</td></tr>
-<tr><td>read</td><td class="num">""" + _n(g["read"][0]) + '</td><td class="num">' + g["read"][1] + """%</td></tr>
-<tr><td>read from one passage</td><td class="num">""" + _n(g["soft"][0]) + '</td><td class="num">' + g["soft"][1] + """%</td></tr>
-<tr><td>restored, in brackets</td><td class="num">""" + _n(g["rest"][0]) + '</td><td class="num">' + g["rest"][1] + """%</td></tr>
-<tr><td>dark</td><td class="num">""" + _n(g["dark"][0]) + '</td><td class="num">' + g["dark"][1] + """%</td></tr>
-</table>
-
-<table>
-<tr><td>lines with every word read</td><td class="num">""" + g["lread"][2] + """%</td></tr>
-<tr><td>lines complete once brackets are counted</td><td class="num">""" + g["lall"][2] + """%</td></tr>
-</table>
+<div class="figs">
+<p><strong>words in the manuscript — """ + _n(g["words"][0]) + """</strong></p>
+<p>read — """ + _n(g["read"][0]) + ", " + g["read"][1] + """%</p>
+<p>read from one passage — """ + _n(g["soft"][0]) + ", " + g["soft"][1] + """%</p>
+<p>restored, in brackets — """ + _n(g["rest"][0]) + ", " + g["rest"][1] + """%</p>
+<p>dark — """ + _n(g["dark"][0]) + ", " + g["dark"][1] + """%</p>
+<p class="gap">lines with every word read — """ + g["lread"][2] + """%</p>
+<p>lines complete once brackets are counted — """ + g["lall"][2] + """%</p>
+</div>
 
 The middle figure is the honest one. A sentence with one word you cannot read
 is not a sentence you can read. The gap between that figure and the one below
