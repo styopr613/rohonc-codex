@@ -1491,22 +1491,15 @@ def citations():
 
 
 def notes_sources():
-    """The texts the endnotes read but did not fetch, from DATA_PROVENANCE.md
-    section 6: name, what it supplied, and the address it was read at."""
-    txt = read(os.path.join(ROOT, "DATA_PROVENANCE.md"))
-    sec = re.search(r"^## 6\. Sources consulted for the endnotes.*?(?=^## )", txt, re.M | re.S)
+    """The texts the endnotes read but did not fetch, from ktcorpus.note_sources()
+    (DATA_PROVENANCE.md section 6): name, and the body with its addresses as links."""
+    import ktcorpus
     out = []
-    if sec:
-        for b in re.findall(r"^- (\*\*.*?)(?=^- |\Z)", sec.group(0), re.M | re.S):
-            one = " ".join(b.split())
-            m = re.match(r"\*\*(.+?)\*\*\s*(.*)", one)
-            if not m:
-                continue
-            name = re.sub(r"\*", "", m.group(1)).strip().rstrip(".")
-            body = html.escape(m.group(2).strip())
-            body = re.sub(r"`(https?://[^`]+)`", lambda k: f'<a href="{k.group(1)}" rel="noopener">{re.sub(r"^https?://", "", k.group(1)).split("/")[0]}</a>', body)
-            body = re.sub(r"\*(.+?)\*", r"<i>\1</i>", body)
-            out.append((name, body))
+    for e in ktcorpus.note_sources():
+        body = html.escape(e["text"])
+        body = re.sub(r"`(https?://[^`]+)`", lambda k: f'<a href="{k.group(1)}" rel="noopener">{re.sub(r"^https?://", "", k.group(1)).split("/")[0]}</a>', body)
+        body = re.sub(r"\*(.+?)\*", r"<i>\1</i>", body)
+        out.append((e["name"], body))
     return out
 
 
@@ -1521,7 +1514,7 @@ def page_sources():
 {paras("sources_intro", "lead")}
 <h2>What is cited</h2>
 <ul class="steps">{cl}</ul>
-<h2>Read for the endnotes</h2>
+<h2>References for the endnotes</h2>
 {paras("sources_notes_lead")}
 <ul class="steps">{"".join(f'<li><b>{md_inline(n)}</b><br><span class="nof">{b}</span></li>' for n, b in notes_sources())}</ul>
 <h2>What is not here</h2>

@@ -72,6 +72,26 @@ def entries():
     return out
 
 
+def note_sources():
+    """The texts the endnotes cite that are NOT on the shelf, from section 6 of
+    the provenance file: read online once, nothing reproduced. One reader for
+    the book's "References for the endnotes" and the site's, so they cannot
+    drift. Each entry: name, and the body as markdown with its addresses in
+    backticks, for the caller to render."""
+    txt = open(PROV, encoding="utf-8").read()
+    sec = re.search(r"^## 6\. Sources consulted for the endnotes.*?(?=^## )", txt, re.M | re.S)
+    out = []
+    if sec:
+        for b in re.findall(r"^- (\*\*.*?)(?=^- |\Z)", sec.group(0), re.M | re.S):
+            one = " ".join(b.split())
+            m = re.match(r"\*\*(.+?)\*\*\s*(.*)", one)
+            if not m:
+                continue
+            out.append({"name": re.sub(r"\*", "", m.group(1)).strip().rstrip("."),
+                        "text": m.group(2).strip()})
+    return out
+
+
 if __name__ == "__main__":
     for e in entries():
         print(f"{e['name']}\n    {e['text'][:110]}...\n    {e['links']}")

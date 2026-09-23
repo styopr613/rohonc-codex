@@ -627,6 +627,22 @@ def corpus_appendix():
     return "\n".join(out).strip()
 
 
+def note_references():
+    """The texts the endnotes cite that are not on the shelf: read online once,
+    nothing reproduced. From the provenance file through ktcorpus, the same
+    reader the site uses, so the two lists cannot drift."""
+    import ktcorpus
+    out = ["Some endnotes name texts that are not among the books the codex is compiled from: "
+           "later witnesses to the same stories, or the tradition a page draws on. None was "
+           "added to the corpus. Each was read once, at the address given, and nothing from "
+           "any of them is reproduced here. What each supplied to the note, and its copyright "
+           "position, is stated with it.", ""]
+    for e in ktcorpus.note_sources():
+        out.append(f"**{e['name']}.** " + re.sub(r"`(https?://[^`]+)`", r"\1", e["text"]))
+        out.append("")
+    return "\n".join(out).strip()
+
+
 def back_matter():
     g = figures()
     return [
@@ -731,7 +747,9 @@ Both are printed as the manuscript has them. An edition that cut them would be
 a worse witness to what a Catholic in Hungary in 1593 was actually reading."""},
         {"type": "appendix", "pos": 4, "title": "The corpus",
          "text": corpus_appendix()},
-        {"type": "appendix", "pos": 5, "title": "Acknowledgment",
+        {"type": "appendix", "pos": 5, "title": "References for the endnotes",
+         "text": note_references()},
+        {"type": "appendix", "pos": 6, "title": "Acknowledgment",
          "text": """The dictionary and the grammar of the Rohonc Codex are the
 work of **Levente Zoltan Kiraly** and **Gabor Tokai**, published as "Cracking
 the code of the Rohonc Codex", *Cryptologia* 42:4 (2018), 285-315, with
