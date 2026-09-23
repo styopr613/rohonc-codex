@@ -16,10 +16,10 @@ The angel speaks to Elijah and Elijah writes it down: the frame stands at
 004v, 002r, 001r, 007v, 008r and 008v, and comes back at 132v and 133r. It is
 not in the Life of Adam and Eve, which Seth tells, nor in the Gospel of
 Nicodemus, the Golden Legend or the gospels. It has three relatives. In the
-Slavonic Book of Enoch the angel Vereveil dictates and Enoch writes 360 books;
+Slavonic Book of Enoch the angel Vereviel dictates and Enoch writes 360 books;
 the codex names holy Enoch beside Elijah at 008v:6. The Apocalypse of Elijah
-opens "The word of the Lord came to me" and ends with Enoch and Elijah killed
-by the Antichrist and raised, which is 133v. In Hungarian folk tellings
+opens "The word of the Lord came to me" and has Enoch and Elijah killed by
+the Antichrist and raised after three days and a half, which is 133v. In Hungarian folk tellings
 gathered near Szeged in the 1890s, Elijah is present at the fall of the
 angels and throws them down with lightning at the Father's word, Michael runs
 to the Father for help, and in one village Lucifer forms Elijah and Enoch but
@@ -28,7 +28,7 @@ tellings are three hundred years younger than the book. The same book puts
 the baptism on Carmel, Elijah's mountain, at 024r, 189r and 195r, against
 Matthew 3:13 and Mark 1:9, and has John preach there at 116v; Carmelite
 tradition makes John the heir of Elijah's hermits on Carmel.
-source: 004v:1, 008v:6, 132v, 133v, 024r, 116v:8, 189r:6, 195r; 2 Enoch 22-23; Apocalypse of Elijah 1:1, 4:7-19; Kalmany, Vilagunk alakulasai (Szeged 1893) 29; Balint, Nepi kozmogonia, MFME 1978/79-2, 431; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18; Catholic Encyclopedia, "The Carmelite Order"
+source: 004v:1, 008v:6, 132v, 133v, 024r, 116v:8, 189r:6, 195r; 2 Enoch 22-23; Apocalypse of Elijah 1:1, 4:7-19; Kalmany, Vilagunk alakulasai (Szeged 1893) 11, 28-29; Balint, Nepi kozmogonia, MFME 1978/79-2, 430-432; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18; Catholic Encyclopedia, "The Carmelite Order"
 
 ## anchor: the distinguishing episode of the apocryphal *Life of Adam and Eve*
 
@@ -80,7 +80,7 @@ Mixing water into the wine at the offertory is Latin-rite practice and is not
 described by Matthew or John, the two evangelists this folio's own heading
 names. The Council of Trent made it a rule of the Roman Mass in 1562, thirty
 years before the date the manuscript gives itself.
-source: 030v:7; Council of Trent, session 22, canon 7 (1562)
+source: 030v:7; Council of Trent, session 22, chapter 7 and canon 9 (1562)
 
 ## anchor: «Lord exist inside Wednesday»
 
@@ -169,16 +169,21 @@ source: 008v:6, 101r:7, 133v:10; proposals.json, tier G
 
 ## anchor: «[of a harlot] through be born»
 
-Antichrist born of a harlot, fathered by the devil, is the medieval Antichrist
-legend; Adso of Montier-en-Der's tenth-century letter gives it its standard
-Latin form. Apocalypse 13 has no birth story.
+Antichrist fathered by the devil is the medieval Antichrist legend. Adso of
+Montier-en-Der's tenth-century letter, its standard Latin form, has him born
+of a Jewish father and mother of the tribe of Dan, with the devil filling the
+mother's womb; the harlot is not in Adso. Apocalypse 13 has no birth story.
 source: 101r:8, 134r:1; Adso of Montier-en-Der, *De ortu et tempore Antichristi*
 
 ## anchor: «this people chapter go on Egypt [out of] living servant»
 
 The traveller who goes down to Jericho is written throughout these folios with
 the sign Kiraly and Tokai read as Adam, and the two pence are named as the two
-Testaments on the authority of Augustine, whom the folio cites by name.
+Testaments, with Augustine cited by name on the folio. Augustine's own
+reading of the two pence, in his Questions on the Gospels 2.19, is the two
+commandments of love, or the promise of this life and the next; the two
+Testaments are not his. An earlier printing of this note put the two
+Testaments on his authority; that was wrong.
 source: 105v:7–11, 106r, 107v:2–3; Augustine, *Quaestiones Evangeliorum* 2.19
 
 ## anchor: «carry» «the most beautiful robe»
@@ -236,17 +241,21 @@ source: 113v:8–9, 116r:6–7; Douay-Rheims Luke 15:13
 
 ## anchor: «this holy spirit [proceedeth] on father … go out spirit,
 
-The sun, its light and its warmth as a figure of the three Persons is used by
-Augustine in his work on the Trinity. The manuscript puts light for the Son
-and warmth for the Spirit.
-source: 083v:1–5; Augustine, *De Trinitate* 6.10
+The sun, its ray and the tip of the ray as a figure of the three Persons is
+Tertullian's, in his book against Praxeas, chapter 8. The manuscript puts
+light for the Son and warmth for the Spirit. An earlier printing of this note
+gave the figure to Augustine's book on the Trinity, which does not use it;
+that was wrong.
+source: 083v:1–5; Tertullian, *Adversus Praxean* 8
 
 ## anchor: «[One day at] evening», he finds «one little son» «on shore»
 
 Augustine and the child emptying the sea into a hole is not in Augustine and
-is not in his early lives. It is a late-medieval story, carried in the
-*Golden Legend*'s chapter on him.
-source: 084r:9–14, 084v:1–9; *Golden Legend*, "Saint Augustine"
+is not in his early lives. It is a late-medieval story. Voragine's Latin does
+not have it; Caxton added it to the Golden Legend's chapter on Augustine in
+1483, from an altar-piece he had seen at the Black Friars in Antwerp, and
+says so in the text.
+source: 084r:9–14, 084v:1–9; Caxton's *Golden Legend* (1483), "Saint Augustine"
 
 ## anchor: «little»
 
@@ -290,7 +299,7 @@ source: 183r:3, 183r:6; K&T entries for Chosroes and Ctesiphon
 ## anchor: setting first: «sit apostle at table inside Jerusalem»
 
 Kiraly and Tokai cite this sign at 072r:8, 072r:11 and 191r:4 under an entry
-glossed as a table. The Douay-Rheims has the eleven "sitting at table"; the
+glossed as a table. The Douay-Rheims has the eleven "at table"; the
 King James has them "at meat". **This edition** follows the Douay because the
 manuscript is a Catholic compilation and its author had the Vulgate.
 source: 072r:8, 182r:4, 191r:4; K&T entry glossed "table"; Douay-Rheims Mark
@@ -407,10 +416,12 @@ Judas plundering paradise, Judas enters while the keeper sleeps and takes
 "ulcicuța cea de vin", the little jug of wine, and "scaunul de-mpărăție", the
 throne, and a servant runs to tell God; the carols were written down in the
 nineteenth and twentieth centuries. In the Slavonic tale of Michael and
-Satanael, from Bulgaria in the eleventh or twelfth century, Satanael sets his
-throne above the seventh heaven, God sends Michael, Michael comes back beaten
-and is sent a second time; on this folio the angel returns to the Father at
-lines 4 and 10. The Grail cut from a stone of Lucifer's crown is not medieval:
+Satanael, from Bulgaria in the eleventh or twelfth century, Satanael sets up a
+throne of his own and steals the robe, the wreath and the sceptre made for
+God; God sends Gabriel, who is afraid and will not go, and then Michael, who
+goes down and wins them back. On this folio the angel returns to the Father at
+lines 4 and 10. An earlier printing of this note had Michael sent twice; that
+was wrong. The Grail cut from a stone of Lucifer's crown is not medieval:
 the Wartburgkrieg, about 1250, has only the stone, and the cup was added by
 Albert Schulz in 1832. The word in brackets, steal, is this edition's, tier G,
 read from this folio alone.
@@ -421,14 +432,15 @@ source: K&T entry for the sign glossed "cup or jar"; 004r:3, 5, 9, 13; 030v:7, 0
 The same three signs stand at 004r:11, and Kiraly and Tokai's entries for
 *mother* and *be born* each cite that line. The Life of Adam and Eve, chapter
 14, has the angels ordered to worship Adam as the image of God, and Lucifer
-refuse. From Duns Scotus onward Franciscan teaching held that the Incarnation,
-and Mary as its mother, was shown to the angels before their fall and was the
-test Lucifer failed; Suarez set it out in his book on the angels in the 1590s,
-the decade the book dates itself to at 223v. The story form, in which God
+refuse. Many theologians held that the Incarnation was shown to the angels before
+their fall and was the test Lucifer failed; Suarez set it out in his book on
+the angels, printed in 1620, three years after his death. An earlier printing
+of this note put the book in the 1590s and the teaching under Duns Scotus;
+both were wrong. The story form, in which God
 shows the angels Mary and Lucifer refuses to serve her, is Mary of Agreda's,
 1670, later than the book. Lucifer's throne set beside God's is Isaias 14:13
 and the Life of Adam and Eve, chapter 15.
-source: 002r:1-2, 004r:11, 223v; K&T entries for the signs glossed "mother" and "be born"; Latin Life of Adam and Eve 14-15; Douay-Rheims Isaias 14:13; Suarez, De Angelis VII.13; Mary of Agreda, Mystical City of God, part I
+source: 002r:1-2, 004r:11, 223v; K&T entries for the signs glossed "mother" and "be born"; Latin Life of Adam and Eve 14-15; Douay-Rheims Isaias 14:13; Suarez, De Angelis VII.13, as cited in the Catholic Encyclopedia, "Devil"; Mary of Agreda, Mystical City of God, part I
 
 ## anchor: «Seth brought back a branch from the tree of mercy» (006r)
 
@@ -443,10 +455,13 @@ Golden Legend, in the Invention of the Holy Cross, has the angel give Seth a
 branch of the tree Adam ate from and say that when it bears fruit Adam "should
 be guerished and all whole"; Seth comes home to find Adam dead and plants it
 on his grave. The Erdy codex (1526-27) follows that; the Teleki codex
-(1525-31) has Seth find Adam dead. The Life of Adam and Eve, chapters 40-42,
+(1525-31) is the one telling in which Adam is still alive when Seth comes
+back, and asks him to plant the branch at his head when he dies. An earlier
+printing of this note had the Teleki codex the other way round; that was
+wrong. The Life of Adam and Eve, chapters 40-42,
 sends Seth for the oil of mercy and has Michael refuse it until the end of
 time.
-source: K&T entries for the signs glossed "branch or seedling or seed", "light" (b), "heal" (III) and "place" (b, expr. immediately); 006r:1-3, 9-11; Caxton's Golden Legend, The Invention of the Holy Cross; Latin Life of Adam and Eve 40-42; Erdy-kodex, Teleki-kodex, as quoted in "Adam es a keresztfa" (ELTE, magyar-irodalom.elte.hu)
+source: K&T entries for the signs glossed "branch or seedling or seed", "light" (b), "heal" (III) and "place" (b, expr. immediately); 006r:1-3, 9-11; Caxton's Golden Legend, The Invention of the Holy Cross; Latin Life of Adam and Eve 40-42; Erdy-kodex, Teleki-kodex, as quoted in Borbala Lovas, "Adam a kereszt alatt" (ELTE, magyar-irodalom.elte.hu)
 
 ## anchor: «Master, when will judgment day come?» (223v)
 

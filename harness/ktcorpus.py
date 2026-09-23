@@ -82,7 +82,7 @@ def note_sources():
     sec = re.search(r"^## 6\. Sources consulted for the endnotes.*?(?=^## )", txt, re.M | re.S)
     out = []
     if sec:
-        for b in re.findall(r"^- (\*\*.*?)(?=^- |\Z)", sec.group(0), re.M | re.S):
+        for b in re.findall(r"^- (\*\*.*?)(?=^- |^\n(?=\S)|\Z)", sec.group(0), re.M | re.S):
             one = " ".join(b.split())
             m = re.match(r"\*\*(.+?)\*\*\s*(.*)", one)
             if not m:

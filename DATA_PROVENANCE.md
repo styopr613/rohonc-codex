@@ -118,28 +118,36 @@ Both were fetched once, at one request, with the project's user agent.
 
 ## 6. Sources consulted for the endnotes, 2026-09-23 -- read, not fetched
 
-Five endnotes in Book One (on 004r, 004v, 002r, 006r and 223v) name texts
+Five endnotes in Book One (on 008v, 004r, 002r, 006r and 223v) name texts
 outside the corpus. None was downloaded into `data/ref/`; each was read online once, at
 the address below, and is cited in the note by chapter or page. Nothing from
-any of them is reproduced. What each supplied:
+any of them is reproduced. On 2026-09-23 every source line of all 55 endnotes
+was checked again: every address fetched, every page or chapter read against
+the claim, the scripture and corpus citations against the files on disk. The
+second list below records the texts that check touched for the earlier
+notes, and the corrections made are stated in the notes themselves. What each
+supplied:
 
-- **The Slavonic Book of Enoch (2 Enoch).** The angel Vereveil dictates and
+- **The Slavonic Book of Enoch (2 Enoch).** The angel Vereviel dictates and
   Enoch writes 360 books (chapters 22-23). Survives only in Church Slavonic,
   over twenty manuscripts, 14th to 18th century. R. H. Charles's 1913 volume
   already on the shelf (section 5) prints it, but only the Adam and Eve pages
   of that volume are indexed. Read from the Wikipedia summary,
   `https://en.wikipedia.org/wiki/2_Enoch`.
 - **The Apocalypse of Elijah.** Opens "The word of the Lord came to me" and
-  ends with Enoch and Elijah killed by the Antichrist and raised (4:7-19).
+  has Enoch and Elijah killed by the Antichrist and raised after three days
+  and a half (4:7-19); the work itself ends with their second coming.
   Coptic, third or fourth century. English text read at
   `https://www.abrahamicstudyhall.org/2026/03/15/the-apocalypse-of-elijah-apocrypha-1-elijah/`.
 - **Lajos Kalmany, *Vilagunk alakulasai nyelvhagyomanyainkban* (Szeged,
   1893).** Folk tellings from villages near Szeged: Elijah at the fall of the
   angels, Lucifer's war at the making of man, Elijah and Enoch taken up.
-  Public domain; the PDF is at `https://mek.oszk.hu/06900/06953/`, p. 29.
+  Public domain; the PDF is at `https://mek.oszk.hu/06900/06953/`: the Terjan
+  telling of Lucifer forming Elijah and Enoch is on p. 11, Elijah at the fall
+  of the angels on pp. 28-29.
 - **Sandor Balint, "Nepi kozmogonia, termeszetismeret", *A Mora Ferenc
   Muzeum Evkonyve* 1978/79-2, 429-466.** Restates and extends Kalmany's
-  material, p. 431. In copyright; consulted at
+  material, pp. 430-432. In copyright; consulted at
   `https://epa.oszk.hu/01600/01609/00023/pdf/MFME_EPA01609_1978_1979_2_429-466.pdf`,
   not copied.
 - **The Romanian carols of Judas plundering paradise (*Iuda si pradarea
@@ -148,26 +156,42 @@ any of them is reproduced. What each supplied:
   read in the survey at
   `https://www.crestinortodox.ro/craciun/obiceiuri-craciun/iuda-pradarea-raiului-colindele-traditionale-romanesti-122000.html`.
 - **The Slavonic apocryphon of Michael and Satanael.** Bulgarian, 11th or
-  12th century; Satanael's throne above the seventh heaven, Michael sent
-  twice. Read from the abstract of a 2017 Humboldt thesis on its Romanian
-  version (academia.edu 43677889) and Nikolai Rainov's Bulgarian retelling
-  at `https://www.otizvora.com/2013/02/5331/nikolaj-rajnov-satanailovo-tsarst/`.
-  The full editions (Miltenova 1981, 1983) were not reachable from here.
+  12th century. Satanael sets up a throne of his own and steals the robe, the
+  wreath and the sceptre made for God; Gabriel is sent and refuses out of
+  fear, Michael is sent and wins them back by a ruse. Plot read in Georgi
+  Minczew, "John Chrysostom's Tale on How Michael Vanquished Satanael",
+  *Studia Ceranea* 1 (2011) 23-54, open access at
+  `https://czasopisma.uni.lodz.pl/sceranea/article/download/5519/5192/15883`;
+  the throne above the seventh heaven is Nikolai Rainov's Bulgarian retelling
+  at `https://www.otizvora.com/2013/02/5331/nikolaj-rajnov-satanailovo-tsarst/`;
+  the Romanian version is the subject of a 2017 Humboldt thesis (academia.edu
+  43677889, abstract only). The full editions (Miltenova 1981, 1983) were not
+  reachable from here. An earlier version of this entry said Michael was sent
+  twice; that was wrong.
 - **The Wartburgkrieg and the Grail.** Recorded as a trap: the 13th-century
   poem has a stone falling from Lucifer's crown; the cup was added by Albert
   Schulz ("San Marte") in 1832. Read at
   `https://www.jasoncolavito.com/the-holy-grail-as-lucifers-crown-jewel.html`.
 - **Carmelite tradition on John and Carmel.** *Catholic Encyclopedia* (1908),
   "The Carmelite Order", `https://www.newadvent.org/cathen/03354a.htm`, public
-  domain; and the Order's own page on the legend of the Holy Family and the
-  hermits at Elijah's well, `https://ocarm.org/en/item/4443-with-mary-the-mother-of-jesus`.
-- **Suarez, *De Angelis* VII.13, and Mary of Agreda, *Mystical City of God*
-  (1670).** Cited at second hand for the angels' test in its Franciscan and
-  its narrated forms; neither was read in the original.
-- **"Adam es a keresztfa" (Adam and the cross-tree), a Hungarian study on
-  the ELTE server.** Quotes the Seth episode from the Erdy codex (1526-27),
-  the Teleki codex (1525-31) and the Debreceni codex (1519), which were not
-  reachable themselves. Read at
+  domain; and the Order's own page on Saint Joseph, which records the medieval
+  legend that the Holy Family visited the hermits at Elijah's well,
+  `https://www.ocarm.org/en/item/6050-st-joseph-and-the-carmelite-order`. An
+  earlier version of this entry pointed at the Order's page on Mary, which
+  does not carry the legend; that was wrong.
+- **Suarez, *De Angelis* VII.13 (Lyon 1620, posthumous), and Mary of Agreda,
+  *Mystical City of God* (1670).** Cited at second hand for the angels' test
+  in its theological and its narrated forms; neither was read in the original.
+  Suarez is cited as the *Catholic Encyclopedia* (1908), "Devil", cites him,
+  `https://www.newadvent.org/cathen/04764a.htm`; Agreda's chapter on the
+  creation of the angels and the fall of Lucifer, part I, book 1, from an
+  online abridgment.
+- **Borbala Lovas, "Adam a kereszt alatt" (Adam under the cross), a
+  Hungarian study on the ELTE server.** Quotes the Seth episode from the Erdy
+  codex (1526-27), the Teleki codex (1525-31) and the Debreceni codex (1519),
+  which were not reachable themselves, and says the Teleki codex is the one
+  telling in which Adam is alive when Seth returns. An earlier version of this
+  entry gave the study a wrong title. Read at
   `https://magyar-irodalom.elte.hu/arianna/plaustrum/01LBoriD.html`.
 - **Sanhedrin 97a and Carion's Chronicle.** The "prophecy of Elias": six
   thousand years, in three spans of two thousand. The Talmud read at
@@ -176,6 +200,39 @@ any of them is reproduced. What each supplied:
   `https://en.wikipedia.org/wiki/Johann_Carion`. The chronicle itself was not
   read.
 
+The earlier endnotes cite scripture in the Douay-Rheims and the texts of the
+corpus by chapter; those were checked against the files in `data/ref/rohonc/`.
+Six of them cite texts outside the corpus, and these were read online for the
+check:
+
+- **Augustine, *Quaestiones Evangeliorum* 2.19.** The two pence of the
+  Samaritan are the two commandments of love, or the promise of this life and
+  the next. Latin at `https://www.augustinus.it/latino/questioni_vangeli/questioni_vangeli_2_libro.htm`.
+  The note on 105v had put the two Testaments on his authority; corrected.
+- **Tertullian, *Adversus Praxean* 8.** Root, tree and fruit; fountain, river
+  and stream; sun, ray and the tip of the ray, for the three Persons. English
+  at `https://www.newadvent.org/fathers/0317.htm`. The note on 083v had given
+  the figure to Augustine's *De Trinitate* 6.10, which does not use it;
+  corrected.
+- **Caxton's *Golden Legend* (1483), "Saint Augustine".** The child by the
+  sea is Caxton's own addition, from an altar-piece at the Black Friars in
+  Antwerp, and he says so; Voragine's Latin does not have it. The Augustine
+  chapter is in one of the volumes that could not be fetched for the corpus
+  (section 4). Read about at `https://www.medievalists.net/2019/02/the-child-by-the-seaside-a-medieval-story-about-saint-augustine/`.
+  The note on 084r had put the story in the *Golden Legend* without
+  qualification; corrected.
+- **Adso of Montier-en-Der, *De ortu et tempore Antichristi*.** Antichrist
+  born of a Jewish father and mother of the tribe of Dan, the devil filling
+  the womb; no harlot. English translation at
+  `https://www.tha.de/~harsch/Chronologia/Lspost10/Adso/Letter%20of%20Adso%20to%20Queen%20Gerberga%20Concerning.htm`.
+  The note on 101r had tied the harlot to Adso; corrected.
+- **Council of Trent, session 22 (1562).** The water mixed with the wine is
+  chapter 7 of the doctrine and canon 9. English at
+  `https://en.wikisource.org/wiki/Canons_and_Decrees_of_the_Council_of_Trent/Session_XXII/Sacrifice_of_the_Mass`.
+  The note on 030v had cited canon 7; corrected.
+- **The Christmas proclamation of the Roman Martyrology.** 5,199 years from
+  the creation to the Nativity, as the note on 223v says. English at
+  `https://www.usccb.org/prayer-and-worship/liturgical-year-and-calendar/christmas/christmas-proclamation`.
 ## Citations owed in any write-up
 
 - Levente Zoltán Király and Gábor Tokai, "Cracking the code of the Rohonc
@@ -188,7 +245,7 @@ any of them is reproduced. What each supplied:
   Press, 2021.
 - The anonymous author of the 2014 open transcription.
 - Lajos Kálmány (1893) and Sándor Bálint (1978/79), for the Szeged folk
-  tellings three endnotes cite.
+  tellings one endnote cites.
 
 ## 4. `data/ref/rohonc/` — the wider reference corpus, 2026-09-20
 

@@ -635,8 +635,9 @@ def note_references():
     out = ["Some endnotes name texts that are not among the books the codex is compiled from: "
            "later witnesses to the same stories, or the tradition a page draws on. None was "
            "added to the corpus. Each was read once, at the address given, and nothing from "
-           "any of them is reproduced here. What each supplied to the note, and its copyright "
-           "position, is stated with it.", ""]
+           "any of them is reproduced here. Every source behind every endnote was checked "
+           "again on 23 September 2026, and the notes that had to be corrected say so on the page. "
+           "What each supplied to the note, and its copyright position, is stated with it.", ""]
     for e in ktcorpus.note_sources():
         out.append(f"**{e['name']}.** " + re.sub(r"`(https?://[^`]+)`", r"\1", e["text"]))
         out.append("")

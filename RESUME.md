@@ -1,5 +1,27 @@
 # Where this stopped — 2026-09-23
 
+## SOURCE AUDIT — 2026-09-23, later
+
+Every source behind all 55 endnotes was checked: all 19 addresses fetched
+(all live), each cited page or chapter read against the note's claim, the
+Douay-Rheims and corpus citations checked against `data/ref/rohonc/`. Ten
+claims were wrong and are corrected in place, each note saying an earlier
+printing was wrong: Michael "sent twice" (the tale sends Gabriel, who
+refuses, then Michael); Duns Scotus and "the 1590s" for Suarez (De Angelis
+is Lyon 1620, posthumous); the Teleki codex (Adam is ALIVE when Seth returns
+there); the ELTE study's title (Lovas, "Adam a kereszt alatt"); Augustine's
+two pence (commandments of love, not the two Testaments); the sun figure
+(Tertullian, Adv. Prax. 8, not De Trinitate 6.10); the child by the sea
+(Caxton's 1483 addition, not Voragine); Adso (no harlot); Trent (chapter 7
+and canon 9, not canon 7); Mark 16:14 quote ("at table"). Page numbers for
+Kalmany (11, 28-29) and Balint (430-432) tightened; the ocarm.org link
+repointed to the page that carries the Holy Family legend; "three endnotes"
+cite Szeged is one. DATA_PROVENANCE.md section 6 gained a second list of
+the six outside texts the earlier notes cite, with the addresses read.
+ktcorpus.note_sources() now stops a bullet at a blank line so the paragraph
+between the lists is not swallowed. Open item unchanged: the Kindle file is
+behind the shelf EPUB.
+
 ## NOTES, SOURCES, KINDLE — 2026-09-23
 
 The owner asked how sure the readings on the Lucifer pages are, and then for
