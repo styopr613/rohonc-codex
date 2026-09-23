@@ -387,3 +387,22 @@ and for *be born* each give 004r:11 as their example. The sign for *cup* does
 not stand on this line; it stands on lines 1, 3, 5, 9 and 13 of the folio.
 Reading the line as part of the hiding is this edition's, not theirs.
 source: K&T entries for the signs glossed "mother" and "be born"; 004r:11, 002r:1
+
+## anchor: «when Lucifer hid it» (004r)
+
+The sign Kiraly and Tokai gloss "cup or jar" stands four times on this folio
+and three times elsewhere: the cup of wine and water at the supper (030v:7,
+095v:1) and Elijah's cup of water (133v:4). None of the sources this edition
+reads has Lucifer take a cup. The nearest are these. In the Romanian carols of
+Judas plundering paradise, Judas enters while the keeper sleeps and takes
+"ulcicuța cea de vin", the little jug of wine, and "scaunul de-mpărăție", the
+throne, and a servant runs to tell God; the carols were written down in the
+nineteenth and twentieth centuries. In the Slavonic tale of Michael and
+Satanael, from Bulgaria in the eleventh or twelfth century, Satanael sets his
+throne above the seventh heaven, God sends Michael, Michael comes back beaten
+and is sent a second time; on this folio the angel returns to the Father at
+lines 4 and 10. The Grail cut from a stone of Lucifer's crown is not medieval:
+the Wartburgkrieg, about 1250, has only the stone, and the cup was added by
+Albert Schulz in 1832. The word in brackets, steal, is this edition's, tier G,
+read from this folio alone.
+source: K&T entry for the sign glossed "cup or jar"; 004r:3, 5, 9, 13; 030v:7, 095v:1, 133v:4; Romanian colinde "Iuda și prădarea raiului"; Slavonic "Struggle of Michael and Satanael"; Wartburgkrieg; proposals.json 747540, tier G
