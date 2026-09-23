@@ -103,7 +103,14 @@ DOCS = [
 
 CONTACT = "info@oona13.com"
 
-NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("atlas", "Atlas"), ("reading", "The reading"),
+# "The reading" is NOT in this list, deliberately. It sat beside "Read it" and
+# the two names told a visitor nothing apart: "Read it" is the book, the
+# narrative and the complete gloss; reading.html is a summary written from the
+# gloss, one paragraph a folio. It keeps its front-page card, its links from
+# the pages that need it, and its place in the sitemap at priority 0.8 -- the
+# book is behind a JS reader, so those 441 paragraphs are the largest piece of
+# the codex's text a crawler can see. Out of the menu, not off the site.
+NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("atlas", "Atlas"),
        ("finds", "Discoveries"), ("corpus", "The corpus"), ("dictionary", "Dictionary"), ("tests", "Tests"), ("method", "Method"),
        ("sources", "Sources"), ("data", "Data")]
 
@@ -981,7 +988,7 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 <div class="cards">
 <a class="card" href="/rohonc/script.html"><b>The script</b><span>{html.escape(COPY["card_script"].strip())}</span></a>
 <a class="card" href="/rohonc/atlas.html"><b>Atlas</b><span>{html.escape(COPY["card_atlas"].strip())}</span></a>
-<a class="card" href="/rohonc/reading.html"><b>The reading</b><span>{html.escape(COPY["card_reading"].strip())}</span></a>
+<a class="card" href="/rohonc/reading.html"><b>Summary of the gloss</b><span>{html.escape(COPY["card_reading"].strip())}</span></a>
 <a class="card" href="/rohonc/dictionary.html"><b>Dictionary</b><span>{html.escape(COPY["card_dictionary"].strip())}</span></a>
 <a class="card" href="/rohonc/tests.html"><b>Tests</b><span>{html.escape(COPY["card_tests"].strip())}</span></a>
 <a class="card" href="/rohonc/method.html"><b>Method</b><span>{html.escape(COPY["card_method"].strip())}</span></a>
@@ -1003,8 +1010,9 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 
 
 def page_reading(order, eng):
-    parts = ['<h1>The reading, folio by folio</h1>',
+    parts = ['<h1>An English summary of the gloss</h1>',
              paras("reading_lead", "lead"),
+             '<p class="acts"><a class="go" href="/read/rohonc.php">Open the book</a></p>',
              '<p>A word in brackets is a restoration. The line-by-line gloss each paragraph rests on is in the <a href="/rohonc/data.html">rendering</a>.</p>']
     n = 0
     for fol, title in order:
@@ -1015,8 +1023,9 @@ def page_reading(order, eng):
             n += 1
         else:
             parts.append('<p class="nof">No English was written for this folio: the gloss carries too little to say anything true.</p></div>')
-    return shell("reading", "The reading",
-                 f"The Rohonc Codex in English, one paragraph per folio for all {len(order)} folios, written from the gloss alone.",
+    return shell("reading", "An English summary of the gloss",
+                 f"One paragraph of English for each of the {len(order)} written pages of the Rohonc Codex, summarising the gloss. "
+                 "The full text, the narrative and the complete gloss, is in the book.",
                  "\n".join(parts)), n
 
 
