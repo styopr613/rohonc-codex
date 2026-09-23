@@ -23,8 +23,9 @@ the Antichrist and raised after three days and a half, which is 133v. In Hungari
 gathered near Szeged in the 1890s, Elijah is present at the fall of the
 angels and throws them down with lightning at the Father's word, Michael runs
 to the Father for help, and in one village Lucifer forms Elijah and Enoch but
-cannot give them souls, so God does and takes them up to heaven. Those
-tellings are three hundred years younger than the book. The same book puts
+cannot give them souls, so God does and takes them up to heaven. Those tellings are three hundred years younger than the book and are the
+earliest written record of them found here; whether the book is an earlier
+witness to the same belief is not known. The same book puts
 the baptism on Carmel, Elijah's mountain, at 024r, 189r and 195r, against
 Matthew 3:13 and Mark 1:9, and has John preach there at 116v; Carmelite
 tradition makes John the heir of Elijah's hermits on Carmel.
@@ -64,8 +65,10 @@ source: 223v:9–10; *Martyrologium Romanum*, 25 December
 Kiraly and Tokai date the manuscript to 1593 by their own route. The count on
 this line runs from the departure to the Father, named on line 1 of the same
 folio, not from the Nativity; 33 plus 1560 is 1593. The addition is this
-edition's, not the manuscript's.
-source: 223v:1–2; Kiraly and Tokai, *Cryptologia* 42:4 (2018)
+edition's, not the manuscript's. Counted from the same point, the two
+thousand years that 222r:2-4 sets before the judgment end in 2033; the note
+on the question at 223v gives that count.
+source: 223v:1–2, 222r:2–4; Kiraly and Tokai, *Cryptologia* 42:4 (2018)
 
 ## anchor: «six hundred» and «six ten» and «six»
 
@@ -419,8 +422,9 @@ nineteenth and twentieth centuries. In the Slavonic tale of Michael and
 Satanael, from Bulgaria in the eleventh or twelfth century, Satanael sets up a
 throne of his own and steals the robe, the wreath and the sceptre made for
 God; God sends Gabriel, who is afraid and will not go, and then Michael, who
-goes down and wins them back. On this folio the angel returns to the Father at
-lines 4 and 10. An earlier printing of this note had Michael sent twice; that
+goes down and wins them back. In both tellings the wrong done is theft from
+heaven, and both come from the lands south and east of Hungary. On this folio
+the angel returns to the Father at lines 4 and 10. An earlier printing of this note had Michael sent twice; that
 was wrong. The Grail cut from a stone of Lucifer's crown is not medieval:
 the Wartburgkrieg, about 1250, has only the stone, and the cup was added by
 Albert Schulz in 1832. The word in brackets, steal, is this edition's, tier G,
@@ -460,7 +464,8 @@ back, and asks him to plant the branch at his head when he dies. An earlier
 printing of this note had the Teleki codex the other way round; that was
 wrong. The Life of Adam and Eve, chapters 40-42,
 sends Seth for the oil of mercy and has Michael refuse it until the end of
-time.
+time. Of the tellings named here, the Teleki codex alone has Adam alive when
+Seth comes back, and this book alone has him healed.
 source: K&T entries for the signs glossed "branch or seedling or seed", "light" (b), "heal" (III) and "place" (b, expr. immediately); 006r:1-3, 9-11; Caxton's Golden Legend, The Invention of the Holy Cross; Latin Life of Adam and Eve 40-42; Erdy-kodex, Teleki-kodex, as quoted in Borbala Lovas, "Adam a kereszt alatt" (ELTE, magyar-irodalom.elte.hu)
 
 ## anchor: «Master, when will judgment day come?» (223v)

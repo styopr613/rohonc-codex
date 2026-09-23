@@ -748,9 +748,88 @@ Both are printed as the manuscript has them. An edition that cut them would be
 a worse witness to what a Catholic in Hungary in 1593 was actually reading."""},
         {"type": "appendix", "pos": 4, "title": "The corpus",
          "text": corpus_appendix()},
-        {"type": "appendix", "pos": 5, "title": "References for the endnotes",
+        {"type": "appendix", "pos": 5, "title": "What the sources turned up",
+         "text": """The check of the endnotes on 23 September 2026 read every text
+they cite. Four things came out of it that are readings of the facts rather
+than facts about the manuscript, and so do not belong in a note. They are set
+down here with the facts beside them, and with what is not known said plainly.
+The end of the world, which the book gives a date for, is worked out at the
+end.
+
+**The stolen cup has neighbours.** On 004r Lucifer hides a cup, and an angel
+goes back to the Father twice on the one leaf. No source in the corpus has
+that. In the Slavonic tale of Michael and Satanael, from Bulgaria in the
+eleventh or twelfth century, Satanael's wrong is theft: he takes the robe,
+the wreath and the sceptre made for God, God sends Gabriel, who is afraid and
+will not go, and then Michael, who goes down and wins them back by a trick. In
+the Romanian carols of Judas plundering paradise, Judas goes in while God
+sleeps and takes the little jug of wine, the throne, the sun and the moon, and
+a servant runs to tell God. The Grail cut from a stone of Lucifer's crown,
+which is where a reader today would look first, is not medieval: the poem of
+about 1250 has only the stone, and the cup was put in by Albert Schulz in
+1832. A devil who steals holy things out of heaven is a pattern of the book's
+own neighbours to the south and east, and the cup on 004r sits inside it.
+Which telling the author knew, if any, is not known.
+
+**Adam healed by the branch has a Hungarian relative.** In the Golden Legend
+Seth comes home from paradise with the branch to find Adam dead, and plants it
+on his grave. In the Teleki codex, a Hungarian Franciscan manuscript of 1525
+to 1531, and in it alone among the Hungarian tellings, Adam is still alive
+when Seth comes back, and asks him to plant the branch at his head when he
+dies. On 006r of this book Seth brings the branch and Adam's eyes are opened
+at once. The nearest relative of that page is Hungarian and sixty years older
+than the date the book gives itself. The healing is in no source found; it is
+the book's own.
+
+**Elijah at the fall of the angels.** The book puts an angel dictating to
+Elijah around the fall of Lucifer, at 004v through 008v, and brings Elijah
+and Enoch back at 133v to be killed by the Antichrist and raised. In villages
+near Szeged in the 1890s, Lajos Kalmany wrote down tellings in which Elijah
+is there at the fall of the angels and throws them down with lightning at the
+Father's word, and in one village Lucifer forms Elijah and Enoch out of mud
+and cannot give them souls, so God does. Those tellings were written down
+three hundred years after the book, and they are the earliest record of them
+found here. Whether the book is an early witness to a belief the villages
+kept, or the belief grew out of books like this one, is not known.
+
+**The author cites what he was taught.** Three places show it. On 105v he
+names Augustine for the two pence of the Samaritan being the two Testaments;
+Augustine's own reading, in his Questions on the Gospels, is the two
+commandments of love. On 084r he tells Augustine and the child emptying the
+sea into a hole; that story is in no Latin Golden Legend, and first appears
+in print in Caxton's English of 1483, taken, Caxton says, from an altar-piece
+in Antwerp. On 101r Antichrist is born of a harlot; Adso's letter, the
+standard Latin account, has him born of a Jewish father and mother. All three
+are what a preacher carries from sermon handbooks and church pictures rather
+than from the texts. That fits a man setting the book down from memory, which
+is what the rest of it looks like.
+
+**The end of the world.** The book counts its own date. At 223v:9-10 it
+gives 5,199 years from the creation to the Nativity, the figure of the Roman
+Martyrology's Christmas proclamation, spelled out sign by sign. At 223v:1-2
+it gives 1,560 years run since the departure to the Father, named on the
+same leaf; 33 and 1,560 make 1593, the year Kiraly and Tokai reached by their
+own route. At 223v:13 someone asks the master when judgment day will come,
+and the answer is on the next leaf, 222r:2-4: "in turn, [?], out, [after] two
+thousand, this is ... one day, and ... judgment year, because the new Son of
+God judges." "Two thousand" is a numeral by Kiraly and Tokai's own rule, and
+the same word is read at 215r:4. "Out" is the word 223v uses for the years
+run since the Ascension. "After" is this edition's word, tier G, and the sign
+before "out" is unread. What the two thousand are counted from is not on the
+leaf. Counted from the Nativity, they end in the year 2000. Counted from the
+Ascension, which is the epoch the book's own count uses two lines away, they
+end in 2033. The scheme behind the figure is old: the Talmud, Sanhedrin 97a,
+has the school of Elijah teach that the world lasts six thousand years, two
+thousand of chaos, two thousand of the Law, two thousand of the Messiah, and
+Melanchthon put that scheme at the head of Carion's Chronicle in 1532, sixty
+years before this book. The book's own 5,199 years to the Nativity would put
+six thousand in the year 801, so its two thousand cannot be the whole count;
+it is the last span of the three, and the book is counting to its end. That is
+as far as the leaf goes. It does not say 2033. It says two thousand, and the
+reader chooses where to start counting."""},
+        {"type": "appendix", "pos": 6, "title": "References for the endnotes",
          "text": note_references()},
-        {"type": "appendix", "pos": 6, "title": "Acknowledgment",
+        {"type": "appendix", "pos": 7, "title": "Acknowledgment",
          "text": """The dictionary and the grammar of the Rohonc Codex are the
 work of **Levente Zoltan Kiraly** and **Gabor Tokai**, published as "Cracking
 the code of the Rohonc Codex", *Cryptologia* 42:4 (2018), 285-315, with

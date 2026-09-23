@@ -104,7 +104,7 @@ DOCS = [
 CONTACT = "info@oona13.com"
 
 NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("reading", "The reading"),
-       ("corpus", "The corpus"), ("dictionary", "Dictionary"), ("tests", "Tests"), ("method", "Method"),
+       ("finds", "Discoveries"), ("corpus", "The corpus"), ("dictionary", "Dictionary"), ("tests", "Tests"), ("method", "Method"),
        ("sources", "Sources"), ("data", "Data")]
 
 CREDIT = html.escape(COPY["credit_line"].strip())
@@ -1503,6 +1503,26 @@ def notes_sources():
     return out
 
 
+
+def page_finds():
+    """Discovering the work: the readings of the facts the source check turned
+    up, and the end-of-world count. ONE text: the book's appendix "What the
+    sources turned up" in ktbook.back_matter(), rendered here, so the page and
+    the book cannot drift."""
+    import ktbook
+    app = [a for a in ktbook.back_matter() if a["title"] == "What the sources turned up"]
+    if not app:
+        raise SystemExit("ktsite: the book has no appendix 'What the sources turned up'")
+    body = f"""
+<h1>Discovering the work</h1>
+<p class="lead">Things the sources turned up that are readings of the facts rather than facts about the manuscript. They stand outside the endnotes for that reason, and each one says what is not known. The same text is printed in the book as the appendix "What the sources turned up".</p>
+{md(app[0]["text"])}
+<p>The facts these rest on are in the endnotes of Book One, and every text they cite is listed under <a href="/rohonc/sources.html">Sources</a>.</p>
+"""
+    return shell("finds", "Discovering the work",
+                 "What reading the sources behind the Rohonc Codex turned up: the stolen cup's neighbours, Adam healed by the branch, Elijah at the fall of the angels, and the date the book gives the end of the world.",
+                 body)
+
 def page_sources():
     cites = citations()
     gloss = [str(x) for x in COPY["sources_cites"]]
@@ -1732,6 +1752,7 @@ def _build(out, final):
     w("dictionary.html", page_dictionary(about, rows, ktn))
     w("tests.html", page_tests(summary))
     w("sources.html", page_sources())
+    w("finds.html", page_finds())
     w("outside-gemini.html", page_outside("tests", "gemini_tests.md", "Outside review: Gemini 2.5 Pro"))
     w("outside-grok.html", page_outside("tests", "grok_tests.md", "Outside review: Grok 4.7"))
     w("data.html", page_data([]))
