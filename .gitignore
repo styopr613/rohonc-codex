@@ -20,3 +20,20 @@ work/rohonc/source_index.pkl
 # history is still in git. The file stays at this path because the /decipher
 # skill and the project memory both point at it.
 RESUME.md
+
+# THE SITE'S ARTWORK AND THE ATLAS PLATES. None of this is evidence for the
+# reading, and none of it was ever chosen for publication: ktcommit.sh ran
+# `git add -A`, so every picture the site build left in the working tree was
+# swept into a repository whose README says it holds everything needed to
+# check the attempt. Five maps and a book rendered in 3D are not that. They
+# stay on disk, the site build still reads them, and they regenerate --
+# the plates from harness/atlas.json through harness/ktatlas.py, which are
+# tracked, along with the gate that checks their facts have sources.
+work/rohonc/atlas/
+work/rohonc/glass/
+work/rohonc/glass.png
+work/rohonc/book3d.png
+work/rohonc/spin-*.webp
+
+# A stray before-copy that predates the rule in archive/README.md.
+work/rohonc/translation/reading.md.raw-*

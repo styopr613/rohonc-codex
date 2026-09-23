@@ -46,6 +46,21 @@ while read -r c; do
   fi
 done < gates.txt
 if [ "$ok" != 1 ]; then echo "NOT COMMITTED: fix the failure above first"; exit 1; fi
-cd .. && git add -A && git commit -q -m "$msg
+cd .. || exit 1
+# SAY WHAT IS BEING COMMITTED. `git add -A` is right -- anything else silently
+# drops new files, which is worse -- but it is a sweep, and an unnarrated sweep
+# is how this repository acquired things nobody chose to publish: GPT's commit
+# went out inside the Atlas commit f97f327, a 6.4MB duplicate of the EPUB went
+# out on 2026-09-22, and 10MB of the site's own artwork -- five atlas plates,
+# the book rendered in 3D, the glass textures -- sat in a repository whose
+# README says it holds everything needed to check the attempt. .gitignore now
+# refuses those by name. This prints the rest, so the next one is visible
+# before it goes in rather than found later by a reader.
+git add -A
+echo
+echo "  committing:"
+git diff --cached --name-status | sed 's/^/    /'
+echo
+git commit -q -m "$msg
 
 Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>" && git log --oneline | head -1

@@ -74,12 +74,18 @@ blocked and has no result to reproduce.
 | [`archive/`](archive) | files no longer part of the edition, kept because the record of how a reading changed is itself evidence |
 | [`RESULTS.md`](RESULTS.md) | the Voynich harness this project began as. See the last section |
 
-Two directories are named throughout the documents and are deliberately not
-here. `data/` holds the sources — Király and Tokai's dictionary and
-transcription, the manuscript scans, the reference corpora — which are other
-people's and are not redistributed. `refs/` holds ten cloned prior-work
-repositories, read-only. `DATA_PROVENANCE.md` gives the address and the terms
-for every one of them.
+Three things are named in the documents and are deliberately not here. `data/`
+holds the sources — Király and Tokai's dictionary and transcription, the
+manuscript scans, the reference corpora — which are other people's and are not
+redistributed. `refs/` holds ten cloned prior-work repositories, read-only.
+`DATA_PROVENANCE.md` gives the address and the terms for every one of them.
+
+And the public site's artwork is not here: the five atlas plates, the book
+rendered in 3D, the textures behind the page. They are pictures of a website,
+not evidence for a reading, and this repository is the second kind of thing.
+The atlas plates redraw from `harness/atlas.json` through `harness/ktatlas.py`,
+both tracked, along with `harness/ktatlascheck.py`, which refuses any fact on a
+plate that does not name its source.
 
 ## Reading it
 
