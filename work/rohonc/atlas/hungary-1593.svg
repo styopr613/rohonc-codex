@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 780" class="mapplate" font-family="EB Garamond, Georgia, serif" role="img" aria-label="Hungary in 1593, the year the codex counts to">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 780" class="mapplate" font-family="EB Garamond, Georgia, serif" role="img" aria-label="Hungary in 1593, on the proposed reading">
 <defs><clipPath id="frame-hu"><rect width="1000" height="780"/></clipPath></defs>
 <rect width="1000" height="780" fill="#cdd9d6"/>
 <path d="M30,198 q34,-7 68,0 t68,0 t68,0 t68,0 t68,0 t68,0 t68,0 t68,0 t68,0 t68,0 t68,0 t68,0 t68,0 t68,0" fill="none" stroke="#bccfcb" stroke-width="1.1" opacity="0.5"/>
@@ -22,7 +22,7 @@
 <g clip-path="url(#frame-hu)"><path d="M675.7,346.8 C688.1,338.6 710.6,317.1 729.7,307.2 C748.9,297.3 765.8,282.4 790.5,287.4 C815.3,292.3 859.2,325.4 878.4,336.9 C897.5,348.5 894.1,343.5 905.4,356.7 C916.7,370.0 936.9,394.7 945.9,416.2 C955.0,437.7 958.3,459.1 959.5,485.5 C960.6,512.0 964.0,556.5 952.7,574.7 C941.4,592.9 913.3,592.9 891.9,594.5 C870.5,596.2 846.8,586.3 824.3,584.6 C801.8,583.0 774.8,583.0 756.8,584.6 C738.7,586.3 725.2,602.8 716.2,594.5 C707.2,586.3 711.7,553.2 702.7,535.1 C693.7,516.9 671.2,502.0 662.2,485.5 C653.2,469.0 652.0,452.5 648.6,436.0 C645.3,419.5 640.8,399.7 641.9,386.5 C643.0,373.3 649.8,363.3 655.4,356.7 C661.0,350.1 663.3,355.1 675.7,346.8Z" fill="#a8842f" opacity="0.42" stroke="none"/></g>
 <g clip-path="url(#frame-hu)"><path d="M13.5,574.7 C20.3,565.6 38.3,561.8 54.1,559.8 C69.8,557.9 93.5,557.9 108.1,562.8 C122.7,567.8 130.6,578.5 141.9,589.6 C153.2,600.6 161.0,611.9 175.7,629.2 C190.3,646.5 214.0,672.9 229.7,693.6 C245.5,714.2 259.0,736.5 270.3,753.0 C281.5,769.5 299.5,779.5 297.3,792.7 C295.0,805.9 274.8,842.2 256.8,832.3 C238.7,822.4 208.3,759.6 189.2,733.2 C170.0,706.8 166.7,688.6 141.9,673.8 C117.1,658.9 61.9,654.0 40.5,644.1 C19.1,634.1 18.0,625.9 13.5,614.3 C9.0,602.8 6.8,583.8 13.5,574.7Z" fill="#6b8e8a" opacity="0.42" stroke="none"/></g>
 <rect x="0" y="0" width="1000" height="158" fill="#f6f1e7"/>
-<text x="30" y="46" font-size="30" font-weight="600" fill="#1b212e">Hungary in 1593, the year the codex counts to</text>
+<text x="30" y="46" font-size="30" font-weight="600" fill="#1b212e">Hungary in 1593, on the proposed reading</text>
 <text x="30" y="76" font-size="17" font-style="italic" fill="#4a5468">A kingdom in three parts, and the town the book is named for in its Habsburg west. Borders approximate.</text>
 <text x="398.6" y="262.6" font-size="19" font-weight="600" letter-spacing="2.5" fill="#1b212e" text-anchor="middle">HABSBURG LANDS</text>
 <text x="398.6" y="280.7" font-size="13.7" font-style="italic" fill="#1b212e" text-anchor="middle">Royal Hungary, Croatia, Austria</text>
@@ -80,11 +80,11 @@
 <text x="385.1" y="559.8" font-size="14" fill="#5f8791" text-anchor="middle" font-style="italic">Drava</text>
 <text x="402.0" y="460.8" font-size="13" fill="#5f8791" text-anchor="middle" font-style="italic">Balaton</text>
 <text x="81.1" y="693.6" font-size="17" fill="#103b44" text-anchor="middle" font-style="italic">Adriatic Sea</text>
-<g class="ev" tabindex="0" data-label="1593" data-date="1593" data-desc="The codex&#x27;s last leaves count one thousand five hundred and sixty years from the Ascension, which is 1593. That summer the Long Turkish War began between the Habsburgs and the Ottomans, and it ran until 1606. Rohonc lay about a hundred kilometres from the frontier at Kanizsa.">
+<g class="ev" tabindex="0" data-label="The proposed reading: 1593" data-date="1593" data-desc="On Kiraly and Tokai&#x27;s reading, one of the codex&#x27;s last leaves counts one thousand five hundred and sixty years from the Ascension, giving 1593. That summer the Long Turkish War began between the Habsburgs and the Ottomans, and it ran until 1606. Rohonc lay about a hundred kilometres from the frontier at Kanizsa.">
 <rect x="630" y="100" width="350" height="140" rx="8" fill="#f6f1e7" stroke="#b9543b" stroke-width="1.6" opacity="0.96"/>
 <text x="646" y="122" font-size="14.0" font-weight="700" letter-spacing="1.6" fill="#b9543b">1593</text>
-<text x="646" y="151" font-size="15.5" fill="#1b212e">The codex&#x27;s last leaves count 1,560 years</text>
-<text x="646" y="170" font-size="15.5" fill="#1b212e">from the Ascension: 1593.</text>
+<text x="646" y="151" font-size="15.5" fill="#1b212e">On Kiraly and Tokai&#x27;s reading, a last leaf</text>
+<text x="646" y="170" font-size="15.5" fill="#1b212e">counts 1,560 years from the Ascension: 1593.</text>
 <text x="646" y="189" font-size="15.5" fill="#1b212e">That summer the Long Turkish War began</text>
 <text x="646" y="209" font-size="15.5" fill="#1b212e">(1593-1606). Rohonc lay about a hundred</text>
 <text x="646" y="228" font-size="15.5" fill="#1b212e">kilometres from the frontier at Kanizsa.</text>

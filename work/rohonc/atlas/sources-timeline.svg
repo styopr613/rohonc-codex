@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 720" class="worldtl" font-family="EB Garamond, Georgia, serif" role="img" aria-label="When the codex's sources were written">
 <rect width="1000" height="720" fill="#f6f1e7"/>
 <text x="30" y="46" font-size="30" font-weight="600" fill="#1b212e">When the stories were written</text>
-<text x="30" y="76" font-size="17" font-style="italic" fill="#4a5468">Sixteen centuries of texts, and the year the codex gathered them. The scale opens out after 1250, where most of them fall.</text>
+<text x="30" y="76" font-size="17" font-style="italic" fill="#4a5468">Sixteen centuries of texts, and the proposed date read in the codex. The scale opens out after 1250, where most of them fall.</text>
 <rect x="60" y="100" width="176" height="570" fill="#ece1c9"/>
 <text x="148" y="122" text-anchor="middle" font-size="12.5" letter-spacing="1.8" fill="#4a5468">SCRIPTURE, FATHERS</text>
 <rect x="236" y="100" width="264" height="570" fill="#f1ead9"/>
@@ -39,8 +39,8 @@
 <text x="928" y="422" text-anchor="middle" font-size="12.5" fill="#4a5468">1600</text>
 <line x1="86" y1="392" x2="86" y2="358" stroke="#a8842f" stroke-width="1.1"/>
 <circle cx="86" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
-<line x1="95" y1="392" x2="95" y2="316" stroke="#a8842f" stroke-width="1.1"/>
-<circle cx="95" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
+<line x1="113" y1="392" x2="113" y2="316" stroke="#a8842f" stroke-width="1.1"/>
+<circle cx="113" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
 <line x1="134" y1="392" x2="134" y2="274" stroke="#a8842f" stroke-width="1.1"/>
 <circle cx="134" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
 <line x1="201" y1="392" x2="201" y2="358" stroke="#a8842f" stroke-width="1.1"/>
@@ -59,19 +59,21 @@
 <circle cx="846" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
 <line x1="852" y1="392" x2="852" y2="274" stroke="#a8842f" stroke-width="1.1"/>
 <circle cx="852" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
-<line x1="895" y1="392" x2="895" y2="232" stroke="#a8842f" stroke-width="1.1"/>
+<line x1="895" y1="392" x2="895" y2="316" stroke="#a8842f" stroke-width="1.1"/>
 <circle cx="895" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
+<line x1="928" y1="392" x2="928" y2="232" stroke="#103b44" stroke-width="1.1"/>
+<circle cx="928" cy="400" r="5" fill="#103b44" stroke="#f6f1e7" stroke-width="1.4"/>
 <g class="ev" tabindex="0" data-label="Josephus, The Wars of the Jews" data-date="c. 75" data-desc="Written in Rome after the war. The codex tells the siege, Vespasian and Titus, and the mother who eats her child. The siege of jerusalem.">
 <rect x="54" y="333" width="66" height="17" fill="#f6f1e7" opacity="0.85"/>
 <text x="86" y="346" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Josephus</text>
 <rect x="67" y="319" width="38" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="86" y="330" text-anchor="middle" font-size="12.5" fill="#a8842f">c. 75</text>
 </g>
-<g class="ev" tabindex="0" data-label="The Life of Adam and Eve" data-date="1st c." data-desc="A Jewish work of the first century, Greek and Latin. The codex opens with it and runs it straight into the legend of the Rood. Adam, eve, seth and the branch.">
-<rect x="19" y="291" width="152" height="17" fill="#f6f1e7" opacity="0.85"/>
-<text x="95" y="304" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Life of Adam and Eve</text>
-<rect x="73" y="277" width="44" height="14" fill="#f6f1e7" opacity="0.85"/>
-<text x="95" y="288" text-anchor="middle" font-size="12.5" fill="#a8842f">1st c.</text>
+<g class="ev" tabindex="0" data-label="The Life of Adam and Eve" data-date="1st-3rd c." data-desc="A Jewish and Christian textual tradition preserved in Greek, Latin and other versions; its precise date and place of origin are disputed. The codex opens with it and runs it straight into the legend of the Rood. Adam, eve, seth and the branch.">
+<rect x="37" y="291" width="152" height="17" fill="#f6f1e7" opacity="0.85"/>
+<text x="113" y="304" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Life of Adam and Eve</text>
+<rect x="79" y="277" width="68" height="14" fill="#f6f1e7" opacity="0.85"/>
+<text x="113" y="288" text-anchor="middle" font-size="12.5" fill="#a8842f">1st-3rd c.</text>
 </g>
 <g class="ev" tabindex="0" data-label="Tertullian, Adversus Praxean" data-date="c. 210" data-desc="The figure of the sun for the three Persons, in the endnotes. Sun, ray and the ray&#x27;s tip.">
 <rect x="94" y="249" width="80" height="17" fill="#f6f1e7" opacity="0.85"/>
@@ -115,7 +117,7 @@
 <rect x="782" y="277" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="798" y="288" text-anchor="middle" font-size="12.5" fill="#103b44">1483</text>
 </g>
-<g class="ev" tabindex="0" data-label="The Erdy codex" data-date="1526-27" data-desc="Written by the Carthusian of Lovold. The branch promised, the healing deferred.">
+<g class="ev" tabindex="0" data-label="The Erdy codex" data-date="1526-27" data-desc="Probably written by the Carthusian associated with Lovold; the exact place of composition is not certain. The branch promised, the healing deferred.">
 <rect x="806" y="333" width="80" height="17" fill="#f6f1e7" opacity="0.85"/>
 <text x="846" y="346" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Erdy codex</text>
 <rect x="821" y="319" width="50" height="14" fill="#f6f1e7" opacity="0.85"/>
@@ -127,18 +129,24 @@
 <rect x="836" y="235" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="852" y="246" text-anchor="middle" font-size="12.5" fill="#a8842f">1532</text>
 </g>
-<g class="ev" tabindex="0" data-label="The Roman Missal and Martyrology" data-date="1570" data-desc="A Catholic reader of 1593 is at least as much missal and breviary as it is scripture. The liturgy; 5,199 years to the nativity.">
-<rect x="822" y="207" width="145" height="17" fill="#f6f1e7" opacity="0.85"/>
-<text x="895" y="220" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Missal, Martyrology</text>
-<rect x="879" y="193" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
-<text x="895" y="204" text-anchor="middle" font-size="12.5" fill="#a8842f">1570</text>
+<g class="ev" tabindex="0" data-label="The Roman Missal" data-date="1570" data-desc="A Catholic reader of 1593 is at least as much missal and breviary as it is scripture. The liturgy.">
+<rect x="847" y="291" width="94" height="17" fill="#f6f1e7" opacity="0.85"/>
+<text x="895" y="304" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Roman Missal</text>
+<rect x="879" y="277" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
+<text x="895" y="288" text-anchor="middle" font-size="12.5" fill="#a8842f">1570</text>
+</g>
+<g class="ev" tabindex="0" data-label="The Douay-Rheims Bible" data-date="1582-1610" data-desc="Challoner&#x27;s revision (1750). The Bible this edition reads the codex against, because the compiler worked from the Vulgate. The catholic english of the vulgate.">
+<rect x="884" y="207" width="87" height="17" fill="#f6f1e7" opacity="0.85"/>
+<text x="928" y="220" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Douay Bible</text>
+<rect x="897" y="193" width="62" height="14" fill="#f6f1e7" opacity="0.85"/>
+<text x="928" y="204" text-anchor="middle" font-size="12.5" fill="#103b44">1582-1610</text>
 </g>
 <line x1="90" y1="408" x2="90" y2="440" stroke="#a8842f" stroke-width="1.1"/>
 <circle cx="90" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
-<line x1="113" y1="408" x2="113" y2="482" stroke="#a8842f" stroke-width="1.1"/>
-<circle cx="113" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
-<line x1="152" y1="408" x2="152" y2="524" stroke="#a8842f" stroke-width="1.1"/>
-<circle cx="152" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
+<line x1="122" y1="408" x2="122" y2="482" stroke="#a8842f" stroke-width="1.1"/>
+<circle cx="122" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
+<line x1="174" y1="408" x2="174" y2="524" stroke="#a8842f" stroke-width="1.1"/>
+<circle cx="174" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
 <line x1="313" y1="408" x2="313" y2="440" stroke="#a8842f" stroke-width="1.1"/>
 <circle cx="313" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
 <line x1="412" y1="408" x2="412" y2="482" stroke="#a8842f" stroke-width="1.1"/>
@@ -155,27 +163,27 @@
 <circle cx="848" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
 <line x1="886" y1="408" x2="886" y2="440" stroke="#a8842f" stroke-width="1.1"/>
 <circle cx="886" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
-<line x1="920" y1="408" x2="920" y2="566" stroke="#b9543b" stroke-width="1.1"/>
+<line x1="910" y1="408" x2="910" y2="566" stroke="#a8842f" stroke-width="1.1"/>
+<circle cx="910" cy="400" r="5" fill="#a8842f" stroke="#f6f1e7" stroke-width="1.4"/>
+<line x1="920" y1="408" x2="920" y2="608" stroke="#b9543b" stroke-width="1.1"/>
 <polygon points="920.1,389.0 922.8,396.3 930.5,396.6 924.5,401.4 926.5,408.9 920.1,404.6 913.6,408.9 915.7,401.4 909.6,396.6 917.4,396.3" fill="#b9543b" stroke="#f6f1e7" stroke-width="1.4"/>
-<line x1="928" y1="408" x2="928" y2="608" stroke="#103b44" stroke-width="1.1"/>
-<circle cx="928" cy="400" r="5" fill="#103b44" stroke="#f6f1e7" stroke-width="1.4"/>
 <g class="ev" tabindex="0" data-label="The Gospels and Acts" data-date="c. 70-100" data-desc="The codex says its Passion is taken from Matthew and John, and most of its pages retell the gospels of the year. The compiler had them in the Vulgate. The passion, the parables, the acts.">
 <rect x="39" y="455" width="102" height="17" fill="#f6f1e7" opacity="0.85"/>
 <text x="90" y="468" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Gospels, Acts</text>
 <rect x="59" y="471" width="62" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="90" y="482" text-anchor="middle" font-size="12.5" fill="#a8842f">c. 70-100</text>
 </g>
-<g class="ev" tabindex="0" data-label="The Protevangelium of James" data-date="2nd c." data-desc="The infancy gospel behind the Joachim and Anne cycle; Pseudo-Matthew (7th c., Latin) adds the Golden Gate. Joachim and anne.">
-<rect x="58" y="497" width="109" height="17" fill="#f6f1e7" opacity="0.85"/>
-<text x="113" y="510" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Protevangelium</text>
-<rect x="91" y="513" width="44" height="14" fill="#f6f1e7" opacity="0.85"/>
-<text x="113" y="524" text-anchor="middle" font-size="12.5" fill="#a8842f">2nd c.</text>
+<g class="ev" tabindex="0" data-label="The Protevangelium of James" data-date="late 2nd c." data-desc="The infancy gospel behind the Joachim and Anne cycle; its place of composition is debated. Pseudo-Matthew (probably 7th c., Latin) adds the Golden Gate. Joachim and anne.">
+<rect x="67" y="497" width="109" height="17" fill="#f6f1e7" opacity="0.85"/>
+<text x="122" y="510" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Protevangelium</text>
+<rect x="85" y="513" width="74" height="14" fill="#f6f1e7" opacity="0.85"/>
+<text x="122" y="524" text-anchor="middle" font-size="12.5" fill="#a8842f">late 2nd c.</text>
 </g>
-<g class="ev" tabindex="0" data-label="The Apocalypse of Elijah" data-date="3rd c." data-desc="Egyptian, surviving in Coptic. Enoch and Elijah killed by the Antichrist and raised after three days and a half. Part of the frame the codex hangs everything on. Elijah addressed by the word of the lord.">
-<rect x="76" y="539" width="152" height="17" fill="#f6f1e7" opacity="0.85"/>
-<text x="152" y="552" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Apocalypse of Elijah</text>
-<rect x="130" y="555" width="44" height="14" fill="#f6f1e7" opacity="0.85"/>
-<text x="152" y="566" text-anchor="middle" font-size="12.5" fill="#a8842f">3rd c.</text>
+<g class="ev" tabindex="0" data-label="The Apocalypse of Elijah" data-date="3rd-4th c." data-desc="Egyptian and surviving in Coptic, commonly understood as a third-century core with fourth-century Christian reworking. Enoch and Elijah are killed by the Antichrist and raised after three days and a half. Elijah addressed by the word of the lord.">
+<rect x="98" y="539" width="152" height="17" fill="#f6f1e7" opacity="0.85"/>
+<text x="174" y="552" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Apocalypse of Elijah</text>
+<rect x="140" y="555" width="68" height="14" fill="#f6f1e7" opacity="0.85"/>
+<text x="174" y="566" text-anchor="middle" font-size="12.5" fill="#a8842f">3rd-4th c.</text>
 </g>
 <g class="ev" tabindex="0" data-label="The Reversio sanctae crucis" data-date="7th-8th c." data-desc="The Latin legend of Heraclius humbled at the gate of Jerusalem, dated between the end of the seventh century and the middle of the eighth. Where it was written is not settled. Heraclius and the cross.">
 <rect x="255" y="455" width="116" height="17" fill="#f6f1e7" opacity="0.85"/>
@@ -201,13 +209,13 @@
 <rect x="599" y="513" width="104" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="651" y="524" text-anchor="middle" font-size="12.5" fill="#a8842f">MSS 14th-18th c.</text>
 </g>
-<g class="ev" tabindex="0" data-label="The York, Chester, Towneley and N-Town plays" data-date="15th c." data-desc="The mystery cycles.">
+<g class="ev" tabindex="0" data-label="The York, Chester, Towneley and N-Town plays" data-date="15th c." data-desc="Four distinct English dramatic collections, not a single York corpus; Towneley and N-Town cannot be securely pinned to one city. The mystery cycles.">
 <rect x="726" y="455" width="116" height="17" fill="#f6f1e7" opacity="0.85"/>
 <text x="784" y="468" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">the play cycles</text>
 <rect x="759" y="471" width="50" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="784" y="482" text-anchor="middle" font-size="12.5" fill="#103b44">15th c.</text>
 </g>
-<g class="ev" tabindex="0" data-label="The Debreceni codex" data-date="1519" data-desc="One of three Hungarian codices of the 1520s that carry the Seth episode. Seth at adam&#x27;s grave, in hungarian.">
+<g class="ev" tabindex="0" data-label="The Debreceni codex" data-date="1519" data-desc="Made for the Poor Clares at Obuda; kept in Debrecen since 1753. One of three Hungarian codices of the 1520s that carry the Seth episode. Seth at adam&#x27;s grave, in hungarian.">
 <rect x="780" y="497" width="116" height="17" fill="#f6f1e7" opacity="0.85"/>
 <text x="838" y="510" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Debreceni codex</text>
 <rect x="822" y="513" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
@@ -225,19 +233,19 @@
 <rect x="870" y="471" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="886" y="482" text-anchor="middle" font-size="12.5" fill="#a8842f">1562</text>
 </g>
-<g class="ev" tabindex="0" data-label="The codex" data-date="1593" data-desc="The codex counts to 1593 on one of its last leaves. Everything on this plate that is gold was in its compiler&#x27;s reach in Latin or in Hungarian by then. ">
-<rect x="884" y="581" width="73" height="17" fill="#f6f1e7" opacity="0.85"/>
-<text x="920" y="594" text-anchor="middle" font-size="15" font-weight="600" fill="#b9543b">THE CODEX</text>
-<rect x="904" y="597" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
-<text x="920" y="608" text-anchor="middle" font-size="12.5" fill="#b9543b">1593</text>
+<g class="ev" tabindex="0" data-label="The Roman Martyrology" data-date="1584" data-desc="The official Roman edition was promulgated in 1584, not with the Missal in 1570. 5,199 years to the nativity.">
+<rect x="867" y="581" width="87" height="17" fill="#f6f1e7" opacity="0.85"/>
+<text x="910" y="594" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Martyrology</text>
+<rect x="894" y="597" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
+<text x="910" y="608" text-anchor="middle" font-size="12.5" fill="#a8842f">1584</text>
 </g>
-<g class="ev" tabindex="0" data-label="The Douay-Rheims Bible" data-date="1582-1610" data-desc="Challoner&#x27;s revision (1750). The Bible this edition reads the codex against, because the compiler worked from the Vulgate. The catholic english of the vulgate.">
-<rect x="884" y="623" width="87" height="17" fill="#f6f1e7" opacity="0.85"/>
-<text x="928" y="636" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Douay Bible</text>
-<rect x="897" y="639" width="62" height="14" fill="#f6f1e7" opacity="0.85"/>
-<text x="928" y="650" text-anchor="middle" font-size="12.5" fill="#103b44">1582-1610</text>
+<g class="ev" tabindex="0" data-label="The codex" data-date="proposed: 1593" data-desc="On Kiraly and Tokai&#x27;s reading, one of the codex&#x27;s last leaves gives 1593. Everything on this plate that is gold was in its compiler&#x27;s reach in Latin or in Hungarian by then. ">
+<rect x="884" y="623" width="73" height="17" fill="#f6f1e7" opacity="0.85"/>
+<text x="920" y="636" text-anchor="middle" font-size="15" font-weight="600" fill="#b9543b">THE CODEX</text>
+<rect x="874" y="639" width="92" height="14" fill="#f6f1e7" opacity="0.85"/>
+<text x="920" y="650" text-anchor="middle" font-size="12.5" fill="#b9543b">proposed: 1593</text>
 </g>
 <circle cx="40" cy="698" r="5" fill="#a8842f"/><text x="52" y="703" font-size="14" fill="#4a5468">what the compiler had</text>
 <circle cx="250" cy="698" r="5" fill="#103b44"/><text x="262" y="703" font-size="14" fill="#4a5468">what this edition read it against</text>
-<polygon points="520.0,689.0 522.2,694.9 528.6,695.2 523.6,699.2 525.3,705.3 520.0,701.8 514.7,705.3 516.4,699.2 511.4,695.2 517.8,694.9" fill="#b9543b" stroke="#f6f1e7" stroke-width="1.4"/><text x="536" y="703" font-size="14" fill="#4a5468">the codex, 1593</text>
+<polygon points="520.0,689.0 522.2,694.9 528.6,695.2 523.6,699.2 525.3,705.3 520.0,701.8 514.7,705.3 516.4,699.2 511.4,695.2 517.8,694.9" fill="#b9543b" stroke="#f6f1e7" stroke-width="1.4"/><text x="536" y="703" font-size="14" fill="#4a5468">the codex, proposed date 1593</text>
 </svg>

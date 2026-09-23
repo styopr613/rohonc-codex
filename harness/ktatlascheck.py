@@ -17,6 +17,9 @@ What it refuses, declared before it ran:
   4. A saved SVG that does not parse as XML, or that carries a duplicate id
      (five plates sit inline on one page).
   5. A site copy key the Atlas page needs that is not in ktsite_copy.json.
+  6. A regression to the factual errors corrected in the 2026-09-23 audit:
+     pages called folios, glossed dictionary codes called signs, the Missal and
+     Martyrology given one date, or disputed origins plotted as certain.
 """
 import json
 import os
@@ -115,6 +118,28 @@ def main():
     for k in ("atlas_lead", "card_atlas"):
         if not cp.get(k):
             fails.append(f"ktsite_copy.json: no {k}")
+
+    # 6. factual regressions found in the source audit
+    events = " ".join(e["label"] + " " + e["desc"] for e in d["events"])
+    for bad in ("441 folios", "841 signs read", "Rohonc becomes Rechnitz"):
+        if bad in events:
+            fails.append(f"factual regression in events: {bad!r}")
+    if "proposed" not in next(e for e in d["events"] if e["year"] == 1593)["label"].lower():
+        fails.append("the 1593 event is no longer identified as a proposed reading")
+
+    texts = {t["name"]: t for t in d["texts"]}
+    expected = {"The Roman Missal": 1570, "The Roman Martyrology": 1584}
+    for name, year in expected.items():
+        if name not in texts or texts[name].get("year") != year:
+            fails.append(f"{name}: expected a separate {year} entry")
+    if texts.get("The Debreceni codex", {}).get("place") != "Obuda":
+        fails.append("The Debreceni codex must be located at its place of production, Obuda")
+    for name in ("The Gospels and Acts", "The Life of Adam and Eve",
+                 "The Protevangelium of James", "The Apocalypse of Elijah",
+                 "The Reversio sanctae crucis",
+                 "The York, Chester, Towneley and N-Town plays"):
+        if texts.get(name, {}).get("map", True):
+            fails.append(f"{name}: disputed or multiple origins must not be plotted as one certain place")
 
     for f in fails:
         print("FAIL", f)

@@ -9,11 +9,11 @@ out of, drawn from atlas.json.
 Five plates, each an SVG with a viewBox only, so the site scales it to the
 column, and a PNG proof at 1600 wide for image search and for looking at:
 
-    hungary-1593      the kingdom in three parts in the year the codex counts to
+    hungary-1593      the kingdom in three parts at the proposed date read in the codex
     tongues           the languages and faiths around Rohonc, the presses, the scripts
     sources-map       where the books the codex is compiled from were written,
                       and where the witnesses this edition read it against come from
-    sources-timeline  when those texts were written, ending at 1593
+    sources-timeline  when those texts were written, ending at the proposed date 1593
     codex-timeline    the codex's own history, 1530s to now, with the attempts to read it
 
 Idiom: the Plaintext Classics infographic plates (parchment, EB Garamond, sea /
@@ -96,7 +96,7 @@ def glyph_row(sg, items, x, y, h, color=INK, gap=14, size=13):
 # ---------------------------------------------------------------- plate 1
 def plate_hungary(d):
     m = M.MapPlate(HU_BBOX, W=1000, H=780, pad_top=92, name="hu",
-                   title="Hungary in 1593, the year the codex counts to",
+                   title="Hungary in 1593, on the proposed reading",
                    subtitle="A kingdom in three parts, and the town the book is named for in its Habsburg west. Borders approximate.")
     m.draw_land(tol=0.015)
     m.draw_lakes()
@@ -128,10 +128,10 @@ def plate_hungary(d):
     m.label(17.5, 45.75, "Drava", italic=True, size=14, color="#5f8791", anchor="middle")
     m.label(17.75, 46.75, "Balaton", italic=True, size=13, color="#5f8791", anchor="middle")
     m.label(13.0, 44.4, "Adriatic Sea", italic=True, size=17, color=SEA, anchor="middle")
-    m.raw(ev_open("1593", "1593", "The codex's last leaves count one thousand five hundred and sixty years from the Ascension, which is 1593. That summer the Long Turkish War began between the Habsburgs and the Ottomans, and it ran until 1606. Rohonc lay about a hundred kilometres from the frontier at Kanizsa."))
+    m.raw(ev_open("The proposed reading: 1593", "1593", "On Kiraly and Tokai's reading, one of the codex's last leaves counts one thousand five hundred and sixty years from the Ascension, giving 1593. That summer the Long Turkish War began between the Habsburgs and the Ottomans, and it ran until 1606. Rohonc lay about a hundred kilometres from the frontier at Kanizsa."))
     m.callout(630, 100, 350, "1593", [
-        "The codex's last leaves count 1,560 years",
-        "from the Ascension: 1593.",
+        "On Kiraly and Tokai's reading, a last leaf",
+        "counts 1,560 years from the Ascension: 1593.",
         "That summer the Long Turkish War began",
         "(1593-1606). Rohonc lay about a hundred",
         "kilometres from the frontier at Kanizsa."], size=15.5)
@@ -146,7 +146,7 @@ def plate_tongues(d, sg):
     t = d["tongues"]
     m = M.MapPlate(HU_BBOX, W=1000, H=800, pad_top=92, name="tg",
                    title="The tongues and faiths around Rohonc, c. 1600",
-                   subtitle="Seven languages, six confessions, three scripts, and one book in a script of its own. Areas indicative, not surveyed.")
+                   subtitle="Seven mapped vernaculars, six confessions, three regional scripts, and one book in a script of its own. Areas indicative, not surveyed.")
     m.draw_land(tol=0.015)
     m.draw_lakes()
     m.draw_rivers(names=("Danube", "Tisza", "Tisa", "Drava"), width=1.6)
@@ -178,7 +178,7 @@ def plate_tongues(d, sg):
     bx, by, bw = 596, 98, 380
     m.raw(f'<rect x="{bx}" y="{by}" width="{bw}" height="150" rx="6" fill="{PARCH}" stroke="{TERRA}" stroke-width="1.5" opacity="0.97"/>')
     m.text_xy(bx + 14, by + 24, "THE CODEX'S OWN SCRIPT", size=13.5, color=TERRA, weight=700, spacing=1.6)
-    m.text_xy(bx + 14, by + 44, "Several hundred signs, mostly one sign to a word, written right to left.", size=13, color=INK)
+    m.text_xy(bx + 14, by + 44, "Several hundred signs; code units mostly stand for words; right to left.", size=13, color=INK)
     frag, w = glyph_row(sg, t["glyphs"], bx + 18, by + 54, 40, gap=22, size=12.5)
     m.raw(frag)
     m.text_xy(bx + bw - 12, by + 140, "signs after Kiraly and Tokai's font; glosses theirs", size=10.5, color=SOFT, italic=True, anchor="end")
@@ -192,7 +192,7 @@ def plate_tongues(d, sg):
     m.raw("</g>")
     # key: the confessions, then the scripts
     m.key([(f, c) for f, c in FAITH.items()], x=30, y=748, size=13.5, swatch="line")
-    m.text_xy(30, 771, "Scripts in use: Latin letters for all seven tongues; Cyrillic for Serbian, Romanian and Church Slavonic; "
+    m.text_xy(30, 771, "Scripts represented here: Latin letters across the seven mapped vernaculars; Cyrillic for Serbian, Romanian and Church Slavonic; "
                        "Arabic letters for Ottoman Turkish; and the codex's own signs, in one book.", size=12, color=SOFT)
     return m.render(credit=CREDIT_GEO)
 
@@ -208,7 +208,7 @@ LABEL_AT = {
     "Florence": (12, 12, "start"), "Trent": (-12, -4, "end"), "Wittenberg": (12, 2, "start"),
     "Douai": (-12, 2, "end"), "London": (-12, -8, "end"), "York": (-12, -6, "end"),
     "Lyon": (-12, 12, "end"), "Agreda": (12, 4, "start"), "Bucharest": (12, 12, "start"),
-    "Lund": (12, 2, "start"), "Debrecen": (12, -8, "start"), "Lovold": (-10, 30, "end"),
+    "Lund": (12, 2, "start"), "Debrecen": (12, -8, "start"), "Obuda": (12, -8, "start"), "Lovold": (-10, 30, "end"),
     "Marosvasarhely": (12, 16, "start"), "Szeged": (12, 16, "start"), "Budapest": (12, 4, "start"),
 }
 
@@ -216,7 +216,7 @@ LABEL_AT = {
 def plate_sources_map(d):
     m = M.MapPlate((-6.5, 29.4, 40.5, 56.8), W=1000, H=780, pad_top=92, name="src",
                    title="Where the stories came from",
-                   subtitle="Where the books the codex is compiled from were written, and where this edition's witnesses come from.")
+                   subtitle="Securely locatable books used by the codex and this edition; disputed origins are left unpinned.")
     m.draw_land(tol=0.03)
     by_place = {}
     for t in d["texts"]:
@@ -250,12 +250,12 @@ def plate_sources_map(d):
     m.key([("what the compiler had, written before 1593", GOLD),
            ("what this edition read it against", SEA),
            ("both", INK)], x=700, y=118, size=14, vertical=True)
-    return m.render(credit="Coastlines: Natural Earth (public domain). Where a text was written is given to the city or region the standard accounts name.")
+    return m.render(credit="Coastlines: Natural Earth (public domain). Pins mark documented or commonly proposed places of composition; works without a defensible single place are not plotted.")
 
 
 PLACE_NAMES = {"Montier": "Montier-en-Der", "Athos": "Mount Athos", "Tarnovo": "Bulgaria", "Kiev": "the Slavonic world",
                "Lovold": "Lovold", "Marosvasarhely": "Marosvasarhely", "Wartburg": "the Wartburg", "Agreda": "Agreda",
-               "Douai": "Douai and Rheims", "London": "London", "Budapest": "Budapest"}
+               "Douai": "Douai and Rheims", "London": "London", "Budapest": "Budapest", "Obuda": "Obuda"}
 
 
 # ---------------------------------------------------------------- timelines
@@ -340,7 +340,7 @@ def plate_sources_timeline(d):
     p = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" class="worldtl" {FONT} role="img" aria-label="When the codex\'s sources were written">',
          f'<rect width="{W}" height="{H}" fill="{PARCH}"/>',
          f'<text x="30" y="46" font-size="30" font-weight="600" fill="{INK}">When the stories were written</text>',
-         f'<text x="30" y="76" font-size="17" font-style="italic" fill="{SOFT}">Sixteen centuries of texts, and the year the codex gathered them. The scale opens out after 1250, where most of them fall.</text>']
+         f'<text x="30" y="76" font-size="17" font-style="italic" fill="{SOFT}">Sixteen centuries of texts, and the proposed date read in the codex. The scale opens out after 1250, where most of them fall.</text>']
     bands = [(0, 500, "SCRIPTURE, FATHERS", BAND1), (500, 1250, "THE LEGENDS GROW", BAND2), (1250, 1620, "LEGENDARIES, CODICES, PRINT", BAND1)]
     for a, b, lab, fill in bands:
         p.append(f'<rect x="{xs(a):.0f}" y="100" width="{xs(b) - xs(a):.0f}" height="{H - 150}" fill="{fill}"/>')
@@ -356,7 +356,7 @@ def plate_sources_timeline(d):
         if yr % 250 == 0 or yr % 100 == 0:
             p.append(f'<text x="{xs(yr):.0f}" y="{AX + 22}" text-anchor="middle" font-size="12.5" fill="{SOFT}">{yr if yr else "AD 1"}</text>')
     texts = sorted([t for t in d["texts"] if t["year"] <= 1600], key=lambda t: t["year"])
-    codex = {"short": "THE CODEX", "date": "1593", "year": 1593, "kind": "codex", "name": "The codex", "line": "", "desc": "The codex counts to 1593 on one of its last leaves. Everything on this plate that is gold was in its compiler's reach in Latin or in Hungarian by then."}
+    codex = {"short": "THE CODEX", "date": "proposed: 1593", "year": 1593, "kind": "codex", "name": "The codex", "line": "", "desc": "On Kiraly and Tokai's reading, one of the codex's last leaves gives 1593. Everything on this plate that is gold was in its compiler's reach in Latin or in Hungarian by then."}
     above = [t for i, t in enumerate(texts) if i % 2 == 0]
     below = [t for i, t in enumerate(texts) if i % 2 == 1] + [codex]
     col = lambda t: TERRA if t["kind"] == "codex" else GOLD if t["kind"] == "had" else SEA
@@ -368,7 +368,7 @@ def plate_sources_timeline(d):
     ky = H - 22
     p.append(f'<circle cx="40" cy="{ky}" r="5" fill="{GOLD}"/><text x="52" y="{ky + 5}" font-size="14" fill="{SOFT}">what the compiler had</text>')
     p.append(f'<circle cx="250" cy="{ky}" r="5" fill="{SEA}"/><text x="262" y="{ky + 5}" font-size="14" fill="{SOFT}">what this edition read it against</text>')
-    p.append(f'{_star(520, ky, 9, TERRA)}<text x="536" y="{ky + 5}" font-size="14" fill="{SOFT}">the codex, 1593</text>')
+    p.append(f'{_star(520, ky, 9, TERRA)}<text x="536" y="{ky + 5}" font-size="14" fill="{SOFT}">the codex, proposed date 1593</text>')
     p.append('</svg>')
     return "\n".join(p)
 
@@ -421,10 +421,10 @@ def plate_codex_timeline(d):
 
 # ---------------------------------------------------------------- build
 PLATES = [
-    ("hungary-1593", "Hungary in 1593", "The kingdom in three parts in the year the codex counts to, with Rohonc in its Habsburg west."),
-    ("tongues", "Tongues and faiths", "Seven languages, six confessions and three scripts around one town, and a book in a script of its own."),
-    ("sources-map", "Where the stories came from", "The books the codex is compiled from, where they were written, flowing to Rohonc; and where this edition's witnesses come from."),
-    ("sources-timeline", "When the stories were written", "Sixteen centuries of texts, ending at the year the codex gathered them."),
+    ("hungary-1593", "Hungary in 1593", "The kingdom in three parts at the date proposed by Kiraly and Tokai, with Rohonc in its Habsburg west."),
+    ("tongues", "Tongues and faiths", "Seven mapped vernaculars, six confessions and three regional scripts around one town, and a book in a script of its own."),
+    ("sources-map", "Where the stories came from", "The securely locatable books used by the codex and this edition, flowing to Rohonc."),
+    ("sources-timeline", "When the stories were written", "Sixteen centuries of texts, ending at the proposed date read in the codex."),
     ("codex-timeline", "The codex, from the paper to the present", "The book above the line and the people who tried to read it below, with the last sixty years enlarged."),
 ]
 

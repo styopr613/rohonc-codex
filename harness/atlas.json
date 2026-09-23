@@ -44,6 +44,12 @@
     47.5
    ]
   },
+  "Obuda": {
+   "ll": [
+    19.04,
+    47.54
+   ]
+  },
   "Esztergom": {
    "ll": [
     18.74,
@@ -712,9 +718,9 @@
    "year": 1593,
    "date": "1593",
    "lane": "book",
-   "label": "The codex counts to 1593",
+   "label": "The proposed reading gives 1593",
    "star": true,
-   "desc": "On one of its last leaves the codex counts one thousand five hundred and sixty years from the Ascension, which is 1593. That summer the Long Turkish War began. Where in Hungary it was written, and by whom, is not known.",
+   "desc": "On Kiraly and Tokai's reading, one of the last leaves counts one thousand five hundred and sixty years from the Ascension, giving 1593. That summer the Long Turkish War began. Where in Hungary the codex was written, and by whom, is not known.",
    "source": "The book, introduction and the endnote on 223v; Kiraly and Tokai 2018; en.wikipedia.org/wiki/Long_Turkish_War (1593-1606)."
   },
   {
@@ -770,9 +776,9 @@
    "year": 1921,
    "date": "1921",
    "lane": "book",
-   "label": "Rohonc becomes Rechnitz",
-   "desc": "Burgenland passes from Hungary to Austria; the town the codex is named for is Rechnitz from now on. The codex itself stays in Budapest.",
-   "source": "en.wikipedia.org/wiki/Rechnitz: 'Since 1921, the village has been a part of the Austrian state of Burgenland.'"
+   "label": "Rohonc passes into Austria",
+   "desc": "Burgenland passes from Hungary to Austria. Rechnitz, an older German name for the town, is again official; its Hungarian name remains Rohonc. The codex itself stays in Budapest.",
+   "source": "en.wikipedia.org/wiki/Rechnitz: the German name was in use centuries before 1921; the Hungarian name was made official in 1898; the town joined Austrian Burgenland in 1921."
   },
   {
    "year": 1970,
@@ -845,7 +851,7 @@
    "lane": "read",
    "label": "Kiraly and Tokai read it",
    "star": true,
-   "desc": "Cracking the code of the Rohonc Codex, in Cryptologia: a code system rather than a cipher, 841 signs read, the date 1593, and the content a Catholic reader of its time. The dictionary this edition stands on.",
+   "desc": "Cracking the code of the Rohonc Codex, in Cryptologia: a code system rather than a cipher, 841 dictionary codes glossed in this edition's merged data, the proposed date 1593, and the content a Catholic reader of its time. The dictionary this edition stands on.",
    "source": "Kiraly and Tokai, Cryptologia 42:4 (2018), 285-315; en.wikipedia.org/wiki/Rohonc_Codex."
   },
   {
@@ -862,7 +868,7 @@
    "lane": "book",
    "label": "This edition",
    "star": true,
-   "desc": "All 441 folios rendered into English end to end, every word marked for how well it is known, with the tests and the data published beside it.",
+   "desc": "All 441 written pages rendered into English end to end, every word marked for how well it is known, with the tests and the data published beside it.",
    "source": "The book's introduction; TESTS.md."
   }
  ],
@@ -870,6 +876,8 @@
   {
    "name": "The Gospels and Acts",
    "place": "Jerusalem",
+   "map": false,
+   "map_note": "Not plotted: these books have different and, in several cases, disputed places of composition.",
    "year": 85,
    "date": "c. 70-100",
    "kind": "had",
@@ -892,22 +900,26 @@
   {
    "name": "The Life of Adam and Eve",
    "place": "Jerusalem",
-   "year": 100,
-   "date": "1st c.",
+   "map": false,
+   "map_note": "Not plotted: its date and place of origin are disputed.",
+   "year": 150,
+   "date": "1st-3rd c.",
    "kind": "had",
    "line": "Adam, Eve, Seth and the branch",
-   "desc": "A Jewish work of the first century, Greek and Latin. The codex opens with it and runs it straight into the legend of the Rood.",
-   "source": "The corpus appendix (Charles 1913, vol. 2).",
+   "desc": "A Jewish and Christian textual tradition preserved in Greek, Latin and other versions; its precise date and place of origin are disputed. The codex opens with it and runs it straight into the legend of the Rood.",
+   "source": "The corpus appendix (Charles 1913, vol. 2); scholarship summarized by the NASSCAL e-Clavis, 'Life of Adam and Eve.'",
    "short": "Life of Adam and Eve"
   },
   {
    "name": "The Protevangelium of James",
    "place": "Antioch",
-   "year": 150,
-   "date": "2nd c.",
+   "map": false,
+   "map_note": "Not plotted: its place of composition is not securely known.",
+   "year": 175,
+   "date": "late 2nd c.",
    "kind": "had",
    "line": "Joachim and Anne",
-   "desc": "The infancy gospel behind the Joachim and Anne cycle; Pseudo-Matthew (7th c., Latin) adds the Golden Gate.",
+   "desc": "The infancy gospel behind the Joachim and Anne cycle; its place of composition is debated. Pseudo-Matthew (probably 7th c., Latin) adds the Golden Gate.",
    "source": "The corpus appendix (Wake); DATA_PROVENANCE.md section 6.",
    "short": "Protevangelium"
   },
@@ -925,12 +937,14 @@
   {
    "name": "The Apocalypse of Elijah",
    "place": "Alexandria",
-   "year": 260,
-   "date": "3rd c.",
+   "map": false,
+   "map_note": "Not plotted: it is Egyptian, but Alexandria is not a secure place of composition.",
+   "year": 325,
+   "date": "3rd-4th c.",
    "kind": "had",
    "line": "Elijah addressed by the word of the Lord",
-   "desc": "Egyptian, surviving in Coptic. Enoch and Elijah killed by the Antichrist and raised after three days and a half. Part of the frame the codex hangs everything on.",
-   "source": "DATA_PROVENANCE.md section 6.",
+   "desc": "Egyptian and surviving in Coptic, commonly understood as a third-century core with fourth-century Christian reworking. Enoch and Elijah are killed by the Antichrist and raised after three days and a half.",
+   "source": "DATA_PROVENANCE.md section 6; David Frankfurter, Elijah in Upper Egypt (1993).",
    "short": "Apocalypse of Elijah"
   },
   {
@@ -947,6 +961,8 @@
   {
    "name": "The Reversio sanctae crucis",
    "place": "Rome",
+   "map": false,
+   "map_note": "Not plotted: its place of composition is not settled.",
    "year": 720,
    "date": "7th-8th c.",
    "kind": "had",
@@ -1034,13 +1050,14 @@
   },
   {
    "name": "The Debreceni codex",
-   "place": "Debrecen",
+   "place": "Obuda",
+   "place_label": "Obuda",
    "year": 1519,
    "date": "1519",
    "kind": "had",
    "line": "Seth at Adam's grave, in Hungarian",
-   "desc": "One of three Hungarian codices of the 1520s that carry the Seth episode.",
-   "source": "Lovas, 'Adam a kereszt alatt' (ELTE); DATA_PROVENANCE.md section 6.",
+   "desc": "Made for the Poor Clares at Obuda; kept in Debrecen since 1753. One of three Hungarian codices of the 1520s that carry the Seth episode.",
+   "source": "National Szechenyi Library, nyelvemlekek.oszk.hu/adatlap/debreceni_kodex; Lovas, 'Adam a kereszt alatt' (ELTE); DATA_PROVENANCE.md section 6.",
    "short": "Debreceni codex"
   },
   {
@@ -1050,7 +1067,7 @@
    "date": "1526-27",
    "kind": "had",
    "line": "the branch promised, the healing deferred",
-   "desc": "Written by the Carthusian of Lovold.",
+   "desc": "Probably written by the Carthusian associated with Lovold; the exact place of composition is not certain.",
    "source": "Lovas (ELTE); DATA_PROVENANCE.md section 6.",
    "short": "Erdy codex"
   },
@@ -1088,15 +1105,26 @@
    "short": "Trent"
   },
   {
-   "name": "The Roman Missal and Martyrology",
+   "name": "The Roman Missal",
    "place": "Rome",
    "year": 1570,
    "date": "1570",
    "kind": "had",
-   "line": "the liturgy; 5,199 years to the Nativity",
+   "line": "the liturgy",
    "desc": "A Catholic reader of 1593 is at least as much missal and breviary as it is scripture.",
-   "source": "The corpus appendix; DATA_PROVENANCE.md section 6.",
-   "short": "Missal, Martyrology"
+   "source": "The corpus appendix; DATA_PROVENANCE.md section 6; Vatican Library, Missale Romanum ex decreto sacrosancti Concilii Tridentini restitutum (1570).",
+   "short": "Roman Missal"
+  },
+  {
+   "name": "The Roman Martyrology",
+   "place": "Rome",
+   "year": 1584,
+   "date": "1584",
+   "kind": "had",
+   "line": "5,199 years to the Nativity",
+   "desc": "The official Roman edition was promulgated in 1584, not with the Missal in 1570.",
+   "source": "DATA_PROVENANCE.md section 6; Vatican, Martyrologium Romanum: the first editio typica was approved on 14 January 1584.",
+   "short": "Martyrology"
   },
   {
    "name": "Caxton's Golden Legend",
@@ -1112,12 +1140,14 @@
   {
    "name": "The York, Chester, Towneley and N-Town plays",
    "place": "York",
+   "map": false,
+   "map_note": "Not plotted: these are four distinct collections, and the origins of Towneley and N-Town are not securely fixed to one city.",
    "year": 1470,
    "date": "15th c.",
    "kind": "read",
    "line": "the mystery cycles",
-   "desc": "",
-   "source": "The corpus appendix.",
+   "desc": "Four distinct English dramatic collections, not a single York corpus; Towneley and N-Town cannot be securely pinned to one city.",
+   "source": "The corpus appendix; British Library collection guides for the York, Chester, Towneley and N-Town manuscripts.",
    "short": "the play cycles"
   },
   {

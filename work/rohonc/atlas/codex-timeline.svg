@@ -39,9 +39,9 @@
 <rect x="77" y="217" width="38" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="96" y="228" text-anchor="middle" font-size="12.5" fill="#a8842f">1530s</text>
 </g>
-<g class="ev" tabindex="0" data-label="The codex counts to 1593" data-date="1593" data-desc="On one of its last leaves the codex counts one thousand five hundred and sixty years from the Ascension, which is 1593. That summer the Long Turkish War began. Where in Hungary it was written, and by whom, is not known.">
-<rect x="106" y="187" width="181" height="17" fill="#f6f1e7" opacity="0.85"/>
-<text x="197" y="200" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">The codex counts to 1593</text>
+<g class="ev" tabindex="0" data-label="The proposed reading gives 1593" data-date="1593" data-desc="On Kiraly and Tokai&#x27;s reading, one of the last leaves counts one thousand five hundred and sixty years from the Ascension, giving 1593. That summer the Long Turkish War began. Where in Hungary the codex was written, and by whom, is not known.">
+<rect x="81" y="187" width="231" height="17" fill="#f6f1e7" opacity="0.85"/>
+<text x="197" y="200" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">The proposed reading gives 1593</text>
 <rect x="181" y="173" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="197" y="184" text-anchor="middle" font-size="12.5" fill="#a8842f">1593</text>
 </g>
@@ -57,9 +57,9 @@
 <rect x="607" y="217" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="623" y="228" text-anchor="middle" font-size="12.5" fill="#a8842f">1838</text>
 </g>
-<g class="ev" tabindex="0" data-label="Rohonc becomes Rechnitz" data-date="1921" data-desc="Burgenland passes from Hungary to Austria; the town the codex is named for is Rechnitz from now on. The codex itself stays in Budapest.">
-<rect x="680" y="187" width="174" height="17" fill="#f6f1e7" opacity="0.85"/>
-<text x="767" y="200" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Rohonc becomes Rechnitz</text>
+<g class="ev" tabindex="0" data-label="Rohonc passes into Austria" data-date="1921" data-desc="Burgenland passes from Hungary to Austria. Rechnitz, an older German name for the town, is again official; its Hungarian name remains Rohonc. The codex itself stays in Budapest.">
+<rect x="669" y="187" width="195" height="17" fill="#f6f1e7" opacity="0.85"/>
+<text x="767" y="200" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Rohonc passes into Austria</text>
 <rect x="751" y="173" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="767" y="184" text-anchor="middle" font-size="12.5" fill="#a8842f">1921</text>
 </g>
@@ -120,7 +120,7 @@
 <rect x="735" y="643" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="751" y="654" text-anchor="middle" font-size="12.5" fill="#a8842f">2014</text>
 </g>
-<g class="ev" tabindex="0" data-label="This edition" data-date="2026" data-desc="All 441 folios rendered into English end to end, every word marked for how well it is known, with the tests and the data published beside it.">
+<g class="ev" tabindex="0" data-label="This edition" data-date="2026" data-desc="All 441 written pages rendered into English end to end, every word marked for how well it is known, with the tests and the data published beside it.">
 <rect x="860" y="657" width="94" height="17" fill="#f6f1e7" opacity="0.85"/>
 <text x="908" y="670" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">This edition</text>
 <rect x="892" y="643" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
@@ -186,7 +186,7 @@
 <rect x="686" y="827" width="50" height="14" fill="#f6f1e7" opacity="0.85"/>
 <text x="711" y="838" text-anchor="middle" font-size="12.5" fill="#103b44">2010-11</text>
 </g>
-<g class="ev" tabindex="0" data-label="Kiraly and Tokai read it" data-date="2018" data-desc="Cracking the code of the Rohonc Codex, in Cryptologia: a code system rather than a cipher, 841 signs read, the date 1593, and the content a Catholic reader of its time. The dictionary this edition stands on.">
+<g class="ev" tabindex="0" data-label="Kiraly and Tokai read it" data-date="2018" data-desc="Cracking the code of the Rohonc Codex, in Cryptologia: a code system rather than a cipher, 841 dictionary codes glossed in this edition&#x27;s merged data, the proposed date 1593, and the content a Catholic reader of its time. The dictionary this edition stands on.">
 <rect x="713" y="851" width="181" height="17" fill="#f6f1e7" opacity="0.85"/>
 <text x="803" y="864" text-anchor="middle" font-size="15" font-weight="600" fill="#1b212e">Kiraly and Tokai read it</text>
 <rect x="787" y="867" width="32" height="14" fill="#f6f1e7" opacity="0.85"/>
