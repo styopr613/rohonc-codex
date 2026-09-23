@@ -30,7 +30,7 @@ OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ktsite_copy.json
 KEYS = ["tagline", "intro", "how_far", "tiers", "new_here_lead", "is_it_true",
         "card_reading", "card_dictionary", "card_tests", "card_method", "card_writeup",
         "card_data", "edition", "credit", "reading_lead", "dictionary_lead", "data_lead",
-        "outside_lead", "credit_line", "card_script", "script_intro", "script_signs",
+        "outside_lead", "card_script", "script_intro", "script_signs",
         "script_numerals", "script_phrases", "script_shuffle_lead", "script_marks",
         "script_plates", "method_intro", "method_loop", "method_bars", "method_mistakes",
         "method_code", "tests_intro", "tests_after", "sources_intro", "docs_lead",
@@ -342,7 +342,6 @@ reading_what     2 paragraphs for the first page of the book and for the site, s
 reading_how      one paragraph on how the READING EDITION was made, which is layer (b) and NOT layer (a): each folio's gloss was put beside the passages that folio is working from, and the English was written from both; the manuscript leads and the source only says what a phrase means; every paragraph names the folios it renders. Do not say it was made from the gloss alone.
 reading_limits   one paragraph saying plainly what it is not and where a reader should go instead: the gloss printed in full at the back is the evidence, and where the two disagree the gloss is right
 sources_cites    a JSON ARRAY of exactly 6 strings, one sentence each, saying what each of the six citations listed under CITATIONS OWED is to this project, in the same order. Do NOT repeat the citation itself.
-credit_line      one sentence, at most 35 words, for the foot of every page: whose dictionary this rests on, that their translation is unpublished, and that the readings here are this project's own
 
 FACT SHEET
 """ + "{sheet}"

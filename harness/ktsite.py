@@ -107,7 +107,17 @@ NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("a
        ("finds", "Discoveries"), ("corpus", "The corpus"), ("dictionary", "Dictionary"), ("tests", "Tests"), ("method", "Method"),
        ("sources", "Sources"), ("data", "Data")]
 
-CREDIT = html.escape(COPY["credit_line"].strip())
+# THE FOOT OF EVERY PAGE IS LINKS, NOT A CREDIT. It carried a sentence crediting
+# Kiraly and Tokai; the owner cut it on 2026-09-23 -- every page already credits
+# them where it matters -- and asked for the useful things instead: the licence,
+# how to cite, the sources, the data, the repository, a way to write in.
+FOOT = [("Licence", "https://github.com/styopr613/rohonc-codex/blob/master/LICENSE"),
+        ("How to cite", "https://doi.org/10.5281/zenodo.22902166"),
+        ("Sources", "/rohonc/sources.html"),
+        ("Data", "/rohonc/data.html"),
+        ("Repository", "https://github.com/styopr613/rohonc-codex"),
+        ("Contact", "mailto:" + CONTACT)]
+FOOT_HTML = " · ".join(f'<a href="{u}">{html.escape(t)}</a>' for t, u in FOOT)
 
 CSS = """
 /* fam.js lays an opaque veil over every arrival and fades it out over .17s even
@@ -177,7 +187,8 @@ table.tests tr.cap+tr.cap td{padding-top:2px}
 .prose img{max-width:100%}
 .lead{font-size:21px}
 .fig{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14px;line-height:1.5;background:var(--paper2);padding:14px 18px;border-radius:3px;margin:1em 0;white-space:pre;overflow-x:auto}
-.credit{border-top:1px solid var(--line);margin-top:2.5em;padding-top:1em;color:var(--soft);font-size:16.5px}
+.credit{border-top:1px solid var(--line);margin-top:2.5em;padding-top:1em;color:var(--soft);font-size:15px;letter-spacing:.02em}
+.credit a{color:var(--soft);text-decoration:none;border-bottom:1px solid var(--line)}.credit a:hover{color:var(--rub);border-color:var(--rub)}
 .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin:1.2em 0}
 .card{display:block;background:var(--paper2);padding:14px 16px;border-radius:3px;text-decoration:none;color:var(--ink)}
 .card b{display:block;font-family:Cinzel,serif;font-weight:400;font-size:15px;letter-spacing:.06em;color:var(--rub);margin-bottom:4px}
@@ -380,9 +391,9 @@ def shell(slug, title, desc, body, extra_head=""):
 </div></header>
 <main class="sheet"><article class="prose">
 {body}
-<p class="credit">{CREDIT}</p>
+<p class="credit">{FOOT_HTML}</p>
 </article></main>
-<script src="https://oona13.com/fam/foot.js" data-note="{html.escape(re.sub('<[^>]+>', '', CREDIT))}" defer></script>
+<script src="https://oona13.com/fam/foot.js" data-note="{html.escape(FOOT_HTML)}" defer></script>
 </body></html>
 """
 

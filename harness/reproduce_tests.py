@@ -63,6 +63,8 @@ INPUTS = {
     "data/ref/rohonc/bible_dr_verses.txt": "65ffc9eff384c1c8ffe1cbd2bf58964b228f8057c516ac7594196068f6a65c4b",
 }
 PAGES_SHA256 = "6a1be6144883e6d74505c82b3926f6ffb64b393fc3b3189f904a0794d58d4064"
+PYTHON_VERSION = (3, 10, 12)
+NUMPY_VERSION = "2.2.6"
 
 
 def check_inputs() -> list[str]:
@@ -86,6 +88,20 @@ def check_inputs() -> list[str]:
     return errors
 
 
+def check_runtime() -> list[str]:
+    errors = []
+    if sys.version_info[:3] != PYTHON_VERSION:
+        errors.append(f"Python is {'.'.join(map(str, sys.version_info[:3]))}, expected 3.10.12")
+    try:
+        import numpy
+    except ImportError:
+        errors.append("numpy is missing, expected 2.2.6")
+    else:
+        if numpy.__version__ != NUMPY_VERSION:
+            errors.append(f"numpy is {numpy.__version__}, expected {NUMPY_VERSION}")
+    return errors
+
+
 def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument("--hash-seeds", default="0,1",
@@ -93,9 +109,9 @@ def main(argv: list[str]) -> int:
     ap.add_argument("--only", action="append", default=[],
                     help="run labels containing this text; repeatable")
     ns = ap.parse_args(argv)
-    input_errors = check_inputs()
+    input_errors = check_runtime() + check_inputs()
     if input_errors:
-        print("Cannot reproduce against missing or different source inputs:", file=sys.stderr)
+        print("Cannot reproduce with a missing or different runtime/input:", file=sys.stderr)
         for error in input_errors:
             print(f"  {error}", file=sys.stderr)
         print("See DATA_PROVENANCE.md for sources and exact editions.", file=sys.stderr)
