@@ -22,3 +22,12 @@ once the edit is committed, because git already holds the history of anything
 tracked. Nothing in this directory is read by any program. If a program ever
 needs a file in here, that is a bug in the program, not a reason to move the
 file back.
+
+## superseded-20260923/
+
+`NEXT.md`, a one-page handoff written on 2026-09-20 when 105 of the 441 folios
+had been translated. It was superseded within two days by `METHOD.md`, which
+carries the same loop and keeps its arithmetic current, and by the session
+handoff, which is no longer tracked. Nothing read it. It is kept because it
+records what the state of the reading was on that date, and it is out of the
+root because a stale count in a file called NEXT.md is a trap.

@@ -451,7 +451,8 @@ Everything that can be read is rendered, page by page, in
 sense, several senses with theirs first, a composed reading, a declared
 variant, or no reading.
 It is a rendering of their dictionary over their transcription, not their
-translation, and it stays private with the rest of the work.
+translation. Király and Tokai have not published a translation, and this is
+not a substitute for one.
 
 Details in [`ROHONC.md`](ROHONC.md), including a first attempt at the
 orientation question that failed its own control and was thrown away, and a
@@ -481,8 +482,10 @@ the last word, fit to the space. No memory, no copying, no message.
 
 - `RESULTS.md` — every number, every table, every correction.
 - `harness/` — the code. `gate.py` must pass after any change.
-- `VOYNICH_PLAN.md` — the plan and the survey of prior work.
+- `notes/VOYNICH_PLAN.md` — the plan and the survey of prior work.
 - Five of our own conclusions were overturned by our own follow-up tests.
   All are recorded in `RESULTS.md` section 6, none quietly amended.
 
-Private for now. Publish if there is ever a reason to.
+Published 2026-09-22 with everything needed to check it, under the DOI in
+the README. An earlier version of this file ended "Private for now. Publish if
+there is ever a reason to", which is no longer true.

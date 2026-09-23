@@ -416,7 +416,9 @@ Plain English to the user, short sentences, no tables in chat. No
 subagents. Never `rm` a glob; backups `.pre`/`.post`, never reuse a name.
 Credit Király & Tokai for the dictionary, transcription and grammar; the
 readings in `proposals.json` and the translation are this project's and say so. Fetch
-at 1.5s intervals. Private for now.
+at 1.5s intervals. This file said "Private for now" until 2026-09-23; the work
+has been public since 2026-09-22, so say nothing here that could not be read by
+anyone.
 
 ## A reading of this project's own was wrong, and the instrument that caught it
 

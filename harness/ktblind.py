@@ -15,7 +15,7 @@ previous run's answers.
     python ktblind.py --new            draw a fresh blind sample
     python ktblind.py --score FILE     reveal and score it
 
-The brief for whoever runs it is BLINDFOLD.md in the project root. It is
+The brief for whoever runs it is notes/BLINDFOLD.md. It is
 written to be handed to a session that knows nothing about this project.
 """
 import os

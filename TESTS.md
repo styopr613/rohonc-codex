@@ -178,7 +178,7 @@ score the known-good entries cannot condemn anything.
 
 ## Test 3 — the blindfold, run clean
 
-`harness/ktblind.py` · `work/rohonc/blindfold_1790006519.txt` and `_score.txt` · `BLINDFOLD.md`
+`harness/ktblind.py` · `work/rohonc/blindfold_1790006519.txt` and `_score.txt` · `notes/BLINDFOLD.md`
 
 Twenty-five of K&T's own entries hidden. A fresh session that had never
 seen this project, the dictionary, or the conversation that built it read

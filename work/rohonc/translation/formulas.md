@@ -130,4 +130,4 @@ Write the resulting number in words without dropping any group.
 Evidence: K&T's numeral entries print the manuscript's compound examples,
 including four tens as `40 days` at 004v11, six-six as `12 disciples` at
 022r10, and the multi-part 5166 at 021r04–05. This is the standing arithmetic
-rule in `CODEX_REWRITE.md`.
+rule in `notes/CODEX_REWRITE.md`.

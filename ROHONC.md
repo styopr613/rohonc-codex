@@ -989,9 +989,9 @@ Mary and from Lord-redeemer inside Lord*, with the author's name sign
 following *this* and the genitive down the right margin.
 
 Output: `work/rohonc/translation/rohonc_reading.txt` (first sense only) and
-`rohonc_reading_full.txt` (every sense). Code: `kttranslate.py`. Both files
-are built from their dictionary and stay private with the rest of the work
-until they are asked.
+`rohonc_reading_full.txt` (every sense, a local working file). Code:
+`kttranslate.py`. Both are built from Kiraly and Tokai's dictionary over their
+transcription, and neither is their translation, which they have not published.
 
 ## What kind of book it is, and the citations that can be checked
 

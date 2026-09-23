@@ -2,7 +2,7 @@
 
     python3 ktreadability.py
 
-The targets come from CODEX_REWRITE.md and are fixed before the rewrite:
+The targets come from notes/CODEX_REWRITE.md and are fixed before the rewrite:
 semicolons <= 1.2 per 100 words, comma-and chains <= 1.3 per 100 words,
 no runs of three verbless phrases, and no gloss apparatus or archaic leakage.
 """

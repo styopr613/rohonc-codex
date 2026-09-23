@@ -656,7 +656,7 @@ encoding is the only mechanism in this table that gets there other than
 procedural generation.
 
 This contradicts the prediction written before the code
-(`PREDICTION_abbrev.md`, which is not edited after the fact). That prediction
+(`notes/PREDICTION_abbrev.md`, which is not edited after the fact). That prediction
 said h2 would land between 2.6 and 2.9. It lands at 3.22. See §6 for the
 correction that produced the wrong intermediate reading.
 
@@ -1607,7 +1607,8 @@ their own code.
 | Currier, P. (1976); Stolfi, J.; Davis, L. F. (2020) | Line-level properties; the A/B split; the scribal hands. |
 | Zandbergen, R., voynich.nu | The IVTFF transliterations. CC0 per the host's statement. |
 
-Private for now. If any of this is worth publishing, the honest framing is an
+Published 2026-09-22 alongside the Rohonc work, under the DOI in the README.
+An earlier version of this file ended "Private for now", which is no longer
+true. The framing it named still holds and is the one claimed here: this is an
 extension of `voynich-fingerprint`'s protocol to the hypothesis classes it did
-not score, and the first move is an issue or a pull request on that repository
-rather than a competing one.
+not score, not a competing instrument.

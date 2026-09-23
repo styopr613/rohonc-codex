@@ -13,3 +13,10 @@ work/rohonc/source_index.pkl
 # already tracked and stays tracked; this only stops new ones from being swept in.
 *.pre-*
 *.pre-update
+
+# The session handoff. It is a working log -- what the last session was in the
+# middle of, which deploy went where, what to pick up next -- written for the
+# next operator and not for a reader. It was tracked until 2026-09-23; the
+# history is still in git. The file stays at this path because the /decipher
+# skill and the project memory both point at it.
+RESUME.md

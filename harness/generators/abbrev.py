@@ -15,7 +15,7 @@ Four stages, in the order a scribe would apply them:
      habit and the stage most likely to depress conditional entropy
 
 The prediction for this row was written before the code and is in
-PREDICTION_abbrev.md at the repository root. It is not edited afterwards.
+notes/PREDICTION_abbrev.md. It is not edited afterwards.
 
 This is a model of a *process*, not a decipherment: the output is not claimed
 to be what is in the manuscript, only to be what medieval abbreviation practice
@@ -122,5 +122,9 @@ def generate(spec, train, seed=0, cfg=None):
     ws = abbreviate(plaintext("latin"), cfg, rng)
     ws = relabel_positional(ws, cfg["allographs"], seed=seed + 2)
     doc, exhausted = layout.lay_out(ws, spec)
+    # The bare filename, not the path. It is written into work/results_*.json,
+    # and those files are the archived runs: a cosmetic change here would make a
+    # regenerated table differ from the published one for no reason. The file
+    # moved to notes/ on 2026-09-23; this names it, it does not locate it.
     return doc, {"shortfall": exhausted, "plaintext": "latin", "cfg": cfg,
                  "prediction": "PREDICTION_abbrev.md"}
