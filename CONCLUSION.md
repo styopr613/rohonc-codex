@@ -482,7 +482,6 @@ the last word, fit to the space. No memory, no copying, no message.
 
 - `RESULTS.md` — every number, every table, every correction.
 - `harness/` — the code. `gate.py` must pass after any change.
-- `notes/VOYNICH_PLAN.md` — the plan and the survey of prior work.
 - Five of our own conclusions were overturned by our own follow-up tests.
   All are recorded in `RESULTS.md` section 6, none quietly amended.
 

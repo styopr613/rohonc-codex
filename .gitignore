@@ -37,3 +37,10 @@ work/rohonc/spin-*.webp
 
 # A stray before-copy that predates the rule in archive/README.md.
 work/rohonc/translation/reading.md.raw-*
+
+# The Voynich planning memo. Written before any code existed and superseded by
+# RESULTS.md, which carries the numbers. Nothing reads it. It was the only file
+# in the repository naming individual models, against the site's own standing
+# rule to name Anthropic's Claude and no other, and the last place still saying
+# the work was private. Kept on disk; it is not a deliverable.
+notes/VOYNICH_PLAN.md

@@ -32,12 +32,14 @@ THE TEST, declared before the run:
 
 The image: data/rohonc/scan/nat-NNN.png is one spread; the folio number is
 written on the left page, which is the RECTO (the book reads right to
-left): nat-052 is 052r on the left and 051v on the right. `page FOLIO` writes that half, doubled, to /tmp/claude-1001/.../scratchpad.
+left): nat-052 is 052r on the left and 051v on the right. `page FOLIO` writes
+that half, doubled, to $SCRATCH, which defaults to the system temp directory.
 """
 import math
 import os
 import random
 import re
+import tempfile
 import sys
 from collections import Counter, defaultdict
 
@@ -50,7 +52,9 @@ import kttranslate as T
 
 ALL = os.path.join(corpus.ROOT, "data", "ref", "rohonc", "ALL.txt")
 SCAN = os.path.join(corpus.ROOT, "data", "rohonc", "scan")
-SCRATCH = os.environ.get("SCRATCH", "/tmp/claude-1001/-home-ubuntu/0ad29937-eb69-403f-b92e-05f471a83479/scratchpad")
+# Was a hard-coded path carrying one working session's own id, which is meaningless
+# on any other machine and was published in the repository for a week.
+SCRATCH = os.environ.get("SCRATCH", os.path.join(tempfile.gettempdir(), "rohonc"))
 SEED = 20260921
 WIN = 6
 
