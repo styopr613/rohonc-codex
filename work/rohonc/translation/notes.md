@@ -377,3 +377,13 @@ Matthew 3:13 and Mark 1:9 place the baptism at the Jordan. Carmel is Elijah's
 mountain in 3 Kings 18. The codex puts the baptism on Carmel here and again at
 189r and 195r, and has John preach there at 116v.
 source: 024r, 116v:8, 189r:6, 195r; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18
+
+## anchor: «from the Lord God, from the mother, and from the Lord» (004r)
+
+The signs at this point of the line, 004r:11, read *Lord God, mother, be
+born*, and the same three signs open 002r, where this edition renders them
+"The mother of the Lord God was born." Kiraly and Tokai's entries for *mother*
+and for *be born* each give 004r:11 as their example. The sign for *cup* does
+not stand on this line; it stands on lines 1, 3, 5, 9 and 13 of the folio.
+Reading the line as part of the hiding is this edition's, not theirs.
+source: K&T entries for the signs glossed "mother" and "be born"; 004r:11, 002r:1
