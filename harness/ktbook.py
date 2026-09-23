@@ -349,7 +349,7 @@ models assembled the gloss and composed the translation. Every
 figure in this book comes from a program that can be rerun, and where any of
 this went wrong it is written down with the number it went wrong by.
 
-**One test is not this project's own, and the reading rests on it.** Everything in this book is read from Kiraly and
+**One test, in particular, uses a source outside the project -- and offers substantial validation.** Everything in this book is read from Kiraly and
 Tokai's transcription, so no test of this project's could catch an error in it.
 An anonymous transcription of the codex published in 2014 -- a different
 person, a different glyph alphabet, no word division, four years earlier --
