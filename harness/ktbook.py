@@ -811,7 +811,8 @@ is what the rest of it looks like.
 
 **The end of the world.** The book counts its own date. At 223v:9-10 it
 gives 5,199 years from the creation to the Nativity, the figure of the Roman
-Martyrology's Christmas proclamation, spelled out sign by sign. At 223v:1-2
+Martyrology's Christmas proclamation in its wording before 2004, spelled out
+sign by sign. At 223v:1-2
 it gives 1,560 years run since the departure to the Father, named on the
 same leaf; 33 and 1,560 make 1593, the year Kiraly and Tokai reached by their
 own route. At 223v:13 someone asks the master when judgment day will come,

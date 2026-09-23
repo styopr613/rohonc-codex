@@ -129,11 +129,17 @@ notes, and the corrections made are stated in the notes themselves. What each
 supplied:
 
 - **The Slavonic Book of Enoch (2 Enoch).** The angel Vereviel dictates and
-  Enoch writes 360 books (chapters 22-23). Survives only in Church Slavonic,
-  over twenty manuscripts, 14th to 18th century. R. H. Charles's 1913 volume
-  already on the shelf (section 5) prints it, but only the Adam and Eve pages
-  of that volume are indexed. Read from the Wikipedia summary,
-  `https://en.wikipedia.org/wiki/2_Enoch`.
+  Enoch writes 360 books (chapters 22-23). Survives whole only in Church
+  Slavonic, over twenty manuscripts, 14th to 18th century; fragments of the
+  short recension in Coptic, from Qasr Ibrim in Nubia, were published by
+  Joost L. Hagen, "No Longer 'Slavonic' Only: 2 Enoch Attested in Coptic from
+  Nubia", in Orlov and Boccaccini, eds., *New Perspectives on 2 Enoch*
+  (Brill 2012) 7-34, `https://www.marquette.edu/maqom/new123.pdf`. The
+  dictation is read in R. H. Charles's 1913 translation, already on the shelf
+  (section 5; the angel is Pravuil there), and the manuscript count from
+  Hagen; the Wikipedia summary, `https://en.wikipedia.org/wiki/2_Enoch`, was
+  the first stop. An earlier version of this entry said the book survives
+  only in Slavonic; that was wrong.
 - **The Apocalypse of Elijah.** Opens "The word of the Lord came to me" and
   has Enoch and Elijah killed by the Antichrist and raised after three days
   and a half (4:7-19); the work itself ends with their second coming.
@@ -170,7 +176,10 @@ supplied:
   twice; that was wrong.
 - **The Wartburgkrieg and the Grail.** Recorded as a trap: the 13th-century
   poem has a stone falling from Lucifer's crown; the cup was added by Albert
-  Schulz ("San Marte") in 1832. Read at
+  Schulz ("San Marte") in 1832. The finding is William Ashton Ellis's, in
+  the appendix to *Life of Richard Wagner*, vol. IV (London 1904), pp.
+  481-483, `https://archive.org/details/lifeofrichardwag04glas`, public
+  domain; first read in the reprint at
   `https://www.jasoncolavito.com/the-holy-grail-as-lucifers-crown-jewel.html`.
 - **Carmelite tradition on John and Carmel.** *Catholic Encyclopedia* (1908),
   "The Carmelite Order", `https://www.newadvent.org/cathen/03354a.htm`, public
@@ -183,9 +192,11 @@ supplied:
   *Mystical City of God* (1670).** Cited at second hand for the angels' test
   in its theological and its narrated forms; neither was read in the original.
   Suarez is cited as the *Catholic Encyclopedia* (1908), "Devil", cites him,
-  `https://www.newadvent.org/cathen/04764a.htm`; Agreda's chapter on the
-  creation of the angels and the fall of Lucifer, part I, book 1, from an
-  online abridgment.
+  `https://www.newadvent.org/cathen/04764a.htm`; Agreda in George J.
+  Blatter's 1914 translation, vol. I, book I, chapter VII, where the angels
+  are told to admit as their superior "a Woman, in whose womb the Only-begotten
+  of the Father was to assume flesh" and Lucifer refuses,
+  `https://www.ecatholic2000.com/agreda/vol1/vol1.shtml`.
 - **Borbala Lovas, "Adam a kereszt alatt" (Adam under the cross), a
   Hungarian study on the ELTE server.** Quotes the Seth episode from the Erdy
   codex (1526-27), the Teleki codex (1525-31) and the Debreceni codex (1519),
@@ -195,10 +206,16 @@ supplied:
   `https://magyar-irodalom.elte.hu/arianna/plaustrum/01LBoriD.html`.
 - **Sanhedrin 97a and Carion's Chronicle.** The "prophecy of Elias": six
   thousand years, in three spans of two thousand. The Talmud read at
-  `https://www.sefaria.org/Sanhedrin.97a.14-97b.1`; Melanchthon's use of it
-  in the 1532 chronicle from `https://en.wikipedia.org/wiki/Three_Eras` and
-  `https://en.wikipedia.org/wiki/Johann_Carion`. The chronicle itself was not
-  read.
+  `https://www.sefaria.org/Sanhedrin.97a.14-97b.1`. The chronicle itself,
+  Carion, *Chronica* (Wittenberg 1532), is at
+  `https://archive.org/details/chronica00cari`, public domain, and its
+  preface carries the scheme in Melanchthon's words: "Der spruch des hauses
+  Elia. Sechs tausent jar ist die welt, vnd darnach wird sie zubrechen. Zwey
+  tausent oed. Zwey tausent das gesetz. Zwey tausent die zeit Christi." The
+  Wikipedia articles `https://en.wikipedia.org/wiki/Three_Eras` and
+  `https://en.wikipedia.org/wiki/Johann_Carion` were the first stop. An
+  earlier version of this entry said the chronicle was not read; it now has
+  been, at that page.
 
 The earlier endnotes cite scripture in the Douay-Rheims and the texts of the
 corpus by chapter; those were checked against the files in `data/ref/rohonc/`.
@@ -216,9 +233,12 @@ check:
   corrected.
 - **Caxton's *Golden Legend* (1483), "Saint Augustine".** The child by the
   sea is Caxton's own addition, from an altar-piece at the Black Friars in
-  Antwerp, and he says so; Voragine's Latin does not have it. The Augustine
-  chapter is in one of the volumes that could not be fetched for the corpus
-  (section 4). Read about at `https://www.medievalists.net/2019/02/the-child-by-the-seaside-a-medieval-story-about-saint-augustine/`.
+  Antwerp, and he says so: "I have seen painted on an altar of S. Austin at
+  the black friars at Antwerp, howbeit I find it not in the legend, mine
+  exemplar, neither in English, French, ne in Latin." Voragine's Latin does
+  not have it. Read in the Temple Classics edition, vol. 5, p. 66,
+  `https://archive.org/details/goldenlegendorli05jaco`, public domain; that
+  is the volume that could not be fetched for the corpus (section 4).
   The note on 084r had put the story in the *Golden Legend* without
   qualification; corrected.
 - **Adso of Montier-en-Der, *De ortu et tempore Antichristi*.** Antichrist
@@ -230,16 +250,41 @@ check:
   chapter 7 of the doctrine and canon 9. English at
   `https://en.wikisource.org/wiki/Canons_and_Decrees_of_the_Council_of_Trent/Session_XXII/Sacrifice_of_the_Mass`.
   The note on 030v had cited canon 7; corrected.
-- **The Christmas proclamation of the Roman Martyrology.** 5,199 years from
-  the creation to the Nativity, as the note on 223v says. English at
-  `https://www.usccb.org/prayer-and-worship/liturgical-year-and-calendar/christmas/christmas-proclamation`.
+- **The Christmas proclamation of the Roman Martyrology.** "Anno a creatione
+  mundi ... quinquies millesimo centesimo nonagesimo nono": 5,199 years from
+  the creation to the Nativity, as the note on 223v says. Read in the
+  *Martyrologium Romanum* in the text of Gregory XIII, Urban VIII and
+  Benedict XIV, 1846 printing, 25 December,
+  `https://archive.org/details/bub_gb_oEV64t4pzlcC`, public domain. The
+  proclamation in use since 2004 reads "ages beyond number" instead, as at
+  `https://www.usccb.org/prayer-and-worship/liturgical-year-and-calendar/christmas/christmas-proclamation`;  an earlier version of this entry pointed only there.
+- **Council of Florence, *Laetentur caeli* (1439).** Souls are cleansed after
+  death "penis purgatoriis", by purgatorial punishments; the bull does not
+  name fire. Latin at
+  `https://www.vatican.va/content/eugenius-iv/la/documents/bulla-laetentur-caeli-6-iulii-1439.html`.
+  The note on 088r had the council define a fire; corrected.
+- **The *Protevangelium of James* and the *Gospel of Pseudo-Matthew*.** In the
+  Protevangelium Anna "stood by the gate", unnamed; Pseudo-Matthew, chapter
+  3, has "the gate which is called Golden". Both at
+  `https://www.newadvent.org/fathers/0847.htm` and
+  `https://www.newadvent.org/fathers/0848.htm`. The note on 016v had put the
+  Golden Gate in the Protevangelium; corrected.
+- **Stephan Borgehammar, "Heraclius Learns Humility: Two Early Latin
+  Accounts Composed for the Celebration of Exaltatio Crucis", *Millennium* 6
+  (2009) 145-201.** Edits the *Reversio sanctae crucis* and a sermon telling
+  the same story, dates them between the end of the seventh century and the
+  middle of the eighth, from an Eastern original of 630 to 636. Abstract at
+  `https://www.lunduniversity.lu.se/publication/9ad2b6ac-fd3c-4655-9b21-f84b6e0ac5a5`;
+  the article itself was not read. The note on 185v had said no chronicle of
+  the period reports the scene; it now names the source.
 ## Citations owed in any write-up
 
 - Levente Zoltán Király and Gábor Tokai, "Cracking the code of the Rohonc
   Codex", *Cryptologia* 42:4 (2018), 285-315.
 - Levente Zoltán Király, "A Rohonci kódex teológiai karaktere", in *Hagyomány,
   Identitás, Történelem 2022*, KRE HTK, Budapest 2023, 363-376.
-- Ottó Gyürk (1970), on line breaks in the codex's repeated sequences -- the
+- Ottó Gyürk, "Megfejthető-e a Rohonci-kódex?", *Élet és Tudomány* 25
+  (1970), 1923-1928, on line breaks in the codex's repeated sequences -- the
   idea both the orientation test and the main result rest on.
 - Benedek Láng, *The Rohonc Code: Tracing a Historical Riddle*, Penn State
   Press, 2021.

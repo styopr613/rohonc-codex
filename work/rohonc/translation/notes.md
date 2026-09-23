@@ -206,11 +206,14 @@ source: 120r:5, 120v:4–9; Gregory the Great, *Homiliae in Evangelia* 34
 
 ## anchor: «on die, soul inside purification fire until judge day»
 
-Purgatory named as a fire of cleansing before the judgment is Latin doctrine,
-defined at the Council of Florence in 1439 and again at Trent in 1563. Neither
-the Greek churches of the period nor the Protestant confessions hold it.
-source: 088r:10; Council of Florence, *Laetentur caeli* (1439); Council of
-Trent, session 25 (1563)
+Purgatory as a cleansing after death is Latin doctrine, defined at the
+Council of Florence in 1439 and again at Trent in 1563. Florence speaks of
+purgatorial punishments and does not name fire; the Greek delegates there
+disputed the fire, and the fire on this line is the preachers' image, not the
+councils' word. The Greek churches did not receive Florence, and the
+Protestant confessions reject purgatory. An earlier printing of this note
+had the councils define a fire; that was wrong.
+source: 088r:10; Council of Florence, *Laetentur caeli* (1439), "penis purgatoriis"; Council of Trent, session 25 (1563)
 
 ## anchor: «one say hunger die», and another asks «how shall we» and eats «of son»
 
@@ -287,10 +290,12 @@ source: 216r:6–8, 218r:7–9; Douay-Rheims Acts 7:57
 ## anchor: «this Lord Christ proud out on Jerusalem carry cross tree, but humble carry»
 
 Heraclius stopped by an angel at the gate of Jerusalem, and going in barefoot
-and without his purple, is the *Golden Legend*'s account of the Exaltation of
-the Cross, kept on 14 September. No chronicle of the period reports it.
-source: 185v:7–9, 186r:1–5; *Golden Legend*, "The Exaltation of the Holy
-Cross"
+and without his purple, is the *Golden Legend*'s account of the Exaltation of the Cross, kept on 14
+September. The scene is not in the histories of Heraclius's reign; its Latin
+source is the *Reversio sanctae crucis*, written for the feast between the
+end of the seventh century and the middle of the eighth from an Eastern
+original of 630 to 636, which Borgehammar edits.
+source: 185v:7–9, 186r:1–5; *Golden Legend*, "The Exaltation of the Holy Cross"; Borgehammar, *Millennium* 6 (2009) 145–201
 
 ## anchor: «name exist Khosrow»
 
@@ -301,11 +306,12 @@ source: 183r:3, 183r:6; K&T entries for Chosroes and Ctesiphon
 
 ## anchor: setting first: «sit apostle at table inside Jerusalem»
 
-Kiraly and Tokai cite this sign at 072r:8, 072r:11 and 191r:4 under an entry
-glossed as a table. The Douay-Rheims has the eleven "at table"; the
+Kiraly and Tokai's entry for this sign, glossed as a table, cites the
+folios 072r, 182r and 191r among others; on those folios it stands at
+072r:8, 072r:11, 182r:4 and 191r:4. The Douay-Rheims has the eleven "at table"; the
 King James has them "at meat". **This edition** follows the Douay because the
 manuscript is a Catholic compilation and its author had the Vulgate.
-source: 072r:8, 182r:4, 191r:4; K&T entry glossed "table"; Douay-Rheims Mark
+source: 072r:8, 072r:11, 182r:4, 191r:4; K&T entry glossed "table"; Douay-Rheims Mark
 16:14
 
 ## anchor: «two ten ten five hour» and then «thirty … six hour»
@@ -357,12 +363,13 @@ source: 005r; Douay-Rheims Genesis 22:13; proposals.json
 
 ## anchor: «the golden gate» Joachim meets his wife Anne
 
-Joachim's offering refused, the angel in the wilderness and the meeting at the
-Golden Gate are in the *Protevangelium of James*, chapters 1 to 4, and reached
-the Latin west through the *Golden Legend*'s chapter on the Nativity of the
-Virgin. None of it is in the gospels.
-source: 016v, 017r:5–6, 017v:3; *Protevangelium of James* 1–4; *Golden
-Legend*, "The Birth of the Blessed Virgin Mary"
+Joachim's offering refused, the angel in the wilderness and the meeting at
+the gate are in the *Protevangelium of James*, chapters 1 to 4, where the
+gate has no name. It is called the Golden Gate in the *Gospel of
+Pseudo-Matthew*, chapter 3, and in the *Golden Legend*'s chapter on the
+Nativity of the Virgin, which is how it reached the Latin west. None of it is
+in the gospels.
+source: 016v, 017r:5–6, 017v:3; *Protevangelium of James* 1–4; *Gospel of Pseudo-Matthew* 3; *Golden Legend*, "The Birth of the Blessed Virgin Mary"
 
 ## anchor: «have mercy, girl»
 

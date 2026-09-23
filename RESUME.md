@@ -24,7 +24,18 @@ relative, Elijah folk belief, author cites what he was taught) and the
 end-of-world count are ONE text, ktbook.back_matter() appendix "What the
 sources turned up" (pos 5), rendered on the site as finds.html "Discovering
 the work" (nav: Discoveries) by ktsite.page_finds(). Four notes extended
-(004r cup, 006r branch, 008v Elijah, 223v 1593 count -> 2033). Open item
+(004r cup, 006r branch, 008v Elijah, 223v 1593 count -> 2033). Then an OUTSIDE REVIEW (owner pasted it) found six more: Florence names no
+fire (penis purgatoriis); the Golden Gate is Pseudo-Matthew 3, not the
+Protevangelium; the table note's two line lists disagreed; Heraclius's scene
+now sourced to the Reversio via Borgehammar (Millennium 6, 2009); 2 Enoch
+has Coptic fragments (Hagen 2012); the USCCB proclamation now reads "ages
+beyond number", so the 5,199 is cited to the 1846 Martyrologium scan. Weak
+sources upgraded to primaries: Carion 1532 scan (Melanchthon's preface has
+the six-thousand-year scheme), Ellis 1904 appendix, Caxton vol. 5 p. 66,
+Agreda/Blatter I.vii; Gyurk cited in full. Zenodo: v1.2.0 and v1.2.1 were
+ACCEPTED by the webhook (202) but at 18:15 UTC the concept DOI still landed
+on v1.1.0; check https://zenodo.org/account/settings/github/ if it stays so.
+Open item
 unchanged: the Kindle file is
 behind the shelf EPUB.
 
