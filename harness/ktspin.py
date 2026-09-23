@@ -21,8 +21,8 @@ from PIL import Image
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORK = os.path.join(ROOT, "work", "rohonc")
-WRAP = ("/opt/covers-app/data/users/u1/out/20260921-212932-2sdz/"
-        "the-rohonc-codex-wrap-6x9-553pp-cream.png")
+WRAP = ("/opt/covers-app/data/users/u1/out/20260922-222229-xnfy/"
+        "cover-wrap-6x9-553pp-cream.png")
 FACE_W = 600           # the slices are cut at this face width, the height follows the trim
 
 
