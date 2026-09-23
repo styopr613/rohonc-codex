@@ -1,3 +1,42 @@
+# Where this stopped — 2026-09-23
+
+## NOTES, SOURCES, KINDLE — 2026-09-23
+
+The owner asked how sure the readings on the Lucifer pages are, and then for
+precedents. What was done, all committed through ktcommit.sh and pushed:
+
+- **Five endnotes added or corrected** in `work/rohonc/translation/notes.md`
+  (54 now): the mother born at 004r:11 (K&T's own example for both signs); the
+  cup on 004r (their sign, "cup or jar", four times there and three elsewhere;
+  nearest precedents the Romanian carol of Judas plundering paradise and the
+  Slavonic Michael-and-Satanael tale; the Grail-from-Lucifer's-crown story is
+  1832, not medieval); the Elijah frame (no longer "no source found": Slavonic
+  Enoch, the Apocalypse of Elijah, and Kalmany's Szeged folk tellings); the
+  Marian test behind 002r (Scotus, Suarez 1590s; Agreda 1670 too late); Seth's
+  branch at 006r (K&T themselves unsure between branch, seed, fruit and oil;
+  Golden Legend and the Erdy codex promise the healing; nothing performs it).
+- **One reading corrected in Book One.** 006r said Adam was healed by "the
+  seed and the anointing light". K&T's apparatus lists those signs as a
+  variant of their expression "immediately", four times on the folio. It now
+  reads "when Seth brought the branch, at once Adam's eyes were opened". The
+  note says the earlier printing was wrong.
+- **DATA_PROVENANCE.md section 6**: the ten texts the notes read online but
+  did not fetch, each with what it supplied, where, and its copyright position.
+  The duplicated section number is fixed (the Hungarian dictionary is 7).
+  `ktsite.py notes_sources()` renders it on the sources page; the site copy
+  key is `sources_notes_lead`. Kalmany and Balint are in the citations owed,
+  with a sixth gloss in `ktsite_copy.json` (glosses pair by POSITION; the
+  first rebuild paired the new citation with the page-scans gloss).
+- **The Kindle edition is live, $0.99, https://www.amazon.com/dp/B0HKQCWV2S**
+  and is linked from the front page, the read page, the reader's toolbar
+  (`/var/www/oona13/read/rohonc.php`, `kindle` key; backup `.pre-kindle-20260923`)
+  and the README's first line. Plain text "Read on Kindle", no logo.
+
+**Open:** the Kindle file on Amazon is the 03:40 build of 2026-09-23 and is
+now BEHIND the shelf by five notes and the 006r correction. Re-upload from
+the shelf when the notes settle. The paperback and Zenodo items below still
+stand.
+
 # Where this stopped — 2026-09-22
 
 ## HANDOFF, evening 2026-09-22 — Cover Maker, picked up by Opus

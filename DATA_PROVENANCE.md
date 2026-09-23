@@ -118,8 +118,8 @@ Both were fetched once, at one request, with the project's user agent.
 
 ## 6. Sources consulted for the endnotes, 2026-09-23 -- read, not fetched
 
-Three endnotes in Book One (on 004r, 004v and 002r) name texts outside the
-corpus. None was downloaded into `data/ref/`; each was read online once, at
+Four endnotes in Book One (on 004r, 004v, 002r and 006r) name texts outside
+the corpus. None was downloaded into `data/ref/`; each was read online once, at
 the address below, and is cited in the note by chapter or page. Nothing from
 any of them is reproduced. What each supplied:
 
@@ -164,6 +164,11 @@ any of them is reproduced. What each supplied:
 - **Suarez, *De Angelis* VII.13, and Mary of Agreda, *Mystical City of God*
   (1670).** Cited at second hand for the angels' test in its Franciscan and
   its narrated forms; neither was read in the original.
+- **"Adam es a keresztfa" (Adam and the cross-tree), a Hungarian study on
+  the ELTE server.** Quotes the Seth episode from the Erdy codex (1526-27),
+  the Teleki codex (1525-31) and the Debreceni codex (1519), which were not
+  reachable themselves. Read at
+  `https://magyar-irodalom.elte.hu/arianna/plaustrum/01LBoriD.html`.
 
 ## Citations owed in any write-up
 

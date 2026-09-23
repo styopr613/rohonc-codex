@@ -429,3 +429,21 @@ shows the angels Mary and Lucifer refuses to serve her, is Mary of Agreda's,
 1670, later than the book. Lucifer's throne set beside God's is Isaias 14:13
 and the Life of Adam and Eve, chapter 15.
 source: 002r:1-2, 004r:11, 223v; K&T entries for the signs glossed "mother" and "be born"; Latin Life of Adam and Eve 14-15; Douay-Rheims Isaias 14:13; Suarez, De Angelis VII.13; Mary of Agreda, Mystical City of God, part I
+
+## anchor: «Seth brought back a branch from the tree of mercy» (006r)
+
+Kiraly and Tokai's entry for the sign Seth carries reads, whole, "branch or
+seedling or seed (maybe fruit or oil)"; this edition prints the first of
+those. Their apparatus takes 006r:2 as "make the blind's eye see" and 006r:3
+as "heal, be healed", and lists the signs at 006r:1-2 and 9-10 as a variant
+of their expression "immediately", four times on the folio. An earlier
+printing of this edition rendered those signs "the anointing light"; that was
+wrong and is corrected here. No source has Adam healed by the branch. The
+Golden Legend, in the Invention of the Holy Cross, has the angel give Seth a
+branch of the tree Adam ate from and say that when it bears fruit Adam "should
+be guerished and all whole"; Seth comes home to find Adam dead and plants it
+on his grave. The Erdy codex (1526-27) follows that; the Teleki codex
+(1525-31) has Seth find Adam dead. The Life of Adam and Eve, chapters 40-42,
+sends Seth for the oil of mercy and has Michael refuse it until the end of
+time.
+source: K&T entries for the signs glossed "branch or seedling or seed", "light" (b), "heal" (III) and "place" (b, expr. immediately); 006r:1-3, 9-11; Caxton's Golden Legend, The Invention of the Holy Cross; Latin Life of Adam and Eve 40-42; Erdy-kodex, Teleki-kodex, as quoted in "Adam es a keresztfa" (ELTE, magyar-irodalom.elte.hu)

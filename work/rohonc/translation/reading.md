@@ -28,7 +28,7 @@ Adam was made from the earth, and to the earth he would return. Because of the f
 
 The cherubim were set inside Paradise. The angel of God said to Elijah: Elijah, when the Lord God drove Adam out from Paradise, Eve lived in the field for many years. Adam had sons by Eve: Cain was the firstborn, Abel was the second, and Seth was the third. Adam became blind in both eyes, and he asked that a son should bring him mercy from the tree. (007v)
 
-Seth went to the gate of Paradise, and God's angel appeared to him there. Seth spoke of Adam his father, and the angel sent him into Paradise. Seth brought back a branch from the tree of mercy. Adam his father was blind because of sin, and when Seth brought the seed and the anointing light, Adam's eyes were opened and he was made whole. The angel spoke truly, and Seth carried the branch. (006r)
+Seth went to the gate of Paradise, and God's angel appeared to him there. Seth spoke of Adam his father, and the angel sent him into Paradise. Seth brought back a branch from the tree of mercy. Adam his father was blind because of sin, and when Seth brought the branch, at once Adam's eyes were opened and he was made whole. The angel spoke truly, and Seth carried the branch. (006r)
 
 Adam had been cast out of Paradise because of sin, but the angel gave Seth the branch, and Seth carried it to his father. Seth went to the city where Adam's house was and found the way. He spoke of the Father and the Spirit, and of the Father who knew Adam. Adam, the Lord God's man, had been blind in both eyes after the angel drove him out of Paradise; now the branch of mercy had been found. (006v)
 
