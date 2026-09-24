@@ -154,7 +154,8 @@ THE MISTAKES THAT COST THE MOST TIME (name them plainly; they are the useful par
 THE SCRIPT ITSELF (for the page about it)
 - The writing runs right to left. The codex dates itself 1593.
 - It is logographic: a sign stands for a word or a whole phrase, not a sound.
-  Király and Tokai established this. Several hundred signs are in use.
+  Király and Tokai likely demonstrated this, and this project went a long way
+  to validate it. Several hundred signs are in use.
 - Phrases are written WITHOUT a space. The example Király and Tokai print from
   folio 137v is "sin, without, Jesus, conceive, you-Mary", where you-Mary is a
   single sign made of their sign for the second person pronoun (932 occurrences)
