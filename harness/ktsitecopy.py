@@ -309,7 +309,7 @@ card_method      one sentence for a link card to the method
 card_writeup     one sentence for a link card to the full write-up
 card_data        one sentence for a link card to the data downloads
 edition          one paragraph about the book edition
-credit           MUST state the three licences and why: the programs MIT and the data CC BY 4.0 so that checking is unrestricted, the translation and editorial prose CC BY-NC-ND 4.0 with the commercial rights to the English reserved because the paperback is sold. one paragraph on credit and position
+credit           MUST state the three licences and why: the programs MIT and the data CC BY 4.0 so that checking is unrestricted, the translation and editorial prose CC BY-NC-ND 4.0 with the commercial rights to the English reserved. Do NOT say any edition is sold: none is. one paragraph on credit and position
 reading_lead     one paragraph at the top of the reading page
 dictionary_lead  2 paragraphs opening the dictionary page: whose readings these are, that K&T's own 841 entries are not reproduced and their drawn signs are on their site, how a sign is written, and that the table is searchable and filterable. Do NOT define the tiers -- a legend on the page does that -- and do NOT give a total: the page prints the split
 data_lead        one or two sentences: the data is in the repository at https://github.com/styopr613/rohonc-codex; this page names the reference corpus and says where everything else goes. No file links

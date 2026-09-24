@@ -116,8 +116,7 @@ plate that does not name its source.
 ## Reading it
 
 The whole edition is free to read at https://oona13.com/rohonc/ and as an EPUB
-in [`book/`](book). A paperback and a Kindle edition
-(https://www.amazon.com/dp/B0HKQCWV2S) are sold. What that does and does not
+in [`book/`](book). No edition is on sale. What the licence does and does not
 restrict is the next section.
 
 ## Licence
@@ -130,8 +129,7 @@ Three parts, three licences, set out in full in [`LICENSE`](LICENSE).
 | the data and saved runs | CC BY 4.0 | build on it, with credit |
 | the translation and the prose | CC BY-NC-ND 4.0 | read, quote, teach, check, republish whole non-commercially, with credit |
 
-**The commercial rights to the English text are reserved.** A paperback of it is
-sold, and the text is the thing being sold. Everything you need in order to
+**The commercial rights to the English text are reserved.** Everything you need in order to
 *check* the work — the data and the programs — is under the permissive licences,
 which is the point: the restriction is on reselling the translation, not on
 examining it.

@@ -922,12 +922,11 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
 <div class="hero">
   <div class="blurb">{intro_html}
     <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
-      <a href="/rohonc/book/the-rohonc-codex.epub" download>EPUB</a>
-      <a href="https://www.amazon.com/dp/B0HKQCWV2S" rel="noopener">Read on Kindle</a></div>
+      <a href="/rohonc/book/the-rohonc-codex.epub" download>EPUB</a></div>
     <p class="sz">All {nfolio} folios{pages_note} · the translation and the evidence in one volume.</p>
   </div>
   <figure class="bk"><button class="book-peek" id="book-peek" type="button" aria-haspopup="dialog" aria-controls="book-blurb">
-    <img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the printed edition" width="576" height="900">
+    <img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the book" width="576" height="900">
     <span class="book-peek-note">Turn it over</span>
   </button></figure>
 </div>
@@ -935,8 +934,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
   <form method="dialog"><button class="modal-close" aria-label="Close" value="close">×</button></form>
   <h2 id="book-blurb-title">The back of the book</h2>
   {cover_blurb}
-  <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
-    <a href="https://www.amazon.com/dp/B0HKQCWV2S" rel="noopener">Read on Kindle</a></div>
+  <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a></div>
 </dialog>
 <script>
 (function(){{
@@ -1437,7 +1435,7 @@ def _v(name):
 def spin_html(g):
     v = {f: _v(f"spin-{f}.webp") for f in SPIN_FACES}
     return f"""<div class="book3d-scene">
-  <div class="book3d" id="book3d" tabindex="0" role="img" aria-label="The Rohonc Codex paperback, turning. Drag it, or use the left and right arrow keys, to turn it yourself.">
+  <div class="book3d" id="book3d" tabindex="0" role="img" aria-label="The Rohonc Codex book, turning. Drag it, or use the left and right arrow keys, to turn it yourself.">
     <div class="face b-front"><img draggable="false" src="/rohonc/img/spin-front.webp?v={v['front']}" width="{g['fw']}" height="{g['fh']}" alt="The Rohonc Codex, front cover"></div>
     <div class="face b-back" aria-hidden="true"><img draggable="false" src="/rohonc/img/spin-back.webp?v={v['back']}" width="{g['fw']}" height="{g['fh']}" alt=""></div>
     <div class="face b-spine" aria-hidden="true"><img draggable="false" src="/rohonc/img/spin-spine.webp?v={v['spine']}" width="{g['sw']}" height="{g['sh']}" alt=""></div>
@@ -1528,8 +1526,7 @@ def page_read():
     body = ("<h1>Read it here</h1>"
             + paras("read_lead", "lead")
             + '<p class="acts"><a class="go" href="/read/rohonc.php">Open the book</a> '
-              '<a href="/rohonc/book/the-rohonc-codex.epub" download>Download EPUB</a> '
-              '<a href="https://www.amazon.com/dp/B0HKQCWV2S" rel="noopener">Read on Kindle</a></p>'
+              '<a href="/rohonc/book/the-rohonc-codex.epub" download>Download EPUB</a></p>'
             + spin_css(g) + spin_html(g) + SPIN_JS)
     return shell("read", "Read it here",
                  "The whole Rohonc Codex edition in the OONA reader: the translation and all 441 written pages with their marked lines.",
