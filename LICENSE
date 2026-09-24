@@ -5,8 +5,12 @@ The full texts are in `LICENSES/`.
 
 ## The programs — MIT
 
-`harness/`, and any script or tool in this repository.
-See `LICENSES/MIT.txt`. Take them, use them, sell what you build with them.
+`harness/`, and any script or tool in this repository, so far as they are this
+project's to give. See `LICENSES/MIT.txt`. Take them, use them, sell what you
+build with them.
+
+Parts of the Voynich harness are not solely this project's, and those parts
+carry their authors' terms as well as this one. See the section below.
 
 ## The data — CC BY 4.0
 
@@ -34,9 +38,23 @@ to check it, are under the permissive licences above.
 
 ## What is not this project's to license
 
-Levente Zoltán Király and Gábor Tokai's dictionary, grammar and transcription
-are their published work. They are not redistributed here and no licence over
-them is claimed or implied. The manuscript images belong to the Library of the
+**Other people's code inside `harness/`.** The Voynich harness ranks processes
+that are somebody else's work, and most of them run from their own code: the
+`text` and `struct` metric blocks are computed by calling Sachak's
+`voynich-fingerprint` (MIT); Timm and Schinner's self-citation generator runs
+from their own `text-generator.jar` (MIT); the grille and Llull generators
+reimplement Antenore's `voynich-toolkit` (MIT); Greshko's Naibbe cipher
+(`harness/generators/naibbe.py`, `naibbe_wb.py`) and Gaskell and Bowern's
+gibberish samples (`harness/generators/gibberish.py`) are under **modified MIT
+licences that require citation**, and that requirement travels with them. The
+MIT grant above does not override any of it. `RESULTS.md` §9 is the complete
+list, with each licence and what it supplied; the generator files mostly name
+their source in their own first lines, but §9 is the authority, not the
+file headers.
+
+**The manuscript and the dictionary.** Levente Zoltán Király and Gábor Tokai's
+dictionary, grammar and transcription are their published work. They are not
+redistributed here and no licence over them is claimed or implied. The manuscript images belong to the Library of the
 Hungarian Academy of Sciences. The manuscript itself is of the sixteenth
 century and is out of copyright. `DATA_PROVENANCE.md` states the position on
 every file.
