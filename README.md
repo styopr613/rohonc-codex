@@ -147,7 +147,7 @@ Cite the concept DOI, which always resolves to the latest version:
 > Taylor, Stephen. *The Rohonc Codex, read: an attempt, and everything needed to
 > check it.* https://doi.org/10.5281/zenodo.22902166
 
-The archived snapshot of this release is 10.5281/zenodo.22928942. The work it
+Each release is archived on Zenodo as a version under that DOI. The work it
 builds on is Király, L. Z. and Tokai, G. (2018), "Cracking the code of the
 Rohonc Codex", *Cryptologia* 42(4):285-315, doi:10.1080/01611194.2018.1449147.
 
