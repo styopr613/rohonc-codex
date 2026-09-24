@@ -68,6 +68,9 @@ the outlines are credited to them on the page that shows them, and if they ask
 for them to come down they come down. This is a judgement, not a permission: they
 have not been asked, and the email owed to them is the place to ask.
 
+`work/rohonc/signs.json`, every outline in one file, is a local working file,
+listed in `.gitignore`. The site draws each sign where it is used.
+
 ## 2c. `work/rohonc/glass.png` — the magnifying glass on the front page, 2026-09-22
 
 Not a source. It is a picture this project made: ByteDance Seedream 5.0 Pro,

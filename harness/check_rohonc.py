@@ -478,9 +478,10 @@ def main():
           len(g) == 2 and g[0] == 234 and g[1] == 778 and "778 tokens" in flat, str(g))
     tr = os.path.join(WORK, "translation", "rohonc_reading.txt")
     trf = os.path.join(WORK, "translation", "rohonc_reading_full.txt")
-    check("rendering: both files exist and cover 441 pages",
-          os.path.exists(tr) and os.path.exists(trf)
-          and open(tr, encoding="utf-8").read().count("\n=== ") == 441)
+    # rohonc_reading_full.txt is a local working file; checked only where it exists.
+    check("rendering: the reading covers 441 pages, and so does the full one where it exists",
+          os.path.exists(tr) and open(tr, encoding="utf-8").read().count("\n=== ") == 441
+          and (not os.path.exists(trf) or open(trf, encoding="utf-8").read().count("\n=== ") == 441))
     check("rendering: the 137v line reads as documented",
           os.path.exists(tr) and "virgin-girl this-Mary" in open(tr, encoding="utf-8").read()
           and "virgin-girl this-Mary" in flat)

@@ -49,3 +49,9 @@ notes/VOYNICH_PLAN.md
 # own words. A local working file made by harness/ktsenses.py --all from data/;
 # it is their dictionary and is not part of this repository.
 work/rohonc/senses.json
+
+# Two more local working files made from Király and Tokai's material: the sign
+# outlines (harness/ktsigns.py) and the every-sense reading (harness/kttranslate.py).
+# The site and the checks read them on disk; both regenerate from data/.
+work/rohonc/signs.json
+work/rohonc/translation/rohonc_reading_full.txt

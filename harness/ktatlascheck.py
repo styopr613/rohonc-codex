@@ -40,7 +40,12 @@ BOOK_YEARS = {"1593": r"which is 1593", "1838": r"in 1838", "2014": r"published 
 def main():
     fails = []
     d = json.load(open(os.path.join(HERE, "atlas.json"), encoding="utf-8"))
-    sg = json.load(open(os.path.join(corpus.ROOT, "work", "rohonc", "signs.json"), encoding="utf-8"))["signs"]
+    sp = os.path.join(corpus.ROOT, "work", "rohonc", "signs.json")
+    if not os.path.exists(sp):
+        # A local working file made from Király and Tokai's font; see .gitignore.
+        print("signs.json is missing: run ktsigns.py first (it reads their font from data/)")
+        return 1
+    sg = json.load(open(sp, encoding="utf-8"))["signs"]
     places = d["places"]
     for i, e in enumerate(d["events"]):
         for k in ("year", "date", "lane", "label", "desc", "source"):
