@@ -9183,7 +9183,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > had seen a spirit ... and while they yet believed not for joy, and
 > wondered". Line 4 gives "believed not for joy" almost word for word.
 
-## 129r — receive ye the Holy Ghost, and go into all the world
+## 129r — receive ye the Holy Spirit, and go into all the world
 
 **1**  and the apostles could because the Lord Jesus, Christ, because therefore
 `and can apostle [?] Lord-Jézus ~Christ-to because-?therefore`
@@ -15914,7 +15914,7 @@ in Király & Tokai's dictionary, so the person is not named here.
 **10**  Sunday three, in turn, two by two; Sunday three, the Lord | Father,
 `Sunday three in_turn-two-two <subject> Sunday three Lord | father`
 
-**11**  Son and Spirit; on the Monday there was [the Holy Ghost] conceived, to
+**11**  Son and Spirit; on the Monday there was [the Holy Spirit] conceived, to
 `son-spirit inside Monday exist [?] get_conceived to`
 
 > **Kiraly and Tokai's dictionary carries a sign they gloss as "the name of the

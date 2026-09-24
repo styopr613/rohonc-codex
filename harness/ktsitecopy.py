@@ -63,7 +63,8 @@ def fact_sheet():
 
 KIRALY AND TOKAI (credit them by name, always)
 - Levente Zoltán Király and Gábor Tokai, "Cracking the code of the Rohonc Codex",
-  Cryptologia 42:4 (2018). A dictionary of {ktn} signs and the grammar.
+  Cryptologia 42:4 (2018). A dictionary of {ktn} signs; their grammar paper is
+  unpublished.
 - They put their transcription online at rechnitzer-kodex.hu so their claims could
   be checked. Their own translation of the codex is unpublished; nothing on this
   site is it.
@@ -187,7 +188,7 @@ THE SCRIPT ITSELF (for the page about it)
 
 CITATIONS OWED (quote each exactly as written here)
 - Levente Zoltán Király and Gábor Tokai, "Cracking the code of the Rohonc Codex",
-  Cryptologia 42:4 (2018), 285-315. -- the dictionary and the grammar.
+  Cryptologia 42:4 (2018), 285-315. -- the dictionary.
 - Levente Zoltán Király, "A Rohonci kódex teológiai karaktere", in Hagyomany,
   Identitas, Tortenelem 2022, KRE HTK, Budapest 2023, 363-376. -- it explains why
   their site exists: so their claims about the text can be checked.
@@ -280,8 +281,8 @@ WHAT IS ON THE SITE
   same book downloadable as an EPUB or as the interior print PDF.
 
 POSITION
-- The manuscript is out of copyright. Király and Tokai's dictionary,
-  transcription and page images are theirs: credited on every page, linked, not
+- The manuscript is out of copyright. Király and Tokai's dictionary
+  and transcription are theirs: credited on every page, linked, not
   rehosted. The readings, tests, English and editorial matter are this
   project's own. Every figure on the site is read out of a saved run, never
   typed by hand.
@@ -311,7 +312,7 @@ card_data        one sentence for a link card to the data downloads
 edition          one paragraph about the book edition
 credit           MUST state the three licences and why: the programs MIT and the data CC BY 4.0 so that checking is unrestricted, the translation and editorial prose CC BY-NC-ND 4.0 with the commercial rights to the English reserved. Do NOT say any edition is sold: none is. one paragraph on credit and position
 reading_lead     one paragraph at the top of the reading page
-dictionary_lead  2 paragraphs opening the dictionary page: whose readings these are, that K&T's own 841 entries are not reproduced and their drawn signs are on their site, how a sign is written, and that the table is searchable and filterable. Do NOT define the tiers -- a legend on the page does that -- and do NOT give a total: the page prints the split
+dictionary_lead  2 paragraphs opening the dictionary page: whose readings these are, that K&T's own 841 entries are in their 2018 publication, not here, and their drawn signs are on their site (the page adds the edition's wording note itself; do not paraphrase it), how a sign is written, and that the table is searchable and filterable. Do NOT define the tiers -- a legend on the page does that -- and do NOT give a total: the page prints the split
 data_lead        one or two sentences: the data is in the repository at https://github.com/styopr613/rohonc-codex; this page names the reference corpus and says where everything else goes. No file links
 outside_lead     one paragraph introducing a reviewer's specification, quoted whole; the reviewers are two frontier models from other labs, Gemini 2.5 Pro and Grok 4.7, and the paragraph must say so in its own words, never 'outside reviewers' alone
 card_script      one sentence for a link card to a page about the script itself

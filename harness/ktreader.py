@@ -8,7 +8,7 @@ folios with the standard apparatus of a fragmentary edition.
 
 THE MARKS, and they follow the convention every damaged classical text uses.
 
-    word      read. Kiraly and Tokai's dictionary, a composition of their
+    word      read. Király and Tokai's dictionary, a composition of their
               signs, a variant spelling their own apparatus records, or a
               reading this project checked at every occurrence.
 
@@ -24,7 +24,7 @@ THE MARKS, and they follow the convention every damaged classical text uses.
 WHY THE DARK WORDS ARE NOT FILLED IN. It would be easy to print the best
 candidate from the folio's cited passage in brackets and call the text
 complete. Gate 4a in ktrederive.py measured what that candidate is worth:
-against Kiraly and Tokai's own hidden entries, the top candidate from the
+against Király and Tokai's own hidden entries, the top candidate from the
 passage pool was correct 0.0% of the time, and the true word was anywhere in
 the pool 5.4% of the time against a 4.6% control. A bracket filled from a
 generator that is at chance is not a restoration, it is a decoration. So
@@ -57,11 +57,21 @@ HEAD = """# The Rohonc Codex
 Every line of all {folios} folios, in the order the manuscript has them.
 
 The script is undeciphered. The dictionary that makes this possible is
-**Levente Kiraly and Gabor Tokai's**, published at rechnitzer-kodex.hu, and
+**Levente Király and Gábor Tokai's**, published at rechnitzer-kodex.hu, and
 roughly three quarters of the words below are theirs or follow directly from
 theirs. Their grammar paper is unpublished, so nothing here chooses between
 the senses of a word that has several; the first sense is printed. This is not
 their translation, which has never been published.
+
+The English wording of the gloss is this edition's own. Which sign means which
+word is Király and Tokai's finding and is credited to them; how each sense is
+put in English here is ours, and their entries, with every sense in their own
+words, are in their publication. Where a sign is grammatical rather than a word,
+a short label stands for it: `DIV` the suffix of a divine name, `SUBJ` `OBJ`
+`DAT` the markers of subject, object and dative, `AUX` `CAUS` `FUT` auxiliaries,
+`PTCL` a particle, `DISTR` `PLACE` `END` the signs inside a numeral, `DATE` and
+`DAY` a calendar name, and `NAME` a proper name known only by what it names
+(`NAME.prophet`).
 
 ## How to read the marks
 
@@ -72,9 +82,9 @@ their translation, which has never been published.
 | `[word]` | **restored** -- a guess from the folio's source and its neighbours |
 | `[...]` | dark: no reading, and no honest guess |
 
-A hyphen inside a word (`hide_oneself-angel`) is one sign of the manuscript
+A hyphen inside a word (`hide-angel`) is one sign of the manuscript
 read as the smaller signs it is built from -- this script writes phrases
-without spaces, which is the central fact Kiraly and Tokai established about
+without spaces, which is the central fact Király and Tokai established about
 it. A `~` marks a spelling their own apparatus files as a variant. A `|` is a
 gap or an unreadable glyph in the transcription.
 
@@ -86,7 +96,7 @@ verified, none is counted in the figures above, and the project measured what
 a guess of this kind is worth before printing any: on words as rare as these,
 the folio's cited passage contains the true word only 7.8% of the time, and
 when it is there the best candidate is right about one time in four. Against
-Kiraly and Tokai's own hidden entries the top candidate scored 0.0%.
+Király and Tokai's own hidden entries the top candidate scored 0.0%.
 
 Three quarters of the content guesses do land on a word that actually stands
 in the verse the folio cites, which is the only part of this that can be
@@ -133,6 +143,24 @@ words. There are {rest} of them now.
 """
 
 
+# Two of Király and Tokai's labels were carried into the line-by-line English
+# as they stand in the gloss, and the English is printed under every folio of
+# Book Two. A subject marker has no English word, so it goes; the man Seth meets
+# on the road is said in this edition's words. Anything else in angle brackets
+# stops the build rather than reaching the page. (2026-09-24)
+PROSE_OWN = [(re.compile(r" ?<subject marker>"), ""),
+             (re.compile(r"<someone Seth meets>"), "the one Seth met")]
+
+
+def own_english(line, pg):
+    for pat, rep in PROSE_OWN:
+        line = pat.sub(rep, line)
+    left = re.findall(r"<[^>]*>", line)
+    if left:
+        raise SystemExit(f"ktreader: {pg} English carries a label: {left}")
+    return line
+
+
 def main(argv):
     gl, doc, seg, var, prop, inv = K.build()
     T.prop_ref.update(prop)
@@ -146,7 +174,7 @@ def main(argv):
         for m in re.finditer(r"^## (\d{3}[rv]) — ([^\n]*)\n(.*?)(?=^## |\Z)",
                              txt, re.M | re.S):
             pg, title, body = m.groups()
-            para = [l.strip() for l in body.splitlines()
+            para = [own_english(l.strip(), pg) for l in body.splitlines()
                     if l.startswith("**") and l.strip()]
             prose[pg] = (title, para)
 
@@ -160,7 +188,7 @@ def main(argv):
                 for t in run:
                     b = A.strip(t)[0]
                     k = T.kind(t, gl, seg, var, prop)
-                    w = T.render_token(t, gl, seg, False, var, prop)
+                    w = T.render_token(t, gl, seg, False, var, prop, own=True)
                     if k == "none":
                         fk = "%s|%s" % (p.page, K.hx(b))
                         if fk in FOLIO:
@@ -178,7 +206,7 @@ def main(argv):
                     else:
                         key = (p.page, K.hx(b))
                         if key in PICK:
-                            out.append(PICK[key].strip().replace(" ", "_") + "^")
+                            out.append(T.clean(PICK[key], own=True) + "^")
                             n["fit"] += 1
                         else:
                             out.append(w.lstrip("+?"))

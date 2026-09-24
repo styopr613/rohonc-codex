@@ -124,7 +124,7 @@ last three "Translate" commits; read their diffs to see what a batch is.
      **The case that proves it is Mark 16:14, and it has no judgment in
      it.** The King James says the eleven sat *at meat*; the Douay says they
      were *at table*. This project had already read a sign as *at table*,
-     and not from any pool — from Kiraly and Tokai's own citations of their
+     and not from any pool — from Király and Tokai's own citations of their
      *table* entry at 072r08, 072r11 and 191r04. The anchor was fixed by an
      independent authority before the question arose, and the King James
      pool was still offering *meat* as a candidate for that same verse. The
@@ -534,7 +534,7 @@ disagree in one of them. Compute it once and call it twice.**
 
 ## The dictionary cites the manuscript, and nobody had followed the citations back
 
-Kiraly & Tokai's entries are not just headword and gloss. They cite the folio
+Király & Tokai's entries are not just headword and gloss. They cite the folio
 and line where a word stands, and where a VARIANT spelling of it stands:
 "[var. 065v01, 218v09]", "185r07 Heraclius", "088v11 covered with wounds".
 
@@ -548,7 +548,7 @@ That produced 44 readings in one afternoon, including eleven at tier A, which
 is the tier reserved for "proved by K&T citation" and had almost never been
 reachable before: holy Anne, in Nain, the aged, fourteen, to Bethany, holy
 Mark, holy James, Heraclius, arrived, confess, exist. None of them is a guess.
-Each is Kiraly & Tokai's own reading of that line, in a spelling the open
+Each is Király & Tokai's own reading of that line, in a spelling the open
 transcription writes differently from their headword.
 
 The rule this teaches: **before guessing what a source leaves dark, check
@@ -580,7 +580,7 @@ sense always, because a gloss set loses order and their raw entry keeps it --
 which was itself an earlier fix, and it was only half the job.
 
 `ktsensefit.py` prints the sense the folio's own cited passage uses, choosing
-only among senses Kiraly & Tokai published for that sign. 755 words on 222
+only among senses Király & Tokai published for that sign. 755 words on 222
 folios.
 
 **The guard that made it honest.** The first version moved 87 instances of

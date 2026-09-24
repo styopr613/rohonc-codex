@@ -74,14 +74,14 @@ Finishing the translation was attempted seventeen ways. Fourteen failed, each
 against a bar set before the run and never moved. The eleventh was a specific
 prediction of mine and it was wrong: the alignment method had been pointed at
 the four canonical gospels, so the reference was rebuilt from the sources
-Kiraly names -- the whole Bible, the apocryphal infancy and Nicodemus gospels,
+Király names -- the whole Bible, the apocryphal infancy and Nicodemus gospels,
 the four English mystery cycles, Caxton's Golden Legend -- and the method
 scored no better than before.
 
 The twelfth and thirteenth worked, and the reason the first eleven did not is
 that they all treated a code as a single word with a single meaning to guess.
 Many codes are not words. They are short phrases written without a space, and
-the dictionary already contains both halves. Kiraly and Tokai say so in their
+the dictionary already contains both halves. Király and Tokai say so in their
 2022 paper: the codex does not conjugate, so instead of a pronoun it repeats
 the name sign of whoever is being spoken about, and they print one code as
 "you-Mary" -- their own word for *you* followed by their own sign for *Mary*.
@@ -117,12 +117,12 @@ reader's edition having a word in every slot, 3.3% of them guesses.
 
 Even the word figure overstates how much is understood. Only about one word in
 eight has a single meaning with no choice to make; most carry several senses
-each, and the rule for choosing between them is in the grammar paper Kiraly
+each, and the rule for choosing between them is in the grammar paper Király
 and Tokai have not published.
 
 **What moved it from 74.9% to 80.1% was not more reading of lines. It was three
 small instruments that read the dictionary instead.** (A fourth, described
-further down, took it from 80.1% to 82.3% by following Kiraly and Tokai's own
+further down, took it from 80.1% to 82.3% by following Király and Tokai's own
 folio-line citations back into the manuscript.) Each asks a mechanical
 question about the shape of a sign, and each found words that hours of reading
 passages had walked past:
@@ -177,14 +177,14 @@ that reading every remaining recurring sign would reach 90%. It will not.
 The once-only signs are worth more than the recurring ones simply because
 there are seven times as many, which means **no route past the mid-eighties
 avoids them**. Each is a reading of a line rather than of a sign, so tier C is
-the ceiling on its evidence unless Kiraly and Tokai's own apparatus happens to
+the ceiling on its evidence unless Király and Tokai's own apparatus happens to
 name it -- and that seam, which looked worked out at six signs, turned out to
 hold about seventy once the three instruments above were pointed at it.
 
 **What the 81.5% is made of.** A percentage without a tier distribution
 behind it is a claim, not a result. `ktprov.py` computes this and reads none
 of the prose of the evidence field -- every class is worked out from the sign
-itself against Kiraly and Tokai's dictionary, so a reviewer can rerun it.
+itself against Király and Tokai's dictionary, so a reviewer can rerun it.
 
     THE WHOLE RENDERING, WORD BY WORD          29,997 words
 
@@ -216,7 +216,7 @@ itself against Kiraly and Tokai's dictionary, so a reviewer can rerun it.
       judgments flagged as such in the evidence: 4
 
 **Two thirds of this project's non-guess readings are co-signed by the
-published work** -- they were got from Kiraly and Tokai's own entries by
+published work** -- they were got from Király and Tokai's own entries by
 decomposition, by containment or by a single-glyph match, so the word is
 theirs and only the placement is ours. The 325 read from a passage are the
 ones that stand or fall on this project's evidence alone, and they are the
@@ -251,7 +251,7 @@ by anyone who wants only what is established.
 What a bracket is worth was measured before any were printed. On words as rare
 as these, the folio's cited passage contains the true word 7.8% of the time,
 and when it is there the best candidate is right about one time in four;
-against Kiraly and Tokai's hidden entries the top candidate scored 0.0%. What
+against Király and Tokai's hidden entries the top candidate scored 0.0%. What
 can be checked from inside the book is that three quarters of the content
 guesses land on a word that actually stands in the verse the folio cites. The
 weakest are the last two leaves, 224r and 224v, the worst-preserved in the
@@ -266,7 +266,7 @@ prints the chapter each folio's own following text shows.
 
 ## The dictionary cites the manuscript, and the citations had never been followed back
 
-Kiraly and Tokai's entries carry an apparatus: the folio and line where a word
+Király and Tokai's entries carry an apparatus: the folio and line where a word
 stands, and where a *variant spelling* of it stands. "[var. 065v01, 218v09]".
 "185r07 Heraclius". "088v11 covered with wounds". That apparatus points at the
 manuscript, so it can be run backwards.
@@ -280,7 +280,7 @@ That gave 44 readings in an afternoon, eleven at tier A -- the tier reserved
 for "proved by K&T citation", which had almost never been reachable before.
 Holy Anne. In Nain. The aged, which is Joseph's standing epithet. Holy Mark,
 holy James, Heraclius, arrived, fourteen, to Bethany, confess, exist. None is
-a guess; each is Kiraly and Tokai's own reading of that line, in a spelling
+a guess; each is Király and Tokai's own reading of that line, in a spelling
 the open transcription writes differently from their headword.
 
 It had been missed for six years, and the reason is exact: the variant reader
@@ -305,7 +305,7 @@ holes. It was not. Measured across every folio that cites a chapter and verse:
 
 Wrong-sense words outnumbered dark words five to one. "somebody" where the
 verse says *man*. "each, every" where it says *whole*. "land" where it says
-*kingdom*. "apostle" where it says *disciple*. The renderer printed Kiraly and
+*kingdom*. "apostle" where it says *disciple*. The renderer printed Király and
 Tokai's first sense always -- which was itself an earlier fix, and only half
 the job.
 
@@ -365,7 +365,7 @@ and this project should stop making it. The claim that survives is narrower
 and much stronger: it reads like *the particular passage the folio cites*.
 
 **Gate 4, held-out rederivation: one failure and one invalid test, and both
-are reported.** `ktrederive.py` masks 10% of Kiraly and Tokai's dictionary and
+are reported.** `ktrederive.py` masks 10% of Király and Tokai's dictionary and
 asks whether the pipeline puts it back.
 
     GATE 4a  mechanical rederivation, no structural neighbour
@@ -389,7 +389,7 @@ to tier D. The percentage of the book read did not move -- it was 80.1% before
 and after, because the downgrade is a confidence label, not a withdrawal.
 
 So the judgment step is still the unmeasured part of this work, and it can
-only be measured by a reader who has not seen Kiraly and Tokai's dictionary.
+only be measured by a reader who has not seen Király and Tokai's dictionary.
 That is the cheapest and most damaging external check available, and anyone
 may run it: `python ktrederive.py --dump` writes the sample.
 
@@ -439,7 +439,7 @@ Friday, and folio 52 verso is Longinus, the blind soldier healed by the blood
 from the spear, who appears in no gospel. It is a late-medieval devotional
 compilation, drawing on liturgy and legend as much as on scripture.
 
-Six hundred and seventy-eight of the signs Kiraly and Tokai leave undefined in
+Six hundred and seventy-eight of the signs Király and Tokai leave undefined in
 their headword list have now been read, 458 of them at the top grade,
 not by any of the seventeen statistical attempts, but by their own method:
 guess a sign from a passage whose story is known, then keep the guess only if

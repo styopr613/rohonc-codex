@@ -128,9 +128,9 @@ def plate_hungary(d):
     m.label(17.5, 45.75, "Drava", italic=True, size=14, color="#5f8791", anchor="middle")
     m.label(17.75, 46.75, "Balaton", italic=True, size=13, color="#5f8791", anchor="middle")
     m.label(13.0, 44.4, "Adriatic Sea", italic=True, size=17, color=SEA, anchor="middle")
-    m.raw(ev_open("The proposed reading: 1593", "1593", "On Kiraly and Tokai's reading, one of the codex's last leaves counts one thousand five hundred and sixty years from the Ascension, giving 1593. That summer the Long Turkish War began between the Habsburgs and the Ottomans, and it ran until 1606. Rohonc lay about a hundred kilometres from the frontier at Kanizsa."))
+    m.raw(ev_open("The proposed reading: 1593", "1593", "On Király and Tokai's reading, one of the codex's last leaves counts one thousand five hundred and sixty years from the Ascension, giving 1593. That summer the Long Turkish War began between the Habsburgs and the Ottomans, and it ran until 1606. Rohonc lay about a hundred kilometres from the frontier at Kanizsa."))
     m.callout(630, 100, 350, "1593", [
-        "On Kiraly and Tokai's reading, a last leaf",
+        "On Király and Tokai's reading, a last leaf",
         "counts 1,560 years from the Ascension: 1593.",
         "That summer the Long Turkish War began",
         "(1593-1606). Rohonc lay about a hundred",
@@ -181,7 +181,7 @@ def plate_tongues(d, sg):
     m.text_xy(bx + 14, by + 44, "Several hundred signs; code units mostly stand for words; right to left.", size=13, color=INK)
     frag, w = glyph_row(sg, t["glyphs"], bx + 18, by + 54, 40, gap=22, size=12.5)
     m.raw(frag)
-    m.text_xy(bx + bw - 12, by + 140, "signs after Kiraly and Tokai's font; glosses theirs", size=10.5, color=SOFT, italic=True, anchor="end")
+    m.text_xy(bx + bw - 12, by + 140, "signs after Király and Tokai's font; glosses theirs", size=10.5, color=SOFT, italic=True, anchor="end")
     # callout: a Catholic book in a Protestant country
     m.raw(ev_open("A Catholic book in a Protestant country", "c. 1600",
                   "Around 1600 some 85 to 90 per cent of the kingdom's people were Protestant, more than half of them Calvinist. The codex is a Catholic reader: the Douay Bible's saints, the Roman Missal's feasts, the Golden Legend. Whoever wrote it belonged to a minority in the country around it."))
@@ -356,7 +356,7 @@ def plate_sources_timeline(d):
         if yr % 250 == 0 or yr % 100 == 0:
             p.append(f'<text x="{xs(yr):.0f}" y="{AX + 22}" text-anchor="middle" font-size="12.5" fill="{SOFT}">{yr if yr else "AD 1"}</text>')
     texts = sorted([t for t in d["texts"] if t["year"] <= 1600], key=lambda t: t["year"])
-    codex = {"short": "THE CODEX", "date": "proposed: 1593", "year": 1593, "kind": "codex", "name": "The codex", "line": "", "desc": "On Kiraly and Tokai's reading, one of the codex's last leaves gives 1593. Everything on this plate that is gold was in its compiler's reach in Latin or in Hungarian by then."}
+    codex = {"short": "THE CODEX", "date": "proposed: 1593", "year": 1593, "kind": "codex", "name": "The codex", "line": "", "desc": "On Király and Tokai's reading, one of the codex's last leaves gives 1593. Everything on this plate that is gold was in its compiler's reach in Latin or in Hungarian by then."}
     above = [t for i, t in enumerate(texts) if i % 2 == 0]
     below = [t for i, t in enumerate(texts) if i % 2 == 1] + [codex]
     col = lambda t: TERRA if t["kind"] == "codex" else GOLD if t["kind"] == "had" else SEA
@@ -421,7 +421,7 @@ def plate_codex_timeline(d):
 
 # ---------------------------------------------------------------- build
 PLATES = [
-    ("hungary-1593", "Hungary in 1593", "The kingdom in three parts at the date proposed by Kiraly and Tokai, with Rohonc in its Habsburg west."),
+    ("hungary-1593", "Hungary in 1593", "The kingdom in three parts at the date proposed by Király and Tokai, with Rohonc in its Habsburg west."),
     ("tongues", "Tongues and faiths", "Seven mapped vernaculars, six confessions and three regional scripts around one town, and a book in a script of its own."),
     ("sources-map", "Where the stories came from", "The securely locatable books used by the codex and this edition, flowing to Rohonc."),
     ("sources-timeline", "When the stories were written", "Sixteen centuries of texts, ending at the proposed date read in the codex."),

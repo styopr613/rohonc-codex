@@ -106,7 +106,7 @@ PARTS = [
     ("223v", "X. The Last Things, and the Writer's Own Days",
      "A table of portents by weekday; two dates, one of them the age of the "
      "world at the Nativity as the Roman Martyrology gives it; and on 222v "
-     "a calendar in which the sign Kiraly and Tokai gloss as 'the name of "
+     "a calendar in which the sign Király and Tokai gloss as 'the name of "
      "the author' stands six times. It is the only page in the book about "
      "the man who made it."),
 ]
@@ -307,6 +307,13 @@ _APPENDIX_FROM = "## How it was checked"
 # reads as damage rather than as a button. Seven short rows gain nothing from being a
 # table, so they are paragraphs in a .figs block and Kindle has nothing to decorate.
 # Do not put them back in a <table>. (2026-09-23)
+# ONE sentence about whose the gloss's wording is, printed in the introduction
+# and again where the marks are explained, and the two must never drift apart.
+# 2026-09-24: the gloss was reworded (kttranslate.ours); the old line said
+# "their dictionary is not reproduced", which was no longer the whole account.
+from ktrights import WORDING, ENDORSE
+
+
 def _intro_all():
     g = figures()
     # ktverify imports this module, so it is imported here and not at the top.
@@ -315,12 +322,12 @@ def _intro_all():
     return """The Rohonc Codex is a small paper book of the sixteenth century, 224 leaves
 and about 450 pages, written in a script that occurs in no other document. It came to the
 Library of the Hungarian Academy of Sciences in Budapest in 1838, with the
-library of Count Gusztav Batthyany from his estate at Rohonc, now Rechnitz in
+library of Count Gusztáv Batthyány from his estate at Rohonc, now Rechnitz in
 Austria, which is where its name comes from. From that day until 2018 nobody
 could read it. It dates itself: on one of its last leaves it counts one
 thousand five hundred and sixty years from the Ascension, which is 1593.
 
-In 2018 **Levente Zoltan Kiraly** and **Gabor Tokai** published, in
+In 2018 **Levente Zoltán Király** and **Gábor Tokai** published, in
 *Cryptologia*, the dictionary and grammar that opened it: 841 signs read. The
 script runs right to left, several hundred signs, mostly logographic, and the
 language is not Hungarian but something the scribe built for the purpose. The
@@ -332,9 +339,7 @@ of the Apostles, and at the very end a few pages of one man's diary. The frame
 is a revelation: an angel of God speaks, and the prophet Elijah is the one
 addressed.
 
-**Most of what you can read here rests on their work.** Their dictionary is
-not reproduced in this book; it is theirs, and it is used here word by word
-the way a dictionary is used. Their own translation of the codex is
+**Most of what you can read here rests on their work.** """ + WORDING + """ Their own translation of the codex is
 unpublished, and this is not it. Nothing here should be attributed to them
 beyond the foundation it was built on. What has not existed before is the
 whole manuscript, end to end, in a modern language, with every word marked
@@ -342,13 +347,13 @@ for how well it is known, and that is what this edition attempts.
 
 **It was made with AI, under an editor.** Four signs in ten had no meaning in
 the dictionary. Anthropic's Claude proposed readings for the remaining signs,
-using Kiraly and Tokai's dictionary as a foundation; the editor decided what
+using Király and Tokai's dictionary as a foundation; the editor decided what
 stood. Different
 models assembled the gloss and composed the translation. Every
 figure in this book comes from a program that can be rerun, and where any of
 this went wrong it is written down with the number it went wrong by.
 
-**One test, in particular, uses a source outside the project -- and offers substantial validation.** Everything in this book is read from Kiraly and
+**One test, in particular, uses a source outside the project -- and offers substantial validation.** Everything in this book is read from Király and
 Tokai's transcription, so no test of this project's could catch an error in it.
 An anonymous transcription of the codex published in 2014 -- a different
 person, a different glyph alphabet, no word division, four years earlier --
@@ -371,7 +376,7 @@ the sources, and a page of what the sources turned up. What is added after
 this printing goes there first.
 
 **The book is in two parts.** Book Two is the gloss: the manuscript folio by
-folio and line by line, each sign rendered by Kiraly and Tokai's dictionary
+folio and line by line, each sign rendered by Király and Tokai's dictionary
 or by a reading of this project, every word marked for how well it is known.
 That is the evidence. Book One is the translation: a reading of the gloss
 into continuous English, made against the books the codex is compiled from --
@@ -385,7 +390,7 @@ links to them in Book Two. Where the two disagree, Book Two is right.
 Every word on every page carries one of these marks, so that what is known can
 be told apart from what is not.
 
-**word** — read. Kiraly and Tokai's own dictionary, or a reading of this
+**word** — read. Király and Tokai's own dictionary, or a reading of this
 project that survives every occurrence of the sign in the book.
 
 **word\\*** — one passage. Read from a single passage, with nothing in the
@@ -399,11 +404,18 @@ words on either side of the hole. Counted as read nowhere.
 
 **[…]** — dark: no reading and no honest guess.
 
-A hyphen inside a word (*hide_oneself-angel*) is one sign of the manuscript
+A hyphen inside a word (*hide-angel*) is one sign of the manuscript
 read as the smaller signs it is built from. This script writes phrases without
-spaces, which is the central fact Kiraly and Tokai established about it. A `~`
+spaces, which is the central fact Király and Tokai established about it. A `~`
 marks a spelling their own apparatus files as a variant. A vertical bar is a
 gap or an unreadable glyph in the transcription.
+
+""" + WORDING + """ A sign that is
+grammatical rather than a word is printed as a short label: *DIV* the suffix of
+a divine name, *SUBJ*, *OBJ* and *DAT* the markers of subject, object and
+dative, *AUX*, *CAUS* and *FUT* auxiliaries, *PTCL* a particle, *DISTR*,
+*PLACE* and *END* signs inside a numeral, *DATE* and *DAY* calendar names, and
+*NAME* a proper name known only by what it names (*NAME.prophet*).
 
 ## What this book is worth, in numbers
 
@@ -453,9 +465,9 @@ times chance and 2.1 — down with the machine-made controls. One test, two
 unread manuscripts, opposite answers.
 
 **A second person transcribed the book, and the two agree.** Everything above
-reads Kiraly and Tokai's transcription; if that were wrong, none of it would
+reads Király and Tokai's transcription; if that were wrong, none of it would
 notice. But an anonymous author published an open transcription in 2014, glyph
-by glyph, in an alphabet of their own, years before Kiraly and Tokai published:
+by glyph, in an alphabet of their own, years before Király and Tokai published:
 different person, different alphabet, different page numbering, same book.
 Where the two can be compared glyph for glyph -- a quarter of the manuscript's
 lines; elsewhere they split lines differently -- one alphabet maps onto the
@@ -485,7 +497,7 @@ form of the same idea scored 77.5% against 47.4%, 9.8 standard deviations.
 Eleven earlier attempts had failed because they kept asking what a sign meant
 instead of what it was made of.
 
-**The third thing that worked was reading the dictionary properly.** Kiraly
+**The third thing that worked was reading the dictionary properly.** Király
 and Tokai cite a folio and a line in their entries, and for variant spellings
 as well. Nobody had followed those citations back into the manuscript. Where a
 line had exactly one hole and their entry named a word not already standing in
@@ -504,7 +516,7 @@ truer.
 The strongest form of that check is the manuscript arguing with the editor.
 Five signs had been read as *child*, from a page about Saint Augustine and a
 boy on a beach. A mechanical sweep for signs one glyph away from a sign the
-dictionary already reads found that all five are Kiraly and Tokai's own sign
+dictionary already reads found that all five are Király and Tokai's own sign
 for *a little while; little* — and that their spelling of it stands two lines
 above this edition's on the same page. All five were wrong and all five were
 changed. A
@@ -536,7 +548,7 @@ no amount of care in choosing from it would help.
 in four.** So the guesses that can be right are right often enough to be worth
 printing, which is why they are here rather than left as holes.
 
-**Against Kiraly and Tokai's own hidden entries, the top candidate scored
+**Against Király and Tokai's own hidden entries, the top candidate scored
 0.0%.** That is the mechanical generator scoring nothing at all on the hardest
 population there is -- see the appendix for what was masked and why it is the
 hardest. It is the reason a bracket is never counted as a reading anywhere in
@@ -659,7 +671,7 @@ failed by.
 
 **The method, in one paragraph.** Guess a sign from one passage where the
 story is known, then look at every other place in the manuscript it occurs and
-keep the guess only if it survives all of them. That is Kiraly and Tokai's own
+keep the guess only if it survives all of them. That is Király and Tokai's own
 method, and it is the only thing here that produces a reading rather than an
 opinion. A sign that occurs once gets a guess and no test; a sign that occurs
 often gets a guess and a real test. The rule written over the whole of it is:
@@ -685,12 +697,12 @@ of the words. A quarter of the lines can be compared; the rest are where the
 two split lines or read damage differently, and they are counted rather than
 guessed at.
 
-**A held-out test, and a contaminated one.** A seeded random tenth of Kiraly
+**A held-out test, and a contaminated one.** A seeded random tenth of Király
 and Tokai's own dictionary entries were hidden from the tools, exactly as a
 genuinely unread sign is hidden, and the pipeline was run blind on them. One
 thing must be said about that sample before its number is quoted, and it was
 said in the script before the test ran: **masked entries are not a fair
-sample of the signs still dark.** Kiraly and Tokai glossed the words they
+sample of the signs still dark.** Király and Tokai glossed the words they
 could, which are disproportionately the ones with relatives elsewhere in their
 own dictionary; the signs still unread occur once and have no such relatives.
 So the headline figure was declared in advance to be the one restricted to
@@ -725,7 +737,7 @@ Legend, the Roman Missal and the mystery plays can take a folio, read the
 passage it cites, and say whether the rendering is that passage or not. Where
 it is not, the reading is wrong.
 
-**Kiraly and Tokai's unpublished material.** Their grammar paper is not
+**Király and Tokai's unpublished material.** Their grammar paper is not
 published and their translation has never appeared. Either would settle a
 large number of the choices made here, and would very likely overturn some of
 them.
@@ -814,11 +826,11 @@ gives 5,199 years from the creation to the Nativity, the figure of the Roman
 Martyrology's Christmas proclamation in its wording before 2004, spelled out
 sign by sign. At 223v:1-2
 it gives 1,560 years run since the departure to the Father, named on the
-same leaf; 33 and 1,560 make 1593, the year Kiraly and Tokai reached by their
+same leaf; 33 and 1,560 make 1593, the year Király and Tokai reached by their
 own route. At 223v:13 someone asks the master when judgment day will come,
 and the answer is on the next leaf, 222r:2-4: "in turn, [?], out, [after] two
 thousand, this is ... one day, and ... judgment year, because the new Son of
-God judges." "Two thousand" is a numeral by Kiraly and Tokai's own rule, and
+God judges." "Two thousand" is a numeral by Király and Tokai's own rule, and
 the same word is read at 215r:4. "Out" is the word 223v uses for the years
 run since the Ascension. "After" is this edition's word, tier G, and the sign
 before "out" is unread. What the two thousand are counted from is not on the
@@ -841,20 +853,24 @@ the folios themselves can be read sign by sign."""},
          "text": note_references()},
         {"type": "appendix", "pos": 7, "title": "Acknowledgment",
          "text": """The dictionary and the grammar of the Rohonc Codex are the
-work of **Levente Zoltan Kiraly** and **Gabor Tokai**, published as "Cracking
+work of **Levente Zoltán Király** and **Gábor Tokai**, published as "Cracking
 the code of the Rohonc Codex", *Cryptologia* 42:4 (2018), 285-315, with
-Kiraly's later paper on the book's theological character (2023). The
+Király's later paper on the book's theological character (2023). The
 observation that the manuscript's repeated sequences break at the line, on
-which the whole reading rests, is **Otto Gyurk's**: "Megfejtheto-e a
-Rohonci-kodex?", *Elet es Tudomany* 25 (1970), 1923-1928. **Benedek
-Lang's** *The Rohonc Code: Tracing a Historical Riddle* (Penn State Press,
+which the whole reading rests, is **Ottó Gyurk's**: "Megfejthető-e a
+Rohonci-kódex?", *Élet és Tudomány* 25 (1970), 1923-1928. **Benedek
+Láng's** *The Rohonc Code: Tracing a Historical Riddle* (Penn State Press,
 2021) is the history of the problem.
 
-The transcription used here is the anonymous open transcription of 2014. The
-page images are the Hungarian Academy of Sciences' own scan, used under its
-terms for academic and educational purposes and not redistributed.
+The transcription read throughout is Király and Tokai's own, published with
+their dictionary at rechnitzer-kodex.hu. The anonymous open transcription of
+2014 is used for one test only, as an independent check on theirs. The
+manuscript is in the Library of the Hungarian Academy of Sciences. The plates
+in this book are redrawn from the manuscript's own drawings; they are not
+reproductions of it.
 
-None of these people are responsible for anything in this edition."""},
+""" + ENDORSE + """ None of these people are responsible for anything in this
+edition."""},
     ]
 
 
@@ -1071,16 +1087,18 @@ def build():
             "notes_placement": "back", "notes_numbering": "book",
             "description": ("The Rohonc Codex rendered into English, all 441 written "
                             "folios, on the dictionary and grammar Levente "
-                            "Zoltan Kiraly and Gabor Tokai published in 2018. "
+                            "Zoltán Király and Gábor Tokai published in 2018. "
                             "Every word carries a mark saying how well it is "
                             "known: " + figures()["read"][1] + "% read, "
                             + figures()["rest"][1] + "% restored in brackets."),
             "rights": ("The manuscript is of the sixteenth century and is not "
                        "in copyright. The dictionary and grammar on which this "
-                       "rendering depends are the work of Levente Zoltan "
-                       "Kiraly and Gabor Tokai and are theirs; their own "
+                       "rendering depends are the work of Levente Zoltán "
+                       "Király and Gábor Tokai and are theirs; the meanings "
+                       "of the signs are used here as facts, and the English "
+                       "wording of the gloss is this edition's own. Their own "
                        "translation of the codex is unpublished and this is "
-                       "not it. The editorial matter and the English are this "
+                       "not it. " + ENDORSE + " The editorial matter and the English are this "
                        "edition's own, under Creative Commons "
                        "Attribution-NonCommercial-NoDerivatives 4.0. They "
                        "may be read, quoted, taught from and republished "

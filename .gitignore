@@ -44,3 +44,8 @@ work/rohonc/translation/reading.md.raw-*
 # rule to name Anthropic's Claude and no other, and the last place still saying
 # the work was private. Kept on disk; it is not a deliverable.
 notes/VOYNICH_PLAN.md
+
+# Király and Tokai's whole dictionary entries joined to every folio, in their
+# own words. A local working file made by harness/ktsenses.py --all from data/;
+# it is their dictionary and is not part of this repository.
+work/rohonc/senses.json

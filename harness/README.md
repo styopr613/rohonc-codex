@@ -37,7 +37,7 @@ python3 harness/gate.py             # the Voynich harness gates
 python3 harness/check_results.py    # every figure in RESULTS.md prose
 python3 harness/check_rohonc.py     # every figure in ROHONC.md prose
 python3 harness/check_tests.py      # every figure TESTS.md prints for a test
-python3 harness/ktretellcheck.py    # every word Book One quotes, against the gloss
+python3 harness/ktretellcheck.py    # Book One's folio ranges and numbers, against the gloss
 python3 harness/ktnotecheck.py      # the endnotes
 python3 harness/ktatlascheck.py     # the atlas plates and their sources
 ```
@@ -88,7 +88,8 @@ the argument:
 | `ktdict.py`, `ktvalidate.py`, `ktlocalise.py` | Király–Tokai's dictionary: coverage, gospel-specificity, page localisation |
 | `ktextend.py`, `ktalign.py` | three attempts to extend the dictionary; all fail their held-out gates |
 | `roho_ocr.py`, `ocr_tokens.py`, `ocr_crossline.py` | a third transcription from the scans; fails for resolution |
-| `kttranslate.py` | renders a folio from the dictionary, marking every word by how far it reads |
+| `kttranslate.py` | renders a folio from the dictionary, marking every word by how far it reads. The published gloss puts each sense in this edition's own English from `ourwords.json`; the tests keep the dictionary's own strings |
+| `ktrights.py` | the wording note and the not-endorsed line, one copy printed by both the book and the site |
 | `ktsite.py` | builds the public page, oona13.com/rohonc/, from the documents at the repository root. The data and the programs are not served from it — they go to GitHub — except `dictionary.json`, which the dictionary page's search loads. Nothing of Király and Tokai's is copied there |
 | `ktbook.py` | the printed and EPUB edition |
 | `ktcommit.sh`, `ktpush.sh` | the only sanctioned way to commit: they run `gates.txt` first |

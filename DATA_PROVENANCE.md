@@ -21,16 +21,16 @@ open transcription of the Rohonc Codex", which is as clear a statement of
 intent as exists. No formal licence. The author is anonymous and the site is
 gone, so permission cannot be asked. Credited as fully as it can be.
 
-## 2. `kt/` — Kiraly & Tokai's transcription
+## 2. `kt/` — Király & Tokai's transcription
 
 Fetched from the public API of `rechnitzer-kodex.hu`, 447 pages.
 
 Word-level, private-use-area encoding, with editorial markup and the authors'
-own reading order for the pages. Underlies Kiraly & Tokai, *Cracking the code
+own reading order for the pages. Underlies Király & Tokai, *Cracking the code
 of the Rohonc Codex*, Cryptologia 42:4 (2018), 285-315.
 
 **Terms:** no licence is stated on the site. `robots.txt` is `User-agent: *` /
-`Disallow:` with nothing after it, which permits crawling. Kiraly's 2022 paper
+`Disallow:` with nothing after it, which permits crawling. Király's 2022 paper
 (*A Rohonci kodex teologiai karaktere*, in Hagyomany, Identitas, Tortenelem
 2022, publ. 2023, footnote 13) explains that the site exists because the
 dictionary is too typographically awkward to print, and that the digitised text
@@ -62,7 +62,7 @@ the reader to install this font themselves, which nobody will do, so
 as an SVG path. The pages draw the signs from those paths.
 
 **Terms, stated plainly.** The shapes are the sixteenth-century scribe's and are
-out of copyright. The font that carries them is Kiraly and Tokai's own drawing of
+out of copyright. The font that carries them is Király and Tokai's own drawing of
 those shapes. The paths on the site come from it. The font FILE is never served,
 the outlines are credited to them on the page that shows them, and if they ask
 for them to come down they come down. This is a judgement, not a permission: they
@@ -78,7 +78,7 @@ lens are keyed to transparency, and the hole it leaves is MEASURED -- centre and
 radius written to `glass.json` -- so the page's clip circle is computed from the
 picture rather than typed to match it.
 
-**Terms.** Nothing of Kiraly and Tokai's and nothing of the manuscript's is in
+**Terms.** Nothing of Király and Tokai's and nothing of the manuscript's is in
 it. It is a brass magnifying glass and it is decoration: it magnifies a sign the
 reader has already been shown. DeepInfra's terms assign the output to the
 account that generated it. It is served from the site and it is ours to serve.
@@ -341,7 +341,27 @@ so one edition per work is included.
 The corpus did not rescue the method: 13% in the top five against the same 30%
 bar, versus 15% on the gospels alone.
 
-## 7. Kiraly & Tokai's Hungarian dictionary
+## 7. Király & Tokai's dictionary: a required local input, never an output
+
+`data/rohonc/kt/dict_en.json` is their English dictionary, fetched from
+`rechnitzer-kodex.hu`, where they put it online alongside their 2018 paper
+because it is too awkward to print. Nothing in this project runs without it:
+the gloss, the tests and the readings all start from it. It lives in `data/`,
+which is never committed, and anyone reproducing the work fetches it from their
+site.
+
+The book and the site never print it. They print which sign means which
+word, taken as fact and credited to them, in this edition's own English
+(`harness/ourwords.json`, applied by `kttranslate.ours`). Their entries, in
+their own words, are in their publication. The saved test runs and working
+files in `work/rohonc/` do show their senses where a test or a reading turns
+on one, the way a check has to show what it checked; they never carry whole
+entries.
+
+`work/rohonc/senses.json`, which joins their whole entry to every folio, is a
+local working file, listed in `.gitignore`, made by `harness/ktsenses.py --all`.
+
+### 7b. Their Hungarian dictionary
 
 `data/rohonc/kt/dict_hu.json`, fetched 2026-09-20 from
 `http://rechnitzer-kodex.hu/api/GetDictionary/hu`, one request, same user
@@ -375,7 +395,7 @@ carries a `source` line in `atlas.json`; `ktatlascheck.py` refuses an entry
 without one, and the Atlas page prints the whole list under the plates. The
 pages read on 2026-09-23, nothing copied, were the English and Hungarian
 Wikipedia articles on the codex (the Venetian paper of the 1530s, the 1743
-catalogue entry, the 1838 gift, the attempts from Toldy to Kiraly and Tokai,
+catalogue entry, the 1838 gift, the attempts from Toldy to Király and Tokai,
 Nemati's count of 792 signs), on Rohonc / Rechnitz (the Croat settlement of
 1532, the 1839 date the Hungarian article gives for the gift, the town's
 passage to Austria in 1921), on Manlius Janos (the presses at Varasd,
@@ -385,7 +405,7 @@ Protestantism in Hungary (the 85-90% figure). Where the accounts disagree,
 the plate says so: 1838 against 1839 for the gift. Where a claim is at second
 hand, the plate says that too: the watermark study has not been seen here.
 
-**The signs on the tongues plate** are five entries from Kiraly and Tokai's
+**The signs on the tongues plate** are five entries from Király and Tokai's
 dictionary, drawn from the outlines `ktsigns.py` took from their font
 (section 2b); the plate credits them and the glosses are theirs.
 

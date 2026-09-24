@@ -15,12 +15,12 @@ What goes up, and the rule for each:
   the dictionary     harness/proposals.json -- this project's readings, every
                      tier, withdrawn ones included, with the evidence line.
   the reading        the English written for each folio from its gloss
-                     (work/rohonc/translation/english.json), in Kiraly and
+                     (work/rohonc/translation/english.json), in Király and
                      Tokai's page order, taken from the reader's edition.
   the saved runs     every work/rohonc/*.txt, and the outside readers' replies.
   the figures        parsed from the edition header and TESTS.md, never typed.
 
-What does NOT go up, by the position settled in DATA_PROVENANCE.md: Kiraly and
+What does NOT go up, by the position settled in DATA_PROVENANCE.md: Király and
 Tokai's dictionary, their transcription, their pages, and the scans. They are
 credited by name and linked, not rehosted. Their translation is unpublished
 and nothing here is it.
@@ -36,6 +36,8 @@ import tempfile
 import sys
 
 import markdown
+
+from ktrights import WORDING, ENDORSE
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # The prose of the site is written by an outside model from a fact sheet
@@ -115,7 +117,7 @@ NAV = [("index", "Overview"), ("read", "Read it"), ("script", "The script"), ("a
        ("sources", "Sources"), ("data", "Data")]
 
 # THE FOOT OF EVERY PAGE IS LINKS, NOT A CREDIT. It carried a sentence crediting
-# Kiraly and Tokai; the owner cut it on 2026-09-23 -- every page already credits
+# Király and Tokai; the owner cut it on 2026-09-23 -- every page already credits
 # them where it matters -- and asked for the useful things instead: the licence,
 # how to cite, the sources, the data, the repository, a way to write in.
 FOOT = [("Licence", "https://github.com/styopr613/rohonc-codex/blob/master/LICENSE"),
@@ -417,6 +419,26 @@ def md(text):
     return out.replace("<table>", '<div class="tw"><table>').replace("</table>", "</table></div>")
 
 
+# The English summaries were written by a model from the gloss as it then stood,
+# and 25 times it copied one of Király and Tokai's grammatical labels straight
+# into a sentence. Those are said in English here, as ktenglish.SIGNWORD already
+# reads them; a subject marker has no English word and goes. Any other label
+# stops the build. (2026-09-24)
+EN_LABEL = {"suffix_of_divine_name": "God", "preposition_of_genitive": "of",
+            "subject_marker": "", "name_of_a_prophet": "the prophet"}
+
+
+def own_english(t):
+    t = re.sub(r"-?<(%s)>" % "|".join(EN_LABEL),
+               lambda m: ("-" if m.group(0).startswith("-") and EN_LABEL[m.group(1)] else "")
+               + EN_LABEL[m.group(1)], t)
+    t = re.sub(r"  +", " ", t).replace(" ,", ",").replace(" .", ".")
+    left = re.findall(r"<[a-z_ ]{3,}>", t)
+    if left:
+        raise SystemExit(f"ktsite: English summary carries a label: {left}")
+    return t
+
+
 def read(p):
     return open(p, encoding="utf-8").read()
 
@@ -582,7 +604,7 @@ def plates():
 
 
 def folio_order():
-    """Kiraly and Tokai's page order and this edition's folio titles, from the
+    """Király and Tokai's page order and this edition's folio titles, from the
     reader's edition headings."""
     out = []
     for m in re.finditer(r"^## (\d{3}[rv]) — (.*)$", read(os.path.join(TR, "rohonc_readers_edition.md")), re.M):
@@ -999,6 +1021,8 @@ lines complete with brackets   {fig['lall'][0]:>7} of {fig['lall'][1]}   {fig['l
 
 <h2>Credit and position</h2>
 {paras("credit")}
+<p>{html.escape(WORDING)}</p>
+<p>{html.escape(ENDORSE)}</p>
 <p>Their site: <a href="https://rechnitzer-kodex.hu/" rel="noopener">rechnitzer-kodex.hu</a>. Citations owed and the terms of every source are under <a href="/rohonc/sources.html">Sources</a>.</p>
 {STRIP_JS}
 """
@@ -1042,6 +1066,7 @@ def page_dictionary(about, rows, ktn):
     body = f"""
 <h1>The dictionary of added readings</h1>
 {paras("dictionary_lead", "lead")}
+<p class="lead">{html.escape(WORDING)}</p>
 <p>From the file itself: {html.escape(about)}</p>
 <div class="tiers"><b>A</b> fits every occurrence checked, or is proved by an identical formula or a numeral &nbsp;·&nbsp; <b>B</b> fits most &nbsp;·&nbsp; <b>C</b> and <b>D</b> read from one passage, nothing in the book able to refuse them &nbsp;·&nbsp; <b>G</b> a guess, printed in brackets and never counted &nbsp;·&nbsp; <b>withdrawn</b> a reading that was made and then refused, kept with the reason</div>
 <div class="fig">{counts}</div>
@@ -1147,7 +1172,7 @@ six·six &nbsp;=&nbsp; 6 + 6 &nbsp;=&nbsp; <b>twelve</b> &nbsp;&nbsp;the twelve 
 {paras("script_marks")}
 <div class="demo"><h3>folio 004v, lines {sample[0][0]} and {sample[-1][0]}, as this edition prints them</h3>
 <div class="gloss">{gloss}</div>
-<p class="nof" style="margin:12px 0 0">Underlined words carry a mark. <b>ten-ten-ten-ten</b> is the numeral above, read as the four signs it is built from. <b>hide_oneself-angel</b> is the fallen angel, one sign read as the smaller signs inside it. A <b>~</b> is a spelling their own apparatus files as a variant, and <b>*</b> is a word read from one passage only.</p>
+<p class="nof" style="margin:12px 0 0">Underlined words carry a mark. <b>ten-ten-ten-ten</b> is the numeral above, read as the four signs it is built from. <b>hide-angel</b> is the fallen angel, one sign read as the smaller signs inside it. A <b>~</b> is a spelling their own apparatus files as a variant, and <b>*</b> is a word read from one passage only.</p>
 </div>
 
 <h2>The drawings</h2>
@@ -1841,6 +1866,9 @@ def _build(out, final):
         tiers[r["tier"]] = tiers.get(r["tier"], 0) + 1
     order = folio_order()
     eng = json.load(open(os.path.join(TR, "english.json"), encoding="utf-8"))
+    for v in eng.values():
+        if isinstance(v, dict) and isinstance(v.get("english"), str):
+            v["english"] = own_english(v["english"])
     sample = sample_lines()
     pl = plates()
 

@@ -21,13 +21,13 @@ they are all read from.
 
 **This one comes first because it is not a test of the readings. It is a test
 of the page they are read from.** Every other test in this document reads
-Kiraly and Tokai's transcription. If that transcription were wrong, nothing
+Király and Tokai's transcription. If that transcription were wrong, nothing
 below would notice: they would all be wrong together and agree with each other
 about it.
 
 There is one outside witness. An anonymous author published an open
 transcription of the codex in 2014, glyph by glyph, in an alphabet of their
-own, with no word division, four years before Kiraly and Tokai published.
+own, with no word division, four years before Király and Tokai published.
 Different person, different alphabet, different page numbering, same book. No
 dictionary and no reading are involved: if both are honestly recording the
 same physical marks, some bijection carries one alphabet onto the other, and
@@ -39,7 +39,7 @@ or R. Matching row-length profiles alone — no glyphs, no readings — puts the
 left page of spread k at folio k recto and the right page at folio k-1 verso.
 That is the order a right-to-left book falls open in, neither transcription
 states it, and it drops out of nothing but arithmetic on how many marks are in
-each row. Kiraly and Tokai's finding that the script runs right to left is
+each row. Király and Tokai's finding that the script runs right to left is
 corroborated here by two transcriptions that never mention it.
 
     the open transcription covers       417 of 441 sides
@@ -68,7 +68,7 @@ the two split a line differently, or where one reads damage the other does not,
 and a row that fails is counted in the denominator and never guessed at.
 
 **What the 83.8% is a fraction of.** 7,356 words: every word lying wholly
-inside a comparable row, cut at Kiraly and Tokai's own word boundaries, since
+inside a comparable row, cut at Király and Tokai's own word boundaries, since
 the open transcription has none. A word counts as identical only if every one
 of its glyphs maps through.
 
@@ -645,7 +645,7 @@ says so where it quotes them.
     Test 15 | passage identification, outside reader | chapter level 9 of 20 against 0 of 20 shuffled; p 0.002 | PASS
 
     PASS and FAIL are verdicts on the readings against a bar declared before the run.
-    NO VERDICT means the instrument failed its own check on Kiraly and Tokai's words,
+    NO VERDICT means the instrument failed its own check on Király and Tokai's words,
     or has no power to tell a search from a decipherment; it says nothing about the
     readings either way, and it is kept on the page because it was specified.
     IN BAND is a test with declared bands rather than a bar: the result fell in the

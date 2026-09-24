@@ -379,7 +379,7 @@ and *father*; the code for *give/take* beside *carry/come* and *exist*. It is
 real and far too weak to name anything.
 
 **Reading the passage, which is what the other five were not.** All five
-mechanical methods aligned or counted. Kiraly and Tokai do neither: they read a
+mechanical methods aligned or counted. Király and Tokai do neither: they read a
 passage, guess a code's meaning from what surrounds it, and check the guess
 against every other place it occurs. `ktread.py` renders that evidence — every
 line containing a target code, with all other codes glossed, so the target
@@ -403,7 +403,7 @@ successes must be scored on solved cases before it is pointed at unsolved ones,
 which is why every attempt in this document was gated that way.
 
 **The rejection loop, which is what the other seven were missing.** Reading
-gave one to two of six. Kiraly and Tokai's first-pass rate is probably no
+gave one to two of six. Király and Tokai's first-pass rate is probably no
 better. The difference is that a guess there is carried to every occurrence of
 the code and discarded if it fails at any one, and no attempt here had built
 that step. `ktreject.py` built it as a distributional score and failed at 5% --
@@ -461,7 +461,7 @@ parable of the ten virgins and does not depend on any code being solved.
 
 **A tenth attempt, and the one thing that has not broken.** `ktclass.py`
 drops the attempt to name a code and asks only what *kind* of word it is,
-fingerprinting it against classes built from Kiraly & Tokai's own glosses.
+fingerprinting it against classes built from Király & Tokai's own glosses.
 Gated first: held-out defined codes are classified at 57.8% against a 46.9%
 majority baseline — a pass by less than a point, and *below* base rate on
 grammatical words at 38%. Weak, and reported as weak.
@@ -522,7 +522,7 @@ promised in 2018 and one has appeared, and the 2022 paper describes the grammar
 paper as held up. The dictionary is demonstrably real. A written grammar is a
 separate claim and nothing here bears on it.
 
-What separates the sixth attempt from what Kiraly and Tokai do is not the
+What separates the sixth attempt from what Király and Tokai do is not the
 guessing — that part is shared, and unreliable for both. It is that a guess
 there is carried to all seventy-five occurrences of the code and discarded if
 it fails at any one of them, then made again the next day, with the
@@ -673,7 +673,9 @@ glosses, at 12.4 and 9.8 sigma against matched controls, and then applied
 across the whole book to produce 1,282 readings their published dictionary
 does not contain. The check that matters ran in the other direction too: the
 composition rule, applied blind to folio 137v, reproduces their published line
-— sin, without, Jesus, conceive, you-Mary — in order.
+— sin, without, Jesus, conceive, you-Mary — in order. Which sign means which word is
+theirs, and is used here as fact; the English the gloss prints for each sense
+is this edition's own wording, not theirs.
 
 Code: `ktname.py`, `ktsegment.py`. Saved runs: `work/rohonc/ktname.txt`,
 `work/rohonc/ktsegment.txt`.
@@ -927,7 +929,7 @@ were passages I had not reached by translating in order:
     007v   the creation of Adam and Eve
 
 Two of those carry their own confirmation, independent of anything I read.
-Kiraly and Tokai's dictionary contains a code they gloss "adjective of the
+Király and Tokai's dictionary contains a code they gloss "adjective of the
 unmerciful servant", and it stands in 135r exactly where the fellow-servant
 stands; their dictionary also has *denarius*, the coin of that parable. And
 119r writes *ninety and nine* the way Luke writes it, ninety followed by nine,
@@ -936,7 +938,7 @@ rule, from a page found by machine rather than chosen by me.
 
 **One code read the old way.** In 119r an undefined code stands in the three
 places the lost sheep belongs. It occurs four times in the whole book; the
-fourth is beside the word *soul*. "Lost" works in all four. That is Kiraly and
+fourth is beside the word *soul*. "Lost" works in all four. That is Király and
 Tokai's own method, carrying a guess to every occurrence and keeping it only
 if it survives everywhere, and it is one word, not a method.
 
@@ -974,7 +976,7 @@ whole page of that does not read. Their order gives *sun and moon write*,
 Those are the coverage figures of the previous sections, seen from the
 page, with the declared variants, the variants their rules license, and the
 clause terminator applied. They are
-Kiraly and Tokai's dictionary alone; this project's own readings are counted
+Király and Tokai's dictionary alone; this project's own readings are counted
 separately below. The only difference is that 52 composed words whose every part has one
 sense are counted with composition here and with the single-sense words in
 `ktcoverage.py`, which is where the 11.3% and 11.5% part company.
@@ -990,7 +992,7 @@ following *this* and the genitive down the right margin.
 
 Output: `work/rohonc/translation/rohonc_reading.txt` (first sense only) and
 `rohonc_reading_full.txt` (every sense, a local working file). Code:
-`kttranslate.py`. Both are built from Kiraly and Tokai's dictionary over their
+`kttranslate.py`. Both are built from Király and Tokai's dictionary over their
 transcription, and neither is their translation, which they have not published.
 
 ## What kind of book it is, and the citations that can be checked
@@ -1069,7 +1071,7 @@ compiler who invents a script does not have to get the chapter numbers right,
 and this one mostly does.**
 
 That test also corrected a reading of mine. The sign in those citations had
-been read here as *the last*; Kiraly and Tokai gloss its first half as *six*,
+been read here as *the last*; Király and Tokai gloss its first half as *six*,
 so it is **seven**, and reading it that way is what makes 065r say Matthew
 chapter seven over a page of Matthew 7. The same sign then gives the seventy
 disciples of Luke 10:1 at 029v:8, and the seven evil spirits of Luke 11:26 at
@@ -1157,7 +1159,7 @@ standard one and the codex states it outright at 062v:2-3: **as Abraham gave
 his son, so God the Father gave his, and Jesus was crucified and rose**.
 Abraham stands for the Father and Isaac for Christ. A first reading here made
 Abraham the figure of Christ, which is wrong, and it was wrong because line
-061v:4 writes the name sign twice and the second is Kiraly and Tokai's
+061v:4 writes the name sign twice and the second is Király and Tokai's
 pronoun, not a repetition. The faggots Isaac carries, the ram, the young men
 left with the ass and the angel that stops the hand are all present. The
 folio then returns to the long way, the constraining, the table and the
@@ -1191,7 +1193,7 @@ it by ten. Four independent checks against a number the source supplies:
 nights and at the forty days of rain; `six-two` is eight, at the circumcision
 on the eighth day; `six-six` is twelve, at the twelve apostles.
 
-**A grammar rule came out of it.** The code Kiraly and Tokai gloss
+**A grammar rule came out of it.** The code Király and Tokai gloss
 "introducing the next item in a list" makes an ordinal when it stands in front
 of a numeral. The book uses it to number the signs of Christ from first to
 eleventh and the witnesses who confessed him. That rule was read out of the
@@ -1214,7 +1216,7 @@ alongside the gospels, which is what a late-medieval devotional compilation
 does and what the reference corpus was rebuilt from.
 
 **The method that finally reads new words.** Seventeen gated attempts
-produced none. What produces them is Kiraly and Tokai's own loop, written up
+produced none. What produces them is Király and Tokai's own loop, written up
 in `METHOD.md` and tooled as `harness/ktcontext.py`: guess a sign from a
 passage whose story is known, then carry the guess to every other occurrence
 in the book and keep it only if it survives all of them. 1766 signs are read
@@ -1225,13 +1227,13 @@ numerals one, three and five, the ordinal third, the cross (and with it the
 composition of the sign for crucified), bread, law, the subject marker, "on
 the third day", Nazareth, "be saved", "believe", "appear", and "blessed" from
 blessed is the womb that bare thee. Rendered into the book with a plus sign so
-they can never be mistaken for Kiraly and Tokai's, they take the share of
+they can never be mistaken for Király and Tokai's, they take the share of
 lines where every word is read from 23.8% to **81.5%**.
 
 **The book writes the creation twice, line for line.** Folios 121v-123r are
 the same text as 002v-003v, sentence for sentence in the same order: the
 Trinity formula, the forming of Adam, the breath, the commandment and the
-yoke, the sleep, the rib, bone of my bones, the serpent. Kiraly and Tokai
+yoke, the sleep, the rib, bone of my bones, the serpent. Király and Tokai
 saw it before this project did, because their dictionary cites the two
 copies together in one entry after another: rib at 003r11 and 122v08, laugh
 at 003r12 and 123r01, bone at 003v01 and 123r01, "(do) not" at 003r05 and
@@ -1243,7 +1245,7 @@ gives Paradise its reading: at 002v:12-13 Adam goes inside their Garden of
 Eden sign, and the same sentence at 122r:6 writes a different sign in that
 slot.
 
-**Their apparatus reads more than their headwords.** Every entry in Kiraly
+**Their apparatus reads more than their headwords.** Every entry in Király
 and Tokai's dictionary cites folio and line for its examples and for each
 variant spelling, and those citations land on words this project had been
 treating as unread. `harness/ktlook.py --cite 100r10` prints every entry that
@@ -1273,7 +1275,7 @@ Twenty stroke numerals that the renderer had been cutting at the wrong stroke
 
 **A second reading was wrong across five folios and is corrected in place.**
 A sign read here as *the Baptist* since 2026-09-19, and a second sign read as
-*baptism*, are Kiraly and Tokai's word for *woman*. Both words are built by
+*baptism*, are Király and Tokai's word for *woman*. Both words are built by
 doubling the same element, which they gloss *woman* on its own, so the Baptist
 and the woman are spelled alike; their own Baptist entry writes "but cp." at
 the place the two collide, and their woman entry cites 141v:6, 10, 11, 142r:1,
@@ -1293,7 +1295,7 @@ their *exist* plus their numeral *nine* at 140r:3 and 140v:1, the two lines
 they cite for it.
 
 **And the swap itself turned out not to be evidence.** Readings were being
-made all day by noticing that an unread sign is Kiraly and Tokai's word with
+made all day by noticing that an unread sign is Király and Tokai's word with
 one glyph changed -- Rome, grape, exorcise, mouth, grab, lose, kiss -- and the
 swap felt like a rule. `harness/ktswap.py` set the bar before the run: take
 every pair of signs that are BOTH read and differ in exactly one glyph, and
@@ -1305,7 +1307,7 @@ swap this project leaned on hardest, 520/670, preserves the reading in 17 of
 92 pairs, 18%, and 520/540 in 8 of 28.
 
 The readings it produced stand anyway, because every one of them is a line
-Kiraly and Tokai cite in their own apparatus: their citation was doing the
+Király and Tokai cite in their own apparatus: their citation was doing the
 work and the swap was taking the credit. The two that had no citation behind
 them were downgraded the same day: 5400607a2 *that* from A to B, and
 520ae0701 *bless* from B to C. What the swap is still good for is generating
@@ -1314,14 +1316,14 @@ lie one glyph from a read sign, 438 of them occurring once in the book, and
 that is a shortlist to test against context.
 
 One such shortlist paid immediately. Eleven spellings of the book's Joseph
-share the stem 286a10; Kiraly and Tokai define one of them, and the other ten
+share the stem 286a10; Király and Tokai define one of them, and the other ten
 stand unread in the Joseph passages -- the angel speaking to Joseph, the ass
 and the hay, the flight into Egypt, Gabriel, the death in Egypt. A family of
 spellings around one defined word is a check where a single occurrence is
 not, and that is where the remaining hapaxes are worth attacking.
 
 **And chasing that family found the seam that should have been worked first.**
-Kiraly and Tokai's dictionary is not a list of headwords. Every entry carries
+Király and Tokai's dictionary is not a list of headwords. Every entry carries
 variant spellings, aggregates, negations, suffixed forms and worked examples,
 and each of those is a glyph string they have already read, usually with the
 folio and line attached. `harness/ktsupply.py` asks the question in bulk: take
@@ -1342,7 +1344,7 @@ Pharisee, the host of the Eucharist, "from head to toe", "verily, verily",
 "new tongues", and the sign for the book's own author's name.
 
 The seam is now worked out: six signs of it remain, covering eight words. What
-is left is 989 signs that occur exactly once and that Kiraly and Tokai never
+is left is 989 signs that occur exactly once and that Király and Tokai never
 mention. Those are the real wall, and a reading of one cannot be checked.
 
 **The eighteenth attempt went at that wall and failed.** The book writes 155
@@ -1430,7 +1432,7 @@ Jericho is Adam. That is a person reading a source, which is the method that
 has worked all along.
 
 Most of that last jump cost no guess at all. `ktsegment.py` cuts a compound
-into pieces Kiraly and Tokai define; it was never given their own variant
+into pieces Király and Tokai define; it was never given their own variant
 spellings, this project's read signs or the clause terminator as pieces.
 Cutting with the full readable inventory and repeating until nothing new
 appears took fully-read lines from 36.1% to 47.4% in one step, because every
@@ -1463,7 +1465,7 @@ scripture* three times in the frame *as the scripture saith* (105r:4, 105r:5,
 debtors* at 204r:3 and 205r:5. They mean **as**. Both entries are changed in
 place and say so, and the shared root now reads the same way, which closed
 ten further words. The gloss read as *mercy* is better read as *the tree of
-mercy*: Kiraly and Tokai's own word for tree shares its stem, and it is what
+mercy*: Király and Tokai's own word for tree shares its stem, and it is what
 Seth is sent to Paradise for.
 
 **Where the rendering makes no sense, suspect the reading.** A sign read as
@@ -1479,7 +1481,7 @@ kept in `proposals.json` marked as withdrawn rather than deleted:
                    line, but it produced to-not-chapter-ark in the middle of
                    Abraham and Isaac. One right token against six wrong.
     540 = shall    4 of its own, fed 55 words and 99 tokens. Its evidence was
-                   an inference rather than a reading: Kiraly and Tokai gloss
+                   an inference rather than a reading: Király and Tokai gloss
                    the DOUBLED sign as a future auxiliary and the single sign
                    was assumed to match. It gave shall-slide seven times and,
                    at 063r:4, shall-day-today's for what is plainly the daily
@@ -1557,7 +1559,7 @@ whatever window shares the common words. Restricting to the first sense, the
 one the rendered page uses, halves the query and puts two of six on the right
 passage, but the score still does not separate from its control. Choosing the
 right sense at each occurrence is the missing step. That is the same gap this
-document has named from the beginning, and it needs Kiraly and Tokai's
+document has named from the beginning, and it needs Király and Tokai's
 grammar, which is unpublished.
 
 **What would prove it instead.** Three things are already doing the work that
@@ -1572,7 +1574,7 @@ coincidence nearly hid it.** The proof gate above blamed sense choice, so
 `harness/ktsense.py` was rerun with its bars untouched, 40% top-1 at 5 sigma
 for signal and 75% for usable, and its cases untouched, the 5-way choice on
 codes that carry exactly one sense. The only change is a `--full` flag that
-lets the surrounding context use everything now readable instead of Kiraly
+lets the surrounding context use everything now readable instead of Király
 and Tokai's dictionary alone; `--kt-only` reproduces the first run, and it
 was reproduced to the digit before anything new ran.
 
@@ -1606,7 +1608,7 @@ half times closer to each other than unrelated senses do, so the words around
 them cannot pull them apart. Choosing senses needs their grammar. The
 rendering keeps showing every sense, and the first-sense page stays a draft.
 
-**Would another language be easier? Measured, and mostly no.** Kiraly and
+**Would another language be easier? Measured, and mostly no.** Király and
 Tokai serve their dictionary in Hungarian as well as English, and it was
 fetched to settle a question this document has carried unresolved: whether
 the multiple senses per code are an artefact of English. The reasoning was
@@ -1740,7 +1742,7 @@ is that particular regions of it are unfalsifiable from the inside.
 The null control leaves one thing unmeasured, and it is the thing a reviewer
 cares most about: the JUDGMENT step. The tools propose candidates; a reader
 chooses. Nothing scored the reader. There is exactly one ground truth
-available for that -- Kiraly and Tokai's own dictionary -- so `ktrederive.py`
+available for that -- Király and Tokai's own dictionary -- so `ktrederive.py`
 hides part of it and asks whether the pipeline puts it back. Bars declared
 before the run.
 
@@ -1841,7 +1843,7 @@ repository staff; with it, this would probably be feasible.
 
     cd harness
     python rohonc.py          # the 2014 transcription, corpus statistics
-    python rohonc_kt.py       # Kiraly & Tokai's, corpus statistics
+    python rohonc_kt.py       # Király & Tokai's, corpus statistics
     python roho_orient2.py    # orientation of the 2014 file
     python crossline.py       # the main result, both transcriptions
     python repeats.py         # how much of the book is new

@@ -27,6 +27,7 @@ gloss belongs to Kiraly & Tokai and is credited to them.
 """
 import json
 import os
+import re
 import sys
 from collections import Counter
 
@@ -136,12 +137,60 @@ def senses(glosses):
     return plain + meta
 
 
-def clean(s):
+# THE PRINTED GLOSS IS IN THIS EDITION'S OWN WORDS. Which sign means which word
+# is a fact about the manuscript and is Kiraly and Tokai's finding, credited to
+# them. The English phrasing of an entry is their writing: "<preposition of
+# genitive>", "Anne (mother of the Virgin Mary)", "the whole wide world".
+# 2026-09-24, the owner: the published gloss should not carry that phrasing.
+# ourwords.json gives each of their 345 senses that is more than one plain word
+# a rendering of ours, decided by hand, one by one; where the plain English IS
+# the meaning ("high priest", "stand up") it is kept and says so by mapping to
+# itself. A single plain word ("sheep") is the reading itself and passes through.
+#
+# Only the WRITERS of published files ask for it (own=True): ktreader's edition,
+# which Book Two, the site and the reader are made from, and the three reading
+# files below. Every test and gate renders with own=False and sees their strings
+# exactly as before, so no figure moves. A sense of more than one plain word that
+# is not in the table stops the build: no silent fallback to their wording.
+OURWORDS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ourwords.json")
+_OURS = {}
+
+
+def _table():
+    if not _OURS:
+        _OURS.update(json.load(open(OURWORDS, encoding="utf-8")))
+    return _OURS
+
+
+def ours(s):
+    """This edition's word for one of Kiraly and Tokai's senses."""
+    s = s.strip()
+    if s in _table():
+        return _OURS[s]
+    if not re.fullmatch(r"[A-Za-z\u00c0-\u00ff'\u2019]+", s):
+        raise SystemExit(f"kttranslate: no entry in ourwords.json for {s!r}")
+    return s
+
+
+# Five of this project's own readings borrowed an entry's wording or an angle-
+# bracket label. Printed, they follow the same table and the same labels.
+LABELS = {"<subject marker>": "SUBJ", "<end of line mark>": "EOL"}
+
+
+def own_reading(g, own):
+    """One of this project's readings, as the page prints it."""
+    if own:
+        k = g.replace("_", " ").strip()
+        g = LABELS.get(k) or _table().get(k, g)
+    return g.replace(" ", "_")
+
+
+def clean(s, own=False):
     """Tidy a gloss for the page: no spaces inside a word slot."""
-    return s.strip().replace(" ", "_")
+    return (ours(s) if own else s.strip()).replace(" ", "_")
 
 
-def seg_word(c, gl, var, prop, full):
+def seg_word(c, gl, var, prop, full, own=False):
     """Render one piece of an extended segmentation.
 
     `prop` is used, and the module global is only the fallback. This took
@@ -153,28 +202,28 @@ def seg_word(c, gl, var, prop, full):
     """
     ref = prop or prop_ref
     if c in gl:
-        return word(c, gl, full)
+        return word(c, gl, full, own)
     if c in var:
-        return "~" + word(var[c], gl, full)
+        return "~" + word(var[c], gl, full, own)
     if c in ref:
         g, tier = ref[c]
-        return MARK.get(tier, "?") + g.replace(" ", "_")
+        return MARK.get(tier, "?") + own_reading(g, own)
     return "[?]"
 
 
 prop_ref = {}
 
 
-def word(c, gl, full):
+def word(c, gl, full, own=False):
     senses.code = c
     ss = senses(gl[c])
-    return clean(ss[0]) if not full else "/".join(clean(x) for x in ss)
+    return clean(ss[0], own) if not full else "/".join(clean(x, own) for x in ss)
 
 
-def render_token(t, gl, seg, full, var, prop=None):
+def render_token(t, gl, seg, full, var, prop=None, own=False):
     t, mark = A.strip(t)
     if t in gl:
-        return word(t, gl, full) + mark
+        return word(t, gl, full, own) + mark
     # A whole-sign reading of OURS outranks a mechanical cut of the same
     # sign. Corrected 2026-09-21: seg was tried first, so five tier A
     # readings entered deliberately as whole compounds never reached the
@@ -189,11 +238,11 @@ def render_token(t, gl, seg, full, var, prop=None):
     # 15 tokens change, all five signs tier A, and nothing else moves.
     if prop and t in prop:
         g, tier = prop[t]
-        return MARK.get(tier, "?") + g.replace(" ", "_") + mark
+        return MARK.get(tier, "?") + own_reading(g, own) + mark
     if t in seg:
-        return "-".join(seg_word(p, gl, var, prop or {}, full) for p in seg[t]) + mark
+        return "-".join(seg_word(p, gl, var, prop or {}, full, own) for p in seg[t]) + mark
     if t in var:
-        return "~" + word(var[t], gl, full) + mark
+        return "~" + word(var[t], gl, full, own) + mark
     if prop and t in prop:
         g, tier = prop[t]
         return MARK.get(tier, "?") + g.replace(" ", "_") + mark
@@ -312,7 +361,7 @@ def main():
             for p in doc:
                 f.write(f"\n\n=== {p.page} ===\n")
                 for i, ln in enumerate(p.lines, 1):
-                    runs = [" ".join(render_token(t, gl, seg, full, var) for t in run)
+                    runs = [" ".join(render_token(t, gl, seg, full, var, own=True) for t in run)
                             for run in ln if run]
                     f.write(f"{i:2d}  " + " | ".join(runs) + "\n")
         print(f"wrote {path}")
@@ -388,7 +437,7 @@ def main():
         for p in doc:
             f.write(f"\n\n=== {p.page} ===\n")
             for i, ln in enumerate(p.lines, 1):
-                runs = [" ".join(render_token(t, gl, seg, False, var, prop) for t in run)
+                runs = [" ".join(render_token(t, gl, seg, False, var, prop, own=True) for t in run)
                         for run in ln if run]
                 f.write(f"{i:2d}  " + " | ".join(runs) + "\n")
     print()

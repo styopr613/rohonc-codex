@@ -4,7 +4,7 @@ Facts, with a place to check each one. The rules these are refused by are in
 `harness/ktnotecheck.py` and were written before the first note.
 
 A note marked **this edition** rests on a reading made by this project and not
-on Kiraly and Tokai's dictionary; the tier is given so that a reader can weigh
+on Király and Tokai's dictionary; the tier is given so that a reader can weigh
 it. Tier A survives every place the sign stands. Tier B survives most, with
 the rest unclear rather than against. Tier C is read from one passage with
 nothing inside the book able to refuse it. A word in [brackets] anywhere in
@@ -47,7 +47,7 @@ source: 003v:1; Douay-Rheims Genesis 2:23
 
 ## anchor: «[refused] to go» (002r)
 
-Kiraly and Tokai read the sign this edition renders *hide oneself* as
+Király and Tokai read the sign this edition renders *hide oneself* as
 "hide oneself", and the name of the fallen angel is written as that sign
 joined to the sign for *angel*. The same sign is used of Adam hiding in
 Genesis 3:8 at 001v:3.
@@ -62,13 +62,13 @@ source: 223v:9–10; *Martyrologium Romanum*, 25 December
 
 ## anchor: «thousand year, five hundred, and six ten year»
 
-Kiraly and Tokai date the manuscript to 1593 by their own route. The count on
+Király and Tokai date the manuscript to 1593 by their own route. The count on
 this line runs from the departure to the Father, named on line 1 of the same
 folio, not from the Nativity; 33 plus 1560 is 1593. The addition is this
 edition's, not the manuscript's. Counted from the same point, the two
 thousand years that 222r:2-4 sets before the judgment end in 2033; the note
 on the question at 223v gives that count.
-source: 223v:1–2, 222r:2–4; Kiraly and Tokai, *Cryptologia* 42:4 (2018)
+source: 223v:1–2, 222r:2–4; Király and Tokai, *Cryptologia* 42:4 (2018)
 
 ## anchor: «six hundred» and «six ten» and «six»
 
@@ -123,7 +123,7 @@ Douay-Rheims John 19:34
 
 ## anchor: «grab virgin Mary inside bosom»
 
-Kiraly and Tokai gloss the sign here as a lap or bosom. Their gloss is
+Király and Tokai gloss the sign here as a lap or bosom. Their gloss is
 Hungarian and the word reaches this edition untranslated at 089r and 089v as
 *öl*.
 source: 054r:7, 089r:11, 089v:4; K&T entry glossed "öl"
@@ -167,7 +167,7 @@ Two different signs are read as Enoch, and both are restorations: one at
 008v:6, where the line names Elijah and a second prophet, and one that stands
 twice, at 101r:7 and 133v:10, where the same sentence is written out in both
 places. Neither is read anywhere in the manuscript, and Elijah beside them is
-Kiraly and Tokai's own entry. **This edition**, tier G for both.
+Király and Tokai's own entry. **This edition**, tier G for both.
 source: 008v:6, 101r:7, 133v:10; proposals.json, tier G
 
 ## anchor: «[of a harlot] through be born»
@@ -181,7 +181,7 @@ source: 101r:8, 134r:1; Adso of Montier-en-Der, *De ortu et tempore Antichristi*
 ## anchor: «this people chapter go on Egypt [out of] living servant»
 
 The traveller who goes down to Jericho is written throughout these folios with
-the sign Kiraly and Tokai read as Adam, and the two pence are named as the two
+the sign Király and Tokai read as Adam, and the two pence are named as the two
 Testaments, with Augustine cited by name on the folio. Augustine's own
 reading of the two pence, in his Questions on the Gospels 2.19, is the two
 commandments of love, or the promise of this life and the next; the two
@@ -266,7 +266,7 @@ source: 084r:9–14, 084v:1–9; Caxton's *Golden Legend* (1483), "Saint Augusti
 ## anchor: «little»
 
 Five signs on these folios had been read by this project as *child*. A sweep
-comparing every unread sign against every sign Kiraly and Tokai read, one
+comparing every unread sign against every sign Király and Tokai read, one
 glyph at a time, found that all five are one glyph from their sign glossed
 "a little while; little", and that their spelling of it stands two lines above
 this edition's on the same folio at 084r:10. All five were changed.
@@ -299,14 +299,14 @@ source: 185v:7–9, 186r:1–5; *Golden Legend*, "The Exaltation of the Holy Cro
 
 ## anchor: «name exist Khosrow»
 
-Kiraly and Tokai's dictionary carries entries for Chosroes and for Ctesiphon.
+Király and Tokai's dictionary carries entries for Chosroes and for Ctesiphon.
 Jerusalem fell to the Sasanians in 614 and the relic of the Cross was taken to
 Ctesiphon; Heraclius recovered it and it was returned to Jerusalem in 630.
 source: 183r:3, 183r:6; K&T entries for Chosroes and Ctesiphon
 
 ## anchor: setting first: «sit apostle at table inside Jerusalem»
 
-Kiraly and Tokai's entry for this sign, glossed as a table, cites the
+Király and Tokai's entry for this sign, glossed as a table, cites the
 folios 072r, 182r and 191r among others; on those folios it stands at
 072r:8, 072r:11, 182r:4 and 191r:4. The Douay-Rheims has the eleven "at table"; the
 King James has them "at meat". **This edition** follows the Douay because the
@@ -334,9 +334,9 @@ edition, nine name the right chapter of the right evangelist and this is the
 one that does not.
 source: 090v:8–9; Douay-Rheims John 3:1–21
 
-## anchor: The sign Kiraly and Tokai gloss as *the name of the author* stands ten
+## anchor: The sign Király and Tokai gloss as *the name of the author* stands ten
 
-Kiraly and Tokai gloss one sign as the name of the author. It stands on three
+Király and Tokai gloss one sign as the name of the author. It stands on three
 folios: ten times at 137v, eight at 138r, and fourteen at 222v. On the first
 two it stands inside a prayer to the Virgin.
 source: 137v, 138r, 222v; K&T entry glossed "the name of the author"
@@ -393,7 +393,7 @@ source: 022r:2–3; *Gospel of Pseudo-Matthew* 23; Douay-Rheims Matthew 2:14–1
 
 ## anchor: «six-six apostle» — the codex's way of
 
-Kiraly and Tokai read the codex's numerals as strokes followed by a sign for
+Király and Tokai read the codex's numerals as strokes followed by a sign for
 ten, hundred or thousand that multiplies them. Six and six written side by
 side is twelve, and the phrase stands on thirteen lines; nine of them name the
 apostles.
@@ -410,7 +410,7 @@ source: 024r, 116v:8, 189r:6, 195r; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings
 
 The signs at this point of the line, 004r:11, read *Lord God, mother, be
 born*, and the same three signs open 002r, where this edition renders them
-"The mother of the Lord God was born." Kiraly and Tokai's entries for *mother*
+"The mother of the Lord God was born." Király and Tokai's entries for *mother*
 and for *be born* each give 004r:11 as their example. The sign for *cup* does
 not stand on this line; it stands on lines 1, 3, 5, 9 and 13 of the folio.
 Reading the line as part of the hiding is this edition's, not theirs.
@@ -418,7 +418,7 @@ source: K&T entries for the signs glossed "mother" and "be born"; 004r:11, 002r:
 
 ## anchor: «when Lucifer hid it» (004r)
 
-The sign Kiraly and Tokai gloss "cup or jar" stands four times on this folio
+The sign Király and Tokai gloss "cup or jar" stands four times on this folio
 and three times elsewhere: the cup of wine and water at the supper (030v:7,
 095v:1) and Elijah's cup of water (133v:4). None of the sources this edition
 reads has Lucifer take a cup. The nearest are these. In the Romanian carols of
@@ -440,7 +440,7 @@ source: K&T entry for the sign glossed "cup or jar"; 004r:3, 5, 9, 13; 030v:7, 0
 
 ## anchor: «The mother of the Lord God was born» (002r)
 
-The same three signs stand at 004r:11, and Kiraly and Tokai's entries for
+The same three signs stand at 004r:11, and Király and Tokai's entries for
 *mother* and *be born* each cite that line. The Life of Adam and Eve, chapter
 14, has the angels ordered to worship Adam as the image of God, and Lucifer
 refuse. Many theologians held that the Incarnation was shown to the angels before
@@ -455,7 +455,7 @@ source: 002r:1-2, 004r:11, 223v; K&T entries for the signs glossed "mother" and 
 
 ## anchor: «Seth brought back a branch from the tree of mercy» (006r)
 
-Kiraly and Tokai's entry for the sign Seth carries reads, whole, "branch or
+Király and Tokai's entry for the sign Seth carries reads, whole, "branch or
 seedling or seed (maybe fruit or oil)"; this edition prints the first of
 those. Their apparatus takes 006r:2 as "make the blind's eye see" and 006r:3
 as "heal, be healed", and lists the signs at 006r:1-2 and 9-10 as a variant
@@ -479,7 +479,7 @@ source: K&T entries for the signs glossed "branch or seedling or seed", "light" 
 
 The answer stands on the next leaf, 222r:2-4: "in turn, [?], out, [after]
 two thousand, this is ... one day, and ... judgment year, because the new Son
-of God judges." "Two thousand" is a numeral by Kiraly and Tokai's composition
+of God judges." "Two thousand" is a numeral by Király and Tokai's composition
 rule, two strokes and their thousand sign with the year ending, and the same
 word is read at 215r:4, "two thousand years since Abraham died". "Out" is the
 word 223v:1-2 uses for the 1,560 years run since the Ascension. "After" is

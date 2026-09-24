@@ -720,8 +720,8 @@
    "lane": "book",
    "label": "The proposed reading gives 1593",
    "star": true,
-   "desc": "On Kiraly and Tokai's reading, one of the last leaves counts one thousand five hundred and sixty years from the Ascension, giving 1593. That summer the Long Turkish War began. Where in Hungary the codex was written, and by whom, is not known.",
-   "source": "The book, introduction and the endnote on 223v; Kiraly and Tokai 2018; en.wikipedia.org/wiki/Long_Turkish_War (1593-1606)."
+   "desc": "On Király and Tokai's reading, one of the last leaves counts one thousand five hundred and sixty years from the Ascension, giving 1593. That summer the Long Turkish War began. Where in Hungary the codex was written, and by whom, is not known.",
+   "source": "The book, introduction and the endnote on 223v; Király and Tokai 2018; en.wikipedia.org/wiki/Long_Turkish_War (1593-1606)."
   },
   {
    "year": 1743,
@@ -825,16 +825,16 @@
    "year": 2010,
    "date": "2010-11",
    "lane": "read",
-   "label": "Lang: a cipher, not a hoax",
-   "desc": "Benedek Lang argues the codex is a consciously encoded text and not a forgery, and writes the history of the problem (A Rohonci kod, 2011; in English as The Rohonc Code, 2021).",
+   "label": "Láng: a cipher, not a hoax",
+   "desc": "Benedek Láng argues the codex is a consciously encoded text and not a forgery, and writes the history of the problem (A Rohonci kód, 2011; in English as The Rohonc Code, 2021).",
    "source": "en.wikipedia.org/wiki/Rohonc_Codex; the book's Acknowledgment (Penn State Press, 2021)."
   },
   {
    "year": 2011,
    "date": "2010-11",
    "lane": "read",
-   "label": "Tokai and Kiraly begin",
-   "desc": "Gabor Tokai identifies the codes for the evangelists and reads the year numbers as Anno Mundi; Levente Zoltan Kiraly works out the chapter structure and a table of contents.",
+   "label": "Tokai and Király begin",
+   "desc": "Gábor Tokai identifies the codes for the evangelists and reads the year numbers as Anno Mundi; Levente Zoltán Király works out the chapter structure and a table of contents.",
    "source": "en.wikipedia.org/wiki/Rohonc_Codex."
   },
   {
@@ -849,17 +849,17 @@
    "year": 2018,
    "date": "2018",
    "lane": "read",
-   "label": "Kiraly and Tokai read it",
+   "label": "Király and Tokai read it",
    "star": true,
    "desc": "Cracking the code of the Rohonc Codex, in Cryptologia: a code system rather than a cipher, 841 dictionary codes glossed in this edition's merged data, the proposed date 1593, and the content a Catholic reader of its time. The dictionary this edition stands on.",
-   "source": "Kiraly and Tokai, Cryptologia 42:4 (2018), 285-315; en.wikipedia.org/wiki/Rohonc_Codex."
+   "source": "Király and Tokai, Cryptologia 42:4 (2018), 285-315; en.wikipedia.org/wiki/Rohonc_Codex."
   },
   {
    "year": 2023,
    "date": "2023",
    "lane": "read",
-   "label": "Kiraly on its theology",
-   "desc": "Kiraly's paper on the theological character of the codex, with the transcription and dictionary put online at rechnitzer-kodex.hu so the claims can be checked.",
+   "label": "Király on its theology",
+   "desc": "Király's paper on the theological character of the codex, with the transcription and dictionary put online at rechnitzer-kodex.hu so the claims can be checked.",
    "source": "DATA_PROVENANCE.md section 2: A Rohonci kodex teologiai karaktere, in Hagyomany, Identitas, Tortenelem 2022 (publ. 2023)."
   },
   {
@@ -1747,6 +1747,6 @@
     "gloss": "Lord"
    }
   ],
-  "glyphs_source": "Kiraly and Tokai's dictionary, exact-gloss entries; outlines from their font via ktsigns.py, credited on the plate."
+  "glyphs_source": "Király and Tokai's dictionary, exact-gloss entries; outlines from their font via ktsigns.py, credited on the plate."
  }
 }
