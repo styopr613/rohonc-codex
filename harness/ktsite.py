@@ -38,6 +38,7 @@ import sys
 import markdown
 
 from ktrights import WORDING, ENDORSE
+import kttranslate as T
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # The prose of the site is written by an outside model from a fact sheet
@@ -548,7 +549,12 @@ def proposals():
         c = code
         if c.startswith("_withdrawn_"):
             c = c[len("_withdrawn_"):]
-        rows.append({"code": c, "gloss": v.get("gloss", ""), "tier": v.get("tier", ""),
+        # the reading as the book prints it: a label in angle brackets goes
+        # through the same wording as the gloss (2026-09-24)
+        g = v.get("gloss", "")
+        if g.startswith("<"):
+            g = T.own_reading(g, True).replace("_", " ")
+        rows.append({"code": c, "gloss": g, "tier": v.get("tier", ""),
                      "n": v.get("n", 0), "evidence": v.get("evidence", "")})
     return about, rows
 

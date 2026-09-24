@@ -72,7 +72,7 @@
   "tier": "B"
  },
  "0316709f4": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 031670ae0, read in this project as 'exist' with the 031 prefix this part of the book uses. Occurrence(s): 016r:2 '<<[x]>> holy-in_turn-+one-[?] thanks grab and pray to-Lord-<suffix_of_divine_name>'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 031670ae0, read in this project as 'exist' with the 031 prefix this part of the book uses. Occurrence(s): 016r:2 '<<[x]>> holy-in_turn-+one-[?] thanks grab and pray to-Lord-DIV'",
   "gloss": "exist",
   "n": 1,
   "tier": "C"
@@ -282,7 +282,7 @@
   "tier": "G"
  },
  "0600603711525203262c02708c0a7b607871817": {
-  "evidence": "021v:8; a thirteen-glyph run-together phrase 77% covered by read pieces in this order: son, cut off, ?, Lord, suffix of divine name, mother, Mary, holy. The parts are read; the joining is the guess.",
+  "evidence": "021v:8; a thirteen-glyph run-together phrase 77% covered by read pieces in this order: son, cut off, ?, Lord, DIV, mother, Mary, holy. The parts are read; the joining is the guess.",
   "gloss": "the_son_and_the_aged_Joseph_and_the_holy_mother_Mary",
   "n": 1,
   "tier": "G"
@@ -336,13 +336,13 @@
   "tier": "A"
  },
  "0602c1a57270": {
-  "evidence": "their head entry (5202c1a57520) gives 'suff. 5202c1a57270 099r03, even 0602c1a57270 013r02'",
+  "evidence": "their head entry (5202c1a57520) lists a suffixed spelling 5202c1a57270 at 099r03 and this spelling, 0602c1a57270, at 013r02",
   "gloss": "head",
   "n": 1,
   "tier": "A"
  },
  "0602dd520": {
-  "evidence": "their Isaac entry gives '(suffix?) 0602dd520 062r01, 05'",
+  "evidence": "their Isaac entry lists this spelling at 062r01 and 062r05, as a possibly suffixed form",
   "gloss": "Isaac",
   "n": 1,
   "tier": "A"
@@ -360,7 +360,7 @@
   "tier": "B"
  },
  "060509": {
-  "evidence": "their 'of an alien nation, pagan' entry gives 'suff. 060509 176v04'",
+  "evidence": "their entry for 'pagan' lists this spelling at 176v04 as a suffixed form",
   "gloss": "pagan",
   "n": 1,
   "tier": "A"
@@ -396,7 +396,7 @@
   "tier": "B"
  },
  "0607a2001796520": {
-  "evidence": "their entry lists 0607a2001796520 at 073r04, glossed 'deadly poison (Mk 16, 18)'",
+  "evidence": "their entry lists 0607a2001796520 at 073r04, meaning 'deadly poison', the verse in Mark 16",
   "gloss": "deadly_poison",
   "n": 1,
   "tier": "A"
@@ -450,7 +450,7 @@
   "tier": "A"
  },
  "060a75": {
-  "evidence": "084r:9. Király and Tokai read this line themselves. Their entry for a10a13 'middle, in the middle' ends with an expression they mark ?? -- 060a75 5202f2 a13 5201515201c2270540 'morning, evening, noon Sun' at 084r09. Four codes, four words, in order: this is the first, so it is MORNING. The evening and the noon and the sun are already on the line from their dictionary; only this slot was ours, and we had guessed 'one day at' from the shape of the sentence. Their reading is still a guess -- ?? is their most doubtful mark -- so this stays bracketed, but it is now their guess and not ours.",
+  "evidence": "084r:9. Király and Tokai read this line themselves. Their entry for a10a13 'middle, in the middle' reads a four-code phrase at 084r09, marked as their most doubtful, as morning, evening, noon and sun, this sign first. Four codes, four words, in order: this is the first, so it is MORNING. The evening and the noon and the sun are already on the line from their dictionary; only this slot was ours, and we had guessed 'one day at' from the shape of the sentence. Their reading is still a guess -- ?? is their most doubtful mark -- so this stays bracketed, but it is now their guess and not ours.",
   "gloss": "morning",
   "n": 1,
   "tier": "G"
@@ -558,7 +558,7 @@
   "tier": "D"
  },
  "086": {
-  "evidence": "their world entry reads '083 e.g. 002v08, 084 e.g. 017r12, 085 e.g. 017v06, 086 e.g. 018r06 world'. This is the word that completes their phrase 'the whole wide world' at 140v:5",
+  "evidence": "their entry for 'world' gives four spellings, 083, 084, 085 and this one, 086, which they cite at 018r06. This is the word that completes their reading 'the whole wide world' at 140v:5",
   "gloss": "world",
   "n": 4,
   "tier": "A"
@@ -606,7 +606,7 @@
   "tier": "A"
  },
  "0b6343": {
-  "evidence": "K&T's entry 520343 'can; is able; might; may not' cites this exact line for the negative sense: 'can not 023r08'. This sign is one glyph from their code and stands at 023r:8. Their own reading of this line.",
+  "evidence": "K&T's entry 520343 'can; is able; might; may not' cites this exact line, 023r08, for the negative sense, 'can not'. This sign is one glyph from their code and stands at 023r:8. Their own reading of this line.",
   "gloss": "cannot",
   "n": 1,
   "tier": "A"
@@ -684,7 +684,7 @@
   "tier": "G"
  },
  "115a10962": {
-  "evidence": "K&T's crumbs entry (115, 'Lk 16, 21') reads '115a10962 213r07 (2x) leftovers'. Both occurrences are on that line, John 6:12-13, 'gather up the fragments that remain'",
+  "evidence": "K&T's entry for 'crumbs' (115) lists this spelling twice at 213r07 and reads it 'leftovers'. Both occurrences are on that line, John 6:12-13, 'gather up the fragments that remain'",
   "gloss": "leftovers",
   "n": 2,
   "tier": "A"
@@ -780,7 +780,7 @@
   "tier": "C"
  },
  "152670327ae0": {
-  "evidence": "K&T's entry for the epithet family gives '152520327ae0 006v (4x) <someone Seth meets>'. This sign is that spelling with one glyph changed and it stands four times on 006v and nowhere else, which is their count and their folio exactly. The gloss is their category, not an English word: they did not identify the figure either",
+  "evidence": "K&T's entry 152520327ae0 counts four occurrences on 006v and describes the sign, rather than translating it, as a figure Seth meets. This sign is that spelling with one glyph changed and it stands four times on 006v and nowhere else, which is their count and their folio exactly. It is printed as NAME, a proper name known only by what it names: they did not identify the figure either",
   "gloss": "<someone_Seth_meets>",
   "n": 4,
   "tier": "A"
@@ -1134,7 +1134,7 @@
   "tier": "G"
  },
  "2708c0034097": {
-  "evidence": "017r:3 'and then God angel Joachim have hear [x]'; the sign opens with K&T's 270 'Lord' and 8c0 'suffix of divine name'.",
+  "evidence": "017r:3 'and then God angel Joachim have hear [x]'; the sign opens with K&T's 270 'Lord' and 8c0, the suffix they find on divine names (printed DIV).",
   "gloss": "the_Lord_God",
   "n": 1,
   "tier": "G"
@@ -1212,7 +1212,7 @@
   "tier": "A"
  },
  "280": {
-  "evidence": "their adverb of direction entry (2c1) gives '? 280 185v01'. Their question mark",
+  "evidence": "their entry 2c1 lists 280 at 185v01, marked uncertain",
   "gloss": "up",
   "n": 1,
   "tier": "B"
@@ -1404,7 +1404,7 @@
   "tier": "G"
  },
  "320796": {
-  "evidence": "their be damned entry gives 'expr. 320796 perish 038v11'",
+  "evidence": "their entry for 'be damned' reads 320796 as 'perish' in an expression at 038v11",
   "gloss": "perish",
   "n": 1,
   "tier": "A"
@@ -1422,7 +1422,7 @@
   "tier": "G"
  },
  "331": {
-  "evidence": "182r:5. Király and Tokai have a headword 520331, 'relative pronoun ?? where', and they cite 182r05 among its six occurrences. Our transcription leaves 331 alone at the head of the line, and we had read 'where' from the sense of the line: 'where the Lord God, the Lord Jesus, made the supper, at the time' -- Mark 16:14, the appearance to the eleven at table. Two readings arrived at the same word from different directions, which is worth recording, but theirs carries ?? and ours is one line, so it stays bracketed.",
+  "evidence": "182r:5. Király and Tokai have a headword 520331, 'where', which they mark as doubtful, and they cite 182r05 among its six occurrences. Our transcription leaves 331 alone at the head of the line, and we had read 'where' from the sense of the line: 'where the Lord God, the Lord Jesus, made the supper, at the time' -- Mark 16:14, the appearance to the eleven at table. Two readings arrived at the same word from different directions, which is worth recording, but theirs carries ?? and ours is one line, so it stays bracketed.",
   "gloss": "where",
   "n": 1,
   "tier": "G"
@@ -1506,7 +1506,7 @@
   "tier": "G"
  },
  "371": {
-  "evidence": "their son entry (060060371) gives 'suffix ? 371 164r04'",
+  "evidence": "their son entry (060060371) lists 371 at 164r04 as a suffix, marked uncertain",
   "gloss": "son",
   "n": 1,
   "tier": "A"
@@ -1602,7 +1602,7 @@
   "tier": "G"
  },
  "3f02c0": {
-  "evidence": "their apart entry gives '?? 3f02c0 053r09'. Two question marks of theirs",
+  "evidence": "their entry for 'apart' lists 3f02c0 at 053r09, marked doubtful",
   "gloss": "apart",
   "n": 1,
   "tier": "B"
@@ -1680,7 +1680,7 @@
   "tier": "B"
  },
  "433": {
-  "evidence": "Both occurrences stand between a numeral and the word chapter: 205v:5 'nine [x] chapter of writing', 210r:3 'fourteen-one [x] chapter of'. Király & Tokai document exactly such a sign in this codex, ae1, glossed 'meaningless sign at the end of a numeral expression'. This is a second one. A positional reading, not a lexical one, and it is entered as such: it says where the sign stands, not what it means. Neither chapter value resolves (Luke 19 at 205v, Matthew 12 at 210r), which is recorded with the sign for the chapter formula, 0600600600601f7060060060060.",
+  "evidence": "Both occurrences stand between a numeral and the word chapter: 205v:5 'nine [x] chapter of writing', 210r:3 'fourteen-one [x] chapter of'. Király & Tokai document exactly such a sign in this codex, ae1, a sign that closes a numeral and carries no meaning of its own. This is a second one. A positional reading, not a lexical one, and it is entered as such: it says where the sign stands, not what it means. Neither chapter value resolves (Luke 19 at 205v, Matthew 12 at 210r), which is recorded with the sign for the chapter formula, 0600600600601f7060060060060.",
   "gloss": "end_of_numeral",
   "n": 2,
   "tier": "C"
@@ -1698,7 +1698,7 @@
   "tier": "A"
  },
  "446a10003a10060916b26": {
-  "evidence": "K&T's Augustine entry (446b26) records an aggregate at 138v05: '[aggr. 446 ... 916b26 138v05]', their Augustine written around their own word a10003a10060 'somebody'. It occurs once, after 00b670ae0670ae0",
+  "evidence": "K&T's Augustine entry (446b26) records at 138v05 a form with the name split around another word, their Augustine written around their own word a10003a10060 'somebody'. It occurs once, after 00b670ae0670ae0",
   "gloss": "Saint_Augustine",
   "n": 1,
   "tier": "A"
@@ -1860,7 +1860,7 @@
   "tier": "A"
  },
  "4a40a2ab0": {
-  "evidence": "their gate entry gives 'III. 128v02; 4a40a2ab0 009r02, 181v03 closed (Jn 20, 19.26)', the doors being shut where Jesus stands among them",
+  "evidence": "their entry for 'gate' lists this spelling at 009r02 and 181v03 in the sense 'closed', the doors being shut where Jesus stands among them",
   "gloss": "closed",
   "n": 2,
   "tier": "A"
@@ -1902,7 +1902,7 @@
   "tier": "D"
  },
  "4a7514": {
-  "evidence": "their entry 4a7212 gives '4a7514 018v06 send forth, pour out'",
+  "evidence": "their entry 4a7212 lists 4a7514 at 018v06 as 'send forth, pour out'",
   "gloss": "pour_out",
   "n": 1,
   "tier": "A"
@@ -1926,7 +1926,7 @@
   "tier": "G"
  },
  "4a78a9": {
-  "evidence": "their go, come, send entry (4a7) gives '4a78a9 082r01, 03 go to'",
+  "evidence": "their entry 4a7 ('go, come, send') lists 4a78a9 at 082r01 and 082r03 as 'go to'",
   "gloss": "go_to",
   "n": 2,
   "tier": "A"
@@ -1938,7 +1938,7 @@
   "tier": "G"
  },
  "4a80f15207a0": {
-  "evidence": "their Noah entry lists '? 4a80f15207a0 061r10'. Their question mark",
+  "evidence": "their Noah entry lists 4a80f15207a0 at 061r10, marked uncertain",
   "gloss": "Noah",
   "n": 1,
   "tier": "B"
@@ -1956,7 +1956,7 @@
   "tier": "B"
  },
  "4c0": {
-  "evidence": "222v:8 and 224r:3. 222v is the writer's own calendar of his days and carries K&T's 'the name of the author' six times; 224r:3 stands beside Mark. A scribe's verb fits both. WEAK.",
+  "evidence": "222v:8 and 224r:3. 222v is the writer's own calendar of his days and carries the sign K&T take for the author's name six times; 224r:3 stands beside Mark. A scribe's verb fits both. WEAK.",
   "gloss": "wrote",
   "n": 2,
   "tier": "G"
@@ -2100,7 +2100,7 @@
   "tier": "G"
  },
  "520060007": {
-  "evidence": "016v:1, and it is Király and Tokai's own reading. Their entry 670ae0007 reads in full: '670ae0007 016v02 (2x), 03; 520060007 016v01 division, part'. They cite this exact line for this exact code. It was bracketed here only because our copy of their dictionary is keyed by headword. The line reads 'and holy Anne ... every rich soul into three PARTS', the threefold division.",
+  "evidence": "016v:1, and it is Király and Tokai's own reading. Their entry 670ae0007, 'division, part', lists this spelling, 520060007, at 016v01. They cite this exact line for this exact code. It was bracketed here only because our copy of their dictionary is keyed by headword. The line reads 'and holy Anne ... every rich soul into three PARTS', the threefold division.",
   "gloss": "part",
   "n": 1,
   "tier": "A"
@@ -2124,7 +2124,7 @@
   "tier": "A"
  },
  "520060040050040030": {
-  "evidence": "K&T's entry for cloud (520060040050040) ends '?? 520060040050040030 138v08 cloud'. Their own two question marks; the sign occurs once, inside 630520060040050040030 at 138v08, where 630 is their preposition 'on, into'",
+  "evidence": "K&T's entry for cloud (520060040050040) lists this spelling at 138v08 as 'cloud', marked doubtful; the sign occurs once, inside 630520060040050040030 at 138v08, where 630 is their preposition 'on, into'",
   "gloss": "cloud",
   "n": 1,
   "tier": "B"
@@ -2226,7 +2226,7 @@
   "tier": "G"
  },
  "520060421": {
-  "evidence": "their '?? swallow' entry lists '?? 520060421 107v04'. Four question marks of theirs across the entry",
+  "evidence": "their entry for 'swallow', marked doubtful, lists 520060421 at 107v04, marked doubtful again",
   "gloss": "swallow",
   "n": 1,
   "tier": "B"
@@ -2244,7 +2244,7 @@
   "tier": "B"
  },
  "5200604f7ae0": {
-  "evidence": "their suffer entry gives '?? 5200604f7ae0 081r10 not suffer'",
+  "evidence": "their entry for 'suffer' lists this spelling at 081r10 as 'not suffer', marked doubtful",
   "gloss": "not_suffer",
   "n": 1,
   "tier": "A"
@@ -2292,19 +2292,19 @@
   "tier": "B"
  },
  "520060540003": {
-  "evidence": "their want, would like entry (540540) gives 'neg. ? 520060540003 048r02'",
+  "evidence": "their entry 540540 ('want, would like') lists this spelling at 048r02 as a negative form, marked uncertain",
   "gloss": "not_want",
   "n": 1,
   "tier": "A"
  },
  "520060540152520231": {
-  "evidence": "085v:2, the same sentence as 084v:12 written again: 'bears the law of God, DOES NOT COMMIT sin -- that one shall be saved'. Király and Tokai's entry for 5202d2 gives 520060540152520231 3c4 at exactly this line, marked neg. and ??, as a negative of their '5202d2(520)3c4 commit a sin, trespass'. We had guessed 'and keep'. Stays bracketed because their own mark is ??.",
+  "evidence": "085v:2, the same sentence as 084v:12 written again: 'bears the law of God, DOES NOT COMMIT sin -- that one shall be saved'. Király and Tokai's entry for 5202d2 gives 520060540152520231 3c4 at exactly this line, marked neg. and ??, as a negative of their phrase for committing a sin. We had guessed 'and keep'. Stays bracketed because their own mark is ??.",
   "gloss": "not_commit",
   "n": 1,
   "tier": "G"
  },
  "520060540152540231": {
-  "evidence": "084v:12. Király and Tokai's entry for 5202d2 lists the expression '5202d2(520)3c4 commit a sin, trespass', and then, marked neg. and ??, gives four negative forms of it, two of which are ours: 520060540152540231 3c4 at 084v12 and 520060540152520231 3c4 at 085v02. So this word is the negated verb and the 3c4 beside it is its object: 'does not commit sin'. The line reads 'bears the law of God, DOES NOT COMMIT sin -- that one shall be saved'. We had guessed 'and keep' from the law in front of it, which put the sense in the wrong place. Stays bracketed because their own mark is ??.",
+  "evidence": "084v:12. Király and Tokai's entry for 5202d2 reads 5202d2 with 3c4 as 'commit a sin', and then, marked neg. and ??, gives four negative forms of it, two of which are ours: 520060540152540231 3c4 at 084v12 and 520060540152520231 3c4 at 085v02. So this word is the negated verb and the 3c4 beside it is its object: 'does not commit sin'. The line reads 'bears the law of God, DOES NOT COMMIT sin -- that one shall be saved'. We had guessed 'and keep' from the law in front of it, which put the sense in the wrong place. Stays bracketed because their own mark is ??.",
   "gloss": "not_commit",
   "n": 1,
   "tier": "G"
@@ -2334,7 +2334,7 @@
   "tier": "C"
  },
  "520060793822": {
-  "evidence": "K&T's thief/rogue entry (520060793) carries a second sense they gloss 'II. ? 113v06 live dissolutely' and cite at 113v06, this word's only line: 'the son wasted all, the son [lived riotously] in that land' 113v:5-6 = Luke 15:13, wasted his substance with riotous living",
+  "evidence": "K&T's thief/rogue entry (520060793) carries a second sense, 'live dissolutely', marked uncertain and cited at 113v06, this word's only line: 'the son wasted all, the son [lived riotously] in that land' 113v:5-6 = Luke 15:13, wasted his substance with riotous living",
   "gloss": "lived riotously",
   "n": 1,
   "tier": "A"
@@ -2370,7 +2370,7 @@
   "tier": "G"
  },
  "5200608c1": {
-  "evidence": "their know entry (540060520) gives '?? 5200608c1 032v09'. Two question marks of theirs",
+  "evidence": "their know entry (540060520) lists 5200608c1 at 032v09, marked doubtful",
   "gloss": "know",
   "n": 1,
   "tier": "B"
@@ -2490,7 +2490,7 @@
   "tier": "C"
  },
  "5201510a2": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 520151, read in this project as 'remain' on the strength of K&T's 520151990060520969 'be; stay'. Tier C and the chain is worth stating: the base reading is itself tier C, and 520151 also heads K&T's 'priest' and 'sun', so this is the weakest kind of near-match in this batch. Occurrence(s): 051v:1 '<<[x]>> <preposition_of_genitive>-Mary +woe a) <preposition_of_genitive>-Lord three_nails long '",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 520151, read in this project as 'remain' on the strength of K&T's 520151990060520969 'be; stay'. Tier C and the chain is worth stating: the base reading is itself tier C, and 520151 also heads K&T's 'priest' and 'sun', so this is the weakest kind of near-match in this batch. Occurrence(s): 051v:1 '<<[x]>> of-Mary +woe but of-Lord three_nails long '",
   "gloss": "remain",
   "n": 1,
   "tier": "C"
@@ -2508,7 +2508,7 @@
   "tier": "C"
  },
  "520151520100": {
-  "evidence": "their grab, take entry (520100) gives 'negation: 520151520100 033v07, 034r02, 09'",
+  "evidence": "their entry 520100 ('grab, take') lists 520151520100 at 033v07, 034r02 and 034r09 as its negative",
   "gloss": "not_take",
   "n": 1,
   "tier": "A"
@@ -2544,7 +2544,7 @@
   "tier": "B"
  },
  "520151670": {
-  "evidence": "148v:7 and 149r:2, and it is Király and Tokai's own reading at both. Their entry for 670b30670 'evil, the Evil, devil' ends with a list of expressions, and one is '670b30670 520151670 148v07, 149r02 DRAGON (Voragine)' -- unqualified, and citing both of our occurrences. The line reads 'and saw one evil dragon and'. The Voragine note matters: it places the passage in the Golden Legend, which is where this book's Rood material comes from.",
+  "evidence": "148v:7 and 149r:2, and it is Király and Tokai's own reading at both. Their entry for 670b30670 'evil, the Evil, devil' reads the pair 670b30670 520151670 as 'dragon' at 148v07 and 149r02, without a question mark, and cites the Golden Legend for it: both of our occurrences. The line reads 'and saw one evil dragon and'. That citation matters: it places the passage in the Golden Legend, which is where this book's Rood material comes from.",
   "gloss": "dragon",
   "n": 2,
   "tier": "A"
@@ -2730,7 +2730,7 @@
   "tier": "G"
  },
  "5201b0520": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 037r:3 '[?] each,_every to-<preposition_of_genitive>-Lord to-year-to [?] <<[x]>> and then-exist Lord.'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 037r:3 '[?] each,_every to-of-Lord to-year-to [?] <<[x]>> and then-exist Lord.'",
   "gloss": "that",
   "n": 1,
   "tier": "C"
@@ -2802,7 +2802,7 @@
   "tier": "B"
  },
  "5201d32e0": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 5201d3520 'lose'. 008r:9: 'and inside, the Lord God, to the cup, and to the Lord [x], and'. Occurrence(s): 008r:9 'and inside-+exist Lord-<suffix_of_divine_name> to-cup and to-Lord <<[x]>> and [?]'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 5201d3520 'lose'. 008r:9: 'and inside, the Lord God, to the cup, and to the Lord [x], and'. Occurrence(s): 008r:9 'and inside-+exist Lord-DIV to-cup and to-Lord <<[x]>> and [?]'",
   "gloss": "lose",
   "n": 1,
   "tier": "C"
@@ -2832,13 +2832,13 @@
   "tier": "C"
  },
  "5201f22c0": {
-  "evidence": "Found by ktinside.py --rev. This sign begins with 5201f2, which K&T read as 'mouth', leaving _2c0 unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 024r:1 'hear this word say [?] <preposition_of_genitive> son and father <<[x]>> [?] spoon-+name'",
+  "evidence": "Found by ktinside.py --rev. This sign begins with 5201f2, which K&T read as 'mouth', leaving _2c0 unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 024r:1 'hear this word say [?] of son and father <<[x]>> [?] spoon-+name'",
   "gloss": "mouth",
   "n": 1,
   "tier": "C"
  },
  "5201f2ae0969": {
-  "evidence": "their entry for reason, understanding ends '? 5201f2ae0969 114v03, 04 recognize'. Their question mark, and they cite two of its six occurrences",
+  "evidence": "their entry for reason, understanding lists 5201f2ae0969 as 'recognize', marked uncertain, and they cite two of its six occurrences",
   "gloss": "recognize",
   "n": 6,
   "tier": "B"
@@ -2892,7 +2892,7 @@
   "tier": "G"
  },
  "5202395203c4a10003a10060": {
-  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with 5202395203c4the man-word. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 207v:8 '<<[x]>> and [?] <preposition_of_genitive>-Lord +be_saved sin-somebody exist'",
+  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with 5202395203c4the man-word. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 207v:8 '<<[x]>> and [?] of-Lord +be_saved sin-somebody exist'",
   "gloss": "man",
   "n": 1,
   "tier": "C"
@@ -2916,7 +2916,7 @@
   "tier": "A"
  },
  "520250": {
-  "evidence": "their emperor entry (520ae0520250) gives 'suff. 520250 186r06', and glosses 019v10 'emperor Augustus'",
+  "evidence": "their emperor entry (520ae0520250) lists 520250 at 186r06 as a suffixed form, and reads 019v10 as 'emperor Augustus'",
   "gloss": "emperor",
   "n": 3,
   "tier": "A"
@@ -2952,7 +2952,7 @@
   "tier": "G"
  },
  "520263": {
-  "evidence": "their '?? scholar or church father' entry lists 520263 at 150r02 and 03. Two question marks of theirs",
+  "evidence": "their entry for 'scholar or church father', marked doubtful, lists 520263 at 150r02 and 150r03",
   "gloss": "church_father",
   "n": 2,
   "tier": "B"
@@ -3030,7 +3030,7 @@
   "tier": "G"
  },
  "5202c0151": {
-  "evidence": "K&T's '?? (do) not' (5202c0132) is cited by them at 003r05 and 122v03, this word's two lines, which are the same sentence twice: 'this yoke upon Adam, by commandment: [do not] eat of this tree' = Genesis 2:17",
+  "evidence": "K&T's '(do) not' (5202c0132), marked doubtful, is cited by them at 003r05 and 122v03, this word's two lines, which are the same sentence twice: 'this yoke upon Adam, by commandment: [do not] eat of this tree' = Genesis 2:17",
   "gloss": "do not",
   "n": 2,
   "tier": "A"
@@ -3066,7 +3066,7 @@
   "tier": "G"
  },
  "5202d0": {
-  "evidence": "their leave, let entry (5202c1 (3)) gives 'neg. 5202d0 030r01 let'",
+  "evidence": "their entry 5202c1 ('leave, let') lists 5202d0 at 030r01 as a negative form of 'let'",
   "gloss": "not_let",
   "n": 1,
   "tier": "A"
@@ -3210,7 +3210,7 @@
   "tier": "G"
  },
  "520365": {
-  "evidence": "their cry out entry gives 'II. 520365 051v01 crying, woe'",
+  "evidence": "their entry for 'cry out' gives 520365 at 051v01 a second sense, 'crying, woe'",
   "gloss": "woe",
   "n": 1,
   "tier": "A"
@@ -3426,7 +3426,7 @@
   "tier": "G"
  },
  "520443520": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520 'that; to whom; what; which; whose'. Read as the relative, like the seven signs of the same shape entered before it. Occurrence(s): 025r:7 'from-healing <<[x]>> ask_(for) from-healing this Lord <preposition_of_genitive>-somebody son sa'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520 'that; to whom; what; which; whose'. Read as the relative, like the seven signs of the same shape entered before it. Occurrence(s): 025r:7 'from-healing <<[x]>> ask_(for) from-healing this Lord of-somebody son sa'",
   "gloss": "that",
   "n": 1,
   "tier": "C"
@@ -3480,7 +3480,7 @@
   "tier": "A"
  },
  "5204667a3": {
-  "evidence": "their peace entry gives '[var. ?? 5204667a3 062v01]'. Two question marks of theirs. The passage is the Nunc Dimittis, 'Lord, now lettest thou thy servant depart in peace'",
+  "evidence": "their peace entry lists 5204667a3 at 062v01 as a variant spelling, marked doubtful. The passage is the Nunc Dimittis, 'Lord, now lettest thou thy servant depart in peace'",
   "gloss": "peace",
   "n": 1,
   "tier": "B"
@@ -3558,7 +3558,7 @@
   "tier": "G"
  },
  "520520009": {
-  "evidence": "their destroy, demolish entry gives 'c) 520520009 060v08 go sour, rot'",
+  "evidence": "their entry for 'destroy, demolish' lists 520520009 at 060v08 as 'go sour, rot'",
   "gloss": "rot",
   "n": 1,
   "tier": "A"
@@ -3600,7 +3600,7 @@
   "tier": "A"
  },
  "520520520096": {
-  "evidence": "K&T's blood (520520520ae0) carries the expression 'he shed his blood 104r05', and their shed (77a) lists a ligature at 104r05; this word is that ligature on that line: 'for us the Lord [shed his blood] and redeemed us from hell fire' 104r:5-6",
+  "evidence": "K&T's blood (520520520ae0) reads 'he shed his blood' at 104r05, and their shed (77a) lists a ligature at 104r05; this word is that ligature on that line: 'for us the Lord [shed his blood] and redeemed us from hell fire' 104r:5-6",
   "gloss": "shed his blood",
   "n": 1,
   "tier": "A"
@@ -3636,7 +3636,7 @@
   "tier": "C"
  },
  "520524950": {
-  "evidence": "202v:4, and it is Király and Tokai's own reading. Their entry for 770 'out(ward)' has 'c) expr. 770 520524950 202v04-05 OUTER DARKNESS (Mt 22, 13)', unqualified. The token before ours on the line is 630770, their out-word, so the pair is on the page and this half of it is DARKNESS -- glossed that way rather than 'outer darkness' so the line does not print the out twice. The line reads 'foot, and somebody, cast out, angel, out into the darkness', Matthew 22:13, 'bind his hands and feet and cast him into the exterior darkness'.",
+  "evidence": "202v:4, and it is Király and Tokai's own reading. Their entry for 770 'out(ward)' reads the pair 770 520524950 at 202v04-05 as 'outer darkness', without a question mark. The token before ours on the line is 630770, their out-word, so the pair is on the page and this half of it is DARKNESS -- glossed that way rather than 'outer darkness' so the line does not print the out twice. The line reads 'foot, and somebody, cast out, angel, out into the darkness', Matthew 22:13, 'bind his hands and feet and cast him into the exterior darkness'.",
   "gloss": "darkness",
   "n": 1,
   "tier": "A"
@@ -3738,7 +3738,7 @@
   "tier": "A"
  },
  "520713": {
-  "evidence": "their '?? scholar or church father' entry lists 520713 at 101v07. Two question marks of theirs",
+  "evidence": "their entry for 'scholar or church father', marked doubtful, lists 520713 at 101v07",
   "gloss": "church_father",
   "n": 1,
   "tier": "B"
@@ -3810,13 +3810,13 @@
   "tier": "G"
  },
  "5207a3": {
-  "evidence": "This project already reads 5207a3670 and 5207a35207a0b36 as 'and' (both tier A), and K&T read 5207a35204c2b36 as a coordinating conjunction, 'and; as well as'. All three begin with this sign, and twice the codex writes it alone: 036v:8 'and [x] say inside the Lord believe' and 041r:3 '[x] this Lord truly the Son of the living God'. The second is the centurion's word at the cross. The head of three conjunction compounds, standing by itself, is the conjunction.",
+  "evidence": "This project already reads 5207a3670 and 5207a35207a0b36 as 'and' (both tier A), and K&T read 5207a35204c2b36 as 'and; as well as'. All three begin with this sign, and twice the codex writes it alone: 036v:8 'and [x] say inside the Lord believe' and 041r:3 '[x] this Lord truly the Son of the living God'. The second is the centurion's word at the cross. The head of three conjunction compounds, standing by itself, is the conjunction.",
   "gloss": "and",
   "n": 2,
   "tier": "B"
  },
  "5207a35207a0b36": {
-  "evidence": "their coordinating conjunction entry lists 5207a35207a0b36 at 031r02 and 03",
+  "evidence": "their entry for 'and' lists 5207a35207a0b36 at 031r02 and 03",
   "gloss": "and",
   "n": 2,
   "tier": "A"
@@ -3828,19 +3828,19 @@
   "tier": "G"
  },
  "5207a3670": {
-  "evidence": "their coordinating conjunction entry lists 5207a3670 at 188v02 and 03",
+  "evidence": "their entry for 'and' lists 5207a3670 at 188v02 and 03",
   "gloss": "and",
   "n": 2,
   "tier": "A"
  },
  "5207a36704c2b36": {
-  "evidence": "their coordinating conjunction and entry lists this spelling at 095v08",
+  "evidence": "their entry for 'and' lists this spelling at 095v08",
   "gloss": "and",
   "n": 1,
   "tier": "A"
  },
  "5207a3670a1a": {
-  "evidence": "their coordinating conjunction entry lists 5207a3670a1a at 095v06 and 09",
+  "evidence": "their entry for 'and' lists 5207a3670a1a at 095v06 and 09",
   "gloss": "and",
   "n": 2,
   "tier": "A"
@@ -4050,7 +4050,7 @@
   "tier": "G"
  },
  "520953910": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520955910 'because; that', and one from 5207a3910 and 5201b4910, both of which this project already reads as 'that'. Three signs of the same sense a glyph apart. Occurrence(s): 165r:1 '+the_Baptist/woman son symbolize soul each,_every somebody <<[x]>> Lord-<suffix_of_divine_name>'; 165r:2 'each,_every somebody this town symbolize [?] <<[x]>> +be_saved'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520955910 'because; that', and one from 5207a3910 and 5201b4910, both of which this project already reads as 'that'. Three signs of the same sense a glyph apart. Occurrence(s): 165r:1 '+the_Baptist/woman son symbolize soul each,_every somebody <<[x]>> Lord-DIV'; 165r:2 'each,_every somebody this town symbolize [?] <<[x]>> +be_saved'",
   "gloss": "that",
   "n": 2,
   "tier": "C"
@@ -4080,7 +4080,7 @@
   "tier": "A"
  },
  "520962a14": {
-  "evidence": "K&T's '<a kind of bread>, cake' (520822a10ac1) is cited by them at 030v04, 095r11, 188r08 and 133v04, this word's only line, where their cup sign stands two words later: 'there was a cake baken on the coals, and a cruse of water at his head' = 1 Kings 19:6, the angel feeding Elijah at Horeb",
+  "evidence": "K&T's word for a loaf or cake (520822a10ac1) is cited by them at 030v04, 095r11, 188r08 and 133v04, this word's only line, where their cup sign stands two words later: 'there was a cake baken on the coals, and a cruse of water at his head' = 1 Kings 19:6, the angel feeding Elijah at Horeb",
   "gloss": "a cake",
   "n": 1,
   "tier": "A"
@@ -4182,7 +4182,7 @@
   "tier": "G"
  },
  "5209aa520060": {
-  "evidence": "036v:13. Király and Tokai's entry for 5209a3520 'will; want, wish' ends 'expr. ? 0604f0 5209a3520 050r05, 102v02, 155v06, 0604f0 5209aa520060 036v13 GOOD WILL'. They cite this exact line, and the token before ours on it is 0604f0, their own 'good'. So the pair is 'good will' and this word is WILL. We had guessed 'shepherd'. It stays bracketed because their expression carries a ?.",
+  "evidence": "036v:13. Király and Tokai's entry for 5209a3520 'will; want, wish' reads 0604f0 with this spelling, 5209aa520060, as 'good will' at 036v13, marked uncertain. They cite this exact line, and the token before ours on it is 0604f0, their own 'good'. So the pair is 'good will' and this word is WILL. We had guessed 'shepherd'. It stays bracketed because their expression carries a ?.",
   "gloss": "will",
   "n": 1,
   "tier": "G"
@@ -4230,7 +4230,7 @@
   "tier": "C"
  },
  "520ac3ae01f2": {
-  "evidence": "194r:3 and 194r:5, and it is Király and Tokai's own reading at both. Their entry for the table (772, 773, 774, a10774 'table') ends 'expr. a10773 520ac3ae01f2 194r03, 04-05 TABLE COMPANY, PARTY', unqualified, citing both our occurrences. The token before ours is a10773, their table word. So the pair is 'table company' and this half is COMPANY. The folio cites Matthew 9:10, 'as he was sitting at meat in the house, behold many publicans and sinners came and sat down with Jesus'; we had guessed 'sat at meat' from that verse, which had the scene right and the word wrong.",
+  "evidence": "194r:3 and 194r:5, and it is Király and Tokai's own reading at both. Their entry for the table (772, 773, 774, a10774 'table') reads the pair a10773 520ac3ae01f2 as 'table company, party' at 194r03 and 194r04-05, without a question mark: both our occurrences. The token before ours is a10773, their table word. So the pair is 'table company' and this half is COMPANY. The folio cites Matthew 9:10, 'as he was sitting at meat in the house, behold many publicans and sinners came and sat down with Jesus'; we had guessed 'sat at meat' from that verse, which had the scene right and the word wrong.",
   "gloss": "company",
   "n": 2,
   "tier": "A"
@@ -4284,7 +4284,7 @@
   "tier": "C"
  },
  "520ae05f6": {
-  "evidence": "K&T's own entry for bless (520461) lists 520ae05f6 as the spelling at 138r01, 02, 140r09 (2x), 10, 140v02 and glosses II. blessed 'e.g. 138r01'. Those six citations are exactly this sign's six tokens in the book. Ave Maria at 138r01-02: 'blessed art thou among women' (blessed-Mary, this-Mary, among), 'blessed is the fruit of thy womb'. Blessing formula at 140r09-140v02: blessed thy herd, blessed thy field, blessed thy harvest",
+  "evidence": "K&T's own entry for bless (520461) lists 520ae05f6 as the spelling at 138r01, 02, 140r09 (2x), 10, 140v02 and reads it 'blessed'. Those six citations are exactly this sign's six tokens in the book. Ave Maria at 138r01-02: 'blessed art thou among women' (blessed-Mary, this-Mary, among), 'blessed is the fruit of thy womb'. Blessing formula at 140r09-140v02: blessed thy herd, blessed thy field, blessed thy harvest",
   "gloss": "blessed",
   "n": 6,
   "tier": "A"
@@ -4380,7 +4380,7 @@
   "tier": "G"
  },
  "520b42": {
-  "evidence": "072v:5, 072v:8, 182v:4, and the guess was ours where a reading was already theirs. Király and Tokai's entry 5200607a2 (2) -- '<concessive coordinating conjunction>, but, however, in turn' -- lists among its variants, marked ??, the code 520b42a51 at 072v05-06 and 072v08. That is our 520b42 followed by our a51: one of their words which our transcription cuts in two. We had read the front half as a verb, 'shall perish', on the strength of the be-damned beside it and Mark 16:16 on the folio note. The sense goes on this half and the tail is marked on the other. It stays bracketed because their own mark is ??.",
+  "evidence": "072v:5, 072v:8, 182v:4, and the guess was ours where a reading was already theirs. Király and Tokai's entry 5200607a2 (2) -- 'but, however, in turn' -- lists among its variants, marked ??, the code 520b42a51 at 072v05-06 and 072v08. That is our 520b42 followed by our a51: one of their words which our transcription cuts in two. We had read the front half as a verb, 'shall perish', on the strength of the be-damned beside it and Mark 16:16 on the folio note. The sense goes on this half and the tail is marked on the other. It stays bracketed because their own mark is ??.",
   "gloss": "but",
   "n": 3,
   "tier": "G"
@@ -4410,7 +4410,7 @@
   "tier": "A"
  },
  "520b77": {
-  "evidence": "K&T's show sign (520b81), which they gloss with the verse '(Jn 14,8)', is cited by them at 130v03, this word's only line, where their Philip stands two words away: 'and then holy Philip answered: [shew] us, the apostles, thy Father' = John 14:8",
+  "evidence": "K&T's show sign (520b81), which they tie to the verse in John 14, is cited by them at 130v03, this word's only line, where their Philip stands two words away: 'and then holy Philip answered: [shew] us, the apostles, thy Father' = John 14:8",
   "gloss": "shew",
   "n": 1,
   "tier": "A"
@@ -4428,7 +4428,7 @@
   "tier": "A"
  },
  "520b7a990": {
-  "evidence": "Found by ktinside.py --rev. This sign begins with 520b7a, which K&T read as 'apostate; believe; believer; clothes; faith; faithful', leaving _990 unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. K&T's own 'believe' stands three words earlier on the same line. Occurrence(s): 036v:8 'and +and +say inside Lord believe a) <preposition_of_genitive>-Lord <<[x]>> on'",
+  "evidence": "Found by ktinside.py --rev. This sign begins with 520b7a, which K&T read as 'apostate; believe; believer; clothes; faith; faithful', leaving _990 unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. K&T's own 'believe' stands three words earlier on the same line. Occurrence(s): 036v:8 'and +and +say inside Lord believe but of-Lord <<[x]>> on'",
   "gloss": "believe",
   "n": 1,
   "tier": "C"
@@ -4446,19 +4446,19 @@
   "tier": "C"
  },
  "520b7e": {
-  "evidence": "K&T's clothes sense of 520b7a is cited by them at 115r05, 06, 07 and 08; this word is 520b7a with one glyph changed, at 115r:5, beside their own sign for 'the most beautiful', which they gloss '(Lk 15,22)'. Luke 15:22, 'bring forth the best robe, and put it on him'. The same page then names the robe of love, of mercy, of righteousness",
+  "evidence": "K&T's clothes sense of 520b7a is cited by them at 115r05, 06, 07 and 08; this word is 520b7a with one glyph changed, at 115r:5, beside their own sign for 'the most beautiful', which they tie to the verse in Luke 15. Luke 15:22, 'bring forth the best robe, and put it on him'. The same page then names the robe of love, of mercy, of righteousness",
   "gloss": "robe",
   "n": 2,
   "tier": "A"
  },
  "520b82": {
-  "evidence": "K&T's entry 520b81 'show (Jn 14, 8)' lists 520b82 as the spelling at 139r04, this sign's only occurrence. 139r04-05: Mary shows her son the breast that nursed the Lord",
+  "evidence": "K&T's entry 520b81 'show' lists 520b82 as the spelling at 139r04, this sign's only occurrence. 139r04-05: Mary shows her son the breast that nursed the Lord",
   "gloss": "show",
   "n": 1,
   "tier": "A"
  },
  "520b84": {
-  "evidence": "K&T's entry 520b80 'confess or proclaim or testify; confession, annunciation, testimony; witness' opens '[var. 065v01, 218v09]' -- it names two folio lines where a VARIANT spelling of it stands. This sign occurs exactly twice in the codex, at 065v:1 and at 218v:9. Both occurrences are their own cited variants, and 218v is Stephen's testimony before the council. Proved by K&T citation at every occurrence.",
+  "evidence": "K&T's entry 520b80 'confess or proclaim or testify; confession, annunciation, testimony; witness' names two folio lines, 065v01 and 218v09, where a VARIANT spelling of it stands. This sign occurs exactly twice in the codex, at 065v:1 and at 218v:9. Both occurrences are their own cited variants, and 218v is Stephen's testimony before the council. Proved by K&T citation at every occurrence.",
   "gloss": "confess",
   "n": 2,
   "tier": "A"
@@ -4650,7 +4650,7 @@
   "tier": "A"
  },
  "540060362": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 540060520 'know; recognize'. 031r:5: 'the Lord Jesus [x], one among you'. Douay Matthew 26:21: 'one of you is about to betray me' -- what the Lord does on that line is know it. Occurrence(s): 031r:5 'Lord-Jézus <<[x]>> +<subject_marker> one among you'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 540060520 'know; recognize'. 031r:5: 'the Lord Jesus [x], one among you'. Douay Matthew 26:21: 'one of you is about to betray me' -- what the Lord does on that line is know it. Occurrence(s): 031r:5 'Lord-Jézus <<[x]>> +SUBJ one among you'",
   "gloss": "know",
   "n": 1,
   "tier": "C"
@@ -4686,7 +4686,7 @@
   "tier": "C"
  },
  "540060540881": {
-  "evidence": "their vineyard, garden entry lists '? 540060540881 200v05, 06'. Their question mark",
+  "evidence": "their entry for 'vineyard, garden' lists 540060540881 at 200v05 and 200v06, marked uncertain",
   "gloss": "vineyard",
   "n": 2,
   "tier": "B"
@@ -4716,7 +4716,7 @@
   "tier": "A"
  },
  "5400607b4270540": {
-  "evidence": "K&T's entry for face (540060540060) lists 5400607b4270540, with their question mark, at 085r03, 09, 085v06 and 143r02: this sign's four occurrences. At 085v06 they gloss the phrase it stands in '?? under the species of the bread', so appearance is in its range too",
+  "evidence": "K&T's entry for face (540060540060) lists 5400607b4270540, with their question mark, at 085r03, 09, 085v06 and 143r02: this sign's four occurrences. At 085v06 they read the phrase it stands in, doubtfully, as the appearance of the bread, so appearance is in its range too",
   "gloss": "face",
   "n": 4,
   "tier": "A"
@@ -4734,7 +4734,7 @@
   "tier": "A"
  },
  "540060890": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. It is the head of K&T's 540060890570 'ox', which this project already reads. 062r:6: 'from father Abraham, from the brethren, the Lord God, [x]' -- Douay Genesis 22:13: 'Abraham lifted up his eyes, and saw behind his back a RAM amongst the briers'. The other neighbour, their 540060520 'know', does not suit a line that is counting what Abraham brought. Occurrence(s): 062r:6 'from-father Abraham from ?brethren Lord-<suffix_of_divine_name> <<[x]>>'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. It is the head of K&T's 540060890570 'ox', which this project already reads. 062r:6: 'from father Abraham, from the brethren, the Lord God, [x]' -- Douay Genesis 22:13: 'Abraham lifted up his eyes, and saw behind his back a RAM amongst the briers'. The other neighbour, their 540060520 'know', does not suit a line that is counting what Abraham brought. Occurrence(s): 062r:6 'from-father Abraham from ?brethren Lord-DIV <<[x]>>'",
   "gloss": "ox",
   "n": 1,
   "tier": "C"
@@ -4776,7 +4776,7 @@
   "tier": "B"
  },
  "5400609a2670890": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 5400609a2670690 'a little while; little' and from two further forms of the same word this project reads as 'little'. Four spellings of one word, differing only in the ending the codex puts on it. Occurrence(s): 071v:7 '<<[x]>> how? then-exist one baptize head'; 183v:3 '<<[x]>> +an_army have Heraclius_<Byzantine_emperor> +emperor'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 5400609a2670690 'a little while; little' and from two further forms of the same word this project reads as 'little'. Four spellings of one word, differing only in the ending the codex puts on it. Occurrence(s): 071v:7 '<<[x]>> how? then-exist one baptize head'; 183v:3 '<<[x]>> +an_army have Heraclius +emperor'",
   "gloss": "little",
   "n": 2,
   "tier": "B"
@@ -4878,7 +4878,7 @@
   "tier": "G"
  },
  "5401f54c0": {
-  "evidence": "their Gabriel [angel] entry gives '?? 5401f54c0 202v02, 03'. Two question marks of theirs",
+  "evidence": "their Gabriel entry lists 5401f54c0 at 202v02 and 202v03, marked doubtful",
   "gloss": "Gabriel",
   "n": 1,
   "tier": "B"
@@ -4908,7 +4908,7 @@
   "tier": "A"
  },
  "5401fa": {
-  "evidence": "their today entry (Lk 19:5 and 9) gives '?? 5401fa 207v02'. Two question marks of theirs",
+  "evidence": "their entry for 'today' lists 5401fa at 207v02, marked doubtful",
   "gloss": "today",
   "n": 1,
   "tier": "B"
@@ -5004,7 +5004,7 @@
   "tier": "G"
  },
  "540310": {
-  "evidence": "their carry, take, bring, bear, keep entry gives '? 540310 221r06'",
+  "evidence": "their entry for 'carry, take, bring, bear, keep' lists 540310 at 221r06, marked uncertain",
   "gloss": "carry",
   "n": 1,
   "tier": "A"
@@ -5064,7 +5064,7 @@
   "tier": "A"
  },
  "540362": {
-  "evidence": "K&T's entry 520b06 'be born' carries the expression 'e. g. 091r06-07 BE BORN AGAIN (Jn 3, 3 . 7)'. This sign is the only hole on 091r:6, which reads 'speak, and somebody cannot exist, to the Lord, believe, [x], two' -- John 3:3, 'unless a man be born again, he cannot see the kingdom of God'. Their own cited expression.",
+  "evidence": "K&T's entry 520b06 'be born' reads 'be born again' at 091r06-07. This sign is the only hole on 091r:6, which reads 'speak, and somebody cannot exist, to the Lord, believe, [x], two' -- John 3:3, 'unless a man be born again, he cannot see the kingdom of God'. Their own cited reading.",
   "gloss": "born_again",
   "n": 1,
   "tier": "C"
@@ -5088,7 +5088,7 @@
   "tier": "A"
  },
  "540396520540032010001": {
-  "evidence": "K&T's entry 5402707e10604f0610 'grapevine (Jn 15, 1)' cites '065v04, 069v02; 069r11'. This sign is the only hole on 069v:2, whose line reads 'the Father of the Lord, FARM, angel, [x], this name of the Lord' -- John 15:1, 'I am the true vine, and my Father is the husbandman'. The husbandman stands in the line. NAMED RISK: the sign resembles their code only in its first glyph, so this rests on the line citation.",
+  "evidence": "K&T's entry 5402707e10604f0610 'grapevine' cites 065v04, 069v02 and 069r11. This sign is the only hole on 069v:2, whose line reads 'the Father of the Lord, FARM, angel, [x], this name of the Lord' -- John 15:1, 'I am the true vine, and my Father is the husbandman'. The husbandman stands in the line. NAMED RISK: the sign resembles their code only in its first glyph, so this rests on the line citation.",
   "gloss": "vine",
   "n": 1,
   "tier": "C"
@@ -5148,13 +5148,13 @@
   "tier": "A"
  },
  "5405404b0": {
-  "evidence": "K&T's doubled future auxiliary plus the speech root: 'that Stephen [would say], they stoned him' 217r:7",
+  "evidence": "K&T's future-tense sign, doubled, plus the speech root: 'that Stephen [would say], they stoned him' 217r:7",
   "gloss": "would say",
   "n": 8,
   "tier": "C"
  },
  "540540681b07670": {
-  "evidence": "K&T's entry reads '183-186 (12x); 185r07 HERACLIUS <Byzantine emperor> (Voragine: Eraclius)' -- the second code, cited at 185r07, is a variant spelling. This sign stands at 185r:7, ends in their b07670, and no Heraclius is rendered anywhere else in that line. Proved by K&T citation, on the folios of the Exaltation of the Cross.",
+  "evidence": "K&T's entry for Heraclius counts twelve occurrences across 183-186 and cites a second code at 185r07, a variant spelling. This sign stands at 185r:7, ends in their b07670, and no Heraclius is rendered anywhere else in that line. Proved by K&T citation, on the folios of the Exaltation of the Cross.",
   "gloss": "Heraclius",
   "n": 1,
   "tier": "A"
@@ -5178,7 +5178,7 @@
   "tier": "B"
  },
  "54060d": {
-  "evidence": "their Eve entry is literally '52060b, 54060d [var. 520 ~ 540] Eve'. This sign is a headword spelling of theirs, unread only because the dictionary was keyed on the other one. 126r:6 'Adam and Eve, and Adam driven out'; 007v:6 the penance in the field of the Life of Adam and Eve",
+  "evidence": "their Eve entry gives two headword spellings, 52060b and this one, 54060d. This sign is a headword spelling of theirs, unread only because the dictionary was keyed on the other one. 126r:6 'Adam and Eve, and Adam driven out'; 007v:6 the penance in the field of the Life of Adam and Eve",
   "gloss": "Eve",
   "n": 7,
   "tier": "A"
@@ -5190,7 +5190,7 @@
   "tier": "G"
  },
  "5406a0": {
-  "evidence": "K&T's entry 520460670090a10 'lamb; Easter lamb' cites '029r10, 13, 029v02'. This sign is line-initial at 029v:2, whose line reads '[x] want Lord to you eat this EASTER'. Easter is read at the end of the line and lamb is not. A variant spelling of their word.",
+  "evidence": "K&T's entry 520460670090a10 'lamb; Easter lamb' cites 029r10, 029r13 and 029v02. This sign is line-initial at 029v:2, whose line reads '[x] want Lord to you eat this EASTER'. Easter is read at the end of the line and lamb is not. A variant spelling of their word.",
   "gloss": "lamb",
   "n": 1,
   "tier": "C"
@@ -5220,7 +5220,7 @@
   "tier": "A"
  },
  "540842": {
-  "evidence": "K&T's entry a10520842 reads 'laugh 003r12, 123r01, (?) 127r07, 171v09'. They cite 003r12 and this sign stands at 003r:12, sharing their 842. Nothing in the line is rendered 'laugh', so this is their word in a spelling the transcription writes differently.",
+  "evidence": "K&T's entry a10520842 'laugh' cites 003r12, 123r01, 127r07 (with a question mark) and 171v09. They cite 003r12 and this sign stands at 003r:12, sharing their 842. Nothing in the line is rendered 'laugh', so this is their word in a spelling the transcription writes differently.",
   "gloss": "laugh",
   "n": 1,
   "tier": "C"
@@ -5256,7 +5256,7 @@
   "tier": "G"
  },
  "5409c81f6": {
-  "evidence": "065v:3, and it is Király and Tokai's own reading. Their entry reads '5409c82072c1 065v03; 5409c81f65202c1 065v03-04 DO NOT PICK'. Our transcription cuts the second of those in two, leaving 5409c81f6 at the end of 065v:3 and 5202c1 at the head of 065v:4. The line is Matthew 7:16, 'Do men gather grapes of thorns, or figs of thistles?', and the verb occurs twice in it -- their first spelling is already on the line four words earlier, printing 'do not pick'. We had guessed 'grapes' from the verse. Unqualified in their entry.",
+  "evidence": "065v:3, and it is Király and Tokai's own reading. Their entry reads two spellings, 5409c82072c1 at 065v03 and 5409c81f65202c1 at 065v03-04, as 'do not pick'. Our transcription cuts the second of those in two, leaving 5409c81f6 at the end of 065v:3 and 5202c1 at the head of 065v:4. The line is Matthew 7:16, 'Do men gather grapes of thorns, or figs of thistles?', and the verb occurs twice in it -- their first spelling is already on the line four words earlier, printing 'do not pick'. We had guessed 'grapes' from the verse. Unqualified in their entry.",
   "gloss": "do_not_pick",
   "n": 1,
   "tier": "A"
@@ -5346,7 +5346,7 @@
   "tier": "A"
  },
  "540ae0540152990": {
-  "evidence": "their entry '<man suffering from an illness>, ? paralytic' lists 540ae0540152990 at 023r03",
+  "evidence": "their entry for a sick man, perhaps 'paralytic', lists 540ae0540152990 at 023r03",
   "gloss": "paralytic",
   "n": 1,
   "tier": "A"
@@ -5406,7 +5406,7 @@
   "tier": "G"
  },
  "5470606700602c1": {
-  "evidence": "K&T's hunger expression (5470606350602c1) is glossed by them 'expr. 111v08 die with hunger; 113v07 be hungry' and cites 113v07, this word's only line; 670 for 635 in the middle. 'and there was left ... and the son began to [be hungry]' 113v:7 = Luke 15:14",
+  "evidence": "K&T's hunger expression (5470606350602c1) is read by them as 'die with hunger' at 111v08 and 'be hungry' at 113v07, this word's only line; 670 for 635 in the middle. 'and there was left ... and the son began to [be hungry]' 113v:7 = Luke 15:14",
   "gloss": "be hungry",
   "n": 1,
   "tier": "A"
@@ -5520,7 +5520,7 @@
   "tier": "A"
  },
  "569003569": {
-  "evidence": "088r:8; K&T cite 088r08 under their own '?? bury'. CORRECTION: first guessed 'was_buried', which repeated a word already standing beside it in the line -- 088r:8; 'bury' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour.",
+  "evidence": "088r:8; K&T cite 088r08 under their own 'bury', marked doubtful. CORRECTION: first guessed 'was_buried', which repeated a word already standing beside it in the line -- 088r:8; 'bury' already stands next to it. Caught by a mechanical sweep for guesses that duplicate a neighbour.",
   "gloss": "there",
   "n": 1,
   "tier": "G"
@@ -5544,7 +5544,7 @@
   "tier": "C"
  },
  "5694b0960": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 5694b0, which this project already reads as 'he said'. Occurrence(s): 061r:9 '[?] die <preposition_of_genitive>-brother <<[x]>> and this Jézus'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 5694b0, which this project already reads as 'he said'. Occurrence(s): 061r:9 '[?] die of-brother <<[x]>> and this Jézus'",
   "gloss": "he_said",
   "n": 1,
   "tier": "C"
@@ -5604,7 +5604,7 @@
   "tier": "G"
  },
  "570670ae0": {
-  "evidence": "a homograph in K&T's own dictionary. Their entry a10570670ae0 (1) 'sheep' lists this spelling at 064 (5x) and 119-120 (3x), which are the Good Shepherd and the Lost Sheep: 064r:9, 10, 064v:4, 8, 119v:4, 120r:4. Their entry (2) '<a female person>' lists the same spelling at 145r03, 04, 145v05, 06, inside the miracle of the image of the Virgin. 146v:6 is in that block too and they do not cite it. Corrected 2026-09-20 from a single gloss sheep",
+  "evidence": "a homograph in K&T's own dictionary. Their entry a10570670ae0 (1) 'sheep' lists this spelling at 064 (5x) and 119-120 (3x), which are the Good Shepherd and the Lost Sheep: 064r:9, 10, 064v:4, 8, 119v:4, 120r:4. Their entry (2), for a woman, lists the same spelling at 145r03, 04, 145v05, 06, inside the miracle of the image of the Virgin. 146v:6 is in that block too and they do not cite it. Corrected 2026-09-20 from a single gloss sheep",
   "gloss": "sheep/a_female_person",
   "n": 9,
   "tier": "B"
@@ -5616,7 +5616,7 @@
   "tier": "G"
  },
  "570a10ae0": {
-  "evidence": "K&T's entry a10570670ae0 (2) '<a female person>', which they place at 144v-147v, lists 570a10ae0 at 145r02 and 151v04",
+  "evidence": "K&T's entry a10570670ae0 (2), for a woman, which they place at 144v-147v, lists 570a10ae0 at 145r02 and 151v04",
   "gloss": "a_female_person",
   "n": 2,
   "tier": "A"
@@ -5700,7 +5700,7 @@
   "tier": "C"
  },
  "574a10ae0": {
-  "evidence": "K&T's entry a10570670ae0 (2) glosses this word '<a female person>' and gives this spelling as its suffixed form across 144v-148r, 55 times. All 27 occurrences of the bare token fall in 144r-148r, the miracle of the image of the Virgin. It is a title as often as a noun: 'Queen who holdest heaven and earth, Lady virgin Mary' 145r:1, 145r:9, 145v:2. Lady is this project's word for it; theirs is the category, not an English word. Upgraded from C 2026-09-20 on their citation",
+  "evidence": "K&T's entry a10570670ae0 (2) describes this word as meaning a woman and gives this spelling as its suffixed form across 144v-148r, 55 times. All 27 occurrences of the bare token fall in 144r-148r, the miracle of the image of the Virgin. It is a title as often as a noun: 'Queen who holdest heaven and earth, Lady virgin Mary' 145r:1, 145r:9, 145v:2. Lady is this project's word for it; theirs is a description, not an English word. Upgraded from C 2026-09-20 on their citation",
   "gloss": "Lady",
   "n": 27,
   "tier": "A"
@@ -5730,13 +5730,13 @@
   "tier": "G"
  },
  "57aae0": {
-  "evidence": "their '?? confirm' entry lists 57aae0 at 209r06. Two question marks of theirs",
+  "evidence": "their entry for 'confirm', marked doubtful, lists 57aae0 at 209r06",
   "gloss": "confirm",
   "n": 1,
   "tier": "B"
  },
  "57bae0": {
-  "evidence": "their '?? confirm' entry lists 57bae0 at 209r01. Two question marks of theirs",
+  "evidence": "their entry for 'confirm', marked doubtful, lists 57bae0 at 209r01",
   "gloss": "confirm",
   "n": 1,
   "tier": "B"
@@ -5754,7 +5754,7 @@
   "tier": "B"
  },
  "588": {
-  "evidence": "108r:6. Király and Tokai list this code, unqualified, in the variant list of their 2c1 'adverb of direction: a) up, b) away', cited at exactly this line, 108r06. The page is Matthew 5:13-16 and the line reads 'and the city on the high mount, and the city ___'; we had guessed 'hid' from Matthew 5:14, 'a city seated on a mountain cannot be hid'. That is the right verse and it is why the guess was made, but the dictionary is the key and it says this word is their 'up'. Read their way the book doubles the image rather than translating the whole verse: 'a city on a high mountain, a city above'. The sense chosen from their two is 'up', not 'away', because of the mountain beside it. The tension is left on the record: the verse wants 'hid' and the dictionary says 'up', and we follow the dictionary.",
+  "evidence": "108r:6. Király and Tokai list this code, unqualified, among the variants of their 2c1, 'up' or 'away', cited at exactly this line, 108r06. The page is Matthew 5:13-16 and the line reads 'and the city on the high mount, and the city ___'; we had guessed 'hid' from Matthew 5:14, 'a city seated on a mountain cannot be hid'. That is the right verse and it is why the guess was made, but the dictionary is the key and it says this word is their 'up'. Read their way the book doubles the image rather than translating the whole verse: 'a city on a high mountain, a city above'. The sense chosen from their two is 'up', not 'away', because of the mountain beside it. The tension is left on the record: the verse wants 'hid' and the dictionary says 'up', and we follow the dictionary.",
   "gloss": "up",
   "n": 1,
   "tier": "G"
@@ -5820,7 +5820,7 @@
   "tier": "A"
  },
  "5b37e0": {
-  "evidence": "224r:2 'MICHAEL on SATURDAY of WOMAN [x]'; Michael is named in the line and K&T gloss a code they cite at 224r02 as the name of an angel. WEAK.",
+  "evidence": "224r:2 'MICHAEL on SATURDAY of WOMAN [x]'; Michael is named in the line and K&T take a code they cite at 224r02 for an angel's name. WEAK.",
   "gloss": "the_angel",
   "n": 1,
   "tier": "G"
@@ -5970,7 +5970,7 @@
   "tier": "G"
  },
  "5e4": {
-  "evidence": "002r:2, and it is Király and Tokai's own reading. Their entry is '5e4670ae1 162v08; 5e4 670 ae0 002r02; 5e4670a82 089v06, 130v07 FINGER', unqualified. At this line they write the word as separate codes, and our transcription splits it at the line break: 5e4 ends 002r:2 and 670ae0 opens 002r:3. We had guessed 'equal'. The line reads 'the angel, this, on the throne, set, the Lord God, the Lord's FINGER'.",
+  "evidence": "002r:2, and it is Király and Tokai's own reading. Their entry for 'finger' cites this line, 002r02, without a question mark. At this line they write the word as separate codes, and our transcription splits it at the line break: 5e4 ends 002r:2 and 670ae0 opens 002r:3. We had guessed 'equal'. The line reads 'the angel, this, on the throne, set, the Lord God, the Lord's FINGER'.",
   "gloss": "finger",
   "n": 1,
   "tier": "A"
@@ -6156,7 +6156,7 @@
   "tier": "A"
  },
  "627ae0": {
-  "evidence": "K&T's entry 670ae0, the copula, carries a long variant list that names this folio and line: '109v01, 02, 110r07, 115v04, 118v06'. This sign stands at 110r:7 and is one glyph from their headword. Proved by K&T citation.",
+  "evidence": "K&T's entry 670ae0, the copula, carries a long variant list that names this folio and line, 110r07. This sign stands at 110r:7 and is one glyph from their headword. Proved by K&T citation.",
   "gloss": "exist",
   "n": 1,
   "tier": "A"
@@ -6264,7 +6264,7 @@
   "tier": "G"
  },
  "6302c0427": {
-  "evidence": "K&T's entry 3908ae reads '094r08, 189v05 (on the) ROADSIDE (Lk 18, 35)'. This sign is the only hole on 189v:5, whose line reads 'BLIND through light inside Sunday the Lord Jesus Christ [x]' -- Luke 18:35, 'a certain blind man sat BY THE WAY SIDE, begging'. The blind man is read in the line.",
+  "evidence": "K&T's entry 3908ae 'roadside' cites 094r08 and 189v05. This sign is the only hole on 189v:5, whose line reads 'BLIND through light inside Sunday the Lord Jesus Christ [x]' -- Luke 18:35, 'a certain blind man sat BY THE WAY SIDE, begging'. The blind man is read in the line.",
   "gloss": "by_the_wayside",
   "n": 1,
   "tier": "C"
@@ -6300,7 +6300,7 @@
   "tier": "A"
  },
  "6304709628f59d3": {
-  "evidence": "K&T's entry 520060470990 reads 'thorn; expr. 065v04 THORNBUSH'. This sign contains their 470 and is the only hole on 065v:4, which reads 'food GRAPE [x] on GRAPEVINE' -- Matthew 7:16, 'Do men gather grapes of thorns, or figs of thistles?' Their own cited line and their own gloss.",
+  "evidence": "K&T's entry 520060470990 'thorn' reads 'thornbush' at 065v04. This sign contains their 470 and is the only hole on 065v:4, which reads 'food GRAPE [x] on GRAPEVINE' -- Matthew 7:16, 'Do men gather grapes of thorns, or figs of thistles?' Their own cited line and their own sense.",
   "gloss": "thornbush",
   "n": 1,
   "tier": "C"
@@ -6366,13 +6366,13 @@
   "tier": "G"
  },
  "6305250a20a20a2950060371": {
-  "evidence": "K&T's entry 5200a20a22c4962 reads '060v09; 062r07 ?? faggot or altar' -- their own gloss, with their own doubt marked. This sign contains their run of 0a2 glyphs and is the only hole on 062r:7, which reads 'OFFERING and then TIE UP [x]'. The offering and the binding are read beside it. Rendered here as 'bundle of wood', which is what their word means.",
+  "evidence": "K&T's entry 5200a20a22c4962 cites 060v09 and 062r07 and reads it, doubtfully, as 'faggot or altar'. This sign contains their run of 0a2 glyphs and is the only hole on 062r:7, which reads 'OFFERING and then TIE UP [x]'. The offering and the binding are read beside it. Rendered here as 'bundle of wood', which is what their word means.",
   "gloss": "bundle_of_wood",
   "n": 1,
   "tier": "C"
  },
  "6305400f2": {
-  "evidence": "K&T's entry 5f2ae0 reads '094r09; 166v02 [town] GATE'. This sign is the only hole on 166v:2, which reads 'take two-two man and son CARRY OUT [x]' -- Luke 7:12, the dead man carried out of the GATE of the city of Naim. NAMED RISK: the sign does not resemble their code, so this rests on the line citation and the passage.",
+  "evidence": "K&T's entry 5f2ae0 'town gate' cites 094r09 and 166v02. This sign is the only hole on 166v:2, which reads 'take two-two man and son CARRY OUT [x]' -- Luke 7:12, the dead man carried out of the GATE of the city of Naim. NAMED RISK: the sign does not resemble their code, so this rests on the line citation and the passage.",
   "gloss": "the_town_gate",
   "n": 1,
   "tier": "C"
@@ -6384,7 +6384,7 @@
   "tier": "C"
  },
  "6305408ac": {
-  "evidence": "K&T's entry 5208ac reads '115v05, 140r01, 02, 10 (2x); 093v05 FIELD' and quotes their own translation of the neighbouring line, 'the firstborn brother was in the field (Lk 15, 25)'. This sign contains their 8ac, opens with their 630 'in, at', and is the only hole on 093v:5.",
+  "evidence": "K&T's entry 5208ac 'field' cites 093v05 among others, and they read the neighbouring line as the elder brother in the field, Luke 15. This sign contains their 8ac, opens with their 630 'in, at', and is the only hole on 093v:5.",
   "gloss": "in_the_field",
   "n": 1,
   "tier": "C"
@@ -6414,7 +6414,7 @@
   "tier": "G"
  },
  "630670360ae0": {
-  "evidence": "K&T's entry 520360ae0 'Bethany' lists the lines it stands on: '049r04, 190v02, 011r02, 06, 013r05; 028r04; 029r07; 098r01'. This sign ends in their 360ae0, opens with their 630 'to, at, in', and stands at 029r:7, where the whole line is 'go Lord Jesus [x]'. Proved by K&T citation.",
+  "evidence": "K&T's entry 520360ae0 'Bethany' lists the lines it stands on, 029r07 among them. This sign ends in their 360ae0, opens with their 630 'to, at, in', and stands at 029r:7, where the whole line is 'go Lord Jesus [x]'. Proved by K&T citation.",
   "gloss": "to_Bethany",
   "n": 1,
   "tier": "A"
@@ -6462,7 +6462,7 @@
   "tier": "G"
  },
  "6307966370b0": {
-  "evidence": "Two different resurrection verses on two folios, and both require the same word. 055v:6 reads 'crucified, risen, [seek], a) the three Marys went' -- Douay Mark 16:6: 'you SEEK Jesus of Nazareth, who was crucified. He is risen'. 056r:4 reads 'Jesus crucified, risen, [seek], because' -- Douay John 20:15: 'Woman, why weepest thou? Whom SEEKEST thou?' The two folios cite those two verses independently and seek is the only content word both share that no sign carries. K&T's want and ask(for) are different Hungarian words from seek, so this is not a synonym of a sign already read. Neither occurrence can check the other, so tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "Two different resurrection verses on two folios, and both require the same word. 055v:6 reads 'crucified, risen, [seek], but the three Marys went' -- Douay Mark 16:6: 'you SEEK Jesus of Nazareth, who was crucified. He is risen'. 056r:4 reads 'Jesus crucified, risen, [seek], because' -- Douay John 20:15: 'Woman, why weepest thou? Whom SEEKEST thou?' The two folios cite those two verses independently and seek is the only content word both share that no sign carries. K&T's want and ask(for) are different Hungarian words from seek, so this is not a synonym of a sign already read. Neither occurrence can check the other, so tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "seek",
   "n": 2,
   "tier": "D"
@@ -6600,7 +6600,7 @@
   "tier": "G"
  },
  "645": {
-  "evidence": "their entry 644 gives '645 in this meaning 027r04' for 'get conceived'",
+  "evidence": "their entry 644 cites 645 at 027r04 in the sense 'conceive'",
   "gloss": "get_conceived",
   "n": 4,
   "tier": "A"
@@ -6624,7 +6624,7 @@
   "tier": "A"
  },
  "64a": {
-  "evidence": "K&T's entry 630007 'destroy, demolish' carries the expression 'expr. 218v05 WIPE OUT THE CHRIST-FAITH'. This sign is the only hole on 218v:5, and the rest of their expression -- believe, Christ -- is rendered in that same line. Their phrase, minus the part already read.",
+  "evidence": "K&T's entry 630007 'destroy, demolish' reads a phrase at 218v05 as wiping out the faith in Christ. This sign is the only hole on 218v:5, and the rest of their expression -- believe, Christ -- is rendered in that same line. Their reading, minus the part already read.",
   "gloss": "wipe_out",
   "n": 1,
   "tier": "C"
@@ -6672,7 +6672,7 @@
   "tier": "G"
  },
  "657": {
-  "evidence": "their adverb of direction entry (2c1) ends '?? 657 047v10, 11'. Two question marks of theirs",
+  "evidence": "their entry 2c1 lists 657 at 047v10 and 047v11, marked doubtful",
   "gloss": "up",
   "n": 2,
   "tier": "B"
@@ -6822,7 +6822,7 @@
   "tier": "A"
  },
  "670520ba0": {
-  "evidence": "K&T cite 010r04 twice under one entry: '110v05; 010r04; 010r04 ? SELLER OF DOVES (Lk 19, 45) or MONEY CHANGER (Mk 11, 15 etc.)' -- two codes on that line, two senses. This project already renders money changer twice in the line, so the sense left for this hole is the other one, the seller of doves whom Christ drove from the temple.",
+  "evidence": "K&T cite 010r04 twice under one entry, uncertainly, as 'seller of doves' or 'money changer' -- two codes on that line, two senses. This project already renders money changer twice in the line, so the sense left for this hole is the other one, the seller of doves whom Christ drove from the temple.",
   "gloss": "seller_of_doves",
   "n": 1,
   "tier": "C"
@@ -6846,7 +6846,7 @@
   "tier": "A"
  },
  "6707a1670": {
-  "evidence": "K&T's entry 5207a1520 reads 'II. 6707a1670 141v04, 07, 142r06 ? Rome (or ?? monastery)'. Those three citations are this sign's only three occurrences. Their question mark is theirs; the block around it is a woman who fasts, takes the host and is called sister",
+  "evidence": "K&T's entry 5207a1520 reads 6707a1670, uncertainly, as 'Rome', or more doubtfully 'monastery', citing 141v04, 141v07 and 142r06. Those three citations are this sign's only three occurrences. The doubt is theirs; the block around it is a woman who fasts, takes the host and is called sister",
   "gloss": "Rome",
   "n": 3,
   "tier": "A"
@@ -6870,13 +6870,13 @@
   "tier": "C"
  },
  "67098a": {
-  "evidence": "K&T's 670989 '?? scatter, spread' is cited by them at 111v01 and 112v07: exactly this word's two occurrences. 'the people shall go, all [scattered]' 111v:1 and 112v:7, of the Jews after the fall of Jerusalem = Luke 21:24",
+  "evidence": "K&T's 670989 'scatter, spread', marked doubtful, is cited by them at 111v01 and 112v07: exactly this word's two occurrences. 'the people shall go, all [scattered]' 111v:1 and 112v:7, of the Jews after the fall of Jerusalem = Luke 21:24",
   "gloss": "scattered",
   "n": 2,
   "tier": "A"
  },
  "670990670": {
-  "evidence": "K&T's entry 5209a3520 (2) 'will' ends its variant list '?? 670990670 140v07'. Two question marks of theirs. It occurs once, inside 521670990670 at 140v07, after 'the Lord would'",
+  "evidence": "K&T's entry 5209a3520 (2) 'will' lists 670990670 at 140v07 among its variants, marked doubtful. It occurs once, inside 521670990670 at 140v07, after 'the Lord would'",
   "gloss": "will",
   "n": 1,
   "tier": "B"
@@ -6888,13 +6888,13 @@
   "tier": "A"
  },
  "6709a3ae0": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 670060ae0, read in this project as 'chapter'. 066r:3 is a citation line. Occurrence(s): 066r:3 '[?] out(ward)-year somebody <<[x]>> <preposition_of_genitive>-Lord father-<suffix_of_divine_nam'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from 670060ae0, read in this project as 'chapter'. 066r:3 is a citation line. Occurrence(s): 066r:3 '[?] out(ward)-year somebody <<[x]>> of-Lord father-<suffix_of_divine_nam'",
   "gloss": "chapter",
   "n": 1,
   "tier": "C"
  },
  "6709c7670": {
-  "evidence": "148v:4. Király and Tokai's entry 6702c1 is one line: 'expr. 6702c1 6709c7670 148v04 ? protrude or outgrow'. They cite this exact line and the token before ours on it is 6702c1, which the page already prints as 'protrude'. So the pair is one verb and this is its second half. We had guessed 'root', because the line is the pit-and-tree parable from the Golden Legend -- 'and go two mouse one black' is the black and white mice gnawing the root -- and the root is what the mice gnaw. The scene is right; the dictionary says this word is the verb, not the root. Stays bracketed because their mark is ?.",
+  "evidence": "148v:4. Király and Tokai's entry 6702c1 reads the pair 6702c1 6709c7670 at 148v04, uncertainly, as 'protrude or outgrow'. They cite this exact line and the token before ours on it is 6702c1, which the page already prints as 'protrude'. So the pair is one verb and this is its second half. We had guessed 'root', because the line is the pit-and-tree parable from the Golden Legend -- 'and go two mouse one black' is the black and white mice gnawing the root -- and the root is what the mice gnaw. The scene is right; the dictionary says this word is the verb, not the root. Stays bracketed because their mark is ?.",
   "gloss": "outgrow",
   "n": 1,
   "tier": "G"
@@ -6954,7 +6954,7 @@
   "tier": "B"
  },
  "670ae0520850": {
-  "evidence": "K&T's exorcise sign 520ae0520850, whose entry ends 'with [this] sign 110v07 etc.', naming one of this word's lines; 670 for 520 at the head, the same swap as lame and bosom. The sense is theirs, 'exorcised the evil OUT': 'God [cast out] into Paradise, at Satan' 006v:12 and 'pass, [cast out] at Paradise' 007v:5, Adam and Eve driven out; 'the Lord [cast out] ... my house is the house of prayer' 110v:7 = Luke 19:45-46; 'they [cast out] the priests' 178v:8",
+  "evidence": "K&T's exorcise sign 520ae0520850, whose entry names 110v07, one of this word's lines; 670 for 520 at the head, the same swap as lame and bosom. The sense is theirs, 'exorcised the evil OUT': 'God [cast out] into Paradise, at Satan' 006v:12 and 'pass, [cast out] at Paradise' 007v:5, Adam and Eve driven out; 'the Lord [cast out] ... my house is the house of prayer' 110v:7 = Luke 19:45-46; 'they [cast out] the priests' 178v:8",
   "gloss": "cast out",
   "n": 6,
   "tier": "A"
@@ -6966,13 +6966,13 @@
   "tier": "A"
  },
  "670ae05a2": {
-  "evidence": "K&T's entry 520ae05a2, one glyph from this sign, cites this exact line: 'in the expression ... to the people of the temple 016v02'. 016v is Joachim dividing his substance in three portions, one of them to the temple, and the line reads 'one division, take [x], on-chapter, in turn two divisions'. Their own reading of this line.",
+  "evidence": "K&T's entry 520ae05a2, one glyph from this sign, cites this exact line, 016v02, in a phrase they read as 'to the people of the temple'. 016v is Joachim dividing his substance in three portions, one of them to the temple, and the line reads 'one division, take [x], on-chapter, in turn two divisions'. Their own reading of this line.",
   "gloss": "the_people_of_the_temple",
   "n": 1,
   "tier": "A"
  },
  "670ae0650": {
-  "evidence": "K&T's entry 520ae0650 'wine; grape' opens '[var. 520 ~ 670]' and glosses 'b) grape 140r03, 140v01'. Those two lines carry this token and no other candidate. It was being cut into their 'exist' and their numeral 'nine', which is what a general swap rule written in prose rather than as a variant code costs",
+  "evidence": "K&T's entry 520ae0650 'wine; grape' allows 670 for 520 at the head and reads 'grape' at 140r03 and 140v01. Those two lines carry this token and no other candidate. It was being cut into their 'exist' and their numeral 'nine', which is what a general swap rule written in prose rather than as a variant code costs",
   "gloss": "grape",
   "n": 2,
   "tier": "A"
@@ -7080,13 +7080,13 @@
   "tier": "A"
  },
  "681ae0540ae0": {
-  "evidence": "185v:2, the Golden Legend of the Holy Cross. The line reads 'and, of Chosroes, ___, son, from', and the story is Heraclius fighting the SON OF THE EMPEROR CHOSROES, so the slot between Chosroes and son wants the title. The sign is 681 ae0 540 ae0, and K&T's emperor, headword 520ae0520250, states the rule 'var. 520(1) ~ 540, 670, 681; 520(2) ~ 540' -- which gives 681 ae0 540 as the first three glyphs of this very word. Ours ends in their ae0 where the headword ends in 250, and their entry notes that 250 detaches as a suffix on this same folio, at 185v05 and 185v06, where it sits on 4a7250 'came' and 738250 'arrived'. Line 3 then carries the fully spelled emperor, 540ae0520250. The gloss here was 'and', which was reached after an earlier 'the son' was caught duplicating the son beside it; 'and' left the title out of a sentence that is about a title.",
+  "evidence": "185v:2, the Golden Legend of the Holy Cross. The line reads 'and, of Chosroes, ___, son, from', and the story is Heraclius fighting the SON OF THE EMPEROR CHOSROES, so the slot between Chosroes and son wants the title. The sign is 681 ae0 540 ae0, and K&T's emperor, headword 520ae0520250, allows 540, 670 or 681 for its first 520 and 540 for its second -- which gives 681 ae0 540 as the first three glyphs of this very word. Ours ends in their ae0 where the headword ends in 250, and their entry notes that 250 detaches as a suffix on this same folio, at 185v05 and 185v06, where it sits on 4a7250 'came' and 738250 'arrived'. Line 3 then carries the fully spelled emperor, 540ae0520250. The gloss here was 'and', which was reached after an earlier 'the son' was caught duplicating the son beside it; 'and' left the title out of a sentence that is about a title.",
   "gloss": "emperor",
   "n": 1,
   "tier": "G"
  },
  "681ae0681ae0": {
-  "evidence": "K&T's Adam entry (540ae0540ae0) ends its variant list '681ae0681ae0 148r03'. It stands once, at that line, where the page turns to Adam and Seth",
+  "evidence": "K&T's Adam entry (540ae0540ae0) lists 681ae0681ae0 at 148r03 among its variants. It stands once, at that line, where the page turns to Adam and Seth",
   "gloss": "Adam",
   "n": 1,
   "tier": "A"
@@ -7098,7 +7098,7 @@
   "tier": "A"
  },
  "684ae0": {
-  "evidence": "their exist entry (670ae0) ends its variant list '? 684ae0 077r08, 077v05, 08'. Their question mark",
+  "evidence": "their exist entry (670ae0) lists 684ae0 at 077r08, 077v05 and 077v08 among its variants, marked uncertain",
   "gloss": "exist",
   "n": 3,
   "tier": "B"
@@ -7116,7 +7116,7 @@
   "tier": "G"
  },
  "68aae0": {
-  "evidence": "their exist entry gives '?? 68aae0 020r03'. Two question marks of theirs",
+  "evidence": "their exist entry lists 68aae0 at 020r03, marked doubtful",
   "gloss": "exist",
   "n": 1,
   "tier": "B"
@@ -7152,7 +7152,7 @@
   "tier": "A"
  },
  "690ae0990950": {
-  "evidence": "their [human] spirit entry gives 'II. 690ae0990950 207r06, 208r07 spiritual(ly) [poor]', which is Matthew 5:3, the poor in spirit",
+  "evidence": "their spirit entry reads 690ae0990950 at 207r06 and 208r07 as 'spiritual(ly)', of the poor, which is Matthew 5:3, the poor in spirit",
   "gloss": "spiritually",
   "n": 2,
   "tier": "A"
@@ -7218,7 +7218,7 @@
   "tier": "A"
  },
  "6a0a10003a10060": {
-  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with 6a0the man-word. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 021v:12 '<<[x]>> <preposition_of_genitive>-Lord blood shed and then-exist Lord.'",
+  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with 6a0the man-word. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 021v:12 '<<[x]>> of-Lord blood shed and then-exist Lord.'",
   "gloss": "man",
   "n": 1,
   "tier": "C"
@@ -7272,7 +7272,7 @@
   "tier": "G"
  },
  "6b6": {
-  "evidence": "K&T's entry 6b5060 'pour; disperse; scatter, cover' ends 'expr. ? covered with WOUNDS 088v11'. This sign is one glyph from their code and is the only hole on 088v:11, which reads 'from HEAD until TOE [x] WOUND, Lazarus'. Their own expression, and the line says it.",
+  "evidence": "K&T's entry 6b5060 'pour; disperse; scatter, cover' reads a phrase at 088v11, uncertainly, as 'covered with wounds'. This sign is one glyph from their code and is the only hole on 088v:11, which reads 'from HEAD until TOE [x] WOUND, Lazarus'. Their own reading, and the line says it.",
   "gloss": "covered",
   "n": 1,
   "tier": "C"
@@ -7308,7 +7308,7 @@
   "tier": "G"
  },
  "6c7": {
-  "evidence": "their Pilate entry (6c7520) gives 'suff. 6c7 e.g. 040v01'",
+  "evidence": "their Pilate entry (6c7520) lists 6c7 as a suffixed form, at 040v01 among others",
   "gloss": "Pilate",
   "n": 2,
   "tier": "A"
@@ -7392,13 +7392,13 @@
   "tier": "B"
  },
  "6e9520": {
-  "evidence": "K&T's entry 540ae0520 reads '128v04; 053v10, 055v03 believe, presume'. This sign is the only hole on 055v:3, which reads 'startle because rather-Mary [x] how? ghost' -- the women at the tomb, who supposed that they saw a spirit. Their 'believe' is carried by another sign, so 'presume, suppose' is the sense left for this slot.",
+  "evidence": "K&T's entry 540ae0520 'believe, presume' cites 128v04, 053v10 and 055v03. This sign is the only hole on 055v:3, which reads 'startle because rather-Mary [x] how? ghost' -- the women at the tomb, who supposed that they saw a spirit. Their 'believe' is carried by another sign, so 'presume, suppose' is the sense left for this slot.",
   "gloss": "supposed",
   "n": 1,
   "tier": "C"
  },
  "6f15202b8": {
-  "evidence": "their pour entry gives 'expr. 6f15202b8 disperse 008r10'",
+  "evidence": "their pour entry reads 6f15202b8 as 'disperse' at 008r10",
   "gloss": "disperse",
   "n": 1,
   "tier": "A"
@@ -7428,7 +7428,7 @@
   "tier": "A"
  },
  "6f6520007": {
-  "evidence": "their '? seller of doves (Lk 19, 45) or money changer' entry lists 6f6520007 at 010r04",
+  "evidence": "their entry for 'seller of doves or money changer', marked uncertain, lists 6f6520007 at 010r04",
   "gloss": "money_changer",
   "n": 1,
   "tier": "A"
@@ -7452,7 +7452,7 @@
   "tier": "C"
  },
  "703": {
-  "evidence": "their '? <the name of the author>' entry lists 703 across folio 222v, seven times, which is where this sign stands",
+  "evidence": "their entry for what they take to be the author's name lists 703 across folio 222v, seven times, which is where this sign stands",
   "gloss": "the_name_of_the_author",
   "n": 1,
   "tier": "A"
@@ -7512,7 +7512,7 @@
   "tier": "G"
  },
  "715ae1ad3": {
-  "evidence": "their '<name of an angel> ?? Michael' entry lists 715ae1ad3 at 224r02. Two question marks of theirs",
+  "evidence": "their entry for an angel's name, doubtfully Michael, lists 715ae1ad3 at 224r02",
   "gloss": "Michael",
   "n": 1,
   "tier": "B"
@@ -7548,7 +7548,7 @@
   "tier": "G"
  },
  "719520b31af8b31670": {
-  "evidence": "their '?? bury' entry (citing the Clementine Vulgate at Lk 16:22) lists 719520b31af8b31670 at 088r08. Two question marks of theirs",
+  "evidence": "their entry for 'bury', marked doubtful and tied to the Vulgate of Luke 16, lists 719520b31af8b31670 at 088r08",
   "gloss": "bury",
   "n": 1,
   "tier": "B"
@@ -7626,7 +7626,7 @@
   "tier": "G"
  },
  "738250": {
-  "evidence": "K&T's entry 738 reads '185v06 ? arrive'. This sign stands at 185v:6, OPENS with their 738, and the line reads 'ARMY and then [x] JERUSALEM and to the GATE of God' -- Heraclius coming to the gate of Jerusalem. Their own entry, their own cited line.",
+  "evidence": "K&T's entry 738 reads 'arrive' at 185v06, marked uncertain. This sign stands at 185v:6, OPENS with their 738, and the line reads 'ARMY and then [x] JERUSALEM and to the GATE of God' -- Heraclius coming to the gate of Jerusalem. Their own entry, their own cited line.",
   "gloss": "arrived",
   "n": 1,
   "tier": "A"
@@ -7662,7 +7662,7 @@
   "tier": "G"
  },
  "745": {
-  "evidence": "K&T's entry a10645 'bow down; fall down' opens '[var. 022r03]'. This sign is the only hole on 022r:3. Their own named variant line.",
+  "evidence": "K&T's entry a10645 'bow down; fall down' names a variant at 022r03. This sign is the only hole on 022r:3. Their own named variant line.",
   "gloss": "fall_down",
   "n": 1,
   "tier": "C"
@@ -7776,7 +7776,7 @@
   "tier": "G"
  },
  "775520": {
-  "evidence": "K&T's basket entry (774520) reads '774520 213r07; 775520 213r09; 761ae0 108v08 [food holder] basket, bushel'. 213r:9 is the feeding of the five thousand: 'the apostles carried twelve baskets, filled'. This line was picked out as a test of whether a one-hole line can be guessed: basket was the guess, and their apparatus turned out to name it at this exact line",
+  "evidence": "K&T's basket entry (774520) lists this spelling, 775520, at 213r09. 213r:9 is the feeding of the five thousand: 'the apostles carried twelve baskets, filled'. This line was picked out as a test of whether a one-hole line can be guessed: basket was the guess, and their entry turned out to name it at this exact line",
   "gloss": "basket",
   "n": 1,
   "tier": "A"
@@ -7866,7 +7866,7 @@
   "tier": "C"
  },
  "796a10003a10320": {
-  "evidence": "their be damned entry (520320) gives '796a10003a10320 dead 191v03, 193r09'",
+  "evidence": "their entry 520320 ('be damned') reads 796a10003a10320 as 'dead' at 191v03 and 193r09",
   "gloss": "dead",
   "n": 2,
   "tier": "A"
@@ -7962,13 +7962,13 @@
   "tier": "D"
  },
  "7a2969ae0": {
-  "evidence": "006v:8 'one [x] and then Seth exist go this <someone Seth meets>'; Seth is on the road to Paradise.",
+  "evidence": "006v:8 'one [x] and then Seth exist go this NAME'; Seth is on the road to Paradise.",
   "gloss": "road",
   "n": 1,
   "tier": "G"
  },
  "7a2ae06906906907b0": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. It is one glyph from K&T's 7a0ae06906906907b0, which they gloss as 'the name of the centurion in Capharnaum'. 022v:12: 'there was [x], in turn six, two, can show the Lord Jesus'. Douay Matthew 8:5: 'And when he had entered into Capharnaum, there came to him a CENTURION, beseeching him.' Occurrence(s): 022v:12 'exist <<[x]>> in_turn-six-two can show Lord-Jézus'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. It is one glyph from K&T's 7a0ae06906906907b0, which they take for the name of the centurion at Capharnaum. 022v:12: 'there was [x], in turn six, two, can show the Lord Jesus'. Douay Matthew 8:5: 'And when he had entered into Capharnaum, there came to him a CENTURION, beseeching him.' Occurrence(s): 022v:12 'exist <<[x]>> in_turn-six-two can show Lord-Jézus'",
   "gloss": "the_centurion",
   "n": 1,
   "tier": "B"
@@ -7986,7 +7986,7 @@
   "tier": "G"
  },
  "7a3520b7a": {
-  "evidence": "Found by ktinside.py --rev. This sign ends with 520b7a, which K&T read as 'apostate; believe; believer; clothes; faith; faithful', leaving 7a3_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. K&T's word carries both the believing and the believer; 110r:2-3 has 'believe' twice on the lines around it. Occurrence(s): 110r:2 '?believe who this <<[x]>> +say-somebody apostle <preposition_of_genitive>'; 110r:3 'Lord say and who this-Lord preach and this <<[x]>>'",
+  "evidence": "Found by ktinside.py --rev. This sign ends with 520b7a, which K&T read as 'apostate; believe; believer; clothes; faith; faithful', leaving 7a3_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. K&T's word carries both the believing and the believer; 110r:2-3 has 'believe' twice on the lines around it. Occurrence(s): 110r:2 '?believe who this <<[x]>> +say-somebody apostle of'; 110r:3 'Lord say and who this-Lord preach and this <<[x]>>'",
   "gloss": "faith",
   "n": 2,
   "tier": "C"
@@ -8034,7 +8034,7 @@
   "tier": "A"
  },
  "7b2": {
-  "evidence": "RESTORED AND CORRECTED 2026-09-21 from 'son', the same day it was withdrawn. The withdrawal was right -- its evidence was inheritance from 7b2670ae0520 'sons', which is SHEPHERD -- but the right word was already in K&T's apparatus and was missed. Their relative-pronoun entry heads '7a0, 7a0910, 7a0670ae0 [var. 7a0 ~ 7b2, 7b3, 7c1, 850] ... relative pronoun WHO'. 7b2 is their own listed variant of it. The list is independently confirmed twice over from inside this project: 850 is already read 'who' off that same line of their entry, and 7c1 carries their second sense, the verb 'love', which is what makes 9107c1 'be loved'. Tier C and no higher, for two reasons stated rather than hidden. It has one occurrence, 170v:2, 'there was inside the temple, Jesus went, and saw [who] much joy', which is consistent with a relative pronoun but does not prove one. And 7b2 also opens 7b2670ae0520 'shepherd', as 7b3 opens 7b3670ae0520 'the shepherds', so in those compounds it is not the pronoun -- either a homograph or an atom that does not decompose. Do not read the pronoun into the shepherd words. Withdrawal record it replaces: {\"evidence\": \"WITHDRAWN 2026-09-21 by ktharden.py, for the same reason as 5202da and on the same day. Its entire evidence was 'the stem of 7b2670ae0520 already read as sons'. That sign was corrected to SHEPHERD on Luke 19... on John 10:11-16, so the basis is gone. This is the inheritance mistake METHOD.md names as the costliest in the Rohonc work, and it has",
+  "evidence": "RESTORED AND CORRECTED 2026-09-21 from 'son', the same day it was withdrawn. The withdrawal was right -- its evidence was inheritance from 7b2670ae0520 'sons', which is SHEPHERD -- but the right word was already in K&T's apparatus and was missed. Their entry for 'who' (7a0) lists 7b2, 7b3, 7c1 and 850 among its variant spellings. 7b2 is their own listed variant of it. The list is independently confirmed twice over from inside this project: 850 is already read 'who' off that same line of their entry, and 7c1 carries their second sense, the verb 'love', which is what makes 9107c1 'be loved'. Tier C and no higher, for two reasons stated rather than hidden. It has one occurrence, 170v:2, 'there was inside the temple, Jesus went, and saw [who] much joy', which is consistent with a relative pronoun but does not prove one. And 7b2 also opens 7b2670ae0520 'shepherd', as 7b3 opens 7b3670ae0520 'the shepherds', so in those compounds it is not the pronoun -- either a homograph or an atom that does not decompose. Do not read the pronoun into the shepherd words. Withdrawal record it replaces: {\"evidence\": \"WITHDRAWN 2026-09-21 by ktharden.py, for the same reason as 5202da and on the same day. Its entire evidence was 'the stem of 7b2670ae0520 already read as sons'. That sign was corrected to SHEPHERD on Luke 19... on John 10:11-16, so the basis is gone. This is the inheritance mistake METHOD.md names as the costliest in the Rohonc work, and it has",
   "gloss": "who",
   "n": 1,
   "tier": "C"
@@ -8058,13 +8058,13 @@
   "tier": "B"
  },
  "7b423c": {
-  "evidence": "K&T's entry 23c520ae0520 reads '022v03, 162v04, 163r08, 189v02 Nain [town]', and their entry 870 translates this very line: 'in the town of Nain he healed the son of a widow 022v03-04'. This sign is their 7b4 'in, inside' joined to their 23c, and it stands at 022v:3. Proved by K&T citation.",
+  "evidence": "K&T's entry 23c520ae0520 'Nain' cites 022v03 among others, and their entry 870 reads this very line, 022v03-04, as the raising of the widow's son at Nain. This sign is their 7b4 'in, inside' joined to their 23c, and it stands at 022v:3. Proved by K&T citation.",
   "gloss": "in_Nain",
   "n": 1,
   "tier": "A"
  },
  "7b4362520151343": {
-  "evidence": "their Nazareth entry ends '?? 7b4362520151343 034v04'. Two question marks of theirs",
+  "evidence": "their Nazareth entry lists 7b4362520151343 at 034v04, marked doubtful",
   "gloss": "Nazareth",
   "n": 1,
   "tier": "B"
@@ -8082,7 +8082,7 @@
   "tier": "G"
  },
  "7ba": {
-  "evidence": "their water entry gives '? 7ba 201r09'. Their question mark",
+  "evidence": "their water entry lists 7ba at 201r09, marked uncertain",
   "gloss": "water",
   "n": 1,
   "tier": "B"
@@ -8148,7 +8148,7 @@
   "tier": "A"
  },
  "7e1acd": {
-  "evidence": "their apostle entry (7e1) gives 'expr. 7e1acd 076r01, 077r03, 079r03, 084v14, 127v08 apostolic letter'. Five citations for five occurrences",
+  "evidence": "their apostle entry (7e1) reads 7e1acd as 'apostolic letter' and cites 076r01, 077r03, 079r03, 084v14 and 127v08. Five citations for five occurrences",
   "gloss": "apostolic_letter",
   "n": 5,
   "tier": "A"
@@ -8178,7 +8178,7 @@
   "tier": "A"
  },
  "7f2": {
-  "evidence": "their news, gospel entry gives '? 7f2 075r02'. Their question mark",
+  "evidence": "their entry for 'news, gospel' lists 7f2 at 075r02, marked uncertain",
   "gloss": "good_news",
   "n": 1,
   "tier": "B"
@@ -8220,7 +8220,7 @@
   "tier": "G"
  },
  "8010f4": {
-  "evidence": "their news, gospel entry ends '?? 8010f4 086v01, 03'. Two question marks of theirs",
+  "evidence": "their entry for 'news, gospel' lists 8010f4 at 086v01 and 086v03, marked doubtful",
   "gloss": "good_news",
   "n": 2,
   "tier": "B"
@@ -8280,7 +8280,7 @@
   "tier": "A"
  },
  "8128b0ae0": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 812670ae0 'town'. Occurrence(s): 046r:6 '[?] <<[x]>> [?] each,_every <preposition_of_genitive>-Lord holy-nine-+name'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 812670ae0 'town'. Occurrence(s): 046r:6 '[?] <<[x]>> [?] each,_every of-Lord holy-nine-+name'",
   "gloss": "town",
   "n": 1,
   "tier": "C"
@@ -8340,7 +8340,7 @@
   "tier": "G"
  },
  "830520060510520": {
-  "evidence": "K&T's entry 830520060511520 reads '073r05 not ill'. This sign is one glyph from theirs and stands at 073r:5, the line they cite. Their own reading of this line.",
+  "evidence": "K&T's entry 830520060511520 reads 'not ill' at 073r05. This sign is one glyph from theirs and stands at 073r:5, the line they cite. Their own reading of this line.",
   "gloss": "not_ill",
   "n": 1,
   "tier": "A"
@@ -8412,7 +8412,7 @@
   "tier": "G"
  },
  "850": {
-  "evidence": "their relative pronoun entry heads '7a0, 7a0910, 7a0670ae0 [var. 7a0 ~ 7b2, 7b3, 7c1, 850] ... relative pronoun who'. All five occurrences take it: 'the sword [wherewith] he would slay Isaac' 005r:7, 'the church father [who] speaks of the happy virgin Mary' 138v:2. This glyph sits inside 73 other words and 698 tokens, so a wrong gloss here would travel; it is graded B for that reason as much as for the missing line citations",
+  "evidence": "their entry for 'who' (7a0) lists 850 among its variant spellings. All five occurrences take it: 'the sword [wherewith] he would slay Isaac' 005r:7, 'the church father [who] speaks of the happy virgin Mary' 138v:2. This glyph sits inside 73 other words and 698 tokens, so a wrong gloss here would travel; it is graded B for that reason as much as for the missing line citations",
   "gloss": "who",
   "n": 5,
   "tier": "B"
@@ -8430,7 +8430,7 @@
   "tier": "G"
  },
  "870607034097": {
-  "evidence": "The sign opens with K&T's 870 'virgin' and their 607 'Mary'. Their entry 390a10ae0 'happy, blessed; Blessed Virgin Mary' flags this exact line, '(de + 018r08!)', and the line reads 'of the Lord, the angel Gabriel, inside chapter, to-happy [x]' -- blessed, then the name. The tail 034097 is unread and recurs at 017r:3 and 017r:4, so it is probably a suffix; that is why this is C and not A.",
+  "evidence": "The sign opens with K&T's 870 'virgin' and their 607 'Mary'. Their entry 390a10ae0 'happy, blessed; Blessed Virgin Mary' draws attention to this exact line, 018r08, and the line reads 'of the Lord, the angel Gabriel, inside chapter, to-happy [x]' -- blessed, then the name. The tail 034097 is unread and recurs at 017r:3 and 017r:4, so it is probably a suffix; that is why this is C and not A.",
   "gloss": "the_Virgin_Mary",
   "n": 1,
   "tier": "C"
@@ -8442,19 +8442,19 @@
   "tier": "G"
  },
  "8711525203262c0": {
-  "evidence": "K&T's entry 1525203232c0, '<epithet of St. Joseph>, ? very old', opens '[var. 021v06, 08, 14]'. This sign stands at 021v:6, is one glyph from their code with their 871 'holy' in front, and the word immediately after it in the line is Joseph. Proved by K&T citation.",
+  "evidence": "K&T's entry 1525203232c0, a title of St Joseph, perhaps 'very old', names variants at 021v06, 021v08 and 021v14. This sign stands at 021v:6, is one glyph from their code with their 871 'holy' in front, and the word immediately after it in the line is Joseph. Proved by K&T citation.",
   "gloss": "the_aged",
   "n": 1,
   "tier": "A"
  },
  "87127c": {
-  "evidence": "K&T's entry 27b, '[Saint] Anne, mother of the Virgin Mary', opens '[var. 026v14]' -- they name this folio and line as carrying a variant spelling. This sign stands at 026v:14 and is their 871 'holy, saint' plus a form one glyph from their 27b. Proved by K&T citation.",
+  "evidence": "K&T's entry 27b, 'Saint Anne', names 026v14 -- this folio and line as carrying a variant spelling. This sign stands at 026v:14 and is their 871 'holy, saint' plus a form one glyph from their 27b. Proved by K&T citation.",
   "gloss": "holy_Anne",
   "n": 1,
   "tier": "A"
  },
  "8714162848c0520": {
-  "evidence": "K&T's entry 1522818c0520 reads '035r09, 055r04; 033r06; 084v14 [apostle] JAMES'. This sign stands at 084v:14, ends in their 8c0520, and carries their 871 'holy' in front; the line reads 'amen, speak [x], APOSTOLIC LETTER'. The epistle of James, and the very next folio, 085r:2, is this project's own citation of James 2:10. Proved by K&T citation.",
+  "evidence": "K&T's entry 1522818c0520, the apostle James, cites 084v14 among others. This sign stands at 084v:14, ends in their 8c0520, and carries their 871 'holy' in front; the line reads 'amen, speak [x], APOSTOLIC LETTER'. The epistle of James, and the very next folio, 085r:2, is this project's own citation of James 2:10. Proved by K&T citation.",
   "gloss": "holy_James",
   "n": 1,
   "tier": "A"
@@ -8466,13 +8466,13 @@
   "tier": "A"
  },
  "8715202c0786": {
-  "evidence": "holy (871) + K&T's '<name of a church father>' stem 2c0786, whose entry (6702c0786) cites 103v07, this word's only line: 'says [Saint N.] the scribe' 103v:7. Which father is not recoverable from the sign",
+  "evidence": "holy (871) + the stem 2c0786, which K&T take for a church father's name, whose entry (6702c0786) cites 103v07, this word's only line: 'says [Saint N.] the scribe' 103v:7. Which father is not recoverable from the sign",
   "gloss": "Saint [a church father]",
   "n": 1,
   "tier": "B"
  },
  "8716700600607f0": {
-  "evidence": "Király & Tokai's entry for Mark the evangelist lists a variant spelling and cites the folio and line for it: '6700600607f0 072r03'. This sign IS that spelling with their 871 'holy, saint' in front, and it stands at 072r:3. Their own dictionary names it. It was missed because the variant reader keys on the headword and this form carries a prefix.",
+  "evidence": "Király & Tokai's entry for Mark the evangelist lists a variant spelling and cites the folio and line for it: 6700600607f0 at 072r03. This sign IS that spelling with their 871 'holy, saint' in front, and it stands at 072r:3. Their own dictionary names it. It was missed because the variant reader keys on the headword and this form carries a prefix.",
   "gloss": "holy_Mark",
   "n": 1,
   "tier": "A"
@@ -8640,7 +8640,7 @@
   "tier": "G"
  },
  "8b1520b7a": {
-  "evidence": "Found by ktinside.py --rev. This sign ends with 520b7a, which K&T read as 'apostate; believe; believer; clothes; faith; faithful', leaving 8b1_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 109r:4 'leave-leave a) <<[x]>> this-Lord you remit-Lord'",
+  "evidence": "Found by ktinside.py --rev. This sign ends with 520b7a, which K&T read as 'apostate; believe; believer; clothes; faith; faithful', leaving 8b1_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 109r:4 'leave-leave but <<[x]>> this-Lord you remit-Lord'",
   "gloss": "believe",
   "n": 1,
   "tier": "C"
@@ -8664,7 +8664,7 @@
   "tier": "G"
  },
  "8b7": {
-  "evidence": "their news, gospel entry gives '?? 8b7 150r04'. Two question marks of theirs",
+  "evidence": "their entry for 'news, gospel' lists 8b7 at 150r04, marked doubtful",
   "gloss": "good_news",
   "n": 1,
   "tier": "B"
@@ -8706,7 +8706,7 @@
   "tier": "A"
  },
  "8c6": {
-  "evidence": "K&T's entry 990060 reads '030v07 (2x), 095v01 (2x), 133v04, 063r01, 02 (2x); 010v07 CUP or JAR'. This sign is the only hole on 010v:7, the line they cite, and no cup is rendered there.",
+  "evidence": "K&T's entry 990060 'cup or jar' cites 010v07 among others. This sign is the only hole on 010v:7, the line they cite, and no cup is rendered there.",
   "gloss": "cup",
   "n": 1,
   "tier": "C"
@@ -8820,7 +8820,7 @@
   "tier": "A"
  },
  "9107c1": {
-  "evidence": "RESTORED AND CORRECTED 2026-09-21, same day it was withdrawn as 'with all thy heart'. It is a composition of two of K&T's own entries: 910 '?? particle of topicalization or passive voice' and 7c1 (1) 'verb, love'. 910+7c1 is the passive of love -- BE LOVED, the doxology's 'praised be'. The old gloss came from reading their EXAMPLE instead of their headword: K&T illustrate 7c1 with 'love the Lord, the High, Creator of all [with] all your soul, all your heart, all your strength', and 'all thy heart' was lifted out of that sentence while the headword LOVE was left behind. METHOD.md already warns to read the whole entry and not just the headword; this is the same fault from the other end. Tier A on the formula: 'end of this holy gospel. Lord God [be loved].' closes a reading fourteen times (010v:5, 092v:4, 098v:6, 170r:6, 172v:3, 177v:2, 202v:6, 205v:2, 209v:6, 211v:4, 213v:5 and more), twice after 'amen' (154v:3, 158v:5), and 162v:9 closes a trinitarian doxology, 'Father God, Son, God, Jesus, Holy Spirit, Lord God [be loved]'. 191v:4 settles it: 'Lord in heaven ... Lord [be loved], Lord God [be loved], pleasing, and thanks.' 182r:1 and 208r:1, the two that refused 'Almighty' when it was tested, read correctly here -- the doxology closes the previous reading and the next one opens on the same line, at Mark 16:14's upbraiding and at Zacchaeus. All 19 occurrences hold. Withdrawal record it replaces: {\"evidence\": \"WITHDRAWN 2026-09-21 by ktharden.py. Read 'with all thy heart' from 075v:6, 'the Lord: love the Lord God [x]', taken for Deuteronomy 6:5. That folio does not cite Deuteronomy; it cites Acts 1:11, the Ascension. Read at all 19 occurrences the sign is not a phrase from the Shema at all -- it is a fixed slot in the CLOSING FORMULA of a reading. Fourteen of the nineteen run 'end of this ",
+  "evidence": "RESTORED AND CORRECTED 2026-09-21, same day it was withdrawn as 'with all thy heart'. It is a composition of two of K&T's own entries: 910, a particle they take, doubtfully, to mark the passive, and 7c1 (1), the verb 'love'. 910+7c1 is the passive of love -- BE LOVED, the doxology's 'praised be'. The old gloss came from reading their EXAMPLE instead of their headword: K&T illustrate 7c1 with the great commandment, to love God with all your soul, heart and strength, and 'all thy heart' was lifted out of that example while the headword LOVE was left behind. METHOD.md already warns to read the whole entry and not just the headword; this is the same fault from the other end. Tier A on the formula: 'end of this holy gospel. Lord God [be loved].' closes a reading fourteen times (010v:5, 092v:4, 098v:6, 170r:6, 172v:3, 177v:2, 202v:6, 205v:2, 209v:6, 211v:4, 213v:5 and more), twice after 'amen' (154v:3, 158v:5), and 162v:9 closes a trinitarian doxology, 'Father God, Son, God, Jesus, Holy Spirit, Lord God [be loved]'. 191v:4 settles it: 'Lord in heaven ... Lord [be loved], Lord God [be loved], pleasing, and thanks.' 182r:1 and 208r:1, the two that refused 'Almighty' when it was tested, read correctly here -- the doxology closes the previous reading and the next one opens on the same line, at Mark 16:14's upbraiding and at Zacchaeus. All 19 occurrences hold. Withdrawal record it replaces: {\"evidence\": \"WITHDRAWN 2026-09-21 by ktharden.py. Read 'with all thy heart' from 075v:6, 'the Lord: love the Lord God [x]', taken for Deuteronomy 6:5. That folio does not cite Deuteronomy; it cites Acts 1:11, the Ascension. Read at all 19 occurrences the sign is not a phrase from the Shema at all -- it is a fixed slot in the CLOSING FORMULA of a reading. Fourteen of the nineteen run 'end of this ",
   "gloss": "be_loved",
   "n": 19,
   "tier": "A"
@@ -8856,7 +8856,7 @@
   "tier": "G"
  },
  "924": {
-  "evidence": "K&T's entry 520b06 'be born; birth' cites 'e. g. 004r11'. This sign is the only hole on 004r:11 and nothing in that line is rendered 'born', though their other cited word for the line, 8c0 'Lord God', IS rendered there. NAMED RISK: their code and this sign do not resemble each other, so this rests on the line citation alone.",
+  "evidence": "K&T's entry 520b06 'be born; birth' cites 004r11. This sign is the only hole on 004r:11 and nothing in that line is rendered 'born', though their other cited word for the line, 8c0 'Lord God', IS rendered there. NAMED RISK: their code and this sign do not resemble each other, so this rests on the line citation alone.",
   "gloss": "be_born",
   "n": 1,
   "tier": "C"
@@ -9060,7 +9060,7 @@
   "tier": "C"
  },
  "991b04": {
-  "evidence": "their concessive conjunction entry gives 'in ligatures 991b04 185v09'",
+  "evidence": "their entry 991ae0 lists 991b04 at 185v09, written joined to its neighbour",
   "gloss": "but",
   "n": 1,
   "tier": "A"
@@ -9144,7 +9144,7 @@
   "tier": "G"
  },
  "9b9ae0a10003a10060": {
-  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with 9b9ae0the man-word. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 167v:1 'sense manage and then-exist +<subject_marker> ~begin <<[x]>> and then'",
+  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with 9b9ae0the man-word. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 167v:1 'sense manage and then-exist +SUBJ ~begin <<[x]>> and then'",
   "gloss": "man",
   "n": 1,
   "tier": "C"
@@ -9198,7 +9198,7 @@
   "tier": "B"
  },
  "9d9": {
-  "evidence": "175r:1. Király and Tokai have a headword written as two codes, a10 9d9, cited at 175r01, 207r02 and 207r08, glossed '?? extort, extorter'. The token before ours on this line is a10, so their whole headword is on the page and our half of it carries the sense. We read 'extort' from Matthew 25:28 on the folio note -- 'take ye away therefore the talent from him' -- and they read the same word. Two readings arriving at the same place from different directions. It stays bracketed because their own mark is ??.",
+  "evidence": "175r:1. Király and Tokai have a headword written as two codes, a10 9d9, cited at 175r01, 207r02 and 207r08, read, doubtfully, as 'extort, extorter'. The token before ours on this line is a10, so their whole headword is on the page and our half of it carries the sense. We read 'extort' from Matthew 25:28 on the folio note -- 'take ye away therefore the talent from him' -- and they read the same word. Two readings arriving at the same place from different directions. It stays bracketed because their own mark is ??.",
   "gloss": "extort",
   "n": 1,
   "tier": "G"
@@ -9216,7 +9216,7 @@
   "tier": "A"
  },
  "9e3520b7a": {
-  "evidence": "Found by ktinside.py --rev. This sign ends with 520b7a, which K&T read as 'apostate; believe; believer; clothes; faith; faithful', leaving 9e3_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. The folio is the ten lepers. Douay Luke 17:19: 'Arise, go thy way; for thy FAITH hath made thee whole' -- and the line has the ten and the one returning. Occurrence(s): 179r:7 'Jew(ish) in_turn ten somebody <<[x]>> a) +return'",
+  "evidence": "Found by ktinside.py --rev. This sign ends with 520b7a, which K&T read as 'apostate; believe; believer; clothes; faith; faithful', leaving 9e3_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. The folio is the ten lepers. Douay Luke 17:19: 'Arise, go thy way; for thy FAITH hath made thee whole' -- and the line has the ten and the one returning. Occurrence(s): 179r:7 'Jew(ish) in_turn ten somebody <<[x]>> but +return'",
   "gloss": "faith",
   "n": 1,
   "tier": "C"
@@ -9283,31 +9283,31 @@
   "tier": "withdrawn"
  },
  "_withdrawn_5203f0": {
-  "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read 'blind' on K&T's own hedge: their entry for the DOUBLED sign 5203f05203f0 carries 'suff? 5203f0 088r02'. But they gloss that doubled sign “pious poor” / pious beggar, not blind, so the root their citation points at is not the root this reading assumed. It fails at two occurrences and neither is arguable. 036v:3 'Lord Jesus, Peter, Peter [x], cut off, sword' is John 18:10 with Luke 22:51, and 036v:2 names Malchus in the line above: the thing Peter cut off with the sword is an ear, and there is no blindness in the passage. 088r:2 'or sat and [x], and asked' is the beggar of Luke 16:20 sitting and begging -- and 088r:1, the line above, ALREADY renders 'blind' from a different sign, so the slot is taken on that folio. NO REPLACEMENT IS ENTERED. Three candidates were tested and each fails elsewhere: 'poor' reads 088r:2 and Luke 7:22's 'to the poor the gospel is preached' at 102r:9, but 089v:11 is the RICH man lifting up his eyes, not the poor one; 'ear' reads 036v:3 exactly but not 088r:2; 'deaf' reads the miracle list at 102r:9 but nothing else. A word here must serve Malchus, the beggar and the miracle list at once and none of the three does. Prior gloss and evidence: {\"evidence\": \"their blind entry (5203f05203f0) gives 'suff? 5203f0 088r02'. Their question mark, one citation of seven occurrences\", \"gloss\": \"blind\", \"n\": 7, \"tier\": \"C\"}",
+  "evidence": "WITHDRAWN 2026-09-21 by ktharden.py. Read 'blind' on K&T's own hedge: their entry for the DOUBLED sign 5203f05203f0 lists 5203f0 at 088r02 as a possibly suffixed form. But they gloss that doubled sign “pious poor” / pious beggar, not blind, so the root their citation points at is not the root this reading assumed. It fails at two occurrences and neither is arguable. 036v:3 'Lord Jesus, Peter, Peter [x], cut off, sword' is John 18:10 with Luke 22:51, and 036v:2 names Malchus in the line above: the thing Peter cut off with the sword is an ear, and there is no blindness in the passage. 088r:2 'or sat and [x], and asked' is the beggar of Luke 16:20 sitting and begging -- and 088r:1, the line above, ALREADY renders 'blind' from a different sign, so the slot is taken on that folio. NO REPLACEMENT IS ENTERED. Three candidates were tested and each fails elsewhere: 'poor' reads 088r:2 and Luke 7:22's 'to the poor the gospel is preached' at 102r:9, but 089v:11 is the RICH man lifting up his eyes, not the poor one; 'ear' reads 036v:3 exactly but not 088r:2; 'deaf' reads the miracle list at 102r:9 but nothing else. A word here must serve Malchus, the beggar and the miracle list at once and none of the three does. Prior gloss and evidence: {\"evidence\": \"their blind entry (5203f05203f0) lists 5203f0 at 088r02 as a possibly suffixed form, marked uncertain, one citation of seven occurrences\", \"gloss\": \"blind\", \"n\": 7, \"tier\": \"C\"}",
   "gloss": "_withdrawn_",
   "n": 7,
   "tier": "withdrawn"
  },
  "_withdrawn_520ae0520ae0a101f6": {
-  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word, BODY. Their headword 520 ae0 520 ae0 520 1f6 'body' states the rule '[var. 520 ~ 540, 670, a10]' and warns 'but cp.' against confusing it with the eight-glyph 080 520 ae0 520 ae0 520 ae0 1f6, which is NAME. Ours is the six-glyph one with the third 520 written a10, so it is the body word. Their example for it is 'who eat my body and drink my blood', 075r07-09, and three of our seven lines are that same eucharistic sentence: 030v:11 and 095v:5 and 095v:11 all read 'the Lord's ___ to eat, and somebody, this bread' on folios citing John 6:52, 'How can this man give us his flesh to eat?'. The reading here was 'shall be called', taken from 018v:2 alone. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'shall be called' -- 'this maiden shall conceive a son, and the son [shall be called] Jesus' 018v:2",
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word, BODY. Their headword 520 ae0 520 ae0 520 1f6 'body' allows 540, 670 or a10 for 520 and warns against confusing it with the eight-glyph 080 520 ae0 520 ae0 520 ae0 1f6, which is NAME. Ours is the six-glyph one with the third 520 written a10, so it is the body word. Their example for it is 'who eat my body and drink my blood', 075r07-09, and three of our seven lines are that same eucharistic sentence: 030v:11 and 095v:5 and 095v:11 all read 'the Lord's ___ to eat, and somebody, this bread' on folios citing John 6:52, 'How can this man give us his flesh to eat?'. The reading here was 'shall be called', taken from 018v:2 alone. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'shall be called' -- 'this maiden shall conceive a son, and the son [shall be called] Jesus' 018v:2",
   "gloss": "_withdrawn_",
   "n": 7,
   "tier": "withdrawn"
  },
  "_withdrawn_520ae0850270ae0": {
-  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word and it does not mean this. Their headword 670ae0850270ae0 'do, make; deed, act' opens '[var. 670 ~ 520]', a substitution rule rather than a list, and our variant apparatus could only read listed codes, so this spelling went unread and was guessed at here. Their entry then uses this very spelling in its own example: 'expr. 520b56 520ae0850270ae0 DO A WONDER e. g. 022r11'. 022r:11 is one of our own 34 lines, and it reads 'and this miracle ___ the eye of the blind' -- he DID a miracle. So do 005v:5 and 019r:1, 'many miracles ___'. The reading here was 'afterward', taken from its position at the head of clauses, and it was wrong in all 34 places. Now read from their dictionary through the substitution rule, which ktvariant.by_rule() was written to follow.  Prior gloss and evidence: 'afterward' -- sentence-initial or after a clause throughout: '[afterward] David the king humbled himself' 015r:1; 'many miracles [afterward]' 005v:5; 'a second time the Lord [afterward] went into the house' 046v:5, 047r:1",
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word and it does not mean this. Their headword 670ae0850270ae0 'do, make; deed, act' allows 520 for 670, a substitution rule rather than a list, and our variant apparatus could only read listed codes, so this spelling went unread and was guessed at here. Their entry then uses this very spelling in its own example, reading 520b56 520ae0850270ae0 as 'do a wonder' at 022r11. 022r:11 is one of our own 34 lines, and it reads 'and this miracle ___ the eye of the blind' -- he DID a miracle. So do 005v:5 and 019r:1, 'many miracles ___'. The reading here was 'afterward', taken from its position at the head of clauses, and it was wrong in all 34 places. Now read from their dictionary through the substitution rule, which ktvariant.by_rule() was written to follow.  Prior gloss and evidence: 'afterward' -- sentence-initial or after a clause throughout: '[afterward] David the king humbled himself' 015r:1; 'many miracles [afterward]' 005v:5; 'a second time the Lord [afterward] went into the house' 046v:5, 047r:1",
   "gloss": "_withdrawn_",
   "n": 35,
   "tier": "withdrawn"
  },
  "_withdrawn_531ae0": {
-  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word. Their entry for 670ae0, the copula 'exist, there is', lists 531ae0 by name among its variant spellings with the note '(60x) e. g. 126v03'. It was read here as 'therefore' in all 54 places, which is what a copula standing at the head of a clause looks like when you do not know it is the copula. Our variant loader never reached it: it read only the first three fragments after their 'var.' mark and this spelling is the seventh in the list. declared_full() in ktvariant.py now walks the whole bracket, and the sign reads from their dictionary.  Prior gloss and evidence: 'therefore' -- a clause connective in all 54 places: therefore we believe 131v:6, therefore we shall be saved 139v:3, Enoch the prophet and Moses therefore said 215v:8, and 531370 is it plus sake. The connective role is certain from position; the exact value is not, and thus or so fit the same slots DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word. Their entry for 670ae0, the copula 'exist, there is', lists 531ae0 by name among its variant spellings and counts it sixty times. It was read here as 'therefore' in all 54 places, which is what a copula standing at the head of a clause looks like when you do not know it is the copula. Our variant loader never reached it: it read only the first three fragments in their variant list and this spelling is the seventh in the list. declared_full() in ktvariant.py now walks the whole bracket, and the sign reads from their dictionary.  Prior gloss and evidence: 'therefore' -- a clause connective in all 54 places: therefore we believe 131v:6, therefore we shall be saved 139v:3, Enoch the prophet and Moses therefore said 215v:8, and 531370 is it plus sake. The connective role is certain from position; the exact value is not, and thus or so fit the same slots DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "_withdrawn_",
   "n": 54,
   "tier": "withdrawn"
  },
  "_withdrawn_540": {
-  "evidence": "WITHDRAWN 2026-09-20. Its evidence was an inference, not a reading: Király & Tokai gloss the DOUBLED sign as a future auxiliary, and the single sign was assumed to carry the same. It has only 4 occurrences of its own but entered the cut of 55 other words, 99 tokens, and most of those read as nonsense: shall-slide seven times, shall-day-one-daily four times, and at 063r:4 shall-day-today's where the word is plainly the daily bread of the Emmaus meal, the same word the codex uses in the Our Father. One cut was right, 540796 thou shalt die at 003r:6, and it is kept as a whole word. Where a rendering makes no sense it is more likely a wrong reading than a strange text.",
+  "evidence": "WITHDRAWN 2026-09-20. Its evidence was an inference, not a reading: Király & Tokai read the DOUBLED sign as marking the future, and the single sign was assumed to carry the same. It has only 4 occurrences of its own but entered the cut of 55 other words, 99 tokens, and most of those read as nonsense: shall-slide seven times, shall-day-one-daily four times, and at 063r:4 shall-day-today's where the word is plainly the daily bread of the Emmaus meal, the same word the codex uses in the Our Father. One cut was right, 540796 thou shalt die at 003r:6, and it is kept as a whole word. Where a rendering makes no sense it is more likely a wrong reading than a strange text.",
   "gloss": "shall",
   "n": 4,
   "tier": "withdrawn"
@@ -9319,7 +9319,7 @@
   "tier": "withdrawn"
  },
  "_withdrawn_540ae0850270ae0": {
-  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word. Their entry for 670ae0850270ae0 'do, make; deed, act' lists this spelling by name, 540ae0850270ae0, cited at 048r05, 051rc1:03, 054r08, 063v08 and 070r01. It was read here as 'afterward' on the strength of 520ae0850270ae0, which was itself withdrawn today as their DO. Our variant loader had never reached it: it read only the first three fragments after their 'var.' mark and this is the fourth spelling in the list. declared_full() in ktvariant.py now walks the whole bracket.  Prior gloss and evidence: 'afterward' -- the same shape as 520ae0850270ae0 already read as afterward, in the same narrative slot: after the supper 063v:8, after Nicodemus 054r:8",
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word. Their entry for 670ae0850270ae0 'do, make; deed, act' lists this spelling by name, 540ae0850270ae0, cited at 048r05, 051rc1:03, 054r08, 063v08 and 070r01. It was read here as 'afterward' on the strength of 520ae0850270ae0, which was itself withdrawn today as their DO. Our variant loader had never reached it: it read only the first three fragments in their variant list and this is the fourth spelling in the list. declared_full() in ktvariant.py now walks the whole bracket.  Prior gloss and evidence: 'afterward' -- the same shape as 520ae0850270ae0 already read as afterward, in the same narrative slot: after the supper 063v:8, after Nicodemus 054r:8",
   "gloss": "_withdrawn_",
   "n": 4,
   "tier": "withdrawn"
@@ -9337,19 +9337,19 @@
   "tier": "withdrawn"
  },
  "_withdrawn_670b06": {
-  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word. Their headword 520b06 reads '[var. 520 ~ 670] I. be born e. g. 004r11 ... II. birth e. g. 021r03'. The rule licenses this spelling, and the line they cite for 'be born', 004r11, is one of our seventeen. The reading here was 'coming', which is the right idea and the wrong word: 019v:6 'before the ___ of the Lord Jesus Christ, twenty-two years' and 188v:6 'before the Lord Christ's ___, nine months and two weeks' are both BIRTH, and the nine months settle it. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'coming' -- 'a decree before the [coming] of the Lord Jesus Christ, twenty-two years' 019v:6; 'Christ into this world, his [coming]' 188v:5; 'before the Lord Christ's [coming], nine months and two weeks' 188v:6; 'from his [coming] the Lord was thirty' 189r:2. Could be a second word for birth DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word. Their headword 520b06, 'be born; birth', allows 670 for 520 and cites 004r11 for 'be born'. The rule licenses this spelling, and the line they cite for 'be born', 004r11, is one of our seventeen. The reading here was 'coming', which is the right idea and the wrong word: 019v:6 'before the ___ of the Lord Jesus Christ, twenty-two years' and 188v:6 'before the Lord Christ's ___, nine months and two weeks' are both BIRTH, and the nine months settle it. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'coming' -- 'a decree before the [coming] of the Lord Jesus Christ, twenty-two years' 019v:6; 'Christ into this world, his [coming]' 188v:5; 'before the Lord Christ's [coming], nine months and two weeks' 188v:6; 'from his [coming] the Lord was thirty' 189r:2. Could be a second word for birth DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "_withdrawn_",
   "n": 17,
   "tier": "withdrawn"
  },
  "_withdrawn_681ae0520250": {
-  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word, EMPEROR. Their headword 520ae0520250 'emperor' states the rule '[var. 520(1) ~ 540, 670, 681; 520(2) ~ 540]' and then uses this exact spelling in its own example: '569910 681ae0520250 5d18c0670130 080 681ae0520250 845, THIS IS THE IMAGE OF THE EMPEROR AND THE WRITING OF THE EMPEROR, 183r06-07'. Our seven lines at 203v:3-7 are the same sentence -- Matthew 22:20, 'Whose image and inscription is this? They say to him: Caesar's' -- and we had read the word as 'inscription' where it is the emperor himself. Two other spellings of the same word, 540ae0520250 and 670ae0520250, were already read here as 'emperor'. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'inscription' -- 'whose image, they said; this is the [inscription], the image' 203v:3, 203v:5 = Matthew 22:20, whose is this image and superscription",
+  "evidence": "WITHDRAWN 2026-09-21: it is K&T's own word, EMPEROR. Their headword 520ae0520250 'emperor' allows 540, 670 or 681 for its first 520 and then uses this exact spelling in its own example at 183r06-07, the emperor's image and inscription. Our seven lines at 203v:3-7 are the same sentence -- Matthew 22:20, 'Whose image and inscription is this? They say to him: Caesar's' -- and we had read the word as 'inscription' where it is the emperor himself. Two other spellings of the same word, 540ae0520250 and 670ae0520250, were already read here as 'emperor'. Now read from their dictionary through the substitution rule.  Prior gloss and evidence: 'inscription' -- 'whose image, they said; this is the [inscription], the image' 203v:3, 203v:5 = Matthew 22:20, whose is this image and superscription",
   "gloss": "_withdrawn_",
   "n": 8,
   "tier": "withdrawn"
  },
  "_withdrawn_7b2520ae05202d8": {
-  "evidence": "WITHDRAWN 2026-09-21 by ktharden.py's INHERIT flag. Its evidence opens 'It begins with K&T's 7b2 son' -- and K&T have no entry for 7b2 at all. ktlook.py returns nothing for it. The attribution is this project's own withdrawn reading mistaken for theirs. Worse, their apparatus contradicts it: the relative-pronoun entry reads '7a0, 7a0910, 7a0670ae0 [var. 7a0 ~ 7b2, 7b3, 7c1, 850] ... relative pronoun who', so 7b2 is THEIR variant of 'who'. Its one line, 114r:2, is 'of the evil, the pig, [x], and the soul of the son' in the prodigal at Luke 15:15-16, and already renders 'son' from another sign three places away. No replacement: a relative pronoun may well be right here but one occurrence cannot show it. Prior gloss and evidence: {\"evidence\": \"Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It begins with K&T's 7b2 'son' and then 520ae0520 'before'. 114r:2: 'of the evil, the pig, [x], and the soul of the son'. The folio is the prodigal son among the swine.\", \"gloss\": \"son\", \"n\": 1, \"tier\": \"C\"}",
+  "evidence": "WITHDRAWN 2026-09-21 by ktharden.py's INHERIT flag. Its evidence opens 'It begins with K&T's 7b2 son' -- and K&T have no entry for 7b2 at all. ktlook.py returns nothing for it. The attribution is this project's own withdrawn reading mistaken for theirs. Worse, their apparatus contradicts it: their entry for 'who' (7a0) lists 7b2 among its variant spellings, so 7b2 is THEIR variant of 'who'. Its one line, 114r:2, is 'of the evil, the pig, [x], and the soul of the son' in the prodigal at Luke 15:15-16, and already renders 'son' from another sign three places away. No replacement: a relative pronoun may well be right here but one occurrence cannot show it. Prior gloss and evidence: {\"evidence\": \"Found by ktcover.py, which covers an unread sign with the longest signs already read and reports the gap. It begins with K&T's 7b2 'son' and then 520ae0520 'before'. 114r:2: 'of the evil, the pig, [x], and the soul of the son'. The folio is the prodigal son among the swine.\", \"gloss\": \"son\", \"n\": 1, \"tier\": \"C\"}",
   "gloss": "_withdrawn_",
   "n": 1,
   "tier": "withdrawn"
@@ -9397,7 +9397,7 @@
   "tier": "B"
  },
  "a10001005270001a10060": {
-  "evidence": "069v:7 and 070r:1, and it is Király and Tokai's own reading at both. Their entry for a10003a10060 'somebody' lists extraordinary aggregates and gives '520060270 670ae0 7b4 a10001005270001a10060 069v06-07, 069v11-070r01 I IN HIM/HER (Jn 14, 20; 15, 4)', unqualified, citing both our occurrences. The token before ours is 7b4, their 'inside'. So the phrase is 'I am in him' and this word is HIM. We had guessed 'my Father's house' from John 14:2 on the folio note, which is the wrong verse of the right chapter.",
+  "evidence": "069v:7 and 070r:1, and it is Király and Tokai's own reading at both. Their entry for a10003a10060 'somebody' reads the phrase 520060270 670ae0 7b4 a10001005270001a10060 as 'I in him' at 069v06-07 and 069v11-070r01, without a question mark: both our occurrences. The token before ours is 7b4, their 'inside'. So the phrase is 'I am in him' and this word is HIM. We had guessed 'my Father's house' from John 14:2 on the folio note, which is the wrong verse of the right chapter.",
   "gloss": "him",
   "n": 2,
   "tier": "A"
@@ -9415,7 +9415,7 @@
   "tier": "C"
  },
  "a10003a10060060681ae0520": {
-  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with the man-word060681ae0520. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 092r:5 'this ?world be_saved on-<preposition_of_genitive>-Lord die and <<[x]>> exist to-Lord'",
+  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with the man-word060681ae0520. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 092r:5 'this ?world be_saved on-of-Lord die and <<[x]>> exist to-Lord'",
   "gloss": "man",
   "n": 1,
   "tier": "C"
@@ -9427,7 +9427,7 @@
   "tier": "C"
  },
  "a10003a100601d0": {
-  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with the man-word1d0. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 094v:1 '<<[x]>> find each,_every somebody go-angel inside <preposition_of_genitive>-Lord-<suffix_of_divine_name> house'",
+  "evidence": "The codex builds words on K&T's a10003a10060, which they read as 'human; man; somebody; we'. This sign contains that word whole, with the man-word1d0. It is read as the head noun, 'man', because that is what the part this project can account for says; the rest is NOT accounted for and may be a case ending, a modifier, or a word in its own right, which is why this is tier C and not B. Its occurrence: 094v:1 '<<[x]>> find each,_every somebody go-angel inside of-Lord-DIV house'",
   "gloss": "man",
   "n": 1,
   "tier": "C"
@@ -9529,7 +9529,7 @@
   "tier": "G"
  },
  "a10213ae0": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from a10444ae0, which this project already reads as 'heavenly' (tier A). 146v:2 is the Marian invocation -- 'girl, Queen, thou who holdest heaven and earth, [x]' -- where the heavenly is the word the sentence wants. The other neighbour is K&T's a10540ae0 'accuse', which suits none of the three lines. Occurrence(s): 077r:5 'somebody [?] <<[x]>> on-sin to Lord-Jézus-Christ'; 144r:1 '<<[x]>> people somebody to-Lord-<suffix_of_divine_name> this-Lord you ?creature'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from a10444ae0, which this project already reads as 'heavenly' (tier A). 146v:2 is the Marian invocation -- 'girl, Queen, thou who holdest heaven and earth, [x]' -- where the heavenly is the word the sentence wants. The other neighbour is K&T's a10540ae0 'accuse', which suits none of the three lines. Occurrence(s): 077r:5 'somebody [?] <<[x]>> on-sin to Lord-Jézus-Christ'; 144r:1 '<<[x]>> people somebody to-Lord-DIV this-Lord you ?creature'",
   "gloss": "heavenly",
   "n": 3,
   "tier": "C"
@@ -9553,7 +9553,7 @@
   "tier": "G"
  },
  "a102d9": {
-  "evidence": "K&T's entry a109d9 reads '175r01, 207r02, 08 ?? extort, extorter' -- two senses, a verb and an agent noun, cited at 207r02 among others. This sign is one glyph from theirs and stands at 207r:2, where their verb 'extort' is ALREADY read in the same line: '[x] one extort and leave far from Jerusalem'. The agent noun is the sense left for this slot. Their own gloss, this project's choice between its two halves.",
+  "evidence": "K&T's entry a109d9 reads it, doubtfully, as 'extort, extorter' -- two senses, a verb and an agent noun, cited at 207r02 among others. This sign is one glyph from theirs and stands at 207r:2, where their verb 'extort' is ALREADY read in the same line: '[x] one extort and leave far from Jerusalem'. The agent noun is the sense left for this slot. Their own senses, this project's choice between its two halves.",
   "gloss": "extorter",
   "n": 1,
   "tier": "C"
@@ -9565,7 +9565,7 @@
   "tier": "G"
  },
  "a10354": {
-  "evidence": "212r:6, and it is Király and Tokai's own reading, not ours. Their entry for 2c1 ends 'II. verb a10353 055r07; a10354 212r06 LIFT UP'. It is cited at exactly this line. It was bracketed as a guess here only because our copy of their dictionary is keyed by headword and this code appears inside the entry rather than at its head -- the same fault that once dropped 88 codes they had already read. The line reads 'and lifted up the eyes of the Lord, the high heavens, and', which is John 17:1, 'lifting up his eyes to heaven'.",
+  "evidence": "212r:6, and it is Király and Tokai's own reading, not ours. Their entry for 2c1 reads a10354 at 212r06 as the verb 'lift up'. It is cited at exactly this line. It was bracketed as a guess here only because our copy of their dictionary is keyed by headword and this code appears inside the entry rather than at its head -- the same fault that once dropped 88 codes they had already read. The line reads 'and lifted up the eyes of the Lord, the high heavens, and', which is John 17:1, 'lifting up his eyes to heaven'.",
   "gloss": "lifted_up",
   "n": 1,
   "tier": "A"
@@ -9667,7 +9667,7 @@
   "tier": "C"
  },
  "a105202d5": {
-  "evidence": "their leave, abandon entry (5202c1 (3)) lists '? a105202d5 120r04, 126v09'. Their question mark",
+  "evidence": "their entry 5202c1 ('leave, abandon') lists a105202d5 at 120r04 and 126v09, marked uncertain",
   "gloss": "abandon",
   "n": 2,
   "tier": "B"
@@ -9751,7 +9751,7 @@
   "tier": "G"
  },
  "a10644043": {
-  "evidence": "K&T's entry 644 'get conceived; create, form' cites 'e. g. 017r06'. This sign contains their 644 and stands at 017r:6, on the folio where Anne conceives. Their own cited line.",
+  "evidence": "K&T's entry 644 'conceive; create, form' cites 017r06. This sign contains their 644 and stands at 017r:6, on the folio where Anne conceives. Their own cited line.",
   "gloss": "conceived",
   "n": 1,
   "tier": "C"
@@ -9913,7 +9913,7 @@
   "tier": "A"
  },
  "a10b52011": {
-  "evidence": "their stay entry gives '? a10b52011 180v07, 188r05'. Their question mark",
+  "evidence": "their entry for 'stay' lists a10b52011 at 180v07 and 188r05, marked uncertain",
   "gloss": "stay",
   "n": 1,
   "tier": "B"
@@ -9937,7 +9937,7 @@
   "tier": "G"
  },
  "a11460": {
-  "evidence": "K&T's entry a17 reads '141v11, 142r02 (2x); 180v06; 180v07; () 086v11 HOST (of the Eucharist)'. This sign is one glyph from their code and is the only hole on 086v:11, the line they cite. At their other cited line, 141v:11, the host is already rendered, which is why that hole was left dark and this one is not.",
+  "evidence": "K&T's entry a17, the Eucharistic host, cites 086v11 among others. This sign is one glyph from their code and is the only hole on 086v:11, the line they cite. At their other cited line, 141v:11, the host is already rendered, which is why that hole was left dark and this one is not.",
   "gloss": "the_host",
   "n": 1,
   "tier": "C"
@@ -9979,7 +9979,7 @@
   "tier": "G"
  },
  "a1b443ae0": {
-  "evidence": "K&T's entry a1b translates this line in full: 'these people were pagans until forefather Abraham 008v01'. The sign opens with their a1b and is the only hole on 008v:1, which reads 'people exist until Abraham forefather [x] believe'. Their own reading of this line.",
+  "evidence": "K&T's entry a1b reads this line, 008v01, as the people being pagans until Abraham. The sign opens with their a1b and is the only hole on 008v:1, which reads 'people exist until Abraham forefather [x] believe'. Their own reading of this line.",
   "gloss": "were_pagans",
   "n": 1,
   "tier": "C"
@@ -9991,13 +9991,13 @@
   "tier": "G"
  },
  "a23a10060": {
-  "evidence": "Found by ktinside.py --rev. This sign ends with a10060, which K&T read as 'look; make seen; see; seem; show', leaving a23_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 219r:6 'take_prisoner and ?whosoever-+<subject_marker> to-many [?] <<[x]>> and-brother-+name'",
+  "evidence": "Found by ktinside.py --rev. This sign ends with a10060, which K&T read as 'look; make seen; see; seem; show', leaving a23_ unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. Occurrence(s): 219r:6 'take_prisoner and ?whosoever-+SUBJ to-many [?] <<[x]>> and-brother-+name'",
   "gloss": "see",
   "n": 1,
   "tier": "C"
  },
  "a25": {
-  "evidence": "their entry 5200607a2 (3) gives '[var. ? a25 005v10] ... ?? negation not [be saved]'. Their question mark on the spelling and two more on the sense",
+  "evidence": "their entry 5200607a2 (3) lists a25 at 005v10 as an uncertain variant, and reads it, doubtfully, as a negation, 'not'",
   "gloss": "not",
   "n": 2,
   "tier": "B"
@@ -10213,13 +10213,13 @@
   "tier": "G"
  },
  "a7e": {
-  "evidence": "their feast, holiday entry ends '?? = a7e 018r05'. Two question marks of theirs",
+  "evidence": "their entry for 'feast, holiday' lists a7e at 018r05, marked doubtful",
   "gloss": "feast",
   "n": 1,
   "tier": "B"
  },
  "a80": {
-  "evidence": "two of their entries name this sign and they disagree. Their half, middle entry (a81) gives '[var. a80 188r06] half, middle'; their privative-prefix entry gives a80 only inside a80520b7a 'heretic or apostate'. Half is what 141v:9 and 142r:6 will take, in the life of the woman who fasts, and nothing settles it DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "two of their entries name this sign and they disagree. Their entry a81 ('half, middle') lists a80 at 188r06 as a variant; their privative-prefix entry gives a80 only inside a80520b7a 'heretic or apostate'. Half is what 141v:9 and 142r:6 will take, in the life of the woman who fasts, and nothing settles it DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "half",
   "n": 3,
   "tier": "D"
@@ -10297,7 +10297,7 @@
   "tier": "G"
  },
  "a97": {
-  "evidence": "K&T's entry a100a3 'most high [God]' lists the lines its variants stand on and marks this one with their own query: '? 089r10'. This sign is the only hole on 089r:10, which reads 'die, go, angel, heaven, glory, literal, from father God, [x], this Lazarus'. Their doubt is carried over: this is C, not A.",
+  "evidence": "K&T's entry a100a3 'most high [God]' lists the lines its variants stand on and marks this one, 089r10, as uncertain. This sign is the only hole on 089r:10, which reads 'die, go, angel, heaven, glory, literal, from father God, [x], this Lazarus'. Their doubt is carried over: this is C, not A.",
   "gloss": "the_Most_High",
   "n": 1,
   "tier": "C"
@@ -10447,7 +10447,7 @@
   "tier": "G"
  },
  "ae0": {
-  "evidence": "K&T mark it 'var.' of a code they gloss day; forty [days] and forty nights 004v:11. Line-initial uses ('[that day] he called twelve apostles' 022r:10) fit loosely",
+  "evidence": "K&T list it as a variant of their word for day; forty [days] and forty nights 004v:11. Line-initial uses ('[that day] he called twelve apostles' 022r:10) fit loosely",
   "gloss": "day",
   "n": 26,
   "tier": "B"
@@ -10459,7 +10459,7 @@
   "tier": "A"
  },
  "ae01e0a102c0b01": {
-  "evidence": "K&T's own expression, glossed by them 'there will not be left one stone upon another (Mt 24,2)' and cited at 110v02-03 and 111v06. This is the whole word at 111v:6, after 'stone upon stone'",
+  "evidence": "K&T's own reading, of not one stone left upon another, cited at 110v02-03 and 111v06. This is the whole word at 111v:6, after 'stone upon stone'",
   "gloss": "shall not be left",
   "n": 1,
   "tier": "A"
@@ -10483,7 +10483,7 @@
   "tier": "G"
  },
  "ae0670ae0b20": {
-  "evidence": "K&T's entry b33670ae0b20 '? sister; ?? nun' lists ae0670ae0b20 at 142r10, its only occurrence. Their question marks",
+  "evidence": "K&T's entry b33670ae0b20, 'sister' or 'nun', both marked uncertain, lists ae0670ae0b20 at 142r10, its only occurrence.",
   "gloss": "sister",
   "n": 1,
   "tier": "A"
@@ -10495,7 +10495,7 @@
   "tier": "G"
  },
  "ae1b13": {
-  "evidence": "107r:1, and it is Király and Tokai's own reading. Their entry for 520b13 'judge; judgement' ends 'expr. 520b13ae0, but ae1b13 107r01 DOOMSDAY', unqualified, citing this exact line. We had guessed 'again' from Luke 10:35 on the folio note, 'at my return I will repay thee' -- and the line does read 'the innkeeper, then, go, ___, every, this innkeeper, repay'. Their word is the medieval reading of that same clause: the Samaritan's return is the Second Coming, so the book says DOOMSDAY where the verse says return.",
+  "evidence": "107r:1, and it is Király and Tokai's own reading. Their entry for 520b13 'judge; judgement' reads ae1b13 at 107r01 as 'doomsday', without a question mark, citing this exact line. We had guessed 'again' from Luke 10:35 on the folio note, 'at my return I will repay thee' -- and the line does read 'the innkeeper, then, go, ___, every, this innkeeper, repay'. Their word is the medieval reading of that same clause: the Samaritan's return is the Second Coming, so the book says DOOMSDAY where the verse says return.",
   "gloss": "doomsday",
   "n": 1,
   "tier": "A"
@@ -10513,13 +10513,13 @@
   "tier": "A"
  },
  "afa060812080034097": {
-  "evidence": "017r:4; K&T's own entry translates this place as 'on you (Joachim) the Lord has had mercy 017r04-05'. The sign opens with their code for Joachim.",
+  "evidence": "017r:4; K&T's own entry reads this place, 017r04-05, as the Lord having mercy on Joachim. The sign opens with their code for Joachim.",
   "gloss": "hath_had_mercy",
   "n": 1,
   "tier": "G"
  },
  "afb520": {
-  "evidence": "K&T's entry b30 'leave, go away; spread' opens '[var. 008r02]'. This sign is the only hole on 008r:2 and nothing in that line is rendered 'leave'. Their own named variant line.",
+  "evidence": "K&T's entry b30 'leave, go away; spread' names a variant at 008r02. This sign is the only hole on 008r:2 and nothing in that line is rendered 'leave'. Their own named variant line.",
   "gloss": "go_away",
   "n": 1,
   "tier": "C"
@@ -10579,7 +10579,7 @@
   "tier": "A"
  },
  "b30450b30": {
-  "evidence": "their entry for leave, go away lists '? b30450b30 068r06, 071r04'. Their question mark",
+  "evidence": "their entry for 'leave, go away' lists b30450b30 at 068r06 and 071r04, marked uncertain",
   "gloss": "go_away",
   "n": 2,
   "tier": "B"
@@ -10591,7 +10591,7 @@
   "tier": "A"
  },
  "b32": {
-  "evidence": "K&T's entry b33 gives 'b33520 [var. b33688 136v09; b32 147v07] like'. It stands once, at 147v07",
+  "evidence": "K&T's entry b33 'like' lists b32 at 147v07 as a variant. It stands once, at 147v07",
   "gloss": "like",
   "n": 1,
   "tier": "A"
@@ -10645,7 +10645,7 @@
   "tier": "A"
  },
  "b60a10003a10354": {
-  "evidence": "It holds a10003a10, which this project already reads as 'whosoever', with K&T's b60 (a genitive pronoun) in front and 354 over. 151r:9: 'three, born from [x], and from, three, born'; 151v:7: 'in turn two, and the son, from [x], son'; 152r:3: 'son, and from [x], this, of somebody, good, do'.",
+  "evidence": "It holds a10003a10, which this project already reads as 'whosoever', with K&T's b60, a pronoun meaning 'of', in front and 354 over. 151r:9: 'three, born from [x], and from, three, born'; 151v:7: 'in turn two, and the son, from [x], son'; 152r:3: 'son, and from [x], this, of somebody, good, do'.",
   "gloss": "whosoever",
   "n": 3,
   "tier": "C"
@@ -10693,7 +10693,7 @@
   "tier": "A"
  },
  "b7a": {
-  "evidence": "their believe entry (520b7a) gives '(?) b7a 071v01'. Their question mark, one citation of four occurrences DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "their believe entry (520b7a) lists b7a at 071v01, marked uncertain, one citation of four occurrences DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "believe",
   "n": 4,
   "tier": "D"

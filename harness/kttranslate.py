@@ -174,7 +174,10 @@ def ours(s):
 
 # Five of this project's own readings borrowed an entry's wording or an angle-
 # bracket label. Printed, they follow the same table and the same labels.
-LABELS = {"<subject marker>": "SUBJ", "<end of line mark>": "EOL"}
+# "<rest of but>" is the back half of one of their words that our transcription
+# cuts in two (520b42 + a51); the leading hyphen says so. (2026-09-24)
+LABELS = {"<subject marker>": "SUBJ", "<end of line mark>": "EOL",
+          "<rest of but>": "-but"}
 
 
 def own_reading(g, own):

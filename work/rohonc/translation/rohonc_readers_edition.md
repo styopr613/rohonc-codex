@@ -19,7 +19,9 @@ a short label stands for it: `DIV` the suffix of a divine name, `SUBJ` `OBJ`
 `DAT` the markers of subject, object and dative, `AUX` `CAUS` `FUT` auxiliaries,
 `PTCL` a particle, `DISTR` `PLACE` `END` the signs inside a numeral, `DATE` and
 `DAY` a calendar name, and `NAME` a proper name known only by what it names
-(`NAME.prophet`).
+(`NAME.prophet`). `EOL` is a mark the scribe sets at the end of a line. A word
+that begins with a hyphen (`-but`) is the second half of one word that the
+transcription splits in two.
 
 ## How to read the marks
 
@@ -2143,9 +2145,9 @@ words. There are 983 of them now.
   3  exist baptize inside name father-DIV and son
   4  and holy-spirit and exist Lord-to believe
   5  every somebody be_saved and one be_damned [but]
-  6  [<rest_of_but>] and somebody exist baptize and exist Lord-to
+  6  [-but] and somebody exist baptize and exist Lord-to
   7  believe and one be_saved but every somebody
-  8  be_damned [but] [<rest_of_but>] and somebody exist Lord-to believe
+  8  be_damned [but] [-but] and somebody exist Lord-to believe
   9  from exist many miracle do every inside of-Lord
  10  name exist somebody inside of-Lord | and-exist
  11  [?]-+name ~blind through light die from-see resurrect rise^
@@ -5341,7 +5343,7 @@ words. There are 983 of them now.
   1  and somebody exist one-~woman the_Baptist/woman inside name father-DIV
   2  and son and holy-spirit and exist Lord-to | to
   3  believe* every somebody be_saved and one
-  4  be_damned [but] [<rest_of_but>] and somebody exist one-~woman the_Baptist/woman
+  4  be_damned [but] [-but] and somebody exist one-~woman the_Baptist/woman
   5  and exist Lord-to one be_saved but
   6  every somebody be_damned end this holy-gospel Lord-DIV SUBJ
   7  love write holy-Luke inside two

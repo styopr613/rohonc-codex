@@ -415,7 +415,9 @@ grammatical rather than a word is printed as a short label: *DIV* the suffix of
 a divine name, *SUBJ*, *OBJ* and *DAT* the markers of subject, object and
 dative, *AUX*, *CAUS* and *FUT* auxiliaries, *PTCL* a particle, *DISTR*,
 *PLACE* and *END* signs inside a numeral, *DATE* and *DAY* calendar names, and
-*NAME* a proper name known only by what it names (*NAME.prophet*).
+*NAME* a proper name known only by what it names (*NAME.prophet*). *EOL* is a
+mark the scribe sets at the end of a line. A word that begins with a hyphen
+(*-but*) is the second half of one word that the transcription splits in two.
 
 ## What this book is worth, in numbers
 

@@ -1821,9 +1821,9 @@ declared variant spellings (3.8%), 5373 have no reading (17.9%).  Lines with eve
  3  exist baptize inside +name father-DIV and son
  4  and holy-spirit and exist Lord-to believe
  5  every somebody +be_saved and one be_damned °but
- 6  °<rest_of_but> and somebody +exist baptize and exist Lord-to
+ 6  °-but and somebody +exist baptize and exist Lord-to
  7  believe and one +be_saved but every somebody
- 8  be_damned °but °<rest_of_but> and somebody exist Lord-to believe
+ 8  be_damned °but °-but and somebody exist Lord-to believe
  9  from exist many miracle do every inside of-Lord
 10  +name exist somebody inside of-Lord | and-exist
 11  [?]-+name ~blind through light die from-see resurrect stand_up.
@@ -4585,7 +4585,7 @@ declared variant spellings (3.8%), 5373 have no reading (17.9%).  Lines with eve
  1  and somebody exist +one-~woman +the_Baptist/woman inside +name father-DIV
  2  and son and holy-spirit and exist Lord-to | to
  3  ?believe every somebody +be_saved and one
- 4  +be_damned °but °<rest_of_but> and somebody +exist +one-~woman +the_Baptist/woman
+ 4  +be_damned °but °-but and somebody +exist +one-~woman +the_Baptist/woman
  5  and +exist Lord-to one +be_saved but
  6  every somebody be_damned end this holy-gospel Lord-DIV +SUBJ
  7  love write holy-Luke inside two

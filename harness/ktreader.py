@@ -71,7 +71,9 @@ a short label stands for it: `DIV` the suffix of a divine name, `SUBJ` `OBJ`
 `DAT` the markers of subject, object and dative, `AUX` `CAUS` `FUT` auxiliaries,
 `PTCL` a particle, `DISTR` `PLACE` `END` the signs inside a numeral, `DATE` and
 `DAY` a calendar name, and `NAME` a proper name known only by what it names
-(`NAME.prophet`).
+(`NAME.prophet`). `EOL` is a mark the scribe sets at the end of a line. A word
+that begins with a hyphen (`-but`) is the second half of one word that the
+transcription splits in two.
 
 ## How to read the marks
 
