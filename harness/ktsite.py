@@ -666,6 +666,8 @@ def narrative_sentence(rows, lines):
             pat = re.compile(r"\b" + re.escape(t) + r"\b", re.I)
             for sen in sentences(text):
                 if pat.search(sen):
+                    if sen.endswith("\u201d") and "\u201c" not in sen:
+                        sen = sen[:-1]                      # a quotation cut at its close
                     return sen if len(sen) <= 260 else sen[:257].rsplit(" ", 1)[0] + "…"
         return None
     out = {}
