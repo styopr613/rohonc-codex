@@ -139,12 +139,19 @@ CSS = """
    ARRIVAL with no fade. On the way OUT (html.oona-leaving) it keeps its fade, so
    a hop to another OONA property still dims before it goes. */
 html:not(.oona-leaving) #oona-veil.out{transition:none!important}
-/* The family stylesheet enables cross-document view transitions globally. On
-   these pages the active item in the local menu changes at the same moment,
-   so Chromium briefly blended two copies of the menu. Use a direct navigation
-   within Rohonc instead. A stable scrollbar gutter keeps short and long pages
-   at the same content width. */
-@view-transition{navigation:none}
+/* The family stylesheet turns on the browser's cross-document view transition,
+   and fam.js drops its arrival veil only when one runs. Turning it off here
+   (navigation:none, 2026-09-22, because the default cross-fade blended two copies
+   of the menu as the active item moved) left every hop on the veil path: the
+   whole page, title and menu included, dimmed and faded back over half a second
+   (measured 2026-09-25: header brightness 20 -> 14 -> 20 over ~500ms). So the
+   transition stays on, and nothing in it animates: the header is its own group
+   shown new at once with no old copy (no blend), and the sheet swaps in one frame.
+   Firefox has no cross-document transition and keeps the family veil. A stable
+   scrollbar gutter keeps short and long pages at the same content width. */
+header.rh{view-transition-name:rh-head}
+::view-transition-old(rh-head){display:none}
+::view-transition-new(rh-head),::view-transition-old(root),::view-transition-new(root){animation:none}
 html{scrollbar-gutter:stable}
 :root{--bg:#0B0D10;--ink:#1d1a16;--soft:#5a5248;--paper:#f5efe3;--paper2:#ece5d5;--rub:#7a2418;--ivory:#e9e2d3;--line:#d9cfb9}
 body{margin:0;background:var(--bg);color:var(--ivory);font-family:"EB Garamond",Garamond,"Times New Roman",serif;font-size:19px;line-height:1.55}
