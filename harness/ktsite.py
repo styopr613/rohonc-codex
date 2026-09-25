@@ -316,10 +316,18 @@ ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
 .sums b{color:var(--rub);font-weight:400}
 .gloss{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14.5px;line-height:1.8;overflow-x:auto}
 .gloss .m{border-bottom:2px solid var(--rub);cursor:help}
-.find{margin:1.2em 0 1.8em}
-.find img{display:block;max-width:100%;max-height:520px;margin:0 auto;border:1px solid var(--line)}
-.find figcaption{font-size:15.5px;color:var(--soft);padding-top:7px;font-style:italic}
+/* Discovering the work: pictures set into the text like an article's, floated
+   before their paragraph so it wraps round them; one column on a phone. */
+.find{margin:.35em 0 1em;clear:both}
+.find.r{float:right;margin-left:26px}
+.find.l{float:left;margin-right:26px}
+.find.tall{width:34%}
+.find.wide{width:50%}
+.find img{display:block;width:100%;height:auto;border:1px solid var(--line)}
+.find figcaption{font-size:14px;line-height:1.4;color:var(--soft);padding-top:6px;font-style:italic}
 .find figcaption a{color:var(--soft);font-style:normal}
+.prose .find-end,.find-clear{clear:both}
+@media(max-width:620px){.find.r,.find.l{float:none;margin:1em auto 1.2em}.find.tall{width:72%}.find.wide{width:100%}}
 .plates{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px;margin:1.2em 0}
 .plates figure{margin:0}
 .plates img{width:100%;display:block;border:1px solid var(--line);background:#fff}
@@ -1829,22 +1837,30 @@ def page_finds():
     # the appendix ends by pointing at this page; a page need not point at itself
     text = app[0]["text"].split("\n\nFinds after this printing")[0]
     prose = md(text)
-    # the pictures, site only: each goes under the paragraph that opens with its `after`
-    for pic in finds_pictures():
+    # the pictures, site only: each is floated into the paragraph that opens
+    # with its `after`, the text wrapping round it, sides alternating; an
+    # upright picture takes a narrower column than a wide one
+    from PIL import Image
+    for n, pic in enumerate(finds_pictures()):
         lead = "<p><strong>" + html.escape(pic["after"], quote=False)
         i = prose.find(lead)
         if i < 0:
             raise SystemExit("ktsite: no paragraph in 'What the sources turned up' opens %r" % pic["after"])
-        j = prose.index("</p>", i) + 4
+        with Image.open(os.path.join(FINDS_DIR, pic["file"])) as im:
+            wd, ht = im.size
+        side = "r" if n % 2 == 0 else "l"
+        shape = "wide" if wd > ht * 1.2 else "tall"
         page = "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(pic["commons"].replace(" ", "_"))
-        fig = (f'<figure class="find"><img src="/rohonc/img/finds/{html.escape(pic["file"])}" alt="" loading="lazy">'
+        fig = (f'<figure class="find {side} {shape}"><img src="/rohonc/img/finds/{html.escape(pic["file"])}" alt="" loading="lazy" width="{wd}" height="{ht}">'
                f'<figcaption>{html.escape(pic["caption"])} <a href="{html.escape(page)}" rel="noopener">{html.escape(pic["licence"])}, Wikimedia Commons</a>.</figcaption></figure>')
-        prose = prose[:j] + fig + prose[j:]
+        # each find starts clear of the picture before it, so no line of it runs
+        # in the gap under a neighbour's picture
+        prose = prose[:i] + '<div class="find-clear"></div>' + fig + prose[i:]
     body = f"""
 <h1>Discovering the work</h1>
 <p class="lead">Things the sources turned up that are readings of the facts rather than facts about the manuscript. They stand outside the endnotes for that reason, and each one says what is not known. The same text is printed in the book as the appendix "What the sources turned up".</p>
 {prose}
-<p>The facts these rest on are in the endnotes of Book One, and every text they cite is listed under <a href="/rohonc/sources.html">Sources</a>.</p>
+<p class="find-end">The facts these rest on are in the endnotes of Book One, and every text they cite is listed under <a href="/rohonc/sources.html">Sources</a>.</p>
 """
     return shell("finds", "Discovering the work",
                  "What reading the sources behind the Rohonc Codex turned up: the stolen cup's neighbours, Adam healed by the branch, Elijah at the fall of the angels, and the date the book gives the end of the world.",
