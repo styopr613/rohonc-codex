@@ -3,7 +3,10 @@
 Files that are no longer part of the edition, kept because the record of how a
 reading changed is itself evidence.
 
-## backups-20260922/
+## backups-20260922/ (moved off the repository 2026-09-25)
+
+Now at `~/backups/voynich-archive-backups-20260922/` on Rachel, 211 files, 33 MB, out of
+every release zip. Git keeps their history up to that day. What it was:
 
 Every `*.pre-*` file that had accumulated in the working tree: 195 of them, 179
 already tracked by git and moved with `git mv`, so their history is intact.

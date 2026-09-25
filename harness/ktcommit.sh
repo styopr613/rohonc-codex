@@ -10,7 +10,12 @@
 set -u
 cd "$(dirname "$0")" || exit 1
 msg="${1:-}"
-if [ -z "$msg" ]; then echo "usage: ./ktcommit.sh \"commit message\""; exit 2; fi
+if [ -z "$msg" ]; then echo "usage: ./ktcommit.sh \"commit message\" [path ...]"; exit 2; fi
+shift
+# Paths after the message: commit ONLY those. Without them the whole tree is
+# swept (see below). The owner asked on 2026-09-25 why the relevant files
+# could not simply be committed on their own. They can; this is how.
+paths=("$@")
 # Regenerate the saved run BEFORE ktbump reads it. This was a real failure:
 # work/rohonc/kttranslate.txt had not been regenerated for days, so ktbump
 # carried 61.1% lines-fully-read into ROHONC.md while the live figure was
@@ -56,11 +61,15 @@ cd .. || exit 1
 # README says it holds everything needed to check the attempt. .gitignore now
 # refuses those by name. This prints the rest, so the next one is visible
 # before it goes in rather than found later by a reader.
-git add -A
+if [ "${#paths[@]}" -gt 0 ]; then
+  git add -A -- "${paths[@]}"
+else
+  git add -A
+fi
 echo
 echo "  committing:"
 git diff --cached --name-status | sed 's/^/    /'
 echo
 git commit -q -m "$msg
 
-Co-Authored-By: Claude Opus 5 (1M context) <noreply@anthropic.com>" && git log --oneline | head -1
+Co-Authored-By: Claude Fable 5.1 <noreply@anthropic.com>" && git log --oneline | head -1
