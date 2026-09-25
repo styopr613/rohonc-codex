@@ -220,7 +220,8 @@ table.tests tr.cap+tr.cap td{padding-top:2px}
 /* the right column: the way in first, then the book. It used to be the book alone,
    centred against a long introduction, with the buttons at the introduction's foot. */
 .hero .side .acts{flex-direction:column;align-items:stretch;gap:8px;margin:0 0 18px;text-align:center}
-.hero .side .acts a.go{font-size:16px;padding:14px 12px;border-radius:4px;box-shadow:0 2px 0 rgba(122,36,24,.35)}
+.hero .side .acts a.go{font-size:15px;padding:12px;border-radius:3px;background:transparent;color:var(--rub);box-shadow:none}
+.hero .side .acts a.go:hover{background:var(--rub);color:#fff}  /* outlined, not filled: filled it outshouted the text */
 .hero .side .acts a:not(.go){border:0;padding:2px;font-size:12.5px}
 .hero .blurb p:first-child{margin-top:0}
 .hero .bk{margin:0}
