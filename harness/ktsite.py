@@ -348,6 +348,20 @@ ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
 .tlpop i{display:block;color:var(--soft);font-size:14px;margin-bottom:6px}
 .tlpop p{margin:0}
 .tlpop button{position:absolute;top:2px;right:6px;border:0;background:none;font:22px/1 Georgia,serif;cursor:pointer;color:var(--soft)}
+/* PHONE: a plate drawn at 1000 units shows at a third of that, too small to read. An
+   enlarge button (phones only) moves the plate itself -- not a copy, so its marked
+   places keep their taps -- into a full-screen pane at its drawn size, dragged to look
+   round; the close button puts it back. The pane sits above the family menu bar, and
+   while it is open the popup sits above the pane. */
+.atlas .enl{display:none;margin:0 0 6px auto;border:1px solid var(--line);border-radius:3px;background:rgba(246,241,231,.94);color:var(--rub);font:14px/1 "EB Garamond",serif;padding:7px 10px;cursor:pointer}
+@media(max-width:620px){.atlas .enl{display:block}}  /* above the plate, never over it: the plates carry boxes in their corners */
+.plview{position:fixed;inset:0;z-index:2147483600;background:#0B0D10;overflow:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+.plview[hidden]{display:none}
+.plview .inner{width:1000px;padding:56px 12px 24px}
+.plview svg{width:1000px;height:auto;display:block;background:#f6f1e7;border-radius:3px}
+.plview .close{position:fixed;top:10px;right:10px;z-index:2147483601;width:40px;height:40px;border:0;border-radius:50%;background:rgba(246,241,231,.92);color:var(--ink);font:24px/1 Georgia,serif;cursor:pointer}
+body.plopen{overflow:hidden}
+body.plopen .tlpop{z-index:2147483602}
 .atlas-src{margin-top:2.4em;font-size:15px;color:var(--soft)}
 .atlas-src summary{cursor:pointer;color:var(--rub)}
 .atlas-src ul{padding-left:1.2em}.atlas-src li{margin:.35em 0}
@@ -1879,7 +1893,7 @@ def page_atlas():
     figs = []
     for pl in plates:
         svg = read(os.path.join(adir, pl["name"] + ".svg"))
-        figs.append(f'<figure id="{html.escape(pl["name"])}">{svg}'
+        figs.append(f'<figure id="{html.escape(pl["name"])}"><button type="button" class="enl" aria-label="Enlarge this plate">⤢ enlarge</button>{svg}'
                     f'<figcaption>{html.escape(pl["caption"])}</figcaption></figure>')
     src = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "atlas.json"), encoding="utf-8"))
     items = []
@@ -1900,6 +1914,7 @@ def page_atlas():
 <details class="atlas-src"><summary>Where every date and place on these plates was read</summary>
 <p>Coastlines, rivers and lakes are Natural Earth, public domain. The borders of 1593 and the language areas are drawn by hand from the standard accounts and are approximate; every plate that uses them says so. Wikipedia pages were read on 23 September 2026; the book's own sources are cited to the book and to the provenance file.</p>
 <ul>{"".join(items)}</ul></details>
+<div class="plview" id="plview" hidden><button type="button" class="close" aria-label="Close">×</button><div class="inner"></div></div>
 <div class="tlpop" id="tlpop" hidden><button type="button" aria-label="Close">×</button><b></b><i></i><p></p></div>
 <script>
 (function(){{
@@ -1919,6 +1934,23 @@ def page_atlas():
   document.addEventListener('click',function(e){{if(!pop.contains(e.target))pop.hidden=true}});
   document.addEventListener('keydown',function(e){{if(e.key==='Escape')pop.hidden=true}});
   pop.querySelector('button').addEventListener('click',function(){{pop.hidden=true}});
+}})();
+(function(){{
+  var pv=document.getElementById('plview');if(!pv)return;
+  var box=pv.querySelector('.inner'),svg=null,home=null,pop=document.getElementById('tlpop');
+  function close(){{
+    if(svg&&home)home.insertBefore(svg,home.querySelector('figcaption'));
+    svg=home=null;pv.hidden=true;document.body.classList.remove('plopen');if(pop)pop.hidden=true;
+  }}
+  document.querySelectorAll('.atlas .enl').forEach(function(b){{
+    b.addEventListener('click',function(e){{
+      e.stopPropagation();home=b.parentNode;svg=home.querySelector('svg');if(!svg)return;
+      box.appendChild(svg);pv.hidden=false;document.body.classList.add('plopen');
+      pv.scrollLeft=(box.scrollWidth-pv.clientWidth)/2;pv.scrollTop=0;
+    }});
+  }});
+  pv.querySelector('.close').addEventListener('click',function(e){{e.stopPropagation();close()}});
+  document.addEventListener('keydown',function(e){{if(e.key==='Escape'&&!pv.hidden)close()}});
 }})();
 </script>
 """
