@@ -33,6 +33,7 @@ import os
 import re
 import shutil
 import tempfile
+import urllib.parse
 import sys
 
 import markdown
@@ -315,6 +316,10 @@ ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
 .sums b{color:var(--rub);font-weight:400}
 .gloss{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14.5px;line-height:1.8;overflow-x:auto}
 .gloss .m{border-bottom:2px solid var(--rub);cursor:help}
+.find{margin:1.2em 0 1.8em}
+.find img{display:block;max-width:100%;max-height:520px;margin:0 auto;border:1px solid var(--line)}
+.find figcaption{font-size:15.5px;color:var(--soft);padding-top:7px;font-style:italic}
+.find figcaption a{color:var(--soft);font-style:normal}
 .plates{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px;margin:1.2em 0}
 .plates figure{margin:0}
 .plates img{width:100%;display:block;border:1px solid var(--line);background:#fff}
@@ -1798,6 +1803,20 @@ def notes_sources():
 
 
 
+FINDS_PICS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "finds_pictures.json")
+FINDS_DIR = os.path.join(WORK, "finds")
+
+
+def finds_pictures():
+    """The pictures for 'Discovering the work', from finds_pictures.json. Every
+    file must have been fetched (ktfindpics.py); a missing one stops the build."""
+    pics = json.load(open(FINDS_PICS, encoding="utf-8"))["pictures"]
+    for pic in pics:
+        if not os.path.isfile(os.path.join(FINDS_DIR, pic["file"])):
+            raise SystemExit("ktsite: %s not fetched -- run harness/ktfindpics.py" % pic["file"])
+    return pics
+
+
 def page_finds():
     """Discovering the work: the readings of the facts the source check turned
     up, and the end-of-world count. ONE text: the book's appendix "What the
@@ -1809,10 +1828,22 @@ def page_finds():
         raise SystemExit("ktsite: the book has no appendix 'What the sources turned up'")
     # the appendix ends by pointing at this page; a page need not point at itself
     text = app[0]["text"].split("\n\nFinds after this printing")[0]
+    prose = md(text)
+    # the pictures, site only: each goes under the paragraph that opens with its `after`
+    for pic in finds_pictures():
+        lead = "<p><strong>" + html.escape(pic["after"], quote=False)
+        i = prose.find(lead)
+        if i < 0:
+            raise SystemExit("ktsite: no paragraph in 'What the sources turned up' opens %r" % pic["after"])
+        j = prose.index("</p>", i) + 4
+        page = "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(pic["commons"].replace(" ", "_"))
+        fig = (f'<figure class="find"><img src="/rohonc/img/finds/{html.escape(pic["file"])}" alt="" loading="lazy">'
+               f'<figcaption>{html.escape(pic["caption"])} <a href="{html.escape(page)}" rel="noopener">{html.escape(pic["licence"])}, Wikimedia Commons</a>.</figcaption></figure>')
+        prose = prose[:j] + fig + prose[j:]
     body = f"""
 <h1>Discovering the work</h1>
 <p class="lead">Things the sources turned up that are readings of the facts rather than facts about the manuscript. They stand outside the endnotes for that reason, and each one says what is not known. The same text is printed in the book as the appendix "What the sources turned up".</p>
-{md(text)}
+{prose}
 <p>The facts these rest on are in the endnotes of Book One, and every text they cite is listed under <a href="/rohonc/sources.html">Sources</a>.</p>
 """
     return shell("finds", "Discovering the work",
@@ -2121,6 +2152,8 @@ def _build(out, final):
     w("tests.html", page_tests(summary))
     w("sources.html", page_sources())
     w("finds.html", page_finds())
+    for pic in finds_pictures():
+        copy(os.path.join(FINDS_DIR, pic["file"]), os.path.join(out, "img", "finds", pic["file"]))
     w("atlas.html", page_atlas())
     # the atlas plates, as drawn: the SVGs the page inlines, and the PNGs for image search
     adir = os.path.join(WORK, "atlas")

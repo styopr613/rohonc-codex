@@ -1,0 +1,30 @@
+{
+ "_about": "Pictures for the site page 'Discovering the work' (finds.html), one under each find. Site only, not in the book. Every one is public domain on Wikimedia Commons; ktfindpics.py fetches them into work/rohonc/finds/, ktsite.py places them after the paragraph that opens with `after`.",
+ "pictures": [
+  {"file": "fall-of-the-angels.jpg",
+   "commons": "File:Frères Limbourg - Très Riches Heures du duc de Berry - chute des anges rebelles - Google Art Project.jpg",
+   "after": "The stolen cup has neighbours.",
+   "caption": "The fall of the rebel angels, from the Très Riches Heures of the Duke of Berry, painted by the Limbourg brothers, 1411–1416. Musée Condé, Chantilly.",
+   "licence": "Public domain"},
+  {"file": "death-of-adam.jpg",
+   "commons": "File:Piero della Francesca - 1. Death of Adam - WGA17474.jpg",
+   "after": "Adam healed by the branch has a Hungarian relative.",
+   "caption": "The death of Adam as the Golden Legend tells it: Adam dies, Seth goes to the angel at the gate of paradise, and the branch is planted on Adam's grave. Piero della Francesca, 1452–1466. San Francesco, Arezzo.",
+   "licence": "Public domain"},
+  {"file": "enoch-elijah-antichrist.jpg",
+   "commons": "File:Enoch Elias and the Antichrist.jpg",
+   "after": "Elijah at the fall of the angels.",
+   "caption": "Enoch and Elijah preach against the Antichrist and are put to death by him, as at 133v. A drawing from a French Apocalypse manuscript, as reproduced in L'Apocalypse en français.",
+   "licence": "Public domain"},
+  {"file": "augustine-and-the-child.jpg",
+   "commons": "File:Botticelli, pala di san barnaba, predella 02.jpg",
+   "after": "The author cites what he was taught.",
+   "caption": "Augustine on the shore and the child emptying the sea into a hole, the story told on 084r. Sandro Botticelli, a panel under the San Barnaba altarpiece, about 1488. Uffizi, Florence.",
+   "licence": "Public domain"},
+  {"file": "carion-chronica-1532.jpg",
+   "commons": "File:Chronica Johann Carion frontespizio.jpg",
+   "after": "The end of the world.",
+   "caption": "The title page of Carion's Chronicle, first German edition, 1532, the book at whose head Melanchthon set the six thousand years.",
+   "licence": "Public domain"}
+ ]
+}
