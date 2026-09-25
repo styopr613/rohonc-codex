@@ -394,7 +394,7 @@ table.dict tr.open td.ev .short,table.dict tr.open td.ev .more{display:none}
 
 FAM_CSS = "https://oona13.com/fam/fam.css?v=20260909b"
 FONTS_URL = ("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;"
-             "0,600;1,400;1,500&family=Cinzel:wght@400;600&display=swap")
+             "0,600;1,400;1,500&family=Cinzel:wght@400;600&display=fallback")
 
 
 # The social card and the traffic tag. These pages were behind the sign-in gate
@@ -431,8 +431,12 @@ def shell(slug, title, desc, body, extra_head=""):
 <meta property="og:site_name" content="OONA 13"><meta property="og:image" content="{OG_IMAGE}">
 <meta name="twitter:card" content="summary_large_image"><meta name="twitter:image" content="{OG_IMAGE}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="{FONTS_URL}" rel="stylesheet" media="print" onload="this.media='all'">
-<noscript><link href="{FONTS_URL}" rel="stylesheet"></noscript>
+<!-- The fonts load as a plain stylesheet, not deferred: a deferred one (media=print, then
+     'all' on load) made EVERY page paint first in the fallback face and then again in Cinzel
+     and EB Garamond, even with both cached, and on a phone the header rewrapped and jumped on
+     each hop along the menu. display=fallback waits 100ms for a cached face before any
+     stand-in, where swap drew the stand-in at once. (2026-09-25) -->
+<link href="{FONTS_URL}" rel="stylesheet">
 <style>{CSS}</style>
 {ANALYTICS}{extra_head}
 </head><body>
