@@ -662,6 +662,16 @@ def glass_vars(gg):
             f'--gx:{gg["cx"]}px;--gy:{gg["cy"]}px;--cap:{gg["cap"]}px;--top:{gg["top"]}px')
 
 
+def atlas_signs():
+    """The signs the Atlas plate draws, as strip rows: code and gloss."""
+    p = os.path.join(ROOT, "harness", "atlas.json")
+    if not os.path.isfile(p):
+        return []
+    a = json.load(open(p, encoding="utf-8"))
+    return [{"code": g["code"], "gloss": g["gloss"], "tier": "A", "n": 0, "evidence": ""}
+            for g in a.get("tongues", {}).get("glyphs", [])]
+
+
 def strip_css():
     """Every size the glass is drawn at, as a stylesheet rule.
 
@@ -687,6 +697,11 @@ def strip_html(rows, sg, n=54):
     pick = [r for r in rows if r["tier"] in ("A", "B") and 3 <= len(r["code"]) <= 9 and r["gloss"]
             and " " not in r["gloss"] and "<" not in r["gloss"]]
     pick.sort(key=lambda r: (-r["n"], r["gloss"]))
+    # The Atlas plate's own signs open the strip, in the plate's order, so the
+    # front page and the map show the same signs first (owner, 2026-09-25).
+    # They are Kiraly and Tokai's dictionary words, not proposals, so they are
+    # not in `rows`; they come from atlas.json, which the plate is drawn from.
+    pick = atlas_signs() + pick
     def spaced(code):
         return " ".join(code[i:i + 3] for i in range(0, len(code), 3))
     def gloss(r):
