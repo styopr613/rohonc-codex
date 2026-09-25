@@ -216,7 +216,12 @@ table.tests tr.cap+tr.cap td{padding-top:2px}
 .hero .blurb p.dc{margin-top:.3em}
 .orders h1{font-size:24px;margin-top:1.6em}.orders h2{font-size:20px}.orders pre{font-size:13px}.orders code{font-size:.82em}
 /* the front page: the book, the scroller */
-.hero{display:grid;grid-template-columns:minmax(0,1fr) 236px;gap:34px;align-items:center;margin:0 0 6px}
+.hero{display:grid;grid-template-columns:minmax(0,1fr) 236px;gap:34px;align-items:start;margin:0 0 6px}
+/* the right column: the way in first, then the book. It used to be the book alone,
+   centred against a long introduction, with the buttons at the introduction's foot. */
+.hero .side .acts{flex-direction:column;align-items:stretch;gap:8px;margin:0 0 18px;text-align:center}
+.hero .side .acts a.go{font-size:16px;padding:14px 12px;border-radius:4px;box-shadow:0 2px 0 rgba(122,36,24,.35)}
+.hero .side .acts a:not(.go){border:0;padding:2px;font-size:12.5px}
 .hero .blurb p:first-child{margin-top:0}
 .hero .bk{margin:0}
 .hero .bk img{width:100%;height:auto;display:block;filter:drop-shadow(0 16px 26px rgba(0,0,0,.32))}
@@ -387,7 +392,7 @@ table.dict tr.open td.ev .full{display:inline}
 table.dict tr.open td.ev .short,table.dict tr.open td.ev .more{display:none}
 .tiers{font-size:16.5px;background:var(--paper2);padding:12px 16px;border-radius:3px}
 .tiers b{font-family:Cinzel,serif;font-weight:400;color:var(--rub)}
-@media(max-width:860px){.hero{grid-template-columns:1fr;gap:20px}.hero .bk{max-width:220px;margin:0 auto;order:-1}.strip{margin-left:-20px;margin-right:-20px}}
+@media(max-width:860px){.hero{grid-template-columns:1fr;gap:20px}.hero .side{max-width:240px;width:100%;margin:0 auto;order:-1}.hero .bk{max-width:220px;margin:0 auto}.strip{margin-left:-20px;margin-right:-20px}}
 @media(max-width:700px){body{font-size:17.5px}main.sheet{margin:14px 10px 40px;padding:26px 20px 34px}header.rh .mark{font-size:22px}nav.sub a{margin:0 6px 6px}.prose h1{font-size:24px}.book-modal{padding:32px 24px 26px}.book-modal .modal-close{top:-22px;right:-14px;width:44px;height:44px}.tools .n{margin-left:0}}
 """
 
@@ -1105,14 +1110,16 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
     body = f"""
 <div class="hero">
   <div class="blurb">{intro_html}
-    <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
-      <a href="/rohonc/book/the-rohonc-codex.epub" download>EPUB</a></div>
     <p class="sz">All {nfolio} folios{pages_note} · the translation and the evidence in one volume.</p>
   </div>
+  <div class="side">
+  <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
+    <a href="/rohonc/book/the-rohonc-codex.epub" download>EPUB</a></div>
   <figure class="bk"><button class="book-peek" id="book-peek" type="button" aria-haspopup="dialog" aria-controls="book-blurb">
     <img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the book" width="576" height="900">
     <span class="book-peek-note">Turn it over</span>
   </button></figure>
+  </div>
 </div>
 <dialog class="book-modal" id="book-blurb" aria-labelledby="book-blurb-title">
   <form method="dialog"><button class="modal-close" aria-label="Close" value="close">×</button></form>
