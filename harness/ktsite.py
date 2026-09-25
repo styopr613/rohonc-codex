@@ -291,6 +291,11 @@ ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
 .sign .glyph{font-family:"Rohonc Codex";font-size:34px;line-height:1.1}
 .sign .meta{font-size:15px;color:var(--soft);width:100%}
 .sign .ev{font-size:15.5px;width:100%;margin:0}
+.sign .draw svg{height:52px;width:auto;vertical-align:middle;fill:currentColor}
+.sign .ev .more{cursor:pointer;color:var(--rub);background:none;border:0;font:inherit;padding:0 0 0 .3em}
+.sign .ev .full{display:none}
+.sign .ev.open .full{display:inline}
+.sign .ev.open .short,.sign .ev.open .more{display:none}
 .ctl{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:14px}
 .ctl button{font:inherit;font-size:14px;letter-spacing:.06em;text-transform:uppercase;padding:7px 12px;border:1px solid var(--line);border-radius:3px;background:var(--paper);color:var(--ink);cursor:pointer}
 .ctl button:hover{border-color:var(--rub);color:var(--rub)}
@@ -1008,7 +1013,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
 }})();
 </script>
 {strip_html(rows, sg)}
-<p class="nof">{html.escape(COPY["strip_note"].strip())} Drag it, or use the arrows: the glass magnifies whatever sign passes under it and names this project's reading of that sign and its code. The signs are traced from the manuscript itself. <a href="/rohonc/script.html">More about the script →</a></p>
+<p class="nof">{html.escape(COPY["strip_note"].strip())} Drag it, or use the arrows: the glass magnifies whatever sign passes under it and names this project's reading of that sign and its code. The signs drawn here are this edition's own, traced from the manuscript's ink, not taken from any font. <a href="/rohonc/script.html">More about the script →</a></p>
 {shot}
 
 <h2>How far it reads</h2>
@@ -1163,7 +1168,7 @@ def page_script(sample, pl, ktn):
 {paras("script_signs")}
 <div class="demo">
   <div class="sign" id="sg">
-    <span class="code" id="sgcode">…</span><span class="glyph" id="sgglyph" hidden></span>
+    <span class="code" id="sgcode">…</span><span class="draw" id="sgdraw" hidden></span><span class="glyph" id="sgglyph" hidden></span>
     <span class="gl" id="sggl"></span>
     <span class="meta" id="sgmeta"></span><p class="ev" id="sgev"></p>
   </div>
@@ -1173,7 +1178,7 @@ def page_script(sample, pl, ktn):
     <span class="sp" id="sgn"></span>
   </div>
 </div>
-<p id="fontnote" class="nof">The signs are drawn in Király and Tokai's own font. This page does not host it; if you install it from <a href="https://rechnitzer-kodex.hu/" rel="noopener">their site</a> the drawn sign appears here beside its code.</p>
+<p id="fontnote" class="nof">A sign drawn beside its code is this edition's own, traced from the manuscript's ink, not taken from any font; the tracing is under way and covers the common signs first. For the rest, if you have Király and Tokai's own font installed from <a href="https://rechnitzer-kodex.hu/" rel="noopener">their site</a>, the sign appears in it. This page hosts no font.</p>
 
 <h2>A sign can be a whole phrase</h2>
 {paras("script_phrases")}
@@ -1222,16 +1227,48 @@ try{{
   cv.font='34px "Rohonc Codex", serif'; var b=cv.measureText(t).width;
   FONT=Math.abs(a-b)>0.5;   // fonts.check() answers true for any family that falls back, so measure instead
 }}catch(e){{}}
-if(FONT){{q('fontnote').hidden=true;}}
+var PEN=null;
+function draw(code){{
+  // the same drawing as the strip on the front page: right to left, whole or not at all
+  if(!PEN||code.length%3){{return "";}}
+  var gl=[];
+  for(var i=0;i+3<=code.length;i+=3){{var g=PEN[code.substr(i,3)]; if(!g){{return "";}} gl.push(g);}}
+  var total=0,y0=1e9,y1=-1e9;
+  gl.forEach(function(g){{total+=g.w; y0=Math.min(y0,g.b[1]); y1=Math.max(y1,g.b[3]);}});
+  var pad=40,x=total,parts="";
+  gl.forEach(function(g){{x-=g.w; parts+='<path d="'+g.d+'" transform="translate('+x+' 0)"/>';}});
+  var H=y1-y0+2*pad;
+  return '<svg viewBox="0 '+(-y1-pad)+' '+total+' '+H+'" height="52" width="'+Math.round(52*total/H)+'" role="img" aria-label="the sign read '+code+'"><g transform="scale(1,-1)" fill="currentColor">'+parts+'</g></svg>';
+}}
+function fold(t){{
+  // what is shown before "more": the quoted verse when the evidence opens with
+  // one, else the first sentence. Short entries are never folded.
+  if(t.length<=320){{return null;}}
+  var m=t.match(/^[^']{{0,80}}\d+:\d+[^']{{0,80}}'[^']*'/);
+  var head=m?m[0]:(t.match(/^[\s\S]*?[.!?](?=\s+[A-Z\[('"]|\s*$)/)||[t])[0];
+  return head.length>=t.length-40?null:head;
+}}
+function evidence(t){{
+  var ev=q('sgev'); ev.textContent=''; ev.classList.remove('open');
+  var head=fold(t);
+  if(!head){{ev.textContent=t; return;}}
+  var a=document.createElement('span'); a.className='short'; a.textContent=head;
+  var b=document.createElement('button'); b.type='button'; b.className='more'; b.textContent='more';
+  var c=document.createElement('span'); c.className='full'; c.textContent=t;
+  b.addEventListener('click',function(){{ev.classList.add('open');}});
+  ev.appendChild(a); ev.appendChild(b); ev.appendChild(c);
+}}
 function pick(){{
   var pool=ROWS.filter(function(r){{return !T||r.tier===T;}});
   if(!pool.length){{return;}}
   var r=pool[Math.floor(Math.random()*pool.length)]; cur=r;
   q('sgcode').textContent=grp(r.code);
-  if(FONT){{var g=q('sgglyph'); g.textContent=pua(r.code); g.hidden=false;}}
+  var svg=draw(r.code), d=q('sgdraw'), g=q('sgglyph');
+  if(svg){{d.innerHTML=svg; d.hidden=false; g.hidden=true;}}
+  else{{d.hidden=true; if(FONT){{g.textContent=pua(r.code); g.hidden=false;}} else {{g.hidden=true;}}}}
   q('sggl').textContent=r.gloss;
   q('sgmeta').textContent='tier '+r.tier+' · stands '+r.n+(r.n===1?' time':' times')+' in the book';
-  q('sgev').textContent=r.evidence||'';
+  evidence(r.evidence||'');
   q('sgn').textContent=pool.length.toLocaleString()+' signs in this tier';
 }}
 q('sgnext').addEventListener('click',pick);
@@ -1239,6 +1276,7 @@ Array.prototype.forEach.call(document.querySelectorAll('.ctl button[data-t]'),fu
   b.addEventListener('click',function(){{
     Array.prototype.forEach.call(document.querySelectorAll('.ctl button[data-t]'),function(x){{x.classList.remove('on');}});
     b.classList.add('on'); T=b.getAttribute('data-t'); pick();}});}});
+fetch('/rohonc/data/pensigns.json').then(function(r){{return r.json();}}).then(function(j){{PEN=j; if(cur){{var s=draw(cur.code); if(s){{q('sgdraw').innerHTML=s; q('sgdraw').hidden=false; q('sgglyph').hidden=true;}}}}}}).catch(function(){{}});
 fetch('/rohonc/data/dictionary.json').then(function(r){{return r.json();}}).then(function(j){{
   ROWS=j.filter(function(r){{return r.tier!=='withdrawn'&&r.gloss;}}); pick();}})
  .catch(function(){{q('sgcode').textContent='The dictionary file did not load.';}});
@@ -1907,6 +1945,9 @@ def _build(out, final):
     # are taken down by name in publish(), after this build has succeeded, so no
     # link anywhere can point at a stale file.
     json.dump(rows, open(os.path.join(out, "data", "dictionary.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    # the traced signs, for the shuffler on the script page to draw with
+    json.dump({c: {"d": g["d"], "b": g["b"], "w": g["w"]} for c, g in signs()["signs"].items()},
+              open(os.path.join(out, "data", "pensigns.json"), "w", encoding="utf-8"))
     # the two pictures the pages need, from the repository: the glass over the
     # strip (three times its drawn size, sharp on a retina screen) and the 3-D
     # mock of the printed book, made by Cover Maker's own snapshot from the wrap
