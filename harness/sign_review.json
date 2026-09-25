@@ -1,0 +1,114 @@
+{
+ "_how": "Sign approvals by the owner. approved = on the site (penSigns.json). regen = owner asked for another pass, with the note saying what is wrong. 2026-09-25: the first 41 (sign_picks.json) marked approved by the owner's word, no sheet.",
+ "approved": [
+  "003",
+  "034",
+  "041",
+  "060",
+  "080",
+  "086",
+  "100",
+  "131",
+  "152",
+  "1a1",
+  "1f2",
+  "255",
+  "270",
+  "285",
+  "2c0",
+  "2d7",
+  "308",
+  "320",
+  "360",
+  "371",
+  "444",
+  "460",
+  "461",
+  "462",
+  "4a0",
+  "4a2",
+  "4a4",
+  "4a6",
+  "4a7",
+  "4b0",
+  "520",
+  "540",
+  "541",
+  "569",
+  "570",
+  "574",
+  "630",
+  "690",
+  "6e3",
+  "6e4",
+  "754",
+  "756",
+  "796",
+  "7a0",
+  "7a2",
+  "7b4",
+  "7e1",
+  "7e6",
+  "810",
+  "812",
+  "813",
+  "850",
+  "871",
+  "8c0",
+  "910",
+  "990",
+  "9d3",
+  "a10",
+  "ae0",
+  "ae1",
+  "afc",
+  "b78",
+  "b7b"
+ ],
+ "regen": {
+  "071": {
+   "note": "the sign is a lollipop - has a solid circle on top, ours is a line",
+   "asked": "2026-09-25",
+   "pass": 1
+  },
+  "607": {
+   "note": "different symbol from KT",
+   "asked": "2026-09-25",
+   "pass": 1
+  },
+  "670": {
+   "note": "KT has a backward e - hole in the top, verify same symbol",
+   "asked": "2026-09-25",
+   "pass": 1
+  },
+  "933": {
+   "note": "like a backward S",
+   "asked": "2026-09-25",
+   "pass": 1
+  },
+  "b30": {
+   "note": "has a hole in the middle (empty space)",
+   "asked": "2026-09-25",
+   "pass": 1
+  },
+  "b60": {
+   "note": "their sign is like a B, ours is a solid D, same sign?",
+   "asked": "2026-09-25",
+   "pass": 1
+  },
+  "b61": {
+   "note": "not even close",
+   "asked": "2026-09-25",
+   "pass": 1
+  },
+  "b7a": {
+   "note": "mixed up symbols, K&T different",
+   "asked": "2026-09-25",
+   "pass": 1
+  }
+ },
+ "rejected": [],
+ "_sheets": [
+  "https://claude.ai/artifact/CyeGGt2WbjCWYHSNpBEry1 (30 of the top-50 gap, 2026-09-25: 22 approved, 8 regen)"
+ ]
+}
