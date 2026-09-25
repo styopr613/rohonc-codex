@@ -292,6 +292,11 @@ ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
 .sign .meta{font-size:15px;color:var(--soft);width:100%}
 .sign .ev{font-size:15.5px;width:100%;margin:0}
 .sign .draw svg{height:52px;width:auto;vertical-align:middle;fill:currentColor}
+.sign .line{width:100%;margin:0;font-size:16.5px;line-height:1.5}
+.sign .line .ref{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13.5px;color:var(--soft);margin-right:.7em;letter-spacing:.04em}
+.sign .line b{border-bottom:2px solid var(--rub);font-weight:600}
+.sign .verse{width:100%;margin:0;font-size:16.5px;line-height:1.5;font-style:italic}
+.sign .verse .src{font-style:normal;font-size:13.5px;color:var(--soft);margin-right:.7em}
 .sign .ev .more{cursor:pointer;color:var(--rub);background:none;border:0;font:inherit;padding:0 0 0 .3em}
 .sign .ev .full{display:none}
 .sign .ev.open .full{display:inline}
@@ -606,6 +611,89 @@ def sign_svg(code, sg, h=52, cls="sv"):
     return (f'<svg class="{cls}" viewBox="{vb}" width="{w}" height="{h}" '
             f'role="img" aria-label="the sign read {html.escape(code)}">'
             f'<g transform="scale(1,-1)" fill="currentColor">{"".join(parts)}</g></svg>')
+
+
+def first_lines(rows):
+    """For each reading, the first line of the manuscript it stands in, as the
+    reader's edition prints it, with the sign's own word set apart:
+    {code: {"ref": "033r:7", "before": "...", "word": "...", "after": "..."}}.
+    Built from the transcription with kttranslate's own renderer, so the
+    words are exactly the words of the edition. Book order, first hit."""
+    import ktvariant
+    gl, doc, seg = T.C.build()
+    T.ORDER.update(T.ordered())
+    var = {v: h for v, (h, _) in ktvariant.readings()[6].items()}
+    prop = T.load_proposals()
+    T.prop_ref.update(prop)
+    want = {"".join(chr(0xE000 + int(r["code"][i:i + 3], 16)) for i in range(0, len(r["code"]), 3)): r["code"]
+            for r in rows if len(r["code"]) % 3 == 0}
+    out = {}
+    for pg in doc:
+        for li, ln in enumerate(pg.lines, 1):
+            flat = [t for run in ln for t in run]
+            bases = [T.A.strip(t)[0] for t in flat]
+            for i, b in enumerate(bases):
+                code = want.get(b)
+                if code is None or code in out:
+                    continue
+                words = [T.render_token(t, gl, seg, False, var, prop, own=True).replace("_", " ") for t in flat]
+                out[code] = {"ref": f"{pg.page}:{li}", "before": " ".join(words[:i]),
+                             "word": words[i].lstrip("+~?°"), "after": " ".join(words[i + 1:])}
+        if len(out) == len(want):
+            break
+    return out
+
+
+def narrative_sentence(rows, lines):
+    """For each reading with a line, one sentence of Book One from the part
+    that folio falls in, the first that carries the sign's word; failing
+    that, one from the folio's own English paragraph. {code: {"src", "text"}}."""
+    order = [f for f, _ in folio_order()]
+    idx = {f: i for i, f in enumerate(order)}
+    parts = []
+    for m in re.finditer(r"^### folios (\d{3}[rv])–(\d{3}[rv])\n(.*?)(?=^## |^### |\Z)",
+                         read(os.path.join(TR, "reading.md")), re.M | re.S):
+        lo, hi, body = m.groups()
+        if lo in idx and hi in idx:
+            body = re.sub(r"\(\d{3}[rv](?:[–-]\d{3}[rv])?\)\s*", "", body)     # the inline folio tags
+            parts.append((idx[lo], idx[hi], re.sub(r"\s+", " ", body).strip()))
+    eng = json.load(open(os.path.join(TR, "english.json"), encoding="utf-8"))
+    def sentences(text):
+        # a sentence ends at . ! ? ; and also after a closing quote that follows one
+        return [x.strip() for x in re.split(r"(?<=[.!?;][\u201d\u2019\"'])\s+|(?<=[.!?;])\s+", text) if x.strip()]
+    def find(text, terms):
+        for t in terms:
+            pat = re.compile(r"\b" + re.escape(t) + r"\b", re.I)
+            for sen in sentences(text):
+                if pat.search(sen):
+                    return sen if len(sen) <= 260 else sen[:257].rsplit(" ", 1)[0] + "…"
+        return None
+    out = {}
+    for r in rows:
+        L = lines.get(r["code"])
+        if not L:
+            continue
+        folio = L["ref"].split(":")[0]
+        g = re.sub(r"[<>\[\]°*~?]", "", L["word"]).replace("_", " ").strip()
+        stop = {"the", "and", "this", "that", "for", "with", "from", "into", "unto", "upon", "not", "his", "her", "one", "who", "what", "how", "then", "there", "here", "out"}
+        words = [w for w in re.findall(r"[A-Za-zÀ-ž']{3,}", g) if w.lower() not in stop]
+        terms = ([g] if " " in g else []) + words[::-1]
+        if not terms or g.isupper():
+            continue
+        i = idx.get(folio)
+        hit = None
+        if i is not None:
+            for lo, hi, body in parts:
+                if lo <= i <= hi:
+                    hit = find(body, terms)
+                    if hit:
+                        out[r["code"]] = {"src": "Book One", "text": hit}
+                    break
+        if not hit and folio in eng and eng[folio].get("english"):
+            hit = find(eng[folio]["english"], terms)
+            if hit:
+                out[r["code"]] = {"src": f"the English of {folio}", "text": hit}
+    return out
 
 
 def plates():
@@ -1170,7 +1258,7 @@ def page_script(sample, pl, ktn):
   <div class="sign" id="sg">
     <span class="code" id="sgcode">…</span><span class="draw" id="sgdraw" hidden></span><span class="glyph" id="sgglyph" hidden></span>
     <span class="gl" id="sggl"></span>
-    <span class="meta" id="sgmeta"></span><p class="ev" id="sgev"></p>
+    <span class="meta" id="sgmeta"></span><p class="line" id="sgline" hidden></p><p class="verse" id="sgverse" hidden></p><p class="ev" id="sgev"></p>
   </div>
   <div class="ctl">
     <button id="sgnext">Another sign</button>
@@ -1248,35 +1336,62 @@ function fold(t){{
   var head=m?m[0]:(t.match(/^[\s\S]*?[.!?](?=\s+[A-Z\[('"]|\s*$)/)||[t])[0];
   return head.length>=t.length-40?null:head;
 }}
-function evidence(t){{
+function line(L){{
+  // the first line of the manuscript the sign stands in, its own word marked
+  var el=q('sgline'); el.textContent=''; el.hidden=!L; if(!L){{return;}}
+  var r=document.createElement('span'); r.className='ref'; r.textContent=L.ref; el.appendChild(r);
+  if(L.before){{el.appendChild(document.createTextNode(L.before+' '));}}
+  var w=document.createElement('b'); w.textContent=L.word; el.appendChild(w);
+  if(L.after){{el.appendChild(document.createTextNode(' '+L.after));}}
+}}
+function verse(V){{
+  var el=q('sgverse'); el.textContent=''; el.hidden=!V; if(!V){{return;}}
+  var r=document.createElement('span'); r.className='src'; r.textContent=V.src; el.appendChild(r);
+  el.appendChild(document.createTextNode('\u201c'+V.text+'\u201d'));
+}}
+function evidence(t,hasLine){{
+  // with a line above it the evidence is folded, whatever its length;
+  // without one, only a long evidence is folded, at the verse or first sentence
   var ev=q('sgev'); ev.textContent=''; ev.classList.remove('open');
-  var head=fold(t);
-  if(!head){{ev.textContent=t; return;}}
-  var a=document.createElement('span'); a.className='short'; a.textContent=head;
-  var b=document.createElement('button'); b.type='button'; b.className='more'; b.textContent='more';
+  var head=hasLine?'':fold(t);
+  if(head===null||(!hasLine&&!head)){{ev.textContent=t; return;}}
+  if(head){{var a=document.createElement('span'); a.className='short'; a.textContent=head; ev.appendChild(a);}}
+  var b=document.createElement('button'); b.type='button'; b.className='more'; b.textContent=hasLine?'evidence':'more';
   var c=document.createElement('span'); c.className='full'; c.textContent=t;
   b.addEventListener('click',function(){{ev.classList.add('open');}});
-  ev.appendChild(a); ev.appendChild(b); ev.appendChild(c);
+  ev.appendChild(b); ev.appendChild(c);
+}}
+var ORDER=[],POS=0;
+function shuffle(a){{for(var i=a.length-1;i>0;i--){{var j=Math.floor(Math.random()*(i+1)),t=a[i];a[i]=a[j];a[j]=t;}}return a;}}
+function order(){{
+  // a walk, not a draw: the signs this edition has traced come first, in a
+  // random order, then the rest; the tier buttons rebuild the walk
+  var pool=ROWS.filter(function(r){{return !T||r.tier===T;}});
+  var a=pool.filter(function(r){{return !!draw(r.code);}}), b=pool.filter(function(r){{return !draw(r.code);}});
+  ORDER=shuffle(a).concat(shuffle(b)); POS=0;
 }}
 function pick(){{
-  var pool=ROWS.filter(function(r){{return !T||r.tier===T;}});
-  if(!pool.length){{return;}}
-  var r=pool[Math.floor(Math.random()*pool.length)]; cur=r;
+  if(!ORDER.length){{order();}}
+  if(!ORDER.length){{return;}}
+  var pool=ORDER;
+  var r=ORDER[POS%ORDER.length]; POS++; cur=r;
   q('sgcode').textContent=grp(r.code);
   var svg=draw(r.code), d=q('sgdraw'), g=q('sgglyph');
   if(svg){{d.innerHTML=svg; d.hidden=false; g.hidden=true;}}
   else{{d.hidden=true; if(FONT){{g.textContent=pua(r.code); g.hidden=false;}} else {{g.hidden=true;}}}}
   q('sggl').textContent=r.gloss;
   q('sgmeta').textContent='tier '+r.tier+' · stands '+r.n+(r.n===1?' time':' times')+' in the book';
-  evidence(r.evidence||'');
+  line(r.line||null);
+  verse(r.verse||null);
+  evidence(r.evidence||'', !!r.line);
   q('sgn').textContent=pool.length.toLocaleString()+' signs in this tier';
 }}
 q('sgnext').addEventListener('click',pick);
 Array.prototype.forEach.call(document.querySelectorAll('.ctl button[data-t]'),function(b){{
   b.addEventListener('click',function(){{
     Array.prototype.forEach.call(document.querySelectorAll('.ctl button[data-t]'),function(x){{x.classList.remove('on');}});
-    b.classList.add('on'); T=b.getAttribute('data-t'); pick();}});}});
-fetch('/rohonc/data/pensigns.json').then(function(r){{return r.json();}}).then(function(j){{PEN=j; if(cur){{var s=draw(cur.code); if(s){{q('sgdraw').innerHTML=s; q('sgdraw').hidden=false; q('sgglyph').hidden=true;}}}}}}).catch(function(){{}});
+    b.classList.add('on'); T=b.getAttribute('data-t'); order(); pick();}});}});
+fetch('/rohonc/data/pensigns.json').then(function(r){{return r.json();}}).then(function(j){{PEN=j; if(ROWS.length){{order(); pick();}}}}).catch(function(){{}});
 fetch('/rohonc/data/dictionary.json').then(function(r){{return r.json();}}).then(function(j){{
   ROWS=j.filter(function(r){{return r.tier!=='withdrawn'&&r.gloss;}}); pick();}})
  .catch(function(){{q('sgcode').textContent='The dictionary file did not load.';}});
@@ -1929,6 +2044,11 @@ def _build(out, final):
     summary, ktn = tests_summary()
     newpara = new_here()
     about, rows = proposals()
+    lines = first_lines(rows)
+    verses = narrative_sentence(rows, lines)
+    for r in rows:
+        r["line"] = lines.get(r["code"])
+        r["verse"] = verses.get(r["code"])
     tiers = {}
     for r in rows:
         tiers[r["tier"]] = tiers.get(r["tier"], 0) + 1
