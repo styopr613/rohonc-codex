@@ -31,7 +31,29 @@
    2000
   ],
   "master": "/home/ubuntu/rohonc-plates/plate-052r.png",
-  "reads": "The banner reads: “Here ends the evangelist’s account of the Passion of the Lord Jesus.”"
+  "reads": "The banner reads: “Here ends the evangelist’s account of the Passion of the Lord Jesus.”",
+  "lines": [
+   {
+    "n": 1,
+    "box": [
+     10,
+     6.3,
+     96,
+     12.8
+    ],
+    "english": "The Lord Jesus commends his spirit and gives up the ghost. Partly read: some of the signs between these words are not."
+   },
+   {
+    "n": 2,
+    "box": [
+     10,
+     13.2,
+     96,
+     20.3
+    ],
+    "english": "Here ends the evangelist’s account of the Passion of the Lord Jesus."
+   }
+  ]
  },
  {
   "folio": "078v",

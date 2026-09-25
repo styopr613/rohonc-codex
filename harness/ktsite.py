@@ -296,6 +296,16 @@ body:has(.book-modal[open]){overflow:hidden}
 .shot img{width:100%;height:auto;display:block;border:1px solid var(--line);background:#fff}
 .shot figcaption{font-size:15px;color:var(--soft);padding-top:10px;font-style:italic}
 @media(max-width:620px){.shot{max-width:88%}.shot .frame{padding:8px}}
+/* script lines on a plate: a target over each, lit on hover, focus or tap (.on), with
+   the line's signs as read and its English beneath it */
+.pl{position:relative;display:block}
+.pl .bl{position:absolute;padding:0;border:0;border-radius:2px;background:transparent;cursor:help}
+.pl .bl:hover,.pl .bl:focus-visible,.pl .bl.on{background:rgba(122,36,24,.10);outline:2px solid rgba(122,36,24,.55)}
+.pl .tip{display:none;position:absolute;left:50%;top:calc(100% + 8px);transform:translateX(-50%);z-index:5;width:min(330px,82vw);box-sizing:border-box;padding:11px 14px;background:var(--paper);color:var(--ink);border:1px solid var(--line);border-radius:4px;box-shadow:0 8px 24px rgba(0,0,0,.2);text-align:left;font:15px/1.45 "EB Garamond",Georgia,serif;cursor:auto}
+.pl .bl:hover .tip,.pl .bl:focus-visible .tip,.pl .bl.on .tip{display:block}
+.pl .tip b{display:block;font-family:Cinzel,serif;font-weight:400;font-size:12px;letter-spacing:.07em;color:var(--rub);text-transform:uppercase;margin-bottom:4px}
+.pl .tip .g{display:block;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12.5px;color:var(--soft);margin-bottom:6px}
+.pl .tip .e{display:block;font-style:italic}
 ol.steps,ul.steps{padding-left:1.3em}
 ol.steps li,ul.steps li{margin:0 0 .8em}
 ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
@@ -745,6 +755,38 @@ def narrative_sentence(rows, lines):
     return out
 
 
+def edition_gloss_line(folio, n):
+    """Line n of a folio's gloss as the edition prints it (rohonc_readers_edition.md),
+    the signs' words in reading order, joined for a reader: never typed here."""
+    txt = open(os.path.join(TR, "rohonc_readers_edition.md"), encoding="utf-8").read()
+    m = re.search(r"^## %s\b.*?(?=^## )" % re.escape(folio), txt, re.S | re.M)
+    if not m:
+        raise SystemExit("ktsite: no %s in the reader's edition" % folio)
+    for ln in m.group(0).splitlines():
+        k = re.match(r"\s+(\d+)\s{2,}(.+)$", ln)
+        if k and int(k.group(1)) == n:
+            return " · ".join(w.replace("*", "").replace("_", " ").replace("-", " ") for w in k.group(2).split())
+    raise SystemExit("ktsite: %s has no line %d" % (folio, n))
+
+
+def plate_img(x, alt):
+    """A plate's picture; where plates.json marks lines of script on it ("lines": box in
+    percent of the picture, and the English), each line is a target that lights up on
+    hover, focus or tap and shows the line's signs as read and its English."""
+    img = f'<img src="/rohonc/plates/{html.escape(x["file"])}" alt="{html.escape(alt)}" loading="lazy">'
+    if not x.get("lines"):
+        return img
+    spots = []
+    for L in x["lines"]:
+        x0, y0, x1, y1 = L["box"]
+        g = edition_gloss_line(x["folio"], L["n"])
+        spots.append(f'<button type="button" class="bl" style="left:{x0}%;top:{y0}%;width:{x1 - x0}%;height:{y1 - y0}%" '
+                     f'aria-label="Line {L["n"]}: {html.escape(L["english"])}"><span class="tip">'
+                     f'<b>Line {L["n"]}, right to left</b><span class="g">{html.escape(g)}</span>'
+                     f'<span class="e">{html.escape(L["english"])}</span></span></button>')
+    return f'<span class="pl">{img}{"".join(spots)}</span>'
+
+
 def plates():
     p = os.path.join(WORK, "plates.json")
     return json.load(open(p, encoding="utf-8")) if os.path.isfile(p) else []
@@ -1106,10 +1148,15 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
     shot = ""
     if pl:
         x = pl[min(2, len(pl) - 1)]
-        shot = (f'<figure class="shot"><span class="frame"><img src="/rohonc/plates/{html.escape(x["file"])}" '
-                f'alt="{html.escape(x["folio"])} redrawn" loading="lazy"></span>'
-                f'<figcaption>{html.escape(x["caption"])} {html.escape(x.get("reads", ""))} Redrawn from the manuscript\'s own '
+        hint = " Point at a line of the banner, or tap it, to read it." if x.get("lines") else ""
+        shot = (f'<figure class="shot"><span class="frame">{plate_img(x, x["folio"] + " redrawn")}</span>'
+                f'<figcaption>{html.escape(x["caption"])} {html.escape(x.get("reads", ""))}{hint} Redrawn from the manuscript\'s own '
                 f'drawing; not a reproduction.</figcaption></figure>')
+        if x.get("lines"):
+            # a phone has no hover: a tap lights a line, a tap anywhere else puts it out
+            shot += ("<script>document.addEventListener('click',function(e){var b=e.target.closest&&e.target.closest('.pl .bl');"
+                     "document.querySelectorAll('.pl .bl.on').forEach(function(x){if(x!==b)x.classList.remove('on')});"
+                     "if(b)b.classList.toggle('on')});</script>")
     intro_html = paras("intro").replace("<p>", '<p class="dc">', 1)
     cover_blurb = paras("cover_blurb")
     body = f"""
