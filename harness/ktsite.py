@@ -225,12 +225,18 @@ table.tests tr.cap+tr.cap td{padding-top:2px}
 .book-peek:hover img{transform:translateY(-3px);filter:drop-shadow(0 19px 28px rgba(0,0,0,.38))}
 .book-peek:focus-visible{outline:2px solid var(--rub);outline-offset:8px;border-radius:2px}
 .book-peek-note{display:block;margin:.8em 0 0;text-align:center;font-size:14px;font-style:italic;color:var(--soft)}
-.book-modal{width:min(620px,calc(100vw - 40px));max-height:calc(100vh - 40px);box-sizing:border-box;overflow:auto;padding:38px 42px 32px;border:1px solid var(--line);border-radius:4px;background:var(--paper);color:var(--ink);box-shadow:0 20px 70px rgba(0,0,0,.65)}
+.book-modal{width:min(620px,calc(100vw - 40px));max-height:calc(100vh - 40px);max-height:calc(100dvh - 40px);box-sizing:border-box;overflow:auto;padding:38px 42px 32px;border:1px solid var(--line);border-radius:4px;background:var(--paper);color:var(--ink);box-shadow:0 20px 70px rgba(0,0,0,.65)}
 .book-modal::backdrop{background:rgba(5,6,8,.78)}
 .book-modal h2{margin:0 35px .8em 0}
 .book-modal p{font-size:18px;line-height:1.5}
 .book-modal .modal-close{position:absolute;top:13px;right:15px;width:34px;height:34px;padding:0;border:0;background:transparent;color:var(--soft);font:28px/1 Georgia,serif;cursor:pointer}
 .book-modal .modal-close:hover,.book-modal .modal-close:focus{color:var(--rub)}
+/* The close button rides a zero-height sticky strip at the top of the dialog, so it is
+   in reach however far the text has scrolled; dvh sizes the dialog to the screen actually
+   visible, where 100vh on an iPhone is the height with the browser bars hidden and put the
+   top of a tall dialog, and its x, under the address bar. (2026-09-25) */
+.book-modal form[method=dialog]{position:sticky;top:0;height:0;z-index:2}
+.book-modal .modal-close{top:-25px;right:-27px}
 .book-modal .acts{margin-bottom:0}
 body:has(.book-modal[open]){overflow:hidden}
 /* THE DOOR TO THE READER IS A BUTTON. This rule was scoped to .hero, so the same
@@ -382,7 +388,7 @@ table.dict tr.open td.ev .short,table.dict tr.open td.ev .more{display:none}
 .tiers{font-size:16.5px;background:var(--paper2);padding:12px 16px;border-radius:3px}
 .tiers b{font-family:Cinzel,serif;font-weight:400;color:var(--rub)}
 @media(max-width:860px){.hero{grid-template-columns:1fr;gap:20px}.hero .bk{max-width:220px;margin:0 auto;order:-1}.strip{margin-left:-20px;margin-right:-20px}}
-@media(max-width:700px){body{font-size:17.5px}main.sheet{margin:14px 10px 40px;padding:26px 20px 34px}header.rh .mark{font-size:22px}nav.sub a{margin:0 6px 6px}.prose h1{font-size:24px}.book-modal{padding:32px 24px 26px}.tools .n{margin-left:0}}
+@media(max-width:700px){body{font-size:17.5px}main.sheet{margin:14px 10px 40px;padding:26px 20px 34px}header.rh .mark{font-size:22px}nav.sub a{margin:0 6px 6px}.prose h1{font-size:24px}.book-modal{padding:32px 24px 26px}.book-modal .modal-close{top:-22px;right:-14px;width:44px;height:44px}.tools .n{margin-left:0}}
 """
 
 
