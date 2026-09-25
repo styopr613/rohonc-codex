@@ -289,9 +289,13 @@ body:has(.book-modal[open]){overflow:hidden}
 .strip.glassed .rcap{display:block;text-align:center;margin:var(--cap) 0 0;padding:0 16px;min-height:28px}
 .strip .rcap b{font-weight:400;font-size:21px;color:var(--rub)}
 .strip .rcap span{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:12px;color:var(--soft);letter-spacing:.06em;margin-left:12px}
-.shot{margin:1.6em 0}
-.shot img{width:100%;display:block;border:1px solid var(--line);background:#fff}
-.shot figcaption{font-size:15.5px;color:var(--soft);padding-top:8px}
+/* the front page's folio: framed like the drop cap -- a paper mat, a double rule in the
+   rubric -- and held to a picture's size rather than the full sheet */
+.shot{margin:2em auto;max-width:460px;text-align:center}
+.shot .frame{display:block;padding:12px;background:var(--paper2);border:3px double var(--rub);box-shadow:0 8px 22px rgba(0,0,0,.14)}
+.shot img{width:100%;height:auto;display:block;border:1px solid var(--line);background:#fff}
+.shot figcaption{font-size:15px;color:var(--soft);padding-top:10px;font-style:italic}
+@media(max-width:620px){.shot{max-width:88%}.shot .frame{padding:8px}}
 ol.steps,ul.steps{padding-left:1.3em}
 ol.steps li,ul.steps li{margin:0 0 .8em}
 ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
@@ -1102,8 +1106,8 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
     shot = ""
     if pl:
         x = pl[min(2, len(pl) - 1)]
-        shot = (f'<figure class="shot"><img src="/rohonc/plates/{html.escape(x["file"])}" '
-                f'alt="{html.escape(x["folio"])} redrawn" loading="lazy">'
+        shot = (f'<figure class="shot"><span class="frame"><img src="/rohonc/plates/{html.escape(x["file"])}" '
+                f'alt="{html.escape(x["folio"])} redrawn" loading="lazy"></span>'
                 f'<figcaption>{html.escape(x["caption"])} Redrawn from the manuscript\'s own '
                 f'drawing; not a reproduction.</figcaption></figure>')
     intro_html = paras("intro").replace("<p>", '<p class="dc">', 1)
