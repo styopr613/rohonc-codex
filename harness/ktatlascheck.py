@@ -7,7 +7,7 @@ What it refuses, declared before it ran:
 
   1. An event, text, region or area in atlas.json with no `source` line, a
      missing field, an unknown place, a lane or kind outside the two allowed,
-     or a glyph code that is not in signs.json.
+     or a glyph code that is not in penSigns.json.
   2. A year on the codex timeline that the book does not also state: 1593,
      1838, 2014 and 2018 must appear in the book's introduction as written in
      ktbook.py. If the book's date moves and the plate's does not, this fails.
@@ -40,10 +40,10 @@ BOOK_YEARS = {"1593": r"which is 1593", "1838": r"in 1838", "2014": r"published 
 def main():
     fails = []
     d = json.load(open(os.path.join(HERE, "atlas.json"), encoding="utf-8"))
-    sp = os.path.join(corpus.ROOT, "work", "rohonc", "signs.json")
+    sp = os.path.join(corpus.ROOT, "work", "rohonc", "penSigns.json")
     if not os.path.exists(sp):
         # A local working file made from Király and Tokai's font; see .gitignore.
-        print("signs.json is missing: run ktsigns.py first (it reads their font from data/)")
+        print("penSigns.json is missing: run ktdeep.py and apply sign_picks.json")
         return 1
     sg = json.load(open(sp, encoding="utf-8"))["signs"]
     places = d["places"]
@@ -83,7 +83,7 @@ def main():
     for g in tg["glyphs"]:
         code = g["code"]
         if any(code[i:i + 3] not in sg for i in range(0, len(code), 3)):
-            fails.append(f"glyph {g['gloss']}: code {code} not in signs.json")
+            fails.append(f"glyph {g['gloss']}: code {code} not in penSigns.json")
 
     # 2. the years the book states
     src = open(os.path.join(HERE, "ktbook.py"), encoding="utf-8").read()

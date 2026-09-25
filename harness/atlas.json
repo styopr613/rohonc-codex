@@ -1731,12 +1731,12 @@
     "gloss": "Christ"
    },
    {
-    "code": "607",
-    "gloss": "Mary"
+    "code": "7e1",
+    "gloss": "apostle"
    },
    {
-    "code": "3b1",
-    "gloss": "Jerusalem"
+    "code": "574",
+    "gloss": "life"
    },
    {
     "code": "462",
@@ -1747,6 +1747,6 @@
     "gloss": "Lord"
    }
   ],
-  "glyphs_source": "Király and Tokai's dictionary, exact-gloss entries; outlines from their font via ktsigns.py, credited on the plate."
+  "glyphs_source": "Király and Tokai's dictionary, exact-gloss entries; the signs traced from the manuscript's ink (ktdeep.py)."
  }
 }

@@ -4416,8 +4416,8 @@
   "tier": "A"
  },
  "520b78": {
-  "evidence": "CORRECTION: read here as the Mount of Olives until 2026-09-20, which fits four of five but not 108r:6, where the source is a city that is set on an HILL, Matthew 5:14. The plain sense mount or hill fits all five: over the brook Cedron into it 033r:7, a mountain peak 033v:11, Jesus sits on it 212r:5",
-  "gloss": "mount",
+  "evidence": "CORRECTION 2026-09-25: printed as 'mount' until now, the same as b78, which dropped the first sign. 520 on its own is K&T's 'to, away' (their Hungarian entry: igekoto el-, oda-), and every line has the mount as a place gone to or sat on, never the mount as a thing: over the brook Cedron into it 033r:7, a garden on it 033r:8, the summit 033v:11, a city on a high one 108r:6 (Matthew 5:14, supra montem), Jesus sits on it 212r:5. Bare b78 is the mount itself: a grape harvest on it 140r:3, an image on it 144r:7. CORRECTION: read here as the Mount of Olives until 2026-09-20, which fits four of five but not 108r:6, where the source is a city that is set on an HILL, Matthew 5:14. The plain sense mount or hill fits all five: over the brook Cedron into it 033r:7, a mountain peak 033v:11, Jesus sits on it 212r:5",
+  "gloss": "to_the_mount",
   "n": 5,
   "tier": "B"
  },
@@ -6288,8 +6288,8 @@
   "tier": "C"
  },
  "630461": {
-  "evidence": "'on the [cross] they hanged the Lord Jesus' 053r:7, 058r:3; Nicodemus, the [cross], three nails 054r:5; 'Christ on the [cross] gave up his soul, the earth, the rocks' 057v:11; 'on the [cross] the Lord prayed to God his Father' 050v:11, 051v:10; the Jews cry it before Pilate 041r:6, 046v:2, 046v:9, 047r:5. It is also the first half of 630461796, the sign read as crucified, so the compound is cross + a verb ending",
-  "gloss": "cross",
+  "evidence": "CORRECTION 2026-09-25: printed as 'cross' until now, the same as 461, which dropped the first sign. 630 on its own is K&T's 'on, at, into' (their Hungarian entry: -on/-en/-on, -ba/-be), and the compound is what the lines say: the Jews' cry before Pilate 041r:6, 046v:2, 046v:9, 047r:5 (crucifige, Douay-Rheims 'crucify him'); the body raised on it 048v:9; the Lord set on it 050r:7. Bare 461 is the cross itself: Simon carries it 049v:7, on the shoulder 103r:6. 'on the [cross] they hanged the Lord Jesus' 053r:7, 058r:3; Nicodemus, the [cross], three nails 054r:5; 'Christ on the [cross] gave up his soul, the earth, the rocks' 057v:11; 'on the [cross] the Lord prayed to God his Father' 050v:11, 051v:10; the Jews cry it before Pilate 041r:6, 046v:2, 046v:9, 047r:5. It is also the first half of 630461796, the sign read as crucified, so 630461796 is on-the-cross + die",
+  "gloss": "on_the_cross",
   "n": 25,
   "tier": "A"
  },

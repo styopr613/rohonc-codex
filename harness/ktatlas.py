@@ -42,7 +42,7 @@ from ktmapgen import INK, SOFT, GOLD, TERRA, SEA, PARCH, FONT, esc
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "atlas.json")
 OUT = os.path.join(corpus.ROOT, "work", "rohonc", "atlas")
-SIGNS = os.path.join(corpus.ROOT, "work", "rohonc", "signs.json")
+SIGNS = os.path.join(corpus.ROOT, "work", "rohonc", "penSigns.json")
 BAND1, BAND2, HILITE = "#ece1c9", "#f1ead9", "#e7dcc0"
 CREDIT_GEO = "Coastlines, rivers, lakes: Natural Earth (public domain). Borders and areas approximate, drawn by hand."
 FAITH = {"Catholic": GOLD, "Lutheran": SEA, "Calvinist": INK, "Unitarian": "#6b8e8a",
@@ -181,7 +181,7 @@ def plate_tongues(d, sg):
     m.text_xy(bx + 14, by + 44, "Several hundred signs; code units mostly stand for words; right to left.", size=13, color=INK)
     frag, w = glyph_row(sg, t["glyphs"], bx + 18, by + 54, 40, gap=22, size=12.5)
     m.raw(frag)
-    m.text_xy(bx + bw - 12, by + 140, "signs after Király and Tokai's font; glosses theirs", size=10.5, color=SOFT, italic=True, anchor="end")
+    m.text_xy(bx + bw - 12, by + 140, "signs traced from the manuscript; glosses Király and Tokai's", size=10.5, color=SOFT, italic=True, anchor="end")
     # callout: a Catholic book in a Protestant country
     m.raw(ev_open("A Catholic book in a Protestant country", "c. 1600",
                   "Around 1600 some 85 to 90 per cent of the kingdom's people were Protestant, more than half of them Calvinist. The codex is a Catholic reader: the Douay Bible's saints, the Roman Missal's feasts, the Golden Legend. Whoever wrote it belonged to a minority in the country around it."))

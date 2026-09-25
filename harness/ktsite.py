@@ -577,8 +577,8 @@ def sample_lines(folio="004v", first=10, last=11):
 
 
 def signs():
-    """Every sign of the script as an outline, from ktsigns.py."""
-    p = os.path.join(WORK, "signs.json")
+    """The signs this site draws: traced from the manuscript's ink (penSigns.json)."""
+    p = os.path.join(WORK, "penSigns.json")
     return json.load(open(p, encoding="utf-8")) if os.path.isfile(p) else {"signs": {}, "upm": 1000}
 
 
@@ -586,9 +586,8 @@ def sign_svg(code, sg, h=52, cls="sv"):
     """Draw a reading's signs as one SVG, laid out RIGHT TO LEFT, the way the
     manuscript is written: the first sign of the code sits on the right."""
     gl = [sg["signs"].get(code[i:i + 3]) for i in range(0, len(code), 3)]
-    gl = [g for g in gl if g]
-    if not gl:
-        return ""
+    if not gl or not all(gl):
+        return ""                       # a word is drawn whole or not at all
     total = sum(g["w"] for g in gl)
     y0 = min(g["b"][1] for g in gl)
     y1 = max(g["b"][3] for g in gl)
@@ -984,7 +983,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
 }})();
 </script>
 {strip_html(rows, sg)}
-<p class="nof">{html.escape(COPY["strip_note"].strip())} Drag it, or use the arrows: the glass magnifies whatever sign passes under it and names this project's reading of that sign and its code. The outlines are drawn from Király and Tokai's own font. <a href="/rohonc/script.html">More about the script →</a></p>
+<p class="nof">{html.escape(COPY["strip_note"].strip())} Drag it, or use the arrows: the glass magnifies whatever sign passes under it and names this project's reading of that sign and its code. The signs are traced from the manuscript itself. <a href="/rohonc/script.html">More about the script →</a></p>
 {shot}
 
 <h2>How far it reads</h2>

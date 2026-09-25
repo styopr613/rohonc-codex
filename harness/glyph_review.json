@@ -1,0 +1,34 @@
+{
+ "_how": "Every cut from ktcut.py looked at on the sheet, by eye, against Kiraly and Tokai's outline and the scan instances. ok = the right sign, cleanly traced; no = wrong sign, a neighbour's strokes in it, or a blob. The site uses only ok. Decided by hand; the kt_iou score is not the gate. 2026-09-24.",
+ "ok": [
+  "060",
+  "285",
+  "353",
+  "456",
+  "461",
+  "4b0",
+  "520",
+  "541",
+  "570",
+  "630",
+  "670",
+  "795",
+  "7e6",
+  "813",
+  "850",
+  "903",
+  "910",
+  "a10",
+  "a79",
+  "ae0"
+ ],
+ "no": {
+  "131": "neighbour's strokes in the cut",
+  "540": "wrong stroke cut",
+  "60b": "blob, not the sign",
+  "444": "wrong shape",
+  "4f1": "extra bar from the neighbour",
+  "7a2": "wrong shape",
+  "773": "the scan's copies are plain O (a10, 5,198 times); 773 is an O with dots (11 times), too fine to find at this resolution"
+ }
+}

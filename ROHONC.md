@@ -1645,6 +1645,74 @@ senses, as the two gates above showed, so a reader chooses, and this reader's
 blind score on held-out codes was one to two right in six. Single lines are
 proposals. The story-level reading rests on many lines agreeing.
 
+## Two signs that are grammar: 520 and 630
+
+Found on 2026-09-25, from the strip of signs on the site. The strip drew
+*mount* twice, once as b78 and once as 520b78, and *cross* twice, as 461 and
+630461. Two spellings of one word looked like a failure of the reading. They
+are not. The first sign of each pair is a word of its own.
+
+**Király and Tokai read them alone.** Their entry for 520 by itself is *to,
+away*; the Hungarian side of their dictionary calls it an *igekötő*, a verbal
+prefix, *el-* and *oda-*. Their entry for 630 by itself is *on, at, into,
+above, after, at the time of, because of*; the Hungarian side gives the
+suffixes *-on/-en/-ön*, *-ba/-be*, *fölé*, *-kor*, *után*. 520 stands in 6,197
+words of the book, 4,432 of them at the front; 630 in 893, 824 at the front,
+58 on its own. 73 words occur both bare and with 520 in front of them, 85
+both bare and with 630. The rendering already reads most of these by
+composition: *to-Lord* 94 times, *on-this* 60 times, *on-angel* 20, and the
+word after *to-Lord* is most often *thanks*. The prefix vanished only where a
+whole compound had a gloss of its own: in this project's *mount* and *cross*,
+and in their own headwords such as 520b7a *believe* beside b7a.
+
+**The lines say so.** Every 520b78 is the mount as a place gone to or sat on:
+across the Cedron into it 033r:7, a garden on it 033r:8, the summit 033v:11,
+a city on a high one 108r:6, which is Matthew 5:14, *supra montem*, and Jesus
+sits on it 212r:5. Every bare b78 is the mount as a thing: a grape harvest on
+it 140r:3, an image on it 144r:7. Every 630461 is *on the cross*: the Jews'
+cry before Pilate 041r:6, 046v:2, 046v:9 and 047r:5, which is *crucifige*;
+the body raised on it 048v:9; the Lord set on it 050r:7. Every bare 461 is the
+cross itself: Simon carries it 049v:7, it lies on the shoulder 103r:6. And
+630461796, read *crucified* since the first edition, is *on-the-cross* +
+*die*. The English of the reader's edition and of Book One, written before
+this was noticed, already has it right: *into mount*, *a city on a high
+mount*, *sat upon this mount*, *the cross for the Lord!*, *upon the cross*.
+
+**What was tested, and what the tests are worth.** Three checks were run
+before the glosses changed. First, a word in the dative should not be the
+subject: the subject marker 910 stands next to a bare word 1.4% of the time
+and next to a 520-word 1.4% of the time, so that test decides nothing; for
+630 it is 1.5% against 0.7%, four cases in 554, too few to lean on. Second,
+in the English paragraph of the same folio the noun has a case word before it
+(*to, on, upon, into, at*) for 53% of the 520-words against 24% of their bare
+twins, and 71% against 28% for 630. That looks strong and is circular: the
+English was written from a gloss that already printed *to-* and *on-* for
+most of these. Third, the same count over only the pairs where the page
+printed the same gloss both ways, so the writer of the English had no hint:
+for 630 it is 64% against 50%, on 28 and 4 cases; for 520 the set is swamped
+by 5202c0a10850670 *one*, 339 tokens of a numeral, and comes out the wrong
+way, 12% against 42%. So the statistics do not carry this. What carries it
+is their two single-sign entries and the lines quoted above, every one of
+which can be checked on the folio.
+
+**What changed.** 520b78 is now glossed *to the mount*, tier B, and 630461
+*on the cross*, tier A. Both entries in `harness/proposals.json` open with the
+correction and the date. No other reading moved. Something under two hundred
+readings begin with 520 and have no bare twin, *heaven*, *sky*, *water*,
+*lamb*, *blood*; there the sign is a letter of the stem, as it is inside
+*believe*, and nothing says otherwise. 520060131, *the Baptist* or *woman*,
+is a homograph their dictionary marks and stays as it was. 520b52 *until* is
+their own headword.
+
+**Hungarian does not do this.** In the Hungarian of the codex's time these
+are endings on the noun, *a hegyre*, *a keresztre*, *az Úrnak*, and the cry
+before Pilate is a verb, *megfeszíteni*. The codex writes each of them as a
+separate sign in front of the word, the order of a Latin or German
+preposition, and Király and Tokai call them prepositions throughout, noting
+of 521 that it sometimes follows its word instead. That is a fact about the
+script's order, not a claim about its language; it is recorded here because
+the strip made it visible.
+
 ## The null control: can this method read noise?
 
 Everything above is an argument that the readings are right. This is the

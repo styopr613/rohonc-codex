@@ -957,8 +957,8 @@ words. There are 983 of them now.
   4  exist one brook Kidron and from apostle
   5  rest apostle third apostle Lord give^ Peter and.
   6  John and James and [?]-[?].
-  7  over-exist Cedron and to-?again inside mount
-  8  and [?]-+one-[?] because-exist garden on-this mount
+  7  over-exist Cedron and to-?again inside to_the_mount
+  8  and [?]-+one-[?] because-exist garden on-this to_the_mount
   9  trespass Jerusalem in_turn-to-in_turn and then-+SUBJ go-Lord on-Jerusalem and inside
  10  Jerusalem lo Lord [?]-Lord-apostle to Lord-Jézus and of-Lord apostle
  11  because want-Lord give^ Lord-Jézus inside-garden capture
@@ -978,7 +978,7 @@ words. There are 983 of them now.
   8  SUBJ temptation^ and rise Lord-Jézus and go-Lord
   9  to apostle but apostle to-sleep and_then Lord-Jézus rise
  10  and ~have-apostle awake and go Lord-Jézus Peter
- 11  summit mount to see this ~people because exist every people
+ 11  summit to_the_mount to see this ~people because exist every people
 
 ## 034r — the second prayer, and the sweat
 
@@ -1084,7 +1084,7 @@ words. There are 983 of them now.
 
 > […] and […] led the Lord believe the Lord Jesus; and then tie up the hands of the Lord Jesus Christ […] all […] […] […]; and then […] they went to the chief of the Jews [before]; and then the Lord went down from the mountain; and many [people] afterward Jews upon the Lord Jesus, because one struck the Lord [from] town secondly, to the Lord's house [and] thirdly [answered] no man at all had mercy on the Lord Jesus. And then through […] through […] Kidron and the Lord […] went over the bridge […] but the Lord on the bridge fall down; and [struck] […] no man had mercy on the Lord Jesus, because [times] the Jews went
 
-  1  cross-[?] and then-[?] carry to-Lord believe.
+  1  on_the_cross-[?] and then-[?] carry to-Lord believe.
   2  Lord-Jézus and then-exist tie_up hand Lord-Jézus-Christ
   3  [bound] every to-of-Lord to-year-to [led] that* and then-exist Lord.
   4  go to-Jew head [before] and then-exist Lord
@@ -1198,7 +1198,7 @@ words. There are 983 of them now.
   3  and this-Lord righteous son living God and_then.
   4  Pilate this-Lord SUBJ righteous somebody this Pilate
   5  how? [answered] inside Lord [nothing] and shout
-  6  Jew condemned* Lord Pilate cross Lord cursed this
+  6  Jew condemned* Lord Pilate on_the_cross Lord cursed this
   7  Pilate this-hide want say Lord say [release]
   8  emperor righteous condemned* and_then Pilate.
   9  [therefore] grab Lord say and Lord brought*
@@ -1337,14 +1337,14 @@ words. There are 983 of them now.
 > […] and the angel […] Bethlehem […] And the Jews cried: the cross for the Lord! Pilate: the Lord is accursed, […] if ye will the Lord. He said enemy […] truly condemned; and Pilate said to the soldiers, lead the Lord into the house. And a second time the Lord afterward went into the house, and Pilate cried: Behold Jesus Nazareth the King of the Jews! […] and the angel | [to] Bethlehem […] and […] the Jews: the cross for the Lord! Pilate: the Lord is accursed, this Pilate, if ye will the Lord. He said enemy […] truly condemned; and Pilate said to the soldiers, lead the Lord
 
   1  [Caesar] in_turn angel Bethlehem city.
-  2  and shout Jew cross Lord Pilate cursed Lord
+  2  and shout Jew on_the_cross Lord Pilate cursed Lord
   3  this-~Pilate if want Lord say enemy of-~emperor
   4  righteous condemned* and say Pilate to soldier go Lord
   5  inside house and two Lord ~do go on-house
   6  and shout Pilate lo Jézus Nazareth
   7  king Jew [Caesar] in_turn angel | to
   8  Bethlehem city and shout.
-  9  Jew cross Lord Pilate cursed Lord this
+  9  Jew on_the_cross Lord Pilate cursed Lord this
  10  Pilate if want Lord say enemy of-~emperor
  11  righteous condemned* and say Pilate to soldier go Lord
 
@@ -1356,7 +1356,7 @@ words. There are 983 of them now.
   2  and shout Pilate lo Jézus Nazareth
   3  king Jew [Caesar] in_turn angel
   4  to-Bethlehem city and shout
-  5  Jew cross Lord Pilate cursed Lord this.
+  5  Jew on_the_cross Lord Pilate cursed Lord this.
   6  Pilate if want Lord say enemy | of.
   7  emperor righteous condemned* and_then Jew
   8  [Behold] this-Lord king Jew this-Lord.
@@ -1376,7 +1376,7 @@ words. There are 983 of them now.
   6  and shout Pilate who want | Pilate
   7  to say release Barabbas in_turn Jézus and
   8  shout Jew release Pilate Barabbas
-  9  in_turn Jézus cross condemned* and_then Pilate understand-eat
+  9  in_turn Jézus on_the_cross condemned* and_then Pilate understand-eat
  10  soldier go divine_one^ up on-house and then-exist Pilate this-who
  11  divine_one^ go [went] up on-house and shout Pilate | from
 
@@ -1408,7 +1408,7 @@ words. There are 983 of them now.
   6  [thou_hast_prepared] cross do people of-Lord
   7  Jew he_said* to-Lord-to raise on-Palm_Sunday | then
   8  chapter-Lord want king crown in_turn name-high
-  9  would_say* of-Lord body cross raise-to
+  9  would_say* of-Lord body on_the_cross raise-to
  10  and shout Pilate grab-+say Lord ~blind
  11  and Lord take* Jew and then-exist say
 
@@ -1450,9 +1450,9 @@ words. There are 983 of them now.
   4  trespass [wrote] this inside commandment this apostle-+one of-Lord apostle
   5  and see Jew [the_title] good all_the_world
   6  on-suffering-year go Lord and [written] say inside
-  7  Lord believe and to-Lord set_on cross
+  7  Lord believe and to-Lord set_on on_the_cross
   8  and Lord this-pierce-+say one why?-in_turn
-  9  and two [between] cross and can
+  9  and two [between] on_the_cross and can
  10  take* and why?-in_turn chain-draw-+say
  11  and why?-in_turn pierce-+say and of-Lord foot can
 
@@ -1468,9 +1468,9 @@ words. There are 983 of them now.
   6  write Lord king Jew but Lord write
   7  Jézus Nazareth and_then Pilate write SUBJ
   8  who ~Pilate write and two ~thief to-Lord pierce
-  9  cross and Lord call^ two ~thief one-[?]
+  9  on_the_cross and Lord call^ two ~thief one-[?]
  10  say and this out nine hour and_then Lord-Jézus
- 11  cross from-father of-Lord God heaven* ask-Lord
+ 11  on_the_cross from-father of-Lord God heaven* ask-Lord
 
 ## 051v — three nails, and the sponge on a stick
 
@@ -1485,7 +1485,7 @@ words. There are 983 of them now.
   7  wine grab say on-one sponge and
   8  then-exist-Lord sponge face wipe_off-+say and wine
   9  grab mouth little on-+pine and_then | Lord
- 10  Jézus cross from-father of-Lord God heaven offer
+ 10  Jézus on_the_cross from-father of-Lord God heaven offer
  11  this-Lord this-father of-Lord commend* inside of-father-DIV
 
 ## 052r — two lines
@@ -1499,7 +1499,7 @@ words. There are 983 of them now.
 
 > And then the Lord Jesus, his commend give up the ghost upon the cross; the earth quaked, the rocks and the stones rent; the sun and the moon were darkened; and all creatures among the people humbled themselves; and all creation mourned, when Christ the Lord was crucified. And there came one soldier from Jerusalem, blind; and that soldier was Longinus; and the Jews' spear pierced the Lord Jesus Christ; and [pierced] the spear […] the Lord Jesus Christ; and the soldier, the blood splashed from the Lord Jesus upon his eyes, and through it he saw, and the soldier was healed; and the soldier believed in the Lord Jesus Christ, and the soldier was baptized, and saw […]
 
-  1  and then-exist Lord-Jézus of-Lord commend* give_up_the_ghost cross earth
+  1  and then-exist Lord-Jézus of-Lord commend* give_up_the_ghost on_the_cross earth
   2  quake rock stone rent sun and moon
   3  this eclipse and every [...] among_the_people* this humble ~and every
   4  create mourn then-exist Christ crucified Lord and go say.
@@ -1521,7 +1521,7 @@ words. There are 983 of them now.
   4  say that* ~execute say son God and
   5  sad go say [?]-+say home and this
   6  [from] out nine ~hour and two-two from ~hour
-  7  cross suffer Lord-Jézus and-+say go-?brought
+  7  on_the_cross suffer Lord-Jézus and-+say go-?brought
   8  every [?]-°and_then home from [breast] [striking]
   9  in_turn apostle exist apart go-go every to-apostle [stood] | on
  10  Galilee and one and understand-eat
@@ -1549,7 +1549,7 @@ words. There are 983 of them now.
   2  because exist-Mary on-+mount escape before.
   3  Jew and on-place exist this people then-exist
   4  from two-Mary to-people go-two-Mary and grab
-  5  ~Nicodemus cross was_named* Lord-Jézus in_turn three three_nails
+  5  ~Nicodemus on_the_cross was_named* Lord-Jézus in_turn three three_nails
   6  seal-to grab holy-John then-+mouth-Mary see | virgin
   7  Mary then-~exist grab virgin-Mary inside bosom
   8  ~and ~do Nicodemus of-living-servant
@@ -1650,7 +1650,7 @@ words. There are 983 of them now.
   8  king to-Lord thanks [not] and destroy Lord ~evil Christ and from
   9  [Adam] [bound] ~evil can hide-angel this_is write | to
  10  holy-Mark inside seven chapter-leave of-write then-exist Lord
- 11  Christ cross of-Lord soul exhale earth quake
+ 11  Christ on_the_cross of-Lord soul exhale earth quake
  12  rock stone this rend sun and moon this
 
 ## 058r — the harrowing of hell
@@ -1659,7 +1659,7 @@ words. There are 983 of them now.
 
   1  eclipse and every [...] into_the_world* this humble and every create mourn
   2  then-exist Christ crucified and two-two hour
-  3  cross suffer Lord-Jézus and Lord inside tomb | put-apostle
+  3  on_the_cross suffer Lord-Jézus and Lord inside tomb | put-apostle
   4  Mary-angel and then-exist-Lord inside tomb lay Lord and
   5  hour time go from-father God heaven
   6  on-of-father angel inside ~exist-[?] Lord-Jézus and
@@ -2376,7 +2376,7 @@ words. There are 983 of them now.
   7  this-Lord from sky go of-Lord exist-exist holy-spirit
   8  and of-Lord mother and_then father-DIV how? form would_like^ go
   9  if go inside God-son-spirit-Lord father son holy-spirit
- 10  not_suffer this people* cross crucify^ and_then father-DIV | holy
+ 10  not_suffer this people* on_the_cross crucify^ and_then father-DIV | holy
 
 ## 081v — cloven tongues like as of fire
 
@@ -2551,7 +2551,7 @@ words. There are 983 of them now.
   2  God man* every somebody be_saved and one
   3  somebody be_damned Elijah symbolize exist-exist-chapter to-happy
   4  virgin-Mary how? from-Mary torch light then-~be_born
-  5  create-Lord of-somebody and can cross to-one
+  5  create-Lord of-somebody and can on_the_cross to-one
   6  somebody die but every people* die this-+one one somebody
   7  can God every inside of-somebody mouth grab because Lord-DIV
   8  ~have-[?] exist-exist-chapter but_rather [the_sun] God-+SUBJ
@@ -3039,14 +3039,14 @@ words. There are 983 of them now.
 > the body, and the possessed of the evil one, the Lord healed. And the Lord suffered for man's sin, the good of the whole world; the cross […]; and for man of the Lord; to the thief, who […]; and the Lord redeemed man from hell fire. And then the Lord, the cross […] […] […] and the moon, this darkened, before the sun darkened; and before the moon darkened, the face of the earth quaked; the rock, the stone rent; and at the sun's darkening every creature […] this humbled itself, and every creature mourned. Then Christ, the cross […]; and the Lord was put in the sepulchre.
 
   1  body and evil^ possessed from-healing-Lord and suffer SUBJ Lord to
-  2  somebody-sin good all_the_world cross-[?] and to-somebody
+  2  somebody-sin good all_the_world on_the_cross-[?] and to-somebody
   3  SUBJ of-Lord to-to-thief-who and somebody redeem-Lord from hell
-  4  fire and then-exist-Lord cross-[?] | sun*
+  4  fire and then-exist-Lord on_the_cross-[?] | sun*
   5  Lord-+name and moon this eclipse before sun eclipse
   6  and before moon eclipse ~earth quake rock
   7  stone rent and on-sun eclipse all^
   8  [...] on-+world this humble and all^ create mourn
-  9  then-exist Christ cross-[?] ~and Lord inside tomb | put
+  9  then-exist Christ on_the_cross-[?] ~and Lord inside tomb | put
 
 ## 103r — the three days: where was the soul?
 
@@ -3209,7 +3209,7 @@ words. There are 983 of them now.
   3  this world* in_turn lose_savour this salt good-apostle-God out-out
   4  salt cast_out and salt people trample
   5  because this exist high you good do and_then
-  6  Lord-Jézus and SUBJ city on-high mount and city [up]
+  6  Lord-Jézus and SUBJ city on-high to_the_mount and city [up]
   7  people see and then-+SUBJ [trodden_down] people to-+city.
   8  chapter-go-to-chapter this and you on-learn you
   9  good do in_turn-who-exist high from-two people on-learn
@@ -3273,7 +3273,7 @@ words. There are 983 of them now.
   6  this to-sit Jerusalem and this-Jerusalem [thine_enemies] surround
   7  [straiten_thee] and you is_not somebody angel exist
   8  somebody angel out and [stone] name-Jerusalem but [visitation] among you
-  9  capture every-+say cross condemned* somebody angel and
+  9  capture every-+say on_the_cross condemned* somebody angel and
  10  ~exist-+say hunger? die and exist many misery ~on-this
 
 ## 110v — Jerusalem destroyed by Vespasian and Titus, and the temple cleansed
@@ -3327,7 +3327,7 @@ words. There are 983 of them now.
 
 > among them taken captive, all of them, the cross, executed, but […] and there is a head crucify [sold] a head; and they could a head [a penny] find; and there they were, executed, a head […] sold, a head thirty for one denarius; and they, | from sell a head let go; in turn, until, in turn, went take a head; and they, nine hundred for thirty denarii; and the head, more, they took; but it is. Judas, and they sold. The fourth sorrow, the writing speaks of Holy Tuesday: then Lazarus at the tomb, of the Lord; not only sorrow,
 
-  1  among say capture every say cross execute °but_rather-[?] and
+  1  among say capture every say on_the_cross execute °but_rather-[?] and
   2  exist head crucify* [sold] head and say can
   3  head [a_penny] on-find on-exist-+say-+SUBJ
   4  execute head [?]-+SUBJ vend head
@@ -3752,8 +3752,8 @@ words. There are 983 of them now.
   3  every ~until this | redemption ~exist have_mercy on-angel of-Lord
   4  from-father-DIV can ~woman find redemption ~exist
   5  exist be_born mother of-Lord love and redemption this-Lord from mother
-  6  [again] be_born and redemption this-Lord cross [thereon] in_turn
-  7  [?]-[?] cross from want find this silver^ this heaven*
+  6  [again] be_born and redemption this-Lord on_the_cross [thereon] in_turn
+  7  [?]-[?] on_the_cross from want find this silver^ this heaven*
   8  land [?]-+SUBJ exist from [?]-slide
   9  abandon hide-angel and say Lord-Jézus this-Lord want-Lord
  10  trespass grab and ~redeem-Lord of-Lord from-father-DIV heaven
@@ -4516,7 +4516,7 @@ words. There are 983 of them now.
   2  from thief and Christ crucified thief and then-exist thief
   3  on-go who-from-~year Lord-Jézus on-place ~exist-this that Lord-Jézus
   4  righteous son God because-exist ~out thief holy-spirit
-  5  find_mercy^ and shout-to cross answered | ask
+  5  find_mercy^ and shout-to on_the_cross answered | ask
   6  thief this-thief this-Lord remember on-thief
   7  then-to go-Lord inside of-Lord kingdom^ and_then
   8  this the_rest^ thief and exist Lord thief condemned.*
@@ -5277,7 +5277,7 @@ words. There are 983 of them now.
   5  because one church church and inside believe be_saved
   6  because from church church one ways* believe
   7  church church inside Lord-Jézus-Christ inside ~be_born and inside
-  8  die then-+SUBJ cross of-Lord soul give_up_the_ghost third
+  8  die then-+SUBJ on_the_cross of-Lord soul give_up_the_ghost third
   9  SUBJ believe on-~be_born Lord-Christ and through escape
 
 ## 180v — a summary of the Lord's life
@@ -5557,7 +5557,7 @@ words. There are 983 of them now.
   6  Tuesday the_Lord Lazarus on-tomb stand_up resurrect-Lord in_turn Wednesday
   7  Lord-~but-+SUBJ exist Judas sold to-thirty silver
   8  in_turn wound dinner-to do-Lord and capture-Lord in_turn
-  9  Friday cross-[?] and evil bound_up in_turn inside Saturday hell
+  9  Friday on_the_cross-[?] and evil bound_up in_turn inside Saturday hell
 
 ## 190v — the five appearances, and Emmaus
 
@@ -5628,7 +5628,7 @@ words. There are 983 of them now.
   5  go-Lord-Simeon-Mary and raise Simeon Lord-Jézus
   6  inside of-Simeon why?-in_turn and_then Simeon ~lo from
   7  lamb and the_Lord go-Lord on-heaven land
-  8  on-this world* Lord-Jézus-Christ and from Lord cross-[?] and on-Lord exist
+  8  on-this world* Lord-Jézus-Christ and from Lord on_the_cross-[?] and on-Lord exist
   9  bless every ~all_the_world world* and bless exist leave^ chapter-oh
 
 ## 193r — Simeon carries the news to the fathers in hell
@@ -6170,7 +6170,7 @@ words. There are 983 of them now.
   2  inside thirty ~begin-+three_days time sit Lord-Jézus | on
   3  the_Red_Sea [of_Galilee] and Lord through
   4  go-Lord Lord-Jézus through the_Red_Sea to-one
-  5  mount and sit Lord-Jézus to-this to-mount
+  5  to_the_mount and sit Lord-Jézus to-this to-mount
   6  and lifted_up of-Lord two eye heaven [high] and
   7  see Lord-Jézus on-every two-two [a_great_multitude] people to-Lord and
   8  go and_then Lord-Jézus Philip this people | grab
@@ -6520,7 +6520,7 @@ words. There are 983 of them now.
   1  to-?brethren Lord through [...] and shout-to this | Saul
   2  [...] [Saul] lie in_turn Lord [whom_thou_persecutest] this-Lord and
   3  shout-to Lord-DIV on-water this-Lord from Jézus Nazareth
-  4  the_Lord cross execute and shout-to this Saul
+  4  the_Lord on_the_cross execute and shout-to this Saul
   5  Lord brethren* Saul Lord ~do and shout-to
   6  Lord-DIV on-water [...] inside in_turn-chapter-in_turn from [...] on-learn man^
   7  love [...] [...] time hour from

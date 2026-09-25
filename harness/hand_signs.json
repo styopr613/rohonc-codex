@@ -1,0 +1,89 @@
+{
+ "_how": "Drawn by hand as pen strokes, looking only at the scribe's ink: the stacked copies from the scan, enlarged to 300px high with a 30px grid (ktcut/kttrace). Kir\u00e1ly and Tokai's outlines were not looked at while drawing; they are compared afterwards only. Coordinates are in that 300px frame, x right, y down. 'pen' is the stroke width in the same frame, measured from the ink. 2026-09-24.",
+ "285": {
+  "pen": 30,
+  "strokes": [
+   [
+    "M195 92 C198 130 202 175 210 232"
+   ],
+   [
+    "M96 156 C130 180 168 205 208 222"
+   ]
+  ],
+  "dots": [
+   [
+    196,
+    98,
+    62
+   ],
+   [
+    98,
+    158,
+    56
+   ]
+  ]
+ },
+ "4b0": {
+  "pen": 30,
+  "strokes": [
+   [
+    "M32 80 L146 84"
+   ],
+   [
+    "M146 84 C140 130 134 175 128 220"
+   ],
+   [
+    "M122 222 L226 222"
+   ],
+   [
+    "M140 150 L246 146"
+   ],
+   [
+    "M214 76 L298 70"
+   ],
+   [
+    "M236 78 C242 125 248 175 256 220"
+   ],
+   [
+    "M252 221 L376 224"
+   ]
+  ],
+  "dots": []
+ },
+ "910": {
+  "pen": 30,
+  "strokes": [
+   [
+    "M168 228 C166 180 164 140 176 110 C188 84 226 78 244 96 C258 112 262 170 266 228"
+   ],
+   [
+    "M44 108 C80 118 118 130 162 146"
+   ]
+  ],
+  "dots": []
+ },
+ "a79": {
+  "pen": 26,
+  "strokes": [
+   [
+    "M100 106 C140 106 158 128 158 152 C158 178 136 194 100 194 C62 194 44 176 44 152 C44 126 64 106 100 106 Z"
+   ],
+   [
+    "M252 108 C288 108 302 130 302 152 C302 176 284 194 250 194 C214 194 198 176 198 152 C198 128 218 108 252 108 Z"
+   ],
+   [
+    "M172 68 L176 232"
+   ]
+  ],
+  "dots": []
+ },
+ "773": {
+  "pen": 32,
+  "strokes": [
+   [
+    "M150 84 C196 84 216 124 216 162 C216 204 190 238 150 238 C110 238 86 204 86 162 C86 122 106 84 150 84 Z"
+   ]
+  ],
+  "dots": []
+ }
+}

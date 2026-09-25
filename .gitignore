@@ -55,3 +55,14 @@ work/rohonc/senses.json
 # The site and the checks read them on disk; both regenerate from data/.
 work/rohonc/signs.json
 work/rohonc/translation/rohonc_reading_full.txt
+
+# The tracer's working files. trace/ holds contact sheets cut from the library's
+# scan, which is not to be passed on; the rest are intermediate sets. The site's
+# sign set is work/rohonc/penSigns.json, which is tracked.
+work/rohonc/trace/
+work/rohonc/ourSigns.json
+work/rohonc/ourGlyphs.json
+work/rohonc/deepGlyphs.json
+work/rohonc/handSigns.json
+work/rohonc/sitecodes.txt
+work/rohonc/atlas.pre-*/
