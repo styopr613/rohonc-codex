@@ -1108,7 +1108,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
         x = pl[min(2, len(pl) - 1)]
         shot = (f'<figure class="shot"><span class="frame"><img src="/rohonc/plates/{html.escape(x["file"])}" '
                 f'alt="{html.escape(x["folio"])} redrawn" loading="lazy"></span>'
-                f'<figcaption>{html.escape(x["caption"])} Redrawn from the manuscript\'s own '
+                f'<figcaption>{html.escape(x["caption"])} {html.escape(x.get("reads", ""))} Redrawn from the manuscript\'s own '
                 f'drawing; not a reproduction.</figcaption></figure>')
     intro_html = paras("intro").replace("<p>", '<p class="dc">', 1)
     cover_blurb = paras("cover_blurb")
@@ -1298,7 +1298,7 @@ def page_script(sample, pl, ktn):
     plate_html = "".join(
         f'<figure><img src="/rohonc/plates/{html.escape(x["file"].replace(".png", ".jpg"))}" '
         f'alt="folio {html.escape(x["folio"])} redrawn" loading="lazy">'
-        f'<figcaption>{html.escape(x["caption"])}</figcaption></figure>' for x in pl)
+        f'<figcaption>{html.escape(x["caption"])} {html.escape(x.get("reads", ""))}</figcaption></figure>' for x in pl)
     body = f"""
 <h1>The script</h1>
 {paras("script_intro", "lead")}
