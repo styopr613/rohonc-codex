@@ -687,15 +687,25 @@ def strip_html(rows, sg, n=54):
     pick = [r for r in rows if r["tier"] in ("A", "B") and 3 <= len(r["code"]) <= 9 and r["gloss"]
             and " " not in r["gloss"] and "<" not in r["gloss"]]
     pick.sort(key=lambda r: (-r["n"], r["gloss"]))
-    pick = [r for r in pick[:n] if sign_svg(r["code"], sg, SIGN_PX)]
-    if not pick:
-        return ""
     def spaced(code):
         return " ".join(code[i:i + 3] for i in range(0, len(code), 3))
     def gloss(r):
         # proposals.json joins a compound gloss with underscores and marks an
         # ambiguity with a slash; the caption has room to say both properly
         return r["gloss"].replace("_", " ").replace("/", " / ")
+    # One gloss, one sign. Two different signs both captioned "say" read as
+    # a mistake to anyone looking at the strip, whatever the dictionary says
+    # about the two words (2026-09-25, the owner's complaint). The commonest
+    # spelling keeps the caption; the others do not go on the strip.
+    seen, uniq = set(), []
+    for r in pick:
+        g = gloss(r).lower()
+        if g not in seen:
+            seen.add(g)
+            uniq.append(r)
+    pick = [r for r in uniq[:n] if sign_svg(r["code"], sg, SIGN_PX)]
+    if not pick:
+        return ""
     it = "".join(
         f'<span class="it">{sign_svg(r["code"], sg, SIGN_PX)}'
         f'<b>{html.escape(gloss(r))}</b>'
