@@ -1953,7 +1953,7 @@ def page_finds():
 <p class="find-end">The facts these rest on are in the endnotes of Book One, and every text they cite is listed under <a href="/rohonc/sources.html">Sources</a>.</p>
 """
     return shell("finds", "Discovering the work",
-                 "What reading the sources behind the Rohonc Codex turned up: the stolen cup's neighbours, Adam healed by the branch, Elijah at the fall of the angels, and the date the book gives the end of the world.",
+                 "What reading the sources behind the Rohonc Codex turned up: the hidden cup's neighbours, Adam healed by the branch, Elijah at the fall of the angels, and the date the book gives the end of the world.",
                  body)
 
 def page_atlas():

@@ -335,9 +335,9 @@ book is a Christian devotional compilation: the apocryphal Life of Adam and
 Eve running straight into the legend of the Rood, the story of Joachim and
 Anne, a Passion the codex itself says it takes from Matthew and John, sermons
 and parables for the gospels of the year, the Finding of the Cross, the Acts
-of the Apostles, and at the very end a few pages of one man's diary. The frame
-is a revelation: an angel of God speaks, and the prophet Elijah is the one
-addressed.
+of the Apostles, and at the very end a few pages of one man's diary. The
+opening leaves are framed as a revelation: an angel of God speaks, and the
+prophet Elijah is the one addressed.
 
 **Most of what you can read here rests on their work.** """ + WORDING + """ Their own translation of the codex is
 unpublished, and this is not it. Nothing here should be attributed to them
@@ -775,9 +775,17 @@ down here with the facts beside them, and with what is not known said plainly.
 The end of the world, which the book gives a date for, is worked out at the
 end.
 
-**The stolen cup has neighbours.** On 004r Lucifer hides a cup, and an angel
-goes back to the Father twice on the one leaf. No source in the corpus has
-that. In the Slavonic tale of Michael and Satanael, from Bulgaria in the
+**The hidden cup has neighbours.** On 004r a cup, an angel who hides, and the
+throne come round again and again, and an angel goes back to the Father twice
+on the one leaf. The parts of that are not equally sure. The return to the
+Father is Király and Tokai's reading, and they cite this leaf for it. The cup
+is their sign, but they do not cite this leaf for it. The hiding is their sign
+too, and they mark it with a question mark. That the angel is Lucifer is this
+edition's choice: their sign means angel, and means Lucifer or Satan only in a
+phrase they cite from the next leaf. That the cup is stolen rests on one sign,
+read here as *steal*, and that reading is a guess made from the story it was
+expected to tell. So the leaf turns on a hidden cup; that the fall is a theft
+is not shown. No source in the corpus has a cup at the fall. In the Slavonic tale of Michael and Satanael, from Bulgaria in the
 eleventh or twelfth century, Satanael's wrong is theft: he takes the robe,
 the wreath and the sceptre made for God, God sends Gabriel, who is afraid and
 will not go, and then Michael, who goes down and wins them back by a trick. In
@@ -787,8 +795,8 @@ a servant runs to tell God. The Grail cut from a stone of Lucifer's crown,
 which is where a reader today would look first, is not medieval: the poem of
 about 1250 has only the stone, and the cup was put in by Albert Schulz in
 1832. A devil who steals holy things out of heaven is a pattern of the book's
-own neighbours to the south and east, and the cup on 004r sits inside it.
-Which telling the author knew, if any, is not known.
+own neighbours to the south and east, and if the guess on 004r is right, the
+cup sits inside it. Which telling the author knew, if any, is not known.
 
 **Adam healed by the branch has a Hungarian relative.** In the Golden Legend
 Seth comes home from paradise with the branch to find Adam dead, and plants it

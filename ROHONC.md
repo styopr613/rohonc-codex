@@ -1178,8 +1178,13 @@ Nativity, the flight into Egypt, a numbered catalogue of the signs the Lord
 showed, the Transfiguration, the baptism, and from folio 029r the Passion,
 which the codex itself says it takes from Saint Matthew and Saint John.
 
-The frame is a revelation: the angel of God speaks, and **Elijah the prophet**
-is the one addressed by name.
+The opening leaves, 001r to 008v, are framed as a revelation: the angel of God
+speaks, and **Elijah the prophet** is the one addressed by name. This was
+earlier written as the frame of the whole book, which was wrong. After 008v
+the angel speaks to Elijah only inside Elijah's own stories (101r, 133r), and
+twice, at 085v and 154v, the book names *holy Elijah the prophet* as one who
+wrote, at 154v beside Saint Luke. That is a citation of him as an authority,
+not the angel's frame going on.
 
 Three things in it are checkable without any dictionary at all. A prophecy
 passage recurs word for word at 005v, 017r and 017v, spoken to Abraham, to
