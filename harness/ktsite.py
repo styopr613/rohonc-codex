@@ -344,6 +344,9 @@ ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
 .parts .op{align-self:center;color:var(--rub);font-size:20px}
 .sums{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:15px;line-height:1.9}
 .sums b{color:var(--rub);font-weight:400}
+/* A path or an identifier is one unbreakable word; on a phone it pushed the page sideways
+   (orders.html, data/outside/*). Let it break anywhere rather than scroll the page. */
+main code,main h1{overflow-wrap:anywhere}
 .gloss{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14.5px;line-height:1.8;overflow-x:auto}
 .gloss .m{border-bottom:2px solid var(--rub);cursor:help}
 /* Discovering the work, set like a magazine: a dek, then each find its own section --
