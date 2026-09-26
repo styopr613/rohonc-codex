@@ -801,7 +801,15 @@ one ten times. The cup is their sign, but they do not cite this leaf for it.
 The hiding, on its own, is their sign with their own question mark on it.
 That the cup is stolen rests on one sign, read here as *steal*, and that
 reading is a guess made from the story it was expected to tell. So the leaf
-turns on Lucifer and a hidden cup; that his fall is a theft is not shown. No
+turns on Lucifer and a hidden cup; that his fall is a theft is not shown.
+Nor is it shown what is hidden. The sign is the one Király and Tokai gloss
+*hide oneself*, and the book uses it both ways: at 001v Adam hides himself
+in the garden, and at 018v it stands where Luke has the power of the Most
+High overshadowing Mary. On 004r it follows *to the cup* eight times, and
+that pairing is found nowhere else in the book, so whether Satan hides the
+cup away or hides himself by it cannot be told. The second would make the
+leaf a first telling of Adam's fall, in the same word; that is a reading,
+not a finding. No
 source in the corpus has a cup at the fall, and neither do the forty-seven Old
 Hungarian codices: where they tell it, Lucifer loses his throne through pride,
 and in the Virginia codex of 1515 that throne is given to Saint Francis. The
