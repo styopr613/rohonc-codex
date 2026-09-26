@@ -22,7 +22,7 @@ The Lord God departed, and Eve went through Paradise. She came to the tree in th
 
 They knew evil and good, as the Lord God knows. They plucked the fruit, and the two of them saw that they were naked. Adam saw it and was ashamed. The angel of God said to Elijah that this [deadly] sin came from Lucifer, who had fallen from the eternal Father and from the brethren into hell. Then the angel said to Elijah the prophet: Elijah, the Lord God came from eternity into Paradise. (001r)
 
-The Lord God came into Paradise with the angels and called with his own mouth: Adam, where are you? Adam hid himself. The Lord God said, Adam, who has done this? Why are you hiding? Adam answered that Eve had given him the food and he had eaten. The Lord God spoke to Eve, and Eve answered that she had done it because the serpent deceived her. Then the Lord God said to Adam: you had one commandment, and you did not keep it. (001v)
+The Lord God came into Paradise with the angels and called with his own mouth: Adam, where are you? Adam hid himself. The Lord God said, Adam, who has done this? Why are you hiding? Adam answered that Eve had given him the food and he had eaten. The Lord God spoke to Eve, and Eve answered that she had done it because the serpent deceived her. Then the Lord God said to Adam: you had one commandment, and [you did not keep it]. (001v)
 
 Adam was made from the earth, and to the earth he would return. Because of the food he had taken, pain would come. There was evil, and the earth was cursed for man's sake. The serpent would die, and the Lord God turned Adam and Eve out. The Lord God went, and the angel stood with fire and a sword. Adam and Eve were driven out of Paradise, and the angel with the sword was set within it. (007r)
 
@@ -30,7 +30,7 @@ The cherubim were set inside Paradise. The angel of God said to Elijah: Elijah, 
 
 Seth went to the gate of Paradise, and God's angel appeared to him there. Seth spoke of Adam his father, and the angel sent him into Paradise. Seth brought back a branch from the tree of mercy. Adam his father was blind because of sin, and when Seth brought the branch, at once Adam's eyes were opened and he was made whole. The angel spoke truly, and Seth carried the branch. (006r)
 
-Adam had been cast out of Paradise because of sin, but the angel gave Seth the branch, and Seth carried it to his father. Seth went to the city where Adam's house was and found the way. He spoke of the Father and the Spirit, and of the Father who knew Adam. Adam, the Lord God's man, had been blind in both eyes after the angel drove him out of Paradise; now the branch of mercy had been found. (006v)
+Adam had been cast out of Paradise because of sin, but the angel gave Seth the branch, and Seth carried it to his father. Seth went to the city where Adam's house was and found the way. He spoke of the Father and the Spirit, and of the Father who knew Adam. Adam, the Lord God's man, had been blind in both eyes after the angel drove him out of Paradise; now [the branch of mercy] had been found. (006v)
 
 ## II. From the Flood to the House of David
 
@@ -54,12 +54,12 @@ From Adam until the Virgin Mary was born, the count was five thousand one hundre
 
 Saint Luke writes this in the sixth part of his writing. They gave thanks and prayed to the Lord God. (016r)
 
-Saint Anne and Joachim divided all their rich substance into three parts. One portion they gave to the people of the temple, a second portion they gave to the Lord for the people, and a third they kept for themselves. All Joachim's household gave thanks to the Lord God. After thirty years together, Joachim prepared his offering and brought it forward. The chief of the Jews looked at Joachim and said to him, because he had no children: go away from among the people with your offering. He cast Joachim out, and Joachim departed in sorrow into the field and the wilderness. (016v)
+Saint Anne and Joachim divided all their rich substance into three parts. One portion they gave to the people of the temple, a second portion they gave to the Lord for the people, and a third they kept for themselves. All Joachim's household gave thanks to the Lord God. After thirty years together, Joachim prepared his offering and brought it forward. The chief of the Jews looked at Joachim and said to him, [because he had no children]: go away from among the people with your offering. He cast Joachim out, and Joachim departed in sorrow into the field and the wilderness. (016v)
 
 
-A lamb was brought forward for sacrifice, but the offering was refused. Joachim was in the desert when the angel of God came to him and said, “Hear me. The Lord God has shown you mercy. Go home and meet your wife Anne at the golden gate.” Anne would conceive a virgin maiden named Mary, and Mary would bear a son named Jesus. He would go among the people, preach the gospel, work many miracles, suffer crucifixion, and rise from the dead on the third day. His resurrection would save the whole world and everyone who believes in the Lord. Then the angel left Saint Joachim. (017r)
+A lamb was brought forward for sacrifice, but the offering was refused. Joachim was in the desert when the angel of God came to him and said, “Hear me. The Lord God has shown you mercy. Go home and meet your wife Anne at the golden gate.” Anne would conceive a virgin maiden named Mary, and Mary would bear a son named Jesus. He would go among the people, preach the gospel, work many miracles, suffer crucifixion, and rise from the dead on the third day. He would ascend, and the whole wide world would be saved, and everyone who believes in the Lord. Then the angel left Saint Joachim. (017r)
 
-The angel of God came to Saint Anne and said, “Anne, the Lord God has heard you and shown you mercy. Go home and meet Joachim at the golden gate.” There a virgin maiden was conceived. She would be born as Mary, and Mary would bear a son named Jesus. He would go out among the people, preach the gospel, work many miracles, suffer crucifixion, and rise from the dead on the third day. His resurrection would save all people who believe in the Lord. The angel then left Saint Anne, and the blessed Virgin Mary was conceived. Mary would carry her child for nine months, and the child would be born in the tenth month. From Adam to the conception and birth of the Virgin Mary, the count was five thousand one hundred and fifty years. (017v)
+The angel of God came to Saint Anne and said, “Anne, the Lord God has heard you and shown you mercy. Go home and meet Joachim at the golden gate.” There a virgin maiden was conceived. She would be born as Mary, and Mary would bear a son named Jesus. He would go out among the people, preach the gospel, work many miracles, suffer crucifixion, and rise from the dead on the third day. He would ascend, and all people who believe in the Lord would be saved. The angel then left Saint Anne, and the blessed Virgin Mary was conceived. Mary was carried in the womb for nine months and born in the tenth. From Adam to the conception and birth of the Virgin Mary, the count was five thousand one hundred and fifty years. (017v)
 
 The months passed until the blessed Virgin Mary was offered at the temple. From the beginning Mary had withdrawn from the world and resolved in her heart to keep her virginity. Amen. When Mary was twelve years old, God the Father looked down from heaven and saw the darkness. He sent the angel Gabriel to the blessed Virgin. Saint Luke writes that Gabriel said to her, “Hail, virgin maiden, full of grace. The Lord God is with you.” Mary asked, “How can this happen? I do not know a man, and I have resolved to remain a virgin.” Amen. Then the angel Gabriel answered Mary. (018r)
 
@@ -83,7 +83,7 @@ They went into Egypt and lived there. The Lord went with Joseph through every ci
 
 ### folios 022v–028v
 
-The first sign was when the Lord turned water into wine. The Lord also broke five loaves of bread for the people. For the fourth sign, the Lord Jesus raised up a son. For the fifth, he raised up one who was lost in Jerusalem. For the sixth, the Jews brought four sick people before him, including a paralytic, and the Lord Jesus healed them. He showed the seventh sign in Capernaum when he healed a soldier’s servant at the centurion’s request. He showed the eighth sign at Tyre for a woman. (022v)
+The first sign was when the Lord turned water into wine. The Lord also broke five loaves of bread for the people. For the fourth sign, the Lord Jesus raised up a son. For the fifth, he raised up one who was lost in Jerusalem. For the sixth, the Jews brought four sick people before him, including a paralytic, and the Lord Jesus healed them. He showed the seventh sign in Capernaum when he raised a soldier’s servant from the dead at the centurion’s request. He showed the eighth sign at Tyre for a woman. (022v)
 
 
 A pagan woman had a devil in her, and the Lord cast it out. This was the eighth sign. For the ninth sign, Jesus healed a proud paralytic [because of what the man had done]. For the tenth, he healed a ruler’s son who was at the point of death, and the son lived. For the eleventh, he cast an evil spirit out of a man in Jerusalem. Before Jesus Christ was born, neither prophet nor forefather could know the Son of God. Afterward, miracles led five witnesses to confess that Jesus is truly the Son of God. The first were Saint Peter, Moses, and Elijah. (023r)
@@ -92,7 +92,7 @@ Second, God the Father confessed him. Third, the devils confessed that Jesus is 
 
 When Jesus was thirty years old, he went to Saint John on Mount Carmel to be baptized. Jesus said, “John, baptize me.” John answered, “Master, I should be baptized by you.” Then John baptized Jesus. The Holy Spirit appeared in the form of a dove and came to rest on him, and a voice said, “This is my Son.” Jesus received the Holy Spirit and went out into the field. (024r–024v)
 
-The devils confessed that Jesus is truly the Son of God. When Jesus was thirty years old, he entered a town, where a man knelt before him. The man’s only son was possessed, and the apostles had been unable to heal him. He begged Jesus to have mercy and heal his afflicted son. The son was brought before Jesus and made whole. Through this miracle the devils confessed that Jesus is truly the Son of God. The fourth witnesses were the angels, who confessed him when he was born in Bethlehem. (025r)
+The devils confessed that Jesus is truly the Son of God. When Jesus was thirty years old, he entered Capernaum, where a man knelt before him. The man’s only son was possessed, and the apostles had been unable to heal him. He begged Jesus to have mercy and heal his afflicted son. The son was brought before Jesus and made whole. Through this miracle the devils confessed that Jesus is truly the Son of God. The fourth witnesses were the angels, who confessed him when he was born in Bethlehem. (025r)
 
 Before the birth, a star appeared over the town of Bethlehem. When the shepherds saw it, they rejoiced at the wonder. An angel told them, “I bring great joy. A king has been born in Bethlehem, in a barn. He lies in a donkey’s manger among the hay, with the ox and the donkey. He is Christ, the son of Mary.” The shepherds hurried to Bethlehem. They all knelt before him and gave thanks to the Most High Lord. Here ends this holy gospel. (025v)
 
@@ -114,7 +114,7 @@ Here begins the account of the Passion, written from the accounts of Saint Matth
 
 Peter said, “Master, you must not wash my feet.” Jesus answered, “If I do not wash your feet, you will have no part in heaven.” Peter said, “Master, then wash not only my feet, but also my hands and my head.” Jesus took the basin and washed the apostles’ feet, wiping each of them with the towel. Then he put his garments on again. (030r)
 
-Jesus sat at the table with the apostles and looked at them. He told them that he would give himself to them as food. He took a baked loaf, blessed the bread, and set it before them. Then he took a cup of wine, poured water into it, blessed the wine and water, and set the cup before them. Jesus said, “Whoever eats this bread belongs to the Lord. Whoever eats it and believes in the Lord will live.” (030v)
+Jesus sat at the table with the apostles and looked at them. He told them that he prayed for them. He took a baked loaf, blessed the bread, and set it before them. Then he took a cup of wine, poured water into it, blessed the wine and water, and set the cup before them. Jesus said, “Whoever eats this bread belongs to the Lord. Whoever eats it and believes in the Lord will live.” (030v)
 
 Whoever belongs to the Lord eats and drinks the holy Host and has life. Amen. Jesus knew that one of the apostles would betray him. They looked at one another and asked, “Master, who is it?” John leaned against Jesus’ breast and repeated the question. Jesus took a morsel of bread and said that the betrayer was the man to whom he gave it. (031r)
 
@@ -132,13 +132,13 @@ Jesus withdrew a second time, knelt, and prayed to the eternal Father: “Take t
 
 An angel came down from the eternal Father and placed before Jesus the suffering that God had allotted him. Through it the Son, Jesus of Nazareth, would redeem all people. The angel then left him. It is written that every night an angel came down from God the Father to Jesus and strengthened him for all his suffering, and this saying is true. Jesus returned to the apostles, and they were together again. (034v)
 
-The apostles slept, but Jesus could not sleep. He laid a stone beneath his head, then rose again, and the apostles rose with him. They saw [a serpent as a sign] that the Jews were coming to betray and seize the Son of God. Jesus and the apostles went down the path and saw a great crowd approaching with Judas among them. [His father had died, and his mother had come.] Judas had given the Jews a sign so that they could distinguish Jesus from James and John: he would kiss him. Judas went up to Jesus and took his hand, giving the promised sign. (035r)
+The apostles slept, but Jesus could not sleep. He laid a stone beneath his head, then rose again, and the apostles rose with him. They saw [a serpent as a sign] that the Jews were coming to betray and seize the Son of God. Jesus and the apostles went down the path and saw a great crowd approaching with Judas among them. [His father had died, and his mother had come.] Judas had given the Jews a sign so that they could distinguish Jesus from James and John: he would kiss him. Judas went up to Jesus and kissed him, and took his hand, giving the promised sign. (035r)
 
-The sign was needed because John looked like Jesus. Jesus called out to the crowd, “Whom are you looking for?” The Jews answered, “Jesus of Nazareth.” He said, “I am he.” At these words they fell backward, and their clubs dropped away. Jesus showed the Jewish people the power of God his Father. He asked a second time, “Whom are you looking for?” They again answered, “Jesus of Nazareth,” and Jesus said, “I am he.” (035v)
+The sign was needed because John looked like Jesus. Jesus called out to the crowd, “Whom are you looking for?” The Jews answered, “Jesus of Nazareth.” He said, “I am he.” At these words they fell backward, and their clubs dropped away. Jesus prayed to God his Father for the Jewish people. He asked a second time, “Whom are you looking for?” They again answered, “Jesus of Nazareth,” and Jesus said, “I am he.” (035v)
 
 All the Jews again fell backward, and their clubs dropped away. Jesus asked a third time, “Whom are you looking for?” They answered, “Jesus of Nazareth.” Jesus said, “I am he. If you are looking for me, take me, for I am going to God my Father.” Then the Jews drew away from Jesus. (036r)
 
-Peter struck one of the Jews with his sword and cut off his ear. The man’s name was Malchus. Jesus said, “Peter, Peter, you struck to kill this man.” He picked up the ear, put it back in place, and healed it. Jesus performed this miracle before the pagans, and some who saw it believed in him. One of the Jews fled after coming to believe. Jesus could also have escaped, but he did not. He remained a good shepherd to the apostles, and the Jews seized him. (036v)
+Peter struck one of the Jews with his sword and cut off his ear. The man’s name was Malchus. Jesus said, “Peter, Peter, you struck to kill this man.” He picked up the ear, put it back in place, and healed it. Jesus performed this miracle before the pagans, and some who saw it believed in him. One of the Jews fled after coming to believe. Jesus could also have escaped, but he did not. He kept his good [will] toward the apostles, and the Jews seized him. (036v)
 
 They bound Jesus’ hands and led him down from the mountain. Many Jews crowded around him, and one of them struck him. [They led him first through the town, then to the Lord’s house, and a third time onward.] They crossed the Kidron by a bridge. Jesus fell on the bridge, but no one showed him mercy. (037r)
 
@@ -146,7 +146,7 @@ The Jews dragged the bound Jesus away, and no one had mercy on him. They took hi
 
 Saint Peter stood outside the gate. A servant girl at the gate saw him and asked, “Are you a disciple of this Jesus?” Peter said no. This was his second denial, for he again said that he did not know the Lord. John, however, was known to the high priest. Caiaphas asked Jesus, “Do you say that you are the Son of God? What is it that you truly preach?” Jesus answered, “Listen to my teaching.” Caiaphas gathered the people in the Lord’s house and said that Jesus was not righteous, though Jesus was righteous. (039r)
 
-They went out, and Jesus was taken to Pilate. There they accused him, though some half believed and said that he had done nothing wrong. Jesus stood before Pilate with all the people against him and his holy face exposed to them. No one showed him mercy. The Jews brought their charges before Pilate. One spoke against Jesus and his apostles, another said that he claimed to be the Son of God, and a third said that he claimed to be king. (039v–040r)
+They went out, and Jesus was taken to Pilate. There they accused him, though some half believed and said that he had done nothing wrong. Jesus stood before Pilate with all the people against him; they [spat] on him and [struck] his holy face. No one showed him mercy. The Jews brought their charges before Pilate. One said that he and his apostles fed all the people with bread, another said that he claimed to be the Son of God, and a third said that he claimed to be king. (039v–040r)
 
 One of the Jews then asked Peter, “Are you an apostle of this Jesus?” Peter said that he did not know him. This was his third denial of Jesus, and at that moment the cock crowed. Peter went out in sorrow and wept. (040r)
 
@@ -178,7 +178,7 @@ Pilate had water brought in a basin and washed his hands. He said, “I am innoc
 
 Pilate did not want Jesus condemned, but Jesus was led out from his house and brought among the people. Jesus cried, “My people, the Lord’s people, the Jews, I loved you, yet through sin you have done this. My people, I did good among you and worked miracles. First, when you left Egypt as servants, I divided the sea before you.” (048r)
 
-“I led this people between the two parts of the sea and guided them by day. I kept them alive for forty years in the wilderness and gave them angels’ bread. Yet you have prepared a cross for your Lord.” On Palm Sunday the Jews had lifted Jesus up and wanted to crown him king. Now they said that his body should be lifted on the cross. Pilate cried out, and Jesus [was hidden from] the Jews. (048v)
+“I led this people between the two parts of the sea and guided them by day. I kept them alive for forty years in the wilderness and gave them angels’ bread. Yet you have prepared a cross for your Lord.” On Palm Sunday the Jews had lifted Jesus up and wanted to crown him king. Now they said that his body should be lifted on the cross. Pilate cried out, and the Jews took Jesus. (048v)
 
 They brought two thieves to Jesus and placed them beside him. One of the thieves was good. Saint John went up to Bethany to Mary Magdalene. [They sought] the Master, the living Lord. Mary Magdalene then went with John. (049r)
 
@@ -206,7 +206,7 @@ Mary had fled from the Jews, and the two Marys now came to the people gathered t
 
 Here begins the holy gospel written by Saint Mark. (054v)
 
-The three Marys went to Christ’s tomb with spices to anoint Jesus. They were Mary Salome, Mary the mother of James, and Mary Magdalene. They found the stone rolled away and entered the tomb, but they did not see Jesus. Instead they saw an angel sitting on the left, in the form of a young man dressed in white. Mary was afraid because she thought he was a ghost. The angel said, “Do not be afraid. Jesus, whom you mourn and whom they crucified, has risen. Look for him in Galilee, and tell his apostles and Peter.” Here ends this holy gospel. The women left the tomb, but Mary Magdalene returned. Jesus appeared to her in the form of a gardener and asked, “Woman, why are you weeping for the Lord? Jesus, whom they crucified, has risen.” The open tomb was filled with light. Jesus stood before Mary, and when she turned toward him she said, “Master!” He told her to go to the apostles. Mary rejoined the other two women so that they could carry the news together. (055r–056v)
+The three Marys went to Christ’s tomb with spices to anoint Jesus. They were Mary Salome, Mary the mother of James, and Mary Magdalene. They found the stone rolled away and entered the tomb, but they did not see Jesus. Instead they saw an angel sitting on the left, in the form of a young man, clothed [in white]. Mary was afraid because she thought he was a ghost. The angel said, “Do not be afraid. Jesus, whom you mourn and whom they crucified, has risen. Look for him in Galilee, and tell his apostles and Peter.” Here ends this holy gospel. The women left the tomb, but Mary Magdalene returned. Jesus appeared to her in the form of a gardener and asked, “Woman, why are you weeping for the Lord? Jesus, whom they crucified, has risen.” The open tomb was filled with light. Jesus stood before Mary, and when she turned toward him she said, “Master!” He told her to go to the apostles. Mary rejoined the other two women so that they could carry the news together. (055r–056v)
 
 Mary Magdalene saw the Master in the form of a gardener. The living Jesus Christ then stood among the three Marys, these sisters from Jerusalem. He gave them God’s commandment: the Lord shows mercy to whoever believes in him and in God his Father. Amen. The three Marys saw the crucified Jesus alive outside the tomb. Mary Magdalene declared that she had seen the Lord risen from the dead, and Jesus Christ stood among the three Marys and the apostles. This is the holy gospel. (057r)
 
@@ -220,21 +220,21 @@ On the third day, Jesus Christ rose from the dead. (059r)
 
 Here begins the holy gospel written by Saint Luke in the first chapter of his book. Two apostles left Jerusalem for a town called Emmaus. As they walked, they spoke about the living Lord Jesus: how he was truly a man and truly the Lord, how he preached and performed many miracles, and how the chief priests of the Jews crucified him. Jesus then appeared to them in the form of a traveler. (059v)
 
-Jesus drew near while the two apostles were talking and asked what they were discussing and why they had lost hope. The two men did not know that their third companion was the Lord. Luke answered the traveler sadly, “Are you the only good man on the road who does not know what happened in Jerusalem? The chief priests crucified Jesus. He came into the world, preached, and performed many miracles.” (060r)
+Jesus drew near while the two apostles were talking and asked what they were discussing. The two men did not know that their third companion was the Lord. Luke answered the traveler sadly, “Are you the only good man on the road who does not know what happened in Jerusalem? The chief priests crucified Jesus. He came into the world, preached, and performed many miracles.” (060r)
 
 “Through him the blind received sight, the dead rose, the lame were restored, and those possessed by the evil one were healed. Now a woman has brought news that the Lord has risen from the dead, but we two did not believe that he had risen.” Jesus said to the two apostles, “You foolish men, so slow to believe.” (060v)
 
 Jesus told them that the Son of God had died and, more than this, had risen from the dead. Beginning with the eternal Father, he explained the scriptures to Cleopas and Luke. He began with Adam’s transgression. Then he showed how Abel’s death at his brother’s hand signified the crucifixion of Jesus, who also died at the hands of his brothers. He next explained Noah and the wood [of the ark], through which people were saved. (061r)
 
-The wood prefigured the crucified Jesus, who redeemed all people and recovered Adam’s children. Jesus then explained how Abraham’s sacrifice signified the crucifixion. Abraham gave up his son, as God would give his own Son. He bound the bundle of wood, took up the sword, and prepared to kill Isaac. (061v)
+The wood prefigured the crucified Jesus, who redeemed all people and recovered Adam’s children. Jesus then explained how Abraham’s sacrifice signified the crucifixion. Abraham took his son Isaac to sacrifice him to the Lord. He bound the bundle of wood, took up the sword, and prepared to kill Isaac. (061v)
 
 Abraham went up the mountain to make the sacrifice. Isaac said, “My father, we have left the donkey and the young men far behind. Where is the ram or lamb for the offering?” Abraham told his son that the Lord would provide it. He bound the living Isaac upon the bundle of wood and prepared to kill him, but the Lord called from the cloud through an angel: “Stop, Abraham.” This showed the whole world the Lord’s love. (062r)
 
 Isaac was a figure of Jesus. Just as Abraham offered his son, the divine Father gave Jesus to be crucified. Jesus rose from the dead because he came from the eternal God. He then acted as though he would leave the two apostles and continue along the long road. They persuaded him to remain, brought him into a room, and seated him with them at the table. (062v)
 
-The two apostles brought a cup of water and wine. Jesus took the cup and blessed it, together with their daily bread and wine. [A cloud appeared.] The apostles ate and drank, and through the Holy Spirit they recognized that Jesus was truly the Son of God. Jesus Christ then vanished from their sight. Here ends this holy gospel. (063r)
+The two apostles brought a cup of water and wine. Jesus took the cup and blessed it, together with their bread and wine. [A cloud appeared.] The apostles ate and drank, and through the Holy Spirit they recognized that Jesus was truly the Son of God. Jesus Christ then vanished from their sight. Here ends this holy gospel. (063r)
 
-Here begins the holy gospel written by Saint John in the twentieth chapter of his book. Six apostles were gathered in one house in Jerusalem after supper. On a Saturday evening, Saint Thomas Didymus came to them. The apostles told him, “Thomas, we have seen the Lord.” Thomas answered, “I will not believe unless I see the marks in his hands and put my finger into his wound.” (063v)
+Here begins the holy gospel written by Saint John in the twentieth chapter of his book. Six apostles were gathered in one house in Jerusalem after supper. On a Saturday evening, Saint Thomas Didymus came to them. The apostles told him, “Thomas, we have seen the Lord.” Thomas answered, “I will not believe unless I see his side and put my finger into it.” (063v)
 
 Jesus Christ, who had risen from the dead, came among the apostles while the doors were closed. He said, “Peace be with you.” Then he turned to Thomas and said, “Put your finger into my wound. You believe because you have seen. Blessed are those who have not seen and yet believe.” Here ends this holy gospel. Saint Thomas knelt before Jesus and said, “My Lord and my God, have mercy on me, for I sinned against you.” (009r)
 
@@ -280,7 +280,7 @@ Jesus said, “Go among all people and baptize them in the name of the Father, t
 
 “In the Lord’s name, believers will cast evil spirits out of people. They will handle serpents without being bitten and drink deadly poison without becoming ill. They will lay their hands on the sick, and the sick will recover. They will perform all these miracles in the Lord’s name.” Jesus said, “I am going to my Father, and I will send the Holy Spirit to you. The apostles will speak in new languages.” (073r)
 
-Jesus told his apostles, “Go to the mountain today, for I am about to leave the whole world and return to my Father.” As he walked away, he turned to them and said, “Peace be with you.” He continued along the road, then looked back a second time and repeated the greeting. [On Monday the apostles recognized the Lord.] He turned a third time, a fourth time, and a fifth time, each time saying, “Peace be with you.” (073v)
+Jesus told his apostles, “Go to the mountain today, for I am about to leave the whole world and return to my Father.” As he walked away, he turned to them and said, “The law [be] with you.” He continued along the road, then looked back a second time and said it again. [On Monday the apostles recognized the Lord.] He turned a third time, a fourth time, and a fifth time, each time saying, “The law [be] with you.” (073v)
 
 Jesus was received into glory with his Father forever. Amen. At the judgment he will confess his people before the Father, who will judge the living and the dead. Mary, his mother, blessed all the apostles. Jesus rose into the sky, blessed the whole world, and was taken into eternal glory. Saint Peter then asked, “Master, how should your apostles pray?” (074r)
 
@@ -308,11 +308,11 @@ Saint John writes in the sixteenth chapter of his book that Jesus told his apost
 
 Saint Peter told the apostles, “Understand that the Lord sends the Holy Spirit, and the Spirit comes to Peter the rock.” The Virgin Mary was with them when the Father sent the Holy Spirit from heaven. As the Spirit had come upon Father Abraham, he now came upon the eleven apostles and Mary. Jesus had said that his Father would send his own Holy Spirit from heaven to them and to his mother. The Father, Son, and Holy Spirit are one God. The people had crucified the Son. (081r)
 
-The Spirit appeared in the form of holy fire and filled the apostles, Mary, and the Jews. Cloven tongues appeared with the sound of a mighty wind, in a form like a dove within the fire. The Jews saw the fire descend upon the house where Mary and the apostles were praying. They said that this was the power of the Lord. (081v)
+The Spirit appeared in the form of holy fire and filled the apostles, Mary, and the Jews. Cloven tongues appeared with the sound of a mighty wind, in a form like a dove within the fire. The Jews saw the fire descend upon the house where Mary and the apostles were praying. Then the chief of the Jews spoke. (081v)
 
 The apostles believed as the sound of the wind reached the Jews. The Jews entered the house where the apostles and Mary were praying and heard the heavenly words. The apostles and Mary gave thanks to the Lord God. The people of Jerusalem heard the apostles speaking in different languages and were amazed that the Holy Spirit had come from heaven. Many Jews came to believe in Jesus Christ. (082r)
 
-Every man and woman, Jew and apostle, received the Holy Spirit. After two years and three baptisms, three thousand Jews were baptized. [One son and seven sons.] They received the Holy Spirit, believed in Jesus Christ, and would go to heaven. Here ends this holy gospel. The Holy Spirit proceeds from the Father, while the Son sits with the Father. Consider the sun: it has three good properties. (082v)
+Every man and woman, Jew and apostle, received the Holy Spirit. Within two years, three thousand Jews were baptized. [One son and seven sons.] They received the Holy Spirit, believed in Jesus Christ, and would go to heaven. Here ends this holy gospel. The Holy Spirit proceeds from the Father, while the Son sits with the Father. Consider the sun: it has three good properties. (082v)
 
 The first property of the sun is light, the second is warmth, and the third is the sun itself. Its light signifies the Son of God, its warmth signifies the Holy Spirit, and the sun signifies the Father. Light and warmth proceed from one sun, just as the Son and the Holy Spirit proceed from the Father. The three share one form, for there is one God. Through his power heaven and earth quake, and he has prepared his dwelling in heaven and on earth. (083v)
 
@@ -356,7 +356,7 @@ When the meal was ready, the rich lord told his servant, “Go and tell the invi
 
 The second man said, “I cannot come. I have bought five yoke of oxen and must go into the field to try them. Please excuse me.” The third said, “I have married a wife and must go, so I cannot come.” The servant returned and reported their answers. The lord told him, “Go into the streets and roads, through the town and out to its gate. Bring in the poor, the one-eyed, the blind, the hungry, and the lame so that my house may be filled.” (093v–094r)
 
-The servant went out, found the people, and brought them into the lord’s house. He said, “Lord, it is done, but there is still room.” The lord answered, “Go farther out and compel the people you find to come in.” A Jew at the table rose and cried, “Blessed is the one who will eat bread in the kingdom of God. The one-eyed and the blind will inherit heaven and earth.” Jesus answered him and ended the account of the rich lord who invited many to his supper. [A thief came to the rich lord’s meal.] Here ends this holy gospel. (094v)
+The servant went out, found the people, and brought them into the lord’s house. He said, “Lord, it is done, but there is still room.” The lord answered, “Go farther out and compel the people you find to come in.” A Jew at the table rose and cried, “Blessed are the one-eyed and the blind, for the kingdom of heaven is theirs.” Jesus said that the Jew spoke rightly, and ended the account of the rich lord who invited many to his supper. [A thief came to the rich lord’s meal.] Here ends this holy gospel. (094v)
 
 Here begins the holy gospel written by Saint John in the sixth chapter of his book. Jesus told his apostles and the Jewish people, “You will eat of me and drink of me forever.” At the Last Supper he took a baked loaf, blessed the bread, and set it before the apostles. (095r)
 
@@ -372,9 +372,9 @@ Whoever receives another person receives God. Whoever confesses Jesus Christ as 
 
 If someone says, “I love God,” but hates his brother, he is a liar. How can he love the Most High God, whom he cannot see, when he hates the brother whom he does see? A rich man who wishes to love God must first love his brother as his neighbor. Whoever does this good will inherit the eternal land and be saved from evil forever. Amen. The Lord’s apostles must love every person in this way. (099v)
 
-The person who loves his neighbor inherits the eternal kingdom from the Lord, the Father, the Son, and the Holy Spirit. The prophet Elijah was taken into heaven by fire. Miracles followed: the blind received sight, the dead were raised, the lame walked, and the sick and possessed were healed. A pagan scholar and a church father ask whether Elijah performed these miracles. (100r)
+The person who loves his neighbor inherits the eternal kingdom from the Lord, the Father, the Son, and the Holy Spirit. The prophet Elijah was taken into heaven by fire. Miracles followed: the blind received sight, the dead were raised, the lame walked, and the sick and possessed were healed. Elijah did these miracles, and church fathers and pagan scholars wrote about him. (100r)
 
-The church fathers and pagan scholars wrote about the tomb, heaven, earth, and the Most High hidden for three days. Saint Augustine wrote three things about Elijah. The Lord God first [made] the sun and moon, and Elijah still lives. [From Adam came fifty, then seven people, making five hundred and thirty.] In Jesus’ thirtieth year he said, “Destroy this [temple].” It had been built over forty-six years. (100v)
+The church fathers and pagan scholars wrote about the tomb, heaven, earth, and the Most High hidden for three days. Saint Augustine wrote three things about Elijah. The Lord God first [made] the sun and moon, and Elijah still lives. [From Adam came fifty, then seven people, making five hundred and thirty.] In the thirtieth year the word “destroy” comes twice: once with the Lord and five towns, and once with forty-six years. It echoes John: “Destroy this [temple],” which was forty-six years in building. (100v)
 
 Saint Elijah knelt and prayed to the Lord God, and fire came down. An angel of God spoke to him, and Elijah was taken up into heaven. Noah and Elijah remain alive until the day when they will return to earth and bear the sword against the evil one. Antichrist will be born [of a prostitute]. He is the chief evil and the son of the devil. (101r)
 
@@ -396,7 +396,7 @@ The teacher tested Jesus by asking, “What must I do to gain eternal life?” J
 
 The Jew continued proudly, “Who is my neighbor?” Jesus answered with a story. A man set out through the wilderness toward Jericho and fell among robbers. (105v)
 
-The robbers stripped the man, beat him, and left him half dead and half alive. A priest, a descendant of Abraham, came along the road, saw the wounded man, and passed by. A Levite, a descendant of Moses, came next and also passed him without helping. (106r)
+The robbers stripped the man, beat him, and left him half dead and half alive. A descendant of Abraham came along the road, saw the wounded man, and passed by. A descendant of Moses came next and also passed him without helping. (106r)
 
 A Samaritan, a living servant of the Lord, found the man and had compassion on him. He poured wine into the wounds and bound them. Then he lifted the man onto his own shoulder, carried him to an inn, and entrusted him to the innkeeper. He gave the innkeeper two denarii and said, “Take care of him. Whatever more you spend on him, I will repay.” (106v)
 
@@ -434,13 +434,13 @@ The firstborn was the angel of the Father God. The Father gave him the world's g
 
 This word before the gospel is attributed to Saint John the Baptist. When Jesus was twenty-nine years old, John preached on Mount Carmel. Four groups went there to be taught by him: soldiers, Pharisees, farmers, and sinners. The soldiers came first. (116v)
 
-The Pharisees were the second group, the farmers the third, and the sinners the fourth. The soldiers asked John, “How shall we be saved?” Saint John the Baptist answered, “Give alms for God's sake, care for the blind, and be merciful and righteous. Then the kingdom of heaven is yours.” The Pharisees then came to be taught and asked, “How shall we be saved?” (117r)
+The Pharisees were the second group, the farmers the third, and the sinners the fourth. The soldiers asked John, “How shall we be saved?” Saint John the Baptist answered, “Give to the poor of God, and be merciful and righteous. Then the kingdom of heaven is yours.” The Pharisees then came to be taught and asked, “How shall we be saved?” (117r)
 
-John answered the Pharisees, “You are righteous people. Preach and teach sinners how sin is redeemed. Be merciful and righteous, and the kingdom of heaven is yours.” The farmers then asked how they could be saved. John said, “Till the ground and live rightly. Give alms for God's sake to the blind, and be merciful and righteous. Then the kingdom of heaven is yours.” (117v)
+John answered the Pharisees, “You are righteous people. Preach and teach sinners how sin is redeemed. Be merciful and righteous, and the kingdom of heaven is yours.” The farmers then asked how they could be saved. John said, “Till the ground and live rightly. Give alms to the poor of God, and be merciful and righteous. Then the kingdom of heaven is yours.” (117v)
 
 The sinners also came to John and asked, “How shall we be saved?” Saint John the Baptist answered, “Love the Lord God with all your heart, all your soul, and all your strength, and love your neighbor as yourself. Be merciful and righteous, and keep God's commandments. [A hundred sins ...] You will be saved. Amen.” (118r)
 
-Whoever loves the Most High Lord God with all his heart and keeps God's commandments will possess the kingdom of heaven. Everyone who believes that Jesus Christ is the true Son of the living God is saved. No believer is damned. Here begins the holy gospel, attributed to the seventh chapter of Saint Luke. When Jesus was thirty-one years old, sinners and publicans drew near to him. The Pharisees and scribes murmured because he spoke as the Son of God. Jesus asked them, “If a man has one hundred sheep and loses one, does he not leave the other ninety-nine in the wilderness and search for the lost sheep? When he finds it, he lifts it onto his shoulders.” (118v–119r)
+Whoever loves the Most High Lord God with all his heart and keeps God's commandments will possess the kingdom of heaven. Everyone who believes that Jesus Christ is the true Son of the living God is saved. No believer is damned. Here begins the holy gospel, attributed to the seventh chapter of Saint Luke. When Jesus was thirty-one years old, sinners drew near to him. The Pharisees and scribes murmured because he spoke as the Son of God. Jesus asked them, “If a man has one hundred sheep and loses one, does he not leave the other ninety-nine in the wilderness and search for the lost sheep? When he finds it, he lifts it onto his shoulders.” (118v–119r)
 
 He carried the sheep home on his shoulder and called his friends and neighbors, saying, “I have found the sheep that was lost. Rejoice with me!” There is greater joy over that sheep than over the other ninety-nine. Jesus then spoke of a woman who had ten drachmas and lost one. The woman is Eve, and her lamp is Mary's Son, born and crucified. By that light Eve found the lost drachma, the kingdom of heaven, and rejoiced over Christ's death. (119v)
 
@@ -454,7 +454,7 @@ The sheep represents the righteous people who believe in the Lord and Father God
 
 Lord God formed Adam from the clay of the earth and breathed a soul into him, making him alive. The Lord—the Father, Son, and Spirit—then took Adam into Paradise. [Every heart is Adam's heart, the Lord, the Father, the Son, and the Spirit.] Jesus said that Adam had received every good thing from Father God in heaven. He knew neither hunger nor thirst. (122r)
 
-No living thing died there. Sin would bring Adam hunger, thirst, and death. The Lord placed one law upon him: “Do not eat from this tree, or through that evil sin you will die.” Adam ate there and died. The first teaching then tells how Adam slept in Paradise. The Holy Spirit entered the garden, and Lord God took a rib from Adam and made the woman. Then Adam (122v)
+No living thing died there. Sin would bring Adam hunger, thirst, and death. The Lord placed one law upon him: “Do not eat from this tree, or through that evil sin you will die.” If Adam ate, he would die on the spot. The first teaching then tells how Adam slept in Paradise. The Holy Spirit entered the garden, and Lord God took a rib from Adam and made the woman. Then Adam (122v)
 
 laughed and said, “This is bone of my bones.” The two souls were called one. The Lord—Father God, the Son, and the Spirit—returned to the kingdom of heaven. Eve went through the Garden of Eden to the tree that stood in its midst, the tree forbidden by God's law, and saw a serpent. The serpent told her to eat its fruit. Eve answered that Adam had told her the commandment: “You shall not eat.” The serpent said, “Eve, eat, and give some to Adam.” (123r)
 
@@ -464,7 +464,7 @@ Lucifer had bowed down from Father God in heaven and fallen toward hell. The Lor
 
 Adam answered the Lord—the Father, Son, and Spirit—saying, “The woman Eve gave me the fruit, and I ate.” The Lord then questioned Eve. She answered, “The serpent gave me the food and deceived me.” Jesus then spoke the judgment of Father God to Adam: (124v)
 
-“Adam, you did not keep the law and commandment laid upon you. You must till the ground and take your food from the earth.” Eve would pine and suffer pain in childbirth. The earth was cursed because of this evil, and the serpent would crawl upon it. All this happened because the serpent deceived the man and woman. (125r)
+“Adam, [you did not keep] the law and commandment laid upon you. You must till the ground and take your food from the earth.” Eve would pine and suffer pain in childbirth. The earth was cursed because of this evil, and the serpent would crawl upon it. All this happened because the serpent deceived the man and woman. (125r)
 
 Death entered among Adam and Eve. The Lord—the Father, Son, God, and Spirit—drove them out of the heavenly garden and onto the earth. Lord God stationed an angel there with a flaming sword. [The serpent crawled out and was cast from the Garden of Eden.] (125v)
 
@@ -478,7 +478,7 @@ Holy Hezekiah prepared himself, and at last his soul left him. An angel of God a
 
 The holy prophet Hezekiah had been warned and prepared himself. Paul likewise prepared himself, for he belonged to the Lord Jesus, the only Son of God. [That man went because he lost the sheep.] Here begins the holy gospel, attributed to the first chapter of Saint Luke. Three days after the Lord Christ was condemned, (128r)
 
-on another night he appeared to his apostles behind a closed gate. They were startled and thought they were seeing a spirit. Even after they saw that it was the Lord, they could not believe for joy. The Lord remained with them for thirty-three days. (128v)
+on another night he appeared to his apostles at the gate. They were startled and thought they were seeing a spirit. Even after they saw that it was the Lord, they could not believe for joy. The Lord remained with them for thirty-three days. (128v)
 
 The apostles understood that he was the Lord Jesus Christ. As Saint John relates, Jesus breathed upon them, and all the apostles received the Holy Spirit. Jesus then said, “Go into the world as my apostles and preach the gospel. (129r)
 
@@ -502,11 +502,11 @@ Horeb is the mountain loved by the Most High Lord God above every creature. Befo
 
 Antichrist will be born [of a harlot]. He is the chief evil, the son of the devil, and his very name is evil. Before the gospel, Jesus spoke of a king and his kingdom. Here begins the holy gospel, attributed to an unreadable chapter number in Saint Matthew. Jesus told his apostles and the Jewish people that the kingdom of Lord God is like a king settling accounts on judgment day. A heavenly servant was brought before him. (134r)
 
-The servant owed his lord ten thousand talents. He came before Lord God the king, who is Lord Christ. The king found no good works in him—no obedience to the law, love, mercy, or righteousness—and ordered that the servant, his wife, his children, and all he owned be sold to pay the debt. The heavenly servant knelt before Lord God the king. (134v)
+The servant owed his lord ten thousand talents. He came before Lord God the king, who is Lord Christ. The king found no good works in him—no obedience to the law, love, mercy, or righteousness—and ordered that the servant, his children, and all he owned be sold to pay the debt. The heavenly servant knelt before Lord God the king. (134v)
 
 The servant humbled himself and begged the king to forgive his debt. Lord God the king had mercy and forgave all the man's sin. The servant went home, but on the way he met a fellow servant who owed him one hundred denarii. He began demanding payment. (135r)
 
-The debtor knelt before the heavenly servant and pleaded for compassion and forgiveness. The servant refused and had him thrown into prison until he paid the debt. Other servants saw this and were deeply saddened. They went sorrowfully to Lord God the king and told him what had happened. (135v)
+The debtor knelt before the heavenly servant and pleaded for compassion and forgiveness. The servant refused and had him thrown into prison until he paid the debt. Two other servants saw this and were deeply saddened. They went sorrowfully to Lord God the king and told him what had happened. (135v)
 
 The Father of heaven is king of heaven, earth, and everyone upon the earth. The servant had pleaded with the one Lord God, and the Lord mercifully forgave his debt of ten thousand talents. Yet when that servant met a man who owed him one hundred denarii, he demanded payment. The debtor knelt before him and pleaded just as the servant had pleaded before the king. (136r)
 
@@ -522,7 +522,7 @@ Amen. This prayer grants [threefold] mercy. The holy church father says that who
 
 Whoever prays to the blessed Virgin Mary does not enter the fire of hell. Mary shows her Son the breast that nursed Lord God and pleads for the lost and damned person: “Christ, have mercy.” Whoever kneels and prays daily to the mother of Christ is saved. No faithful servant is damned. (139r)
 
-Moses said this to Aaron: the person who turns from every good thing is cursed. The person who is merciful and righteous toward his brother as toward himself is saved. [The repeated words “to God blind” are unclear.] Lord God desires such mercy and righteousness. The wicked person's goods, possessions, and riches are cursed with him. (139v)
+Moses said this to Aaron: the person who turns from every good thing is cursed. The person who is merciful and righteous toward his brother as toward himself is saved, and so is the person who is merciful toward the poor of God. Lord God desires such mercy and righteousness. The wicked person's goods, possessions, and riches are cursed with him. (139v)
 
 The cursed person's herd, field, harvest, grapes, house, [barn], and stores are cursed by the Lord. The damned person falls into hell. By contrast, the person who is merciful and righteous toward his brother as toward himself is blessed. The Lord blesses his herd, field, and harvest. (140r)
 
@@ -604,7 +604,7 @@ The herdsmen saw what happened, were terrified, and fled home to report what Jes
 
 Jesus returned to his own town and entered a house. Word spread that he was there, and people brought a paralytic to him. The town was called Capharnaum. Jesus took three apostles with him: Peter, Paul, and John. (160v)
 
-Lord Christ was about to perform a miracle, and every miracle of the Lord should be proclaimed. While he preached in Capharnaum, four friends carried a paralytic to him. They represented faith, love, hope, and mercy. Unable to pass through the crowd, they climbed onto the roof, opened it, and prepared to lower the man through. (161r)
+Lord Christ was about to perform a miracle, and every miracle of the Lord should be proclaimed. While he preached in Capharnaum, four friends carried a paralytic to him. They represented faith, love, hope, and mercy. Unable to pass through the crowd, they climbed onto the temple, broke through it, and prepared to lower the man through. (161r)
 
 The four friends lowered the man by a rope before Lord Jesus Christ. Jesus saw their faith, love, hope, and mercy and had compassion on the man. He said, “Son, through faith, love, hope, and mercy you shall be healed. Your sins are forgiven. Rise and go.” (161v)
 
@@ -612,7 +612,7 @@ The Jews questioned Jesus, but the Lord again spoke of faith, love, hope, and me
 
 Lord Christ raised three people from death. First he raised a ruler's daughter in Jerusalem. Second he raised Lazarus in Jerusalem. Third he raised a son at Nain. The daughter, Lazarus, and the son all rose by the power of the Father working through the Lord's finger. The Lord is Father, Son, God, Jesus, and Holy Spirit. Love Lord God with all your heart. (162v)
 
-Here begins a holy gospel attributed to the first chapter of Saint Luke. When Jesus was thirty-two years old, he went to a town called Nain. Many people followed him, including the seventy and the twelve apostles. As he approached, the only son of a widow was being carried out of the town. (163r)
+Here begins a holy gospel attributed to the first chapter of Saint Luke. When Jesus was thirty-two (the text says days, not years), he went to a town called Nain. Many people followed him, including the seventy and the twelve apostles. As he approached, the only son of a widow was being carried out of the town. (163r)
 
 Men carried the dead son out two by two, and a large crowd followed. At the town gate the funeral procession met the people following Jesus. The Lord saw the grieving crowd and the sorrow of the widow, who had now been left alone. He had compassion and said, “Widow's son, stand up.” (163v)
 
@@ -632,7 +632,7 @@ The steward wept, saying, “I cannot dig, and I am ashamed to beg.” He devise
 
 He had the first debtor write fifty on his bill. The other debtor owed the rich lord one hundred measures of wheat. The steward, now called a man of alms, asked him what he owed and told him to sit down and change the bill. (168v)
 
-The second debtor wrote eighty on his bill. The rich Lord God then called the unjust steward to account for what he had done. Jesus explained to the apostles that the steward stands accused because the rich Lord God entrusted many riches to every person. (169r)
+The second debtor wrote [eighty] on his bill. The rich Lord God then called the unjust steward to account for what he had done. Jesus explained to the apostles that the steward stands accused because the rich Lord God entrusted many riches to every person. (169r)
 
 The Lord gave you sight, speech, life, hearing, soul, mind, reason, and sense. All these riches belong to Lord God. The apostles, the Jews, and every person are only their stewards in this world. The rich man found those stewards accused of wasting his gifts. (169v)
 
@@ -654,9 +654,9 @@ Here begins a holy gospel attributed to the sixth chapter of Saint Luke. When Je
 
 Jesus came wearily to a well and sat beside it while the apostles went into the village for bread. A woman of an alien nation came to draw water. Jesus was thirsty and asked her for a drink. She replied, “How can you, a Jew, ask water from a pagan woman?” (176r)
 
-Jesus spoke with the pagan woman and revealed that she had had five husbands. By this sign she recognized the Lord whose coming the prophets had foretold. When the apostles returned, they marveled that he was speaking with her. Jesus taught her of baptism, and she believed in him and returned to her people. (176v)
+Jesus spoke with the pagan woman and revealed that she had had [five husbands]. By this sign she recognized the Lord whose coming the prophets had foretold. When the apostles returned, they marveled that he was speaking with her. She believed in him and returned to her people. (176v)
 
-The woman went into the village and told the people, “A man at the well told me everything I have done. He is the Lord foretold by the prophets.” The people believed her and went to the well to hear Jesus. They asked him to remain with them, and the Lord preached there for two days. (177r)
+The woman went into the village and told the people, “A man at the well told me everything I have done. He is the Lord foretold by the prophets.” The people believed her and went to the well to hear Jesus. They asked him to remain with them, and the Lord preached there for two years (the gospel says two days). (177r)
 
 Jesus then went into a town in Galilee. Here ends this holy gospel. Love Lord God with all your heart. Another holy gospel begins, written by Saint Luke. (177v)
 
@@ -684,14 +684,14 @@ Let each person be baptized in the name of the Father, the Son, and the Holy Spi
 
 ### folios 183r–215r
 
-Twenty-six years after the execution of Lord Christ, the account turns to Jerusalem. A wealthy pagan ruler named Chosroes seized the wood of the Cross on which Christ had been executed and carried it to a tower in Ctesiphon. Many years of war followed between Chosroes and the Roman emperor Heraclius. (183r)
+Twenty-six years after the execution of Lord Christ, the account turns to Jerusalem. A pagan emperor named Chosroes seized the wood of the Cross on which Christ had been executed and carried it to a tower in Ctesiphon. Many years of war followed between Chosroes and the Roman emperor Heraclius. (183r)
 
 
 The Roman emperor Heraclius faced two wars with only a small army. He trusted the Lord, gave thanks, and prayed. Lord God heard him, and an angel called across the water. At the angel's command, Heraclius had the sign of the Cross marked upon his armor. (183v)
 
 Heraclius won the battle and the pagan emperor was defeated. Many pagans died in the fighting, while others were overcome and baptized. Heraclius then entered Ctesiphon, where Chosroes sat inside a tower. (184r)
 
-The tower was built of gold and precious stones like a temple to a god. Chosroes sat within on a golden throne. He had placed the wood of the Cross on one side and a golden cock on the other. Pipes carried water upward so that it fell like rain within the tower. (184v)
+The tower was built of gold and precious stones like a temple to a god. Chosroes sat within on a golden throne. He had placed the wood of the Cross on one side and a golden cock on the other. Water was made to rise up in the tower and fall like rain. (184v)
 
 Chosroes sat between the Cross and the golden cock and demanded that the whole world worship him as God. Heraclius entered the tower and commanded him to accept the true God. When Chosroes refused, Heraclius had him beheaded. (185r)
 
@@ -711,9 +711,9 @@ Whoever receives the holy host and drinks from the altar must believe and belong
 
 After the angel's announcement, the Lord came into the world. On a Sunday Jesus changed water into wine at a wedding. On a Sunday he raised a ruler's daughter in Jerusalem. On a Sunday he was baptized on Mount Carmel, where the Holy Spirit appeared in the form of a dove, and afterward he went into the wilderness. (189r)
 
-On Sundays Jesus raised the widow's son at Nain, gave sight to a blind man near Jericho, entered Jerusalem with his apostles, cast hell out of a man's mind, and fed five thousand people with five loaves. In his thirty-third year he also went from Galilee across the sea to a mountain. During his final week he entered Jerusalem to suffer on Sunday, preached and performed miracles on Monday, and raised Lazarus on Tuesday. Judas sold him for thirty pieces of silver on Wednesday. He made the supper and was arrested on Thursday. He was crucified and bound the evil one on Friday, then destroyed hell on Saturday. (189v–190r)
+On Sundays Jesus raised the widow's son at Nain, gave sight to a blind man near Jericho, entered Jerusalem with his apostles, cast hell out of a man's mind, and fed five thousand people with five loaves. In his thirty-third year he also went from Galilee across the Red Sea to a mountain. During his final week he entered Jerusalem to suffer on Sunday, preached and performed miracles on Monday, and raised Lazarus on Tuesday. Judas sold him for thirty pieces of silver on Wednesday. He made the supper and was arrested on Thursday. He was crucified and bound the evil one on Friday, then destroyed hell on Saturday. (189v–190r)
 
-On Sunday the Lord rose from death and appeared five times. First he appeared at Bethany to the Virgin Mary, second at the tomb to Mary Magdalene, and third on the road toward Jerusalem. Fourth he appeared to Luke and Cleopas as they traveled from Jerusalem to Emmaus, where he blessed bread and water. Fifth he appeared in Jerusalem to the ten apostles. (190v)
+On Sunday the Lord rose from death and appeared five times. First he appeared at Bethany to the Virgin Mary, second at the tomb to Mary Magdalene, and third on the road toward Jerusalem. Fourth he appeared to Luke and Cleopas as they traveled from Jerusalem to Emmaus, where he blessed wine and water. Fifth he appeared in Jerusalem to the ten apostles. (190v)
 
 The Lord also appeared on a Sunday in Jerusalem to all twelve apostles, including Thomas. Later, while the apostles sat at table in the house where Jesus had made the supper, the Lord ascended to his Father in the eternal city. Two angels in white clothing appeared and addressed the apostles. [The manuscript's intervening year counts are unclear.] (191r)
 
@@ -767,7 +767,7 @@ Through heavenly faith and baptism, a pagan is forgiven and brought into the Lor
 
 Third, each person owes the Lord fasting, prayer, and obedience to Father God's Ten Commandments. Kneel before Father God, pray humbly at home, please the Lord, and give thanks. Heaven and earth belong to him. Honor the rulers of this world, but give the Lord what is owed to the Lord. (205r)
 
-Here begins a holy gospel attributed to Saint Luke. Jesus entered Jericho when he was thirty-one. A chief tax collector named Zacchaeus wanted to see him, but he was short and the crowd blocked his view. He climbed a tree. Jesus looked up and said, “Zacchaeus, come down quickly, for today I must stay in your house.” Zacchaeus came down joyfully, and Jesus entered with his apostles. The Jewish leaders murmured that the Son of God had become the guest of a sinner and extortioner. Zacchaeus said, “Master, I give half my riches to the poor, and if I have taken anything by extortion, I repay it fourfold.” (205v–207r)
+Here begins a holy gospel attributed to Saint Luke. Jesus entered Jericho when he was thirty-one. A chief tax collector named Zacchaeus wanted to see him, but he was short and the crowd blocked his view. He climbed a [tree]. Jesus looked up and said, “Zacchaeus, come down quickly, for today I must stay in your house.” Zacchaeus came down joyfully, and Jesus entered with his apostles. The Jewish leaders murmured that the Son of God had become the guest of a sinner and extortioner. Zacchaeus said, “Master, I give half my riches to the spiritually blind of God, and if I have taken anything by extortion, I repay it fourfold.” (205v–207r)
 
 Jesus said, “Zacchaeus is truly a son of Father Abraham. Today salvation has come to this house.” The Lord, the true Son of the living God, came into the world to seek sinners. He loves the repentant sinner and is pleased when that person is saved and gives thanks. Here ends this holy gospel. (207v)
 
@@ -843,9 +843,9 @@ Saul went to the Jewish leaders in Jerusalem and asked for authority to persecut
 
 Saul set out with his company for Damascus, where many people believed in Lord Jesus Christ. As they traveled, a heavenly light suddenly shone around him. Saul fell to the ground, and Lord God called, “Saul, Saul, (219v)
 
-why do you persecute me?” Saul asked, “Who are you, Lord?” The voice answered, “I am Jesus of Nazareth, whom you persecute, the Lord executed on the Cross.” Saul asked what he should do. When he rose, he was blind, and his companions led him by the hand. (220r)
+why do you persecute me?” Saul asked, “Who are you, Lord?” The voice answered, “I am Jesus of Nazareth, whom you persecute, the Lord executed on the Cross.” Saul asked what he should do. When he rose, [he was blind], and his companions [led him by the hand]. (220r)
 
-Saul's companions brought him into Damascus and lodged him in the house of a man named Judas. Saul remained blind there for three days. The Lord then spoke in a vision to a disciple named Ananias and sent him to that house. (220v)
+Saul's companions brought him into Damascus and lodged him in the house of a man named Judas. Saul remained there [blind] for three days. The Lord then spoke to a disciple named Ananias and sent him to that house. (220v)
 
 Ananias found Saul, laid his hands upon him, and placed the Lord's name upon him. Saul would become Paul and carry that name throughout the wide world. Ananias objected, “Lord, how can Saul bear your name when he has persecuted it?” Lord God answered, “Go, Ananias. He is my chosen servant and will carry my name in truth and love.” (221r)
 

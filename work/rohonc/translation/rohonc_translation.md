@@ -7013,7 +7013,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **5**  In turn [hath this world's goods] the holy man; the man has wealth, he sees;
 `in_turn [?] ~rich somebody have somebody wealth see`
 
-**6**  trespass; the unseen God; and the man [seeth not] has God, the man
+**6**  trespass, the poor of God; and the man [seeth not] has God, the man
 `trespass blind God and somebody [?] have God somebody`
 
 **7**  loves the holy man as thy neighbour. Of
@@ -8397,7 +8397,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **5**  spoke. And to the soldiers, holy John the Baptist: the soldiers' holiness, and of
 `speak and soldier holy-John +the_Baptist <of>-soldier ~rich and <of>`
 
-**6**  the soldiers' faith: begin to give alms, soldiers, to God, [content] the blind,
+**6**  the soldiers' faith: begin to give alms, soldiers, to God, [content] the poor of God,
 `soldier believe on-begin donate soldier God [?] blind`
 
 **7**  and be merciful, soldiers, and righteous, soldiers; that is,
@@ -8415,7 +8415,10 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Luke 3:10-14, "and the people asked him, saying, What shall we do then?",
 > expanded into four questions and four answers, one for each of four
 > estates: soldiers, Pharisees, farmers, sinners. Their give-alms sign
-> stands on line 6, cited by them at that line.
+> stands on line 6, cited by them at that line. The pair after it is Király
+> & Tokai's set phrase "poor man of God" (the pious poor, a beggar). An
+> earlier version read it sign by sign as "God blind" here and at 099r,
+> 117v, 139v, 140r and 201v; that was wrong.
 
 ## 117v — the Pharisees and the farmers get their answers
 
@@ -8443,7 +8446,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **8**  farmers, farm, till the ground, and conceive, and rightly, of the farmers, not,
 `farm farm <agricultural_expression> and get_conceived and righteous(ly) <of>-farm not-not`
 
-**9**  living; and to God, the blind, give alms; be ye farmers merciful, ye farmers,
+**9**  living; and to the poor of God give alms; be ye farmers merciful, ye farmers,
 `living and God blind donate exist-farm have_mercy-farm`
 
 **10**  and righteous, ye farmers; yours is the kingdom of heaven.
@@ -9860,7 +9863,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **3**  good. That is, therefore the man is saved; in turn, whoever is
 `good that_is ?therefore +be_saved-somebody in_turn and somebody exist`
 
-**4**  merciful, righteous, to God blind, and to his
+**4**  merciful, righteous, to the poor of God, and to his
 `have_mercy-somebody righteous(ly)-somebody God blind and to <of>-somebody`
 
 **5**  brother as to himself, to his own.
@@ -9869,7 +9872,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **6**  There is heaven and earth; in turn, whoever is
 `exist heaven land in_turn and somebody +exist`
 
-**7**  merciful, righteous to God, blind, and to his
+**7**  merciful, righteous to the poor of God, and to his
 `have_mercy righteous(ly)-somebody to God blind and to <of>-somebody`
 
 **8**  brother: this man the Lord God would. Cursed from
@@ -9884,8 +9887,9 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Deuteronomy 28, the blessings and the curses, which run from here to
 > 140v. *Brother* on lines 5 and 8 is Király & Tokai's own father+son, and
 > *himself* on line 5 is theirs too, cited at this line. Lines 3 to 8 are one
-> formula said twice and its sense is not settled; "to God blind" is what the
-> words say and it is not yet clear what it means.
+> formula said twice. Read sign by sign it says "to God blind", and an
+> earlier version left it unexplained; it is Király & Tokai's set phrase
+> "poor man of God", the pious poor (see 117r).
 
 ## 140r — cursed be thy herd and thy field
 
@@ -9907,7 +9911,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **6**  O chapter; into hell the man falls; in turn, whoever is | merciful,
 `chapter-oh inside hell somebody +fall_down in_turn and somebody exist | have_mercy`
 
-**7**  righteous, the man, to God blind, this, to his
+**7**  righteous, the man, to the poor of God, this, to his
 `somebody righteous(ly) somebody to God blind this <of>-somebody`
 
 **8**  brother as to himself, this man.
@@ -14148,10 +14152,10 @@ in Király & Tokai's dictionary, so the person is not named here.
 **4**  the way, and to the town; and they found
 `way and on-town and find`
 
-**5**  the blind of God […] blind, and even more […] and
+**5**  the poor of God, […] blind, and even more […] and
 `God blind [?] blind and even_more-[?]-to and`
 
-**6**  the hungry and the thirsty, and [feeble] the blind of God, and
+**6**  the hungry and the thirsty, and [feeble] the poor of God, and
 `be_hungry and thirst and [?] God blind and`
 
 **7**  [go ye] [into the highways] the servants found; all the servants went,

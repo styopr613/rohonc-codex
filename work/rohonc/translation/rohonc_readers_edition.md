@@ -2933,7 +2933,7 @@ words. There are 982 of them now.
 
 ## 099r — he that dwelleth in love dwelleth in God
 
-> the man receives, and God receives the man […] the man, God. To this the man has: the Lord God, Jesus Christ, the Son of God; and the Lord, the Lord's head, heaven and earth; and love his brother as thy neighbour. In turn [hath this world's goods] the holy man; the man has wealth, he sees; trespass; the unseen God; and the man [seeth not] has God, the man loves the holy man as thy neighbour. Of whosoever is holy, one, the kingdom of heaven, speaks holy Matthew; and the man […] says: this man loves God. In turn, of the holy man, his brother hateth loves the holy man, from [a liar]
+> the man receives, and God receives the man […] the man, God. To this the man has: the Lord God, Jesus Christ, the Son of God; and the Lord, the Lord's head, heaven and earth; and love his brother as thy neighbour. In turn [hath this world's goods] the holy man; the man has wealth, he sees; trespass, the poor of God; and the man [seeth not] has God, the man loves the holy man as thy neighbour. Of whosoever is holy, one, the kingdom of heaven, speaks holy Matthew; and the man […] says: this man loves God. In turn, of the holy man, his brother hateth loves the holy man, from [a liar]
 
   1  man^ grab and God man^ grab [abideth] man^ God | to
   2  this have man^ Lord_God Jézus Christ son of-God
@@ -3476,7 +3476,7 @@ words. There are 982 of them now.
 
 ## 117r — John the Baptist answers the soldiers, and then the Pharisees
 
-> people; in turn the second people are the Pharisees, the Jews; the third people are the farmers, the people; in turn the fourth people are the sinners. First said the soldiers, the people; the soldiers answered; the soldiers went to this John to be taught, in a dream(?) taught. The soldiers: how shall we be saved? they spoke. And to the soldiers, holy John the Baptist: the soldiers' holiness, and of the soldiers' faith: begin to give alms, soldiers, to God, [content] the blind, and be merciful, soldiers, and righteous, soldiers; that is, yours is the kingdom of heaven. Then said the Pharisees, the Jews, to John; the Pharisees answered; the Pharisees went to this John to be taught, in a dream taught. The Pharisees: how shall we be saved?
+> people; in turn the second people are the Pharisees, the Jews; the third people are the farmers, the people; in turn the fourth people are the sinners. First said the soldiers, the people; the soldiers answered; the soldiers went to this John to be taught, in a dream(?) taught. The soldiers: how shall we be saved? they spoke. And to the soldiers, holy John the Baptist: the soldiers' holiness, and of the soldiers' faith: begin to give alms, soldiers, to God, [content] the poor of God, and be merciful, soldiers, and righteous, soldiers; that is, yours is the kingdom of heaven. Then said the Pharisees, the Jews, to John; the Pharisees answered; the Pharisees went to this John to be taught, in a dream taught. The Pharisees: how shall we be saved?
 
   1  people in_turn-two people exist Pharisee Jew third people exist
   2  farm people in_turn-two-two people exist sinners*
@@ -3491,7 +3491,7 @@ words. There are 982 of them now.
 
 ## 117v — the Pharisees and the farmers get their answers
 
-> they spoke. And to the Pharisees, holy John the Baptist: and have this, ye Pharisees, righteous people; preach, and teach the sinful; how is sin, from redeem. And be ye Pharisees merciful, ye Pharisees, and righteous, ye Pharisees; there is yours the kingdom of heaven. Then said the farmers, the people, to John; the farmers answered; the farmers went to this John to be taught, in a dream taught. The farmers: how shall we be saved? they spoke. And to the farmers, holy John the Baptist: and have this, ye farmers; you, farmers, farm, till the ground, and conceive, and rightly, of the farmers, not, living; and to God, the blind, give alms; be ye farmers merciful, ye farmers, and righteous, ye farmers; yours is the kingdom of heaven.
+> they spoke. And to the Pharisees, holy John the Baptist: and have this, ye Pharisees, righteous people; preach, and teach the sinful; how is sin, from redeem. And be ye Pharisees merciful, ye Pharisees, and righteous, ye Pharisees; there is yours the kingdom of heaven. Then said the farmers, the people, to John; the farmers answered; the farmers went to this John to be taught, in a dream taught. The farmers: how shall we be saved? they spoke. And to the farmers, holy John the Baptist: and have this, ye farmers; you, farmers, farm, till the ground, and conceive, and rightly, of the farmers, not, living; and to the poor of God give alms; be ye farmers merciful, ye farmers, and righteous, ye farmers; yours is the kingdom of heaven.
 
   1  from-speak and the_Pharisees* holy-John the_Baptist/woman and have this the_Pharisees.*
   2  righteous people preach and sin learn how? exist sin | from
@@ -4124,7 +4124,7 @@ words. There are 982 of them now.
 
 ## 139v — the curse and the blessing
 
-> So speaks holy Moses to Aaron; of Moses it is: this people, the man, is cursed from every good. That is, therefore the man is saved; in turn, whoever is merciful, righteous, to God blind, and to his brother as to himself, to his own. There is heaven and earth; in turn, whoever is merciful, righteous to God, blind, and to his brother: this man the Lord God would. Cursed from every good; and all he has, that is, all his riches who [cursed] what the man has is damned, and the rich man cursed. This
+> So speaks holy Moses to Aaron; of Moses it is: this people, the man, is cursed from every good. That is, therefore the man is saved; in turn, whoever is merciful, righteous, to the poor of God, and to his brother as to himself, to his own. There is heaven and earth; in turn, whoever is merciful, righteous to the poor of God, and to his brother: this man the Lord God would. Cursed from every good; and all he has, that is, all his riches who [cursed] what the man has is damned, and the rich man cursed. This
 
   1  speak holy-Moses Aaron of-Moses exist-exist
   2  exist this people man^ exist through cursed from every
@@ -4139,7 +4139,7 @@ words. There are 982 of them now.
 
 ## 140r — cursed be thy herd and thy field
 
-> the man. Of the Lord the herd, cursed; of the Lord the field; then the man's harvest, the field, cursed; of the Lord, his […] then the man's grape, harvest, […] cursed, this man of the Lord, within his house. There is this man [barn] [stores] damned, O chapter, O chapter; into hell the man falls; in turn, whoever is | merciful, righteous, the man, to God blind, this, to his brother as to himself, this man. Blessed of the Lord the herd; blessed of the Lord the field; then the man's field, harvest, blessed;
+> the man. Of the Lord the herd, cursed; of the Lord the field; then the man's harvest, the field, cursed; of the Lord, his […] then the man's grape, harvest, […] cursed, this man of the Lord, within his house. There is this man [barn] [stores] damned, O chapter, O chapter; into hell the man falls; in turn, whoever is | merciful, righteous, the man, to the poor of God, this, to his brother as to himself, this man. Blessed of the Lord the herd; blessed of the Lord the field; then the man's field, harvest, blessed;
 
   1  somebody Lord_God of herd cursed Lord_God of field
   2  then-this-somebody harvest field cursed Lord_God of-somebody
@@ -5877,7 +5877,7 @@ words. There are 982 of them now.
 
 ## 201v — go out into the highways
 
-> said to the Lord's servants: go, and speak this word, to the understanding, to the hidden; leave them behind, and let them be among those at this wedding; and then this Lord king's servants went, to the blind, to the hidden, and the way, and to the town; and they found the blind of God […] blind, and even more […] and the hungry and the thirsty, and [feeble] the blind of God, and [go ye] [into the highways] the servants found; all the servants went, filled into the Lord king's house; and then, out of the house, this king, the various heaven
+> said to the Lord's servants: go, and speak this word, to the understanding, to the hidden; leave them behind, and let them be among those at this wedding; and then this Lord king's servants went, to the blind, to the hidden, and the way, and to the town; and they found the poor of God, […] blind, and even more […] and the hungry and the thirsty, and [feeble] the poor of God, and [go ye] [into the highways] the servants found; all the servants went, filled into the Lord king's house; and then, out of the house, this king, the various heaven
 
   1  of-Lord servant go and this word speak-understand-hide exist
   2  leave-to-leave and exist call^ on-this wedding and_then
