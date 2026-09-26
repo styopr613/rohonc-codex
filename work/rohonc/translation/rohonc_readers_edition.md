@@ -245,8 +245,8 @@ words. There are 982 of them now.
   6  [cursed] earth slide ~and room
   7  evil this man^ create every this serpent die and
   8  leave among Adam_and_Eve Lord_God and go
-  9  Lord_God angel two-~earth-+Eve flame^
- 10  sword and ~earth-slide out | on-inside
+  9  Lord_God angel Adam_and_Eve flame^
+ 10  sword and Adam_and_Eve out | on-inside
  11  Eden exorcise and put angel sword
 
 ## 007v — outside the garden: Cain, Abel, Seth, and Adam goes blind
@@ -3741,8 +3741,8 @@ words. There are 982 of them now.
   5  silver^ and exist lose then from evil-~sin eat two
   6  ~Adam and Eve and ~Adam slide out
   7  exorcise Lord-father son holy-spirit and then-exist hell
-  8  evil from [?]-slide take^ from good
-  9  one commandment God which-chapter [?]-slide have
+  8  evil from Adam_and_Eve take^ from good
+  9  one commandment God which-chapter Adam_and_Eve have
 
 ## 126v — the Lord seeks the drachma he lost
 
@@ -3755,7 +3755,7 @@ words. There are 982 of them now.
   5  exist be_born mother of-Lord love and redemption this-Lord from mother
   6  [again] be_born and redemption this-Lord on_the_cross [thereon] in_turn
   7  [?]-[?] on_the_cross from want find this silver^ this heaven*
-  8  land [?]-+SUBJ exist from [?]-slide
+  8  land [?]-+SUBJ exist from Adam_and_Eve
   9  abandon Satan and say Lord-Jézus this-Lord want-Lord
  10  trespass grab and ~redeem-Lord of-Lord from-God_the_Father heaven
 

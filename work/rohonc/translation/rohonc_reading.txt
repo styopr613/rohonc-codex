@@ -163,9 +163,9 @@ declared variant spellings (3.8%), 5373 have no reading (17.9%).  Lines with eve
  5  ~be_born have in_turn this evil this-evil exist
  6  [?] earth [?] ~and [?]
  7  evil this somebody create every this serpent die and
- 8  leave among [?] Lord_God and go
- 9  Lord_God angel [?] fire
-10  sword and [?] out | on-inside
+ 8  leave among Adam_and_Eve Lord_God and go
+ 9  Lord_God angel Adam_and_Eve fire
+10  sword and Adam_and_Eve out | on-inside
 11  Eden exorcise and put angel [?]
 
 
@@ -3192,7 +3192,7 @@ declared variant spellings (3.8%), 5373 have no reading (17.9%).  Lines with eve
 
 
 === 125v ===
- 1  die and leave among [?]
+ 1  die and leave among Adam_and_Eve
  2  of-Lord father son God spirit from-father God Jézus angel
  3  virgin-Mary Christ and apostle and Jew and somebody ~baptize and every.
  4  [?] and every heaven land Lord and [?]
@@ -3210,8 +3210,8 @@ declared variant spellings (3.8%), 5373 have no reading (17.9%).  Lines with eve
  5  drachma and exist lose then from [?] eat two
  6  ~Adam and [?] and ~Adam slide out
  7  exorcise Lord-father son holy-spirit and then-exist hell
- 8  evil from [?] grab from good
- 9  one commandment God which-chapter [?] ~have
+ 8  evil from Adam_and_Eve grab from good
+ 9  one commandment God which-chapter Adam_and_Eve ~have
 
 
 === 126v ===
@@ -3222,7 +3222,7 @@ declared variant spellings (3.8%), 5373 have no reading (17.9%).  Lines with eve
  5  exist be_born mother of-Lord love and [?] this-Lord from mother
  6  [?] be_born and [?] this-Lord [?] [?] in_turn
  7  [?] [?] from want ~find this drachma this [?]
- 8  land [?] exist from [?]
+ 8  land [?] exist from Adam_and_Eve
  9  [?] Satan and say Lord-Jézus this-Lord want-Lord
 10  trespass grab and [?] of-Lord from-God_the_Father heaven
 

@@ -8996,6 +8996,10 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Adam + Eve*, Adam and Eve, which they cite here and at 007r10. Corrected
 > 2026-09-26: the earlier printing had the serpent here, and the correction
 > made the same day read the sign as Adam alone, sliding out; both were wrong.
+> Other reading: the aggregate is split here by the line break, and the sign
+> heading line 8 is, on its own, Király & Tokai's *slide [snake]* (which they
+> cite only at 007r06 and 125r07). Read that way, line 8 says the serpent
+> slid out and was cast from the garden.
 
 ## 126r — the cherub at the gate, and the third saying
 
@@ -9033,6 +9037,8 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > of 007v. The sign printed *the serpent* on lines 8 and 9 is the aggregate
 > *two + Adam + Eve* that Király & Tokai parse at 007r and 125v. Corrected
 > 2026-09-26: the earlier printing, and Book One, read the serpent.
+> Other reading: *slide [snake]* is the last part of the sign; read as the
+> serpent, line 8 says the serpent took Adam and Eve from the good.
 
 ## 126v — the Lord seeks the drachma he lost
 
@@ -9071,7 +9077,9 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > both Király & Tokai's, and their entries cite lines 2 to 7 here one by one.
 > Lines 1-2 and 8 hold the aggregate *two + Adam + Eve* (Király & Tokai, at
 > 007r and 125v). Corrected 2026-09-26: the earlier printing, and Book One,
-> read it as the serpent.
+> read it as the serpent. Other reading: on lines 1-2 the line break splits
+> the aggregate, and line 2 opens with *slide [snake]* on its own; read so,
+> what was lost was lost through the serpent.
 
 ## 127r — Hezekiah is told he shall die, and is given more years
 

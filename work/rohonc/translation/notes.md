@@ -78,9 +78,12 @@ source: 223v:1–2, 222r:2–4; Király and Tokai, *Cryptologia* 42:4 (2018)
 ## anchor: «six hundred» and «six ten» and «six»
 
 The same number stands in three places, each time beside words for hell or
-evil: 028v, 159r and 159r's neighbour in the Gadarene reading. Apocalypse
-13:18 gives the number of the beast as six hundred sixty-six.
-source: 028v, 159r:6; Douay-Rheims Apocalypse 13:18
+evil: 028v, 159r and 159r's neighbour in the Gadarene reading. Király and
+Tokai count it six thousand six hundred and sixty-six, reading the second
+sign at 159r:6 as thousand; Book One follows them. Read sign by sign it is
+six hundred, sixty and six, the number Apocalypse 13:18 gives the beast.
+source: 028v, 159r:5–6; Király and Tokai, dictionary, entry for six (6666
+devils, 159r05–06) and for thousand (159r06); Douay-Rheims Apocalypse 13:18
 
 ## anchor: «water inside cup pour»
 
