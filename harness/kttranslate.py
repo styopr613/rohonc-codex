@@ -252,6 +252,68 @@ def render_token(t, gl, seg, full, var, prop=None, own=False):
     return ("[?]" if not full else f"[?{hx(t)}]") + mark
 
 
+# THEIR SET PHRASES. Kiraly and Tokai read some runs of signs together, as one
+# meaning, inside another sign's entry: ac5 b30 is "be healed" (006r03), not
+# "healing leave"; 950b61 is "Satan, Lucifer" (004v10), not "hide-angel". The
+# renderer glossed sign by sign and never read those lists, so 60 of their
+# phrases printed as word salad at some 400 places. ktexpr.json holds them,
+# decided by hand from the raw entries, 2026-09-26. Only the writers of
+# published files apply them (render_line, own=True callers); every test and
+# gate still renders sign by sign, so no figure computed from signs moves.
+EXPR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "ktexpr.json")
+_PHRASES = {}
+
+
+def _phrases():
+    if not _PHRASES:
+        raw = json.load(open(EXPR, encoding="utf-8"))
+        for k, v in raw.items():
+            if k.startswith("_"):
+                continue
+            codes = tuple("".join(chr(0xE000 + int(h[i:i + 3], 16)) for i in range(0, len(h), 3))
+                          for h in k.split())
+            if len(v["slots"]) != len(codes):
+                raise SystemExit(f"ktexpr.json: {k} has {len(codes)} signs and {len(v['slots'])} slots")
+            _PHRASES[codes] = v["slots"]
+    return _PHRASES
+
+
+def phrase_slots(run):
+    """{index: word} for the signs of one run that stand in a set phrase.
+
+    Longest phrase first, left to right, never across a gap in the
+    transcription (a run is the stretch between two gaps). '=' marks a sign
+    that belongs to the phrase printed just before it."""
+    ph = _phrases()
+    longest = max(len(k) for k in ph)
+    bases = [A.strip(t)[0] for t in run]
+    out, i = {}, 0
+    while i < len(bases):
+        for n in range(min(longest, len(bases) - i), 0, -1):
+            slots = ph.get(tuple(bases[i:i + n]))
+            if slots:
+                for j, w in enumerate(slots):
+                    out[i + j] = w.replace(" ", "_")
+                i += n
+                break
+        else:
+            i += 1
+    return out
+
+
+def render_line(ln, gl, seg, full, var, prop=None, own=False):
+    """One line as a list of runs of printed words, their set phrases applied."""
+    runs = []
+    for run in ln:
+        if not run:
+            continue
+        ps = phrase_slots(run)
+        runs.append([ps[i] + A.strip(t)[1] if i in ps
+                     else render_token(t, gl, seg, full, var, prop, own)
+                     for i, t in enumerate(run)])
+    return runs
+
+
 def kind(t, gl, seg, var, prop=None):
     t = A.strip(t)[0]
     if t in gl:
@@ -316,6 +378,8 @@ unpublished.  Nothing here chooses between senses; that needs their grammar.
                 offer from the folio's own source passage and the words on either
                 side of the hole, and NOTHING in the book can test it. Lines
                 carrying one are not counted as read.
+  =             this sign belongs to the phrase printed just before it:
+                Kiraly & Tokai read the signs together (ktexpr.json)
   [?]           no reading and no guess
   word.         a full stop: the glyph E034, which ends 99.7% of the words
                 carrying it at the end of a run, so it punctuates
@@ -364,8 +428,7 @@ def main():
             for p in doc:
                 f.write(f"\n\n=== {p.page} ===\n")
                 for i, ln in enumerate(p.lines, 1):
-                    runs = [" ".join(render_token(t, gl, seg, full, var, own=True) for t in run)
-                            for run in ln if run]
+                    runs = [" ".join(r) for r in render_line(ln, gl, seg, full, var, own=True)]
                     f.write(f"{i:2d}  " + " | ".join(runs) + "\n")
         print(f"wrote {path}")
 
@@ -440,8 +503,7 @@ def main():
         for p in doc:
             f.write(f"\n\n=== {p.page} ===\n")
             for i, ln in enumerate(p.lines, 1):
-                runs = [" ".join(render_token(t, gl, seg, False, var, prop, own=True) for t in run)
-                        for run in ln if run]
+                runs = [" ".join(r) for r in render_line(ln, gl, seg, False, var, prop, own=True)]
                 f.write(f"{i:2d}  " + " | ".join(runs) + "\n")
     print()
     print("WITH THIS PROJECT'S PROPOSED READINGS (tiers A and B), marked +word")

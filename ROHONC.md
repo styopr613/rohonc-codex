@@ -1650,6 +1650,28 @@ senses, as the two gates above showed, so a reader chooses, and this reader's
 blind score on held-out codes was one to two right in six. Single lines are
 proposals. The story-level reading rests on many lines agreeing.
 
+## Their set phrases, which the rendering ignored until 2026-09-26
+
+Király and Tokai read some runs of signs together, as one meaning, and list
+them inside another sign's entry: the heal sign followed by the leave sign is
+*be healed* (they cite 006r03), the hide sign joined to the angel sign is
+*Satan, Lucifer* (004v10), and a four-sign run on 074v is *lead us into
+temptation*. The rendering glossed every sign on its own and never read those
+lists, so the printed pages said *healing leave*, *hide-angel* and *go
+somebody inside pleasing-chapter* where their dictionary already said what the
+line means. That was wrong, and it was on the page from the first rendering.
+
+The phrases are now in `harness/ktexpr.json`, each decided by hand from their
+raw entry, and the writers of the published text apply them; every test and
+gate still renders sign by sign, so no figure computed from signs has moved.
+Left out: phrases they mark `??`, and two whose sense turns on the line (the
+pair they read *nobody* in the saved-or-damned formula at 019r is *one man* at
+218r and 220v; the sign they read *general* at 110v is *on the head* at the
+crown of thorns). The English of each affected folio was corrected by hand,
+phrase by phrase, not rewritten. Several of the phrases land on the source
+passage the folio cites: the Jews *fall back* at John 18:6, the widow is at
+Nain, the *poor man of God* is at the wedding feast among the blind.
+
 ## Two signs that are grammar: 520 and 630
 
 Found on 2026-09-25, from the strip of signs on the site. The strip drew

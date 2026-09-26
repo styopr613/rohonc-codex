@@ -83,8 +83,9 @@ transcription splits in two.
 | `word*` | read from one passage, with nothing in the book able to refuse it |
 | `[word]` | **restored** -- a guess from the folio's source and its neighbours |
 | `[...]` | dark: no reading, and no honest guess |
+| `=` | this sign belongs to the phrase just before it: Király and Tokai read the signs together |
 
-A hyphen inside a word (`hide-angel`) is one sign of the manuscript
+A hyphen inside a word (`cup-to`) is one sign of the manuscript
 read as the smaller signs it is built from -- this script writes phrases
 without spaces, which is the central fact Király and Tokai established about
 it. A `~` marks a spelling their own apparatus files as a variant. A `|` is a
@@ -186,9 +187,17 @@ def main(argv):
         lines = []
         for i, ln in enumerate(p.lines, 1):
             out = []
+            inphrase = []
             for run in ln:
-                for t in run:
+                ps = T.phrase_slots(run)
+                inphrase += [j in ps for j in range(len(run))]
+                for j, t in enumerate(run):
                     b = A.strip(t)[0]
+                    if j in ps:
+                        # their set phrase (ktexpr.json): a reading of theirs
+                        out.append(ps[j] + A.strip(t)[1])
+                        n["read"] += 1
+                        continue
                     k = T.kind(t, gl, seg, var, prop)
                     w = T.render_token(t, gl, seg, False, var, prop, own=True)
                     if k == "none":
@@ -218,8 +227,8 @@ def main(argv):
                 out.pop()
             s = " ".join(out)
             lines.append((i, s))
-            ks = [T.kind(t, gl, seg, var, prop) for t in
-                  [x for r in ln for x in r]]
+            ks = ["one" if ph else T.kind(t, gl, seg, var, prop) for t, ph in
+                  zip([x for r in ln for x in r], inphrase)]
             n["lines"] += 1
             n["lread"] += all(k not in ("none", "guess") for k in ks)
             n["lall"] += all(k != "none" for k in ks)

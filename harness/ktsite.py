@@ -700,7 +700,8 @@ def first_lines(rows):
                 code = want.get(b)
                 if code is None or code in out:
                     continue
-                words = [T.render_token(t, gl, seg, False, var, prop, own=True).replace("_", " ") for t in flat]
+                words = [w.replace("_", " ") for r in T.render_line(ln, gl, seg, False, var, prop, own=True)
+                         for w in r]
                 out[code] = {"ref": f"{pg.page}:{li}", "before": " ".join(words[:i]),
                              "word": words[i].lstrip("+~?°"), "after": " ".join(words[i + 1:])}
         if len(out) == len(want):
@@ -1400,7 +1401,7 @@ six·six &nbsp;=&nbsp; 6 + 6 &nbsp;=&nbsp; <b>twelve</b> &nbsp;&nbsp;the twelve 
 {paras("script_marks")}
 <div class="demo"><h3>folio 004v, lines {sample[0][0]} and {sample[-1][0]}, as this edition prints them</h3>
 <div class="gloss">{gloss}</div>
-<p class="nof" style="margin:12px 0 0">Underlined words carry a mark. <b>ten-ten-ten-ten</b> is the numeral above, read as the four signs it is built from. <b>hide-angel</b> is the fallen angel, one sign read as the smaller signs inside it. A <b>~</b> is a spelling their own apparatus files as a variant, and <b>*</b> is a word read from one passage only.</p>
+<p class="nof" style="margin:12px 0 0">Underlined words carry a mark. <b>forty days forty nights</b> is four signs Király and Tokai read together as one phrase; each forty is the ten-ten-ten-ten above. <b>Satan</b> is one sign built of their signs for hide and angel, which they read as Satan or Lucifer. A hyphen, as in <b>from-father</b>, is one sign read as the smaller signs inside it. A <b>~</b> is a spelling their own apparatus files as a variant, and <b>*</b> is a word read from one passage only.</p>
 </div>
 
 <h2>The drawings</h2>

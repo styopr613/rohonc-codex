@@ -404,7 +404,11 @@ words on either side of the hole. Counted as read nowhere.
 
 **[…]** — dark: no reading and no honest guess.
 
-A hyphen inside a word (*hide-angel*) is one sign of the manuscript
+**=** — this sign belongs to the phrase printed just before it. Király and
+Tokai read some runs of signs together, as one meaning: *be_healed =* is two
+signs that they read as "be healed".
+
+A hyphen inside a word (*cup-to*) is one sign of the manuscript
 read as the smaller signs it is built from. This script writes phrases without
 spaces, which is the central fact Király and Tokai established about it. A `~`
 marks a spelling their own apparatus files as a variant. A vertical bar is a

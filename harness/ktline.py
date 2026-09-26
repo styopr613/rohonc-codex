@@ -37,13 +37,17 @@ def main(argv):
                 if only and i != only:
                     continue
                 toks = [x for run in ln for x in run]
+                phr = [j in T.phrase_slots(run) for run in ln for j in range(len(run))]
+                wrd = [T.phrase_slots(run).get(j) for run in ln for j in range(len(run))]
                 print(f"  --- line {i}")
-                for t in toks:
+                for t, inp, pw in zip(toks, phr, wrd):
                     s, mark = A.strip(t)
                     h = K.hx(s)
-                    r = T.render_token(t, gl, seg, False, var, prop)
+                    r = pw if inp else T.render_token(t, gl, seg, False, var, prop)
                     v = p.get(h)
-                    if s in gl:
+                    if inp:
+                        src = 'expr'
+                    elif s in gl:
                         src = 'KT'
                     elif isinstance(v, dict) and v.get('gloss'):
                         src = v.get('tier', '?')
