@@ -775,17 +775,18 @@ down here with the facts beside them, and with what is not known said plainly.
 The end of the world, which the book gives a date for, is worked out at the
 end.
 
-**The hidden cup has neighbours.** On 004r a cup, an angel who hides, and the
+**The hidden cup has neighbours.** On 004r a cup, Lucifer, hiding and the
 throne come round again and again, and an angel goes back to the Father twice
 on the one leaf. The parts of that are not equally sure. The return to the
-Father is Király and Tokai's reading, and they cite this leaf for it. The cup
-is their sign, but they do not cite this leaf for it. The hiding is their sign
-too, and they mark it with a question mark. That the angel is Lucifer is this
-edition's choice: their sign means angel, and means Lucifer or Satan only in a
-phrase they cite from the next leaf. That the cup is stolen rests on one sign,
-read here as *steal*, and that reading is a guess made from the story it was
-expected to tell. So the leaf turns on a hidden cup; that the fall is a theft
-is not shown. No source in the corpus has a cup at the fall. In the Slavonic tale of Michael and Satanael, from Bulgaria in the
+Father is Király and Tokai's reading, and they cite this leaf for it. Lucifer
+is theirs too: the hiding sign joined to the angel sign is their word for
+Satan or Lucifer, which they cite from the next leaf and which stands on this
+one ten times. The cup is their sign, but they do not cite this leaf for it.
+The hiding, on its own, is their sign with their own question mark on it.
+That the cup is stolen rests on one sign, read here as *steal*, and that
+reading is a guess made from the story it was expected to tell. So the leaf
+turns on Lucifer and a hidden cup; that his fall is a theft is not shown. No
+source in the corpus has a cup at the fall. In the Slavonic tale of Michael and Satanael, from Bulgaria in the
 eleventh or twelfth century, Satanael's wrong is theft: he takes the robe,
 the wreath and the sceptre made for God, God sends Gabriel, who is afraid and
 will not go, and then Michael, who goes down and wins them back by a trick. In
