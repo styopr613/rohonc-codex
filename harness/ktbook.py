@@ -789,45 +789,62 @@ a worse witness to what a Catholic in Hungary in 1593 was actually reading."""},
 saying on their own. Each is a reading of the facts, not a fact about the
 manuscript, and each says what is not known. The sources are in the endnotes.
 
-**The hidden cup has neighbours.** On 004r Lucifer and a hidden cup come up
-again and again. That the cup is stolen rests on one guessed sign, so the
-theft is not shown, and whether Lucifer hides the cup or hides himself by it
-cannot be told. No known source has a cup at the fall, and neither do the
-forty-seven Old Hungarian codices. But stories of the devil stealing holy
-things were told nearby. In a Bulgarian tale Satanael steals the robe, wreath
-and sceptre made for God. In Romanian carols Judas steals the little jug of
-wine from paradise. (The Grail cut from Lucifer's crown is no help: the cup
-was added in 1832.) Whether the author knew any of these is not known.
+**The hidden cup has neighbours.** On 004r, Lucifer and a hidden cup come up
+again and again.
+
+That the cup is stolen rests on one guessed sign, so the theft is not shown.
+Whether Lucifer hides the cup, or hides himself by it, cannot be told.
+
+No known source has a cup at the fall, and neither do the forty-seven Old
+Hungarian codices. But stories of the devil stealing holy things were told
+nearby. In a Bulgarian tale, Satanael steals the robe, wreath and sceptre
+made for God. In Romanian carols, Judas steals the little jug of wine from
+paradise.
+
+The Grail cut from Lucifer's crown is no help: that cup was added in 1832.
+Whether the author knew any of these stories is not known.
 
 **Adam healed by the branch has a Hungarian relative.** In the Golden Legend,
-Seth comes back with the branch and finds Adam dead. In the Teleki codex,
-Hungarian, 1525 to 1531, and nowhere else, Adam is still alive. On 006r he
-is alive and more: his eyes are opened. No source has the healing. It is the
-book's own.
+Seth comes back with the branch and finds Adam dead.
+
+In the Teleki codex, Hungarian, 1525 to 1531, and nowhere else, Adam is still
+alive. On 006r he is alive and more: his eyes are opened.
+
+No source has the healing. It is the book's own.
 
 **Elijah at the fall of the angels.** An angel tells Elijah of Lucifer's fall
-(004v to 008v), and the book keeps Elijah and a companion alive to come back
-and bear the sword (101r, 133v). The companion is Noah, where tradition has
-Enoch. An earlier printing said the two are killed; the leaf does not say so.
+(004v to 008v). The book keeps Elijah and a companion alive to come back and
+bear the sword (101r, 133v).
+
+The companion is Noah, where tradition has Enoch. An earlier printing said
+the two are killed; the leaf does not say so.
+
 In the 1890s, villages near Szeged told of Elijah throwing down the fallen
 angels with lightning. Whether the book is an early witness to that belief,
 or one of its sources, is not known.
 
 **The author cites what he was taught.** At 107v he credits Augustine with a
-reading of the Samaritan's two pence that is not Augustine's. At 084r he
-tells of Augustine and the child emptying the sea into a hole, a story first
-printed in 1483. Both are what a preacher picks up from sermon books and
-church pictures. That fits a man writing from memory. An earlier printing
-gave two more examples that rested on guesses.
+reading of the Samaritan's two pence that is not Augustine's.
+
+At 084r he tells of Augustine and the child emptying the sea into a hole, a
+story first printed in 1483.
+
+Both are what a preacher picks up from sermon books and church pictures. That
+fits a man writing from memory. An earlier printing gave two more examples
+that rested on guesses.
 
 **The end of the world.** The book dates itself: 5,199 years from the
-creation to Christ's birth, and 1,560 years since the Ascension, which with
-Christ's thirty-three years gives 1593. Then it says judgment comes after
-"two thousand" years (222r). It does not say counted from when, and "after"
-is this edition's guess. From Christ's birth, two thousand years end in 2000.
-From the Ascension, the start the book itself uses, they end in 2033. The
-idea of the world's last two thousand years is old: Melanchthon printed it in
-1532. The leaf says two thousand. It does not say 2033.
+creation to Christ's birth, and 1,560 years since the Ascension. With
+Christ's thirty-three years, that gives 1593.
+
+Then it says judgment comes after "two thousand" years (222r). It does not
+say counted from when, and "after" is this edition's guess.
+
+From Christ's birth, two thousand years end in 2000. From the Ascension, the
+start the book itself uses, they end in 2033.
+
+The idea of the world's last two thousand years is old: Melanchthon printed
+it in 1532. The leaf says two thousand. It does not say 2033.
 
 Finds after this printing are added to the same page on the book's site,
 [oona13.com/rohonc/finds.html](https://oona13.com/rohonc/finds.html), where

@@ -346,18 +346,26 @@ ol.steps li b,ul.steps li b{font-weight:400;color:var(--rub)}
 .sums b{color:var(--rub);font-weight:400}
 .gloss{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:14.5px;line-height:1.8;overflow-x:auto}
 .gloss .m{border-bottom:2px solid var(--rub);cursor:help}
-/* Discovering the work: pictures set into the text like an article's, floated
-   before their paragraph so it wraps round them; one column on a phone. */
-.find{margin:.35em 0 1em;clear:both}
-.find.r{float:right;margin-left:26px}
-.find.l{float:left;margin-right:26px}
-.find.tall{width:34%}
-.find.wide{width:50%}
+/* Discovering the work, set like a magazine: a dek, then each find its own section --
+   a big number, a headline, short paragraphs, and its picture in a column beside the
+   text, sides alternating, a rule between. One column on a phone, picture under the
+   headline's text. */
+.feat-dek{font-size:21px;line-height:1.5;font-style:italic;color:var(--soft);margin:0 0 1.6em;max-width:36em}
+.feat-dek p{font-size:inherit;margin:0}
+.feat{display:grid;grid-template-columns:minmax(0,1.35fr) minmax(0,1fr);gap:38px;align-items:start;
+  border-top:1px solid var(--line);padding:2.4em 0 1.2em}
+.feat.l{grid-template-columns:minmax(0,1fr) minmax(0,1.35fr)}
+.feat.l .find{order:-1}
+.feat-no{font-family:"Cinzel",Georgia,serif;font-size:15px;letter-spacing:.2em;color:var(--rub);margin:0 0 .3em}
+.feat h2{font-size:30px;line-height:1.15;margin:0 0 .6em;text-wrap:balance}
+.feat-text p{margin:0 0 .9em;max-width:34em}
+.feat-text h2+p{font-size:1.12em;line-height:1.5}
+.find{margin:.4em 0 0}
 .find img{display:block;width:100%;height:auto;border:1px solid var(--line)}
-.find figcaption{font-size:14px;line-height:1.4;color:var(--soft);padding-top:6px;font-style:italic}
+.find figcaption{font-size:14px;line-height:1.4;color:var(--soft);padding-top:7px;font-style:italic}
 .find figcaption a{color:var(--soft);font-style:normal}
-.prose .find-end,.find-clear{clear:both}
-@media(max-width:620px){.find.r,.find.l{float:none;margin:1em auto 1.2em}.find.tall{width:72%}.find.wide{width:100%}}
+.find-end{border-top:1px solid var(--line);padding-top:1.4em;margin-top:.6em}
+@media(max-width:760px){.feat,.feat.l{grid-template-columns:1fr;gap:18px;padding-top:1.8em}.feat.l .find{order:0}.feat h2{font-size:25px}.feat-dek{font-size:19px}}
 .plates{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px;margin:1.2em 0}
 .plates figure{margin:0}
 .plates img{width:100%;display:block;border:1px solid var(--line);background:#fff}
@@ -1914,28 +1922,43 @@ def page_finds():
     # the appendix ends by pointing at this page; a page need not point at itself
     text = app[0]["text"].split("\n\nFinds after this printing")[0]
     prose = md(text)
-    # the pictures, site only: each is floated into the paragraph that opens
-    # with its `after`, the text wrapping round it, sides alternating; an
-    # upright picture takes a narrower column than a wide one
+    # MAGAZINE LAYOUT (owner, 2026-09-26: "short breaks with clear text areas").
+    # The text is the book's appendix; here each bold-led find becomes its own
+    # numbered section: a headline, its short paragraphs, and its picture in a
+    # column beside them (sides alternating), with a rule between sections.
     from PIL import Image
-    for n, pic in enumerate(finds_pictures()):
-        lead = "<p><strong>" + html.escape(pic["after"], quote=False)
-        i = prose.find(lead)
-        if i < 0:
-            raise SystemExit("ktsite: no paragraph in 'What the sources turned up' opens %r" % pic["after"])
-        with Image.open(os.path.join(FINDS_DIR, pic["file"])) as im:
-            wd, ht = im.size
-        side = "r" if n % 2 == 0 else "l"
-        shape = "wide" if wd > ht * 1.2 else "tall"
-        page = "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(pic["commons"].replace(" ", "_"))
-        fig = (f'<figure class="find {side} {shape}"><img src="/rohonc/img/finds/{html.escape(pic["file"])}" alt="" loading="lazy" width="{wd}" height="{ht}">'
-               f'<figcaption>{html.escape(pic["caption"])} <a href="{html.escape(page)}" rel="noopener">{html.escape(pic["licence"])}, Wikimedia Commons</a>.</figcaption></figure>')
-        # each find starts clear of the picture before it, so no line of it runs
-        # in the gap under a neighbour's picture
-        prose = prose[:i] + '<div class="find-clear"></div>' + fig + prose[i:]
+    paras = [x.strip() for x in re.split(r"\n\s*\n", text) if x.strip()]
+    pics = {p["after"]: p for p in finds_pictures()}
+    intro, finds = [], []
+    for x in paras:
+        m = re.match(r"\*\*(.+?)\*\*\s*(.*)", x, re.S)
+        if m:
+            finds.append((m.group(1), [m.group(2)]))
+        elif finds:
+            finds[-1][1].append(x)
+        else:
+            intro.append(x)
+    missing = set(pics) - {t for t, _ in finds}
+    if missing:
+        raise SystemExit("ktsite: no find in 'What the sources turned up' is headed %r" % sorted(missing))
+    secs = []
+    for n, (title, body) in enumerate(finds, 1):
+        fig = ""
+        pic = pics.get(title)
+        if pic:
+            with Image.open(os.path.join(FINDS_DIR, pic["file"])) as im:
+                wd, ht = im.size
+            page = "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(pic["commons"].replace(" ", "_"))
+            fig = (f'<figure class="find"><img src="/rohonc/img/finds/{html.escape(pic["file"])}" alt="" loading="lazy" width="{wd}" height="{ht}">'
+                   f'<figcaption>{html.escape(pic["caption"])} <a href="{html.escape(page)}" rel="noopener">{html.escape(pic["licence"])}, Wikimedia Commons</a>.</figcaption></figure>')
+        side = "r" if n % 2 else "l"
+        secs.append(f'<section class="feat {side}"><div class="feat-text"><p class="feat-no">{n:02d}</p>'
+                    f'<h2>{html.escape(title.rstrip("."), quote=False)}</h2>'
+                    + "".join(md(x) for x in body) + f'</div>{fig}</section>')
     body = f"""
 <h1>Discovering the work</h1>
-{prose}
+<div class="feat-dek">{"".join(md(x) for x in intro)}</div>
+{"".join(secs)}
 <p class="find-end">The facts these rest on are in the endnotes of Book One, and every text they cite is listed under <a href="/rohonc/sources.html">Sources</a>.</p>
 """
     return shell("finds", "Discovering the work",
