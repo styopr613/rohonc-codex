@@ -785,112 +785,49 @@ a worse witness to what a Catholic in Hungary in 1593 was actually reading."""},
         {"type": "appendix", "pos": 4, "title": "The corpus",
          "text": corpus_appendix()},
         {"type": "appendix", "pos": 5, "title": "What the sources turned up",
-         "text": """The check of the endnotes on 23 September 2026 read every text
-they cite. Four things came out of it that are readings of the facts rather
-than facts about the manuscript, and so do not belong in a note. They are set
-down here with the facts beside them, and with what is not known said plainly.
-The end of the world, which the book gives a date for, is worked out at the
-end.
+         "text": """Checking the endnotes against their sources turned up five things worth
+saying on their own. Each is a reading of the facts, not a fact about the
+manuscript, and each says what is not known. The sources are in the endnotes.
 
-**The hidden cup has neighbours.** On 004r a cup, Lucifer, hiding and the
-throne come round again and again, and an angel goes back to the Father twice
-on the one leaf. The parts of that are not equally sure. The return to the
-Father is Király and Tokai's reading, and they cite this leaf for it. Lucifer
-is theirs too: the hiding sign joined to the angel sign is their word for
-Satan or Lucifer, which they cite from the next leaf and which stands on this
-one ten times. The cup is their sign, but they do not cite this leaf for it.
-The hiding, on its own, is their sign with their own question mark on it.
-That the cup is stolen rests on one sign, read here as *steal*, and that
-reading is a guess made from the story it was expected to tell. So the leaf
-turns on Lucifer and a hidden cup; that his fall is a theft is not shown.
-Nor is it shown what is hidden. The sign is the one Király and Tokai gloss
-*hide oneself*, and the book uses it both ways: at 001v Adam hides himself
-in the garden, and at 018v it stands where Luke has the power of the Most
-High overshadowing Mary. On 004r it follows *to the cup* eight times, and
-that pairing is found nowhere else in the book, so whether Satan hides the
-cup away or hides himself by it cannot be told. The second would make the
-leaf a first telling of Adam's fall, in the same word; that is a reading,
-not a finding. No
-source in the corpus has a cup at the fall, and neither do the forty-seven Old
-Hungarian codices: where they tell it, Lucifer loses his throne through pride,
-and in the Virginia codex of 1515 that throne is given to Saint Francis. The
-only place in them where the devil and chalices meet is a miracle of Mary, in
-the Kazinczy and Érsekújvár codices, where the devil talks a sacristan into
-breaking up his church's chalices and running away, then wakes the monks
-himself: Brother Jerome has stolen all your church's treasure. In the Slavonic tale of Michael and Satanael, from Bulgaria in the
-eleventh or twelfth century, Satanael's wrong is theft: he takes the robe,
-the wreath and the sceptre made for God, God sends Gabriel, who is afraid and
-will not go, and then Michael, who goes down and wins them back by a trick. In
-the Romanian carols of Judas plundering paradise, Judas goes in while God
-sleeps and takes the little jug of wine, the throne, the sun and the moon, and
-a servant runs to tell God. The Grail cut from a stone of Lucifer's crown,
-which is where a reader today would look first, is not medieval: the poem of
-about 1250 has only the stone, and the cup was put in by Albert Schulz in
-1832. A devil who steals holy things out of heaven is a pattern of the book's
-own neighbours to the south and east, and if the guess on 004r is right, the
-cup sits inside it. Which telling the author knew, if any, is not known.
+**The hidden cup has neighbours.** On 004r Lucifer and a hidden cup come up
+again and again. That the cup is stolen rests on one guessed sign, so the
+theft is not shown, and whether Lucifer hides the cup or hides himself by it
+cannot be told. No known source has a cup at the fall, and neither do the
+forty-seven Old Hungarian codices. But stories of the devil stealing holy
+things were told nearby. In a Bulgarian tale Satanael steals the robe, wreath
+and sceptre made for God. In Romanian carols Judas steals the little jug of
+wine from paradise. (The Grail cut from Lucifer's crown is no help: the cup
+was added in 1832.) Whether the author knew any of these is not known.
 
-**Adam healed by the branch has a Hungarian relative.** In the Golden Legend
-Seth comes home from paradise with the branch to find Adam dead, and plants it
-on his grave. In the Teleki codex, a Hungarian Franciscan manuscript of 1525
-to 1531, and in it alone among the Hungarian tellings, Adam is still alive
-when Seth comes back, and asks him to plant the branch at his head when he
-dies. On 006r of this book Seth brings the branch and Adam's eyes are opened
-at once. The nearest relative of that page is Hungarian and sixty years older
-than the date the book gives itself. The healing is in no source found; it is
-the book's own.
+**Adam healed by the branch has a Hungarian relative.** In the Golden Legend,
+Seth comes back with the branch and finds Adam dead. In the Teleki codex,
+Hungarian, 1525 to 1531, and nowhere else, Adam is still alive. On 006r he
+is alive and more: his eyes are opened. No source has the healing. It is the
+book's own.
 
-**Elijah at the fall of the angels.** The book puts an angel dictating to
-Elijah around the fall of Lucifer, at 004v through 008v, and at 101r and 133v
-keeps Elijah and a companion alive to return and bear the sword against the
-evil one; the companion is Noah, where the tradition has Enoch. An earlier
-printing said the two are killed by the Antichrist and raised; the leaf does
-not say so. In villages
-near Szeged in the 1890s, Lajos Kalmany wrote down tellings in which Elijah
-is there at the fall of the angels and throws them down with lightning at the
-Father's word, and in one village Lucifer forms Elijah and Enoch out of mud
-and cannot give them souls, so God does. Those tellings were written down
-three hundred years after the book, and they are the earliest record of them
-found here. Whether the book is an early witness to a belief the villages
-kept, or the belief grew out of books like this one, is not known.
+**Elijah at the fall of the angels.** An angel tells Elijah of Lucifer's fall
+(004v to 008v), and the book keeps Elijah and a companion alive to come back
+and bear the sword (101r, 133v). The companion is Noah, where tradition has
+Enoch. An earlier printing said the two are killed; the leaf does not say so.
+In the 1890s, villages near Szeged told of Elijah throwing down the fallen
+angels with lightning. Whether the book is an early witness to that belief,
+or one of its sources, is not known.
 
-**The author cites what he was taught.** Two places show it. On 107v he
-names Augustine for the second of the Samaritan's two pence signifying the
-birth and death of Christ; Augustine's own reading, in his Questions on the
-Gospels, is the two commandments of love. On 084r he tells Augustine and the
-child emptying the sea into a hole; that story is in no Latin Golden Legend,
-and first appears in print in Caxton's English of 1483, taken, Caxton says,
-from an altar-piece in Antwerp. An earlier printing gave a third, Antichrist
-born of a harlot on 101r, and had Augustine name the two Testaments; the
-harlot and the New Testament are bracketed guesses, not readings, so neither
-is shown. Both are what a preacher carries from sermon handbooks and church
-pictures rather than from the texts. That fits a man setting the book down from memory, which
-is what the rest of it looks like.
+**The author cites what he was taught.** At 107v he credits Augustine with a
+reading of the Samaritan's two pence that is not Augustine's. At 084r he
+tells of Augustine and the child emptying the sea into a hole, a story first
+printed in 1483. Both are what a preacher picks up from sermon books and
+church pictures. That fits a man writing from memory. An earlier printing
+gave two more examples that rested on guesses.
 
-**The end of the world.** The book counts its own date. At 223v:9-10 it
-gives 5,199 years from the creation to the Nativity, the figure of the Roman
-Martyrology's Christmas proclamation in its wording before 2004, spelled out
-sign by sign. At 223v:1-2
-it gives 1,560 years run since the departure to the Father, named on the
-same leaf; 33 and 1,560 make 1593, the year Király and Tokai reached by their
-own route. At 223v:13 someone asks the master when judgment day will come,
-and the answer is on the next leaf, 222r:2-4: "in turn, [?], out, [after] two
-thousand, this is ... one day, and ... judgment year, because the new Son of
-God judges." "Two thousand" is a numeral by Király and Tokai's own rule, and
-the same word is read at 215r:4. "Out" is the word 223v uses for the years
-run since the Ascension. "After" is this edition's word, tier G, and the sign
-before "out" is unread. What the two thousand are counted from is not on the
-leaf. Counted from the Nativity, they end in the year 2000. Counted from the
-Ascension, which is the epoch the book's own count uses two lines away, they
-end in 2033. The scheme behind the figure is old: the Talmud, Sanhedrin 97a,
-has the school of Elijah teach that the world lasts six thousand years, two
-thousand of chaos, two thousand of the Law, two thousand of the Messiah, and
-Melanchthon put that scheme at the head of Carion's Chronicle in 1532, sixty
-years before this book. The book's own 5,199 years to the Nativity would put
-six thousand in the year 801, so its two thousand cannot be the whole count;
-it is the last span of the three, and the book is counting to its end. That is
-as far as the leaf goes. It does not say 2033. It says two thousand, and the
-reader chooses where to start counting.
+**The end of the world.** The book dates itself: 5,199 years from the
+creation to Christ's birth, and 1,560 years since the Ascension, which with
+Christ's thirty-three years gives 1593. Then it says judgment comes after
+"two thousand" years (222r). It does not say counted from when, and "after"
+is this edition's guess. From Christ's birth, two thousand years end in 2000.
+From the Ascension, the start the book itself uses, they end in 2033. The
+idea of the world's last two thousand years is old: Melanchthon printed it in
+1532. The leaf says two thousand. It does not say 2033.
 
 Finds after this printing are added to the same page on the book's site,
 [oona13.com/rohonc/finds.html](https://oona13.com/rohonc/finds.html), where
