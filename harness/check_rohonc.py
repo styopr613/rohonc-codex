@@ -759,6 +759,15 @@ def main():
     check("CONCLUSION: credit and the missing grammar paper",
           "The grammar is theirs" in conf and "grammar paper" in conf)
 
+    rc = out("recheck_20260926.txt")
+    m = re.search(r"tier A (\d+)/(\d+) = ([\d.]+)%\s+control decoy (\d+)/\d+ = ([\d.]+)%\s+([\d.]+) sigma", rc)
+    got = [m.group(i) for i in (2, 1, 3, 4, 5, 6)] if m else []
+    check("four-way blank test: calibration figures and the failed bar",
+          bool(m) and all(f"{g}" in doc for g in got)
+          and "INSTRUMENT FAILED THE BAR" in rc
+          and "The four-way blank test of the weak readings: failed its bar" in doc,
+          " ".join(got))
+
     print(f"\n{'ALL FIGURES CHECK OUT' if not FAILS else 'MISMATCHED (' + str(len(FAILS)) + '): ' + '; '.join(FAILS)}")
     return 1 if FAILS else 0
 

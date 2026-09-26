@@ -1,0 +1,4082 @@
+[
+{
+"set": "A",
+"code": "060060060",
+"gloss": "three",
+"tier": "A",
+"page": "002r",
+"line": 11,
+"text": "leave this exist angel leave food ~judge-year and ___ say angel",
+"cands": [
+"whom",
+"a_numeral",
+"three",
+"the garden"
+],
+"decoy": "a_numeral",
+"pick": "whom",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060",
+"gloss": "three",
+"tier": "A",
+"page": "007v",
+"line": 3,
+"text": "on-angel this table ___ from +saying and from two-two-two-two say to",
+"cands": [
+"whosoever",
+"eclipse",
+"three",
+"disperse"
+],
+"decoy": "eclipse",
+"pick": "disperse",
+"hit": false,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "060060060",
+"gloss": "three",
+"tier": "A",
+"page": "025r",
+"line": 10,
+"text": "healing leave-to-leave and this ___ confess hell evil +that",
+"cands": [
+"heavenly",
+"supposed",
+"building",
+"three"
+],
+"decoy": "building",
+"pick": "supposed",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060",
+"gloss": "three",
+"tier": "A",
+"page": "032v",
+"line": 3,
+"text": "this-?with Lord-to ___ exist deny and Peter say ?with",
+"cands": [
+"go_to",
+"full_of_sores",
+"three",
+"Elijah"
+],
+"decoy": "full_of_sores",
+"pick": "go_to",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060",
+"gloss": "three",
+"tier": "A",
+"page": "034r",
+"line": 8,
+"text": "and ___ go Lord ~pray father-<suffix_of_divine_name> <preposition_of_genitive>-Lord and kneel_(down) Lord",
+"cands": [
+"three",
+"his_brother",
+"patriarch",
+"rot"
+],
+"decoy": "patriarch",
+"pick": "his_brother",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060",
+"gloss": "three",
+"tier": "A",
+"page": "036r",
+"line": 5,
+"text": "people ~and +rise-Jew(ish) to-?again and ___ shout Lord",
+"cands": [
+"the_Old",
+"three",
+"ground",
+"happily"
+],
+"decoy": "ground",
+"pick": "happily",
+"hit": false,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "060060060060060",
+"gloss": "five",
+"tier": "A",
+"page": "003v",
+"line": 2,
+"text": "~year-+name and ___ say angel leave Lord-<suffix_of_divine_name> ?from_heaven in_turn-chapter",
+"cands": [
+"robe",
+"five",
+"Adam",
+"thy_will"
+],
+"decoy": "Adam",
+"pick": "five",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060060060",
+"gloss": "five",
+"tier": "A",
+"page": "008r",
+"line": 6,
+"text": "broad in_turn ___ lift_up +one-hide_oneself grab ?Noah each,_every create two-<infix_of_distributive_numeral>-two and",
+"cands": [
+"portion",
+"five",
+"give_place",
+"the_three_Marys"
+],
+"decoy": "portion",
+"pick": "portion",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060060060",
+"gloss": "five",
+"tier": "A",
+"page": "021v",
+"line": 7,
+"text": "°arise ~and grab Lord-Jézus-Christ and <preposition_of_genitive> mother and ___",
+"cands": [
+"years",
+"five",
+"tie_up",
+"at_the_table"
+],
+"decoy": "tie_up",
+"pick": "five",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060060060",
+"gloss": "five",
+"tier": "A",
+"page": "022v",
+"line": 2,
+"text": "break ___ +loaves +bread +five-?thousand people",
+"cands": [
+"five",
+"publicans",
+"robe",
+"abandon"
+],
+"decoy": "publicans",
+"pick": "five",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060060060",
+"gloss": "five",
+"tier": "A",
+"page": "023r",
+"line": 11,
+"text": "+that Lord-Jézus righteous(ly) son God ___ confess ~have.",
+"cands": [
+"five",
+"leaning",
+"backward",
+"the Sadducees"
+],
+"decoy": "the Sadducees",
+"pick": "the Sadducees",
+"hit": false,
+"decoy_hit": true,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "060060060060060",
+"gloss": "five",
+"tier": "A",
+"page": "026v",
+"line": 2,
+"text": "create +mourn then-exist Christ +crucified and this each,_every ___ confess",
+"cands": [
+"half",
+"cross",
+"church",
+"five"
+],
+"decoy": "half",
+"pick": "cross",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060060060060060ae1",
+"gloss": "seven",
+"tier": "A",
+"page": "004v",
+"line": 9,
+"text": "on-angel two-half-hundred-year ___ before +heart <preposition_of_genitive>-somebody",
+"cands": [
+"unconsumed",
+"placed",
+"laid",
+"seven"
+],
+"decoy": "laid",
+"pick": "unconsumed",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060060060060060ae1",
+"gloss": "seven",
+"tier": "A",
+"page": "008r",
+"line": 1,
+"text": "___ and then-exist +three time appear Lord-<suffix_of_divine_name> Noah",
+"cands": [
+"good_news",
+"seven",
+"city",
+"vine_branch"
+],
+"decoy": "vine_branch",
+"pick": "seven",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060060060060060ae1",
+"gloss": "seven",
+"tier": "A",
+"page": "223v",
+"line": 7,
+"text": "___ in_turn <preposition_of_genitive>-from-see two-year °a_numeral",
+"cands": [
+"seven",
+"neither",
+"fall_down",
+"fled"
+],
+"decoy": "fall_down",
+"pick": "seven",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060060060ae1",
+"gloss": "five",
+"tier": "A",
+"page": "015r",
+"line": 12,
+"text": "ten-~year and ___ from David king until virgin-Mary",
+"cands": [
+"begin_to_talk",
+"forgive",
+"five",
+"shepherd"
+],
+"decoy": "forgive",
+"pick": "five",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "060060060060060ae1",
+"gloss": "five",
+"tier": "A",
+"page": "017v",
+"line": 11,
+"text": "out(ward) two moon and on-out(ward) ___ and on-six-year-to",
+"cands": [
+"five",
+"they_did",
+"cloud",
+"not_let"
+],
+"decoy": "they_did",
+"pick": "five",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060060060ae1",
+"gloss": "five",
+"tier": "A",
+"page": "022r",
+"line": 8,
+"text": "town six-six-year and ___ and this °returned table",
+"cands": [
+"five",
+"hang",
+"a_vessel",
+"hither"
+],
+"decoy": "hang",
+"pick": "five",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060060060ae1",
+"gloss": "five",
+"tier": "A",
+"page": "027r",
+"line": 5,
+"text": "and one hundred and six-ten-year and ___ and and moon.",
+"cands": [
+"stores",
+"behind",
+"five",
+"slow_of_heart"
+],
+"decoy": "stores",
+"pick": "five",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "060060060060060b25ae1",
+"gloss": "five hundred",
+"tier": "A",
+"page": "100v",
+"line": 8,
+"text": "people-chapter time exist this somebody ___ and",
+"cands": [
+"dwelt",
+"five hundred",
+"shall_enter",
+"as_the_heathen"
+],
+"decoy": "shall_enter",
+"pick": "dwelt",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060060060b25ae1",
+"gloss": "five hundred",
+"tier": "A",
+"page": "223v",
+"line": 2,
+"text": "thousand-year ___ and six-ten-year and from-+name-~year",
+"cands": [
+"cross",
+"cherub",
+"five hundred",
+"go not away"
+],
+"decoy": "cherub",
+"pick": "five hundred",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "060060060060460ae1",
+"gloss": "forty",
+"tier": "A",
+"page": "008r",
+"line": 11,
+"text": "and go rain ___ and +five town destroy",
+"cands": [
+"which_was_lost",
+"Heraclius",
+"the_Lord_God",
+"forty"
+],
+"decoy": "Heraclius",
+"pick": "forty",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "060060060060460ae1",
+"gloss": "forty",
+"tier": "A",
+"page": "048v",
+"line": 4,
+"text": "people °fed living-Lord ___ inside field",
+"cands": [
+"towel",
+"remained_there",
+"sheep/a_female_person",
+"forty"
+],
+"decoy": "remained_there",
+"pick": "remained_there",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060060460ae1",
+"gloss": "forty",
+"tier": "A",
+"page": "086r",
+"line": 1,
+"text": "___ and six-year time kneel_(down) holy-Elijah",
+"cands": [
+"Isaac",
+"forty",
+"pride",
+"whose_image"
+],
+"decoy": "whose_image",
+"pick": "forty",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060060460ae1",
+"gloss": "forty",
+"tier": "A",
+"page": "100v",
+"line": 10,
+"text": "town and then-exist on-this destroy ___ and six-year",
+"cands": [
+"knelt_before",
+"may_come",
+"unjust_steward",
+"forty"
+],
+"decoy": "unjust_steward",
+"pick": "forty",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "060060060060460ae1",
+"gloss": "forty",
+"tier": "A",
+"page": "133r",
+"line": 5,
+"text": "___ go-+Elijah on-far +mount and ~body",
+"cands": [
+"man",
+"the_wood",
+"swords",
+"forty"
+],
+"decoy": "man",
+"pick": "man",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060060460ae1",
+"gloss": "forty",
+"tier": "A",
+"page": "133v",
+"line": 6,
+"text": "and from this-year ___ and this ___ then-exist",
+"cands": [
+"my_lord",
+"take_heed",
+"forty",
+"believed"
+],
+"decoy": "believed",
+"pick": "take_heed",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060ae0",
+"gloss": "three",
+"tier": "A",
+"page": "008r",
+"line": 1,
+"text": "+seven and then-exist ___ time appear Lord-<suffix_of_divine_name> Noah",
+"cands": [
+"spiritually",
+"forty_days",
+"by_appearance",
+"three"
+],
+"decoy": "by_appearance",
+"pick": "forty_days",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060ae0",
+"gloss": "three",
+"tier": "A",
+"page": "042r",
+"line": 4,
+"text": "Lord this-Lord food ___ each,_every ~do,",
+"cands": [
+"a_portion",
+"pierced_the_side",
+"three",
+"sons"
+],
+"decoy": "a_portion",
+"pick": "a_portion",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060ae0",
+"gloss": "three",
+"tier": "A",
+"page": "128v",
+"line": 9,
+"text": "+through stay thirty +day and ___ and literal",
+"cands": [
+"host",
+"three",
+"deadly_poison",
+"basket"
+],
+"decoy": "basket",
+"pick": "three",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060060060ae0",
+"gloss": "three",
+"tier": "A",
+"page": "147r",
+"line": 3,
+"text": "Mary on-~out(ward) ___ this-~sheep +queen grab heaven",
+"cands": [
+"this_day",
+"three",
+"amazed",
+"worship"
+],
+"decoy": "this_day",
+"pick": "this_day",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060ae0",
+"gloss": "three",
+"tier": "A",
+"page": "189v",
+"line": 9,
+"text": "inside thirty half ___ inside Sunday +the_Lord break",
+"cands": [
+"before",
+"three",
+"shepherds",
+"evil_things"
+],
+"decoy": "shepherds",
+"pick": "before",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "060060060ae0",
+"gloss": "three",
+"tier": "A",
+"page": "220v",
+"line": 6,
+"text": "and [?] ___ [?] this Saul inside",
+"cands": [
+"very_old",
+"it",
+"three",
+"within"
+],
+"decoy": "very_old",
+"pick": "it",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "060a10390ae0",
+"gloss": "blessed",
+"tier": "A",
+"page": "211r",
+"line": 7,
+"text": "among this people Jew(ish) +and_then ___ from womb",
+"cands": [
+"one_year",
+"shined_round",
+"blessed",
+"descendant"
+],
+"decoy": "one_year",
+"pick": "descendant",
+"hit": false,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "060a10390ae0",
+"gloss": "blessed",
+"tier": "A",
+"page": "211v",
+"line": 1,
+"text": "virgin-Mary which-+<subject_marker> to-Lord carry and ___ from breast which",
+"cands": [
+"Saul",
+"named",
+"before",
+"blessed"
+],
+"decoy": "Saul",
+"pick": "named",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "080910",
+"gloss": "he who",
+"tier": "A",
+"page": "024v",
+"line": 2,
+"text": "___ spirit calm_down and Lord grab",
+"cands": [
+"in_my_name",
+"the_younger",
+"he who",
+"sold"
+],
+"decoy": "sold",
+"pick": "in_my_name",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "080910",
+"gloss": "he who",
+"tier": "A",
+"page": "035r",
+"line": 8,
+"text": "___ from-father die and mother °while sleep °came Judas and Jew(ish)",
+"cands": [
+"pierced",
+"wiped",
+"eighty",
+"he who"
+],
+"decoy": "pierced",
+"pick": "pierced",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "080910",
+"gloss": "he who",
+"tier": "A",
+"page": "064v",
+"line": 5,
+"text": "and one °fold ___ good +shepherd from +shepherd",
+"cands": [
+"rolled_away",
+"the_younger",
+"he who",
+"fared_sumptuously"
+],
+"decoy": "the_younger",
+"pick": "the_younger",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "080910",
+"gloss": "he who",
+"tier": "A",
+"page": "096v",
+"line": 2,
+"text": "living ___ go-Lord ~bread in_turn leave ?from_heaven town",
+"cands": [
+"stay",
+"he who",
+"is_dead",
+"him"
+],
+"decoy": "stay",
+"pick": "he who",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "080910",
+"gloss": "he who",
+"tier": "A",
+"page": "130r",
+"line": 10,
+"text": "this-Lord go-Lord to-<preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> ___ Lord go-Lord",
+"cands": [
+"on_the_sand",
+"exorcise",
+"one",
+"he who"
+],
+"decoy": "on_the_sand",
+"pick": "he who",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "080910",
+"gloss": "he who",
+"tier": "A",
+"page": "136r",
+"line": 1,
+"text": "from-father heaven ___ king each,_every heaven land",
+"cands": [
+"he who",
+"fear",
+"flame",
+"exorcise"
+],
+"decoy": "exorcise",
+"pick": "he who",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "086",
+"gloss": "world",
+"tier": "A",
+"page": "018r",
+"line": 6,
+"text": "from-father-<suffix_of_divine_name> heaven because see hide_oneself each,_every ___ darkness +sky.",
+"cands": [
+"a_young_man",
+"great_gulf",
+"to_beg",
+"world"
+],
+"decoy": "great_gulf",
+"pick": "world",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "086",
+"gloss": "world",
+"tier": "A",
+"page": "038v",
+"line": 11,
+"text": "die a)-+who rather each,_every ___ +perish and then-?cup-+say °nation",
+"cands": [
+"Abel",
+"Anti-",
+"world",
+"shall not eat"
+],
+"decoy": "Anti-",
+"pick": "Abel",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "086",
+"gloss": "world",
+"tier": "A",
+"page": "090r",
+"line": 6,
+"text": "go Lazarus °great_gulf +opposite ___ have-~rich trespass this-two-two <preposition_of_genitive>-rich",
+"cands": [
+"thou shalt die",
+"bear",
+"world",
+"shouldst_not_thou"
+],
+"decoy": "shouldst_not_thou",
+"pick": "thou shalt die",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "086",
+"gloss": "world",
+"tier": "A",
+"page": "140v",
+"line": 5,
+"text": "each,_every +wide ___ pleasing from-father-<suffix_of_divine_name> in_turn son <preposition_of_genitive>-father-<suffix_of_divine_name>.",
+"cands": [
+"likewise",
+"world",
+"tree",
+"hath_a_devil"
+],
+"decoy": "tree",
+"pick": "world",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "1f6670ae05203c5",
+"gloss": "lie",
+"tier": "A",
+"page": "164r",
+"line": 4,
+"text": "___ die son this virgin-woman +and_then Lord",
+"cands": [
+"lie",
+"forsook",
+"laid_his_hands",
+"drew_near"
+],
+"decoy": "laid_his_hands",
+"pick": "forsook",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "1f6670ae05203c5",
+"gloss": "lie",
+"tier": "A",
+"page": "220r",
+"line": 2,
+"text": "[?] °Saul ___ in_turn Lord °whom_thou_persecutest this-Lord and",
+"cands": [
+"Hosanna",
+"telleth",
+"lie",
+"the_law"
+],
+"decoy": "Hosanna",
+"pick": "telleth",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "270910",
+"gloss": "the Lord",
+"tier": "A",
+"page": "026v",
+"line": 6,
+"text": "and to-+who-~year ___ Lord-<suffix_of_divine_name> +announce Abraham +patriarch",
+"cands": [
+"or",
+"the Lord",
+"he_blessed",
+"release"
+],
+"decoy": "release",
+"pick": "the Lord",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "270910",
+"gloss": "the Lord",
+"tier": "A",
+"page": "034v",
+"line": 2,
+"text": "Lord this ~have this ___ this suffering +drink",
+"cands": [
+"or",
+"the Lord",
+"serpent",
+"linen"
+],
+"decoy": "serpent",
+"pick": "or",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "270910",
+"gloss": "the Lord",
+"tier": "A",
+"page": "060r",
+"line": 10,
+"text": "execute this Jézus and ___ ?into_the_world go-Lord",
+"cands": [
+"righteously",
+"the Lord",
+"a_spirit",
+"rib"
+],
+"decoy": "rib",
+"pick": "the Lord",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "270910",
+"gloss": "the Lord",
+"tier": "A",
+"page": "061r",
+"line": 4,
+"text": "___ from father-<suffix_of_divine_name> ?heaven and begin through",
+"cands": [
+"the_aged",
+"shall_be_shaken",
+"earth",
+"the Lord"
+],
+"decoy": "shall_be_shaken",
+"pick": "earth",
+"hit": false,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "270910",
+"gloss": "the Lord",
+"tier": "A",
+"page": "075v",
+"line": 6,
+"text": "angel end this holy-gospel ___ love Lord-<suffix_of_divine_name> +be_loved",
+"cands": [
+"sons",
+"find",
+"the Lord",
+"thereon"
+],
+"decoy": "thereon",
+"pick": "sons",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "270910",
+"gloss": "the Lord",
+"tier": "A",
+"page": "153v",
+"line": 5,
+"text": "+and_then Lord-Jézus +robe ___ ?believe year until",
+"cands": [
+"with_one",
+"fruit",
+"the Lord",
+"bread"
+],
+"decoy": "bread",
+"pick": "fruit",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "461",
+"gloss": "cross",
+"tier": "A",
+"page": "048v",
+"line": 6,
+"text": "°thou_hast_prepared ___ do, people <preposition_of_genitive>-Lord",
+"cands": [
+"sheep/a_female_person",
+"cross",
+"closed",
+"confirm"
+],
+"decoy": "closed",
+"pick": "cross",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "461",
+"gloss": "cross",
+"tier": "A",
+"page": "049r",
+"line": 2,
+"text": "+say ___ on-Lord-Jézus in_turn from two ~thief carry",
+"cands": [
+"ground",
+"who",
+"already",
+"cross"
+],
+"decoy": "who",
+"pick": "who",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "461",
+"gloss": "cross",
+"tier": "A",
+"page": "049v",
+"line": 7,
+"text": "Mary and Lord Simon ___ carry and then",
+"cands": [
+"remained_there",
+"drew_near",
+"cross",
+"them_that_sold"
+],
+"decoy": "remained_there",
+"pick": "drew_near",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "461",
+"gloss": "cross",
+"tier": "A",
+"page": "103r",
+"line": 6,
+"text": "Lord <preposition_of_genitive>-Lord ___ on-<preposition_of_genitive>-Lord shoulder and somebody soul-[?]",
+"cands": [
+"my_soul",
+"before_it",
+"cross",
+"gave to eat"
+],
+"decoy": "before_it",
+"pick": "cross",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "461",
+"gloss": "cross",
+"tier": "A",
+"page": "193r",
+"line": 10,
+"text": "?rise ~resurrect who-and-this-and +leper from-healing-Lord this-Lord ___ holy-gospel",
+"cands": [
+"shoulders",
+"not_take",
+"cross",
+"struck"
+],
+"decoy": "shoulders",
+"pick": "not_take",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "4f1060",
+"gloss": "rise",
+"tier": "A",
+"page": "029v",
+"line": 6,
+"text": "and ___ to-throne Lord-Jézus and take_off-Lord on",
+"cands": [
+"vine",
+"go_away",
+"spiritually",
+"rise"
+],
+"decoy": "go_away",
+"pick": "rise",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "4f1060",
+"gloss": "rise",
+"tier": "A",
+"page": "035r",
+"line": 3,
+"text": "+and_then Lord apostle ___ apostle to-?again ~have-apostle °a_sign",
+"cands": [
+"prophet",
+"shed his blood",
+"rise",
+"sister"
+],
+"decoy": "shed his blood",
+"pick": "prophet",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "4f1353",
+"gloss": "rise",
+"tier": "A",
+"page": "032r",
+"line": 1,
+"text": "and ___ Judas and go Jew(ish)",
+"cands": [
+"cursed",
+"at_table",
+"hid_in_the_earth",
+"rise"
+],
+"decoy": "hid_in_the_earth",
+"pick": "cursed",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "4f1353",
+"gloss": "rise",
+"tier": "A",
+"page": "032v",
+"line": 8,
+"text": "can Lord say Lord-Jézus a) ___ and go Lord",
+"cands": [
+"every",
+"rise",
+"give_up_the_ghost",
+"a_wedding_garment"
+],
+"decoy": "give_up_the_ghost",
+"pick": "rise",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "4f1353",
+"gloss": "rise",
+"tier": "A",
+"page": "033v",
+"line": 8,
+"text": "+<subject_marker> pleasing and ___ Lord-Jézus and go-Lord",
+"cands": [
+"linen",
+"precious_stones",
+"rise",
+"do not"
+],
+"decoy": "do not",
+"pick": "precious_stones",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "4f1353",
+"gloss": "rise",
+"tier": "A",
+"page": "034r",
+"line": 6,
+"text": "+and_then Lord-Jézus ___ and ~have-apostle awake",
+"cands": [
+"sat",
+"rise",
+"forty_days",
+"manger"
+],
+"decoy": "manger",
+"pick": "rise",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "4f1353",
+"gloss": "rise",
+"tier": "A",
+"page": "035r",
+"line": 2,
+"text": "to-head and can sleep Lord-Jézus a) ___",
+"cands": [
+"rise",
+"table",
+"shall_be_raised",
+"said_to_the_Lord"
+],
+"decoy": "shall_be_raised",
+"pick": "rise",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "4f1353",
+"gloss": "rise",
+"tier": "A",
+"page": "055v",
+"line": 5,
+"text": "+the_three_Marys through startle ___ mourn to-Lord from Jézus",
+"cands": [
+"rise",
+"woe",
+"slide",
+"name"
+],
+"decoy": "name",
+"pick": "woe",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5201a3520",
+"gloss": "sky",
+"tier": "A",
+"page": "020v",
+"line": 4,
+"text": "and-~body Jézus time then-exist ___ +star",
+"cands": [
+"little_of_stature",
+"went_before",
+"sky",
+"king"
+],
+"decoy": "king",
+"pick": "went_before",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5201a3520",
+"gloss": "sky",
+"tier": "A",
+"page": "074r",
+"line": 8,
+"text": "+sun go ___ and bless each,_every the_whole_wide_world ?world",
+"cands": [
+"withered",
+"from_the_eternal",
+"sky",
+"possessed"
+],
+"decoy": "withered",
+"pick": "from_the_eternal",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5203f02c1520850",
+"gloss": "offer",
+"tier": "A",
+"page": "051v",
+"line": 10,
+"text": "Jézus +on_the_cross from-father <preposition_of_genitive>-Lord God heaven ___",
+"cands": [
+"offer",
+"son",
+"were opened",
+"according_to"
+],
+"decoy": "were opened",
+"pick": "son",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5203f02c1520850",
+"gloss": "offer",
+"tier": "A",
+"page": "217v",
+"line": 6,
+"text": "___ Stephen this-Stephen this-Lord <preposition_of_genitive>-Stephen soul",
+"cands": [
+"offer",
+"so",
+"fourfold",
+"the_flesh_of"
+],
+"decoy": "fourfold",
+"pick": "offer",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "5203f05201f5",
+"gloss": "found",
+"tier": "A",
+"page": "106v",
+"line": 2,
+"text": "and face ___ and have_mercy to-~Adam",
+"cands": [
+"lunatic",
+"thy_kingdom",
+"ill",
+"found"
+],
+"decoy": "thy_kingdom",
+"pick": "thy_kingdom",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5203f05201f5",
+"gloss": "found",
+"tier": "A",
+"page": "108r",
+"line": 10,
+"text": "and do, ___ among people somebody have_mercy",
+"cands": [
+"hyssop",
+"shoulders",
+"kiss",
+"found"
+],
+"decoy": "hyssop",
+"pick": "hyssop",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "5203f05201f5",
+"gloss": "found",
+"tier": "A",
+"page": "110v",
+"line": 4,
+"text": "inside Jerusalem temple and then-exist Lord inside ___ °them_that_sold",
+"cands": [
+"a_spirit",
+"found",
+"faith",
+"glorifying_God"
+],
+"decoy": "faith",
+"pick": "found",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "520444a10",
+"gloss": "kiss",
+"tier": "A",
+"page": "142v",
+"line": 6,
+"text": "God exist-exist-chapter ___ +woman +the_Baptist/woman want-Lord this",
+"cands": [
+"a_cake",
+"kiss",
+"the_host",
+"the_other_side"
+],
+"decoy": "the_host",
+"pick": "kiss",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "520444a10",
+"gloss": "kiss",
+"tier": "A",
+"page": "143r",
+"line": 1,
+"text": "+mouth and Lord want to God exist-exist-chapter ___",
+"cands": [
+"barren",
+"the_angel",
+"looked_up",
+"kiss"
+],
+"decoy": "the_angel",
+"pick": "the_angel",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "520444a10",
+"gloss": "kiss",
+"tier": "A",
+"page": "150v",
+"line": 1,
+"text": "son +oh <preposition_of_genitive>-son from-father ___ son father on-this",
+"cands": [
+"be_born",
+"times",
+"this_day",
+"kiss"
+],
+"decoy": "be_born",
+"pick": "be_born",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "5204805203f0670962",
+"gloss": "robber",
+"tier": "A",
+"page": "156r",
+"line": 4,
+"text": "world-~king evil +and_then this daughter-believe this ___",
+"cands": [
+"but",
+"fold",
+"robber",
+"candle"
+],
+"decoy": "candle",
+"pick": "fold",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5204805203f0670962",
+"gloss": "robber",
+"tier": "A",
+"page": "157r",
+"line": 7,
+"text": "this to-[?] +this_is daughter-believe from ___",
+"cands": [
+"rather",
+"Palm Sunday",
+"the_Lord_God",
+"robber"
+],
+"decoy": "the_Lord_God",
+"pick": "Palm Sunday",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5206e3",
+"gloss": "pine",
+"tier": "A",
+"page": "007r",
+"line": 4,
+"text": "exist through ___ and this-+it exist painful",
+"cands": [
+"which",
+"pine",
+"in the middle",
+"Iscariot"
+],
+"decoy": "Iscariot",
+"pick": "pine",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5206e3",
+"gloss": "pine",
+"tier": "A",
+"page": "051v",
+"line": 5,
+"text": "Lord grab-+who a) +say-to ___ in_turn Lord grab",
+"cands": [
+"took_him",
+"seeth_not",
+"company",
+"pine"
+],
+"decoy": "company",
+"pick": "seeth_not",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5206e3",
+"gloss": "pine",
+"tier": "A",
+"page": "125r",
+"line": 5,
+"text": "+Eve exist through ___ and this +Eve",
+"cands": [
+"stayed",
+"pine",
+"leper",
+"cloven_tongues"
+],
+"decoy": "cloven_tongues",
+"pick": "stayed",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "52070b",
+"gloss": "can_be",
+"tier": "A",
+"page": "007v",
+"line": 2,
+"text": "___ inside Garden_of_Eden a) angel +and_then Lord-<suffix_of_divine_name>",
+"cands": [
+"cherub",
+"before_men",
+"can_be",
+"overcame"
+],
+"decoy": "before_men",
+"pick": "cherub",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "52070b",
+"gloss": "can_be",
+"tier": "A",
+"page": "126r",
+"line": 2,
+"text": "Garden_of_Eden and one create ___ inside",
+"cands": [
+"know",
+"nor",
+"the_New",
+"can_be"
+],
+"decoy": "the_New",
+"pick": "know",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "5209a8520",
+"gloss": "will",
+"tier": "A",
+"page": "197r",
+"line": 5,
+"text": "<preposition_of_genitive>-Lord from-father-<suffix_of_divine_name> ___ from-people and angel on-see.",
+"cands": [
+"lay_not_this_sin",
+"the_name_of_the_author",
+"redeem",
+"will"
+],
+"decoy": "redeem",
+"pick": "redeem",
+"hit": false,
+"decoy_hit": true,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "5209a8520",
+"gloss": "will",
+"tier": "A",
+"page": "202v",
+"line": 2,
+"text": "+Gabriel +friend brother-+name this-high to-°sat ___",
+"cands": [
+"is not",
+"will",
+"but",
+"forty"
+],
+"decoy": "forty",
+"pick": "will",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "520a10ae050a",
+"gloss": "bosom",
+"tier": "A",
+"page": "054r",
+"line": 7,
+"text": "Mary then-~exist grab virgin-Mary inside ___",
+"cands": [
+"bosom",
+"verily",
+"shall_fill_it",
+"to_keep"
+],
+"decoy": "verily",
+"pick": "bosom",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "520a10ae050a",
+"gloss": "bosom",
+"tier": "A",
+"page": "102r",
+"line": 1,
+"text": "and ~body exist Simeon because from Simeon carry ___",
+"cands": [
+"bosom",
+"the_Passion",
+"is_baptized",
+"Palm Sunday"
+],
+"decoy": "the_Passion",
+"pick": "the_Passion",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "520b14",
+"gloss": "judge",
+"tier": "A",
+"page": "043r",
+"line": 10,
+"text": "and Lord ?brought before Pilate many ___",
+"cands": [
+"shall_be_shaken",
+"King_of_kings",
+"judge",
+"fell_from"
+],
+"decoy": "King_of_kings",
+"pick": "judge",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "520b14",
+"gloss": "judge",
+"tier": "A",
+"page": "120v",
+"line": 9,
+"text": "Mary-Christ-apostle-angel ___ living and die ?redeem °shall_fill_it",
+"cands": [
+"get_angry",
+"descendant",
+"forgave_thee",
+"judge"
+],
+"decoy": "get_angry",
+"pick": "judge",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "520b14",
+"gloss": "judge",
+"tier": "A",
+"page": "121r",
+"line": 3,
+"text": "___ and +neighbours and friend angel and apostle chapter-oh chapter-oh",
+"cands": [
+"judge",
+"forefather",
+"among",
+"foolish"
+],
+"decoy": "among",
+"pick": "judge",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "520b14",
+"gloss": "judge",
+"tier": "A",
+"page": "222r",
+"line": 4,
+"text": "from ?covered-+one +judge-~year because +new-from son God ___",
+"cands": [
+"judge",
+"thou_reapest",
+"unto",
+"holy_Anne"
+],
+"decoy": "unto",
+"pick": "judge",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "520b7e",
+"gloss": "robe",
+"tier": "A",
+"page": "115r",
+"line": 5,
+"text": "angel the_most_beautiful ___ Lord believe +<subject_marker> love Lord-<suffix_of_divine_name>",
+"cands": [
+"in_purple",
+"robe",
+"baptized",
+"feast"
+],
+"decoy": "baptized",
+"pick": "robe",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "520b7e",
+"gloss": "robe",
+"tier": "A",
+"page": "153v",
+"line": 5,
+"text": "+and_then Lord-Jézus ___ +the_Lord ?believe year until",
+"cands": [
+"give_her_to_eat",
+"robe",
+"sinners",
+"put_off_his_shoes"
+],
+"decoy": "give_her_to_eat",
+"pick": "robe",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "520b84",
+"gloss": "confess",
+"tier": "A",
+"page": "065v",
+"line": 1,
+"text": "Lord +name ___ +and_then Lord-Jézus apostle <preposition_of_genitive>-Lord",
+"cands": [
+"wicked",
+"look_upon",
+"confess",
+"shall_fill_it"
+],
+"decoy": "look_upon",
+"pick": "look_upon",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "520b84",
+"gloss": "confess",
+"tier": "A",
+"page": "218v",
+"line": 9,
+"text": "+say and then-exist holy-Stephen °cried_with_a_loud_voice ___ +name",
+"cands": [
+"slow_of_heart",
+"on_the_feast_of",
+"down",
+"confess"
+],
+"decoy": "slow_of_heart",
+"pick": "confess",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "540060520060881a10",
+"gloss": "the garden",
+"tier": "A",
+"page": "003r",
+"line": 10,
+"text": "+<subject_marker> this ___ and grab Lord-<suffix_of_divine_name> Adam",
+"cands": [
+"conceived",
+"mercy",
+"the garden",
+"O_my"
+],
+"decoy": "conceived",
+"pick": "conceived",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "540060520060881a10",
+"gloss": "the garden",
+"tier": "A",
+"page": "122v",
+"line": 7,
+"text": "inside +Paradise +and_then this +<subject_marker> this ___ and",
+"cands": [
+"hoped",
+"the garden",
+"will",
+"not_believe"
+],
+"decoy": "not_believe",
+"pick": "the garden",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5400607a0",
+"gloss": "to",
+"tier": "A",
+"page": "053v",
+"line": 6,
+"text": "exist Christ ?condemned and go ___ two",
+"cands": [
+"to",
+"cover",
+"gate",
+"Joseph"
+],
+"decoy": "cover",
+"pick": "to",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "5400607a0",
+"gloss": "to",
+"tier": "A",
+"page": "012r",
+"line": 4,
+"text": "who_is_(it) and go-apostle say-apostle and go-apostle ___ Lord ___",
+"cands": [
+"home",
+"penance",
+"vineyard",
+"to"
+],
+"decoy": "home",
+"pick": "to",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "5402c17d3",
+"gloss": "sacrifice",
+"tier": "A",
+"page": "061v",
+"line": 7,
+"text": "<preposition_of_genitive>-son +Isaac and Lord ___.",
+"cands": [
+"ability",
+"he_blessed",
+"go_to",
+"sacrifice"
+],
+"decoy": "ability",
+"pick": "he_blessed",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5402c17d3",
+"gloss": "sacrifice",
+"tier": "A",
+"page": "062r",
+"line": 2,
+"text": "want ___ +and_then +Isaac oh",
+"cands": [
+"how shall we",
+"witness",
+"sacrifice",
+"into_his_arms"
+],
+"decoy": "into_his_arms",
+"pick": "witness",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "540ad5520",
+"gloss": "dinner",
+"tier": "A",
+"page": "093r",
+"line": 6,
+"text": "<preposition_of_genitive>-Lord-<suffix_of_divine_name> ___ say this first this-?man not.",
+"cands": [
+"he is",
+"dinner",
+"confess",
+"abide"
+],
+"decoy": "he is",
+"pick": "he is",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "540ad5520",
+"gloss": "dinner",
+"tier": "A",
+"page": "093v",
+"line": 1,
+"text": "then-chapter-Lord-<suffix_of_divine_name> go-somebody-sense <preposition_of_genitive>-Lord-<suffix_of_divine_name> ___ say this",
+"cands": [
+"bondage",
+"leaning",
+"quarters_of_wheat",
+"dinner"
+],
+"decoy": "quarters_of_wheat",
+"pick": "bondage",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "540ad5520",
+"gloss": "dinner",
+"tier": "A",
+"page": "094r",
+"line": 7,
+"text": "Lord-<suffix_of_divine_name> that_is people-chapter and people-chapter from-speak <preposition_of_genitive>-Lord-<suffix_of_divine_name> ___",
+"cands": [
+"dinner",
+"not",
+"who believes not",
+"of_wine"
+],
+"decoy": "who believes not",
+"pick": "not",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "540ad5520",
+"gloss": "dinner",
+"tier": "A",
+"page": "094v",
+"line": 11,
+"text": "thief on-<preposition_of_genitive>-somebody-rich-Lord-<suffix_of_divine_name> ___ end this holy-gospel",
+"cands": [
+"dinner",
+"blessed",
+"husks",
+"were opened"
+],
+"decoy": "blessed",
+"pick": "blessed",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "550152540270",
+"gloss": "sky",
+"tier": "A",
+"page": "081r",
+"line": 2,
+"text": "from ___ go holy-spirit rock-to Peter [?]-~year this",
+"cands": [
+"healed",
+"church",
+"woman",
+"sky"
+],
+"decoy": "church",
+"pick": "church",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "550152540270",
+"gloss": "sky",
+"tier": "A",
+"page": "082r",
+"line": 8,
+"text": "+<subject_marker> exist apostle Master from ___ go holy-spirit °amazed",
+"cands": [
+"those things which",
+"went_before",
+"in_three_days",
+"sky"
+],
+"decoy": "went_before",
+"pick": "went_before",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5511a1520060",
+"gloss": "sky",
+"tier": "A",
+"page": "023v",
+"line": 4,
+"text": "confess ___ and earth sun and.",
+"cands": [
+"to till the ground",
+"sky",
+"his_household",
+"teach"
+],
+"decoy": "to till the ground",
+"pick": "sky",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5511a1520060",
+"gloss": "sky",
+"tier": "A",
+"page": "025v",
+"line": 13,
+"text": "+fifth confess ~have Lord-Jézus ___",
+"cands": [
+"publican",
+"raised up (by the Lord)",
+"the_Trinity",
+"sky"
+],
+"decoy": "the_Trinity",
+"pick": "publican",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "569910",
+"gloss": "this is",
+"tier": "A",
+"page": "005r",
+"line": 11,
+"text": "___ to-Lord peace",
+"cands": [
+"amen",
+"this is",
+"the_third_day",
+"most_high"
+],
+"decoy": "most_high",
+"pick": "amen",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "569910",
+"gloss": "this is",
+"tier": "A",
+"page": "028r",
+"line": 7,
+"text": "holiday exist Jew(ish) Easter ___ begin suffering",
+"cands": [
+"a_vessel",
+"this is",
+"overcame",
+"shall not be left"
+],
+"decoy": "a_vessel",
+"pick": "this is",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "569910",
+"gloss": "this is",
+"tier": "A",
+"page": "034v",
+"line": 3,
+"text": "+and_then angel ___ this-Lord offer from-father-<suffix_of_divine_name>.",
+"cands": [
+"feeble",
+"this is",
+"hid_in_the_earth",
+"looked_up"
+],
+"decoy": "looked_up",
+"pick": "looked_up",
+"hit": false,
+"decoy_hit": true,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "569910",
+"gloss": "this is",
+"tier": "A",
+"page": "057v",
+"line": 9,
+"text": "°Adam °bound ~evil can hide_oneself-angel ___ write to",
+"cands": [
+"questioned",
+"this is",
+"hands_and",
+"upon_an_ass"
+],
+"decoy": "questioned",
+"pick": "this is",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "569910",
+"gloss": "this is",
+"tier": "A",
+"page": "062r",
+"line": 10,
+"text": "Abraham to-the_whole_wide_world +<subject_marker> Lord <preposition_of_genitive> love ___",
+"cands": [
+"way",
+"morning",
+"made",
+"this is"
+],
+"decoy": "way",
+"pick": "way",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "569910",
+"gloss": "this is",
+"tier": "A",
+"page": "071v",
+"line": 3,
+"text": "chase want apostle say ___ ~out(ward) ?he_who apostle-apostle",
+"cands": [
+"this is",
+"he_drove_out",
+"shall not be left",
+"give_account"
+],
+"decoy": "he_drove_out",
+"pick": "he_drove_out",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "574a10ae0",
+"gloss": "Lady",
+"tier": "A",
+"page": "144r",
+"line": 5,
+"text": "+Saint_Augustine exist one ~sheep and ___",
+"cands": [
+"thieves",
+"into_his_arms",
+"into_the_highways",
+"Lady"
+],
+"decoy": "into_the_highways",
+"pick": "into_his_arms",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "574a10ae0",
+"gloss": "Lady",
+"tier": "A",
+"page": "144v",
+"line": 7,
+"text": "+queen grab heaven land ___ virgin",
+"cands": [
+"precious_stones",
+"Lady",
+"King_of_kings",
+"thousand"
+],
+"decoy": "King_of_kings",
+"pick": "Lady",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "574a10ae0",
+"gloss": "Lady",
+"tier": "A",
+"page": "145r",
+"line": 1,
+"text": "+queen grab heaven land ___ virgin-Mary",
+"cands": [
+"even_as_I",
+"Lady",
+"their_faith",
+"sea"
+],
+"decoy": "even_as_I",
+"pick": "Lady",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "574a10ae0",
+"gloss": "Lady",
+"tier": "A",
+"page": "145v",
+"line": 2,
+"text": "grab heaven land ___ virgin-Mary",
+"cands": [
+"bear_fruit",
+"woe",
+"Lady",
+"would say"
+],
+"decoy": "would say",
+"pick": "Lady",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "574a10ae0",
+"gloss": "Lady",
+"tier": "A",
+"page": "146r",
+"line": 1,
+"text": "land ___ virgin-Mary this-+Lady from speak",
+"cands": [
+"Lady",
+"manger",
+"pestilence",
+"the lost sheep"
+],
+"decoy": "the lost sheep",
+"pick": "manger",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "574a10ae0",
+"gloss": "Lady",
+"tier": "A",
+"page": "146v",
+"line": 3,
+"text": "this sheep <preposition_of_genitive>-+Lady Lord and ___ grab",
+"cands": [
+"in_the_well",
+"Lady",
+"conceived",
+"sun"
+],
+"decoy": "in_the_well",
+"pick": "Lady",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5b0ae0",
+"gloss": "is not",
+"tier": "A",
+"page": "109v",
+"line": 1,
+"text": "somebody ___ carry ?he_who ?the_scripture ?abound <preposition_of_genitive>",
+"cands": [
+"the_poor_man/woman",
+"is not",
+"spoke",
+"that_day"
+],
+"decoy": "the_poor_man/woman",
+"pick": "is not",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5b0ae0",
+"gloss": "is not",
+"tier": "A",
+"page": "110r",
+"line": 7,
+"text": "°straiten_thee and you ___ somebody angel +exist",
+"cands": [
+"is not",
+"risen",
+"a_hundred",
+"torch"
+],
+"decoy": "a_hundred",
+"pick": "risen",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5b0ae0",
+"gloss": "is not",
+"tier": "A",
+"page": "118v",
+"line": 6,
+"text": "+be_saved and one ___ be_damned +but each,_every somebody +be_saved",
+"cands": [
+"carry",
+"is not",
+"out_of_the_temple",
+"cover"
+],
+"decoy": "cover",
+"pick": "is not",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "5d18c05207a2",
+"gloss": "image",
+"tier": "A",
+"page": "144r",
+"line": 7,
+"text": "year inside +mount exist one ___ virgin",
+"cands": [
+"ground",
+"to_Bethany",
+"seal",
+"image"
+],
+"decoy": "to_Bethany",
+"pick": "image",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "5d18c05207a2",
+"gloss": "image",
+"tier": "A",
+"page": "146v",
+"line": 8,
+"text": "+Lady virgin-Mary inside ___ +woman +the_Baptist/woman +and_then",
+"cands": [
+"brother",
+"half dead",
+"outside",
+"image"
+],
+"decoy": "brother",
+"pick": "image",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "5d18c05207a2",
+"gloss": "image",
+"tier": "A",
+"page": "147v",
+"line": 5,
+"text": "+Lady +happy virgin-Mary inside ___ +woman +the_Baptist/woman",
+"cands": [
+"grape",
+"due_reward",
+"image",
+"the_flesh_of"
+],
+"decoy": "due_reward",
+"pick": "image",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "5d18c05207a2",
+"gloss": "image",
+"tier": "A",
+"page": "151v",
+"line": 4,
+"text": "inside ___ °likeness +heart how? one +a_female_person",
+"cands": [
+"sin_against",
+"the_Trinity",
+"image",
+"bought"
+],
+"decoy": "bought",
+"pick": "image",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "5d18c06707a2",
+"gloss": "image",
+"tier": "A",
+"page": "144v",
+"line": 6,
+"text": "this ___ virgin-Mary and say this sheep Lord",
+"cands": [
+"image",
+"thought",
+"peace",
+"five"
+],
+"decoy": "five",
+"pick": "image",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "5d18c06707a2",
+"gloss": "image",
+"tier": "A",
+"page": "145r",
+"line": 8,
+"text": "___ virgin-Mary and say this sheep +queen",
+"cands": [
+"image",
+"dove",
+"loose_them",
+"shall_be_fulfilled"
+],
+"decoy": "shall_be_fulfilled",
+"pick": "image",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "5d18c06707a2",
+"gloss": "image",
+"tier": "A",
+"page": "145v",
+"line": 9,
+"text": "+three_days inside time go this sheep this ___",
+"cands": [
+"image",
+"ways",
+"Joachim",
+"from_the"
+],
+"decoy": "from_the",
+"pick": "Joachim",
+"hit": false,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "5f11f11d3",
+"gloss": "rib",
+"tier": "A",
+"page": "003r",
+"line": 11,
+"text": "___ and +it +heart say angel you",
+"cands": [
+"slow_of_heart",
+"rib",
+"find",
+"shall_be_saved"
+],
+"decoy": "shall_be_saved",
+"pick": "slow_of_heart",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "5f11f11d3",
+"gloss": "rib",
+"tier": "A",
+"page": "122v",
+"line": 8,
+"text": "grab Lord-<suffix_of_divine_name> Adam ___ and +it +heart",
+"cands": [
+"rib",
+"the_sun",
+"prove_them",
+"in_one_point"
+],
+"decoy": "the_sun",
+"pick": "rib",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "630060060060ae1",
+"gloss": "on the third day",
+"tier": "A",
+"page": "005v",
+"line": 6,
+"text": "and suffer Lord +crucified and ___ from die stand_up-Lord",
+"cands": [
+"little_of_stature",
+"a_liar",
+"layeth_it",
+"on the third day"
+],
+"decoy": "layeth_it",
+"pick": "on the third day",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "630060060060ae1",
+"gloss": "on the third day",
+"tier": "A",
+"page": "017v",
+"line": 7,
+"text": "miracle do, and suffer Lord +crucified and ___ from die",
+"cands": [
+"hear_the",
+"on the third day",
+"know",
+"loose_them"
+],
+"decoy": "know",
+"pick": "on the third day",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "630060060060ae1",
+"gloss": "on the third day",
+"tier": "A",
+"page": "028r",
+"line": 10,
+"text": "mother inside burial_chamber put and ___ from die stand_up-Lord and from six",
+"cands": [
+"thirst",
+"took_him",
+"his",
+"on the third day"
+],
+"decoy": "his",
+"pick": "took_him",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "630060060060ae1",
+"gloss": "on the third day",
+"tier": "A",
+"page": "059r",
+"line": 1,
+"text": "to-and ___ from die stand_up Lord-Jézus-Christ",
+"cands": [
+"on the third day",
+"adulterer",
+"the_sun",
+"among_women"
+],
+"decoy": "the_sun",
+"pick": "on the third day",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "630060060060ae1",
+"gloss": "on the third day",
+"tier": "A",
+"page": "067v",
+"line": 1,
+"text": "one °died and this-Lord ___ +one-?again.",
+"cands": [
+"nothing",
+"on the third day",
+"forgiven",
+"heart"
+],
+"decoy": "nothing",
+"pick": "on the third day",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "630060060060ae1",
+"gloss": "on the third day",
+"tier": "A",
+"page": "195r",
+"line": 7,
+"text": "+crucified and ___ from die stand_up and many holy-prophet",
+"cands": [
+"baptize",
+"hath_had_mercy",
+"we_know",
+"on the third day"
+],
+"decoy": "hath_had_mercy",
+"pick": "on the third day",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "630461",
+"gloss": "on_the_cross",
+"tier": "A",
+"page": "041r",
+"line": 6,
+"text": "Jew(ish) ?condemned Lord Pilate ___ Lord cursed this",
+"cands": [
+"drink",
+"fell_from",
+"on_the_cross",
+"shall_come"
+],
+"decoy": "fell_from",
+"pick": "drink",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "630461",
+"gloss": "on_the_cross",
+"tier": "A",
+"page": "046v",
+"line": 2,
+"text": "and shout Jew(ish) ___ Lord Pilate cursed Lord",
+"cands": [
+"on_the_cross",
+"Enoch",
+"holy_Mark",
+"the account"
+],
+"decoy": "Enoch",
+"pick": "on_the_cross",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "630461",
+"gloss": "on_the_cross",
+"tier": "A",
+"page": "047r",
+"line": 5,
+"text": "Jew(ish) ___ Lord Pilate cursed Lord this.",
+"cands": [
+"on_the_cross",
+"the_flesh_of",
+"pass",
+"seek"
+],
+"decoy": "pass",
+"pick": "on_the_cross",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "630461",
+"gloss": "on_the_cross",
+"tier": "A",
+"page": "047v",
+"line": 9,
+"text": "in_turn Jézus ___ ?condemned +and_then Pilate understand-eat",
+"cands": [
+"my",
+"reward",
+"led_away",
+"on_the_cross"
+],
+"decoy": "reward",
+"pick": "reward",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "630461",
+"gloss": "on_the_cross",
+"tier": "A",
+"page": "048v",
+"line": 9,
+"text": "?would_say <preposition_of_genitive>-Lord +body ___ lift_up-to",
+"cands": [
+"Iscariot",
+"everlasting",
+"five_husbands",
+"on_the_cross"
+],
+"decoy": "five_husbands",
+"pick": "everlasting",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "630461",
+"gloss": "on_the_cross",
+"tier": "A",
+"page": "050r",
+"line": 7,
+"text": "Lord believe and to-Lord place_onto ___",
+"cands": [
+"returning",
+"robe",
+"which_was_lost",
+"on_the_cross"
+],
+"decoy": "returning",
+"pick": "returning",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "645",
+"gloss": "get_conceived",
+"tier": "A",
+"page": "027r",
+"line": 4,
+"text": "virgin-Mary ___ and be_born and °on_the_eighth [?]-~year",
+"cands": [
+"Hosanna",
+"opposite",
+"get_conceived",
+"bones"
+],
+"decoy": "Hosanna",
+"pick": "get_conceived",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "645",
+"gloss": "get_conceived",
+"tier": "A",
+"page": "088r",
+"line": 7,
+"text": "chapter-oh °remember +be_saved somebody be_damned exist somebody ___",
+"cands": [
+"wished_to_die",
+"get_conceived",
+"among",
+"in_the_field"
+],
+"decoy": "in_the_field",
+"pick": "wished_to_die",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "645",
+"gloss": "get_conceived",
+"tier": "A",
+"page": "181r",
+"line": 1,
+"text": "°they_platted and thorn +crown on-head ___",
+"cands": [
+"get_conceived",
+"holy_James",
+"be_affrighted",
+"had_compassion"
+],
+"decoy": "holy_James",
+"pick": "had_compassion",
+"hit": false,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "645",
+"gloss": "get_conceived",
+"tier": "A",
+"page": "222v",
+"line": 11,
+"text": "son-spirit inside Monday exist °the_Holy_Ghost ___ to",
+"cands": [
+"five thousand",
+"Anti-",
+"opposite",
+"get_conceived"
+],
+"decoy": "opposite",
+"pick": "get_conceived",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "646",
+"gloss": "pierce",
+"tier": "A",
+"page": "161r",
+"line": 9,
+"text": "through ___ <the_four_friends_of_the_paralytic_man_in_Lk_5,_17ff> to-?again",
+"cands": [
+"spiritually",
+"answered_nothing",
+"lodged",
+"pierce"
+],
+"decoy": "lodged",
+"pick": "spiritually",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "646",
+"gloss": "pierce",
+"tier": "A",
+"page": "184r",
+"line": 6,
+"text": "then-exist people to-of_an_alien_nation,_pagan die and begin ___ °overcame",
+"cands": [
+"not",
+"power",
+"pierce",
+"go_up"
+],
+"decoy": "go_up",
+"pick": "not",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "648",
+"gloss": "fall_down",
+"tier": "A",
+"page": "049v",
+"line": 4,
+"text": "___ Lord-Jézus to-+cross and kneel_(down) Jew(ish)",
+"cands": [
+"two hundred",
+"fall_down",
+"of the olives",
+"put_out"
+],
+"decoy": "two hundred",
+"pick": "fall_down",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "648",
+"gloss": "fall_down",
+"tier": "A",
+"page": "140r",
+"line": 6,
+"text": "chapter-oh inside hell somebody ___ in_turn and somebody exist have_mercy",
+"cands": [
+"go away",
+"fall_down",
+"my_soul",
+"set_up_the"
+],
+"decoy": "set_up_the",
+"pick": "fall_down",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "6703b15202d4",
+"gloss": "Zacchaeus",
+"tier": "A",
+"page": "207v",
+"line": 1,
+"text": "righteous(ly) son father Abraham +and_then Lord-Jézus ___",
+"cands": [
+"hast thou done",
+"wide",
+"elder_son",
+"Zacchaeus"
+],
+"decoy": "hast thou done",
+"pick": "hast thou done",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "6703b15202d4",
+"gloss": "Zacchaeus",
+"tier": "A",
+"page": "208r",
+"line": 1,
+"text": "+be_loved this ___ exist each,_every sin-somebody head",
+"cands": [
+"were_made_clean",
+"Zacchaeus",
+"judged",
+"because"
+],
+"decoy": "were_made_clean",
+"pick": "because",
+"hit": false,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "670690360",
+"gloss": "Elijah",
+"tier": "A",
+"page": "100r",
+"line": 3,
+"text": "___ prophet grab",
+"cands": [
+"by_the_wayside",
+"not_ill",
+"Elijah",
+"in_thy_lifetime"
+],
+"decoy": "not_ill",
+"pick": "Elijah",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "670690360",
+"gloss": "Elijah",
+"tier": "A",
+"page": "100v",
+"line": 4,
+"text": "and church_father this +three write and +Saint_Augustine_the_church_father ___",
+"cands": [
+"people",
+"cover",
+"Elijah",
+"wipe_out"
+],
+"decoy": "cover",
+"pick": "Elijah",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "670690360",
+"gloss": "Elijah",
+"tier": "A",
+"page": "101r",
+"line": 2,
+"text": "fire and grab God angel say God angel ___",
+"cands": [
+"gates",
+"Elijah",
+"questioned",
+"be_born"
+],
+"decoy": "gates",
+"pick": "Elijah",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "670690360",
+"gloss": "Elijah",
+"tier": "A",
+"page": "133r",
+"line": 4,
+"text": "___ Lord-<suffix_of_divine_name> +this_is say-Lord exist this-year",
+"cands": [
+"spiritually",
+"the three Marys",
+"the account",
+"Elijah"
+],
+"decoy": "spiritually",
+"pick": "the three Marys",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "670690360",
+"gloss": "Elijah",
+"tier": "A",
+"page": "133v",
+"line": 1,
+"text": "+this_is this mount love Lord-<suffix_of_divine_name> most_high each,_every create and then-exist go ___",
+"cands": [
+"spoken",
+"sad",
+"the Samaritan",
+"Elijah"
+],
+"decoy": "the Samaritan",
+"pick": "Elijah",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "670690360",
+"gloss": "Elijah",
+"tier": "A",
+"page": "198v",
+"line": 3,
+"text": "___ prophet °was_taken_up +say",
+"cands": [
+"oh",
+"Elijah",
+"three_tongues",
+"of_Galilee"
+],
+"decoy": "oh",
+"pick": "Elijah",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "67098a",
+"gloss": "scattered",
+"tier": "A",
+"page": "111v",
+"line": 1,
+"text": "+say people go each,_every ___ and then-exist on-execute Lord",
+"cands": [
+"is not",
+"scattered",
+"forgive",
+"stretched_out"
+],
+"decoy": "stretched_out",
+"pick": "scattered",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "67098a",
+"gloss": "scattered",
+"tier": "A",
+"page": "112v",
+"line": 7,
+"text": "Jézus [?]-+<subject_marker> +say people go each,_every ___ because-exist",
+"cands": [
+"was lost",
+"shall not eat",
+"scattered",
+"tied"
+],
+"decoy": "was lost",
+"pick": "scattered",
+"hit": true,
+"decoy_hit": false,
+"answered": "C"
+},
+{
+"set": "A",
+"code": "6709a3670",
+"gloss": "wide",
+"tier": "A",
+"page": "140v",
+"line": 5,
+"text": "each,_every ___ +world pleasing from-father-<suffix_of_divine_name> in_turn son <preposition_of_genitive>-father-<suffix_of_divine_name>.",
+"cands": [
+"set",
+"what",
+"deadly_poison",
+"wide"
+],
+"decoy": "deadly_poison",
+"pick": "what",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "6709a3670",
+"gloss": "wide",
+"tier": "A",
+"page": "141r",
+"line": 2,
+"text": "to-each,_every ___ ?world because Lord Christ +law do, among",
+"cands": [
+"Lady",
+"wide",
+"the garden",
+"little_ones"
+],
+"decoy": "the garden",
+"pick": "wide",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "670ae0877",
+"gloss": "be saved",
+"tier": "A",
+"page": "019r",
+"line": 3,
+"text": "son living God each,_every somebody ___ and one somebody",
+"cands": [
+"be saved",
+"laid_his_hands",
+"full_of_grace",
+"in the middle"
+],
+"decoy": "laid_his_hands",
+"pick": "be saved",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "670ae0877",
+"gloss": "be saved",
+"tier": "A",
+"page": "019v",
+"line": 4,
+"text": "to ___ a) ?who_believes_not somebody be_damned end this holy-gospel",
+"cands": [
+"thy_will",
+"loose_them",
+"be saved",
+"Bethphage"
+],
+"decoy": "Bethphage",
+"pick": "loose_them",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "670ae0877",
+"gloss": "be saved",
+"tier": "A",
+"page": "066r",
+"line": 2,
+"text": "somebody and ___ Lord each,_every ~Adam gain this somebody",
+"cands": [
+"feeble",
+"fear",
+"be saved",
+"receive"
+],
+"decoy": "feeble",
+"pick": "fear",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "670ae0877",
+"gloss": "be saved",
+"tier": "A",
+"page": "066v",
+"line": 8,
+"text": "inside <preposition_of_genitive>-Lord +name each,_every you ___ grab",
+"cands": [
+"bring_them",
+"be saved",
+"cool",
+"thornbush"
+],
+"decoy": "thornbush",
+"pick": "bring_them",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "670ae0877",
+"gloss": "be saved",
+"tier": "A",
+"page": "067v",
+"line": 9,
+"text": "?whosoever exist ___ because this to-Lord one God",
+"cands": [
+"the_dogs",
+"like",
+"be saved",
+"not_take"
+],
+"decoy": "the_dogs",
+"pick": "like",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "670ae0877",
+"gloss": "be saved",
+"tier": "A",
+"page": "068r",
+"line": 3,
+"text": "?brethren want-somebody-Paul ___ first ask_(for)-somebody",
+"cands": [
+"be saved",
+"stretched_out",
+"faithful",
+"alone"
+],
+"decoy": "alone",
+"pick": "be saved",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "683063ae0",
+"gloss": "exist",
+"tier": "A",
+"page": "030v",
+"line": 11,
+"text": "Lord ~body ~eat and somebody ___ this +bread",
+"cands": [
+"exist",
+"over_against_you",
+"proceed",
+"scattered"
+],
+"decoy": "scattered",
+"pick": "over_against_you",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "683063ae0",
+"gloss": "exist",
+"tier": "A",
+"page": "095v",
+"line": 5,
+"text": "exist <preposition_of_genitive>-Lord ~body ~eat and somebody ___",
+"cands": [
+"cast out",
+"went_back",
+"oh",
+"exist"
+],
+"decoy": "cast out",
+"pick": "exist",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "690ae0990950",
+"gloss": "spiritually",
+"tier": "A",
+"page": "207r",
+"line": 6,
+"text": "___ blind righteous(ly)-half in_turn leave far one",
+"cands": [
+"of_a_harlot",
+"spiritually",
+"thou_reapest",
+"called_down"
+],
+"decoy": "thou_reapest",
+"pick": "spiritually",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "690ae0990950",
+"gloss": "spiritually",
+"tier": "A",
+"page": "208r",
+"line": 6,
+"text": "and this +Zacchaeus exist have_mercy God ___",
+"cands": [
+"pray_thee",
+"three hundred",
+"again",
+"spiritually"
+],
+"decoy": "three hundred",
+"pick": "pray_thee",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "717ae1",
+"gloss": "neighbours",
+"tier": "A",
+"page": "119v",
+"line": 1,
+"text": "<preposition_of_genitive>-somebody shoulder and go-somebody to-<preposition_of_genitive>-somebody friend and ___",
+"cands": [
+"profit",
+"of_silver",
+"everlasting",
+"neighbours"
+],
+"decoy": "of_silver",
+"pick": "neighbours",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "717ae1",
+"gloss": "neighbours",
+"tier": "A",
+"page": "121r",
+"line": 3,
+"text": "+judge and ___ and friend angel and apostle chapter-oh chapter-oh",
+"cands": [
+"sick",
+"neighbours",
+"of_silver",
+"health"
+],
+"decoy": "of_silver",
+"pick": "neighbours",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "796a10003a10320",
+"gloss": "dead",
+"tier": "A",
+"page": "191v",
+"line": 3,
+"text": "and ___ this word +<subject_marker> from Lord living-Lord and on-this ?world from-go",
+"cands": [
+"reckoned",
+"the_tenth",
+"dead",
+"thief"
+],
+"decoy": "reckoned",
+"pick": "reckoned",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "796a10003a10320",
+"gloss": "dead",
+"tier": "A",
+"page": "193r",
+"line": 9,
+"text": "this-Lord evil on-people exorcise this-Lord ___ +<end_of_line_mark>",
+"cands": [
+"dead",
+"led_him_by_the_hand",
+"foretold",
+"ravening_wolves"
+],
+"decoy": "foretold",
+"pick": "dead",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "7b17a0783a10360812",
+"gloss": "return",
+"tier": "A",
+"page": "160v",
+"line": 6,
+"text": "prepare and-Lord ___ Lord-Jézus inside-and",
+"cands": [
+"after_a_long_time",
+"be_loved",
+"return",
+"set_him"
+],
+"decoy": "be_loved",
+"pick": "be_loved",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "7b17a0783a10360812",
+"gloss": "return",
+"tier": "A",
+"page": "179r",
+"line": 7,
+"text": "Jew(ish) in_turn ten somebody ?faith a) ___",
+"cands": [
+"afterward",
+"return",
+"road",
+"little_ones"
+],
+"decoy": "afterward",
+"pick": "return",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "7e4",
+"gloss": "appear",
+"tier": "A",
+"page": "017r",
+"line": 2,
+"text": "time then-exist Joachim_(the_father_of_Virgin_Mary) exist ___ God °in_the_desert",
+"cands": [
+"a_cock",
+"hired_servants",
+"creature",
+"appear"
+],
+"decoy": "a_cock",
+"pick": "appear",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "7e4",
+"gloss": "appear",
+"tier": "A",
+"page": "019r",
+"line": 6,
+"text": "and time then-exist angel exist ___ God angel",
+"cands": [
+"came_upon",
+"appear",
+"cover",
+"Anti-"
+],
+"decoy": "came_upon",
+"pick": "appear",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "7e4",
+"gloss": "appear",
+"tier": "A",
+"page": "024r",
+"line": 12,
+"text": "to-Lord inside thirty year and ___ holy-spirit",
+"cands": [
+"his_works",
+"gather",
+"appear",
+"darkened"
+],
+"decoy": "darkened",
+"pick": "his_works",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "7e4",
+"gloss": "appear",
+"tier": "A",
+"page": "028r",
+"line": 12,
+"text": "from +pray Lord and apostle ___ inside Jerusalem and six-+seven can show Lord-Jézus",
+"cands": [
+"Eve",
+"appear",
+"in_three_days",
+"high"
+],
+"decoy": "high",
+"pick": "appear",
+"hit": true,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "7e4",
+"gloss": "appear",
+"tier": "A",
+"page": "029v",
+"line": 5,
+"text": "+three_days ?again +rise-Lord and this-Lord you ___",
+"cands": [
+"appear",
+"a cake",
+"counsel",
+"by_night"
+],
+"decoy": "a cake",
+"pick": "appear",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "7e4",
+"gloss": "appear",
+"tier": "A",
+"page": "178r",
+"line": 7,
+"text": "~leper and ten ___ priest and",
+"cands": [
+"appear",
+"by_chance",
+"lamb",
+"this_book"
+],
+"decoy": "lamb",
+"pick": "by_chance",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "812060060060060060",
+"gloss": "fifth",
+"tier": "A",
+"page": "008r",
+"line": 10,
+"text": "Lord-<suffix_of_divine_name> each,_every two-two direction +water +disperse ___ ?from_heaven +high",
+"cands": [
+"prophet",
+"fifth",
+"wicked",
+"seed"
+],
+"decoy": "seed",
+"pick": "seed",
+"hit": false,
+"decoy_hit": true,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "812060060060060060",
+"gloss": "fifth",
+"tier": "A",
+"page": "022v",
+"line": 4,
+"text": "before in_turn-to-in_turn resurrect from virgin-~woman son ___",
+"cands": [
+"Wednesday",
+"supper",
+"Enoch",
+"fifth"
+],
+"decoy": "Wednesday",
+"pick": "fifth",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "812060060060060060",
+"gloss": "fifth",
+"tier": "A",
+"page": "023v",
+"line": 3,
+"text": "Lord-Jézus angel +that Lord-Jézus righteous(ly) son God ___",
+"cands": [
+"shall not eat",
+"fifth",
+"gate/open",
+"the_Passion"
+],
+"decoy": "gate/open",
+"pick": "the_Passion",
+"hit": false,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "812060060060060060",
+"gloss": "fifth",
+"tier": "A",
+"page": "112v",
+"line": 3,
+"text": "°was_sick +health out(ward) among-Lord ___ ?sorrow write",
+"cands": [
+"fifth",
+"gathered",
+"letters",
+"rib"
+],
+"decoy": "rib",
+"pick": "rib",
+"hit": false,
+"decoy_hit": true,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "9107c1",
+"gloss": "be_loved",
+"tier": "A",
+"page": "075v",
+"line": 6,
+"text": "angel end this holy-gospel +the_Lord love Lord-<suffix_of_divine_name> ___",
+"cands": [
+"consenting",
+"sinners",
+"be_loved",
+"slime_(of_the_earth)"
+],
+"decoy": "consenting",
+"pick": "sinners",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "9107c1",
+"gloss": "be_loved",
+"tier": "A",
+"page": "092v",
+"line": 4,
+"text": "somebody-Nicodemus end this holy-gospel Lord-<suffix_of_divine_name> ___ Lord",
+"cands": [
+"be_loved",
+"thought",
+"not_suffer",
+"I_am_not_able"
+],
+"decoy": "thought",
+"pick": "be_loved",
+"hit": true,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "9107c1",
+"gloss": "be_loved",
+"tier": "A",
+"page": "098v",
+"line": 6,
+"text": "end this holy-gospel Lord-<suffix_of_divine_name> ___ Lord-<suffix_of_divine_name> +<subject_marker> have_mercy and righteous(ly)",
+"cands": [
+"bundle_of_wood",
+"his",
+"Rome",
+"be_loved"
+],
+"decoy": "bundle_of_wood",
+"pick": "his",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "9107c1",
+"gloss": "be_loved",
+"tier": "A",
+"page": "154v",
+"line": 3,
+"text": "somebody chapter-oh chapter-oh amen Lord-<suffix_of_divine_name> ___",
+"cands": [
+"the_right_hand_of_God",
+"be_loved",
+"a_penny",
+"Pharisee"
+],
+"decoy": "the_right_hand_of_God",
+"pick": "the_right_hand_of_God",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "9107c1",
+"gloss": "be_loved",
+"tier": "A",
+"page": "158v",
+"line": 5,
+"text": "God the_whole_wide_world chapter-oh chapter-oh amen Lord-<suffix_of_divine_name> ___",
+"cands": [
+"of_silver",
+"render",
+"be_loved",
+"shall_appear"
+],
+"decoy": "shall_appear",
+"pick": "render",
+"hit": false,
+"decoy_hit": false,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "9107c1",
+"gloss": "be_loved",
+"tier": "A",
+"page": "162v",
+"line": 9,
+"text": "father-<suffix_of_divine_name>-son-God-Jézus-holy-spirit Lord-<suffix_of_divine_name> ___",
+"cands": [
+"shall not eat",
+"city",
+"Gabriel",
+"be_loved"
+],
+"decoy": "city",
+"pick": "city",
+"hit": false,
+"decoy_hit": true,
+"answered": "B"
+},
+{
+"set": "A",
+"code": "9909909b4",
+"gloss": "have",
+"tier": "A",
+"page": "050r",
+"line": 3,
+"text": "Lord-Jézus +name-[?]-~exist <preposition_of_genitive>-Lord ___ +say",
+"cands": [
+"a_female_person",
+"fell among",
+"under_heaven",
+"have"
+],
+"decoy": "a_female_person",
+"pick": "have",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "9909909b4",
+"gloss": "have",
+"tier": "A",
+"page": "126r",
+"line": 9,
+"text": "one commandment God which-chapter [?]-slide ___",
+"cands": [
+"water",
+"nurse",
+"have",
+"led"
+],
+"decoy": "water",
+"pick": "led",
+"hit": false,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "9909909b4",
+"gloss": "have",
+"tier": "A",
+"page": "163v",
+"line": 3,
+"text": "two-two among man head because ___ inside.",
+"cands": [
+"donkey",
+"gold",
+"clothing",
+"have"
+],
+"decoy": "donkey",
+"pick": "have",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+},
+{
+"set": "A",
+"code": "a10005270a10060",
+"gloss": "somebody",
+"tier": "A",
+"page": "097r",
+"line": 1,
+"text": "inside ___ and somebody exist <preposition_of_genitive>-Lord commandment carry from somebody",
+"cands": [
+"by_the_finger_of_God",
+"peace",
+"somebody",
+"so"
+],
+"decoy": "so",
+"pick": "by_the_finger_of_God",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "a10005270a10060",
+"gloss": "somebody",
+"tier": "A",
+"page": "213v",
+"line": 4,
+"text": "and ___ can this miracle do, and leave among",
+"cands": [
+"neighbours",
+"answered_him",
+"somebody",
+"because"
+],
+"decoy": "answered_him",
+"pick": "neighbours",
+"hit": false,
+"decoy_hit": false,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "b71",
+"gloss": "fire",
+"tier": "A",
+"page": "070r",
+"line": 7,
+"text": "___ there exist see grinding tooth crying chapter-oh",
+"cands": [
+"in_one_point",
+"fire",
+"outgrow",
+"wipe_out"
+],
+"decoy": "in_one_point",
+"pick": "in_one_point",
+"hit": false,
+"decoy_hit": true,
+"answered": "A"
+},
+{
+"set": "A",
+"code": "b71",
+"gloss": "fire",
+"tier": "A",
+"page": "088r",
+"line": 10,
+"text": "die soul inside purification ___ until judge-~year in_turn on",
+"cands": [
+"among the people",
+"half alive",
+"spices",
+"fire"
+],
+"decoy": "half alive",
+"pick": "fire",
+"hit": true,
+"decoy_hit": false,
+"answered": "D"
+}
+]

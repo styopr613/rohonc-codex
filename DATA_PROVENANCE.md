@@ -207,6 +207,18 @@ supplied:
   telling in which Adam is alive when Seth returns. An earlier version of this
   entry gave the study a wrong title. Read at
   `https://magyar-irodalom.elte.hu/arianna/plaustrum/01LBoriD.html`.
+- **The Old Hungarian Corpus (Ómagyar Korpusz), Hungarian Research Centre for
+  Linguistics.** The plain text of all 47 Old Hungarian codices it holds,
+  normalised where it offers that and in the editors' original spelling where
+  not, fetched 2026-09-26 at one request per 1.5 seconds from
+  `http://oldhungariancorpus.nytud.hu/en-codices.html`
+  (`documents/kodexek/<id>/norm/<id>_4.txt`, else `3a/<id>_3a.txt`) into
+  `data/ref/hu_codices/`, which is gitignored and is not redistributed. Searched
+  for Lucifer, Satan or the devil near a word for cup, chalice or stealing.
+  Quoted in the book's appendix: the Virginia codex (1515) on the throne
+  Lucifer lost through pride; the Kazinczy codex (1526-41, fols. 31v-33v) and
+  the Érsekújvár codex on the devil and the sacristan's chalices, read whole
+  in the Kazinczy text.
 - **Sanhedrin 97a and Carion's Chronicle.** The "prophecy of Elias": six
   thousand years, in three spans of two thousand. The Talmud read at
   `https://www.sefaria.org/Sanhedrin.97a.14-97b.1`. The chronicle itself,

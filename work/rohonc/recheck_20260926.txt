@@ -1,0 +1,5 @@
+weak 160, tier A on 2+ pages 161, calibration 60, decoy pool 1186
+A: 204 lines, 0 unanswered
+
+CALIBRATION  tier A 95/204 = 46.6%   control decoy 34/204 = 16.7%   11.5 sigma
+INSTRUMENT FAILED THE BAR. No weak reading is judged by it.

@@ -790,7 +790,13 @@ The hiding, on its own, is their sign with their own question mark on it.
 That the cup is stolen rests on one sign, read here as *steal*, and that
 reading is a guess made from the story it was expected to tell. So the leaf
 turns on Lucifer and a hidden cup; that his fall is a theft is not shown. No
-source in the corpus has a cup at the fall. In the Slavonic tale of Michael and Satanael, from Bulgaria in the
+source in the corpus has a cup at the fall, and neither do the forty-seven Old
+Hungarian codices: where they tell it, Lucifer loses his throne through pride,
+and in the Virginia codex of 1515 that throne is given to Saint Francis. The
+only place in them where the devil and chalices meet is a miracle of Mary, in
+the Kazinczy and Érsekújvár codices, where the devil talks a sacristan into
+breaking up his church's chalices and running away, then wakes the monks
+himself: Brother Jerome has stolen all your church's treasure. In the Slavonic tale of Michael and Satanael, from Bulgaria in the
 eleventh or twelfth century, Satanael's wrong is theft: he takes the robe,
 the wreath and the sceptre made for God, God sends Gabriel, who is afraid and
 will not go, and then Michael, who goes down and wins them back by a trick. In

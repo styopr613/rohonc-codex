@@ -1934,6 +1934,29 @@ weaker than either human transcription, in the right direction, too close to
 noise to lean on. The high-resolution colour scan exists and is restricted to
 repository staff; with it, this would probably be feasible.
 
+## The four-way blank test of the weak readings: failed its bar
+
+160 readings of tier C, D and G stand on two or more pages. Each was made from
+one passage, and Király and Tokai's method says a reading has to survive every
+other place its sign stands. `ktrecheck.py` (2026-09-26) carried each one
+there: the line rendered sign by sign with the sign blanked, and a language
+model shown four words, the reading and three decoys from other readings, to
+pick the one that fits. The bar, written in the script before it ran: the test
+counts as an instrument only if, on 60 tier A readings, it picks the reading
+at least half the time and beats a decoy scored the same way by 5 sigma.
+
+    tier A calibration, lines            204
+    reading picked                        95   46.6%
+    one decoy picked (control)            34   16.7%
+    above control                       11.5 sigma
+
+It beats chance easily and misses the 50% bar, so it failed, and no weak
+reading was judged by it. A test that finds a known-good reading less than
+half the time would miss a good two-page reading on both its pages more than
+a quarter of the time, and could not tell those from bad ones. The saved run is
+`work/rohonc/recheck_20260926.json`. The 160 stay as they are, marked as
+guesses.
+
 ## Reproducing
 
     cd harness
