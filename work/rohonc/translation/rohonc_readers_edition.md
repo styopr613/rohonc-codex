@@ -4080,9 +4080,9 @@ words. There are 982 of them now.
   8  somebody exist-exist-chapter amen this pray have
   9  hundred-year have_mercy healing Mary name-high have_mercy ~out-Mary | Lord
 
-## 138r — the Hail Mary, and the healing of a girl
+## 138r — the Hail Mary, twice
 
-> … God: this Mary of God. Blessed Mary, this Mary among women; blessed is the son of Mary, he who went to the Lord | from above, of Mary. Here ends the chapter. Jesus Christ. Amen. The healing of a girl through holy Mary, who took hold of the virgin girl. N. believes, this N., that this Mary is; N. through the mercy of the virgin girl; and N. is [blessed art thou] […] this […] and in every saying, and | redeem Mary; N., on the day of wrath of Mary, through the day of wrath, through — O son of Mary, Lord of N. — Jesus Christ.
+> … God: this Mary of God. Blessed Mary, this Mary among women; blessed is the son of Mary, he who went to the Lord | from above, of Mary. Here ends the chapter. Jesus Christ. Amen. Hail, maiden, holy Mary, who took hold of the virgin girl. (An earlier printing read the first sign as the healing of a girl; it is Király and Tokai's *Hail*, as at 137v:1.) N. believes, this N., that this Mary is; N. through the mercy of the virgin girl; and N. is [blessed art thou] […] this […] and in every saying, and | redeem Mary; N., on the day of wrath of Mary, through the day of wrath, through — O son of Mary, Lord of N. — Jesus Christ.
 
   1  DIV this-Mary-DIV blessed-Mary this-Mary ~among
   2  the_poor_man/woman* blessed-+SUBJ of-Mary son he_who go-Lord | from

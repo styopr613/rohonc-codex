@@ -17,9 +17,12 @@ The angel speaks to Elijah and Elijah writes it down: the frame stands at
 not in the Life of Adam and Eve, which Seth tells, nor in the Gospel of
 Nicodemus, the Golden Legend or the gospels. It has three relatives. In the
 Slavonic Book of Enoch the angel Vereviel dictates and Enoch writes 360 books;
-the codex names holy Enoch beside Elijah at 008v:6. The Apocalypse of Elijah
-opens "The word of the Lord came to me" and has Enoch and Elijah killed by
-the Antichrist and raised after three days and a half, which is 133v. In Hungarian folk tellings
+a bracketed guess puts holy Enoch beside Elijah at 008v:6. The Apocalypse of
+Elijah opens "The word of the Lord came to me" and has Enoch and Elijah killed
+by the Antichrist and raised after three days and a half; at 133v the codex
+keeps Elijah and a companion, whom it calls Noah, alive to return and bear the
+sword against the evil one, and says nothing of their death. An earlier
+printing of this note said 133v tells the killing; that was wrong. In Hungarian folk tellings
 gathered near Szeged in the 1890s, Elijah is present at the fall of the
 angels and throws them down with lightning at the Father's word, Michael runs
 to the Father for help, and in one village Lucifer forms Elijah and Enoch but
@@ -178,17 +181,19 @@ Antichrist fathered by the devil is the medieval Antichrist legend. Adso of
 Montier-en-Der's tenth-century letter, its standard Latin form, has him born
 of a Jewish father and mother of the tribe of Dan, with the devil filling the
 mother's womb; the harlot is not in Adso. Apocalypse 13 has no birth story.
+The harlot here is a bracketed guess, not a reading.
 source: 101r:8, 134r:1; Adso of Montier-en-Der, *De ortu et tempore Antichristi*
 
 ## anchor: «this people chapter go on Egypt [out of] living servant»
 
 The traveller who goes down to Jericho is written throughout these folios with
-the sign Király and Tokai read as Adam, and the two pence are named as the two
-Testaments, with Augustine cited by name on the folio. Augustine's own
-reading of the two pence, in his Questions on the Gospels 2.19, is the two
-commandments of love, or the promise of this life and the next; the two
-Testaments are not his. An earlier printing of this note put the two
-Testaments on his authority; that was wrong.
+the sign Király and Tokai read as Adam, and Augustine is cited by name on 107v
+for the second penny signifying the birth and death of Christ; that the two
+are the two Testaments is a bracketed restoration. Augustine's own reading of
+the two pence, in his Questions on the Gospels 2.19, is the two commandments
+of love, or the promise of this life and the next. An earlier printing of this
+note put the two Testaments on his authority, and on the folio's; that was
+wrong.
 source: 105v:7–11, 106r, 107v:2–3; Augustine, *Quaestiones Evangeliorum* 2.19
 
 ## anchor: «carry» «the most beautiful robe»

@@ -841,8 +841,11 @@ than the date the book gives itself. The healing is in no source found; it is
 the book's own.
 
 **Elijah at the fall of the angels.** The book puts an angel dictating to
-Elijah around the fall of Lucifer, at 004v through 008v, and brings Elijah
-and Enoch back at 133v to be killed by the Antichrist and raised. In villages
+Elijah around the fall of Lucifer, at 004v through 008v, and at 101r and 133v
+keeps Elijah and a companion alive to return and bear the sword against the
+evil one; the companion is Noah, where the tradition has Enoch. An earlier
+printing said the two are killed by the Antichrist and raised; the leaf does
+not say so. In villages
 near Szeged in the 1890s, Lajos Kalmany wrote down tellings in which Elijah
 is there at the fall of the angels and throws them down with lightning at the
 Father's word, and in one village Lucifer forms Elijah and Enoch out of mud
@@ -851,16 +854,17 @@ three hundred years after the book, and they are the earliest record of them
 found here. Whether the book is an early witness to a belief the villages
 kept, or the belief grew out of books like this one, is not known.
 
-**The author cites what he was taught.** Three places show it. On 105v he
-names Augustine for the two pence of the Samaritan being the two Testaments;
-Augustine's own reading, in his Questions on the Gospels, is the two
-commandments of love. On 084r he tells Augustine and the child emptying the
-sea into a hole; that story is in no Latin Golden Legend, and first appears
-in print in Caxton's English of 1483, taken, Caxton says, from an altar-piece
-in Antwerp. On 101r Antichrist is born of a harlot; Adso's letter, the
-standard Latin account, has him born of a Jewish father and mother. All three
-are what a preacher carries from sermon handbooks and church pictures rather
-than from the texts. That fits a man setting the book down from memory, which
+**The author cites what he was taught.** Two places show it. On 107v he
+names Augustine for the second of the Samaritan's two pence signifying the
+birth and death of Christ; Augustine's own reading, in his Questions on the
+Gospels, is the two commandments of love. On 084r he tells Augustine and the
+child emptying the sea into a hole; that story is in no Latin Golden Legend,
+and first appears in print in Caxton's English of 1483, taken, Caxton says,
+from an altar-piece in Antwerp. An earlier printing gave a third, Antichrist
+born of a harlot on 101r, and had Augustine name the two Testaments; the
+harlot and the New Testament are bracketed guesses, not readings, so neither
+is shown. Both are what a preacher carries from sermon handbooks and church
+pictures rather than from the texts. That fits a man setting the book down from memory, which
 is what the rest of it looks like.
 
 **The end of the world.** The book counts its own date. At 223v:9-10 it

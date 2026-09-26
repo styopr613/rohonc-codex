@@ -9742,7 +9742,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > own exorcise, written with its two halves in the other order, which their
 > entry records at this very line.
 
-## 138r — the Hail Mary, and the healing of a girl
+## 138r — the Hail Mary, twice
 
 **1**  … God: this Mary of God. Blessed Mary, this Mary among
 `<divine> this-Mary-<divine> +blessed-Mary this-Mary ~among`
@@ -9753,7 +9753,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **3**  above, of Mary. Here ends the chapter. Jesus Christ. Amen.
 `up <of>-Mary exist-exist-chapter Jézus Christ amen`
 
-**4**  The healing of a girl through holy Mary, who took hold of the virgin girl.
+**4**  Hail, maiden, holy Mary, who took hold of the virgin girl. (An earlier printing read the first sign as the healing of a girl; it is Király and Tokai's *Hail*, as at 137v:1.)
 `healing-girl through holy-Mary from grab-virgin-girl`
 
 **5**  N. believes, this N., that this Mary is; N.
