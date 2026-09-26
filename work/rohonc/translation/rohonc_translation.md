@@ -326,10 +326,10 @@ rather than smoothing it, because it is the shape of the page.
 **7**  the Lord God's by commandment and then this serpent it
 `Lord-<divine> through commandment [?] this serpent [?]`
 
-**8**  […] this fruit and then Eve shall not eat ate,
+**8**  […] this fruit; and then Eve: we shall not eat,
 `[?] this fruit [?] Eve [?] eat`
 
-**9**  because it Adam, the Master, by commandment and then
+**9**  because Adam's Master [God] gave the commandment; and then
 `because [?] Adam Master through commandment [?]`
 
 **10**  this serpent. Eve ate it Adam
@@ -339,6 +339,11 @@ rather than smoothing it, because it is the shape of the page.
 `[?] this fruit in_turn fruit [?] exist [?]`
 
 **12**  one Adam ate; and it Adam knew
+
+> Genesis 3:2-3, Eve's answer to the serpent. Király & Tokai read *not
+> [eat]* at line 8 and *Master* at line 9, where they note "? God (in the
+> Garden of Eden)". Corrected 2026-09-26: Book One had Eve eat against a
+> commandment laid on Adam; here she refuses because of it.
 `[?] Adam eat exist [?] Adam know`
 
 ## 001r — good and evil, shame, and back to Elijah
@@ -462,7 +467,7 @@ and it matches.
 **1**  Adam was, to him who […] and why […]
 `exist ~Adam to-to-this-who [?] in_turn why?-in_turn`
 
-**2**  gates Adam was of the earth till the earth
+**2**  gates Adam was; the earth to till
 `[?] exist ~Adam earth [?]`
 
 **3**  he would […] eat, and take, and it […]
@@ -493,6 +498,9 @@ and it matches.
 `Garden_of_Eden exorcise and put angel [?]`
 
 > Genesis 3:24 — the angel and the flaming sword set at the gate.
+> *To till the earth*, line 2, is Király & Tokai's expression, cited here and
+> at 125r03 (Genesis 3:23). Corrected 2026-09-26: Book One read it as
+> "made from the earth, and to the earth he would return".
 
 > The same passage is written again at 125r, and that copy reads a good
 > deal further; read the two together (`ktdouble.py --show 007r`).
@@ -1373,10 +1381,10 @@ without any dictionary at all.
 **2**  broke five loaves bread […] the people.
 `break [?] [?] [?] [?] people`
 
-**3**  The fourth sign the Lord Jesus showed, when |
+**3**  The fourth sign the Lord Jesus showed, when | in Nain
 `in_turn-two-two can show Lord-Jézus then-exist | [?]`
 
-**4**  […] he raised up from […] a son […]
+**4**  […] he raised up, from a widow, a son […]
 `before in_turn-to-in_turn resurrect from [?] son [?]`
 
 **5**  the sign the Lord Jesus showed, when he raised up lose
@@ -1409,7 +1417,9 @@ without any dictionary at all.
 > First the water into wine at Cana, John 2:11, which the gospel itself calls
 > the first of the signs. Then the centurion's servant at Capernaum, Matthew
 > 8:5, and the Syro-Phoenician woman at Tyre, Mark 7:24 — both named by the
-> right place.
+> right place. The fourth is the widow's son at Nain, Luke 7:11, which is
+> Király & Tokai's reading of lines 3-4. Corrected 2026-09-26: the earlier
+> printing, and Book One, left the place and the widow out.
 
 ## 023r — the ninth, tenth and eleventh signs
 
@@ -4783,7 +4793,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **6**  supper: this Lord goes to his Father; you learn,
 `dinner this-Lord go-Lord <preposition_of_genitive>-Lord father-<suffix_of_divine_name> you learn`
 
-**7**  he does, heaven and earth, that is, this Lord go away
+**7**  he does, the heavenly land; that is, this Lord go away
 `do, heavenly land that_is this-Lord [?]`
 
 **8**  to the death; the Lord dies, and this Lord goes from you […]
@@ -4804,7 +4814,9 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > John 16:7–8, *it is expedient for you that I go away... and when he is
 > come, he will reprove the world of sin, and of righteousness, and of
 > judgment.* Line 12 has the three in the gospel's order, counted with the
-> codex's own ordinals.
+> codex's own ordinals. Line 7 is Király & Tokai's *heavenly* (they cite
+> 068v07), the same words as 080r04. Corrected 2026-09-26: the earlier
+> printing, and Book One, read *heaven and earth* here.
 
 ## 069r — the Spirit, the tongues, and the signs
 
@@ -8972,17 +8984,18 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **6**  and there went the Lord God, the angel, the second, the earth, and
 `and go Lord-<divine> angel two earth and.`
 
-**7**  […] fire, the sword, and | the earth;
+**7**  […] fire, the sword, and | Adam and Eve
 `[?] fire +sword and | ~earth`
 
-**8**  Adam slid out; from the Garden of Eden he was cast out.
+**8**  [were] out; from the Garden of Eden they were cast out.
 `slide out(ward) on-inside Garden_of_Eden exorcise`
 
 > Genesis 3:24, the flaming sword. *Sword* is Király & Tokai's, in a
 > spelling their entry cites at this line and the next page's. The sign
-> before *slid out* on line 7 is a long spelling of Adam's name; the same
-> words stand at 126r06 with Adam written plainly (*Adam ... slid out, cast
-> out*). Corrected 2026-09-26: the earlier printing had the serpent here.
+> that runs from line 7 into line 8 is Király & Tokai's aggregate *two +
+> Adam + Eve*, Adam and Eve, which they cite here and at 007r10. Corrected
+> 2026-09-26: the earlier printing had the serpent here, and the correction
+> made the same day read the sign as Adam alone, sliding out; both were wrong.
 
 ## 126r — the cherub at the gate, and the third saying
 
@@ -9007,24 +9020,26 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **7**  cast out, the Lord, the Father, the Son, the Holy Spirit; and then hell,
 `exorcise Lord-father son holy-spirit and then-exist hell`
 
-**8**  the evil; from […] the serpent took, from the good,
+**8**  the evil; from […] Adam and Eve were taken, from the good,
 `evil from [?]-slide grab from good`
 
-**9**  one commandment of God; which chapter […] the serpent hath.
+**9**  one commandment of God; which chapter […] Adam and Eve had.
 `one commandment God which-chapter [?]-slide +have`
 
 > Genesis 3:24, "he placed at the east of the garden of Eden Cherubims, and
 > a flaming sword which turned every way". Line 5 ties the whole Adam
 > narrative back to the lost drachma of Luke 15:8, which the book expounded
 > on 121r: the coin God lost is man, lost here. This page is the second copy
-> of 007v.
+> of 007v. The sign printed *the serpent* on lines 8 and 9 is the aggregate
+> *two + Adam + Eve* that Király & Tokai parse at 007r and 125v. Corrected
+> 2026-09-26: the earlier printing, and Book One, read the serpent.
 
 ## 126v — the Lord seeks the drachma he lost
 
-**1**  The Lord, the Father, the Son, the Spirit, took what was lost; | the two, Adam,
+**1**  The Lord, the Father, the Son, the Spirit, took what was lost; | Adam
 `Lord-father son spirit exist grab lose | two-~Adam`
 
-**2**  the serpent. Said the Lord Jesus: then therefore the two could find it.
+**2**  and Eve. Said the Lord Jesus: then therefore the two could find it.
 `slide say Lord-Jézus then-?therefore two can +find.`
 
 **3**  All, until this | redemption; therefore have mercy on the angel of the Lord,
@@ -9042,7 +9057,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **7**  […] […] the cross; from there he would find this drachma, this eternal
 `[?]-[?] +cross from want +find this drachma this ?eternal`
 
-**8**  kingdom […] there is, from […] the serpent;
+**8**  kingdom […] there is, from […] Adam and Eve;
 `land [?]-+<subj> exist from [?]-slide`
 
 **9**  abandon Lucifer. And said the Lord Jesus: this Lord would
@@ -9054,6 +9069,9 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > The lost coin of Luke 15:8 expounded a third time: God lost it in Eden,
 > and finds it by the Incarnation and the cross. *Redemption* and *find* are
 > both Király & Tokai's, and their entries cite lines 2 to 7 here one by one.
+> Lines 1-2 and 8 hold the aggregate *two + Adam + Eve* (Király & Tokai, at
+> 007r and 125v). Corrected 2026-09-26: the earlier printing, and Book One,
+> read it as the serpent.
 
 ## 127r — Hezekiah is told he shall die, and is given more years
 
@@ -11256,7 +11274,7 @@ in Király & Tokai's dictionary, so the person is not named here.
 **5**  mountain, two men with spirits; in the two men there were | six
 `mount two somebody-spirit inside two somebody exist | six`
 
-**6**  hundred and six hundred and sixty and six evil devils; and how
+**6**  thousand and six hundred and sixty and six evil devils; and how
 `?hundred and [?] and six-ten and six ~evil evil and how?`
 
 **7**  the two men's hearts were found, the hearts of these two men
@@ -11268,7 +11286,10 @@ in Király & Tokai's dictionary, so the person is not named here.
 > Matthew 8:28, *there met him two possessed with devils, coming out of the
 > tombs, exceeding fierce* — Matthew has TWO, where Mark and Luke have one,
 > and the codex follows Matthew. The devils are counted on lines 5 and 6:
-> six hundred and sixty-six, which is the book's own number for them. The
+> six thousand six hundred and sixty-six, Király & Tokai's count (159r05-06,
+> reading the sign on line 6 as *thousand*), which is the book's own number
+> for them at 028v too. Corrected 2026-09-26: the earlier printing read six
+> hundred and sixty-six. The
 > gospels call them Legion.
 
 ## 159v — the devils ask to be sent into the swine

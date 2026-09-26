@@ -18,13 +18,13 @@ The Son and the Spirit were with the Father, and the Son was in the image of the
 
 The Lord God spoke to Adam and gave him every living thing. There was no hunger, no thirst, and no death. Then the commandment was laid on Adam like a yoke: he must not eat from the forbidden tree, for on the day he ate from it he would die. Adam slept in Paradise, and the Lord God took a rib from him. From it he made the woman, and Adam said that she was bone of his bone and that the two souls were one. (003r)
 
-The Lord God departed, and Eve went through Paradise. She came to the tree in the middle, the tree the Lord God had forbidden by commandment. The serpent was in that tree, and the serpent spoke to Eve about its fruit. Eve ate, though Adam the master had been forbidden to eat it. Then Adam ate of the same fruit, and Adam knew. (003v)
+The Lord God departed, and Eve went through Paradise. She came to the tree in the middle, the tree the Lord God had forbidden by commandment. The serpent was in that tree, and the serpent spoke to Eve about its fruit. Eve answered that she must not eat, because God, Adam's master, had commanded it. The serpent told Eve to eat, and to give to Adam. Then Adam ate of the same fruit, and Adam knew. (003v)
 
 They knew evil and good, as the Lord God knows. They plucked the fruit, and the two of them saw that they were naked. Adam saw it and was ashamed. The angel of God said to Elijah that this [deadly] sin came from Lucifer, who had fallen from the eternal Father and from the brethren into hell. Then the angel said to Elijah the prophet: Elijah, the Lord God came from eternity into Paradise. (001r)
 
 The Lord God came into Paradise with the angels and called with his own mouth: Adam, where are you? Adam hid himself. The Lord God said, Adam, who has done this? Why are you hiding? Adam answered that Eve had given him the food and he had eaten. The Lord God spoke to Eve, and Eve answered that she had done it because the serpent deceived her. Then the Lord God said to Adam: you had one commandment, and [you did not keep it]. (001v)
 
-Adam was made from the earth, and to the earth he would return. Because of the food he had taken, pain would come. There was evil, and the earth was cursed for man's sake. The serpent would die, and the Lord God turned Adam and Eve out. The Lord God went, and the angel stood with fire and a sword. Adam and Eve were driven out of Paradise, and the angel with the sword was set within it. (007r)
+Adam must till the earth from which he was taken. Because of the food he had taken, pain would come. There was evil, and the earth was cursed for man's sake. The serpent would die, and the Lord God turned Adam and Eve out. The Lord God went, and the angel stood with fire and a sword. Adam and Eve were driven out of Paradise, and the angel with the sword was set within it. (007r)
 
 The cherubim were set inside Paradise. The angel of God said to Elijah: Elijah, when the Lord God drove Adam out from Paradise, Eve lived in the field for many years. Adam had sons by Eve: Cain was the firstborn, Abel was the second, and Seth was the third. Adam became blind in both eyes, and he asked that a son should bring him mercy from the tree. (007v)
 
@@ -83,7 +83,7 @@ They went into Egypt and lived there. The Lord went with Joseph through every ci
 
 ### folios 022v–028v
 
-The first sign was when the Lord turned water into wine. The Lord also broke five loaves of bread for the people. For the fourth sign, the Lord Jesus raised up a son. For the fifth, he raised up one who was lost in Jerusalem. For the sixth, the Jews brought four sick people before him, including a paralytic, and the Lord Jesus healed them. He showed the seventh sign in Capernaum when he raised a soldier’s servant from the dead at the centurion’s request. He showed the eighth sign at Tyre for a woman. (022v)
+The first sign was when the Lord turned water into wine. The Lord also broke five loaves of bread for the people. For the fourth sign, at Nain, the Lord Jesus raised up the son of a widow. For the fifth, he raised up one who was lost in Jerusalem. For the sixth, the Jews brought four sick people before him, including a paralytic, and the Lord Jesus healed them. He showed the seventh sign in Capernaum when he raised a soldier’s servant from the dead at the centurion’s request. He showed the eighth sign at Tyre for a woman. (022v)
 
 
 A pagan woman had a devil in her, and the Lord cast it out. This was the eighth sign. For the ninth sign, Jesus healed a proud paralytic [because of what the man had done]. For the tenth, he healed a ruler’s son who was at the point of death, and the son lived. For the eleventh, he cast an evil spirit out of a man in Jerusalem. Before Jesus Christ was born, neither prophet nor forefather could know the Son of God. Afterward, miracles led five witnesses to confess that Jesus is truly the Son of God. The first were Saint Peter, Moses, and Elijah. (023r)
@@ -260,7 +260,7 @@ The Lord died and rose again on the third day. Faith in him remains forever. Ame
 
 Paul gives his brothers three things to ask in Jesus’ name if they wish to be saved. First, love the Most High Lord with all your heart and love every person as your neighbor. Second, believe and ask the Lord Jesus in his name. Third, ask in Jesus’ name to be saved by him. The person who does these things will be saved. Here ends this apostolic gospel. (068r)
 
-Here begins the holy gospel written by Saint John in the sixteenth chapter of his book. At the Last Supper Jesus told his apostles, “I am going to my Father. I must leave heaven and earth and go to my death. I will die for you, but the Holy Spirit will not leave you. When I die, I will send the Spirit to you, and he will convict the world in three ways: first of sin, second of righteousness, and third of judgment.” (068v)
+Here begins the holy gospel written by Saint John in the sixteenth chapter of his book. At the Last Supper Jesus told his apostles, “I am going to my Father in the heavenly kingdom. I must go away and die. I will die for you, but the Holy Spirit will not leave you. When I die, I will send the Spirit to you, and he will convict the world in three ways: first of sin, second of righteousness, and third of judgment.” (068v)
 
 “The Holy Spirit will come to you, and through him you will receive every good gift in humility. The apostles will speak in new languages, and you will see many miracles. The words spoken in the Old Testament remain alive and will be fulfilled before the day of judgment, when many more signs will appear.” Here ends this holy gospel. Here begins a holy gospel attributed to Saint Luke, in the seventeenth chapter of his book. At the Last Supper, Jesus spoke to his apostles about the vine and his Father’s vineyard. (069r)
 
@@ -466,11 +466,11 @@ Adam answered the Lord—the Father, Son, and Spirit—saying, “The woman Eve 
 
 “Adam, [you did not keep] the law and commandment laid upon you. You must till the ground and take your food from the earth.” Eve would pine and suffer pain in childbirth. The earth was cursed because of this evil, and the serpent would crawl upon it. All this happened because the serpent deceived the man and woman. (125r)
 
-Death entered among Adam and Eve. The Lord—the Father, Son, God, and Spirit—drove them out of the heavenly garden and onto the earth. Lord God stationed an angel there with a flaming sword. Adam slipped out and was cast from the Garden of Eden. (125v)
+Death entered among Adam and Eve. The Lord—the Father, Son, God, and Spirit—drove them out of the heavenly garden and onto the earth. Lord God stationed an angel there with a flaming sword. Adam and Eve were cast out of the Garden of Eden. (125v)
 
-He placed the sword-bearing angel, a cherub, at the gate of the Garden of Eden. The third teaching then returns to the parable. Jesus said, “This is the drachma that was lost.” Adam and Eve lost it through the evil sin of eating. The Lord—the Father, Son, and Holy Spirit—cast them out, and they fell toward the evil of hell. The serpent had taken from them the goodness of God's one commandment. (126r)
+He placed the sword-bearing angel, a cherub, at the gate of the Garden of Eden. The third teaching then returns to the parable. Jesus said, “This is the drachma that was lost.” Adam and Eve lost it through the evil sin of eating. The Lord—the Father, Son, and Holy Spirit—cast them out, and they fell toward the evil of hell. Adam and Eve had been taken from the good of God's one commandment. (126r)
 
-The Lord—the Father, Son, and Spirit—went to recover what Adam and Eve had lost through the serpent. Jesus said that it could be found only through redemption and the mercy of Father God's angel. The Lord was born of a mother through divine love. Through his birth and the cross he redeemed humanity and found the drachma, the eternal kingdom that the serpent and Lucifer had caused them to lose. Jesus said that the Lord would take away the trespass and redeem them for Father God in heaven. (126v)
+The Lord—the Father, Son, and Spirit—went to recover what Adam and Eve had lost. Jesus said that it could be found only through redemption and the mercy of Father God's angel. The Lord was born of a mother through divine love. Through his birth and the cross he redeemed humanity and found the drachma, the eternal kingdom that Adam and Eve had forsaken through Lucifer. Jesus said that the Lord would take away the trespass and redeem them for Father God in heaven. (126v)
 
 In a dream an angel of God said to the holy prophet Hezekiah, “Thus says the Lord God: within three days you shall die.” Hezekiah's laughter turned to sadness, and he cried out as he prepared himself. The angel came to him a second time and said, “Hezekiah, thus says the Lord God: I have had mercy on you, and I will lengthen your life.” The number of years is not clear in the manuscript; the biblical account says fifteen. (127r)
 
@@ -596,7 +596,7 @@ The believing daughter escaped and was led before God the Father. From this poin
 
 At last the righteous son took the believing daughter of Lord Jesus Christ as his wife, and they lived [happily]. Here ends the story. Amen. Here begins a gospel attributed to the fourth chapter of Saint Luke. Jesus was thirty-two years old when he went to the shore of the sea. (158v)
 
-Near a mountain by the shore, Jesus met two men possessed by spirits. The text counts the devils within them as six hundred, and six hundred, and sixty, and six. The two men came toward the Lord. (159r)
+Near a mountain by the shore, Jesus met two men possessed by spirits. The devils within them numbered six thousand six hundred and sixty-six. The two men came toward the Lord. (159r)
 
 The two possessed men cried out to Lord Jesus. He took pity on their torment. The devils begged to enter the animals feeding on leftover food—the swine—and Jesus drove them into the herd. Lord God thus redeemed the spirits of the two men. (159v)
 

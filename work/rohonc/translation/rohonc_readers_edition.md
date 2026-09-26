@@ -186,13 +186,13 @@ words. There are 982 of them now.
 
 ## 003v — the rib, Eve, and the serpent
 
-> Bone of bone; and the two souls are one. | Before […] and […] said the angel. The Lord God departed […] | Chapter. […] and Eve went into Paradise; and | when Eve came to that tree which stood in the midst the Lord God had by commandment [forbidden]; and she saw a serpent in that tree, which stood in the midst was the Lord God's by commandment and then this serpent it […] this fruit and then Eve shall not eat ate, because it Adam, the Master, by commandment and then this serpent. Eve ate it Adam one this fruit; and the fruit was it one Adam ate; and it Adam knew
+> Bone of bone; and the two souls are one. | Before […] and […] said the angel. The Lord God departed […] | Chapter. […] and Eve went into Paradise; and | when Eve came to that tree which stood in the midst the Lord God had by commandment [forbidden]; and she saw a serpent in that tree, which stood in the midst was the Lord God's by commandment and then this serpent it […] this fruit; and then Eve: we shall not eat, because Adam's Master [God] gave the commandment; and then this serpent. Eve ate it Adam one this fruit; and the fruit was it one Adam ate; and it Adam knew
 
   1  bone bone in_turn two soul one | before
   2  ~year-+name and five say angel leave Lord_God from_heaven* | in_turn-chapter
   3  ~year-~exist and go Eve on-Eden and | then
   4  exist Eve go to-this tree what stood_in_the_midst*
-  5  exist Lord_God command = and see one
+  5  exist Lord_God command = and show^ one
   6  serpent on-this tree what stood_in_the_midst* exist
   7  Lord_God command = and_then this serpent it
   8  ~eat this fruit and_then Eve shall_not_eat eat
@@ -235,19 +235,19 @@ words. There are 982 of them now.
 
 ## 007r — the curse, and the sword at the gate
 
-> Adam was, to him who […] and why […] gates Adam was of the earth till the earth he would […] eat, and take, and it […] it was through pine; and […] was painful. coming shall be; and this evil — this evil is [cursed] the earth slide and room evil. Man was made, all of this. The serpent dies; and he departed from among Adam and Eve the Lord God; and there went the Lord God, the angel […] fire, a sword; and […] out | within Paradise. He drove them out, and set an angel sword
+> Adam was, to him who […] and why […] gates Adam was; the earth to till he would […] eat, and take, and it […] it was through pine; and […] was painful. coming shall be; and this evil — this evil is [cursed] the earth slide and room evil. Man was made, all of this. The serpent dies; and he departed from among Adam and Eve the Lord God; and there went the Lord God, the angel […] fire, a sword; and […] out | within Paradise. He drove them out, and set an angel sword
 
   1  exist ~Adam to-to-this-who [?]-~Adam in_turn why?-in_turn
   2  gates* exist ~Adam earth till_the_earth
-  3  want to-~son food ~grab in_turn it this-+it
+  3  want to-~son eat^ ~grab in_turn it this-+it
   4  exist through pine and this-+it exist painful
   5  ~be_born have in_turn this evil this-evil exist
   6  [cursed] earth slide ~and room
   7  evil this man^ create every this serpent die and
-  8  become^ among Adam_and_Eve Lord_God and go
+  8  leave among Adam_and_Eve Lord_God and go
   9  Lord_God angel two-~earth-+Eve flame^
  10  sword and ~earth-slide out | on-inside
- 11  Eden exorcise and place^ angel sword
+ 11  Eden exorcise and put angel sword
 
 ## 007v — outside the garden: Cain, Abel, Seth, and Adam goes blind
 
@@ -610,7 +610,7 @@ words. There are 982 of them now.
 
 ## 022v — the signs, numbered
 
-> First, that is, the Lord made wine water that is the Lord broke five loaves bread […] the people. The fourth sign the Lord Jesus showed, when | […] he raised up from […] a son […] the sign the Lord Jesus showed, when he raised up lose in Jerusalem. The sixth sign the Lord Jesus showed in […] […] when the Jews brought a sick man before the Lord Jesus: a sick man, and a sick man, and a sick man, and a paralytic; and the sick, the sick, the sick, the paralytic — the Lord Jesus healed […] The sign the Lord Jesus showed in Capernaum, when he healed alive the servant of a soldier; and was named […] the centurion The eighth sign the Lord Jesus showed in Tyre […] to a woman […]
+> First, that is, the Lord made wine water that is the Lord broke five loaves bread […] the people. The fourth sign the Lord Jesus showed, when | in Nain […] he raised up, from a widow, a son […] the sign the Lord Jesus showed, when he raised up lose in Jerusalem. The sixth sign the Lord Jesus showed in […] […] when the Jews brought a sick man before the Lord Jesus: a sick man, and a sick man, and a sick man, and a paralytic; and the sick, the sick, the sick, the paralytic — the Lord Jesus healed […] The sign the Lord Jesus showed in Capernaum, when he healed alive the servant of a soldier; and was named […] the centurion The eighth sign the Lord Jesus showed in Tyre […] to a woman […]
 
   1  before that_is SUBJ Lord wine create-Lord water on-that_is SUBJ Lord
   2  break five loaves bread five-?thousand people
@@ -618,7 +618,7 @@ words. There are 982 of them now.
   4  before in_turn-to-in_turn resurrect from virgin-~woman son fifth
   5  can show Lord-Jézus then-exist resurrect to-to lose*
   6  within^ Jerusalem in_turn-six can show Lord-Jézus within^ first^
-  7  in_turn-chapter-in_turn then-exist Jew keep^ first^ ill
+  7  in_turn-chapter-in_turn then-exist Jew carry first^ ill
   8  before Lord-Jézus sick_man and sick_man and sick_man and paralytic
   9  and sick_man sick_man sick_man paralytic heal Lord-Jézus in_turn-+seven
  10  can show Lord-Jézus within^ Capharnaum because raise_from_the_dead =
@@ -2010,7 +2010,7 @@ words. There are 982 of them now.
 
 ## 068v — of sin, and of righteousness, and of judgment
 
-> Here begins this holy gospel written by holy John, in the sixteenth chapter of his writing. At that time Lord Jesus said to his apostles, at the last supper: this Lord goes to his Father; you learn, he does, heaven and earth, that is, this Lord go away to the death; the Lord dies, and this Lord goes from you […] the day; in turn he who, this Lord, this dies for you go not away the Holy Spirit; the Lord dies, and this Lord, to you the Holy Spirit goes, and you shall see two judgments: first of sin; in turn the second of righteousness; the third, judgment
+> Here begins this holy gospel written by holy John, in the sixteenth chapter of his writing. At that time Lord Jesus said to his apostles, at the last supper: this Lord goes to his Father; you learn, he does, the heavenly land; that is, this Lord go away to the death; the Lord dies, and this Lord goes from you […] the day; in turn he who, this Lord, this dies for you go not away the Holy Spirit; the Lord dies, and this Lord, to you the Holy Spirit goes, and you shall see two judgments: first of sin; in turn the second of righteousness; the third, judgment
 
   1  here_begins this holy_gospel
   2  write holy-John inside
@@ -3719,7 +3719,7 @@ words. There are 982 of them now.
 
 ## 125v — driven out, and the flaming sword
 
-> dieth; and he departed from among Adam and Eve the Lord, the Father, the Son, God, the Spirit, from the Father God, Jesus, the angel, the Virgin Mary, Christ, and the apostles, and the Jews, and the man baptized, and all. [he drove out] and all the kingdom of heaven, the Lord, and the Lord's heart, all the earth, and the evil, and the kingdom of heaven; and there went the Lord God, the angel, the second, the earth, and […] fire, the sword, and | the earth; Adam slid out; from the Garden of Eden he was cast out.
+> dieth; and he departed from among Adam and Eve the Lord, the Father, the Son, God, the Spirit, from the Father God, Jesus, the angel, the Virgin Mary, Christ, and the apostles, and the Jews, and the man baptized, and all. [he drove out] and all the kingdom of heaven, the Lord, and the Lord's heart, all the earth, and the evil, and the kingdom of heaven; and there went the Lord God, the angel, the second, the earth, and […] fire, the sword, and | Adam and Eve [were] out; from the Garden of Eden they were cast out.
 
   1  die and become^ among Adam_and_Eve
   2  of-Lord father son God spirit from-father God Jézus angel
@@ -3732,7 +3732,7 @@ words. There are 982 of them now.
 
 ## 126r — the cherub at the gate, and the third saying
 
-> And he set the angel with the sword at the gate, the cherub of the Garden of Eden; and one creature [cherubim] within the Garden of Eden; in turn, the angel. And then the Lord Jesus, this third throne, from the saying, said the Lord Jesus: this is this drachma; and it is lost, then, from the evil, the sin: they did eat, the two, Adam; and Eve and Adam slid out; cast out, the Lord, the Father, the Son, the Holy Spirit; and then hell, the evil; from […] the serpent took, from the good, one commandment of God; which chapter […] the serpent hath.
+> And he set the angel with the sword at the gate, the cherub of the Garden of Eden; and one creature [cherubim] within the Garden of Eden; in turn, the angel. And then the Lord Jesus, this third throne, from the saying, said the Lord Jesus: this is this drachma; and it is lost, then, from the evil, the sin: they did eat, the two, Adam; and Eve and Adam slid out; cast out, the Lord, the Father, the Son, the Holy Spirit; and then hell, the evil; from […] Adam and Eve were taken, from the good, one commandment of God; which chapter […] Adam and Eve had.
 
   1  and place^ angel sword on-gate cherub*
   2  Eden and one create can_be inside
@@ -3746,7 +3746,7 @@ words. There are 982 of them now.
 
 ## 126v — the Lord seeks the drachma he lost
 
-> The Lord, the Father, the Son, the Spirit, took what was lost; | the two, Adam, the serpent. Said the Lord Jesus: then therefore the two could find it. All, until this | redemption; therefore have mercy on the angel of the Lord, from the Father God; he could […] find, redemption, therefore. He was born of a mother, the Lord's love, and redemption; this Lord, of a mother [again] was born; and redemption, this Lord, the cross [thereon]; in turn […] […] the cross; from there he would find this drachma, this eternal kingdom […] there is, from […] the serpent; abandon Lucifer. And said the Lord Jesus: this Lord would take the trespass, and redeem, of the Lord, from the Father God, heaven.
+> The Lord, the Father, the Son, the Spirit, took what was lost; | Adam and Eve. Said the Lord Jesus: then therefore the two could find it. All, until this | redemption; therefore have mercy on the angel of the Lord, from the Father God; he could […] find, redemption, therefore. He was born of a mother, the Lord's love, and redemption; this Lord, of a mother [again] was born; and redemption, this Lord, the cross [thereon]; in turn […] […] the cross; from there he would find this drachma, this eternal kingdom […] there is, from […] Adam and Eve; abandon Lucifer. And said the Lord Jesus: this Lord would take the trespass, and redeem, of the Lord, from the Father God, heaven.
 
   1  Lord-father son spirit exist grab lose | two-~Adam
   2  slide say Lord-Jézus then-~exist two can find.
@@ -4679,7 +4679,7 @@ words. There are 982 of them now.
 
 ## 159r — two men with spirits
 
-> and second year; the time; the Lord Jesus went to the shore; bread and then the Lord Jesus found the shore of the sea one hundred; the sin of this; and then he found, the Lord Jesus, the shore of the sea, among one mountain, two men with spirits; in the two men there were | six hundred and six hundred and sixty and six evil devils; and how the two men's hearts were found, the hearts of these two men aforesaid […] in turn […] the two men were, to take | the Lord
+> and second year; the time; the Lord Jesus went to the shore; bread and then the Lord Jesus found the shore of the sea one hundred; the sin of this; and then he found, the Lord Jesus, the shore of the sea, among one mountain, two men with spirits; in the two men there were | six thousand and six hundred and sixty and six evil devils; and how the two men's hearts were found, the hearts of these two men aforesaid […] in turn […] the two men were, to take | the Lord
 
   1  two-year time go Lord-Jézus shore bread
   2  and then-exist meet^ Lord-Jézus shore sea
