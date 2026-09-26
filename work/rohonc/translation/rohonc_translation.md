@@ -8585,21 +8585,22 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **7**  heaven, into the kingdom of heaven, upon many angels,
 `heaven on-heaven land on-many angel`
 
-**8**  upon the angel whose name is the hidden angel, and the second
+**8**  upon the angel whose name is Lucifer, and the second
 `on angel +name exist hide_oneself-angel and two`
 
-**9**  angel, and the hidden angel, as he was; and forty thousand years
+**9**  angel, and Lucifer, as he was; and forty thousand years
 `angel and hide_oneself-angel ?as-~exist-exist and ten-ten-ten-ten-year`
 
 > The ninety-nine sheep left in the wilderness are read as the nine orders
 > of angels, the one lost sheep as mankind: the standard exposition of Luke
 > 15:4, and the reason the codex keeps the number nine through both
-> parables. Lines 8-9 turn to the fall of Lucifer, the hidden angel, which
-> is the sign this project read as "hide oneself" and matched to Lucifer.
+> parables. Lines 8-9 turn to the fall of Lucifer. His name is two signs
+> that Király and Tokai read together as one word, *Satan, Lucifer* (004v10);
+> an earlier printing here called him "the hidden angel", which was wrong.
 
 ## 120v — the fall of Lucifer, and the order left empty
 
-**1**  and forty thousand, and night, which the hidden angel, to the hidden angel,
+**1**  and forty thousand, and night, which Lucifer, to Lucifer,
 `and ten-ten-ten-ten and night which-hide_oneself-angel to-hide_oneself-angel`
 
 **2**  into the kingdom of heaven, unto the evil redeem; there is one
@@ -8829,7 +8830,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **8**  And then the Lord Jesus: and this, unto death, the sin, to hide, they did;
 `+and_then Lord-Jézus and this on-die +sin-hide_oneself do,`
 
-**9**  the hidden angel, the Lord, the Father, the Son, the Spirit, of the Lord, the man, from the Father God,
+**9**  Lucifer, the Lord, the Father, the Son, the Spirit, of the Lord, the man, from the Father God,
 `hide_oneself-angel Lord-father son spirit <of>-Lord somebody from-father-<divine>`
 
 > Genesis 3:6-7, "she took of the fruit thereof, and did eat, and gave also
@@ -8839,7 +8840,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 
 ## 124r — Adam, where art thou?
 
-**1**  the son, the hidden angel, is bowed down, the Father God, into heaven; in turn
+**1**  the son, Lucifer, is bowed down, the Father God, into heaven; in turn
 `?son-+<subj> hide_oneself-angel exist ~bow_down father-<divine> on-heaven in_turn-chapter`
 
 **2**  the day is unto hell. And then the Lord Jesus left, the Lord, the Father, the Son,
@@ -9026,7 +9027,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **8**  kingdom […] there is, from […] the serpent;
 `land [?]-+<subj> exist from [?]-slide`
 
-**9**  abandon the hidden angel. And said the Lord Jesus: this Lord would
+**9**  abandon Lucifer. And said the Lord Jesus: this Lord would
 `[?] hide_oneself-angel and say Lord-Jézus this-Lord want-Lord`
 
 **10**  take the trespass, and redeem, of the Lord, from the Father God, heaven.
@@ -9403,7 +9404,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **5**  the apostles, the light, taken up into heaven; in turn […] said
 `apostle light bow_down on-heaven in_turn-[?] say`
 
-**6**  the Lord Jesus: lo, taken up; the hidden angel could. And then
+**6**  the Lord Jesus: lo, taken up; Lucifer could. And then
 `Lord-Jézus lo bow_down can hide_oneself-angel +and_then`
 
 **7**  the Lord Jesus: go ye, apostles, into the world; be ye apostles

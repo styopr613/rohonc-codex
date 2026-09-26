@@ -1638,10 +1638,16 @@
 ]
 },
 "102v": {
-"english": "The Lord, obsessed by evil, suffered in body and from healing, and the Lord, for someone's sin, for the good of the whole wide world, cross ... and to someone, the Lord's ... to the thief, and someone redeemed the Lord from hell fire, and then the Lord existed, cross ... | sun* The Lord's name and the moon. This eclipse, before the sun's eclipse and before the moon's eclipse, ... earth quake, rock, stone rent, and at the sun's eclipse all creatures on this world humble themselves, and all creation mourns. Then Christ existed, cross ..., and the Lord inside the burial chamber was put.",
+"english": "The Lord, obsessed by evil, suffered in body; the Lord heals, and the Lord, for someone's sin, for the good of the whole wide world, cross ... and to someone, the Lord's ... to the thief, and someone redeemed the Lord from hell fire, and then the Lord existed, cross ... | sun* The Lord's name and the moon. This eclipse, before the sun's eclipse and before the moon's eclipse, ... earth quake, rock, stone rent, and at the sun's eclipse all creatures on this world humble themselves, and all creation mourns. Then Christ existed, cross ..., and the Lord inside the burial chamber was put.",
 "leaks": [
-"someon"
-]
+"burial",
+"chamb",
+"obs",
+"someon",
+"whol",
+"wid"
+],
+"corrected": "2026-09-26: set phrase inside a joined sign (Satan / heal), hand-edited."
 },
 "103r": {
 "english": "And then the Lord existed inside the burial chamber, and the Lord lay for an hour, and the time went from God the Father in heaven onto the soul of the Father’s angel. The Lord Jesus existed ... and rose from prayer. In turn, the angel stayed inside the burial chamber; in turn, the Lord went to hell, and destroyed hell, and the Lord redeemed somebody from the fire of hell, because ... The Lord carried the Lord’s cross on the Lord’s shoulder, and somebody ... the soul of the Lord’s Father, the divine one, every people of the whole wide world, and then the Lord Jesus ... from the Father, the Lord’s eternal God, this soul of the divine Father, this soul.",
@@ -1918,12 +1924,13 @@
 "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
 },
 "120v": {
-"english": "And ten-ten-ten-ten and night, the hiding angel hides himself. On the heaven land, one redeems on evil. The order of the day chapter from* and then the Lord exists, the Lord goes from the father, the Lord wants from this Lord the tenth, the beginning order of the angel, and from leaving the Lord until the judge year the Lord wants. From the father the tenth from the order on the place shall stand empty. The Lord exists, the Lord bows down from the father of the Lord on the heaven land on evil, then exists. The Lord goes, the father, the son, God, Jesus, the holy spirit, Mary, Christ, the apostle, the angel judges the living and the dead, redeems, shall fill it.",
+"english": "And ten-ten-ten-ten and night, which Satan, to Satan. On the heaven land, one redeems on evil. The order of the day chapter from* and then the Lord exists, the Lord goes from the father, the Lord wants from this Lord the tenth, the beginning order of the angel, and from leaving the Lord until the judge year the Lord wants. From the father the tenth from the order on the place shall stand empty. The Lord exists, the Lord bows down from the father of the Lord on the heaven land on evil, then exists. The Lord goes, the father, the son, God, Jesus, the holy spirit, Mary, Christ, the apostle, the angel judges the living and the dead, redeems, shall fill it.",
 "leaks": [
+"day",
 "dea",
-"goe",
-"jesu"
-]
+"goe"
+],
+"corrected": "2026-09-26: set phrase inside a joined sign (Satan / heal), hand-edited."
 },
 "121r": {
 "english": "This Lord Judge, Lord from the Father, exists on the sheep. Righteous people believe in the divine person and in the Lord from the Father. Many judges and neighbours and friends and angels and apostles, chapter by chapter. Amen. And then the Lord Jesus ... baptizes this. This is the Lord's. You create a mother from it. It exists. It loses one piece of silver. Order, order in heaven and on earth, because then bow down from the Father in heaven to the many angels in heaven. On earth to evil. And then the Lord Jesus says, \"It exists.\"",
@@ -2111,12 +2118,12 @@
 ]
 },
 "132r": {
-"english": "Be damned! And then Lord Jesus and somebody exist. Lord, believe! Many miracles exist, do. Each, every inside of the Lord. And apostles exist. [?] time see. Apostles bow down on heaven. Land light, and then apostles answered, see. Apostles light, bow down on heaven. In turn [?] say, \"Lord Jesus, lo, bow down. Satan can.\" And then Lord Jesus, \"You apostles, go into the world. Apostles exist. To from donkey, from healing apostles exist. Apostles evil. On people, apostles cast out. Eye blind through light apostles. Somebody die, stand up, apostles resurrect. Each, every inside of the Lord's name.\"",
+"english": "Be damned! And then Lord Jesus and somebody exist. Lord, believe! Many miracles exist, do. Each, every inside of the Lord. And apostles exist. [?] time see. Apostles bow down on heaven. Land light, and then apostles answered, see. Apostles light, bow down on heaven. In turn [?] say, \"Lord Jesus, lo, bow down. Satan can.\" And then Lord Jesus, \"You apostles, go into the world. Apostles exist. To from donkey, the apostles heal, apostles exist. Apostles evil. On people, apostles cast out. Eye blind through light apostles. Somebody die, stand up, apostles resurrect. Each, every inside of the Lord's name.\"",
 "leaks": [
 "cast",
 "turn"
 ],
-"corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
+"corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. 2026-09-26: set phrase inside a joined sign (Satan / heal), hand-edited."
 },
 "132v": {
 "english": "And how? Somebody's chapter. From the donkey, the apostle goes, each and every chapter. From the healing apostle inside the Lord's name, this holy gospel ends. At that time, God's angel appeared. At that time, the holy prophet Elijah.",
@@ -2691,13 +2698,16 @@
 "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
 },
 "171v": {
-"english": "A woman believed in the healing woman afterward.  \nOne day the Lord Jesus said, \"This Lord, this woman, from the healing Lord, but...\"  \nThe Lord Jesus said, \"This woman believes in healing.  \nDo it, and...\" The Lord Jesus went to the head apostle woman.  \nHe said, \"This head of the house, and...\" Then the Lord existed.  \nThe head of Jesus' woman said, \"Go inside and see.\"  \nThe Lord Jesus saw many sadly, and then the Lord Jesus gave place.  \nTherefore this daughter died, but rather she sleeps, and then he existed.  \nHe said, \"Laugh,\" and the Lord Jesus said, \"See love.\" This...",
+"english": "A woman believed in the healing woman afterward.  \nOne day the Lord Jesus said, \"This Lord, this woman, the Lord heals, but...\"  \nThe Lord Jesus said, \"This woman believes in healing.  \nDo it, and...\" The Lord Jesus went to the head apostle woman.  \nHe said, \"This head of the house, and...\" Then the Lord existed.  \nThe head of Jesus' woman said, \"Go inside and see.\"  \nThe Lord Jesus saw many sadly, and then the Lord Jesus gave place.  \nTherefore this daughter died, but rather she sleeps, and then he existed.  \nHe said, \"Laugh,\" and the Lord Jesus said, \"See love.\" This...",
 "leaks": [
+"afterwar",
+"day",
 "gav",
-"jesu",
 "saw",
+"therefor",
 "went"
-]
+],
+"corrected": "2026-09-26: set phrase inside a joined sign (Satan / heal), hand-edited."
 },
 "172r": {
 "english": "The Lord [laughed him to scorn]. Speak, and then the Lord Jézus this head. Cast out this people out, and then out cast out the head, and among the Lord Jézus’s daughter, father and mother. And then the Lord Jézus says, says this name: one servant rises, a servant daughter among virgin girls, and then a daughter rises, sits on, and then lo, the Lord goes, a descendant to the pleasing Lord. The prophet through predicts, lo, the Lord goes, and then the Lord Jézus carries father, mother, wine and bread. [He walked], [gave her to eat] and drink, and then the daughter exists.",
@@ -2802,12 +2812,12 @@
 "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
 },
 "179r": {
-"english": "Ten lepers, healed, say to the head, son of David, king. Jewish priest glorifying God, you people from the son sin against the healing Lord. You people, healed by Moses righteously, because the Old Testament word exists. The leper says among the Jewish priests, \"Exorcise outwardly.\" And then, from the nine people, somebody believes from the Jewish priest. In turn, ten somebody have faith. A leper returns back against the Lord Jesus and bows down before the Lord's foot, and then the Lord's sister exists.",
+"english": "Ten lepers, healed, say to the head, son of David, king. Jewish priest glorifying God, you people from the son sin against; the Lord heals. You people, healed by Moses righteously, because the Old Testament word exists. The leper says among the Jewish priests, \"Exorcise outwardly.\" And then, from the nine people, somebody believes from the Jewish priest. In turn, ten somebody have faith. A leper returns back against the Lord Jesus and bows down before the Lord's foot, and then the Lord's sister exists.",
 "leaks": [
-"jesu",
 "jewish",
 "outwar"
-]
+],
+"corrected": "2026-09-26: set phrase inside a joined sign (Satan / heal), hand-edited."
 },
 "179v": {
 "english": "Kiss the feet of the Lord and the God-fearing Lord, and give thanks, and then the Lord Jesus’ apostle of the Lord’s name to each and every one, and there were ten lepers, in turn, who were not ten. One, whatever commandment, and whatever commandment, love the Lord, and then the Lord Jesus’ apostle of the good Lord, the nine from—is he the chapter? So, a son, somebody, exists: Lord of a pagan nation, love, end. This holy gospel of the Lord, love, three believe, have from the world. First, believe above high, and then pagan day and Jewish believe inside this and this. Believe one somebody.",
@@ -2831,12 +2841,15 @@
 "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
 },
 "180v": {
-"english": "The Lord Jesus and the Lord Christ prepare six-six apostles, and many get tired. The Lord Christ, who gets tired, goes into the world, Lord. The Lord's apostles and many miracles, the Lord Christ's love miracles, are done. In the world go the Lord's apostles. The eye-blind through light, Lord, die. Somebody stands up, resurrects, chapter, Lord. Evil is on the people ... to who, Lord. Love and this and this cup ... day from healing, Lord, and holy host, God exists, exists, chapter. The Lord Christ's brethren, Lord, stay on thirty, Lord, inside the host, and humble Lord Christ, because the Lord exists, humble Lord, this world.* The head grabs, Lord, and the Jewish capture, led away.",
+"english": "The Lord Jesus and the Lord Christ prepare six-six apostles, and many get tired. The Lord Christ, who gets tired, goes into the world, Lord. The Lord's apostles and many miracles, the Lord Christ's love miracles, are done. In the world go the Lord's apostles. The eye-blind through light, Lord, die. Somebody stands up, resurrects, chapter, Lord. Evil is on the people ... to who, Lord. Love and this and this cup ... day, the Lord heals, and holy host, God exists, exists, chapter. The Lord Christ's brethren, Lord, stay on thirty, Lord, inside the host, and humble Lord Christ, because the Lord exists, humble Lord, this world.* The head grabs, Lord, and the Jewish capture, led away.",
 "leaks": [
+"brethren",
+"day",
+"get",
 "goe",
-"jesu",
 "jewish"
-]
+],
+"corrected": "2026-09-26: set phrase inside a joined sign (Satan / heal), hand-edited."
 },
 "181r": {
 "english": "They platted a thorn crown on his head. He was conceived, trodden down, and died. The Lord Christ rose and appeared. The Lord Christ’s disciples were one Saturday evening, and that evening, then the Lord appeared to the six-six disciples within the Lord’s house where the Lord Jézus did dinner. Then holy Thomas Didymus went one Saturday evening to the apostles, and the disciples said, “Thomas, see the Lord.” And holy Thomas said, “This Thomas does not believe every one to whom... This Thomas believes blind... unless Thomas sees.”",
@@ -3370,13 +3383,13 @@
 "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
 },
 "214v": {
-"english": "And the Lord on the holy feast, ill from healing Lord, and then Lord Jesus inside this, \"Keep my word.\" This Lord, sin committed, this a healthy man, you sadly love this Lord. You on the holy feast, ill from healing Lord, and then Lord Jesus, \"Amen, amen, this Lord you speak, Lord, and whosoever therefore Lord believe and one therefore whosoever be saved, each, every man be damned, remain,\" and man apostle say, \"Exist Lord believe from whosoever exist living whosoever.\" One apostle say, \"Chapter, oh chapter, oh, not die.\" And then Jewish of say, \"Abraham black, God believe.\"",
+"english": "And the Lord on the holy feast, the Lord heals the ill, and then Lord Jesus inside this, \"Keep my word.\" This Lord, sin committed, this a healthy man, you sadly love this Lord. You on the holy feast, the Lord heals the ill, and then Lord Jesus, \"Amen, amen, this Lord you speak, Lord, and whosoever therefore Lord believe and one therefore whosoever be saved, each, every man be damned, remain,\" and man apostle say, \"Exist Lord believe from whosoever exist living whosoever.\" One apostle say, \"Chapter, oh chapter, oh, not die.\" And then Jewish of say, \"Abraham black, God believe.\"",
 "leaks": [
 "jewish",
 "therefor",
 "whosoev"
 ],
-"corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
+"corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. 2026-09-26: set phrase inside a joined sign (Satan / heal), hand-edited."
 },
 "215r": {
 "english": "God said, \"Hear, Abraham,\" and still he is dead. In turn, this Lord did not die, and then the Lord Jesus saw this Lord. [...] die from father Abraham, say the Jews on their head. Therefore this Lord fifty in turn ... this two thousand years, likewise of the saying, \"From father Abraham is dead.\" In turn, this Lord spoke; the Lord rejoiced; Abraham saw the Lord. Therefore this pleased this Lord, a blasphemer, and then the Lord Jesus first left this Lord, but rather you, from father Abraham, on this world was made.",

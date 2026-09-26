@@ -1962,7 +1962,7 @@
   "tier": "G"
  },
  "4c5": {
-  "evidence": "006r:3 'and healing leave Adam [x]'; the Rood legend opens with Adam sick and dying.",
+  "evidence": "006r:3 'and healing leave Adam [x]'; the Rood legend opens with Adam sick and dying. Corrected 2026-09-26: the line quoted above was rendered sign by sign; 006r:3 now reads 'and be healed = Adam [sick]': Király and Tokai read ac5 b30 together as 'be healed' (006r03), so the line says Adam, sick, is healed. The reading of this sign does not change.",
   "gloss": "sick",
   "n": 1,
   "tier": "G"
@@ -2028,7 +2028,7 @@
   "tier": "C"
  },
  "4f1ae0877": {
-  "evidence": "Found by ktinside.py --rev. This sign begins with 4f1ae0, which K&T read as 'resurrect; rise; stand up', leaving _877 unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. K&T's own 'resurrect' stands immediately after it on the same line. Occurrence(s): 193r:10 '<<[x]>> ~resurrect who-and-this-and +leper from-healing-Lord this-Lord +cross holy-gospel'",
+  "evidence": "Found by ktinside.py --rev. This sign begins with 4f1ae0, which K&T read as 'resurrect; rise; stand up', leaving _877 unaccounted for -- which is why it is tier C and not B: the rest may be a case ending, a modifier, or a word of its own. It is read as the head sense of the part that IS accounted for. K&T's own 'resurrect' stands immediately after it on the same line. Occurrence(s): 193r:10 '<<[x]>> ~resurrect who-and-this-and +leper from-healing-Lord this-Lord +cross holy-gospel' Corrected 2026-09-26: the line quoted above was rendered sign by sign; 193r:10 now reads '... leper heal-Lord ...': a10ac5 is their 'heal [someone]' (022v09). The reading of this sign does not change.",
   "gloss": "rise",
   "n": 1,
   "tier": "C"
@@ -3426,7 +3426,7 @@
   "tier": "G"
  },
  "520443520": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520 'that; to whom; what; which; whose'. Read as the relative, like the seven signs of the same shape entered before it. Occurrence(s): 025r:7 'from-healing <<[x]>> ask_(for) from-healing this Lord of-somebody son sa'",
+  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520 'that; to whom; what; which; whose'. Read as the relative, like the seven signs of the same shape entered before it. Occurrence(s): 025r:7 'from-healing <<[x]>> ask_(for) from-healing this Lord of-somebody son sa' Corrected 2026-09-26: the line quoted above was rendered sign by sign; 025r:7 now reads 'heal <<that>> ask heal this Lord': a10ac5 is their 'heal [someone]' (022v09). The reading of this sign does not change.",
   "gloss": "that",
   "n": 1,
   "tier": "C"

@@ -243,6 +243,8 @@ def render_token(t, gl, seg, full, var, prop=None, own=False):
         g, tier = prop[t]
         return MARK.get(tier, "?") + own_reading(g, own) + mark
     if t in seg:
+        if own:
+            return "-".join(inner_phrases(seg[t], gl, var, prop or {}, full, own)) + mark
         return "-".join(seg_word(p, gl, var, prop or {}, full, own) for p in seg[t]) + mark
     if t in var:
         return "~" + word(var[t], gl, full, own) + mark
@@ -276,6 +278,28 @@ def _phrases():
                 raise SystemExit(f"ktexpr.json: {k} has {len(codes)} signs and {len(v['slots'])} slots")
             _PHRASES[codes] = v["slots"]
     return _PHRASES
+
+
+def inner_phrases(pieces, gl, var, prop, full, own):
+    """The pieces of one cut sign, with a one-sign set phrase kept whole.
+
+    phrase_slots works on whole signs, so a phrase written joined to another
+    sign slipped through: 719950b61 printed "which-hide-angel" at 120v01
+    while 950b61 alone printed "Satan". Found 2026-09-26 when the owner asked
+    that every example carry the corrections. Longest run of pieces first."""
+    one = {k[0]: v[0] for k, v in _phrases().items() if len(k) == 1}
+    out, i = [], 0
+    while i < len(pieces):
+        for j in range(len(pieces), i + 1, -1):
+            w = one.get("".join(pieces[i:j]))
+            if w:
+                out.append(w.replace(" ", "_"))
+                i = j
+                break
+        else:
+            out.append(seg_word(pieces[i], gl, var, prop, full, own))
+            i += 1
+    return out
 
 
 def phrase_slots(run):

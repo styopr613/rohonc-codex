@@ -410,6 +410,30 @@ language-independent; that is a use, not a disguise. Say "probably".
     cd /home/ubuntu/voynich/harness
     python3 gate.py && python3 check_results.py && python3 check_rohonc.py
 
+**A correction is not done until every place that shows it is.** A reading
+lives in more places than the gloss: the working translation
+(`rohonc_translation.md`, whose prose becomes the reader's edition), the English
+(`english.json`), Book One (`reading.md`), the evidence notes in
+`proposals.json` (the site's sign-at-a-time page prints them word for word), the
+plate captions (`plates.json`, the front-page drawing among them), the book's
+appendix (`ktbook.py`) and the site copy (`ktsite_copy.json`,
+`finds_pictures.json`). The gates check the signs, not these. On 2026-09-26
+Király and Tokai's *Satan, Lucifer* went into the renderer, and Book One still
+said "the hidden angel" on five folios, because the renderer only matched the
+phrase as a whole sign and not inside a joined one (`which-hide-angel`,
+120v01). So after any change to a reading or to the renderer:
+
+1. Regenerate, then grep EVERY file above for the old wording, both its gloss
+   form (`hide-angel`) and its prose forms (`hidden angel`, `hiding angel`).
+2. Fix the prose by hand, precisely: the one phrase, not a rewrite, and no
+   model rerun. `english.json` gets a dated line in its `corrected` field.
+3. An evidence note records what the line looked like when the reading was
+   made, so leave it and append a dated "Corrected" line saying what the line
+   reads now and whether the reading changes.
+4. Check what the examples draw from, not only the files: the sign page takes
+   its first line from `ktsite.first_lines` (the renderer) and its sentence
+   from `reading.md`, so both have to be current.
+
 ## Ground rules
 
 Plain English to the user, short sentences, no tables in chat. No
