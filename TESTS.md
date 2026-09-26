@@ -80,7 +80,7 @@ and the comparison it produced was noise. This is the glyph-versus-word unit
 error of the early Rohonc figures wearing different clothes: **confirm what one
 row of a file IS before measuring anything with it.** Learned twice now.
 
-**What was already seen when the bars were written**, said plainly: an
+**What was already seen when the bars were written**: an
 exploratory pass had reported the 91.1% and the reversed 14.3%, so the headline
 is not a prediction. The bars were declared for the part that had not been run
 — the matched control, each open row paired with a random row of the same

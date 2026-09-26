@@ -375,7 +375,7 @@ asks whether the pipeline puts it back.
     GATE 4b  the judgment step, 25 masked signs read blind
              12 of 25, 48%  --  but the test was INVALID
 
-Gate 4a says plainly what the mechanical part of this pipeline can do on its
+Gate 4a says what the mechanical part of this pipeline can do on its
 own: nothing. The top candidate was correct 0.0% of the time in every stratum.
 No reading in this project was ever made that way, and this is why.
 

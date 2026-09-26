@@ -94,7 +94,7 @@ blocked and has no result to reproduce.
 |---|---|
 | the five documents above | the account, the record, the tests, the rules and the provenance |
 | [`book/`](book) | the edition itself as an EPUB, free, with its cover |
-| [`harness/`](harness) | the programs: the reading, the tests, the checkers, and the builder for the public site. [`harness/README.md`](harness/README.md) describes them |
+| [`harness/`](harness) | the programs: the reading, the tests and the checkers. [`harness/README.md`](harness/README.md) describes them |
 | `work/rohonc/` | the saved run behind every published figure, one file per test, each stating its bar at the top |
 | [`notes/`](notes) | the working documents the stages were done from, published as they were written |
 | [`archive/`](archive) | files no longer part of the edition, kept because the record of how a reading changed is itself evidence |
@@ -106,7 +106,7 @@ manuscript scans, the reference corpora — which are other people's and are not
 redistributed. `refs/` holds ten cloned prior-work repositories, read-only.
 `DATA_PROVENANCE.md` gives the address and the terms for every one of them.
 
-And the public site's artwork is not here: the five atlas plates, the book
+And the public site's builder and artwork are not here: the five atlas plates, the book
 rendered in 3D, the textures behind the page. They are pictures of a website,
 not evidence for a reading, and this repository is the second kind of thing.
 The atlas plates redraw from `harness/atlas.json` through `harness/ktatlas.py`,

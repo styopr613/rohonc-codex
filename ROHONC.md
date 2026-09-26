@@ -1494,7 +1494,7 @@ kept in `proposals.json` marked as withdrawn rather than deleted:
                    an inference rather than a reading: Király and Tokai gloss
                    the DOUBLED sign as a future auxiliary and the single sign
                    was assumed to match. It gave shall-slide seven times and,
-                   at 063r:4, shall-day-today's for what is plainly the daily
+                   at 063r:4, shall-day-today's for what is the daily
                    bread of the Emmaus meal. One cut was right and is kept as
                    a whole word, 540796, thou shalt die, Genesis 2:17.
 
@@ -1768,7 +1768,7 @@ signs and every structural relation is left identical:
     5.4 sigma, beats 20 of 20 controls              PASS
 
 Ten times chance, and it clears the bar. But 2.1% is a low number and it
-says something that has to be said plainly: **the structural tools are
+says something that has to be said: **the structural tools are
 candidate generators, not readers.** Taking an arbitrary structural
 neighbour's meaning is wrong 98 times in 100. What turned a candidate into
 a reading was the judgment step -- reading the line, the folio and the source

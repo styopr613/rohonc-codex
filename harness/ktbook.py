@@ -770,7 +770,7 @@ external check available, and anyone may run it."""},
          "text": """This is a sixteenth-century Catholic devotional book and it
 carries its genre's material without alteration here.
 
-Two things a modern reader meets in the sermons are worth naming plainly.
+Two things a modern reader meets in the sermons are worth naming.
 The siege in which a starving mother eats her own child, at 111v-112r, is not
 an invention of this book: it is scripture, at 2 Kings 6:28-29 and Lamentations
 4:10, under the curse of Deuteronomy 28:53-57, and it reached the medieval
@@ -789,20 +789,24 @@ a worse witness to what a Catholic in Hungary in 1593 was actually reading."""},
 saying on their own. Each is a reading of the facts, not a fact about the
 manuscript, and each says what is not known. The sources are in the endnotes.
 
-**The hidden cup has neighbours.** On 004r, Lucifer and a hidden cup come up
+**The hidden cup has neighbours.** On folio 004r, Lucifer and a hidden cup appear
 again and again.
 
-That the cup is stolen rests on one guessed sign, so the theft is not shown.
-Whether Lucifer hides the cup, or hides himself by it, cannot be told.
+That the cup is stolen hangs on a single guessed sign, so the theft itself is
+not shown. It cannot be told whether Lucifer is hiding the cup, or hiding himself
+by means of it.
 
-No known source has a cup at the fall, and neither do the forty-seven Old
-Hungarian codices. But stories of the devil stealing holy things were told
-nearby. In a Bulgarian tale, Satanael steals the robe, wreath and sceptre
-made for God. In Romanian carols, Judas steals the little jug of wine from
-paradise.
+No known source places a cup at the fall of Lucifer and the rebel angels, and a
+search of the forty-seven codices in the Old Hungarian Corpus turned up none at
+the fall either. But stories about the devil
+stealing holy things were told nearby. In a Bulgarian tale, Satanael steals the
+robe, wreath and sceptre made for God. In Romanian carols, Judas steals the
+little jug of wine from paradise.
 
-The Grail cut from Lucifer's crown is no help: that cup was added in 1832.
-Whether the author knew any of these stories is not known.
+The Grail is no help. A thirteenth-century German poem has a stone fall from
+Lucifer's crown, but the cup was added to that story in 1832, by the scholar
+Albert Schulz, who wrote as San Marte. Whether the author knew any of these
+stories is not known.
 
 **Adam healed by the branch has a Hungarian relative.** In the Golden Legend,
 Seth comes back with the branch and finds Adam dead.

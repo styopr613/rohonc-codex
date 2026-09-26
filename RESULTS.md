@@ -593,7 +593,7 @@ generator, one rule each, both calibrated on the training half and neither
 fitted to any metric:
 
 - *The flourish.* Line-final `m` is a flourished `r`, and the training data says
-  so plainly: `dam` ends a line 36 times while `dar` appears 130 times
+  so: `dam` ends a line 36 times while `dar` appears 130 times
   elsewhere; `am` against `ar`, 34 to 155; `okam` against `okar`, 12 to 65. So
   at the end of a line a word ending in `r` is written with `m` instead.
 - *The capital.* At the start of a paragraph a gallows letter is written in

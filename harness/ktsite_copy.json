@@ -29,7 +29,7 @@
  "method_intro": "The method is this project's attempt at reading an undefined sign. It starts from the only outside evidence there is, the source passage Király and Tokai cite for a folio. The method is checkable because every guess is tested at every other occurrence in the book.",
  "method_loop": "The loop that reads one unread sign has six numbered steps.",
  "method_bars": "The bar for every test is declared in the test's own first lines before it runs. It is never moved afterwards. Failed attempts are kept and written up with the number they failed by.",
- "method_mistakes": "The following mistakes cost the most time. They are named plainly.",
+ "method_mistakes": "The following mistakes cost the most time. They are named.",
  "method_code": "The programs themselves are linked below.",
  "tests_intro": "The tests check the project's own readings. They were designed to break the readings. The bar for each test was declared first, before the test ran.\n\nNine tests were designed by the project. Then two frontier models from other labs, Gemini 2.5 Pro and Grok 4.7, were shown the write-up and asked what tests they would require. Those were run as specified.",
  "tests_after": "The passes and failures add up to a checked attempt, not a settled result: checked by the project's own tests and by two models from other labs, not yet by anyone who reads the manuscript independently.",

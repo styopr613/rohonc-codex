@@ -67,3 +67,13 @@ work/rohonc/handSigns.json
 work/rohonc/sitecodes.txt
 work/rohonc/atlas.pre-*/
 work/rohonc/finds/
+
+# THE SITE BUILDER. These publish oona13.com from the owner's server: they carry
+# its paths, its analytics tag and the location of its API keys, and nobody else
+# can run them. They are not evidence for the reading and were never chosen for
+# publication; they went in on 2026-09-21 with the site. The site's copy file,
+# harness/ktsite_copy.json, stays tracked because the atlas gate reads it. Their
+# earlier versions are still in history. They stay on disk.
+harness/ktsite.py
+harness/ktsitecopy.py
+harness/ktglass.py
