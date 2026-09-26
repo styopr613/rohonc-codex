@@ -180,6 +180,18 @@ def translation():
     return retelling(TR)
 
 
+DOI = "10.5281/zenodo.22902166"   # the concept DOI: every version, newest first
+
+
+def edition_line():
+    """The copyright page's edition line: version and date from VERSION, and
+    the DOI a citation of this printing resolves through."""
+    num, date = corpus.version()
+    d = datetime.date.fromisoformat(date)
+    return (f"First edition · version {num} · {d.day} {d:%B %Y} · "
+            f"doi.org/{DOI}")
+
+
 def figures():
     """The counts, read out of the edition's own header. Never retyped.
 
@@ -1127,7 +1139,7 @@ def build():
                        "not sold. The programs and the data behind them are "
                        "MIT and CC BY 4.0 in the repository, so that nobody "
                        "who wants to check this work is restricted at all."),
-            "edition": "First edition",
+            "edition": edition_line(),
         },
         "front": [{"type": "introduction", "pos": 0,
                    "title": "What this book is", "text": front_matter()}],

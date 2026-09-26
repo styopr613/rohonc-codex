@@ -1143,6 +1143,8 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
     # shelf PDF is still built -- it is what goes to KDP -- it is just not
     # served from the site any more, so this reads the shelf copy, not a
     # published one.
+    import corpus
+    version_no = corpus.version()[0]
     pages_note = ""
     try:
         import subprocess
@@ -1170,7 +1172,7 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
     body = f"""
 <div class="hero">
   <div class="blurb">{intro_html}
-    <p class="sz">All {nfolio} folios{pages_note} · the translation and the evidence in one volume.</p>
+    <p class="sz">All {nfolio} folios{pages_note} · the translation and the evidence in one volume · version {version_no}.</p>
   </div>
   <div class="side">
   <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>

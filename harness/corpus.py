@@ -15,6 +15,17 @@ from dataclasses import dataclass, field
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FP = os.path.join(ROOT, "refs", "voynich-fingerprint", "analysis")
+
+
+def version():
+    """(number, date) of the edition, from VERSION at the repository root.
+
+    One file, bumped by /release before the tag, read by the book's copyright
+    page and the site's front page, so the printed version is the tagged one."""
+    num, date = open(os.path.join(ROOT, "VERSION"), encoding="utf-8").read().split()[:2]
+    return num, date
+
+
 if FP not in sys.path:
     sys.path.insert(0, FP)
 
