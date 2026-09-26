@@ -31,6 +31,8 @@
  "5202d2 5203c4":        {"slots": ["commit", "sin"], "kt": "commit a sin, trespass, 006r08"},
  "5202d2 3c4":           {"slots": ["commit", "sin"], "kt": "commit a sin, trespass, 006r08"},
  "933 5203f05203f0":     {"slots": ["poor man of God", "="], "kt": "pious poor (beggar?), 087v11"},
+ "5203f05203f0 933":     {"slots": ["poor man of God", "="], "kt": "the same phrase written blind-then-God, as at 087v11-12 (their own example) and 099r06; added 2026-09-26, reader pass 3, because only the other order was keyed and 087v never printed it"},
+ "690ae0990950 5203f05203f0": {"slots": ["poor in spirit", "="], "kt": "spiritual(ly) [poor], 207r06, 208r07 (Lk 19:8, Mt 5:3); added 2026-09-26, reader pass 3; at 208r the two signs stand either side of a line break, which phrases never cross"},
  "0604f0 670ae0850270ae0": {"slots": ["good deed", "="], "kt": "good deed, 134v06"},
  "0604f0 7b2520ae0520":  {"slots": ["good", "shepherd"], "kt": "good shepherd, 009v11"},
  "3c0 520100":           {"slots": ["give thanks", "="], "kt": "? give thanks or glorify, 021r01"},

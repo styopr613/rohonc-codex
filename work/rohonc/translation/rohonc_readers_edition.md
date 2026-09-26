@@ -789,7 +789,7 @@ words. There are 982 of them now.
 
 ## 028r — the Passover lamb, and the twelfth sign
 
-> And then Mary kiss the Lord Jesus, the Lord's mother, the blessed Virgin Mary; and then Mary was, and from […] kiss Mary's son the Lord Jesus Christ; and from Mary went the Lord Jesus Bethany the apostles in Jerusalem, because the apostles […] Before the Lord went into Jerusalem, where the apostles [were] at supper […] the apostles prepared a lamb, because at that time was the feast of the Jews, the Passover. this is There began the suffering of the Lord Jesus Christ, Son of God; because the Lord is truly the Son of God. And then the Lord, the Jews crucified; and then the Lord, the apostles, the mother; he was laid in the tomb, and […] rose from the dead. And the | twelfth sign the Lord Jesus showed, when rise from pray the Lord and the apostles appear in Jerusalem; and […] the sign the Lord Jesus showed
+> And then Mary kiss the Lord Jesus, the Lord's mother, the blessed Virgin Mary; and then Mary was, and from […] kiss Mary's son the Lord Jesus Christ; and from Mary went the Lord Jesus Bethany the apostles in Jerusalem, because the apostles […] Before the Lord went into Jerusalem, where the apostles [were] at supper […] the apostles prepared a lamb, because at that time was the feast of the Jews, the Passover. this is There began the suffering of the Lord Jesus Christ, Son of God; because the Lord is truly the Son of God. And then the Lord, the Jews crucified; and then the Lord, the apostles, the mother; he was laid in the tomb, and […] rose from the dead. And the | twelfth sign the Lord Jesus showed, when rise from pray the Lord and the apostles appear in Jerusalem; and the thirteenth sign the Lord Jesus showed
 
   1  and then-exist-Mary exist-Lord kiss Lord-Jézus of-Lord mother
   2  happy virgin-Mary and then-exist-Mary exist and from Mary.
@@ -1226,7 +1226,7 @@ words. There are 982 of them now.
 
 ## 042r — four lines
 
-> the people against the Lord [manna]; and the Lord said, the Son of God. And then the false […] said of the Lord, and […] this […] destroy | he would the Lord, that he three all afterward
+> the people against the Lord [manna]; and the Lord said, the Son of God. And then the false […] said of the Lord, and the man, this temple destroy | he would the Lord, that he in three [days] all [would] do
 
   1  people on-Lord [manna] and Lord say son
   2  God and_then ~false °and_then-confess say Lord and
@@ -2560,9 +2560,9 @@ words. There are 982 of them now.
  10  earth [the_sun] and heaven high and God-+SUBJ
  11  this can then-exist want-Lord heaven earth quake
 
-## 087v — the blind of God
+## 087v — the poor man of God
 
-> […] the gospel written by holy Matthew […] of his writing, who is whosoever is an apostle, this from this little the son to afterwards, in Jesus' name, one man is saved, one […] in heaven; in turn the day is not so; every man is damned, judged, the man, by Christ. Holy Matthew speaks [thus] this man says, this little the son, this little the man trespasses, blind to God, and blind to God is the man, and [riches] have the man in turn, this
+> […] the gospel written by holy Matthew […] of his writing, who is whosoever is an apostle, this from this little the son to afterwards, in Jesus' name, one man is saved, one […] in heaven; in turn the day is not so; every man is damned, judged, the man, by Christ. Holy Matthew speaks [thus] this man says, this little the son, this little the man trespasses, the poor man of God, and the poor man of God, the man, and [riches] have the man in turn, this
 
   1  ~before gospel write
   2  holy-Matthew [eighteen]
@@ -2574,8 +2574,8 @@ words. There are 982 of them now.
   8  somebody be_saved one man* inside heaven | in_turn-chapter
   9  ~year-exist ~but everybody = be_damned judge somebody Christ | holy
  10  Matthew speak [thus] this somebody say this little
- 11  son this little somebody trespass blind God and
- 12  blind God somebody and [riches] have somebody in_turn this
+ 11  son this little somebody trespass poor_man_of_God = and
+ 12  poor_man_of_God = somebody and [riches] have somebody in_turn this
 
 ## 088r — the rich man, and the soul in purgatory
 
@@ -2940,7 +2940,7 @@ words. There are 982 of them now.
   3  and Lord ~head heaven and earth
   4  and love of-somebody father son how?-to man^ neighbour
   5  in_turn [hath_this_world's_goods] ~rich man^ have man^ wealth see
-  6  trespass poor_man_of_God^ God and man^ [seeth_not] have God man^
+  6  trespass poor_man_of_God = and man^ [seeth_not] have God man^
   7  SUBJ love-rich-somebody how?-to man^ neighbour exist | of
   8  ~somebody-rich-+one heaven land speak holy-~Matthew and
   9  man^ [a_liar] say this-somebody God love in_turn | of-rich.
@@ -3719,7 +3719,7 @@ words. There are 982 of them now.
 
 ## 125v — driven out, and the flaming sword
 
-> dieth; and he departed from among Adam and Eve the Lord, the Father, the Son, God, the Spirit, from the Father God, Jesus, the angel, the Virgin Mary, Christ, and the apostles, and the Jews, and the man baptized, and all. [he drove out] and all the kingdom of heaven, the Lord, and the Lord's heart, all the earth, and the evil, and the kingdom of heaven; and there went the Lord God, the angel, the second, the earth, and […] fire, the sword, and | the earth; the serpent slid out; into the Garden of Eden he was cast out.
+> dieth; and he departed from among Adam and Eve the Lord, the Father, the Son, God, the Spirit, from the Father God, Jesus, the angel, the Virgin Mary, Christ, and the apostles, and the Jews, and the man baptized, and all. [he drove out] and all the kingdom of heaven, the Lord, and the Lord's heart, all the earth, and the evil, and the kingdom of heaven; and there went the Lord God, the angel, the second, the earth, and […] fire, the sword, and | the earth; Adam slid out; from the Garden of Eden he was cast out.
 
   1  die and become^ among Adam_and_Eve
   2  of-Lord father son God spirit from-father God Jézus angel
@@ -6032,14 +6032,14 @@ words. There are 982 of them now.
 
 ## 207r — the half of my goods I give to the poor
 
-> the Son of God, in turn, with one sinner, from one […] one extortioner; and he left afar | the name of Jerusalem, Zacchaeus; and then Zacchaeus: Master, this Zacchaeus takes the half, the half truly, of Zacchaeus's riches, to God, the spiritually blind, truly the half; in turn he left afar one among you, in turn, Jerusalem […] | take, Jerusalem, one denarius; upon the extortion, Jerusalem would, the man, to every one, two by two, take; and the Lord Jesus saw that he himself was
+> the Son of God, in turn, with one sinner, from one […] one extortioner; and he left afar | the name of Jerusalem, Zacchaeus; and then Zacchaeus: Master, this Zacchaeus takes the half, the half truly, of Zacchaeus's riches, to God, the poor in spirit, truly the half; in turn he left afar one among you, in turn, Jerusalem […] | take, Jerusalem, one denarius; upon the extortion, Jerusalem would, the man, to every one, two by two, take; and the Lord Jesus saw that he himself was
 
   1  son God in_turn one sinner^ from-one
   2  extorter* one extort and stand^ far | name-Jerusalem
   3  Zacchaeus and_then Zacchaeus
   4  Master this-Zacchaeus half grab
   5  half-righteous of-Zacchaeus ~rich God
-  6  spiritually blind righteous-half in_turn stand^ far one
+  6  poor_in_spirit = righteous-half in_turn stand^ far one
   7  among you in_turn-chapter-Jerusalem [half_my_goods] | grab
   8  chapter-Jerusalem one denarius on-extort want-chapter-Jerusalem man^
   9  to-every two-two grab and see Lord-Jézus he_is*
@@ -6060,7 +6060,7 @@ words. There are 982 of them now.
 
 ## 208r — what Zacchaeus signifies
 
-> with all thy heart. This Zacchaeus is every chief among sinners, and every tax collector, and every man who takes from the sinner, in mercy, the Lord God; and every sinful man, and the sinner in love, the Lord God; and every sinful man truly, and the sinner in truth, the Lord God, that is; and the sinner bears the law of God — this is truly the law of the Lord God; and this Zacchaeus is mercy, God, the spiritually blind; and this Zacchaeus loves the Lord God most high, all creation, and every man, as a man his neighbour; and this Zacchaeus is in the truth, the law of the Lord God, that is, | bearing
+> with all thy heart. This Zacchaeus is every chief among sinners, and every tax collector, and every man who takes from the sinner, in mercy, the Lord God; and every sinful man, and the sinner in love, the Lord God; and every sinful man truly, and the sinner in truth, the Lord God, that is; and the sinner bears the law of God — this is truly the law of the Lord God; and this Zacchaeus is mercy to God's poor in spirit; and this Zacchaeus loves the Lord God most high, all creation, and every man, as a man his neighbour; and this Zacchaeus is in the truth, the law of the Lord God, that is, | bearing
 
   1  be_loved this Zacchaeus exist every sin-somebody head
   2  and every publican and everybody = from-grab somebody-sin inside have_mercy.

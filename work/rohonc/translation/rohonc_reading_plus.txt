@@ -2197,8 +2197,8 @@ declared variant spellings (3.8%), 5373 have no reading (17.9%).  Lines with eve
  8  somebody +be_saved one ?man inside heaven | in_turn-chapter
  9  ~year-exist ~but everybody = be_damned judge somebody Christ | holy
 10  Matthew speak °thus this somebody say this +little
-11  son this +little somebody trespass blind God and
-12  blind God somebody and °riches +have somebody in_turn this
+11  son this +little somebody trespass poor_man_of_God = and
+12  poor_man_of_God = somebody and °riches +have somebody in_turn this
 
 
 === 088r ===
@@ -2517,7 +2517,7 @@ declared variant spellings (3.8%), 5373 have no reading (17.9%).  Lines with eve
  3  and Lord ~head +heaven and earth
  4  and love of-somebody father son how?-to somebody +neighbour
  5  in_turn °hath_this_world's_goods ~rich somebody have somebody wealth see
- 6  trespass blind God and somebody °seeth_not have God somebody
+ 6  trespass poor_man_of_God = and somebody °seeth_not have God somebody
  7  +SUBJ love-rich-somebody how?-to somebody +neighbour exist | of
  8  ~somebody-rich-+one heaven land speak holy-~Matthew and
  9  somebody °a_liar say this-somebody God love in_turn | of-rich.
@@ -5184,7 +5184,7 @@ declared variant spellings (3.8%), 5373 have no reading (17.9%).  Lines with eve
  3  +Zacchaeus +and_then Zacchaeus
  4  Master this-Zacchaeus half grab
  5  half-righteous of-Zacchaeus ~rich God
- 6  +spiritually blind righteous-half in_turn leave far one
+ 6  poor_in_spirit = righteous-half in_turn leave far one
  7  among you in_turn-chapter-Jerusalem °half_my_goods | grab
  8  chapter-Jerusalem one denarius on-extort want-chapter-Jerusalem somebody
  9  to-every two-two grab and see Lord-Jézus ?he_is

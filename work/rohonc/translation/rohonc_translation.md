@@ -1846,7 +1846,7 @@ Family stayed twelve years in Egypt.
 **11**  sign the Lord Jesus showed, when rise
 `six can show Lord-Jézus then-exist [?]`
 
-**12**  from pray the Lord and the apostles appear in Jerusalem; and […] the sign the Lord Jesus showed
+**12**  from pray the Lord and the apostles appear in Jerusalem; and the thirteenth sign the Lord Jesus showed
 `from [?] Lord and apostle [?] inside Jerusalem and [?] can show Lord-Jézus`
 
 ## 028v — the Ascension
@@ -2946,11 +2946,17 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **2**  of God. And then the false […] said of the Lord, and
 `God +and_then ~false [?] say Lord and`
 
-**3**  […] this […] destroy | he would
+**3**  the man, this temple destroy | he would
 `[?] this exist-chapter destroy | want`
 
-**4**  the Lord, that he three all afterward
+**4**  the Lord, that he in three [days] all [would] do
 `Lord this-Lord food [?] each,_every [?]`
+
+> Matthew 26:61, the false witnesses: *This man said, I am able to destroy the
+> temple of God, and after three days to rebuild it.* Király & Tokai read
+> *false testimony* at line 2, *temple* and *will* at line 3, and *in three
+> days* at line 4. Corrected 2026-09-26: the earlier printing left the temple
+> unread, and Book One turned the charge into a promise that he would rise.
 
 ## 042v — Herod questions him
 
@@ -6094,7 +6100,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 
 > The torch figure carried through to the Nativity and the cross.
 
-## 087v — the blind of God
+## 087v — the poor man of God
 
 **1**  […] the gospel written
 `~exist-chapter gospel write`
@@ -6126,14 +6132,16 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **10**  Matthew speaks [thus] this man says, this little
 `Matthew speak [?] this somebody say this [?]`
 
-**11**  the son, this little the man trespasses, blind to God, and
+**11**  the son, this little the man trespasses, the poor man of God, and
 `son this [?] somebody trespass blind God and`
 
-**12**  blind to God is the man, and [riches] have the man in turn, this
+**12**  the poor man of God, the man, and [riches] have the man in turn, this
 `blind God somebody and [?] [?] somebody in_turn this`
 
-> A sermon on the man who is blind to God, leading into the rich man of the
-> next folio.
+> A sermon on sinning against a little one, the poor man of God, leading into
+> the rich man of the next folio. *Poor man of God* is Király & Tokai's set
+> phrase, and 087v11 is the line they cite for it. Corrected 2026-09-26: the
+> earlier printing read the two signs one by one, as *blind to God*.
 
 ## 088r — the rich man, and the soul in purgatory
 
@@ -8967,11 +8975,14 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **7**  […] fire, the sword, and | the earth;
 `[?] fire +sword and | ~earth`
 
-**8**  the serpent slid out; into the Garden of Eden he was cast out.
+**8**  Adam slid out; from the Garden of Eden he was cast out.
 `slide out(ward) on-inside Garden_of_Eden exorcise`
 
 > Genesis 3:24, the flaming sword. *Sword* is Király & Tokai's, in a
-> spelling their entry cites at this line and the next page's.
+> spelling their entry cites at this line and the next page's. The sign
+> before *slid out* on line 7 is a long spelling of Adam's name; the same
+> words stand at 126r06 with Adam written plainly (*Adam ... slid out, cast
+> out*). Corrected 2026-09-26: the earlier printing had the serpent here.
 
 ## 126r — the cherub at the gate, and the third saying
 
@@ -14521,7 +14532,7 @@ in Király & Tokai's dictionary, so the person is not named here.
 **5**  the half truly, of Zacchaeus's riches, to God,
 `half-righteous(ly) <of>-Zacchaeus ~rich God`
 
-**6**  the spiritually blind, truly the half; in turn he left afar one
+**6**  the poor in spirit, truly the half; in turn he left afar one
 `spiritually blind righteous(ly)-half in_turn leave far one`
 
 **7**  among you, in turn, Jerusalem […] | take,
@@ -14537,6 +14548,9 @@ in Király & Tokai's dictionary, so the person is not named here.
 > and if I have wronged any man of any thing, I restore him fourfold.* The
 > half, the wronging, and the restoring are all here, and the restitution is
 > reckoned in denarii, which is the codex's own money.
+> Line 6 is Király & Tokai's *spiritual(ly) [poor]*, which they cite here and
+> at 208r07. Corrected 2026-09-26: the earlier printing read it *spiritually
+> blind*.
 
 ## 207v — this day is salvation come to this house
 
@@ -14589,10 +14603,10 @@ in Király & Tokai's dictionary, so the person is not named here.
 **5**  and the sinner bears the law of God — this is truly the law of the Lord God;
 `and somebody-sin carry law God this_is righteous(ly) law Lord-<divine>`
 
-**6**  and this Zacchaeus is mercy, God, the spiritually
+**6**  and this Zacchaeus is mercy to God's poor in
 `and this Zacchaeus exist have_mercy God spiritually`
 
-**7**  blind; and this Zacchaeus loves the Lord God most high, all creation,
+**7**  spirit; and this Zacchaeus loves the Lord God most high, all creation,
 `blind and this Zacchaeus love Lord-<divine> high each,_every create`
 
 **8**  and every man, as a man his neighbour; and this

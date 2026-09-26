@@ -734,11 +734,11 @@
 ]
 },
 "042r": {
-"english": "The people [manna] on the Lord, and the Lord says, \"Son of God,\" and then false, and then confess, says the Lord, and this man* exists. The chapter destroys. | The Lord wants this Lord, in three days, each, afterward*.",
+"english": "The people [manna] on the Lord, and the Lord says, \"Son of God,\" and then false, and then confess, says the Lord, and this man* [says]: this temple destroy | he will, the Lord, in three days, all [do].",
 "leaks": [
-"afterwar"
+"templ"
 ],
-"corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
+"corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. 2026-09-26: line 3 is 'temple' and 'will', line 4 'in three days' (Kiraly & Tokai, Mt 26:61); the earlier English left the temple unread."
 },
 "042v": {
 "english": "Herod confessed this to David. Herod said, “Lord Herod mocked God, this Lord’s son,” and one said, “Speak against the Lord Jesus and Herod.” Herod mocked, Herod derided this Herod, king, this Herod. This Lord could condemn this Herod to die in a white garment. This Lord sent Herod back to say, say again to Herod, this Lord said to the living God, one said Herod mocked God, this Lord’s son, and the Lord was not named. The Lord’s father believed, and then the Lord Jesus to Herod ... this Lord, the righteous son of the living God, said, “Lord Jesus, this Lord go to the Lord’s father on ... judge the living and the dead, and do it.” Herod carried a stone inside.",
@@ -1399,11 +1399,14 @@
 "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
 },
 "087v": {
-"english": "The gospel according to Matthew, chapter eighteen, was written by the apostle. Afterward, inside Jesus, one little son is saved, and one man is in heaven. In turn, each day somebody is damned, and Christ judges somebody. Holy Matthew speaks thus: somebody says this little son, this little somebody, trespasses blind God, and blind God somebody, and somebody has riches in turn.",
+"english": "The gospel according to Matthew, chapter eighteen, was written by the apostle. Afterward, inside Jesus, one little son is saved, and one man is in heaven. In turn, each day somebody is damned, and Christ judges somebody. Holy Matthew speaks thus: somebody says this little son, this little somebody, trespasses against the poor man of God, and the poor man of God, somebody, and somebody has riches in turn.",
 "leaks": [
 "accor",
-"jesu"
-]
+"afterwar",
+"day",
+"poor"
+],
+"corrected": "2026-09-26: 'blind God' is Kiraly & Tokai's set phrase 'poor man of God' (they cite 087v11); the earlier English read the two signs one by one."
 },
 "088v": {
 "english": "The holy gospel begins. Holy Luke writes inside the sixth chapter. At the time the Lord Jesus said to the Lord’s apostle and the Jewish people, a chapter exists about a rich man. There was one rich somebody, and a certain rich man went in linen and purple every day, and the rich man went in joy from day to day, and so it went. One Lazarus came to this rich man’s house, and Lazarus was covered with wounds from head to toe every day. At the time this rich man sat at the table, the rich man, the husband, fared sumptuously, a king-lord in purple, who and this husband, and then the rich man existed, this poor man asked.",
@@ -3269,10 +3272,11 @@
 "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
 },
 "207r": {
-"english": "Son of God, in turn, one sinner from one extorter* extorts and stands far. The name is Jerusalem. Zacchaeus, and then Zacchaeus: Master, this Zacchaeus grabs half. Half-righteously, of Zacchaeus, rich God. Spiritually blind, righteously half, in turn, stands far. One among you, in turn, chapter Jerusalem, half my goods, grabs. Chapter Jerusalem, one denarius on extort, want chapter Jerusalem man. To each, every two-two, grab and see Lord Jesus. He is.",
+"english": "Son of God, in turn, one sinner from one extorter* extorts and stands far. The name is Jerusalem. Zacchaeus, and then Zacchaeus: Master, this Zacchaeus grabs half. Half-righteously, of Zacchaeus, rich God. The poor in spirit, righteously half, in turn, stands far. One among you, in turn, chapter Jerusalem, half my goods, grabs. Chapter Jerusalem, one denarius on extort, want chapter Jerusalem man. To each, every two-two, grab and see Lord Jesus. He is.",
 "leaks": [
-"jesu"
-]
+"poor"
+],
+"corrected": "2026-09-26: Kiraly & Tokai read line 6 'spiritual(ly) [poor]'; the earlier English had 'spiritually blind'."
 },
 "207v": {
 "english": "Zacchaeus, righteous son of father Abraham, and then the Lord Jesus: Zacchaeus has a name today inside Zacchaeus’s house, because the Lord is to be saved. This Lord, righteous son of the living God, and then the Lord Jesus, the high priest, grabs the commandment. Zacchaeus therefore, Lord, to this Lord: go, Lord, on this world. Who exists, this Lord, from sin fourfold? Lord, this Lord goes. Who exists, this Lord, loves sin, and the Lord, a sinful man, and this day of the Lord is saved. Somebody sins, and the Lord is God-fearing, and gives thanks. Somebody. Here ends this holy gospel of the Lord.",
@@ -3285,15 +3289,16 @@
 "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
 },
 "208r": {
-"english": "With all thy heart this Zacchaeus exists, have mercy on every sinful head and every tax collector and everybody who grabs somebody’s sin inside. Lord, love every sinful somebody and somebody’s sin inside, and every sinful somebody righteously, and somebody’s sin inside righteously. Lord, that is, and somebody carries the law of God; this is the righteous law of the Lord, and this Zacchaeus exists, have mercy on God spiritually blind, and this Zacchaeus loves the Lord high, every created thing, and everybody how to somebody neighbour, and this. Zacchaeus exists inside the righteous law of the Lord, that is | carry.",
+"english": "With all thy heart this Zacchaeus exists, have mercy on every sinful head and every tax collector and everybody who grabs somebody’s sin inside. Lord, love every sinful somebody and somebody’s sin inside, and every sinful somebody righteously, and somebody’s sin inside righteously. Lord, that is, and somebody carries the law of God; this is the righteous law of the Lord, and this Zacchaeus exists, have mercy on God's poor in spirit, and this Zacchaeus loves the Lord high, every created thing, and everybody how to somebody neighbour, and this. Zacchaeus exists inside the righteous law of the Lord, that is | carry.",
 "leaks": [
 "collector",
 "heart",
+"poor",
 "sinful",
 "tax",
 "thing"
 ],
-"corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign."
+"corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. 2026-09-26: Kiraly & Tokai read line 7 'spiritual(ly) [poor]'; the earlier English had 'spiritually blind'."
 },
 "208v": {
 "english": "The commandment of God, he who exists, takes inside the Old Testament word from father Abraham. First, God's commandment: believe somebody righteous. [?]-[?]-baptize one God, be saved somebody to many. Not not-not of somebody, the subject marker, heaven, land, the rest, law exists, takes inside the Old Testament word from father Abraham. God's name in vain grab three law exists, takes inside the Old Testament word from father Abraham. Shall somebody righteous [?]-[?]-baptize holy Sunday and feast holy this somebody from mother temple preach, hear somebody of [?].",
