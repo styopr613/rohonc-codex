@@ -234,24 +234,21 @@ table.tests tr.cap+tr.cap td{padding-top:2px}
 .hero .bk{margin:0}
 .hero .bk img{width:100%;height:auto;display:block;filter:drop-shadow(0 16px 26px rgba(0,0,0,.32))}
 .book-peek{display:block;width:100%;padding:0;border:0;background:transparent;color:var(--rub);font:inherit;cursor:pointer}
-.book-peek img{transition:transform .18s ease,filter .18s ease}
-.book-peek:hover img{transform:translateY(-3px);filter:drop-shadow(0 19px 28px rgba(0,0,0,.38))}
+.book-peek .flip{transition:transform .18s ease}
+.book-peek:hover .flip{transform:translateY(-3px)}
 .book-peek:focus-visible{outline:2px solid var(--rub);outline-offset:8px;border-radius:2px}
 .book-peek-note{display:block;margin:.8em 0 0;text-align:center;font-size:14px;font-style:italic;color:var(--soft)}
-.book-modal{width:min(620px,calc(100vw - 40px));max-height:calc(100vh - 40px);max-height:calc(100dvh - 40px);box-sizing:border-box;overflow:auto;padding:38px 42px 32px;border:1px solid var(--line);border-radius:4px;background:var(--paper);color:var(--ink);box-shadow:0 20px 70px rgba(0,0,0,.65)}
-.book-modal::backdrop{background:rgba(5,6,8,.78)}
-.book-modal h2{margin:0 35px .8em 0}
-.book-modal p{font-size:18px;line-height:1.5}
-.book-modal .modal-close{position:absolute;top:13px;right:15px;width:34px;height:34px;padding:0;border:0;background:transparent;color:var(--soft);font:28px/1 Georgia,serif;cursor:pointer}
-.book-modal .modal-close:hover,.book-modal .modal-close:focus{color:var(--rub)}
-/* The close button rides a zero-height sticky strip at the top of the dialog, so it is
-   in reach however far the text has scrolled; dvh sizes the dialog to the screen actually
-   visible, where 100vh on an iPhone is the height with the browser bars hidden and put the
-   top of a tall dialog, and its x, under the address bar. (2026-09-25) */
-.book-modal form[method=dialog]{position:sticky;top:0;height:0;z-index:2}
-.book-modal .modal-close{top:-25px;right:-27px}
-.book-modal .acts{margin-bottom:0}
-body:has(.book-modal[open]){overflow:hidden}
+.book-peek .flip{display:grid;perspective:1400px}
+.book-peek .flip img{grid-area:1/1;width:100%;height:auto;align-self:center;backface-visibility:hidden;transition:transform .6s ease}
+.book-peek .f-back{transform:rotateY(180deg);border-radius:3px 7px 7px 3px}
+.book-peek[aria-pressed=true] .f-front{transform:rotateY(-180deg)}
+.book-peek[aria-pressed=true] .f-back{transform:rotateY(0deg)}
+/* Turned over, the back is picked up to reading size: it grows leftward over the
+   prose on a desktop and to the full width on a phone, and goes back when turned again. */
+.book-peek{--bw:min(540px,calc(100vw - 32px))}
+.book-peek[aria-pressed=true] .flip{position:relative;z-index:5;width:var(--bw);margin-left:calc(100% - var(--bw))}
+.book-peek[aria-pressed=true] .book-peek-note{position:relative;z-index:5}
+@media(prefers-reduced-motion:reduce){.book-peek .flip img{transition:none}}
 /* THE DOOR TO THE READER IS A BUTTON. This rule was scoped to .hero, so the same
    markup on the Read page -- the one page whose whole job is to open the book --
    printed as two plain underlined links with a space between them: "Open the book
@@ -414,8 +411,8 @@ table.dict tr.open td.ev .full{display:inline}
 table.dict tr.open td.ev .short,table.dict tr.open td.ev .more{display:none}
 .tiers{font-size:16.5px;background:var(--paper2);padding:12px 16px;border-radius:3px}
 .tiers b{font-family:Cinzel,serif;font-weight:400;color:var(--rub)}
-@media(max-width:860px){.hero{grid-template-columns:1fr;gap:20px}.hero .side{max-width:240px;width:100%;margin:0 auto;order:-1}.hero .bk{max-width:220px;margin:0 auto}.strip{margin-left:-20px;margin-right:-20px}}
-@media(max-width:700px){body{font-size:17.5px}main.sheet{margin:14px 10px 40px;padding:26px 20px 34px}header.rh .mark{font-size:22px}nav.sub a{margin:0 6px 6px}.prose h1{font-size:24px}.book-modal{padding:32px 24px 26px}.book-modal .modal-close{top:-22px;right:-14px;width:44px;height:44px}.tools .n{margin-left:0}}
+@media(max-width:860px){.hero{grid-template-columns:1fr;gap:20px}.hero .side{max-width:240px;width:100%;margin:0 auto;order:-1}.hero .bk{max-width:220px;margin:0 auto}.book-peek[aria-pressed=true] .flip{margin-left:calc((100% - var(--bw))/2)}.strip{margin-left:-20px;margin-right:-20px}}
+@media(max-width:700px){body{font-size:17.5px}main.sheet{margin:14px 10px 40px;padding:26px 20px 34px}header.rh .mark{font-size:22px}nav.sub a{margin:0 6px 6px}.prose h1{font-size:24px}.tools .n{margin-left:0}}
 """
 
 
@@ -1177,34 +1174,21 @@ def page_index(fig, summary, ktn, newpara, tiers, nfolio, sg, rows, pl):
   <div class="side">
   <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a>
     <a href="/rohonc/book/the-rohonc-codex.epub" download>EPUB</a></div>
-  <figure class="bk"><button class="book-peek" id="book-peek" type="button" aria-haspopup="dialog" aria-controls="book-blurb">
-    <img src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the book" width="576" height="900">
+  <figure class="bk"><button class="book-peek" id="book-peek" type="button" aria-pressed="false">
+    <span class="flip"><img class="f-front" src="/rohonc/img/book3d.png" alt="The Rohonc Codex, the book" width="576" height="900"><img class="f-back" src="/rohonc/img/spin-back.webp?v={_v('spin-back.webp')}" alt="The back of the book: {html.escape(re.sub(r'<[^>]+>', ' ', cover_blurb).strip(), quote=True)}" width="600" height="900"></span>
     <span class="book-peek-note">Turn it over</span>
   </button></figure>
   </div>
 </div>
-<dialog class="book-modal" id="book-blurb" aria-labelledby="book-blurb-title">
-  <form method="dialog"><button class="modal-close" aria-label="Close" value="close">×</button></form>
-  <h2 id="book-blurb-title">The back of the book</h2>
-  {cover_blurb}
-  <div class="acts"><a class="go" href="/read/rohonc.php">Read it here</a></div>
-</dialog>
 <script>
 (function(){{
-  var opener=document.getElementById('book-peek');
-  var dialog=document.getElementById('book-blurb');
-  if(!opener||!dialog) return;
-  opener.addEventListener('click',function(){{
-    if(typeof dialog.showModal==='function') dialog.showModal();
-    else dialog.setAttribute('open','');
-  }});
-  dialog.addEventListener('click',function(e){{
-    if(e.target!==dialog) return;
-    if(typeof dialog.close==='function') dialog.close();
-    else dialog.removeAttribute('open');
-  }});
-  dialog.querySelector('.modal-close').addEventListener('click',function(){{
-    if(typeof dialog.close!=='function') dialog.removeAttribute('open');
+  var b=document.getElementById('book-peek');
+  if(!b) return;
+  var note=b.querySelector('.book-peek-note');
+  b.addEventListener('click',function(){{
+    var on=b.getAttribute('aria-pressed')!=='true';
+    b.setAttribute('aria-pressed',on?'true':'false');
+    note.textContent=on?'Turn it back':'Turn it over';
   }});
 }})();
 </script>
