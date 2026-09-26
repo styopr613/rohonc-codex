@@ -31,11 +31,13 @@ Matthew 3:13 and Mark 1:9, and has John preach there at 116v; Carmelite
 tradition makes John the heir of Elijah's hermits on Carmel.
 source: 004v:1, 008v:6, 132v, 133v, 024r, 116v:8, 189r:6, 195r; 2 Enoch 22-23; Apocalypse of Elijah 1:1, 4:7-19; Kalmany, Vilagunk alakulasai (Szeged 1893) 11, 28-29; Balint, Nepi kozmogonia, MFME 1978/79-2, 430-432; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18; Catholic Encyclopedia, "The Carmelite Order"
 
-## anchor: the distinguishing episode of the apocryphal *Life of Adam and Eve*
+## anchor: the angels bow before Adam is made
 
-God ordering the angels to bow to Adam, and one refusing, is not in Genesis.
-It is in the Latin *Life of Adam and Eve*, chapters 12 to 16, where Satan says
-he will not worship one made after him and is cast out for it.
+In the Latin *Life of Adam and Eve*, chapters 12 to 16, the angels are told to
+worship Adam after he is made, and Satan refuses. Here the angels bow on 002r
+and Adam is made on 002v, after it, and the signs have Lucifer bow; that he
+refused is supplied. An earlier printing of this note said the book told the
+*Vita*'s episode, which was wrong.
 source: *Vita Adae et Evae* 12–16; the folios are 002r, 004v
 
 ## anchor: «bone bone, in turn two soul one»

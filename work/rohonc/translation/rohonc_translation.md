@@ -30,9 +30,10 @@ The opening is not a gospel. Folios 004v through 001v tell the **Life of Adam
 and Eve**: the fall of Lucifer, the creation of Adam, the breath of life,
 Paradise, the rib, Eve, the serpent, the fruit, the shame, and God walking in
 the garden asking where Adam is. That is the apocryphal *Vita Adae et Evae*,
-not Genesis, because the distinguishing episode is there — God commands the
-angels to bow to Adam and Lucifer refuses, which is in the *Vita* and not in
-Genesis.
+not Genesis. An earlier version said the distinguishing episode was here, God
+commanding the angels to bow to Adam and Lucifer refusing; that was wrong. The
+bowing on 002r comes before Adam is made on 002v, at the birth of the mother of
+the Lord God, and the gloss has Lucifer bow, with the refusal supplied.
 
 It is framed as a revelation. The angel of God speaks to **Elijah the
 prophet**, and Elijah is addressed by name at the start of sections. Chapter
@@ -213,9 +214,12 @@ rather than smoothing it, because it is the shape of the page.
 **14**  God the Father, the Holy Spirit — how man knows the image of the Father.
 `from-father-<divine> holy-spirit on-how? somebody shape,_form know father`
 
-> The distinguishing episode of the *Life of Adam and Eve* is on this page:
-> the angels are commanded to bow, all of them do, and Lucifer will not. It is
-> not in Genesis.
+> The angels bow on this page, and Lucifer is sent away by the Father's
+> command. Adam is not made until 002v, so this is not the *Life of Adam and
+> Eve*'s command to bow to Adam; it opens with the birth of the mother of the
+> Lord God. The signs say Lucifer bowed (lines 7, 10); *would not* and
+> *refused* are supplied. An earlier note here called it the distinguishing
+> episode of the *Life of Adam and Eve*, which was wrong.
 
 ## 002v — the Trinity, and the making of Adam
 

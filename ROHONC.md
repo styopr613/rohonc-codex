@@ -1167,8 +1167,13 @@ breaking of bread.
 The content was not what this project assumed. It is not a gospel harmony.
 
 The opening is the **Life of Adam and Eve**, the apocryphal one and not
-Genesis, because the episode that distinguishes it is there: God commands the
-angels to bow to Adam, and Lucifer refuses and falls. Then the expulsion, the
+Genesis: Seth's journey for the oil of mercy is there, and so is Michael. It
+begins with the fall of Lucifer, and the bowing on 002r comes before Adam is
+made on 002v, at the birth of the mother of the Lord God. So it is not the
+*Vita*'s command to bow to Adam, and the gloss has Lucifer bow; that he refused
+is supplied in brackets. An earlier version of this paragraph said the angels
+were commanded to bow to Adam and Lucifer refused, as the episode that
+identified the source; that was wrong. Then the expulsion, the
 flaming sword, Cain, Abel and Seth, Adam going blind, and Seth's journey back
 to Paradise for the branch, which is the Legend of the Rood. Then Noah, then
 Abraham and Isaac with the ram in the thicket. Then Joachim and Anne, the

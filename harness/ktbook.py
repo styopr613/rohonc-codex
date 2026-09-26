@@ -75,8 +75,9 @@ EN = os.path.join(corpus.ROOT, "work", "rohonc", "translation",
 PARTS = [
     ("004v", "I. The Fall of Lucifer, and the Life of Adam and Eve",
      "The book does not open with a gospel. It opens with the apocryphal "
-     "Life of Adam and Eve, and the episode that identifies it is here: God "
-     "commands the angels to bow to Adam, and Lucifer refuses."),
+     "Life of Adam and Eve. It begins with the fall of Lucifer: the mother of "
+     "the Lord God is announced, the angels bow, and Lucifer is sent from the "
+     "throne, all before Adam is made."),
     ("008r", "II. From the Flood to the House of David",
      "Noah, Abraham and Isaac, and the count of the years down to David."),
     ("016r", "III. Joachim and Anne, and the Birth of Christ",

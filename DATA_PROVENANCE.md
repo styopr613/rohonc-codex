@@ -108,8 +108,8 @@ Two gaps were filled.
 Apocrypha and Pseudepigrapha of the Old Testament in English*, vol. 2 (Oxford,
 1913), from the Internet Archive scan `apocryphapseudep02charuoft`. Published
 1913 and out of copyright. The *Vita Adae et Evae* in it is the source of the
-codex's whole opening -- Satan refusing to worship Adam, Michael, Seth at the
-gates of Paradise for the oil of mercy -- and nothing in the corpus had covered
+codex's opening -- Michael, the making of Adam, Seth at the gates of Paradise
+for the oil of mercy -- and nothing in the corpus had covered
 it. Only the Books of Adam and Eve are indexed: four fifths of that volume is
 critical apparatus whose dense rare vocabulary outscored every real parallel.
 
