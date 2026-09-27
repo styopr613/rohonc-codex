@@ -18,7 +18,7 @@ check that attempt.
 * **ChatGPT** (OpenAI) — coding, testing
 * **Gemini 2.5 Pro** (Google) — testing readings; reply in `work/rohonc/outside/`
 * **Grok 4.7** (xAI) — testing readings; reply in `work/rohonc/outside/`
-* **DeepSeek V4 Pro** (DeepSeek) — testing readings
+* **DeepSeek V4 Pro** (DeepSeek) — English translation, testing readings
 * **Seedream 5.0 Pro** (ByteDance) — illustration
 
 ## Start here
