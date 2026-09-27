@@ -11,31 +11,15 @@ check that attempt.
 
 **It has not been peer reviewed. It is published so that it can be examined.**
 
-## This was done with AI, under an editor
+## Frontier models used
 
-Named once, here, so that nobody has to work it out from the commit log. The
-editor is a person; every decision below was his.
-
-* **Claude Opus** did most of the work: proposed readings for the signs Király
-  and Tokai leave undefined, checked each against every other place the sign
-  occurs, assembled the gloss, wrote the tests and the programs, and composed
-  the English.
-* **Claude Fable** wrote the original plan and the prior-work survey that
-  decided the scope, before any of the code existed.
-* **ChatGPT** made every result-bearing test repeatable — `harness/reproduce_tests.py`,
-  which replays each saved run under two hash seeds and demands byte-for-byte
-  agreement — and did the factual audit of the atlas plates.
-* **Gemini 2.5 Pro** and **Grok 4.7** were the outside reviewers. They were
-  shown the write-up and asked what a sceptic would still demand; the tests
-  they specified were then run as specified, including the ones this project
-  failed. Their replies are quoted whole in `work/rohonc/outside/`.
-* **DeepSeek V4 Pro** was the blind reader in Test 14: handed pages in Király
-  and Tokai's words only, twenty of them deliberately paired with the wrong
-  passage, and asked to fill the gaps. It filled 69 on the real pages and 0 on
-  the rotated ones.
-
-That a model proposed a reading is not evidence the reading is right, which is
-what [`TESTS.md`](TESTS.md) is for.
+* **Claude Opus** (Anthropic) — coding, proposed readings, language assembly
+* **Claude Fable** (Anthropic) — planning and research
+* **ChatGPT** (OpenAI) — coding, testing
+* **Gemini 2.5 Pro** (Google) — testing readings; reply in `work/rohonc/outside/`
+* **Grok 4.7** (xAI) — testing readings; reply in `work/rohonc/outside/`
+* **DeepSeek V4 Pro** (DeepSeek) — testing readings
+* **Seedream 5.0 Pro** (ByteDance) — illustration
 
 ## Start here
 

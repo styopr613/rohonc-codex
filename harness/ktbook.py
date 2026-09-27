@@ -358,10 +358,9 @@ beyond the foundation it was built on. What has not existed before is the
 whole manuscript, end to end, in a modern language, with every word marked
 for how well it is known, and that is what this edition attempts.
 
-**It was made with AI, under an editor.** Four signs in ten had no meaning in
+**It was made with AI.** Four signs in ten had no meaning in
 the dictionary. Anthropic's Claude proposed readings for the remaining signs,
-using Király and Tokai's dictionary as a foundation; the editor decided what
-stood. Different
+using Király and Tokai's dictionary as a foundation. Different
 models assembled the gloss and composed the translation. Every
 figure in this book comes from a program that can be rerun, and where any of
 this went wrong it is written down with the number it went wrong by.
