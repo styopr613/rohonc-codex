@@ -1,4 +1,13 @@
-"""Print Király and Tokai's word where their own dictionary names it for a line.
+"""Find the lines where Király and Tokai's dictionary names a word for a sign.
+
+A PROPOSER, NOT A RULE (2026-09-28, the same day). Run over the whole book as
+a rule, this printed the wrong sense in enough places that every candidate was
+then decided by hand instead; the decisions are glossfix.json, applied by
+ktglossfix.py, and that is what the reader's edition and the site print.
+Nothing imports word_for() now. It is kept so the next dictionary change can
+be proofed the same way: run it, compare with glossfix.json, decide by hand.
+The rules below describe how it proposes, and the account of what went wrong
+with each is kept.
 
 WHY. On 2026-09-28 the gloss was proofed against the dictionary before a
 reader pass, because the gloss is the evidence a reader pass checks Book One
@@ -55,6 +64,24 @@ THE RULES, DECLARED BEFORE THE FIRST RUN.
      override where the gloss already prints ANY sense of the citing entry
      (their "tie (up) / bind" cited under "bind" leaves "tie up" alone).
      This rule changes nothing that is wrong; it stops churn.
+     WIDENING WITHDRAWN 2026-09-28, on the owner's word-by-word read: where
+     they name a sense for a line ("faithful" 002r04, "immediately" and
+     "bright" 006r01-10), the general sense of the same entry is not "their
+     word already", it is the wrong sense. F compares the cited word only.
+
+  AMENDMENTS ON THE WORD-BY-WORD READ, 2026-09-28, each from a case:
+  I. A spelling given as an example ("<e. g.> {644} 017v12") illustrates
+     the lemma BEFORE it (017v12 "get conceived", not the next "create";
+     058v01 "church father", not the next "scribe").
+  J. A "?" or "??" written before a lemma marks that sense uncertain for
+     every reference under it (222v05 "?? week"), so rule H applies.
+  K. An expression's English may stand past a marker in the next piece of
+     the entry ("{a10670371b47} 183v02 <?> against each other").
+  L. Which lemma a spelling written after a lemma belongs to: if a new sense
+     letter ("c)", "II.") or a "[var." bracket stands between, the lemma that
+     follows ("c) [<var.> {990990990} 034r07] be afraid"); otherwise the
+     lemma before ("than ... <similarly> {991ae0} 032v02"). Rule B' had
+     sent every such spelling forward.
 
   AMENDMENTS BEFORE THE THIRD RUN, after reading every change the second
   made (595 tokens, 316 kinds):
@@ -127,6 +154,8 @@ def _frags(e):
         elif s == "lemma":
             if t.strip():
                 out.append(("lemma", t.strip()))
+        elif s == "section":
+            out.append(("sect", t.strip()))
         elif s is None:
             out.append(("text", t))
     return out
@@ -163,11 +192,16 @@ def build():
         lem_at = sorted(grp)
         lemmas = tuple(t for k, t in fr if k == "lemma")
         cur, multi, mark = hx(e["code"]), False, None
-        code_at, recent, code_eng, list_eng = -1, [], None, None
+        code_at, recent, code_eng, list_eng, lem_unc = -1, [], None, None, set()
+        example = False
         for i, (k, t) in enumerate(fr):
             if k == "code":
                 if t:
                     cur, multi, code_at, code_eng = hx(t), len(t.split()) > 1, i, None
+                    # rule I: the marker straight before the spelling says
+                    # whether it is an example
+                    pm = [x for x in fr[max(0, i - 3):i] if x[0] != "text" or x[1].strip()]
+                    example = bool(pm) and pm[-1][0] == "meta" and pm[-1][1].startswith("e. g.")
                     # English standing straight after the spelling, before any
                     # reference, is the spelling's own ("{6a6270} Creator Lord
                     # <e. g.> 029r02"), even with a marker in between
@@ -190,6 +224,8 @@ def build():
                 recent.append(t)
                 continue
             if k == "lemma":
+                if any(m in ("?", "??") for m in recent):
+                    lem_unc.add(i)
                 recent, list_eng = [], None
                 continue
             if mark in POINTER or multi:
@@ -211,6 +247,18 @@ def build():
                     tl = re.sub(r"[†\[\]();]|\b\d+×", " ", tl).split(",")[0].strip(" –-")
                     if re.search(r"[A-Za-z]{3}", tl):
                         tail = tl
+                    elif not t[refs[-1].end():].strip(" ,"):
+                        # "... 183v02 <?> against each other": past markers
+                        for kk, tt in fr[i + 1:]:
+                            if kk == "meta":
+                                if tt in ("?", "??"):
+                                    uncertain = True
+                                continue
+                            if kk == "text":
+                                tl = re.sub(r"[†\[\]();]|\b\d+×", " ", tt.split(";")[0]).split(",")[0].strip(" –-")
+                                if re.search(r"[A-Za-z]{3}", tl) and not REF.search(tt.split(";")[0]):
+                                    tail = tl
+                            break
             last, pos, prev = None, 0, None
             for m in REF.finditer(t):
                 pre = t[pos:m.start()]
@@ -258,7 +306,16 @@ def build():
                     # written straight after a lemma belongs to that lemma.
                     before = [j for j in lem_at if j < i]
                     after = [j for j in lem_at if j > i]
-                    if before and code_at < before[-1]:
+                    # rule L: between the last lemma and the spelling, a new
+                    # sense letter ("c)", "II.") or a "[var." bracket means
+                    # the spelling belongs to the lemma that FOLLOWS; with
+                    # neither, it is an example of the lemma before it.
+                    between = fr[before[-1] + 1:code_at] if before else []
+                    newsense = any(kk == "sect" for kk, _ in between) or any(
+                        kk == "text" and "[" in tt for kk, tt in between)
+                    if before and (example or code_at < before[-1] or not newsense):
+                        # an example ("<e. g.> {644} 017v12") illustrates the
+                        # lemma before it
                         j = before[-1]
                     elif after:
                         j = after[0]
@@ -267,6 +324,8 @@ def build():
                     else:
                         continue
                     word = grp[j]
+                    if j in lem_unc:
+                        uncertain = True
                 prev = word
                 if not word or word.startswith("<") or word in NOT_A_SENSE:
                     continue
@@ -297,7 +356,7 @@ def _parts(printed):
     return {x.lower()[:5] for x in re.split(r"[-_\s/]+", re.sub(r"[*^~+?°.\[\]]", "", printed)) if x}
 
 
-OURS_KIND = ("prop", "soft", "guess", "none")
+OURS_KIND = ("prop", "guess", "none", "cut", "cut1")   # cuts are ours too
 
 
 def word_for(page, lineno, raw_hex, base_hex, printed=None, own=None, kind=None):
@@ -317,7 +376,7 @@ def word_for(page, lineno, raw_hex, base_hex, printed=None, own=None, kind=None)
             return None
         if printed is not None:
             have = _parts(printed)
-            for L in (w,) + tuple(lemmas):
+            for L in (w,):
                 try:
                     mine = own(L) if own else L
                 except SystemExit:

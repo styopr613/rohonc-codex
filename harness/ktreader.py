@@ -44,7 +44,7 @@ import ktcross as K
 import kttranslate as T
 import ktsensefit as SF
 import ktfolio as FO
-import ktlinecite as LC
+import ktglossfix as GF
 
 OUT = os.path.join(os.path.dirname(corpus.DATA), "work", "rohonc",
                    "translation", "rohonc_readers_edition.md")
@@ -202,18 +202,15 @@ def main(argv):
                         n["read"] += 1
                         continue
                     # their word where their dictionary names it for this
-                    # line, or for this spelling (ktlinecite.py, 2026-09-28)
-                    k = T.kind(t, gl, seg, var, prop)
-                    w = T.render_token(t, gl, seg, False, var, prop, own=True)
-                    pk = (p.page, K.hx(b))
-                    lc = LC.word_for(p.page, i, K.hx(t), K.hx(b),
-                                     PICK.get(pk, w) if pk in PICK else w,
-                                     lambda x: T.clean(x, own=True), k)
-                    cited.append(bool(lc))
-                    if lc:
-                        out.append(T.clean(lc, own=True) + A.strip(t)[1])
+                    # line, decided by hand (ktglossfix.py, 2026-09-28)
+                    fx = GF.word(p.page, i, K.hx(t), K.hx(b))
+                    cited.append(bool(fx))
+                    if fx:
+                        out.append(fx + A.strip(t)[1])
                         n["read"] += 1
                         continue
+                    k = T.kind(t, gl, seg, var, prop)
+                    w = T.render_token(t, gl, seg, False, var, prop, own=True)
                     if k == "none":
                         fk = "%s|%s" % (p.page, K.hx(b))
                         if fk in FOLIO:

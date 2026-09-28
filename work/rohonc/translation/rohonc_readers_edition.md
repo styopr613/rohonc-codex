@@ -70,12 +70,12 @@ prints the chapter its own following text shows.
 ## What this edition is worth, in numbers
 
     words in the manuscript            29997
-    read                               28251 (94.2%)
-    read from one passage, marked *    719 (2.4%)
-    restored, in brackets              982 (3.3%)
+    read                               28257 (94.2%)
+    read from one passage, marked *    714 (2.4%)
+    restored, in brackets              981 (3.3%)
     dark, printed as an ellipsis       45 (0.2%)
 
-    lines with every word read         3566 of 4372 (81.6%)
+    lines with every word read         3567 of 4372 (81.6%)
     lines complete including
       restorations                     4327 of 4372 (99.0%)
 
@@ -87,7 +87,7 @@ including the two that failed.
 
 **Brackets are the measure of what is left to do.** Every time a source text
 enters the corpus, or a formula turns up twice, some of them become plain
-words. There are 982 of them now.
+words. There are 981 of them now.
 
 ---
 
@@ -116,7 +116,7 @@ words. There are 982 of them now.
 
 > The angel of the Father said; God the Father; the angel said to Lucifer: because the cup was hidden away. above of the Father, on the throne and then God; the angel; Lucifer; the cup was hidden away. above the Lord on the throne; and when the cup […] [steal] the cup was hidden away above And when Lucifer […], the angel returned to the Father. and then the angel, the Lord, the cup, Lucifer [steal] the cup was hidden away above and the other went. God the Father; the angel of the Father [spoke] to Lucifer; Lucifer said: because the cup was hidden away. above with the Father, on the throne; and when Lucifer went to God the angel said: God; the angel; the cup was hidden away above the Lord on the throne; and when the cup of Lucifer […] the cup was hidden away […] and then […] | was hidden. The angel returned, the angel, to God the Father, because there was said Lucifer; to the Lord; hidden; the Lord God; the mother […] […] to the Lord, to the Lord, this | hidden. The angel [proud] Lucifer, he on the throne and then God, the angel, the Lord. The cup of Lucifer [steal] the cup was hidden away above said Lucifer to the Lord: hidden.
 
-  1  angel of-father say from-father God angel say Satan because cup-to hide
+  1  angel of-father say from-father God angel say Satan that cup-to hide
   2  above* of-father on throne and_then God angel Satan cup-to hide
   3  above* Lord on throne and then-exist cup ~Satan [steal] cup-to hide above*
   4  and then-exist from Satan return angel to-father
@@ -165,18 +165,18 @@ words. There are 982 of them now.
  10  man^ ~exist heart aforesaid slime_(of_the_earth)* and became* to-soul-+one
  11  heart breathe on-Adam and living leave and
  12  man^ grab Lord_God and man^ go inside
- 13  Eden and all^ heart exist-chapter man^
+ 13  Eden and all^ heart before man^
 
 ## 003r — the commandment, and the sleep
 
 > […] the Lord God [and] Adam. The Lord [spoke] to Adam; he took every truly [nor] hunger, and thirst [nor] upon Adam; and one living [thing] dies. There shall be sin, hunger, thirst, to him who [afterward] the Lord took. To Adam, all truly one. law this yoke upon Adam, by commandment: not […] this […] […] thou shalt die […] Adam is […] […] Adam would die. And then Adam slept within | […] and then upon him […] first, from […] and | when the Holy Spirit came within into Paradise and then this this the garden and the Lord God took Adam rib and it heart said the angel to you: mother. And then Adam, from […] […] this |
 
-  1  and_then Lord_God Adam this-Lord this-Adam grab
+  1  and_then Lord_God Adam I_the_Lord this-Adam grab
   2  every righteous [nor] hunger and thirsty [nor] this-Adam and
   3  one living die sin have hunger thirsty to-to-this-who
   4  [afterward] grab-Lord this-Adam every righteous one
   5  law this yoke this-Adam command = not eat.
-  6  this to-~son evil-~sin thou_shalt_die* ~if Adam exist eat.
+  6  this to-~son forbidden_fruit thou_shalt_die* ~if Adam exist eat.
   7  on-[?] die-Adam and then-exist Adam sleep inside | to
   8  Paradise and then-exist on-this fill ~first from saying and | then
   9  exist go holy-spirit inside into_Paradise and_then this
@@ -224,14 +224,14 @@ words. There are 982 of them now.
   1  Lord_God on-angel this fill two from saying and then-exist leave
   2  Lord_God from_heaven* inside into_Paradise and_then Lord_God DIV
   3  Adam why? and_then ~Adam hide-~Adam Lord_God
-  4  and_then Lord_God who-mouth ~Adam hide and_then ~Adam
+  4  and_then Lord_God why? ~Adam hide and_then ~Adam
   5  who this-~Adam naked say Lord_God why? ~Adam
   6  naked and_then Eve Adam food and_then.
   7  Lord_God it where? and_then answered* Eve this-Lord-to
   8  and_then Lord_God why? Eve answered* who Eve naked
   9  and_then Lord_God why? Eve naked and_then it
  10  serpent it food and_then Lord_God ~Adam
- 11  to-one commandment this ~Adam name-[?]-ten commandment ~carry
+ 11  to-one commandment this ~Adam name-[?]-ten commandment observe
 
 ## 007r — the curse, and the sword at the gate
 
@@ -239,7 +239,7 @@ words. There are 982 of them now.
 
   1  exist ~Adam to-to-this-who [?]-~Adam in_turn why?-in_turn
   2  gates* exist ~Adam earth till_the_earth
-  3  want to-~son eat^ ~grab in_turn it this-+it
+  3  want to-~son food ~grab in_turn it this-+it
   4  exist through pine and this-+it exist painful
   5  ~be_born have in_turn this evil this-evil exist
   6  [cursed] earth slide ~and room
@@ -260,25 +260,25 @@ words. There are 982 of them now.
   5  out cast_out on-Eden and then-exist | two-+name-donkey
   6  Eve leave inside ~field many year and ~have ~Adam Eve
   7  descendant this-two to-son and firstborn exist Cain and two [?]-end-+name exist
-  8  Abel nor ~name exist Seth and then-exist
-  9  ~Adam from eye-eye blind and then-exist go ~Adam inside Paradise
+  8  Abel third ~name exist Seth and then-exist
+  9  ~Adam from eyes blind and then-exist go ~Adam inside Paradise
  10  son of-~Adam and this son exist [Cain] son [Abel]
- 11  ~Adam and then-exist say ~Adam to ~Adam from the_tree_of_mercy.
+ 11  ~Adam and then-exist say ~Adam bring ~Adam from tree.
 
 ## 006r — Seth goes to Paradise for the branch
 
 > a branch. And then the branch […] carry anointed through the light; and then by that light anointed, through the eye, blind Adam sees; and Adam was made whole […]. And then Seth went | gate/open to Paradise; and […] to Seth appeared God's angel […] the angel of God [to] Seth […]; and he went […] Seth said: Adam my father. Seth […] went into Paradise | when it was Adam his father. Seth brought from the tree of mercy a branch. […] Adam his father was, through sin; and Adam said, Adam, when seed Seth brought anointed through the light; and then by that light anointed, through the eye, the blind man sees; and Adam was made whole and then. The angel truly spoke; and then the angel went into Paradise, and Seth carried the branch
 
   1  one ~branch and then-exist branch to-~Adam carry ~place through
-  2  ~light and then-exist through ~light ~place through eye see blind ~Adam
+  2  seeing and then-exist through seeing ~place through eye see blind ~Adam
   3  and be_healed = ~Adam [sick] and then-exist Seth go | [to_Paradise]
-  4  gate/open Eden and then-~exist Seth appear God
+  4  gate/open Eden and then Seth appear God
   5  angel and_then God angel Seth [answered] and go one say Seth
   6  from-father ~Adam Seth SUBJ go inside Eden | then
-  7  exist father ~Adam carry Seth from the_tree_of_mercy branch
+  7  exist father ~Adam carry Seth from tree branch
   8  on-+the_tree_of_mercy SUBJ exist father ~Adam commit sin and say ~Adam
   9  ~Adam then-exist seed carry Seth ~place through
- 10  ~light and then-exist through ~light ~place through eye see blind ~and
+ 10  seeing and then-exist through seeing ~place through eye see blind ~and
  11  be_healed = ~Adam and_then angel righteous SUBJ speak and then-exist
  12  go angel inside Eden and Seth carry branch
 
@@ -292,11 +292,11 @@ words. There are 982 of them now.
   4  ~Adam and then-exist among-~exist go inside one town
   5  and believe-end-+name town exist Jericho who exist ~Adam
   6  house and then-exist arrive can [the_way] recognize and inside every from
-  7  town can [the_way] recognize and then-~exist out town
+  7  town can [the_way] recognize and then out town
   8  one [road] and then-exist Seth exist go this NAME
   9  and inside can [the_way] recognize and then-exist Seth say one
  10  NAME oh of-[?] from-father spirit father SUBJ recognize
- 11  ~Adam and ~Adam exist eye-eye blind who ~Adam exist Lord
+ 11  ~Adam and ~Adam exist eyes blind who ~Adam exist Lord
  12  God out cast_out on-Eden on-angel and then-exist NAME
  13  from-see gospel and find NAME ten-two-two-ten-year and
 
@@ -337,8 +337,8 @@ words. There are 982 of them now.
   1  donkey* and go-son-father | son*
   2  father and one sheep and one lamb
   3  who-~exist son father sacrifice and_then father Abraham
-  4  from love Lord to-hide-Lord Lord_God offering-chapter and then-exist Isaac
-  5  exist bind on-+pierce who exist [ram] Isaac [instead]
+  4  from love Lord to-hide-Lord Lord_God offering and then-exist Isaac
+  5  exist tie_up on-+pierce who exist [ram] Isaac [instead]
   6  name Abraham sacrifice and take_out on-+name
   7  understand-girl-chapter sword who Isaac want slay
   8  and shout Lord_God on-cloud on-angel of-Lord_God
@@ -355,7 +355,7 @@ words. There are 982 of them now.
 > And then he sacrificed the lamb and then; the Lord God from the cloud, by the angel of the Lord, said to Abraham […] within […] A holy [Virgin]; of a virgin shall be born a son […] The son shall be […] Jesus; and the Lord went among the people He preached the gospel, [did] many miracles […] and the Lord suffered crucified; and on the third day rose from the dead. […] the Lord God, by the angel, [to] Abraham; and […] the Lord's chapter is believe truly [in] the Son of the living God; every man is saved […] One man […]; but every man is saved [from] the yoke; and man […] the Lord […] believes; and one […] […] but every man was damned, from Adam onward until Abraham, a hundred years and twenty years; from Abraham [until] Moses began: three thousand and fifty from Abraham until
 
   1  and then-exist from lamb sacrifice and_then Lord_God on-cloud
-  2  on-angel of-Lord Abraham say ~be_born inside of understand-girl-chapter
+  2  on-angel of-Lord Abraham say ~be_born inside of Isaac
   3  one holy-Mary from virgin-Mary on-be_born son to_whom
   4  son exist ~body Jézus and go Lord among_the_people*
   5  exist gospel preach many who-and-this-and miracle ~do
@@ -407,13 +407,13 @@ words. There are 982 of them now.
   1  and holy-Anne mouth-~year from-two from_both every of-rich divide on-+three part
   2  one division grab the_people_of_the_temple on-exist-chapter in_turn-two division
   3  from-Lord way people-chapter third division Joachim-+one-+his_household living.
-  4  and every Joachim's_household thanks to-thanks Lord_God in_turn have | Joachim
-  5  his_household ~be_born thirty year and prepare offering-chapter
+  4  and every Joachim's_household thanks thanks Lord_God in_turn have | Joachim
+  5  his_household ~be_born thirty year and prepare offering
   6  exist-chapter every of-in_turn-+one-[?] creature and then-exist and from Joachim
   7  carry of offering and to-Joachim see from head
   8  Jew and_then this high_priest = holy-Joachim
   9  food this-Joachim [the_temple] who-exist Joachim* go
- 10  among of answered-year food of offering [the_temple] one [portion]
+ 10  among of neighbor food of offering [the_temple] one [portion]
  11  and out Joachim cast_out on-this temple and sad
  12  Joachim leave and go inside field inside forest chapter-of from love-exist-to
  13  and from sheep love-exist-to and on-one mount one
@@ -458,11 +458,11 @@ words. There are 982 of them now.
 
 > […] months, until the offering […] the blessed Virgin Mary. And then Mary was within […]; from the beginning she withdrew(?) into […] […] and said […] that Mary would keep her virginity | Mary heart. O! O! Amen. And then Mary was […] […] and […]; and at that time God the Father in heaven, because he saw […] all […] darkness […] and at that time God the Father in heaven, and […] the Lord's angel Gabriel […] to the blessed […] Saint Luke writes chapter in his writing: at that time the angel said, Gabriel: Hail, thou virgin, maiden full of grace! The Lord God is with Mary and then This virgin maiden: How shall this be? exist this maiden know this maiden […] this maiden would keep her virginity […] O! O! Amen. […] the angel Gabriel [to] Mary:
 
-  1  ~begin-ten moon until offering inside chapter-year-chapter blessed^ virgin-Mary
+  1  ~begin-ten moon until offering inside chapter-year-chapter blessed^ Virgin_Mary
   2  and then-exist Mary exist inside three_days from begin go-hide-this inside temple
   3  [?]-+one and say [?]-+one this-Mary want virgin-carry | of
   4  Mary heart chapter-oh chapter-oh amen and then-exist Mary
-  5  exist six-six feast and [?]-+three_days and time from-gate
+  5  exist six-six feast and [?]-+three_days and time open
   6  from-God_the_Father heaven because see hide every world darkness sky.
   7  and time from-gate from-God_the_Father heaven and go.
   8  of-Lord angel Gabriel inside temple to-happy the_Virgin_Mary*
@@ -519,7 +519,7 @@ words. There are 982 of them now.
   5  and then-exist out happy virgin-Mary ten-six-year time.
   6  exist commandment before ~be_born Lord-Jézus-Christ ten-ten and | two
   7  two-year and on-~be_born first^ day^ Lord-Jézus-Christ and.
-  8  time command Augustus emperor because
+  8  time command Augustus emperor that
   9  all^ people* exist enrol and then-exist law Augustus
  10  emperor all^ world* back go law in_turn-chapter-in_turn and | then
  11  exist and from two Mary aged Joseph go | to
@@ -535,7 +535,7 @@ words. There are 982 of them now.
   3  exist remain* [together] who two aged Joseph.
   4  remain* exist in_turn donkey exist aged Joseph
   5  grab who this son on-be_born want | aged-Mary
-  6  Joseph on-donkey from-carry and then-exist two.
+  6  Joseph on-donkey take_away and then-exist two.
   7  aged Joseph exist from arrive | aged
   8  Mary-Joseph Bethlehem town and [arrived]
   9  can aged-Mary-Joseph lodging find
@@ -560,7 +560,7 @@ words. There are 982 of them now.
  10  [ox] donkey love hay inside [manger] [laid]
  11  Christ Mary son and then-exist the_shepherds go Bethlehem
  12  and then-exist sheep kneel and every this exist kneel
- 13  before the the_shepherds [hastened] to go another and to-Lord.
+ 13  before from the_shepherds [hastened] to go another and to-Lord.
 
 ## 021r — the reckoning of years
 
@@ -579,11 +579,11 @@ words. There are 982 of them now.
   1  time then-exist fast on-be_born Lord-Jézus-Christ three_days
   2  time say angel understand-chapter aged Joseph
   3  stand_up up and take^ this son and of this son mother.
-  4  and escape inside Egypt-to and go every this begin [by_night]
+  4  and escape inside Egypt and go every this begin [by_night]
   5  out-out Egypt [into] this this angel [appeared] say day [Herod] end
   6  this holy-gospel time stand_up up the_aged | Joseph
   7  [arise] ~and take^ Lord-Jézus-Christ and of mother and five
-  8  day^ happen then-exist | [the_son_and_the_aged_Joseph_and_the_holy_mother_Mary]
+  8  day^ pass then-exist | [the_son_and_the_aged_Joseph_and_the_holy_mother_Mary]
   9  ~year-+Joseph-chapter go inside Jerusalem ~town that_is on-be_born
  10  Lord-Jézus-Christ on-six-two-year time circumcise son
  11  and son exist and-from-~year-exist-+name Jézus and this Lord-Jézus first
@@ -597,7 +597,7 @@ words. There are 982 of them now.
 
   1  inside Egypt earth and [dwelt] and go Lord Joseph
   2  on-Egypt earth inside every town [idols] hell.
-  3  fall* evil bow and | [?]-mother-?Joseph.
+  3  fall* evil bow_down and | [?]-mother-?Joseph.
   4  [arise] die from Joseph leave-leave inside Egypt six-six-year
   5  time say ~Gabriel angel Joseph.
   6  escape on-Egypt earth inside Nazareth town
@@ -612,7 +612,7 @@ words. There are 982 of them now.
 
 > First, that is, the Lord made wine water that is the Lord broke five loaves bread […] the people. The fourth sign the Lord Jesus showed, when | in Nain […] he raised up, from a widow, a son […] the sign the Lord Jesus showed, when he raised up lose in Jerusalem. The sixth sign the Lord Jesus showed in […] […] when the Jews brought a sick man before the Lord Jesus: a sick man, and a sick man, and a sick man, and a paralytic; and the sick, the sick, the sick, the paralytic — the Lord Jesus healed […] The sign the Lord Jesus showed in Capernaum, when he healed alive the servant of a soldier; and was named […] the centurion The eighth sign the Lord Jesus showed in Tyre […] to a woman […]
 
-  1  before that_is SUBJ Lord wine create-Lord water on-that_is SUBJ Lord
+  1  before that_is SUBJ Lord wine create-Lord water after_these SUBJ Lord
   2  break five loaves bread five-?thousand people
   3  in_turn-two-two can show Lord-Jézus then-exist | in_Nain.
   4  before town resurrect from virgin-~woman son fifth
@@ -630,7 +630,7 @@ words. There are 982 of them now.
 
 > a pagan; and within her was a devil; and […] he cast it out […]. The ninth sign the Lord Jesus showed in | a proud man paralytic because the man […] did. The tenth sign the Lord Jesus showed in […] a king's son, because he was at the point of death; and the son […] afterward The eleventh sign the Lord Jesus showed in Jerusalem: the evil spirit, when the Lord [cast] out of a man a devil […] First, before the birth of the Lord Jesus Christ, the Son of God cannot a prophet, a forefather, this […] afterward he is Christ afterward; and by miracle they confessed that the Lord Jesus is truly the Son of God. five confessed […] the Lord Jesus that the Lord Jesus is truly the Son of God. First confessed […] the Lord Jesus […] and Elijah. Secondly confessed
 
-  1  one heathen and inside to-to exist devil = and evil^
+  1  one pagan and inside to-to exist devil = and evil^
   2  out to-+who-[?] in_turn-nine can show Lord-Jézus inside | exist.
   3  proud on-one paralytic man^ because man^ healing.
   4  do in_turn-ten can show Lord-Jézus inside Galilee
@@ -657,8 +657,8 @@ words. There are 982 of them now.
   7  Moses and Elijah write holy-Luke then-exist
   8  Lord-Jézus inside thirty years* time go Lord-Jézus on.
   9  Tabor and of disciple^ and be_glorified ~and
- 10  see disciple^ Moses and Elijah white who-+name-believe-year
- 11  and see bright^ [from_heaven] and then-exist from-leave-leave | Lord
+ 10  see disciple^ Moses and Elijah white clothes
+ 11  and see light [from_heaven] and then-exist stop | Lord
  12  Jézus and Moses and Elijah and then-exist disciple^ through
  13  take_fright and down [fell] bow and then-exist disciple^ voice.
 
@@ -671,7 +671,7 @@ words. There are 982 of them now.
   3  but to-Lord-Jézus here_ends this holy_gospel in_turn-two confess
   4  ~have Lord-Jézus from-father of-Lord first on-Tabor
   5  in_turn-two on-Carmel to-mount because then-exist Lord-Jézus inside thirty
-  6  one-~year time go Lord-Jézus understand baptize holy-John
+  6  one-~year time go Lord-Jézus to baptize holy-John
   7  baptize on-Carmel to-mount and then-exist Lord go | to
   8  holy-John say Lord-Jézus John baptize Lord say | holy
   9  John Master and this-~John [came] baptize and say Lord-Jézus
@@ -686,7 +686,7 @@ words. There are 982 of them now.
   1  inside ~form dove and_then this-Lord of son
   2  he_who spirit grow_calm and Lord grab
   3  holy-spirit and Lord go inside field
-  4  fast Lord-Jézus ten-two-two-year third confess
+  4  fast Lord-Jézus forty_days third confess
 
 ## 025r — the devils confess him
 
@@ -793,9 +793,9 @@ words. There are 982 of them now.
 
   1  and then-exist-Mary exist-Lord kiss Lord-Jézus of-Lord mother
   2  happy virgin-Mary and then-exist-Mary exist and from Mary.
-  3  kiss of-Mary son Lord-Jézus-Christ and from Mary away
+  3  kiss of-Mary son Lord-Jézus-Christ and from Mary go_away
   4  Lord-Jézus Bethany apostle inside Jerusalem because SUBJ apostle exist.
-  5  before Lord go inside Jerusalem who-exist apostle to-dinner-to-to eat.
+  5  before Lord go inside Jerusalem who-exist apostle dinner eat.
   6  prepare-apostle one lamb because time
   7  holiday exist Jew Easter this_is begin suffering
   8  Lord-Jézus-Christ son God because SUBJ Lord righteous son God
@@ -819,15 +819,15 @@ words. There are 982 of them now.
 > Here begins the account Passion of a man […] the writing the account [the Passion] [of] Saint Matthew and Saint John, of the Passion | a man […] […] The Lord Jesus went to Bethany to Jerusalem, because […] the Lord […] to the supper […] because […] Before the Lord went, the apostles [went] into Jerusalem […] the Lord Jesus […] to prepare the Passover lamb, where the Lord and the apostles […] should eat. And the Lord [said]: go, you. And then the Lord […] to the apostles in Jerusalem; and the Lord sat down at the table [with] the apostles. At that time the apostles prepared the Passover lamb; and the lamb
 
   1  begins this begin the_account*
-  2  Passion of-somebody Creator
+  2  Passion of-somebody Creator_Lord
   3  write the_account* cup-not [the_Passion]
   4  holy-Matthew and holy-John
   5  from suffering | of.
   6  somebody heart-Lord time.
   7  go Lord-Jézus to_Bethany
-  8  Jerusalem because from far-to-Lord to-dinner-chapter ~do because exist Lord.
+  8  Jerusalem because from far-to-Lord dinner ~do because exist Lord.
   9  before Lord go apostle inside Jerusalem and_then Lord-Jézus exist apostle.
- 10  prepare from Easter lamb who-exist Lord apostle to-dinner-chapter.
+ 10  prepare from Easter lamb who-exist Lord apostle dinner.
  11  eat and this-Lord to you go and then-exist Lord go.
  12  to-apostle inside Jerusalem and sit to-throne Lord [with] this-apostle time
  13  exist apostle prepare from Easter lamb and lamb
@@ -836,13 +836,13 @@ words. There are 982 of them now.
 
 > the apostles brought to the table […] the Lord Jesus […] the Lord's […] lamb the Lord would eat this with you […] lamb. Therefore the Lord asks you: do not, apostles, be offended in the Lord, because the Lord goes to his death — the Lord dies; and the Lord | […] […] […] and the Lord […] you […] and […] the Lord Jesus [rose] from the table, and laid aside | the Lord, his […] and then. The Lord Jesus, one apostle among […] the apostles, and among seven the apostles, and […] an apostle [named …] brought a bucket […] and a washing-dish; and then water into the dish he poured; and the Lord Jesus came to Saint Peter, and […] brought the water in the dish, which the Lord Jesus and then Saint Peter.
 
-  1  carry apostle on throne and_then Lord-Jézus brother of-Lord from
-  2  lamb* want Lord to you eat this Passover^
+  1  carry apostle on table and_then Lord-Jézus brother of-Lord from
+  2  lamb* want Lord to you eat this Passover.
   3  lamb therefore ask-Lord you do_not apostle
-  4  inside Lord stumble because this-Lord go on-die Lord die and this-Lord | on
+  4  inside Lord take_offence because this-Lord go on-die Lord die and this-Lord | on
   5  three_days again* rise-Lord and this-Lord you appear
-  6  and rise to-throne Lord-Jézus and take_off-Lord | on
-  7  Lord of-Lord ~ask-~exist and_then Lord-Jézus one apostle
+  6  and stand_up to-throne Lord-Jézus and take_off-Lord | on
+  7  Lord of-Lord clothes and_then Lord-Jézus one apostle
   8  among seven-ten apostle and among seven apostle and ~body
   9  apostle exist Titus-in_turn carry one bucket water
  10  and one washdish and then-exist water inside washdish
@@ -862,9 +862,9 @@ words. There are 982 of them now.
   7  this-?with this-Lord grab-cut_off-to [hands_and] head.
   8  wash and every of-?with ~body wash and | then
   9  exist with* SUBJ foot exist-Lord wash and foot
- 10  SUBJ garment* towel and two from leave apostle middle every
+ 10  SUBJ garment* towel and the_rest from stand apostle middle every
  11  wash and foot SUBJ garment* [wiped] and
- 12  grab Lord-Jézus on-Lord of-Lord believe-~exist and
+ 12  grab Lord-Jézus on-Lord of-Lord clothes and
 
 ## 030v — the bread, and the cup with water and wine
 
@@ -895,7 +895,7 @@ words. There are 982 of them now.
   7  apostle say holy-?with Master who_is_it and struck-to.
   8  say Lord-Jézus and [leaning] [breast] Lord-Jézus
   9  with* and ~John and say oh of-?with ~brother
- 10  from-judge Master who_is_it? and then-exist lean_on
+ 10  ask Master who_is_it? and then-exist lean_on
  11  holy-~John on-end Lord-Jézus and_then Master | name-+one.
  12  this-and-this say Lord-Jézus to_whom this-Lord give^ bite
 
@@ -914,7 +914,7 @@ words. There are 982 of them now.
   9  who-exist do and then-exist evil apostle how?
  10  say Master speak but understand apostle how? say Judas
  11  bread buy brethren-exist shepherd ~eat because
- 12  feed^ apostle ~exist judge because this exist Jew Easter
+ 12  feed apostle ~exist judge because this exist Jew Easter
 
 ## 032r — Wednesday, and the silver
 
@@ -929,7 +929,7 @@ words. There are 982 of them now.
   7  judge that_is this-Lord go on-die Lord die because
   8  Lord Jew crucified and this-Lord on_the_third_day
   9  again* stand_up-Lord therefore ask Lord you
- 10  do_not apostle inside Lord stumble because what-go saying
+ 10  do_not apostle inside Lord stumble because come saying
  11  of-Lord God_the_Father [willed] saying SUBJ Lord crucified and_then
 
 ## 032v — Peter will deny him
@@ -937,7 +937,7 @@ words. There are 982 of them now.
 > Peter: Master — Peter would […] the Lord; the Lord dies. […] the Lord Jesus [to] Peter: first, but before […] […] thou shalt deny the Lord. And Peter said […] […] […] the Lord Jesus, Peter, this […] this […] Therefore the Lord asks you: do not […] be offended in the Lord; because the apostles were very sorrowful for the Lord; and one of the Jews was a judge; and the mouth […] the Lord Jesus said: but […]; and the Lord went on the way, because the Lord Jesus […] when the Lord […] Judas, in the house of the high priest; and many miracles and much preaching afterward the Lord Jesus, on the way.
 
   1  Peter Master this-Peter want food Lord this-Lord die
-  2  and_then Lord-Jézus Peter first but crow cock
+  2  and_then Lord-Jézus Peter first than crow cock
   3  this-?with Lord-to three exist deny and Peter say with*
   4  emperor and_then Lord-Jézus Peter this SUBJ this
   5  ~out therefore ask Lord you do_not apostle.
@@ -958,11 +958,11 @@ words. There are 982 of them now.
   4  exist one brook Kidron and from apostle
   5  rest apostle third apostle Lord give^ Peter and.
   6  John and James and [?]-[?].
-  7  over-exist Kidron and to-?again inside to_the_mount
+  7  over Kidron and to-?again inside to_the_mount
   8  and [?]-+one-[?] because-exist garden on-this to_the_mount
   9  trespass Jerusalem town and then-+SUBJ go-Lord on-Jerusalem and inside
  10  Jerusalem lo Lord [?]-Lord-apostle to Lord-Jézus and of-Lord apostle
- 11  because want-Lord give^ Lord-Jézus inside-garden capture
+ 11  because want-Lord give^ Lord-Jézus inside-garden arrest
  12  he_is* of-somebody father ~Adam [on_the_tree] [tree.]
 
 ## 033v — a stone's cast, and the prayer
@@ -976,7 +976,7 @@ words. There are 982 of them now.
   5  a_stone's_throw = pray father of-Lord and kneel
   6  Lord-Jézus and_then father of-Lord God heaven.
   7  from ~grab-father from Lord this suffering in_turn
-  8  SUBJ temptation^ and rise Lord-Jézus and go-Lord
+  8  SUBJ pleasing and rise Lord-Jézus and go-Lord
   9  to apostle but apostle to-sleep and_then Lord-Jézus rise
  10  and ~have-apostle awake and go Lord-Jézus Peter
  11  peak of_the_mountain to see this ~people because exist every people
@@ -991,24 +991,24 @@ words. There are 982 of them now.
   4  Lord-Jézus because [in_an_agony] Lord-Jézus how?-°first Lord suffering
   5  not-chapter and go Lord to-apostle but apostle to-sleep
   6  and_then Lord-Jézus rise and ~have-apostle awake
-  7  time go holy-Peter and_say on-+three army-to fear
+  7  time go holy-Peter and_say on-+three army be_afraid
   8  and three go Lord ~pray God_the_Father of-Lord and kneel | Lord
   9  Jézus and_then God_the_Father of-Lord heaven* from | not_take
  10  father from Lord this suffering in_turn SUBJ pleasing in_turn
- 11  [thy_will] pleasing because this-God_the_Father fill on-Lord will | of
+ 11  [thy_will] pleasing because this-God_the_Father fulfil on-Lord will | of
 
 ## 034v — the angel from heaven
 
 > the Father. And an angel came from the eternal from on high, from God the Father and then the Lord, this […] this […] this suffering […] and then the angel this is offered the Lord […] the Lord's lot, of God the Father; the Son Jesus Nazareth all people redeemed. And the angel departed from before the Lord Jesus; because every night the angel came from on high, from God the Father, to the Lord Jesus; because the angel bore for the Lord all his suffering, it is written; and [spoken] truly […] he who […] written. And the Lord went to the apostles and then the Lord Jesus […] his […]; and the Lord and the apostles had one […] […]; and then […] […]; and then the apostles |
 
   1  father and go angel from_heaven* high from-God_the_Father and_then
-  2  Lord this ~have this the_Lord this suffering drink
+  2  Lord do_not ~have this the_Lord this suffering drink
   3  and_then angel this_is this-Lord offer from-God_the_Father.
   4  of-Lord fate of-God_the_Father son Jézus Nazareth
   5  every people* from-buy and leave-to-leave angel before
   6  Lord-Jézus because every night this-go angel high from-God_the_Father
   7  to-Lord-Jézus because Lord carry angel every of-Lord suffering
-  8  write and [spoken] righteous fill he_who* from-prophet.
+  8  write and [spoken] righteous fulfil he_who* from-prophet.
   9  write and go-Lord to-apostle and_then Lord-Jézus
  10  brother of-Lord and have-Lord-apostle one little
  11  not-?not-°first and then-exist [he_rose] [from_prayer] and then-exist apostle | to
@@ -1019,7 +1019,7 @@ words. There are 982 of them now.
 
   1  sleep and can sleep Lord-Jézus but Lord-put one stone
   2  to-head and can sleep Lord-Jézus but rise
-  3  and_then Lord apostle rise apostle to-?again ~have-apostle [a_sign]
+  3  and_then Lord apostle stand_up apostle to-?again ~have-apostle [a_sign]
   4  serpent* because from know* go Jew [betray]
   5  Son_of_Man = recognize* capture and then-exist
   6  Lord apostle and apostle go-Lord-and-apostle on-way and see | Lord
@@ -1061,7 +1061,7 @@ words. There are 982 of them now.
   8  Jézus Nazareth and shout Lord-Jézus from this-Lord
   9  if Lord search Jew and_then shout Lord-Jézus
  10  grab Jew Lord because go ~hour of-Lord God_the_Father
- 11  and then-exist ~Jew from-leave-leave Jew Lord-Jézus [backward]
+ 11  and then-exist ~Jew arrest Jew Lord-Jézus [backward]
 
 ## 036v — Malchus, and the ear put back
 
@@ -1086,14 +1086,14 @@ words. There are 982 of them now.
 > […] and […] led the Lord believe the Lord Jesus; and then tie up the hands of the Lord Jesus Christ […] all […] […] […]; and then […] they went to the chief of the Jews [before]; and then the Lord went down from the mountain; and many [people] afterward Jews upon the Lord Jesus, because one struck the Lord [from] town secondly, to the Lord's house [and] thirdly [answered] no man at all had mercy on the Lord Jesus. And then through […] through […] Kidron and the Lord […] went over the bridge […] but the Lord on the bridge fall down; and [struck] […] no man had mercy on the Lord Jesus, because [times] the Jews went
 
   1  on_the_cross-[?] and then-[?] carry to-Lord clothes.
-  2  Lord-Jézus and then-exist bind hand Lord-Jézus-Christ
+  2  Lord-Jézus and then-exist tie_up hand Lord-Jézus-Christ
   3  [bound] every to-of-Lord to-year-to [led] that* and then-exist Lord.
   4  go to-Jew head [before] and then-exist Lord
   5  go down on-to-mount and many [people] ~do
   6  Jew on-Lord-Jézus because Lord one face beat
   7  [from] town* in_turn-two to-Lord to-house [and] third
   8  to-Lord [answered] from not-not of-somebody have_mercy Lord-Jézus
-  9  and then-exist through [?]-+say through over-~exist Kidron
+  9  and then-exist through [?]-+say through over Kidron
  10  and Lord grab-+say on-bridge go Lord-Jézus.
  11  but Lord on-bridge fall and to-Lord [struck] who.
  12  of-somebody have_mercy Lord-Jézus because Lord two [times] go Jew
@@ -1104,7 +1104,7 @@ words. There are 982 of them now.
 
   1  [bound] who-chain-to Lord-Jézus-Christ and then-exist Lord
   2  exist and out-out draw [away] of-somebody have_mercy
-  3  Lord-Jézus-Christ and_then Jew who Lord want
+  3  Lord-Jézus-Christ and_then Jew where? Lord want
   4  Jew go say-+say one brought* Lord | to
   5  Pilate in_turn-two say brought-Lord to-Caiaphas and | then
   6  exist Lord brought-Lord to-Caiaphas high_priest and_then
@@ -1120,16 +1120,16 @@ words. There are 982 of them now.
 > of the Jews, this Malchus whose ear was cut off […] Peter […] this Peter […] and this was the first denial of the Lord Jesus, because Peter said not the Lord, and denied him. And […] the Lord Jesus [was brought] to Caiaphas the high priest; and | when he said, the Lord went before Caiaphas; and there cried the Jews […] [expedient] this went believe this […] the Lord; and to the Lord […] of the apostles […] […] all the people against the Lord […] | and the second said: the Son of God; the third said: the king. Caiaphas said: it is written, it is good that one man should die rather than all […] […]; and […] […] the high priest […] in the house, among the apostles Christ [counsel]
 
   1  Jew this Malchus ear cut_off say.
-  2  Peter [then] this-Peter and-to-Lord-to-Peter and this the
+  2  Peter [then] this-Peter and-to-Lord-to-Peter and this from
   3  first denial Lord-Jézus because say Peter not* Lord and-to-Lord-to
   4  and brought* Lord-Jézus to-Caiaphas high_priest and | then-exist
   5  say to-Lord go before Caiaphas and shout
   6  Jew this-Caiaphas-+say [expedient] go this believe
   7  this ~half-believe Lord and to-Lord SUBJ from Galilee
-  8  feed^ bread all^ people on-Lord [manna] | in_turn
+  8  feed bread all^ people on-Lord [manna] | in_turn
   9  two say-+say say son God third say-+say king
  10  say say Caiaphas write SUBJ good one Lord-somebody
- 11  die but-+who rather all^ world perish and then-?cup-+say [nation]
+ 11  die than rather all^ world perish and then-?cup-+say [nation]
  12  apostle-high inside-?brought inside house among disciple^ Christ look_up leave^ [counsel]
 
 ## 039r — the second denial
@@ -1282,7 +1282,7 @@ words. There are 982 of them now.
   9  begin two say flog and then-exist two and from two say
  10  from [pillar] flog Lord-Jézus-Christ and | leave
  11  to-leave one soldier to Lord-Jézus and then-exist
- 12  from one-+Wednesday Lord-Jézus because exist Lord many bind
+ 12  from one-+Wednesday Lord-Jézus because exist Lord many tie_up
 
 ## 044v — the purple robe and the crown of thorns
 
@@ -1290,7 +1290,7 @@ words. There are 982 of them now.
 
   1  and then-exist Lord collapse = Lord-Jézus and
   2  Lord [scourged] again* raise-+say and Lord [mocked]
-  3  ~ask-to understand-eat purple_robe and Lord
+  3  clothes understand-eat purple_robe and Lord
   4  thorn crown on-head conceive-+say
   5  and Lord sit on-understand-eat chair and
   6  then-[?] kneel before Lord-Jézus and
@@ -1304,7 +1304,7 @@ words. There are 982 of them now.
 
 > And the Lord sat […] in a judgment seat | in the midst […]; and then Pilate knelt before the Lord Jesus, and Pilate said: Hail, Lord, King of the Jews! And the Lord Jesus said to Pilate […] speakest thou that the Lord is King of the Jews? Because | when will his Father God, ye took the Lord prisoner; for if the Lord would, the Lord would ask of God his Father | twelve legions of angels […] the Lord, that ye took him prisoner; because if the Lord would, the Lord could […] you all
 
-  1  and Lord sit say inside one throne | on
+  1  and Lord seat say inside one throne | on
   2  middle house and then-exist kneel Pilate
   3  before Lord-Jézus and say Pilate healing Lord king
   4  Jew and say Lord-Jézus to-Pilate this-+the_Lord
@@ -1390,7 +1390,7 @@ words. There are 982 of them now.
   3  Pilate out go on-house down among from [them]
   4  ~Jew and shout Lord-Jézus people-chapter
   5  of-Lord Jew who this-Lord he_said* ~do
-  6  to-love this-people-chapter [cross] ~do people-chapter
+  6  why? this-people-chapter [cross] ~do people-chapter
   7  of-Lord Jew who this-Lord this-people-chapter commit sin
   8  [O_my] this-people-to good [what] then-exist-Lord this-Lord
   9  among this-people-to miracle do first | this
@@ -1409,7 +1409,7 @@ words. There are 982 of them now.
   6  [thou_hast_prepared] cross do people of-Lord
   7  Jew he_said* to-Lord-to raise on-Palm_Sunday | then
   8  chapter-Lord want king crown in_turn name-high
-  9  would_say* of-Lord body on_the_cross raise-to
+  9  would_say* of-Lord body on_the_cross lift_up
  10  and shout Pilate grab-+say Lord ~blind
  11  and Lord take* Jew and then-exist say
 
@@ -1430,8 +1430,8 @@ words. There are 982 of them now.
 > The Lord went, he said, to the Cedron; and then the Lord went over the Cedron; and then down […] […] the Lord Jesus; and […] | fall down the Lord Jesus […]; and the Jews knelt before the Lord Jesus, and […] Hail, Jesus! […] And there came to the Lord | the Virgin Mary; and Simon carried it for the Lord; and | when the Jews […] within […] and […] cross upon the earth, and […] believed in the Lord Jesus […] […] [they parted] the Lord […] the Lord Jesus, and
 
   1  go this-Lord say exist Kidron and then-exist go Lord
-  2  say over-exist Kidron and then-exist
-  3  to-down [ground] to-°sick Lord-Jézus and collapse | from
+  2  say over Kidron and then-exist
+  3  down [ground] to-°sick Lord-Jézus and collapse | from
   4  fall Lord-Jézus to-+cross and kneel Jew
   5  before Lord-Jézus and speak-+say healthy_man^
   6  Jézus Nazareth and leave-to-leave to-Lord | virgin
@@ -1452,10 +1452,10 @@ words. There are 982 of them now.
   5  and see Jew [the_title] good all_the_world
   6  on-suffering-year go Lord and [written] say inside
   7  Lord believe and to-Lord set_on on_the_cross
-  8  and Lord this-pierce-+say one why?-in_turn
+  8  and Lord nail-+say one why?-in_turn
   9  and two [between] on_the_cross and can
  10  take* and why?-in_turn chain-draw-+say
- 11  and why?-in_turn pierce-+say and of-Lord foot can
+ 11  and why?-in_turn nail-+say and of-Lord foot can
 
 ## 050v — the title, and the ninth hour
 
@@ -1477,7 +1477,7 @@ words. There are 982 of them now.
 
 > remain Mary's woe; but his three nails, long, with which they nailed the Lord to the cross. And then the Lord Jesus […] the Lord; and | the Lord's apostles, when they bought […] sweet, and wine; the apostles took […] the Jews' chief; and the Lord […]; but […] […] and the Lord | took […] vinegar; and […]; and the Lord, they took wine upon a sponge on a stick, and held the sponge to the Lord's face […]; and the wine […] his mouth […] […]. And then | the Lord Jesus upon the cross [prayed to] God his Father in heaven […] […] his Father […] into his Father's hands.
 
-  1  remain* of-Mary woe but of-Lord three_nails long this-who
+  1  remain* of-Mary woe than of-Lord three_nails long this-who
   2  this-Lord pierce to-cross and_then Lord-Jézus thirst Lord and | of
   3  Lord apostle then-exist buy grape sweet and
   4  wine grab apostle high_priest = and
@@ -1493,15 +1493,15 @@ words. There are 982 of them now.
 
 > […] and […] to the Lord Jesus, his […] […] Here ends the account Passion evangelist the Passion of the Lord Jesus.
 
-  1  why?-in_turn and from to-Lord-Jézus of-Lord commend* exhale
+  1  why?-in_turn and from to-Lord-Jézus of-Lord commend* give_up_the_ghost
   2  end this the_account* Passion evangelist* suffering Lord-Jézus
 
 ## 052v — the earthquake, and Longinus
 
 > And then the Lord Jesus, his commend give up the ghost upon the cross; the earth quaked, the rocks and the stones rent; the sun and the moon were darkened; and all creatures among the people humbled themselves; and all creation mourned, when Christ the Lord was crucified. And there came one soldier from Jerusalem, blind; and that soldier was Longinus; and the Jews' spear pierced the Lord Jesus Christ; and [pierced] the spear […] the Lord Jesus Christ; and the soldier, the blood splashed from the Lord Jesus upon his eyes, and through it he saw, and the soldier was healed; and the soldier believed in the Lord Jesus Christ, and the soldier was baptized, and saw […]
 
-  1  and then-exist Lord-Jézus of-Lord commend* exhale on_the_cross earth
-  2  quake rock stone split sun and moon
+  1  and then-exist Lord-Jézus of-Lord commend* give_up_the_ghost on_the_cross earth
+  2  quake rock stone rent sun and moon
   3  this eclipse and every tree among_the_people* this humble ~and every
   4  create mourn then-exist Christ crucified Lord and go say.
   5  one soldier on-Jerusalem blind and was_named* soldier
@@ -1516,7 +1516,7 @@ words. There are 982 of them now.
 
 > […] the Lord Jesus Christ; and […] believed in the Lord, but many judged brought […] home. And the second said sorrowfully, accusing, because [darkness] [came] he said that they crucified, saying, the Son of God; and sorrowfully they went, saying […] home; and this [from] was the ninth hour, and four hours from that hour the Lord Jesus suffered upon the cross […] […] all […] home from [breast] [striking] and the apostles […] went, every one of the apostles […] | […] and one, and […]
 
-  1  can Lord-Jézus-Christ and [many] inside Lord believe
+  1  power Lord-Jézus-Christ and [many] inside Lord believe
   2  but many joy brought* [?]-+say home
   3  in_turn-two say sad accuse because [darkness] [came]
   4  say that* ~execute say son God and
@@ -1524,7 +1524,7 @@ words. There are 982 of them now.
   6  [from] out nine ~hour and two-two from ~hour
   7  on_the_cross suffer Lord-Jézus and-+say go-?brought
   8  every [?]-°and_then home from [breast] [striking]
-  9  in_turn apostle exist apart go-go every to-apostle [stood] | on
+  9  in_turn apostle exist apart return every to-apostle [stood] | on
  10  Galilee and one and understand-eat
 
 ## 053v — Joseph and Nicodemus ask for the body
@@ -1552,10 +1552,10 @@ words. There are 982 of them now.
   4  from two-Mary to-people go-two-Mary and grab
   5  ~Nicodemus on_the_cross was_named* Lord-Jézus in_turn three three_nails
   6  seal-to grab holy-John then-+mouth-Mary see | virgin
-  7  Mary then-~exist grab virgin-Mary inside bosom
+  7  Mary then grab virgin-Mary inside bosom
   8  ~and ~do Nicodemus of-living-servant
-  9  [linen] and cover two body and then-~exist [linen] and
- 10  inside-put Nicodemus name-end-to Lord-Jézus and
+  9  [linen] and cover two body and then [linen] and
+ 10  put_in Nicodemus name-end-to Lord-Jézus and
  11  Lord inside tomb close and leave seal* say to-Lord two-two soldier from*
  12  were_opened* Jerusalem head ~and [the_veil] go [part] end this
  13  holy-gospel
@@ -1570,16 +1570,16 @@ words. There are 982 of them now.
 
 > in the seven chapter of his writing: at that time, when they went the three Marys [bought] to the tomb of Christ, because they had prepared [spices] another [anoint] […] Jesus: Mary Salome, and Mary the mother of James, and Mary Magdalene. And then these Marys [and] these Marys among [Salome] […] […] the stone from the tomb; and then | Mary came to the tomb of Christ, and saw the three Marys [the sabbath] the tomb [rolled away]; and then the three Marys within this the three Marys and they went in the three Marys and remain saw […] Jesus; but they saw one
 
-  1  inside seven chapter-leave of-write time then-exist
+  1  inside seven chapter of-write time then-exist
   2  go the_three_Marys [bought] tomb Christ because-exist prepare
   3  [spices] another this-cut_off [anoint] ~exist-[?] Jézus
   4  Mary Salome and Mary James mother and
   5  Mary Magdalene and then-exist this-two-Mary [and] this-two-Mary
   6  among [Salome] among-Mary-+the_three_Marys-[?]-+one-Mary
-  7  raise from stone on-tomb and then-exist | go_on-+three
+  7  lift_up from stone on-tomb and then-exist | go_on-+three
   8  Mary to-tomb Christ and see the_three_Marys [the_sabbath]
   9  SUBJ tomb from [rolled_away] and then-exist the_three_Marys inside this
- 10  the_three_Marys and inside-to-go the_three_Marys and
+ 10  the_three_Marys and enter the_three_Marys and
  11  remain* see ~exist-[?] Jézus but see first^
 
 ## 055v — be not afraid, he is risen
@@ -1604,10 +1604,10 @@ words. There are 982 of them now.
 
   1  appear Lord-Jézus Mary Magdalene inside form from one
   2  gardener and_then this gardener-Lord-Jézus-Christ | this
-  3  woman who-shore [came] woman mourn to-Lord this from
+  3  woman that [came] woman mourn to-Lord this from
   4  Jézus execute rise seek* because
   5  say who-before [risen] see-[?] light on-+heaven
-  6  town-chapter-in_turn stooped_down* tomb bow and tomb SUBJ
+  6  town-chapter-in_turn stooped_down* tomb bow_down and tomb SUBJ
   7  light from-gate and verily can that rise
   8  and leave Lord-Jézus before Mary Magdalene
   9  on-to-place Mary [turning] on-reason that
@@ -1643,14 +1643,14 @@ words. There are 982 of them now.
 
   1  write holy-NAME.prophet
   2  prophet Old_Testament righteous
-  3  six chapter-leave of-write
+  3  six chapter of-write
   4  in_turn holy-Mark seven
   5  write say holy-NAME.prophet
   6  because say SUBJ exist find
   7  inside Old_Testament righteous write this word stand_up-Lord on-die-Lord
   8  king to-Lord thanks [not] and destroy Lord ~evil Christ and from
   9  [Adam] [bound] ~evil can Satan this_is write | to
- 10  holy-Mark inside seven chapter-leave of-write then-exist Lord
+ 10  holy-Mark inside seven chapter of-write then-exist Lord
  11  Christ on_the_cross of-Lord soul exhale earth quake
  12  rock stone this rend sun and moon this
 
@@ -1675,13 +1675,13 @@ words. There are 982 of them now.
 
 > Saint Augustine the doctor: within many years, and one soul [counsel] went into the eternal land; but when the Lord went to the souls, the Lord, and [brought out] three souls [and then] out the Lord went to the souls; and the Lord appeared to the blessed Virgin Mary; and Adam's soul knelt before the blessed Virgin Mary; and the maiden […] prayed; and blessed the blessed Virgin Mary; and all the souls stood before the blessed Virgin Mary; and within Paradise the souls, the Lord, the souls; and the Lord went to the souls; and then twenty-five(?) hours; and this was […] the sixth hour.
 
-  1  holy-Augustine-church_father inside many-to-year and one soul [counsel]
+  1  Saint_Augustine inside many-to-year and one soul [counsel]
   2  ~go inside heaven = but then-exist to-Lord
   3  to-soul-soul-soul-soul-soul go Lord and [brought_out] three soul
   4  every* out to-go Lord soul and Lord appear Lord
   5  to-happy virgin-Mary and kneel ~Adam soul
   6  before to-happy virgin-Mary and girl SUBJ-have_mercy
-  7  ask and bless-year to-happy virgin-Mary
+  7  ask and bless to-happy virgin-Mary
   8  and to-soul-soul-soul every leave before to-happy
   9  virgin-Mary and inside Paradise soul Lord soul
  10  and go Lord soul and then-exist two-ten-ten five
@@ -1715,7 +1715,7 @@ words. There are 982 of them now.
 > The two apostles [drew near] Lord Jesus, and the two apostles began to talk, and the Lord spoke from among them; and then Lord Jesus: O my two apostles, are you not saying, two apostles, Lord, how, saying among [into heaven] have, two apostles, because they said the Lord Jesus Christ apostle that the two men spoke of the Lord, this Lord, the two Lord's apostles; the third Lord; and then Luke this [named] the way, the man, this Lord, this good remain [sad] how [knowest not] the miracles in Jerusalem afterwards, and how the man […] said, the chief truly crucified this Jesus; and the Lord came into the world, went went preaching, and this and that miracle he did
 
   1  two-apostle [drew_near] Lord-Jézus and two-apostle talk and
-  2  Lord from-speak and_then Lord-Jézus oh of-Lord
+  2  Lord talk and_then Lord-Jézus oh of-Lord
   3  two-apostle ~brother say two-apostle Lord how? say ~among
   4  [one_another] have two-apostle because say exist Lord-Jézus-Christ
   5  apostle that* two somebody from-Lord speak this-Lord two
@@ -1763,12 +1763,12 @@ words. There are 982 of them now.
   1  ~Noah symbolize this Jézus execute he_is* ~Noah
   2  redeem every people* inside [the_wood] this [Isaac] and on-this Jézus
   3  execute be_saved every ~Adam gain and_then
-  4  Lord-Jézus from Abraham Abraham symbolize this
+  4  Lord-Jézus about Abraham Abraham symbolize this
   5  Jézus execute and say Lord-Jézus say exist Lord_God.
   6  Abraham on-~angel of-Lord_God Abraham take^
   7  of-son Isaac and Lord sacrifice.
   8  on-to-+offering who do Abraham on
-  9  bind faggot on-+Isaac in_turn Abraham
+  9  tie_up faggot on-+Isaac in_turn Abraham
  10  take^ sword who Isaac want slay
 
 ## 062r — the mount, the ram, and the angel
@@ -1781,9 +1781,9 @@ words. There are 982 of them now.
   4  to_whom-+one and one and sheep and one
   5  lamb brethren* Isaac father sacrifice and say
   6  from-father Abraham from brethren* Lord_God ox.*
-  7  offering and then-exist bind bundle_of_wood*
+  7  offering and then-exist tie_up bundle_of_wood*
   8  of Isaac ~sheep-living want Lord slay and
-  9  shout Lord_God in_the_cloud on-angel leave
+  9  shout Lord_God in_the_cloud on-angel stop
  10  Abraham to-all_the_world SUBJ Lord of love this_is
 
 ## 062v — he made as though he would go further, and they constrained him
@@ -1810,7 +1810,7 @@ words. There are 982 of them now.
   3  [he_blessed] this how? then-exist [vanished] °alone-[?]
   4  and from bread and wine and cloud
   5  bless Lord-Jézus and then-exist the_rest^ apostle | eat-two
-  6  apostle and drink-two-apostle on-place to-two-apostle
+  6  apostle and drink-two-apostle on-place recognize-two-apostle
   7  on-spirit holy-farm SUBJ righteous son God
   8  to Lord-Jézus the_rest^ apostle of-to-leave-this and
   9  leave among the_rest^ apostle Lord-Jézus-Christ chapter-?answered
@@ -1822,15 +1822,15 @@ words. There are 982 of them now.
 
   1  here_begins this holy_gospel
   2  write holy-John
-  3  within^ two-ten-ten chapter-leave
+  3  within^ two-ten-ten chapter
   4  of-write time
-  5  ~find disciple^ within^ Jerusalem
+  5  meet disciple^ within^ Jerusalem
   6  within^ one house six
   7  within^ Lord house where Lord_God
   8  Lord-Jézus dinner ~do and then-exist go holy-Thomas Didymus*
   9  one Saturday evening to-apostle and say-apostle Thomas disciple^
  10  see Lord and say holy-Thomas this-Thomas this not believe
- 11  every this this-hide this-Thomas this believe if not | see
+ 11  every this if this-Thomas this believe if not | see
  12  Thomas of-Lord side^ and of-Thomas finger not put within^ | of
 
 ## 009r — reach hither thy finger, and my Lord and my God
@@ -1842,8 +1842,8 @@ words. There are 982 of them now.
   3  disciple^ in_turn Thomas begin have and say Lord-Jézus Thomas
   4  go-+name to put of-Thomas finger within^ of-Lord wound
   5  [blessed] see believe and [have_not] Lord-Jézus of-Lord wound
-  6  and say Lord-Jézus Thomas happy-to from and somebody see
-  7  and believe but and happy-to from and not see
+  6  and say Lord-Jézus Thomas happy from and somebody see
+  7  and believe but and happy from and not see
   8  from* believe here_ends this holy_gospel and kneel
   9  holy-Thomas before Lord-Jézus and say holy-Thomas Lord
  10  of-Thomas God of-Thomas ask-Thomas this-Lord_God
@@ -1879,18 +1879,18 @@ words. There are 982 of them now.
   8  and this labourer shepherd from shepherd leave
   9  this sheep/a_female_person in_turn-this good shepherd home from shepherd
  10  redeem this sheep/a_female_person and sheep/a_female_person follow inside herd
- 11  and inside-good-exist-to give^ and one from-~carry and
+ 11  and inside-good-exist-to give^ and one carry_away and
 
 ## 064v — the good shepherd giveth his life, and other sheep I have
 
 > in turn who […] out this herd, and went. The wolf, and the sheep carried away; and then Lord Jesus: he who is the good shepherd, of the shepherds, lays down his living for his sheep; and the Lord takes and one [fold] he who is the good shepherd, of the shepherds, is the gate of his sheep; and then they hear the voice of the Lord; the sheep […] the shepherd go; and then Lord Jesus, his apostles, one creature […] one sheep and these sheep I will bring to you blind and go you shall be every one, one shepherd, shepherds one; thanks to the Lord. Here ends this holy gospel.
 
   1  in_turn-who rebuke-trespass out this herd and go.
-  2  wolf and sheep from-~carry and_then
+  2  wolf and sheep carry_away and_then
   3  Lord-Jézus to-+he_who good shepherd from shepherd put
-  4  down of-Lord living to-of-Lord sheep/a_female_person and grab-Lord
+  4  down of-Lord life to-of-Lord sheep/a_female_person and grab-Lord
   5  and one [fold] he_who good shepherd from shepherd
-  6  SUBJ ~gate of-Lord sheep and then-exist hear
+  6  SUBJ gate of-Lord sheep and then-exist hear
   7  voice of-Lord_God sheep ~blind-Lord shepherd go and_then
   8  Lord-Jézus apostle of-Lord [...] [?]-°by_night one sheep/a_female_person
   9  and this-sheep want to-you ~blind go and
@@ -1922,10 +1922,10 @@ words. There are 982 of them now.
   3  Lord-Jézus pick_not fig on-thistle ~but on-fig and | pick_not
   4  food grape thornbush* ~but on-grapevine
   5  because he_who* good tree this good_fruit grab | in_turn
-  6  ~if die-evil tree this die-evil-hell grab
-  7  because good tree can die-evil-hell grab ~but
-  8  every good_fruit grab ~if die-evil tree
-  9  can good_fruit grab ~but every die-evil-hell
+  6  ~if die-evil tree this bad_fruit grab
+  7  because good tree can bad_fruit grab ~but
+  8  every good_fruit grab ~if bad tree
+  9  can good_fruit grab ~but every bad_fruit
  10  grab and_then Lord-Jézus many people exist shout | on-judge
  11  year Lord to-Lord this man^ trespass this Lord preach and say Lord-Jézus
 
@@ -1936,12 +1936,12 @@ words. There are 982 of them now.
   1  and [whosoever] man^ can-say-Lord go Lord_God Lord heart | of
   2  man^ and be_saved Lord every ~Adam gain this man^
   3  [shall_enter] out-year man^ chapter* of-Lord God_the_Father and this man^
-  4  everybody = [shall_enter] inside [many] heaven^ home of-Lord
+  4  everybody = [shall_enter] inside [many] heavenly home of-Lord
   5  God_the_Father but every go man^ on-chapter-oh chapter-oh hell
-  6  fire there exist see grinding tooth weep^
+  6  fire there exist see grinding tooth weep
   7  chapter-oh chapter-oh in_turn and man^ exist [not] man^
   8  say three Lord-chapter-Lord-chapter-Lord be_saved Lord every people* this man^
-  9  every go inside [many] heaven^ home of-Lord God_the_Father there
+  9  every go inside [many] heavenly home of-Lord God_the_Father there
  10  exist man^ joy to-Lord and angel and of-Lord-father
  11  God chapter-oh chapter-oh amen here_ends this holy_gospel
 
@@ -1974,14 +1974,14 @@ words. There are 982 of them now.
   8  on-die to-Lord-die name-[?] ~ask this-Lord you [shall_be_raised]
   9  inside Lord herd apostle because you exist apostle many sad
  10  on-Lord have because you apostle every apostle | on-apostle-chapter
- 11  [oh_Lord] [...] go-go mourn and to-and one and
+ 11  [oh_Lord] [...] return mourn and to-and one and
 
 ## 067v — he that believeth and is baptized shall be saved
 
 > one [died] and this Lord, on the third day, rose again. He stood up, and this Lord, believing in you, within belief, afterwards believe there is a leaving; for ever, amen. And the two men [sendeth] you, and the apostles are one God; the apostles believe, and the man who is outside this believe and one man is saved, but every man is damned and the man who believes in […] Christ, this whosoever shall be saved, because this is to the Lord, one God. Here ends this holy gospel. whatsoever the man has, he asks in Jesus' name he is saved, speaks holy Paul the apostle
 
   1  one [died] and this-Lord on_the_third_day up.
-  2  stand_up-to and this-Lord you ~brother inside
+  2  stand_up and this-Lord you ~brother inside
   3  believe ~do believe* exist
   4  leave-chapter-leave chapter-oh chapter-oh amen and two
   5  somebody [sendeth] you and exist apostle one
@@ -2023,7 +2023,7 @@ words. There are 982 of them now.
   9  day if this-Lord does_not die to you go_not_away
  10  holy-spirit Lord die and this-Lord you
  11  go holy-spirit and you exist see-two
- 12  judge first the sin in_turn-two the righteous third judge
+ 12  judge first from sin in_turn-two from righteous third judge
 
 ## 069r — the Spirit, the tongues, and the signs
 
@@ -2047,7 +2047,7 @@ words. There are 982 of them now.
 
   1  farm in_turn you vine_shoot and go
   2  God_the_Father of-Lord farm angel vine* this | name-Lord
-  3  grapevine and without-+name vine_shoot | [nothing]
+  3  grapevine and without vine_shoot | [nothing]
   4  name take^ this cut_off and vine_shoot out
   5  ~way cast_out and_then Lord-Jézus and man^ exist
   6  inside Lord-[?]-~carry-Lord stay and this-Lord exist
@@ -2063,14 +2063,14 @@ words. There are 982 of them now.
 
   1  exist-Lord inside him say Lord-Jézus who ~do
   2  to-God_the_Father of-Lord this vine_shoot [withered] exist | good
-  3  grape grab this-and-this vine_shoot from-~blind from-God_the_Father
-  4  of-Lord who-chapter every grape carry and go father of-Lord
+  3  grape grab these vine_shoot from-~blind from-God_the_Father
+  4  of-Lord so_that every grape carry and go father of-Lord
   5  two evil farm and this in_turn-what vine_shoot
   6  grab evil farm and SUBJ cast_out on-~evil
   7  fire there exist see grinding tooth crying chapter-oh
   8  chapter-oh and_then Lord-Jézus he_is* from-God_the_Father of-Lord
   9  Lord love and this-Lord you love and say Lord-Jézus oh
- 10  of-Lord son and you love because-exist disciple^ inside-love
+ 10  of-Lord son and you love because-exist disciple^ love
 
 ## 070v — ask in my name, and Paul's three askings again
 
@@ -2159,7 +2159,7 @@ words. There are 982 of them now.
 
   1  exist somebody inside of-Lord name evil inside
   2  somebody exorcise exist serpent carry inside
-  3  hand ~exist somebody can bite exist somebody inside
+  3  hand ~exist somebody not bite exist somebody inside
   4  of-Lord name poison drink and what-to
   5  who somebody ~exist well exist somebody inside of-Lord
   6  name on-cup-[?]-~year of-somebody why?-in_turn put
@@ -2209,7 +2209,7 @@ words. There are 982 of them now.
   3  inside kingdom^ of-God_the_Father exist all_the_world of-Lord how? heaven
   4  this and ~earth bread of-somebody every day^
   5  grab-Lord man^ today’s day^ this-somebody trespass
-  6  forgive^ how?-to man^ forgive^ of-somebody indebted
+  6  forgive^ how?-to man^ forgive^ of-somebody debtors
   7  lead us into temptation redeem from evil amen
   8  write holy-Matthew inside of gospel and two say
   9  holy-Peter Master Lord when? exist pass
@@ -2223,9 +2223,9 @@ words. There are 982 of them now.
   2  Master how? apostle gospel Lord write say Lord-Jézus one
   3  year write apostle literal in_turn two metaphoric and then-exist
   4  heaven* gate exist-to Lord-Jézus and then-exist
-  5  go Lord-Jézus heaven glory* and Lord light from
+  5  go Lord-Jézus heaven glory* and Lord bright from
   6  ~leave because would_like^ Lord-Jézus then-exist Lord
-  7  apostle God shine on-this world* and then-exist-two
+  7  apostle be_glorified shine on-this world* and then-exist-two
   8  appear two angel-angel white | clothes
   9  believe* and_then two angel-angel you
  10  Galilee man how? Lord joy see Jairus
@@ -2237,7 +2237,7 @@ words. There are 982 of them now.
   1  ~leave from_heaven* land this joy
   2  would_like^ Lord go on-[?] judge living and die
   3  man^ and say-two this two angel-angel go-apostle within^
-  4  Galilee and Lord find apostle-somebody.
+  4  Galilee and Lord meet apostle-somebody.
   5  and [gazing] see word do two | angel
   6  angel here_ends this holy_gospel the_Lord love Lord_God be_loved
   7  speak-Lord apostle Lord-Jézus-Christ
@@ -2252,7 +2252,7 @@ words. There are 982 of them now.
   1  [afterward] to-apostle many say say write [holy_Paul] apostolic_letter
   2  inside one chapter of-write time then-exist Lord-Jézus-Christ
   3  inside thirty year and three_days and five moon and three_days inside
-  4  time leave-to-leave apostle ~to Lord-Jézus and_then holy-Peter
+  4  time leave-to-leave apostle under Lord-Jézus and_then holy-Peter
   5  answered want-high this-Peter forgive^ [how_often] exist Peter
   6  [then] and_then Lord-Jézus-Christ Peter Peter | in_turn
   7  brethren* one-[?] dry* one year commit sin somebody
@@ -2264,11 +2264,11 @@ words. There are 982 of them now.
 
 > he departed on the water of heaven [walked] Peter, Peter, if rather a man among the apostles sins against you witness from […] the man, the apostle, the sin […] […] the man, of the man's sin, leave it; but if a man's sins are many, in turn he who is a thief; in turn robber; in turn a shedder of blood, that is a killer of men; the man in turn [adulterer]; the man in turn from [thief] the man in turn proud; the man in turn a drinker; the man in turn many [proud]; the man in turn under many yokes; this Peter said Lord Jesus Christ, because Peter is [pride] in turn in humble the man, this be damned how then the man dies in turn
 
-  1  ~leave on-water heaven [high] Peter Peter if-°but_rather
+  1  stop on-water heaven [high] Peter Peter if-°but_rather
   2  SUBJ somebody among apostle you sin witness* from
   3  heathen* somebody apostle sin witness* publican* somebody | of
   4  somebody-~sin leave but if-exist many somebody-~sin in_turn
-  5  thief-who in_turn robber in_turn blood murderer that_is
+  5  thief in_turn robber in_turn blood murderer that_is
   6  people-die somebody in_turn [adulterer] somebody in_turn from [thief]
   7  somebody in_turn proud somebody in_turn drink somebody in_turn many
   8  [proud] somebody in_turn many yoke-chapter somebody this-on-Peter
@@ -2314,10 +2314,10 @@ words. There are 982 of them now.
   3  why?-in_turn because this exist righteous righteous to-~somebody-~sin because
   4  false ~judge-somebody according_to* chapter-judge-~somebody righteous judge
   5  °but_rather-every [by_appearance] false judge in_turn false ~judge-somebody
-  6  righteous man^ false from-judge be_damned SUBJ inside ~evil
+  6  righteous man^ false judge be_damned SUBJ inside ~evil
   7  SUBJ chapter-oh chapter-oh in_turn righteous ~judge-somebody every
   8  to-which-chapter righteous judge according_to* judge-somebody false
-  9  from-judge °but_rather-every to-which-chapter righteous judge Lord_God speak every write
+  9  judge °but_rather-every to-which-chapter righteous judge Lord_God speak every write
  10  and every prophet and every church_father and every forefather and evangelist*
 
 ## 079r — the orders of angels, and one word
@@ -2356,7 +2356,7 @@ words. There are 982 of them now.
   1  humble every good and exist disciple^ new who-ascend language say
   2  [truly] you exist many miracle say which-mouth-chapter-year
   3  inside Old_Testament word and living-exist go before [continuing] ~baptize
-  4  [until] judge-~year end this SUBJ learn holy-gospel begins
+  4  [until] judge-~year end this SUBJ apostle holy-gospel begins
   5  this holy-gospel write holy-Luke inside two chapter of-write time
   6  then-exist on-execute Lord-~Christ [?]-year and | then
   7  Lord-exist [?]-year time stand^ disciple^ prayer^
@@ -2402,7 +2402,7 @@ words. There are 982 of them now.
   2  on-see because ~exist-+name Jew [under_heaven] every sough and | then
   3  exist Jew go_to inside house where apostle-Mary | on
   4  prayer^ to sky from apostle-Mary on-pray ascension^
-  5  heaven^ word thanks apostle-Mary to-Lord thanks Lord God and
+  5  heavenly word thanks apostle-Mary to-Lord thanks Lord God and
   6  various language say and_then Jew ~blind-to.
   7  this-apostle Jerusalem son see how? language say and_then apostle
   8  SUBJ exist apostle Master from sky go holy-spirit [amazed]
@@ -2469,13 +2469,13 @@ words. There are 982 of them now.
   4  son-Lord_God this can-son-Lord_God do who | this
   5  son-Lord_God this ~sea inside this pit scoop-son-Lord_God
   6  say this little son-Lord_God first this-son this | can
-  7  son-Lord_God do but-who this-Augustine on-chapter-leave-this
+  7  son-Lord_God do than this-Augustine on-chapter-leave-this
   8  and son-Lord_God [cannot] see word ~do before
   9  holy-Augustine and can to-many this [understand] on-write [the_Trinity]
- 10  but believe righteous baptize one God | of
+ 10  than believe righteous Christian one God | of
  11  somebody-+SUBJ heaven land that_is have
  12  carry law God [not_commit] sin somebody be_saved
- 13  somebody answered* to-many mortal_suffering chapter-oh chapter-oh
+ 13  somebody answered* many mortal_suffering chapter-oh chapter-oh
  14  amen speak holy_James apostolic_letter exist-exist of
 
 ## 085r — one commandment broken is all of them broken
@@ -2492,7 +2492,7 @@ words. There are 982 of them now.
   8  Jew Jézus apostle-pagan above-high serpent son living God
   9  Lord-Jézus-Christ and to-somebody from face and to-somebody soul
  10  ~on-+cross-[?] and to-somebody SUBJ of blood shed and somebody SUBJ
- 11  redeem-Lord from hell fire [stay] somebody to-many from-until
+ 11  redeem-Lord from hell fire [stay] somebody to-many stay
  12  ten-+law believe righteous woman-[?] one God
 
 ## 085v — Elijah calls down fire
@@ -2541,7 +2541,7 @@ words. There are 982 of them now.
   7  heaven and earth [together] symbolize exist-exist-chapter Lord-Jézus
   8  Christ [unconsumed] symbolize fire Lord_God and can every | father-God
   9  Lord-Jézus-Christ-angel-holy-spirit-Mary-apostle one [God]
- 10  God [made] and this [unconsumed] exist from-until on-execute
+ 10  God [made] and this [unconsumed] exist stay on-execute
  11  Lord-Jézus-Christ on-thirty inside the_host* Lord-year on-every all_the_world world*
 
 ## 087r — the torch and the light
@@ -2552,7 +2552,7 @@ words. There are 982 of them now.
   2  God man* everybody = be_saved and one
   3  somebody be_damned Elijah symbolize exist-exist-chapter to-happy
   4  virgin-Mary how? from-Mary torch light then-~be_born
-  5  create-Lord of-somebody and can on_the_cross to-one
+  5  Creator_Lord of-somebody and can on_the_cross to-one
   6  somebody die but every people* die this-+one one somebody
   7  can God every inside of-somebody mouth grab because Lord_God
   8  ~have-[?] exist-exist-chapter but_rather [the_sun] God-+SUBJ
@@ -2585,7 +2585,7 @@ words. There are 982 of them now.
   2  go name-somebody or sit and ~blind exist ask from this
   3  somebody alms inside Jézus and-~body [alms]
   4  blind high-grab somebody be_damned exist somebody chapter-oh
-  5  chapter-oh riches* ~but-somebody from-judge be_damned somebody
+  5  chapter-oh riches* ~but-somebody judge be_damned somebody
   6  on-blind in_turn be_damned whosoever* be_damned exist somebody chapter-oh
   7  chapter-oh [remember] be_saved somebody be_damned exist somebody conceive
   8  whosoever* inside ~evil bury [there] write somebody
@@ -2617,14 +2617,14 @@ words. There are 982 of them now.
 
   1  alms and the_poor_man/woman* alms take rich [desired]
   2  but the_poor_man/woman* out chase and then-exist lie this
-  3  the_poor_man/woman* out ~gate to-of-rich exist-+one because exist the_poor_man/woman* [full_of_sores]
+  3  the_poor_man/woman* out gate to-of-rich exist-+one because exist the_poor_man/woman* [full_of_sores]
   4  exist [laid] and then-exist want the_poor_man/woman* trespass from crumbs the_dogs*
   5  on-of-rich table^ [fell_from] the_poor_man/woman* take and then-exist | have
   6  rich many dog and go-dog this Lazarus ~and
   7  lick-dog of-Lazarus ~wound and Lazarus more
   8  exist from dog have have_mercy this Lazarus in_turn from-rich
   9  have_mercy ~believe-Lazarus lame have_mercy and then-exist this Lazarus
- 10  die go angel heaven glory* literal from-father God the_Highest* this Lazarus and Lazarus
+ 10  die go angel heaven glory* most_high from-father God the_Highest* this Lazarus and Lazarus
  11  grab-angel and Lazarus carry inside öl Abraham
  12  forefather and then-exist see this miracle this rich from this Lazarus
 
@@ -2636,29 +2636,29 @@ words. There are 982 of them now.
   2  rich die and this-~rich [also] inside ~evil bury and then-exist
   3  suffer inside ~evil this ~rich see ~trespass-~rich and see Lazarus
   4  inside öl father Abraham and shout this rich
-  5  father Abraham say-father Lazarus because-this from-understand the_poor_man/woman* | of
+  5  father Abraham say-father Lazarus because-this let the_poor_man/woman* | of
   6  Lazarus little finger immerge water and cool
   7  on-of-rich tongue [cool] flame* soul of-rich and from
   8  [remember] exist-exist-chapter of-rich and_then father Abraham | this
   9  ~rich son of-God_the_Father this-~rich good [in_thy_lifetime] he_is*
  10  Lazarus exist [evil_things] [now] people* in_turn this-~rich exist
  11  rich ~blind [lifted_up_his_eyes] this-~rich grab-Lazarus trespass from crumbs
- 12  the_dogs* [?]-~rich throne ~rich grab [fell_from] ~rich Lazarus take
+ 12  the_dogs* [?]-~rich table ~rich grab [fell_from] ~rich Lazarus take
 
 ## 090r — a great gulf fixed, and they have Moses and the prophets
 
 > said father Abraham, take Lazarus [send] opposite the people. And then father Abraham: a great chasm between the rich man […] or […] this is the netherworld, most high, evil upon evil; who cries, this […] father Abraham; and Lazarus [may come] in the bosom of father Abraham; and a second time this rich man cried, father Abraham, send Lazarus [great gulf] opposite world the rich man has, the trespass, these two, of the rich man brethren, because the brethren […] of the rich man, how in this rich man's suffering because these brethren, the man sins, from [repent] then is damned the man, as the rich man, this rich man is damned. Said father Abraham, they have the brethren, the trespass, this prophet, and preaching, because this prophet preaches evil; the man, the brethren be damned and a third time he cried, this
 
-  1  say father Abraham grab-Lazarus [send] opposite people* and_then
+  1  say father Abraham grab-Lazarus [send] up people* and_then
   2  father Abraham great^ chasm among-~rich-[?] or [pass_over]
   3  this_is netherworld highest ~evil on-~evil who-shout this-[?]
   4  father Abraham and Lazarus [may_come] inside öl father
   5  Abraham and two who-shout this-~rich our_father Abraham
-  6  go Lazarus [great_gulf] opposite world have-~rich trespass this-two-two of-rich
+  6  go Lazarus [great_gulf] up world have-~rich trespass this-two-two of-rich
   7  ~brother because ~brother say-Lazarus from-~rich how? inside this-rich suffer
   8  because this ~brother somebody sin from [repent] then-exist be_damned
   9  somebody how?-rich this-rich be_damned say our_father Abraham have
- 10  exist-exist trespass this prophet and preach because this prophet preach
+ 10  exist-exist trespass this prophet and preach in_order_that this prophet preach
  11  hear somebody brother be_damned* and three who-shout this
 
 ## 090v — neither will they be persuaded, though one rose from the dead
@@ -2752,7 +2752,7 @@ words. There are 982 of them now.
   5  go of-living-somebody-Lord_God this-?man then-chapter-Lord_God go-?man
   6  of-Lord_God dinner say this first this-?man not.
   7  can-?man because buy-?man plough | want
-  8  man* SUBJ -anus-go see and want plough [prove_them.]
+  8  man* SUBJ go_out see and want plough [prove_them.]
   9  ask this-~servant to-speak man* exist-to
  10  of-living-~servant Lord_God and say this two sense lo.
  11  living-servant go of-living-servant Lord_God this-somebody-sense
@@ -2782,7 +2782,7 @@ words. There are 982 of them now.
   3  can somebody-thief and to-go-somebody-thief and these
   4  somebody-thief [answered] say to-speak somebody-thief exist-to
   5  of-[?] Lord_God and then-exist and one | go-somebody
-  6  man* on-this to-dinner-to say this
+  6  man* on-this dinner say this
   7  Lord_God that_is people-chapter and people-chapter from-speak of-Lord_God dinner
   8  and say of-Lord_God living-servant go on-roadside and on-way
   9  and on-town and on-gate town and.
@@ -2905,8 +2905,8 @@ words. There are 982 of them now.
 
   1  Lord-Jézus [preached] among high_priest = and of-Lord apostle
   2  and_then Lord-Jézus apostle of-Lord and Jew ~people [the_lamp_of_the_body]
-  3  have_mercy-+SUBJ of-[?] eye-from [single] [lightsome] | of-apostle
-  4  say-somebody eye-from and_then Lord-Jézus eye-from | of-[?]
+  3  have_mercy-+SUBJ of-[?] eye [single] [lightsome] | of-apostle
+  4  say-somebody eye and_then Lord-Jézus eye | of-[?]
   5  man^ this_is lamp of-[?] and lamp | of-apostle
   6  say-somebody this_is exist-exist-chapter of-[?] and
   7  in_turn exist inside of-[?] exist-exist-chapter remain* one
@@ -2920,7 +2920,7 @@ words. There are 982 of them now.
 
   1  of-Lord flog various from-donkey and_then Lord-Jézus if
   2  exist inside of-[?] exist-exist-chapter all^ heart clean exist
-  3  all^ of-[?] exist-exist-chapter light and_then Lord-Jézus
+  3  all^ of-[?] exist-exist-chapter bright and_then Lord-Jézus
   4  how? then-exist [?]-[?] lamp light to-+SUBJ
   5  light lamp hundred exist light of-[?] exist-exist-chapter
   6  here_ends this holy_gospel Lord_God be_loved Lord_God SUBJ have_mercy and righteous
@@ -2974,8 +2974,8 @@ words. There are 982 of them now.
   7  SUBJ through light die SUBJ
   8  raised_up* lame
   9  body and evil^ possessed SUBJ heal Elijah | who-and-this
- 10  and-this miracle do Elijah write church_father church_father^ pagan
- 11  first write church_father^ pagan church_father [concerning] Elijah
+ 10  and-this miracle do Elijah write church_father church_father pagan
+ 11  first write church_father pagan church_father [concerning] Elijah
 
 ## 100v — the fathers on the sepulchre, a chronology, and the temple of forty-six years
 
@@ -2985,7 +2985,7 @@ words. There are 982 of them now.
   2  pagan church_father on-that_is write high-hide-and-from scholar.
   3  pagan church_father on-that_is write scholar pagan Pharisees*
   4  and church_father this three write and Saint_Augustine_the_church_father Elijah
-  5  Lord_God heart-Lord first but_rather heart-Lord sun and moon
+  5  Lord_God heart-Lord first than heart-Lord sun and moon
   6  and exist living Elijah to Elijah two then-exist from
   7  Adam heart-Lord fifty and on-this somebody [and_six] seven
   8  people-chapter time exist this somebody five_hundred and
@@ -3031,9 +3031,9 @@ words. There are 982 of them now.
   4  time then-exist Lord-Jézus inside thirty year time
   5  from-woman-woman Lord-Jézus and go-Lord from town
   6  until town from temple until temple from
-  7  plough until plough and of-Lord apostle go-Lord into_the_world* gospel
+  7  town until town and of-Lord apostle go-Lord into_the_world* gospel
   8  preach-Lord various miracle ~do-Lord | ~blind
-  9  ~blind SUBJ-Lord through light-Lord die raised_up_(by_the_Lord)* lame*
+  9  ~blind SUBJ-Lord through light-Lord die raise-Lord lame
 
 ## 102v — the Passion in short: the sun darkened, the rocks rent
 
@@ -3041,11 +3041,11 @@ words. There are 982 of them now.
 
   1  body and evil^ possessed heal-Lord and suffer SUBJ Lord to
   2  somebody-sin good all_the_world on_the_cross-[?] and to-somebody
-  3  SUBJ of-Lord pour and somebody redeem-Lord from hell
+  3  SUBJ of-Lord shed_blood and somebody redeem-Lord from hell
   4  fire and then-exist-Lord on_the_cross-[?] | sun*
   5  Lord-+name and moon this eclipse before sun eclipse
   6  and before moon eclipse ~earth quake rock
-  7  stone split and on-sun eclipse all^
+  7  stone rent and on-sun eclipse all^
   8  [...] on-+world this humble and all^ create mourn
   9  then-exist Christ on_the_cross-[?] ~and Lord inside tomb | put
 
@@ -3066,7 +3066,7 @@ words. There are 982 of them now.
 
 > of the Lord; from the lost sheep this Lord's soul the Lord redeemed; the wolf; the face of the earth; this Father's soul; the lost sheep [gather] the Lord took; this Father's soul. redeem heavenly until the ages of ages, amen. From every ghost, and from [fared sumptuously] the Lord, from the heavenly, on this the people believe; woman, woman; and […] the Lord […] the angel. On […]-[…]-Mary-Jesus-God-Christ-angel-the-lost-sheep speaks Saint […], the church father. Holy Anne, this Anne, gave birth: [for ever] [and ever] [for ever] to mercy, the commandment; go, on everyone, the whole world.
 
-  1  of-Lord from-+the_lost_sheep this-Lord soul redeem-Lord wolf ~earth
+  1  of-Lord sheep this-Lord soul redeem-Lord wolf ~earth
   2  this-God_the_Father soul the_lost_sheep [gather] grab-Lord this-God_the_Father soul
   3  redeem heavenly until chapter-oh chapter-oh
   4  amen from every ghost and from [fared_sumptuously] Lord from heavenly* on-this
@@ -3086,7 +3086,7 @@ words. There are 982 of them now.
   3  into_the_world* gospel preach various miracle ~do
   4  Lord and suffer to somebody sin all_the_world crucified Lord and
   5  to somebody SUBJ of-Lord shed_his_blood and somebody SUBJ redeem-Lord
-  6  from hell fire and somebody Lord exist believe-chapter
+  6  from hell fire and somebody Lord exist believe
   7  that righteous son living God everybody = be_saved and one
   8  somebody be_damned to and Lord not believe and [perish]
   9  one to be_saved ~but everybody = be_damned
@@ -3102,7 +3102,7 @@ words. There are 982 of them now.
   5  Jézus disciple^ of-Lord
   6  and Jew people-chapter
   7  to-happy two from
-  8  eye-from to-two eye-from this Lord see who you [those_things_which] | see-apostle
+  8  eye to-two eye this Lord see who you [those_things_which] | see-apostle
   9  say because many holy-father many write church_father many prophet many
  10  king many emperor | would_like_to-father-church_father-prophet-king-emperor
  11  this see who you [blessed_are] from-[?] and
@@ -3118,7 +3118,7 @@ words. There are 982 of them now.
   4  [answered] to-+say pray say the_scripture* write say this
   5  Jew this-church_father pray church_father the_scripture* write inside
   6  six chapter say Lord-Jézus joy this-Lord this-Jew how?
-  7  read^ the_scripture* righteous and_then this Jew this read^
+  7  read the_scripture* righteous and_then this Jew this read
   8  the_scripture* write love Lord_God highest ~every heart all^ of-somebody
   9  soul all^ of-somebody might all^ of-somebody heart and | of
  10  somebody exist-exist how?-to somebody neighbour of-somebody SUBJ
@@ -3137,8 +3137,8 @@ words. There are 982 of them now.
   7  and from exist living-~servant commit sin of-~somebody-~Adam
   8  Lord_God and exorcise on-of-Lord have_mercy and then-exist
   9  go-~somebody-~Adam on-~field to-one place °forgive-+SUBJ
- 10  Jericho in_turn-chapter-in_turn evening-from-to build-to and then-exist go
- 11  ~servant ~Adam on-~field and then-exist appear robber
+ 10  Jericho in_turn-chapter-in_turn evening-from-to build and then-exist go
+ 11  ~servant ~Adam on-~field and then-exist meet robber
 
 ## 106r — stripped, half dead; the priest and the Levite pass by
 
@@ -3148,9 +3148,9 @@ words. There are 982 of them now.
   2  and then-exist this robber remit ~Adam grab
   3  booty and ~Adam beat robber
   4  die-this ~Adam and half_dead and half_alive
-  5  thus go ~on one descendant-Abraham who-to
+  5  thus go ~on one descendant_of_Abraham who-to
   6  ~Adam on-see-descendant-Abraham long-~Adam and | go
-  7  descendant-Abraham go ~on the_rest^ ~begin descendant_of_Moses who-to ~Adam
+  7  descendant_of_Abraham go ~on the_rest^ ~begin descendant_of_Moses who-to ~Adam
   8  [?]-descendant_of_Moses long-~Adam and go [by_chance]
   9  ~Adam can-two-Abraham-?the_scripture good ~do
  10  long-~Adam through go-two-Abraham thus
@@ -3160,11 +3160,11 @@ words. There are 982 of them now.
 > Went on one Samaritan, to Jerusalem, the Lord's living servant; and saw his face, found him, and had compassion on the man; afterward, for the Lord poured wine into the man's wounds, and had mercy; one; to the Lord long; in turn the Lord's faith; bound up the man's wounds, and the man | he put, the Lord, on his own shoulder; and the man he carried, to the Lord's lodging; and the man this innkeeper took. And the innkeeper took two [pence], two denarii; and then this innkeeper, this innkeeper, on the man take care; on this, that, whatever more on the man | […]
 
   1  go ~on one Samaritan on-Jerusalem of-Lord living-servant
-  2  and face find and have_mercy to-~Adam
+  2  and face found and have_mercy to-~Adam
   3  ~do because pour-Lord wine of-~Adam
   4  wound and have_mercy one-to long-Lord in_turn of-Lord clothes
   5  bound_up of-~Adam wound and ~Adam | place^
-  6  Lord on-of-Lord shoulder and ~Adam from-carry to-Lord
+  6  Lord on-of-Lord shoulder and ~Adam take_away to-Lord
   7  on-lodging and ~Adam grab this innkeeper
   8  and innkeeper grab two [pence] two denarius
   9  and_then this innkeeper this-innkeeper on-~Adam
@@ -3174,7 +3174,7 @@ words. There are 982 of them now.
 
 > the innkeeper; then, when I come again, everything this innkeeper I repay. And then the Lord Jesus asked, this Lord, this Jew: who was this good neighbour among | the […] of Abraham, the one of the scripture, the Samaritan? And then this Jew say: and this said, he spoke and said: he is [neighbour] the good neighbour, and […] did mercy to the man. And then the Lord Jesus, right, spoke to the Jew. And then the Lord Jesus, | this Jew brought(?); and he said: stay, do, said, it is, said he, the kingdom of heaven. The end of this holy gospel. Speaks holy Matthew: from the one denarius is signified
 
-  1  innkeeper then-chapter go doomsday every this-innkeeper regive
+  1  innkeeper then-chapter go doomsday every this-innkeeper give_back
   2  and_then Lord-Jézus judge this-Lord this-Jew who?
   3  SUBJ this good friend among | [?]-Abraham-+one-?the_scripture
   4  the_Samaritan and_then this Jew [say]
@@ -3192,7 +3192,7 @@ words. There are 982 of them now.
   1  Old_Testament believe in_turn-two denarius symbolize ~on-be_born
   2  and die Lord-Christ speak Saint_Augustine_the_church_father [two_pence] [Testaments.]
   3  little [the_Old] [the_New] say God but exist-exist-chapter
-  4  God swallow on-from thirty [years] [preached] from to-high-food
+  4  God swallow on-from thirty [years] [preached] from priest
   5  before gospel say | Lord
   6  Jézus apostle of-Lord and
   7  Jew people
@@ -3210,11 +3210,11 @@ words. There are 982 of them now.
   3  this world* in_turn lose_savour this salt good-apostle-God out-out
   4  salt cast_out and salt people trample
   5  because this exist high you good_deed = and_then
-  6  Lord-Jézus and SUBJ city on-high to_the_mount and city [up]
+  6  Lord-Jézus and SUBJ city on-high to_the_mount and city up
   7  people see and then-+SUBJ [trodden_down] people to-+city.
-  8  escape this and you on-learn you
+  8  escape this and you learn you
   9  good_deed = in_turn-who-exist high from-two people on-learn
- 10  and do find among people man^ have_mercy
+ 10  and do found among people man^ have_mercy
 
 ## 108v — the candle and the bushel, and the Father's house
 
@@ -3240,7 +3240,7 @@ words. There are 982 of them now.
   3  until judge-~year and one believe two exist
   4  leave-leave but believe* this-Lord you remit-Lord
   5  and_then Lord-Jézus and man^ exist carry he_who* the_scripture*
-  6  abound* and from man^ exist this righteous on-learn
+  6  abound* and from man^ exist this righteous teaching
   7  in_turn and man^ exist carry he_who* the_scripture* abound*
   8  and from whosoever* is_not this righteous on-learn and_then Lord-Jézus
   9  and man^ exist carry he_who* the_scripture* write of-somebody
@@ -3281,12 +3281,12 @@ words. There are 982 of them now.
 
 > Jerusalem; for this Jerusalem, all Jerusalem, the Roman destroyed, at their head | Vespasi- -anus, and his son Titus; […] stone upon stone | shall not be left; [them that sold] faith. And the Lord Jesus went into the Jerusalem temple; and then the Lord found within them that sold, the sellers of doves; and the Lord Jesus made of small cords a whip, and all of them [drove out] out, out, cast out the Lord. And then the Lord Jesus: this is the house of prayer, this house; make it pleasing to the Lord, of the Father. In turn ye, the house, have made, said he, a den of thieves. And from thence the Lord Jesus, from until Palm Sunday, until many […]. The end of this | holy gospel.
 
-  1  Jerusalem because this-Jerusalem every-Jerusalem destroyed the_Roman on-head | Vespasi-
+  1  Jerusalem because this-Jerusalem every-Jerusalem destroyed the_Roman general | Vespasi-
   2  -anus son Titus that stone on-stone | shall_not_be
   3  left [them_that_sold] believe and go Lord-Jézus
-  4  within^ Jerusalem temple and then-exist Lord within^ find [them_that_sold]
+  4  within^ Jerusalem temple and then-exist Lord within^ found [them_that_sold]
   5  dove_seller and do Lord-Jézus of_cords
-  6  cords scourge^ and every-+say [drove_out] out-out
+  6  cords scourge and every-+say [drove_out] out
   7  cast_out Lord and_then Lord-Jézus this_is prayer^
   8  house this house SUBJ do on-pleasing of-Lord from
   9  God_the_Father in_turn you house do-+say
@@ -3315,7 +3315,7 @@ words. There are 982 of them now.
 
   1  say people go every scattered and then-exist on-execute Lord
   2  Christ one-ten-+one-ten and two-two-year time grab Lord_God
-  3  can Roman on-head and on-head | and-exist
+  3  power Roman general and general | and-exist
   4  exist-+name exist Vespasian and Titus and this exist
   5  from-father son and then-exist two-father-son destroyed Jerusalem every Jerusalem [shall_fall]
   6  until ground and stone on-stone shall_not_be_left and | two
@@ -3331,12 +3331,12 @@ words. There are 982 of them now.
   1  among say capture every say on_the_cross execute °but_rather-[?] and
   2  exist head crucify* [sold] head and say can
   3  head [a_penny] on-find on-exist-+say-+SUBJ
-  4  execute head [?]-+SUBJ vend head
+  4  execute head [?]-+SUBJ sell head
   5  on-thirty to-one denarius and-+say SUBJ | from
   6  sell* head remit in_turn-chapter-in_turn ~until in_turn-chapter-in_turn go
   7  take* head and say nine hundred to-thirty denarius
-  8  and head SUBJ more grab but_rather* exist.
-  9  Judas and say vend in_turn-two-two sorrow* write
+  8  and head SUBJ more grab than exist.
+  9  Judas and say sell in_turn-two-two sorrow* write
  10  speak on_Holy_Tuesday = then-chapter Lazarus on-tomb among-Lord not_only sorrow*
 
 ## 112v — the fourth and fifth sorrows: Lazarus, and Good Friday
@@ -3346,11 +3346,11 @@ words. There are 982 of them now.
   1  eye Lord-Jézus | but_rather highest sad because Lazarus [was_sick] health among
   2  out on-tomb because three_days exist Lazarus inside tomb and Lazarus
   3  [was_sick] health out among-Lord fifth sorrow* write
-  4  speak on_Good_Friday = then-chapter Christ crucified because to-°high-Lord
+  4  speak on_Good_Friday = then Christ crucified because to-°high-Lord
   5  [not_only] somebody die-Lord not_only sorrow* eye Lord-Jézus but_rather highest sad
   6  sad to people [groaned] inside-Lord [troubled] believe because foresee | Lord
   7  Jézus [?]-+SUBJ say people go every scattered because-exist
-  8  say [looked_up] heaven Jerusalem end this learn holy-gospel
+  8  say [looked_up] heaven Jerusalem end this apostle holy-gospel
   9  because on-judge-year [?]-angel divide angel evil
  10  how? one sheep [wept] one [?]-+say
 
@@ -3380,7 +3380,7 @@ words. There are 982 of them now.
   3  of-soul-son God_the_Father and go soul-son far inside | town
   4  exist and leave soul-son inside land and | begin-soul
   5  son from every prodigalize leave soul-son this land because | begin-soul
-  6  son live_riotously and then-exist many-year leave soul-son this | in_turn
+  6  son lived_riotously and then-exist many-year leave soul-son this | in_turn
   7  exist-exist and leave hunger this and soul-son
   8  how_shall_we* eat because remain-[?] | rich-eye-say-hear-love-have_mercy
   9  believe-righteous-+five-sense-[?]
@@ -3395,8 +3395,8 @@ words. There are 982 of them now.
   3  food but begin-soul-son name-from-+name [husks] [swine] he_who* | sin
   4  [?]-from understand and begin-soul-son speak have | from-father
   5  DIV of-soul-son labourer and servant good ascension^
-  6  but this-soul-son ascension^ and tasty bread eat have_mercy
-  7  Lord_God labourer servant but this-soul-son eat and_then
+  6  than this-soul-son ascension^ and tasty bread eat have_mercy
+  7  Lord_God labourer servant than this-soul-son eat and_then
   8  this the_younger_son this-soul-son and go-soul-son.
   9  of-soul-son from-God_the_Father want [hired_servants] soul-son ~humble want-soul-son
 
@@ -3419,7 +3419,7 @@ words. There are 982 of them now.
 > and the son of the soul, mercy, this Father, of the son of the soul, all of the son of the soul, through the sin he who left, through the sin […]. And then this Father God of the son of the soul, the hired men and the servants, the holy apostles, the teaching, and the angel went, the apostles, the teaching, the angel; and | they brought, the apostles, the teaching, the angel, the most beautiful robe: the Lord's robe, that is love, the Lord God; the Lord's robe, that is mercy, the Lord God; the Lord's robe, that is | the Lord God; the Lord's robe, that is righteousness, the Lord God. And the son of the soul, from | the Father, the apostles, the teaching, the angels, within the law, to the Lord's faith; and | the son of the soul went, the apostles, the teaching, the angels, into his Father God's house; there is
 
   1  and soul-son have_mercy this father of-soul-son every of-soul-son
-  2  commit sin he_who* from-leave through ~sin-[?] and_then this
+  2  commit sin he_who* become through ~sin-[?] and_then this
   3  of-soul-son from-God_the_Father labourer and servant holy-apostle-learn
   4  and angel go-apostle-learn-angel and | carry-apostle-learn
   5  angel fairest robe Lord clothes SUBJ love Lord_God
@@ -3450,7 +3450,7 @@ words. There are 982 of them now.
   2  and_then of-angel from-God_the_Father from-God_the_Father of-angel [hath_this_world's_goods]
   3  this father angel grab one sheep die and
   4  one loaf bread love-exist this-angel
-  5  from-joy of-angel one-+friend in_turn on-this soul-son joy
+  5  rejoice of-angel friend in_turn on-this soul-son joy
   6  father and understand grab from this father many ~rich | eye-say-hear
   7  love-have_mercy-believe-righteous-+five-sense and_then
   8  this father of-angel from-God_the_Father son of-God_the_Father lo
@@ -3464,12 +3464,12 @@ words. There are 982 of them now.
 
   1  before gospel-+SUBJ
   2  write holy-John
-  3  the_Baptist/woman this word write
+  3  the_Baptist this word write
   4  time then-exist
   5  Lord-Jézus inside | two-ten-ten
   6  year and inside nine year inside
   7  time preach
-  8  holy-John the_Baptist/woman on-Carmel to-mount and go.
+  8  holy-John the_Baptist on-Carmel to-mount and go.
   9  this-who John two-two [publicans] soldier Pharisee farm and sin
  10  people because exist go soldier Pharisee farm and sin on-learn
  11  to-John on-Carmel on first people exist soldier
@@ -3481,8 +3481,8 @@ words. There are 982 of them now.
   1  people in_turn-two people exist Pharisee Jew third people exist
   2  farm people in_turn-two-two people exist sinners*
   3  first say soldier people answered-soldier go-soldier this-John
-  4  on-learn on what? learn exist soldier how_shall_we* be_saved | from
-  5  speak and soldier holy-John the_Baptist/woman of-soldier ~rich and | of
+  4  learn on what? learn exist soldier how_shall_we* be_saved | from
+  5  speak and soldier holy-John the_Baptist of-soldier ~rich and | of
   6  soldier clothes on-begin donate soldier God [content] poor_man_of_God^
   7  and exist-soldier have_mercy-soldier and righteous-soldier exist | ~you
   8  yours heaven land time say the_Pharisees*
@@ -3493,14 +3493,14 @@ words. There are 982 of them now.
 
 > they spoke. And to the Pharisees, holy John the Baptist: and have this, ye Pharisees, righteous people; preach, and teach the sinful; how is sin, from redeem. And be ye Pharisees merciful, ye Pharisees, and righteous, ye Pharisees; there is yours the kingdom of heaven. Then said the farmers, the people, to John; the farmers answered; the farmers went to this John to be taught, in a dream taught. The farmers: how shall we be saved? they spoke. And to the farmers, holy John the Baptist: and have this, ye farmers; you, farmers, farm, till the ground, and conceive, and rightly, of the farmers, not, living; and to the poor of God give alms; be ye farmers merciful, ye farmers, and righteous, ye farmers; yours is the kingdom of heaven.
 
-  1  from-speak and the_Pharisees* holy-John the_Baptist/woman and have this the_Pharisees.*
+  1  from-speak and the_Pharisees* holy-John the_Baptist and have this the_Pharisees.*
   2  righteous people preach and sin learn how? exist sin | from
   3  redeem* and exist-Pharisee have_mercy-?the_Pharisees and righteous-?the_Pharisees exist
   4  you heaven land time say farm.
   5  people to-John answered-farm go-farm this-John
   6  on-learn on what? learn exist farm how_shall_we* be_saved from-speak
-  7  and farm holy-John the_Baptist/woman and have this-farm you
-  8  farm farm plough? and bow and righteous of-farm not-not
+  7  and farm holy-John the_Baptist and have this-farm you
+  8  farm farm plough? and sow and righteous of-farm not-not
   9  living and poor_man_of_God = donate exist-farm have_mercy-farm
  10  and righteous-farm exist you heaven land
 
@@ -3511,8 +3511,8 @@ words. There are 982 of them now.
   1  time say sinners* answered-?sinners | go
   2  sinners* this-John on-learn on what? learn exist.
   3  sinners* how_shall_we* be_saved from-speak and sinners*
-  4  holy-John the_Baptist/woman and have sinners* love Lord_God
-  5  highest all^ heart all^ of-?sinners soul all^ of-?sinners
+  4  holy-John the_Baptist and have sinners* love Lord_God
+  5  most_high all^ heart all^ of-?sinners soul all^ of-?sinners
   6  might all^ of-?sinners heart and of-?sinners
   7  exist-exist how?-to somebody neighbour exist-?sinners | have_mercy
   8  sinners* and righteous-?sinners and carry sinners*
@@ -3554,21 +3554,21 @@ words. There are 982 of them now.
 > on his shoulder; and the man went to his friends and neighbours, and he is, with friend and neighbour; he said to them: I have found, my sheep, which [which was lost]; mine is this, this. Oh! And good, over the sheep, joy; in turn, over the ninety and nine sheep. And then the Lord Jesus: then one woman, the head, and she had ten drachmas; and then of these ten she loseth one. Eve; and there is light, Eve, the son of Mary, born, crucified, the lamp; and then Eve findeth this drachma, the kingdom of heaven; and there is good, over heaven, the kingdom, joy, Eve; over the Lord Christ's dying,
 
   1  of-somebody shoulder and go-somebody to-of-somebody friend and neighbours
-  2  and exist and-friend-neighbor say-somebody say exist | find
-  3  somebody sheep [which_was_lost] somebody exist this-this oh and
+  2  and exist and-friend-neighbor say-somebody say exist | found
+  3  somebody sheep [which_was_lost] somebody exist this-this wish and
   4  good on-~sheep joy ~but on-nine-ten and nine sheep/a_female_person
   5  and_then Lord-Jézus then-exist one woman ~head
-  6  and exist have ten silver^ and then-exist this ten lost
+  6  and exist have ten silver and then-exist this ten lost
   7  Eve and exist light Eve | Mary-son
   8  be_born-+crucified lamp and then-exist find Eve
-  9  this silver^ heaven land and exist good
+  9  this silver heaven land and exist good
  10  on-+heaven land joy Eve on-die-Lord-Christ
 
 ## 120r — the ninety-nine, and the nine orders of angels
 
 > Eve's joy; in turn, over the feeding, the nine drachmas, the law. The end of this holy gospel. Then the Lord [telleth], the Lord Jesus [healeth], the sufferer. The gospel: said the Lord Jesus to his apostles and the Jewish people, this Lord: one Lord, this sheep; because to the Lord, this Lord abandon the Lord, the nine orders of angels within the kingdom of heaven. And then the Lord Jesus, then the Lord bowed down, from the Father God, heaven, into the kingdom of heaven, upon many angels, upon the angel whose name is Lucifer, and the second angel, and Lucifer, as he was; and forty thousand years
 
-  1  Eve rejoice^ but on-food nine drachma law end
+  1  Eve rejoice^ than on-food nine drachma law end
   2  this holy-gospel then-exist-Lord [telleth] Lord-Jézus [until] sufferer
   3  gospel say Lord-Jézus apostle of-Lord and Jew people this-Lord
   4  one Lord this sheep/a_female_person because to-Lord this-Lord | abandon
@@ -3586,7 +3586,7 @@ words. There are 982 of them now.
   2  on-heaven land on-~evil redeem* SUBJ one
   3  order ~year-chapter from* and then-exist this-Lord go-Lord from-God_the_Father
   4  of-Lord from this-Lord want-Lord [the_tenth] ~begin order angel and from
-  5  to-leave of-Lord ~until judge-year want-Lord of-Lord | from
+  5  ascension of-Lord ~until judge-year want-Lord of-Lord | from
   6  God_the_Father [the_tenth] from order on-place [shall_stand_empty] SUBJ | exist
   7  Lord bow-Lord from-God_the_Father of-Lord on-heaven land
   8  on-~evil then-exist | go-Lord-God_the_Father-son-God-Jézus-holy-spirit
@@ -3599,9 +3599,9 @@ words. There are 982 of them now.
   1  exist this-Lord judge-Lord of-Lord from-God_the_Father on-sheep
   2  righteous people and believe inside divine_one^ and inside of-Lord from-God_the_Father many
   3  judge and neighbours and friend angel and apostle chapter-oh chapter-oh
-  4  amen and_then Lord-Jézus this one-~woman this_is of-Lord
+  4  amen and_then Lord-Jézus this woman this_is of-Lord
   5  create you mother it from it SUBJ | exist
-  6  it loseth_one-+it one silver^ one
+  6  it loseth_one-+it one silver one
   7  order order inside heaven land because then
   8  bow from-God_the_Father heaven on-many angel on-heaven.
   9  land on-~evil and_then Lord-Jézus say exist
@@ -3641,7 +3641,7 @@ words. There are 982 of them now.
   1  and one living-die-sin have hunger thirsty to-to-this-who.
   2  [afterward] grab Lord this Adam every righteous one
   3  law this yoke this Adam command = do_not eat
-  4  this to-~son evil-~sin thou_shalt_die* ~if Adam exist eat
+  4  this to-~son forbidden_fruit thou_shalt_die* ~if Adam exist eat
   5  on-place die and then-exist Adam sleep inside into_Paradise
   6  and then-exist table first from saying and then-exist go holy-spirit
   7  inside Paradise and_then this SUBJ this the_garden and
@@ -3652,7 +3652,7 @@ words. There are 982 of them now.
 
 > laughed; and then this: bone of my bones. In turn, the two souls, one […] by name. And then the Lord Jesus left, the Lord, the Father God, the Son, the Spirit, into the kingdom of heaven; and there went she into the Garden of Eden; and then Eve, Eve went to this tree which stood in the midst; it is the Lord God's, by the law; and she saw a serpent. And then this serpent: she, eat of this fruit. And then she: ye shall not eat, because she, Adam, answered by the commandment. And then this serpent: Eve, eat; she, Adam.
 
-  1  from laugh and_then this bone bone in_turn two soul
+  1  from laugh and_then this bone bones in_turn two soul
   2  one ~brother-+name and_then Lord-Jézus leave Lord-God_the_Father
   3  son spirit on-heaven land and go
   4  it on-Eden and then-exist Eve
@@ -3680,7 +3680,7 @@ words. There are 982 of them now.
 
 > the son, Lucifer, is bowed down, the Father God, into heaven; in turn the day is unto hell. And then the Lord Jesus left, the Lord, the Father, the Son, the Spirit, into heaven; in turn […] within the Garden of Eden. And then the Lord Jesus, this second throne, from the saying; and then left, the Lord, the Father, the Son, the Spirit; left into the kingdom of heaven, into Paradise; he said: there is […] of […]. The Spirit to Adam: Adam, where art thou? And then Adam, which Adam; the Lord God said, the Lord, the Father, the Son, the Spirit, by mouth: Adam, which, said Adam,
 
-  1  who-+SUBJ Satan exist ~bow God_the_Father on-heaven | in_turn-chapter
+  1  who-+SUBJ Satan exist put_off God_the_Father on-heaven | in_turn-chapter
   2  ~year-exist on-hell and_then Lord-Jézus leave Lord-father son
   3  Spirit_of_God^ on-heaven ~land inside Eden
   4  and_then Lord-Jézus this table two from saying and then-exist
@@ -3688,7 +3688,7 @@ words. There are 982 of them now.
   6  inside into_Paradise say exist [down] | of-[?].
   7  Spirit_of_God^ to-Adam Adam why? and_then
   8  Adam hide Adam Lord_God say | Lord-father-son
-  9  Spirit_of_God^ who-mouth Adam hide say Adam
+  9  Spirit_of_God^ why? Adam hide say Adam
 
 ## 124v — the woman gave me, and the serpent beguiled me
 
@@ -3711,7 +3711,7 @@ words. There are 982 of them now.
   1  law this-Adam exist name-[?]-ten commandment carry exist
   2  Adam to-to-this-who on-of-Adam in_turn chapter-~who.
   3  gates* exist Adam earth to_till_the_ground
-  4  want to-~son eat^ take^ in_turn Eve this
+  4  want to-~son food take^ in_turn Eve this
   5  Eve exist through pine and this Eve
   6  exist painful ~be_born have in_turn this evil
   7  exist [cursed] earth slide and
@@ -3738,7 +3738,7 @@ words. There are 982 of them now.
   2  Eden and one create can_be inside
   3  Eden but angel and_then Lord-Jézus
   4  this table three from saying say Lord-Jézus this SUBJ this
-  5  silver^ and exist lose then from evil-~sin eat two
+  5  silver and exist lose then from forbidden_fruit eat two
   6  ~Adam and Eve and ~Adam slide out
   7  exorcise Lord-father son holy-spirit and then-exist hell
   8  evil from Adam_and_Eve take^ from good
@@ -3754,7 +3754,7 @@ words. There are 982 of them now.
   4  from-God_the_Father can ~woman find redemption ~exist
   5  exist be_born mother of-Lord love and redemption this-Lord from mother
   6  [again] be_born and redemption this-Lord on_the_cross [thereon] in_turn
-  7  [?]-[?] on_the_cross from want find this silver^ this heaven*
+  7  [?]-[?] on_the_cross from want find this silver this heaven*
   8  land [?]-+SUBJ exist from Adam_and_Eve
   9  abandon Satan and say Lord-Jézus this-Lord want-Lord
  10  trespass grab and ~redeem-Lord of-Lord from-God_the_Father heaven
@@ -3763,7 +3763,7 @@ words. There are 982 of them now.
 
 > He said, in sleep, the angel of God, to holy Hezekiah the prophet; Hezekiah, the Lord God, this is, saith the Lord: within three days, this | one shall die. And then from laughter, holy Hezekiah began, Hezekiah, to be sad, holy Hezekiah, and cried out: who shall make ready? There went to Hezekiah […] and a second time said the angel of God: Hezekiah, the Lord God, this is, saith: I have had mercy on thee; it is until […] years thou shalt live; and mercy.
 
-  1  say inside sleep God angel
+  1  say inside dream God angel
   2  holy-Hezekiah
   3  prophet Hezekiah
   4  Lord_God this_is say-Lord
@@ -3781,8 +3781,8 @@ words. There are 982 of them now.
 > Made ready, holy Hezekiah; and upon […] Hezekiah's soul breathed out; and then of Hezekiah the soul breathed out; then appeared the angel of God, and said to the servants: of Hezekiah, lay him. This is for ever, in the sepulchre; in turn the soul of Hezekiah, | this the angel would take; and the angel left, in turn, holy Hezekiah for ever in the sepulchre laid. The servants speak; holy Paul apostolic letter [writeth] the brethren of Paul […] and Paul made ready, of Paul, in his last year.
 
   1  prepare holy-Hezekiah and on-[?]
-  2  of-Hezekiah soul give_out^ and then-exist-chapter-to-and
-  3  of_Hezekiah soul give_out^ time appear.
+  2  of-Hezekiah soul give_out and then-exist-chapter-to-and
+  3  of_Hezekiah soul give_out time appear.
   4  God angel and say servant of_Hezekiah put.
   5  this exist-exist-chapter inside tomb in_turn soul Hezekiah | this
   6  angel want-angel give^ and leave angel
@@ -3871,7 +3871,7 @@ words. There are 982 of them now.
   3  go-Lord and_then | holy-Philip answered show apostle
   4  of-Lord from-God_the_Father and_then Lord-Jézus Philip SUBJ apostle
   5  Lord see-apostle then this-Lord miracle do [works] miracle
-  6  one-Lord this-Lord to-Lord from do but_rather* God_the_Father
+  6  one-Lord this-Lord to-Lord by do but_rather* God_the_Father
   7  of-Lord [?]-°down do of-Lord finger
   8  and apostle begin rebuke on-believe and_then | Lord
   9  Jézus and SUBJ man^ Lord see-apostle this-apostle SUBJ and of-Lord
@@ -3989,7 +3989,7 @@ words. There are 982 of them now.
   5  ask this [?]-~somebody-+king of-Lord | [forgave_the_debt]
   6  good-do and then-exist Lord_God-king | law-love-have_mercy
   7  righteous-good-do not-to-°high take^ and_then
-  8  this Lord_God-king vend angel-somebody be_damned | of
+  8  this Lord_God-king sell angel-somebody be_damned | of
   9  somebody ~son sin and people* ~rich-to and kneel-somebody
  10  this somebody this heaven^ servant before this | Lord_God
 
@@ -4004,7 +4004,7 @@ words. There are 982 of them now.
   5  somebody forgive^ this Lord_God-king and somebody forgive^ every ~exist-+one
   6  of-somebody sin and somebody go-angel of-somebody
   7  home and then-exist go_on-somebody this heavenly servant
-  8  of-somebody home and then-exist come^ one | God
+  8  of-somebody home and then-exist come one | God
   9  somebody this somebody heavenly servant and somebody exist
  10  debt^ hundred* denarius and God-somebody begin ask
 
@@ -4017,9 +4017,9 @@ words. There are 982 of them now.
   3  begin ~pray [fellowservant] [a_hundred_pence] have law | to
   4  God-somebody want-God-somebody this somebody heavenly servant
   5  have_compassion remit debt^ and God-somebody release*
-  6  but God-somebody take^ inside prison^ and God-somebody
-  7  until-from bow head inside scaffold and
-  8  see this sad two servant this Lord_God-king angel forgive^
+  6  but God-somebody take^ inside prison and God-somebody
+  7  until-from bowed head inside scaffold and
+  8  see this sad other servant this Lord_God-king angel forgive^
   9  one only Lord_God and go-angel sad-angel-this
  10  this Lord_God-king and Lord_God-king say angel
 
@@ -4044,13 +4044,13 @@ words. There are 982 of them now.
 
   1  want-God-somebody this heavenly servant have_compassion
   2  forgive^ debt^ and God somebody release*
-  3  but God-somebody grab inside prison^ and God-somebody
-  4  to-house-from bow ~head inside scaffold
+  3  but God-somebody grab inside prison and God-somebody
+  4  to-house-from bowed ~head inside scaffold
   5  grow_angry this king Lord Christ and go on-this
   6  heavenly servant and servant go die angel before
   7  this king before Lord Christ one only
   8  Lord_God and_then this king this servant forgive^ | of
-  9  Lord from-father God to-hide that_servant ~how? Lord to and
+  9  Lord from-father God to-hide that_servant like Lord to and
  10  king that_servant have_mercy-Lord have_mercy-Lord that_servant
 
 ## 137r — the end of the reading
@@ -4073,7 +4073,7 @@ words. There are 982 of them now.
   1  healing-girl through holy-Mary mother God gate into_Paradise
   2  king-Mary heaven wife world* ascend-Mary | this
   3  Mary one only virgin-girl this-Mary ~conceive Jézus without sin
-  4  be_born-Mary Creator and from Lord-redeemer inside Lord | this-NAME.author
+  4  be_born-Mary Creator_Lord and from Lord-redeemer inside Lord | this-NAME.author
   5  somebody doubt_not-NAME.author-somebody believe | this-NAME.author
   6  somebody this-Mary pray to-~sin | of-NAME.author
   7  somebody then-exist ascend soul remit | of-NAME.author
@@ -4085,14 +4085,14 @@ words. There are 982 of them now.
 > … God: this Mary of God. Blessed Mary, this Mary among women; blessed is the son of Mary, he who went to the Lord | from above, of Mary. Here ends the chapter. Jesus Christ. Amen. Hail, maiden, holy Mary, who took hold of the virgin girl. (An earlier printing read the first sign as the healing of a girl; it is Király and Tokai's *Hail*, as at 137v:1.) N. believes, this N., that this Mary is; N. through the mercy of the virgin girl; and N. is [blessed art thou] […] this […] and in every saying, and | redeem Mary; N., on the day of wrath of Mary, through the day of wrath, through — O son of Mary, Lord of N. — Jesus Christ.
 
   1  DIV this-Mary-DIV blessed-Mary this-Mary ~among
-  2  the_poor_man/woman* blessed-+SUBJ of-Mary son he_who go-Lord | from
+  2  woman blessed-+SUBJ of-Mary son he_who go-Lord | from
   3  up of-Mary exist-exist-chapter Jézus Christ amen
   4  healing-girl through holy-Mary from grab-virgin-girl
   5  believe this-NAME.author-somebody this-Mary exist NAME.author-somebody
   6  through have_mercy-virgin-girl and exist NAME.author-somebody [blessed_art_thou]
   7  [among_women] this °sick-+name-Mary and inside every saying and | redeem
   8  Mary NAME.author-somebody grow_angry-~year of-Mary through grow_angry-~year
-  9  through oh son of-Mary Lord of-somebody Jézus Christ
+  9  through wish son of-Mary Lord of-somebody Jézus Christ
 
 ## 138v — Saint Augustine and the three Hail Marys
 
@@ -4161,7 +4161,7 @@ words. There are 982 of them now.
   3  home* and every to-place [wide] leave-somebody be_saved-somebody
   4  exist chapter-oh chapter-oh amen write speak
   5  every all_the_world world pleasing from-God_the_Father in_turn son of-God_the_Father.
-  6  pray from virgin-Mary ask to every want Lord
+  6  pray from virgin-Mary believe to every want Lord
   7  from-God_the_Father hear every all_the_world people* want Lord to-+will
   8  do and Lord somebody exist righteous believe
   9  somebody this SUBJ apostle every write because everybody = sin
@@ -4216,9 +4216,9 @@ words. There are 982 of them now.
 
 > The woman: the father, to him in turn, who — this, to the wife — could do, how this woman could. The woman went into mercy, the woman; of the woman the Lord; and then would say this chapter, sister: to fast, the woman [prayed]; and God. Here ends the chapter. She carried the woman, within the woman's mouth; and the Lord is God. Here ends the chapter. She kissed the woman; the Lord would, this woman; mercy there is; and then the woman, the woman, to fast, and took God. Here ends the chapter. And she carried the woman, within the woman's
 
-  1  woman the_Baptist/woman from-father to-to if this to-to-wife can do
+  1  woman the_Baptist/woman from-father to-to if_only this to-to-wife can do
   2  how? this-+woman can woman the_Baptist/woman inside have_mercy go woman
-  3  of-+woman the_Baptist/woman Lord and_then want say this chapter-+sister
+  3  of-+woman the_Baptist/woman Lord and_then want say this sister
   4  to-fast woman [prayed] and God exist-exist-chapter carry
   5  woman inside of-+woman the_Baptist/woman mouth and Lord exist
   6  God exist-exist-chapter kiss woman the_Baptist/woman want-Lord this
@@ -4250,7 +4250,7 @@ words. There are 982 of them now.
   4  against of-Lord can and_then Lord_God this-Lord this
   5  woman the_Baptist/woman sin have_mercy Lord [forgive] Lord on-sin
   6  [cloud] this say SUBJ son God high-~year-+king want Lord
-  7  heaven earth [shall_pass_away] but one
+  7  heaven earth [shall_pass_away] than one
   8  somebody sin die that_is be_damned to-+little somebody
   9  be_damned Lord God but this somebody to-Lord among Lord
 
@@ -4379,14 +4379,14 @@ words. There are 982 of them now.
   7  one man^ on-Jerusalem
   8  inside Jericho town
   9  and then-exist and go ~Adam on-~field and then-exist.
- 10  come^ one deer and then-exist ~Adam
+ 10  come one deer and then-exist ~Adam
  11  chapter-year [fell_among] deer on-~field and then-exist
 
 ## 148v — the man in the pit, and the two mice
 
 > The man fled across the field, and then the man | fell the man into a pit; and then hang cling the man onto a tree, because there was a branch sticking out [root]; and there came two mice, one black, the other white; and this tree the two mice began to eat. And then the man saw, and to the man he saw an evil one [dragon] and which cried out to the man: the man is lost [in the well] if the man goes back again; this man, this | can
 
-  1  escape ~Adam on-~field and then-exist ~Adam | bow
+  1  escape ~Adam on-~field and then-exist ~Adam | bow_down
   2  ~Adam inside one pit and then-exist hang
   3  cling ~Adam on-one tree because exist
   4  protrude [outgrow] and go two mouse one black
@@ -4428,7 +4428,7 @@ words. There are 982 of them now.
 
 > wrote the church father, to the heathen; first wrote […] | upon this this wrote the church father, the church father [two sons] upon that wrote [the younger] the church father, upon that, wrote the church father the Pharisees; and the church father [the gospel] the gospel: there was one man, and then this man had one. son; and this son was three(?); he sold | and bought from him; and the son […] wanted, the man could the son bought; and then the son went away [divided] among; this son, of the son, from the father, said this
 
-  1  write church_father heathen first write [a_certain_man] | on-this
+  1  write church_father pagan first write [a_certain_man] | on-this
   2  this write church_father church_father [two_sons] on-that_is write
   3  [the_younger] church_father on-that_is SUBJ write church_father
   4  Pharisees* and church_father [the_gospel] gospel exist one
@@ -4444,7 +4444,7 @@ words. There are 982 of them now.
 
   1  son oh of-son from-father kiss son father on-this
   2  last year and then-exist son father kiss and cursed
-  3  [ran] and_then that_is father exist [fell_upon_his_neck] dog
+  3  [ran] and_then that_is father exist [fell_upon_his_neck] darkness
   4  then-exist this-father exist father son apostle on-good ~exist
   5  this-son on-this go-~son on-love son go-~son speak-~baptize
   6  church_father of-somebody church_father on-[?]-+name Saint_Augustine_the_church_father
@@ -4519,7 +4519,7 @@ words. There are 982 of them now.
   4  righteous son God because-exist ~out thief holy-spirit
   5  find_mercy^ and shout-to on_the_cross answered | ask
   6  thief this-thief this-Lord remember on-thief
-  7  then-to go-Lord inside of-Lord kingdom^ and_then
+  7  then go-Lord inside of-Lord kingdom^ and_then
   8  this the_rest^ thief and exist Lord thief condemned.*
   9  [remember_me] this [thy_kingdom] then-exist this-Lord love | can
 
@@ -4629,7 +4629,7 @@ words. There are 982 of them now.
   1  [?]-?world-~king and sad leave-father-[?] and then-exist
   2  to-[?] daughter-believe go-to-[?] | to
   3  of-[?] [?]-[?] and_then this from-[?]
-  4  oh of-[?] to-[?] oh from-[?]
+  4  oh of-[?] to-[?] wish from-[?]
   5  SUBJ love go-to-[?] | judge from-[?] | this
   6  to-[?] he_is* this virgin-daughter-believe say
   7  this to-[?] this_is daughter-believe from robber
@@ -4647,7 +4647,7 @@ words. There are 982 of them now.
   5  inside not_believe [the_mother] of-daughter-Lord-Jézus-Christ-believe | from
   6  God_the_Father because from-God_the_Father of-daughter-Lord-Jézus-Christ wealth
   7  have remit man* [talent] [asked] in_turn | then
-  8  exist this-from-?world-~king exist every of-[?] ~rich | vend
+  8  exist this-from-?world-~king exist every of-[?] ~rich | sell
   9  from-[?] ~exist exist to-[?] how_shall_we* | from
 
 ## 158r — the buying and the selling
@@ -4812,9 +4812,9 @@ words. There are 982 of them now.
   1  and son carry ~exist brethren-~son Lord_God thief ~exist humble
   2  son exist Lord_God ~exist God have-~son out on-town
   3  two-two among man head because have inside.
-  4  Old_Testament word put_off out town to-from aforesaid all_the_world and exist
+  4  Old_Testament word throw_out out town to-from aforesaid all_the_world and exist
   5  to son many people and then-exist leave-to-leave an_army
-  6  an_army among ~gate from-two people people two
+  6  an_army among gate from-two people people two
   7  and stand^ [compassion] and see Lord-Jézus many
   8  sad and_then this woman = remain-~baptize
   9  sad this how? then-exist this say Lord-Jézus stand_up | this
@@ -4869,7 +4869,7 @@ words. There are 982 of them now.
   2  widow and son carry out on-believe.
   3  ~baptize the_Baptist/woman that_is cast_out son remit be_saved
   4  be_damned son chapter-oh chapter-oh inside gospel write
-  5  holy-Luke this example* ~exist love high Lord_God | from
+  5  holy-Luke this example* ~exist love most_high Lord_God | from
   6  literal every heart but_rather various heart love-son and ~exist brethren*
   7  then-chapter die-son go to-son and leave ~exist love
   8  on-one ways* inside gospel write holy-Luke
@@ -4927,7 +4927,7 @@ words. There are 982 of them now.
   3  of-manager somebody-Lord say-~servant this angel-servant
   4  every of-Lord-rich-somebody | [?]-soul.
   5  exist-exist-chapter-reason-sense [give_an_account] sense
-  6  word scatter grow_angry this rich-rich-Lord_God | this-rich.
+  6  word scatter get_angry this rich-rich-Lord_God | this-rich.
   7  man^ and_then to-?the_account many ~exist of-Lord-rich-somebody
   8  steward^ and hear this steward^ this say from
   9  of-manager Lord-rich-somebody [put_out] and | sad
@@ -4950,21 +4950,21 @@ words. There are 982 of them now.
 
 > to write down fifty, in turn fifty | mercy, the man, down [another] this, and this [thy bill] of the steward's rich Lord God; and then these two, the steward | mercy, the man [a hundred] [quarters of wheat] divided into two parts, the steward of mercy, and among these, the steward, these two debtors | alms, the man; and this said, the steward: how much alms dost thou owe, to the steward's rich lord? And then the debtor of alms: a hundred measures of wheat. And then this steward | sat the man of alms down, to write down | from five,
 
-  1  to-down and write fifty in_turn five-rich-ten | have_mercy
-  2  somebody to-down [another] this and this [thy_bill] of-manager
+  1  down and write fifty in_turn five-rich-ten | have_mercy
+  2  somebody down [another] this and this [thy_bill] of-manager
   3  Lord_God-rich-somebody and_then this two steward^ | have_mercy
   4  somebody [a_hundred] [quarters_of_wheat] divide-two-manager-have_mercy-somebody
   5  ~and among this steward^ this two indebted | alms
   6  somebody and say this steward^ how_much? alms indebted
   7  of-manager Lord-rich-somebody and_then indebted alms
-  8  hundred* kor wheat and_then this steward^ | sit
-  9  alms-somebody to-down and write from | five
+  8  hundred* measure wheat and_then this steward^ | sit
+  9  alms-somebody down and write from | five
 
 ## 169r — the lord commended the unjust steward
 
 > thirty, in turn twenty, the man of alms, down [another] this, and these two [eighty] [thy bill] of the steward's rich Lord God; and in turn unjust steward he took, this, the steward's rich Lord God, because the steward was found accused; and then this steward, these two, the steward's men of alms […] […] | divided, the steward's two men of alms. And then the Lord Jesus: O, of the Lord, son; have, apostles, truly: the steward was have, apostles, found accused, because the Lord, this Lord, this rich Lord God, the man; the Lord took to you many riches,
 
-  1  thirty in_turn two-ten-rich alms-somebody to-down [another]
+  1  thirty in_turn two-ten-rich alms-somebody down [another]
   2  this and this two [eighty] [thy_bill] of-manager Lord_God-rich-somebody
   3  in_turn [unjust_steward] take^ this of-manager Lord_God-rich-somebody
   4  because steward^ friend find and_then this steward^
@@ -5029,9 +5029,9 @@ words. There are 982 of them now.
   3  among this people one woman = which
   4  woman = exist nine-year-six-six-year inside blood ill
   5  and_then this woman = then-exist this-woman
-  6  how_shall_we* touch of-woman why?-in_turn of-Lord believe-exist
+  6  how_shall_we* touch of-woman why?-in_turn of-Lord clothes
   7  hem this-woman healing-woman leave-woman and
-  8  then-exist touch believe-exist Lord-Jézus | inside
+  8  then-exist touch clothes Lord-Jézus | inside
   9  hour healing-woman leave-woman and see Lord-Jézus
  10  on-people hand-Lord ~exist many people and_then Lord-Jézus this
 
@@ -5044,7 +5044,7 @@ words. There are 982 of them now.
   3  say Lord-Jézus this-woman of-woman believe healing
   4  do and | go-Lord-head-apostle-Jézus-woman
   5  say this head house and | then-exist-Lord
-  6  ~head-[?]-Jézus-woman-+say inside-go and see
+  6  ~head-[?]-Jézus-woman-+say enter and see
   7  Lord-Jézus many sad and_then Lord-Jézus [give_place]
   8  ~exist this daughter die-daughter but_rather to-sleep-daughter and then-exist
   9  say laugh Lord-Jézus and_then say see love | this
@@ -5114,7 +5114,7 @@ words. There are 982 of them now.
 
   1  of-Lord rich say this servant how_shall_we-somebody to-pleasing Lord_God and
   2  receive* five gold* aforesaid talent and_then this rich Lord
-  3  go-servant inside of-Lord to-house to-of-Lord from-God_the_Father and
+  3  go-servant inside of-Lord house to-of-Lord from-God_the_Father and
   4  to-God_the_Father somebody exist joy-somebody chapter-oh
   5  chapter-oh amen and then-exist among-Lord this two
   6  to_whom SUBJ exist-Lord ~grab-Lord three gold* talent
@@ -5126,7 +5126,7 @@ words. There are 982 of them now.
 
 > go, servant, into the Lord's house, to the Lord's Father, and | to the Father; the man shall be in joy. Chapter. Chapter. Amen. And then, among the Lord's, this third, to whom the Lord had given one talent of gold; and then this rich lord reckoned with the servant: how shall the man? Of the rich Lord, this servant said [hard] servant [thou reapest] [where] [thou hast not sown] [gatherest] there is love, there is riches [ability] servant, because this Lord [afraid] the servant has, because then this servant of the rich Lord lost the servant; this Lord is [hid in the earth]
 
-  1  go servant inside of-Lord to-house to-of-Lord from-God_the_Father and | to
+  1  go servant inside of-Lord house to-of-Lord from-God_the_Father and | to
   2  God_the_Father man^ exist ~joy chapter-oh chapter-oh
   3  amen and then-exist among-Lord this three to_whom SUBJ
   4  exist-Lord grab-Lord one gold* talent
@@ -5144,8 +5144,8 @@ words. There are 982 of them now.
   2  grab because this-rich Lord_God [take_away] [talent] | [?]-+say
   3  man* and say and_then this-rich-Lord
   4  this unhelpful servant high this-servant this | ~servant-love
-  5  exist this eye seem^ servant of-Lord to-house long this | love
-  6  exist go-~servant inside of-Lord to-house and_then this rich
+  5  exist this eye seem^ servant of-Lord house long this | love
+  6  exist go-~servant inside of-Lord house and_then this rich
   7  of-Lord ~servant grab angel from this unhelpful ~servant
   8  this one talent and talent grab angel from
   9  believe ~servant servant talent ten have here_ends this holy_gospel
@@ -5172,17 +5172,17 @@ words. There are 982 of them now.
   5  this well and then-exist dip-~woman this well and_then
   6  Lord-Jézus thirsty-Lord and [?]-~woman-+SUBJ exist-Lord water
   7  ~ask and_then this heathen how? this-Lord | dare
-  8  Lord from heathen water ~ask this heathen in_turn | this
+  8  Lord from pagan water ~ask this heathen in_turn | this
   9  Lord Jew dip-+the_Lord [give_me] on-drink Lord and
 
 ## 176v — the Lord begins to speak to the Gentiles
 
 > he began to speak through the pagan, the Lord Jesus; and the woman of an alien nation | judged this; she had, to the pagan man; and of an alien nation the Lord began | to speak this: lift up, woman of an alien nation, do at home likewise, | do, pagan; she left off, the woman of an alien nation; and then this woman of an alien nation | upon the alien nation […] which; and from [five husbands] this Lord, this Lord's descendant, the Lord, to the pleasing of the Lord, the prophet foretold; and the apostles went to the Lord, and the apostles began; the miracle upon the Lord; the Lord's love; the Lord spoke this | one baptism, two baptisms, the chief; and this woman of an alien nation believed in the Lord Jesus; and the woman of an alien nation went to her own | […] from
 
-  1  begin through talk^ heathen Lord-Jézus and heathen-+SUBJ | ~judge
-  2  this ~have heathen man and heathen begin-Lord | say
+  1  begin through talk^ pagan Lord-Jézus and heathen-+SUBJ | ~judge
+  2  this ~have pagan man and heathen begin-Lord | say
   3  this-raise heathen place^ do ~if | do
-  4  heathen from-leave of-heathen and_then this heathen | on-of
+  4  pagan divorce of-heathen and_then this heathen | on-of
   5  heathen °many-to which and from [five_husbands] this-Lord this-Lord descendant
   6  husband^ to-pleasing-Lord prophet predict and go disciple^ to-Lord
   7  and begin-apostle wonder^ on-Lord love-Lord speak-Lord this | ~woman
@@ -5196,7 +5196,7 @@ words. There are 982 of them now.
   1  [the_woman] and then-exist go inside village and begin-heathen say | this
   2  this people sit one Lord to-well still_more from-Lord
   3  to-pleasing-Lord prophet through predict because of-heathen home
-  4  do love-heathen do heathen from-leave
+  4  do love-heathen do heathen divorce
   5  of-heathen every ~do [all_things] heathen-+SUBJ say-[?] and
   6  then-exist this people inside Lord-somebody believe-people and
   7  go-people this well because-Lord want-people pray | then
@@ -5218,7 +5218,7 @@ words. There are 982 of them now.
   1  five chapter of-write time then-exist Lord-Jézus inside thirty | one
   2  years* time go Lord-Jézus inside Jerusalem and go this-who Lord
   3  many people and then-exist go Lord-Jézus people on-~field-+one and
-  4  leave stood away^ ten leper people and begin ten
+  4  leave stood far_away ten leper people and begin ten
   5  leper shout-to son David king have_mercy
   6  ten leper son and shout-to Lord-Jézus go ten
   7  ~leper and ten appear priest and
@@ -5278,7 +5278,7 @@ words. There are 982 of them now.
   5  because one church church and inside believe be_saved
   6  because from church church one ways* believe
   7  church church inside Lord-Jézus-Christ inside ~be_born and inside
-  8  die then-+SUBJ on_the_cross of-Lord soul exhale third
+  8  die then-+SUBJ on_the_cross of-Lord soul give_up_the_ghost third
   9  SUBJ believe on-~be_born Lord-Christ and through escape
 
 ## 180v — a summary of the Lord's life
@@ -5319,7 +5319,7 @@ words. There are 982 of them now.
   4  and judge-year disciple^ in_turn Thomas begin have and say | Lord
   5  Jézus Thomas go-+name [hither] put of-Thomas finger
   6  within^ of-Lord wound [blessed] see believe and [have_not]
-  7  Lord-Jézus of-Lord wound and say Lord-Jézus Thomas happy-to
+  7  Lord-Jézus of-Lord wound and say Lord-Jézus Thomas happy
   8  from and somebody see [?]-~year ~believe but and | blessed
   9  ~year-to and not see from* believe here_ends this holy_gospel
 
@@ -5355,11 +5355,11 @@ words. There are 982 of them now.
 
 > of the Lord Christ, twenty-six days; the time of sitting at Jerusalem. One of an alien nation there was, a man of substance, whose name was Chosroes; and then he seized upon Jerusalem, the tree of the Cross — the tree upon which Christ was executed — and the tree he carried off into the town of Ctesiphon, into one tower; and then there was war many years upon the Roman emperor, whose name was Heraclius; and then war went, this, to the pagan emperor.
 
-  1  Lord-~Christ two-ten-ten six-~year time to-sit Jerusalem.
+  1  Lord-~Christ two-ten-ten six-~year time occupy Jerusalem.
   2  one to-heathen ~emperor name
   3  exist Chosroes and then-exist grab on-Jerusalem
   4  cross tree ~on tree exist Christ
-  5  execute and tree SUBJ from-carry inside
+  5  execute and tree SUBJ take_away inside
   6  Ctesiphon town inside one tower
   7  and then-exist exist many year war* on-Roman.
   8  emperor name exist Heraclius
@@ -5370,10 +5370,10 @@ words. There are 982 of them now.
 > This Roman emperor then had two wars to fight, sinned against; and then Heraclius the emperor had a small army; and then he believed, as much as he could | from the Lord, giving thanks; the Lord God heard, the Lord God, the emperor's prayer; and God's angel cried out upon the water; Heraclius had it; the Lord God heard Heraclius's prayer; and then God's angel, Heraclius, the daughter, had him write upon his armour the tree of the Cross, and
 
   1  this Roman emperor then-exist have two war*
-  2  on-fight sin_against and then-exist.
+  2  on-fight against_each_other and then-exist.
   3  little an_army have Heraclius emperor
   4  and then-exist ask on-~pray can | from-to
-  5  Lord to-thanks Lord_God hear Lord_God of-~emperor.
+  5  Lord thanks Lord_God hear Lord_God of-~emperor.
   6  pray and shout-to God angel on-water
   7  have Heraclius hear Lord_God of-Heraclius
   8  pray and_then God angel Heraclius daughter
@@ -5391,16 +5391,16 @@ words. There are 982 of them now.
   6  then-exist people to-heathen die and begin pierce [overcame]
   7  [baptized] on-to-heathen earth and then-exist go Heraclius
   8  inside Ctesiphon town on-place to-this to-heathen
-  9  emperor Chosroes because sit emperor inside one
+  9  emperor Chosroes because dwell emperor inside one
 
 ## 184v — the tower of gold and precious stones
 
 > tower; and the tower was all of gold, and built of precious stone, the tower, as though for one God; the emperor sat within, because he had set himself, the emperor, in one way, the emperor; and the emperor was all of gold, shedding blood; and in the second way the emperor had set the tree of the Cross, he himself, upon the gold; and then the emperor [of silver] the water went up again upon the tower; and lo, the emperor took the rain, the emperor […] the emperor would take, and then the emperor made it within the tower, the day […] and to […] and […] and among the tree of the Cross
 
   1  tower and tower exist every golden and gem stone build tower
-  2  how? one God inside-sit emperor because exist put
+  2  how? one God sit_inside emperor because exist put
   3  emperor on-one ways* cock and cock exist every
-  4  golden shed_blood in_turn-two ways* put emperor cross tree
+  4  golden pour in_turn-two ways* put emperor cross tree
   5  he_is* exist on-golden and then-exist emperor [of_silver]
   6  water ascend again* on-tower and lo rain grab
   7  emperor [?]-+SUBJ want emperor grab
@@ -5428,10 +5428,10 @@ words. There are 982 of them now.
   1  [from_the] tower on-+pierce ~and tower God up grab
   2  ~and [of_Chosroes] [emperor] son | from
   3  ~woman and son emperor leave [behind] and
-  4  grab cross tree and SUBJ from-carry inside
+  4  grab cross tree and SUBJ take_away inside
   5  Jerusalem town and then-exist [came] before | army
   6  army and then-exist arrived Jerusalem and to-gate God
-  7  angel ~gate Jerusalem ~and shout-to angel Heraclius
+  7  angel gate Jerusalem ~and shout-to angel Heraclius
   8  this-this Lord-Christ proud out on-Jerusalem carry cross tree
   9  but humble carry and then-exist sit down [upon_an_ass]
 
@@ -5441,7 +5441,7 @@ words. There are 982 of them now.
 
   1  and take_off on-~emperor of clothes [and_then]
   2  [put_off_his_shoes] and bowed head carry cross tree inside
-  3  Jerusalem and then-exist from-gate God angel ~gate Jerusalem
+  3  Jerusalem and then-exist from-gate God angel gate Jerusalem
   4  and emperor many [his_purple] [?]-love-+say cross
   5  tree and cross SUBJ put emperor inside Jerusalem
   6  temple and ~pray-~emperor to-Lord thanks Lord_God
@@ -5556,7 +5556,7 @@ words. There are 982 of them now.
   4  the_Lord exist go-Lord on-suffer inside Jerusalem then-exist-Lord inside thirty
   5  half three_days inside Monday the_Lord many miracle preach-Lord in_turn
   6  Tuesday the_Lord Lazarus on-tomb stand_up resurrect-Lord in_turn Wednesday
-  7  Lord-~but-+SUBJ exist Judas vend to-thirty silver
+  7  Lord-~but-+SUBJ exist Judas sell to-thirty silver
   8  in_turn Thursday dinner-to do-Lord and capture-Lord in_turn
   9  Friday on_the_cross-[?] and evil bound_up in_turn inside Saturday hell
 
@@ -5608,11 +5608,11 @@ words. There are 982 of them now.
 
 > the year; the time the virgin Mary carried, as a wife, in her lap, to the temple the Lord Jesus; because this girl would destroy — truly the Lord, but the girl would out [by the Spirit] the salvation of the Jews; and then the girl went to this temple; the time Simeon went into the temple, by the Holy Spirit, in mercy, and the virgin Mary appeared; and then Simeon, the virgin Mary, Simeon took this son, more than these, this son, Simeon; [into his arms] he carried the son within, Simeon, why in turn; and Simeon knelt down before the Lord Jesus, and asked the Lord for mercy; and then Simeon: Lord, dismiss thy servant in peace.
 
-  1  year time carry wife virgin-Mary inside öl inside temple
+  1  year time carry wife virgin-Mary inside öl in temple
   2  Lord-Jézus because not this-girl destroy righteous Lord ~but want-girl
   3  out [by_the_Spirit] from-salvation Jew and then-exist girl go this temple
   4  time go Simeon inside temple on-holy-spirit find_mercy^
-  5  and come^ virgin-Mary and_then Simeon virgin-Mary
+  5  and come virgin-Mary and_then Simeon virgin-Mary
   6  grab-Simeon this son more_than_these* this son Simeon
   7  [into_his_arms] son carry inside of-Simeon why?-in_turn and kneel
   8  Simeon before Lord-Jézus and Lord find_mercy^ ~ask
@@ -5622,7 +5622,7 @@ words. There are 982 of them now.
 
 > Simeon: for which two reasons? Simeon's two eyes have seen salvation | of Simeon; and holy Simeon blessed the Lord Jesus; and Simeon's sin the Lord had mercy on; and the Lord took him in his lap, and the Lord carried him into the temple at Jerusalem; and then into the temple went the Lord, Simeon and Mary; and Simeon raised the Lord Jesus within, Simeon, why in turn; and then Simeon: lo, from the Lamb; and the Lord went upon heaven and earth, upon this world, the Lord Jesus Christ; and from the Lord, the cross; and upon the Lord there is blessing, all the wide world; and blessing there is; he left. Chapter.
 
-  1  Simeon who-two-why? see two of-Simeon eye-eye be_saved | of
+  1  Simeon because see two of-Simeon eyes be_saved | of
   2  Simeon and bless Lord-Jézus holy-Simeon and sin
   3  Simeon have_mercy-Lord and Lord take^ inside öl
   4  and Lord carry inside Jerusalem temple and then-exist inside temple
@@ -5637,11 +5637,11 @@ words. There are 982 of them now.
 > Chapter. Amen. Here ends this holy gospel. The Lord God's love. This, out of high Moses, truly, in one chapter, he who is written, written: holy Simeon, three days from going out of this world, said: Christ, the apostles of the Lord, announce; Simeon, in the netherworld, to the holy fathers, | at the coming of the Lord: and see, you are saved, and many in judgment who are in the netherworld, from the holy fathers and the holy prophets. Written; and from the holy gospel, that is […] the Lord, this Lord, the holy gospel: this Lord, the nine, upon the water created; this Lord gave light to the blind; this Lord cast the evil out of the people; this Lord the dead raised and resurrected; and this and that; the leper the Lord healed; this Lord, the cross, the holy gospel.
 
   1  chapter-oh amen here_ends this holy_gospel Lord_God SUBJ love this EOL
-  2  out high-Moses righteous inside one chapter he_who* exist write write EOL
+  2  out Moses righteous inside one chapter he_who* exist write write EOL
   3  holy-Simeon three_days on-this world from-go-Simeon say Christ apostle EOL
   4  of-Lord announce SUBJ Simeon inside netherworld holy-from-father | on-+EOL
   5  ~be_born of-Lord and see be_saved you and many EOL
-  6  judge-+SUBJ exist inside netherworld from father-holy and prophet-holy. EOL
+  6  judge-+SUBJ exist inside netherworld from forefather and prophet-holy. EOL
   7  write and from holy-gospel that_is [?]-°down Lord this-Lord holy-gospel EOL
   8  this-Lord grape on-water create this-Lord blind through light EOL
   9  this-Lord evil on-people exorcise this-Lord dead EOL
@@ -5657,8 +5657,8 @@ words. There are 982 of them now.
   4  then-exist Lord-Jézus inside
   5  thirty years* time
   6  preach inside | ~exist
-  7  °afterward-+one and then-exist from-preach Lord-Jézus inside Capharnaum
-  8  and leave to-down on-preach and follow^ to-Lord
+  7  °afterward-+one and then-exist teaching Lord-Jézus inside Capharnaum
+  8  and leave down on-preach and follow^ to-Lord
   9  many people and then-exist go-Lord on-town and see
  10  Lord-Jézus on-publican sit holy-Matthew and_then Lord-Jézus
 
@@ -5674,20 +5674,20 @@ words. There are 982 of them now.
   6  publican exist head and together Lord-Jézus drink
   7  and eat sinners* and begin Jew.
   8  pharisee speak disciple^ of-Lord this you answered
-  9  sinners* from-salvation in_turn then-exist this-Lord exist
+  9  sinners* save in_turn then-exist this-Lord exist
 
 ## 194v — they that are well need not a physician
 
 > and the Lord said: this Lord is sin, therefore the Lord's salvation; and the blind to the Lord Jesus [they that are well] humble; and then the Lord Jesus [a physician] to the Lord: this Lord went not to the righteous man in this world, but to the sinner; and then the Lord Jesus: you, righteous man; and then the Lord Jesus: the healthy man needs no recovery, but rather he needs one sin — this is recovery. Here ends this holy gospel, written by holy Matthew in the […] chapter. Holy Paul speaks and says: | the Lord Jesus Christ, from the beginning of the world, from the creating of Adam, | to [healeth] the coming of the Lord Jesus Christ into this world [sinners]
 
   1  and Lord say this-Lord exist sinner^ ~exist from-salvation-Lord and
-  2  ~blind-to Lord-Jézus [they_that_are_well] grow_angry and_then Lord-Jézus [answered]
+  2  ~blind-to Lord-Jézus [they_that_are_well] get_angry and_then Lord-Jézus [answered]
   3  to-Lord this-Lord go-Lord to-just_man on-this world* but to-sin
   4  and_then Lord-Jézus you just_man and_then
   5  Lord-Jézus need the_healthy healing but_rather need.
-  6  one-sin ~exist-this health^ here_ends this holy_gospel
+  6  one-sin ~exist-this health here_ends this holy_gospel
   7  write holy-Matthew inside and chapter holy-Paul speak say | Lord
-  8  Jézus-Christ from* ~begin-to world* from* ~Adam create | to
+  8  Jézus-Christ from* beginning world* from* ~Adam create | to
   9  [until] ~be_born Lord-Jézus-Christ on-this world [then]
 
 ## 195r — from Adam to the coming of Christ
@@ -5708,9 +5708,9 @@ words. There are 982 of them now.
 
 > to the Lord's Father, upon heaven and earth; | the Lord sits at the Father's right hand, at the food; the Lord shall go to judge the living and the dead; and before going away he blessed all the wide world. This holy gospel begins, written by holy Matthew | […] the twenty-second chapter of the writing: the time, then, | the Lord Jesus, in his thirty-third year, the time the Lord Jesus said to the apostles; they answered: who shall be to the Lord, this Lord, the greatest in the eternal
 
-  1  to-of-Lord from-God_the_Father on-heaven kingdom^ | from-sit
-  2  Lord from-God_the_Father on-right from-food have-Lord go-Lord judge
-  3  living-somebody and die-somebody and before leave bless every all_the_world
+  1  to-of-Lord from-God_the_Father on-heaven kingdom^ | sit_down
+  2  Lord from-God_the_Father on-right from_there have-Lord go-Lord judge
+  3  living-somebody and die-somebody and before ascension bless every all_the_world
   4  world here_begins this holy_gospel.
   5  write holy-Matthew | [sixteen]
   6  two-two chapter of-write.
@@ -5724,13 +5724,13 @@ words. There are 982 of them now.
 
   1  kingdom^ because recognize disciple^ he_is* Lord crucified and
   2  on_the_third_day from die stand_up and Lord to-this disciple^ judge
-  3  who exist to-Lord this-Lord on-many inside heaven =
+  3  who? exist to-Lord this-Lord on-many inside heaven =
   4  and call^ Lord-Jézus one little son.
   5  and son SUBJ put_on Lord-Jézus on-head.
   6  of-Lord why?-in_turn and_then Lord-Jézus who-~exist this humble | how?
   7  SUBJ this little son one ~exist be_saved
   8  time carry Jew one | before | Lord
-  9  Jézus from* this emperor to-+who-to and exist heathen.
+  9  Jézus from* this emperor to-+who-to and exist pagan.
 
 ## 196v — the keys, and whatsoever thou shalt bind
 
@@ -5738,8 +5738,8 @@ words. There are 982 of them now.
 
   1  because hear from everybody = on-one | before this exist
   2  give^ Lord-Jézus key be_saved holy-Peter say | Lord
-  3  Jézus who this-Peter to on-this world from
-  4  man^ exist loose* and from_heaven* kingdom^
+  3  Jézus who this-Peter bind on-this world from
+  4  man^ exist bind and from_heaven* kingdom^
   5  in_turn who this-?with absolve on-this world from
   6  man^ exist absolve and from_heaven* kingdom^
   7  and_then Lord-Jézus he_who on-many Lord you from
@@ -5751,7 +5751,7 @@ words. There are 982 of them now.
 > in the Lord's name, that one therefore is saved; and then the Lord Jesus taught the Lord's, therefore, apostles; and one [despise not] [little ones] did; and then the Lord Jesus to the apostles of the Lord: happy are the people, and the angels see the face of the Lord's Father; it is the will, from the people; and the angels look upon the face of the Lord's Father. Here ends this holy gospel. This holy gospel begins, written by holy Matthew: the time | the Lord Jesus said to the Lord's apostles, and to the Jewish
 
   1  inside of-Lord ~brother-+name and one ~exist be_saved
-  2  and_then Lord-Jézus learn of-Lord ~exist apostle and one
+  2  and_then Lord-Jézus apostle of-Lord ~exist apostle and one
   3  [despise_not] [little_ones] do and_then Lord-Jézus apostle
   4  of-Lord happy from people and angel see face
   5  of-Lord from-God_the_Father will from-people and angel on-see.
@@ -5772,7 +5772,7 @@ words. There are 982 of them now.
   6  [for_what] and_then Lord-Jézus good SUBJ this man^ release* | of
   7  man^ soul be_damned ~but be_saved because many man^
   8  and man^ exist [in_exchange] [for_his_soul] [shall_render] be_saved-somebody every
-  9  man^ be_damned [according_to] [his_works] man^ exist from-judge say
+  9  man^ be_damned [according_to] [his_works] man^ exist judge say
 
 ## 198r — go into all the world
 
@@ -5781,7 +5781,7 @@ words. There are 982 of them now.
   1  on-be_damned everybody = be_saved and_then Lord-Jézus you
   2  ~exist-+say every from_town_to_town* this-believe-+say who
   3  this-Lord you preach-Lord every from_town_to_town*
-  4  this [look_upon] see-+say go on-this world the_Glorified pray
+  4  this [look_upon] see-+say go on-this world from pray
   5  son God inside exist-exist-chapter somebody on-judge-year every from_town_to_town*
   6  this-[?] believe and_then Lord-Jézus [answered_him]
   7  Peter one among you and apostle | see
@@ -5798,7 +5798,7 @@ words. There are 982 of them now.
   3  Elijah prophet [was_taken_up] | say
   4  apostle-somebody to-Lord this-Lord.
   5  you [...] Lord sin have_mercy [fruit] this exist
-  6  inside commandment somebody that_is and have somebody ~carry commandment
+  6  inside commandment somebody that_is and have somebody observe commandment
   7  God [...] sin somebody be_saved to-many | not-not
   8  not chapter-oh chapter-oh amen write SUBJ name
   9  of-somebody inside heaven = to-house die in_turn | on
@@ -5823,9 +5823,9 @@ words. There are 982 of them now.
 
 > two sons, to the pagan and the Jew; and then this rich man | of the Lord, the man, the son, said […] he brought the son into | the Lord's man's vineyard, the farm; he said, brought the son to this, go, and then this rich man […] the second, to the son, […] the man, into the rich man's vineyard, the farm; and then he said, said the priest, and […] […] the man; and said the Lord Jesus to the chief men of the Jews and to the Lord's apostles: judge, Lord, this Lord, you: which of these did good? Say. Said the chief men of the Jews: which did good? He who
 
-  1  two son heathen Jew and_then this rich-somebody | of
+  1  two son pagan Jew and_then this rich-somebody | of
   2  Lord-somebody son on-+say [go_work_today] brought-son inside | of-Lord-from
-  3  man vineyard farm say brought-son to-this ~go-+say
+  3  man vineyard cultivate say brought-son to-this ~go-+say
   4  and_then this rich-somebody [?]-[?] two to-~son
   5  [?]-somebody inside of-Lord-somebody vineyard vinedresser^ °and_then-say-say
   6  priest* and [?]-[?] [?]-somebody and say
@@ -5886,7 +5886,7 @@ words. There are 982 of them now.
   5  poor_man_of_God = ninety-~exist blind and still_more-[?]-to and
   6  hunger and thirst and [feeble] poor_man_of_God = and
   7  [go_ye] [into_the_highways] find servant every go-servant
-  8  filled* inside of-Lord-king house and then-exist out
+  8  filled* inside of-Lord-king house and then-exist fill
   9  house this king various heaven
 
 ## 202r — the man without a wedding garment
@@ -5910,7 +5910,7 @@ words. There are 982 of them now.
   2  Gabriel friend brother-+name this-high to-°sat will
   3  speak-~Gabriel say bind^ somebody hand and.
   4  foot and somebody cast_out angel on-out darkness
-  5  there exist see grinding tooth weep^ chapter-oh
+  5  there exist see grinding tooth weep chapter-oh
   6  chapter-oh here_ends this holy_gospel Lord_God be_loved
   7  here_begins this holy_gospel write.
   8  holy-Matthew [twenty_two] chapter | of.
@@ -5925,10 +5925,10 @@ words. There are 982 of them now.
   2  Jézus and_then say answered-+say [Master] [we_know] true^
   3  man^ and righteous-Lord prophet because true^ God way
   4  go-Lord and divine_one^ ~have king and emperor
-  5  [teachest] go name-Lord on-apostle how? learn-+say-learn | want
+  5  [teachest] go name-Lord learn how? learn-+say-learn | want
   6  divine_one^ grab from would_say* do | [?]-[?]
   7  say grab from everybody = on-one drachma.
-  8  emperor to-heathen and say-+say how? learn-+say-learn
+  8  emperor heathen and say-+say how? learn-+say-learn
   9  want-Lord grab from would_say* do say
 
 ## 203v — whose image and superscription?
@@ -6021,7 +6021,7 @@ words. There are 982 of them now.
 > Zacchaeus sitting upon this tree; and then the Lord Jesus: Zacchaeus, come down, for this Lord must be today in Zacchaeus's house, that day, the Lord; and with joy he left, Zacchaeus; and he came down, this Zacchaeus; and the Lord and the apostles, Jesus, went into Zacchaeus's house; and | from the name of the Lord Jesus, that day, the Lord sat; and they began to murmur against the Lord Jesus, the chief men of the Jews, saying:
 
   1  Zacchaeus abide^ on-this [...]
-  2  and_then Lord-Jézus Zacchaeus go to-down
+  2  and_then Lord-Jézus Zacchaeus go down
   3  this-Lord today exist-Lord inside of-Zacchaeus
   4  house [?]-~year-Lord and joy leave-chapter-leave.
   5  Zacchaeus and go down this.
@@ -6035,11 +6035,11 @@ words. There are 982 of them now.
 > the Son of God, in turn, with one sinner, from one […] one extortioner; and he left afar | the name of Jerusalem, Zacchaeus; and then Zacchaeus: Master, this Zacchaeus takes the half, the half truly, of Zacchaeus's riches, to God, the poor in spirit, truly the half; in turn he left afar one among you, in turn, Jerusalem […] | take, Jerusalem, one denarius; upon the extortion, Jerusalem would, the man, to every one, two by two, take; and the Lord Jesus saw that he himself was
 
   1  son God in_turn one sinner^ from-one
-  2  extorter* one extort and stand^ far | name-Jerusalem
+  2  extorter* one extort and stand^ up | name-Jerusalem
   3  Zacchaeus and_then Zacchaeus
   4  Master this-Zacchaeus half grab
-  5  half-righteous of-Zacchaeus ~rich God
-  6  poor_in_spirit = righteous-half in_turn stand^ far one
+  5  unrighteously of-Zacchaeus ~rich God
+  6  poor_in_spirit = undeservedly in_turn stand^ up one
   7  among you in_turn-chapter-Jerusalem [half_my_goods] | grab
   8  Zacchaeus one denarius on-extort want-chapter-Jerusalem man^
   9  to-every two-two grab and see Lord-Jézus he_is*
@@ -6068,7 +6068,7 @@ words. There are 982 of them now.
   4  somebody-sin righteous and somebody-sin inside righteous Lord_God that_is
   5  and somebody-sin carry law God this_is righteous law Lord_God
   6  and this Zacchaeus exist have_mercy God spiritually
-  7  blind and this Zacchaeus love Lord_God high every create
+  7  blind and this Zacchaeus love Lord_God most_high every create
   8  and everybody = how?-to somebody neighbour* and this.
   9  Zacchaeus exist inside righteous law Lord_God that_is | carry
 
@@ -6108,7 +6108,7 @@ words. There are 982 of them now.
   3  preach hear-somebody this God law and law somebody exist
   4  carry everybody = exist be_saved and this Zacchaeus
   5  [hear_the] word love and carry this three law Lord_God end this
-  6  learn holy-gospel Lord_God be_loved
+  6  apostle holy-gospel Lord_God be_loved
 
 ## 210r — a man possessed brought before the Lord
 
@@ -6122,7 +6122,7 @@ words. There are 982 of them now.
   6  inside thirty ~begin-+three_days time preach | Lord
   7  Jézus inside Jerusalem and then-exist brought* one man^
   8  before Lord-Jézus inside [the_synagogue] man^ exist devil =
-  9  and_then Jew this-Lord hide-evil help
+  9  and_then Jew this-Lord prince_of_devils help
 
 ## 210v — the unclean spirit walks through dry places
 
@@ -6131,7 +6131,7 @@ words. There are 982 of them now.
   1  evil inside from generation^ exorcise and_then Lord-Jézus this-Lord
   2  [by_the_finger_of_God] of-Lord from-God_the_Father and this-Lord of-God_the_Father can miracle
   3  do-Lord and_then Lord-Jézus this therefore-pleasing who-exist
-  4  from evil exist pierce and_then Lord-Jézus then-exist.
+  4  from evil exist expel and_then Lord-Jézus then-exist.
   5  exorcise inside man^ one unclean
   6  ~spirit and go evil dry place and
   7  [walketh] to-Lord place that_is on-virgin-from generation^ and
@@ -6146,7 +6146,7 @@ words. There are 982 of them now.
   2  and exist grab [taketh_with_him] seven evil^ from evil^
   3  trespass mourn and exist [wicked] seven evil^ and | go
   4  evil^ every seven and_then Lord-Jézus how? then-chapter this man^
-  5  first^ aforesaid [swept] and everybody = oh inside house
+  5  first^ aforesaid [swept] and everybody = wish inside house
   6  go-this ~and stand_up-?again first^ ~woman head
   7  among this people Jew and_then blessed from womb
   8  which-+SUBJ this-Lord carry and blessed from breast which | this
@@ -6209,9 +6209,9 @@ words. There are 982 of them now.
 
 > among this people, to the many; and this many people saw what the Lord Jesus could do, and all the people gave the Lord thanks; and this word they cried out, thanks: there is God, by the letter, the most high; and the Lord took a man by name, he could, and a man could do this miracle; and he left, among this people, the Lord Jesus. Here ends this holy gospel. The Lord God, with all thy heart. This holy gospel begins, written by holy John, in the eighth chapter of the writing: the time, then, the Lord Jesus, in his thirty- | third year, the time.
 
-  1  among this people to-many and see this to-many people can Lord-Jézus
+  1  among this people to-many and see this to-many people power Lord-Jézus
   2  and Lord every people give_thanks = and this word who-shout-to
-  3  thanks exist God literal-on the_Highest and the_Lord grab-somebody name-+one can
+  3  thanks exist God most_high highest and the_Lord grab-somebody name-+one can
   4  and somebody can this miracle do and leave among
   5  this people Lord-Jézus here_ends this holy_gospel Lord_God be_loved.
   6  here_begins this holy_gospel
@@ -6226,13 +6226,13 @@ words. There are 982 of them now.
 > The Lord Jesus preached in Jerusalem, and the Lord Jesus said to the Lord's apostles and to the Jewish people: he left behind one, afar, among you, apostles; and the Lord upbraided them for sin; and then the Lord Jesus: amen, amen, this Lord says to you, apostles, and […] from God: whosoever is of God heareth God's word; in turn whosoever, therefore, is not of God, whosoever, God's word he heareth not. And this […] from the two […]; and then the Jews: this Lord is a blasphemer; this Lord, Lucifer, the evil one, the evil, the Lord has; this Lord is one who began to believe
 
   1  preach Lord-Jézus inside Jerusalem and say Lord-Jézus apostle of-Lord and Jew
-  2  people leave-leave one far among you-apostle
-  3  and Lord on-sin admonish-chapter and_then Lord-Jézus verily^ verily^
+  2  people leave-leave one up among you-apostle
+  3  and Lord on-sin admonish and_then Lord-Jézus verily verily
   4  this-Lord you-apostle speak-Lord and [?]-+SUBJ from*
   5  God this ~somebody-[?] God say hear in_turn and ~somebody-[?] ~exist
   6  from* God this ~somebody-[?] God say ~exist hear and this
   7  [?]-+SUBJ from* two [hath_a_devil] and_then Jew
-  8  this-Lord one blasphemer this-Lord Satan hide-evil
+  8  this-Lord one blasphemer this-Lord Satan prince_of_devils
   9  devil^ have-Lord this-Lord one ~begin-believe
 
 ## 214v — before Abraham was made, I am
@@ -6240,7 +6240,7 @@ words. There are 982 of them now.
 > and this Lord, on the holy feast, healed the sick. And then the Lord Jesus, in this [keep my word]: this Lord, through sin, this healing; you are sorrowful, love; this Lord, you, on the holy feast healed the sick. And then the Lord Jesus: amen, amen, this Lord says to you; and whosoever, therefore, believes the Lord, that one therefore, whosoever, is saved; but every man is damned who remains; and | the man, the apostles said, is the Lord's; believe, whosoever lives | whosoever, one, the apostles said. Chapter. Chapter. He shall not die. And then the Jews: Abraham of theirs, the black, believed God;
 
   1  and this-Lord on-holy-feast ill heal-Lord and_then Lord-Jézus inside
-  2  this [keep_my_word] this-Lord commit sin this healthy_man^ SUBJ you sad
+  2  this [keep_my_word] this-Lord commit sin this healing SUBJ you sad
   3  love this-Lord you on-holy-feast ill heal-Lord
   4  and_then Lord-Jézus amen amen this-Lord you
   5  speak-Lord and ~somebody-[?] ~exist Lord believe and one
@@ -6259,7 +6259,7 @@ words. There are 982 of them now.
   4  ~exist this-Lord fifty in_turn-+SUBJ this | two-?thousand
   5  year ~if of-+say from-father Abraham is_dead* in_turn | this
   6  Lord speak-Lord [rejoiced] Abraham Lord see-Lord this ~exist pleasing
-  7  this-Lord blasphemer and_then Lord-Jézus first-Lord this-Lord leave but_rather
+  7  this-Lord blasphemer and_then Lord-Jézus first-Lord this-Lord leave than
   8  you from-father Abraham on-this world* [was_made]
 
 ## 215v — then they took up stones
@@ -6320,7 +6320,7 @@ words. There are 982 of them now.
   3  one [laid_their_garments] colt^ to-donkey the_rest^ donkey
   4  donkey and then-exist tie_up-apostle this donkey and
   5  [they_did] this commandment but [set_him] and sit down Lord-Jézus
-  6  on-?he_said donkey and Lord unloose disciple^ this from
+  6  on-?he_said donkey and Lord loose disciple^ this from
   7  donkey mother this donkey and sit-Lord on-this
   8  from donkey and go-Lord inside Jerusalem and then-exist.
   9  exist-Lord go-Lord on-tasty-to mount highest Jerusalem in_turn-chapter-in_turn
@@ -6329,7 +6329,7 @@ words. There are 982 of them now.
 
 > and […] the Lord Jesus and the Lord's apostles, because they were taught [went before] and then the Lord Jesus to the Lord's apostles: go, you, [multitude] and in turn, brethren, you [cried out] there is judgment, who is it; and the apostles went, the apostles said, and the apostles went to the Lord, to answer; in turn, to the Lord, they went the two ways; and then the Lord was to the Lord [followed] many people, because they preached, this people [a great multitude] the Lord Jesus went; and an army went to the Lord Jesus; and then the Lord Jesus kept going to Jerusalem, and then the Lord was; he saw upon Jerusalem the people; and the Lord Jesus went
 
-  1  and from-°sought-to Lord-Jézus and of-Lord apostle because learn exist [went_before]
+  1  and from-°sought-to Lord-Jézus and of-Lord apostle because apostle exist [went_before]
   2  and_then Lord-Jézus apostle of-Lord go you
   3  [multitude] and in_turn-?brethren you [cried_out] exist judge
   4  who_is_it and go-apostle say-apostle and go-apostle to Lord to
@@ -6363,7 +6363,7 @@ words. There are 982 of them now.
   4  moneychanger and-Lord every moneychanger out dove_seller* | exorcise
   5  Lord and_then Lord-Jézus this temple-+SUBJ prayer^ house
   6  name-+one house you say do one
-  7  thief-+one-house and then-exist from one little son
+  7  den_of_thieves and then-exist from one little son
   8  and shout-to this-Lord SUBJ [?]-+say king
   9  and_then one Jew answered see-Lord brethren* this
 
@@ -6412,7 +6412,7 @@ words. There are 982 of them now.
   5  to-Lord thanks Lord_God time then-exist from ~Adam ~trespass seven-[?] and
   6  ~begin-+three_thousand and time this three tablet Moses pray
   7  two church_father two high_priest-high_priest on-Jerusalem Gamaliel high_priest and Nicodemus
-  8  high_priest and then-exist two servant hire_out on-apostle this two high_priest-high_priest
+  8  high_priest and then-exist two servant hire_out learn this two high_priest-high_priest
   9  one man^ exist and-~brother-+name Saul
 
 ## 218v — Stephen, the first martyr
@@ -6423,7 +6423,7 @@ words. There are 982 of them now.
   2  exist two servant two this-two two apostle this-two two high_priest-high_priest
   3  in_turn this-two two apostle exist-two from [Damascus] two on-believe
   4  [?]-~Christ this exist time then Lord-~Christ crucified
-  5  and then-exist Jew wipe_out* to-down clothes ~Christ Jew
+  5  and then-exist Jew wipe_out* down faith ~Christ Jew
   6  head and exist exist-+say find* and exist
   7  somebody to-many [far_countries] somebody name [?]-~Christ
   8  everybody = suffering in_turn somebody-°but_rather head | grab
@@ -6480,7 +6480,7 @@ words. There are 982 of them now.
   3  write then-exist ~exist Stephen [...] pray-Stephen
   4  and Stephen first-suffering-Lord_God to-Lord to-thanks Lord_God
   5  [...] exist be_damned and then-exist Stephen exist-+say
-  6  out on-town stone-stone [out_of_the_temple] [passing_through] and | then-chapter
+  6  out on-town stone [out_of_the_temple] [passing_through] and | then-chapter
   7  day exist see this suffering this Saul
   8  [a_great_persecution] do Jew on-holy-Stephen | first-not
   9  not-not to-Lord to-thanks Lord_God and then-exist | exist
@@ -6518,7 +6518,7 @@ words. There are 982 of them now.
 
 > to the brethren of the Lord, through persecuting the scribes; and he cried out, this | Saul, the scribes [Saul] lie; in turn the Lord [whom thou persecutest] this Lord; and the Lord God cried out upon the water: this Lord is Jesus of Nazareth, the Lord, on the cross executed; and this Saul cried out: Lord, brethren, Saul, the Lord, afterward; and the Lord God cried out upon the water: go, scribes, into the […]; from the scribes, teach a man love; the scribes were; the scribes did it, the time, the hour, from the blinding of the scribes' eyes; and [led him by the hand] and then there were those who took Saul's servants; and Saul they carried,
 
-  1  to-?brethren Lord through [...] and shout-to this | Saul
+  1  why? Lord through [...] and shout-to this | Saul
   2  [...] [Saul] lie in_turn Lord [whom_thou_persecutest] this-Lord and
   3  shout-to Lord_God on-water this-Lord from Jézus Nazareth
   4  the_Lord on_the_cross execute and shout-to this Saul
@@ -6526,7 +6526,7 @@ words. There are 982 of them now.
   6  Lord_God on-water [...] inside in_turn-chapter-in_turn from [...] on-learn man^
   7  love [...] [...] time hour from
   8  [...] and [led_him_by_the_hand] and [...] exist
-  9  grab of-Saul servant and Saul from-carry
+  9  grab of-Saul servant and Saul take_away
 
 ## 220v — the house of Judas, and Ananias
 
@@ -6539,7 +6539,7 @@ words. There are 982 of them now.
   5  Ananias* put of-Saul servant inside one house
   6  and [...] three [...] this Saul inside
   7  this house this Ananias* man^ and this man^ and-~brother-+name
-  8  exist Judas and then-exist one man^ inside this in_turn-to-in_turn
+  8  exist Judas and then-exist one man^ inside this town
   9  can man^ say to-high-understand in_turn and-~brother-+name man^ exist
 
 ## 221r — a vessel to bear my name
@@ -6590,18 +6590,18 @@ words. There are 982 of them now.
 
 > From the leaving of the Lord Jesus Christ to the Lord's Father, out, a thousand years, five hundred and sixty years; and by name, that day, thus, the beginning of the year, written. Twenty-two sons. From [the beginning] then it was, that day, in turn, see; and then the son, Moses [five thousand one hundred and ninety nine] by name, the year, the first day, seven, in turn, from the seeing, two years [a thousand five hundred and sixty] from the understanding, the earth; understanding; the Lord Jesus Christ was born into this world, out, five thousand and a hundred days, and | ninety years, and nine years; and this signifies nine, from the understanding, the beginning of this world, until the Lord Jesus Christ was born into this world; in turn, and from, out, from the understanding, to the leaving of the Lord Jesus to the Lord's Father, eternal, in turn […] the time the apostles said to the Lord Jesus: Master, when shall the judgment day be? Said
 
-  1  from* to-leave Lord-Jézus-Christ from-father of-Lord out
+  1  from* ascension Lord-Jézus-Christ from-father of-Lord out
   2  thousand-year five_hundred and six-ten-year and from-+name-~year
   3  this_is begin-year write
   4  two-two-son
   5  from* [the_beginning] then-exist exist [?]-~year in_turn see* [and_then]
   6  son Moses [...] from-+name-year first-~year
   7  seven in_turn of-from-see two-year [a_numeral]
-  8  from-understand earth understand be_born Lord-Jézus-Christ
+  8  from earth until be_born Lord-Jézus-Christ
   9  on-this world* ~out five_thousand and hundred-~year and | nine-ten
- 10  year and nine-year and this symbolize nine ~hour from-understand begin this world.
+ 10  year and nine-year and this symbolize nine ~hour from begin this world.
  11  until be_born Lord-Jézus-Christ on-this world in_turn and ~hour ~out
- 12  from-understand to-leave Lord-Jézus to-from-father of-Lord heaven* in_turn-~brother
+ 12  from ascension Lord-Jézus to-from-father of-Lord heaven* in_turn-~brother
  13  time say apostle Lord-Jézus Master when? exist pass judge-~year say
 
 ## 222r — when shall the judgment day be?
