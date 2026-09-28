@@ -483,8 +483,8 @@ def main():
           os.path.exists(tr) and open(tr, encoding="utf-8").read().count("\n=== ") == 441
           and (not os.path.exists(trf) or open(trf, encoding="utf-8").read().count("\n=== ") == 441))
     check("rendering: the 137v line reads as documented",
-          os.path.exists(tr) and "virgin-girl this-Mary" in open(tr, encoding="utf-8").read()
-          and "virgin-girl this-Mary" in flat)
+          os.path.exists(tr) and "Virgin_Mary you ~conceive" in open(tr, encoding="utf-8").read()
+          and "Virgin_Mary you ~conceive" in flat)
 
     tr_md = os.path.join(WORK, "translation", "rohonc_translation.md")
     md = open(tr_md, encoding="utf-8").read() if os.path.exists(tr_md) else ""

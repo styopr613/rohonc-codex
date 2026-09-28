@@ -986,9 +986,12 @@ and the section above shows that context cannot do that choosing, so a reader
 has to. What it gives that reader is the whole book on one page, with every
 word that can be read, marked by how much to trust it. Folio 137v, the page
 Király and Tokai published, reads on it as *healing-girl through holy-Mary
-mother God*, *Mary one only_one virgin-girl this-Mary Jesus without*, *be_born-
-Mary and from Lord-redeemer inside Lord*, with the author's name sign
-following *this* and the genitive down the right margin.
+mother God*, *Mary one only Virgin_Mary you ~conceive Jézus without ~sin*,
+*be_born-Mary [?] and from Lord-redeemer inside Lord*, with the author's name
+sign following *this* and the genitive down the right margin. An earlier
+printing of this paragraph quoted *virgin-girl this-Mary* in the second line:
+the rendering had cut two spellings of theirs into pieces, where their own
+entries read "Virgin Mary" and "you" (Mary). Corrected 2026-09-28.
 
 Output: `work/rohonc/translation/rohonc_reading.txt` (first sense only) and
 `rohonc_reading_full.txt` (every sense, a local working file). Code:

@@ -286,11 +286,17 @@ def inner_phrases(pieces, gl, var, prop, full, own):
     phrase_slots works on whole signs, so a phrase written joined to another
     sign slipped through: 719950b61 printed "which-hide-angel" at 120v01
     while 950b61 alone printed "Satan". Found 2026-09-26 when the owner asked
-    that every example carry the corrections. Longest run of pieces first."""
+    that every example carry the corrections. Longest run of pieces first.
+
+    A single piece is looked up too (2026-09-28). The loop stopped at runs of
+    two, which did no harm while every one-sign entry was a compound; the
+    hand read of this project's own readings added one-sign entries for
+    spellings the dictionary parse missed (4b0 "Jews", 531ae0 "not"), and
+    those must read the same inside a compound as standing alone."""
     one = {k[0]: v[0] for k, v in _phrases().items() if len(k) == 1}
     out, i = [], 0
     while i < len(pieces):
-        for j in range(len(pieces), i + 1, -1):
+        for j in range(len(pieces), i, -1):
             w = one.get("".join(pieces[i:j]))
             if w:
                 out.append(w.replace(" ", "_"))

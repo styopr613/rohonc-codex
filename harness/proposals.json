@@ -288,7 +288,7 @@
   "tier": "G"
  },
  "060060443520": {
-  "evidence": "Twenty-four occurrences, eight of them straight after 'God the Father'. It was read 'eternal'. The sign is the heaven root: K&T's headword 520060060443520 is 'heaven', and their expression '060060443520 152', this sign with their high after it, is 'the high heavens', cited by them at 034v01, 085v09, 087r10, 133v08 and 010r02. 'God the Father of heaven' -- the heavenly Father -- is what the eight lines say. Corrected 2026-09-21 when the blindfold consequence pass re-read the passage-read tier C list; the earlier gloss came from the sense of the line and the right word was in their dictionary all along.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'heaven' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. Twenty-four occurrences, eight of them straight after 'God the Father'. It was read 'eternal'. The sign is the heaven root: K&T's headword 520060060443520 is 'heaven', and their expression '060060443520 152', this sign with their high after it, is 'the high heavens', cited by them at 034v01, 085v09, 087r10, 133v08 and 010r02. 'God the Father of heaven' -- the heavenly Father -- is what the eight lines say. Corrected 2026-09-21 when the blindfold consequence pass re-read the passage-read tier C list; the earlier gloss came from the sense of the line and the right word was in their dictionary all along.",
   "gloss": "heaven",
   "n": 24,
   "tier": "C"
@@ -546,13 +546,13 @@
   "tier": "A"
  },
  "084": {
-  "evidence": "'born into this [world], that we be saved' 091r:7; 'father, son, man, pass to heaven and earth, to this [world]' 121v:9; 'this [world], or if the salt lose its savour' 108r:3 and 'a lamp, this [world]' 109r:1 = Matthew 5:13-15, ye are the salt of the earth and the light of the world; 'Queen Mary, lady of the [world]' 137v:2 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'world' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 'born into this [world], that we be saved' 091r:7; 'father, son, man, pass to heaven and earth, to this [world]' 121v:9; 'this [world], or if the salt lose its savour' 108r:3 and 'a lamp, this [world]' 109r:1 = Matthew 5:13-15, ye are the salt of the earth and the light of the world; 'Queen Mary, lady of the [world]' 137v:2 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "world",
   "n": 36,
   "tier": "D"
  },
  "085": {
-  "evidence": "after 'all': all [people] be counted 019v:9; all [people] redeemed 034v:5; rescue all [people] 061v:2 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'world' (002v08, 017r12, 017v06, 018r06, 019v09); the published pages print their reading (ktexpr.json). This reading is kept here as tested. after 'all': all [people] be counted 019v:9; all [people] redeemed 034v:5; rescue all [people] 061v:2 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "people",
   "n": 19,
   "tier": "D"
@@ -732,7 +732,7 @@
   "tier": "C"
  },
  "152222574": {
-  "evidence": "paired with book throughout: '[the scripture] book: love the Lord God with all thy heart' 105r:8; 'we must keep, he who, [the scripture]' 109r:5, 109r:7, 109r:9",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'Moses' (105r04); the published pages print their reading (ktexpr.json). This reading is kept here as tested. paired with book throughout: '[the scripture] book: love the Lord God with all thy heart' 105r:8; 'we must keep, he who, [the scripture]' 109r:5, 109r:7, 109r:9",
   "gloss": "the scripture",
   "n": 9,
   "tier": "C"
@@ -774,7 +774,7 @@
   "tier": "C"
  },
  "152520ae0": {
-  "evidence": "'he gave a sign to tell the Lord from James and John, [with] a kiss' 035r:9; 'was [with] the feet, the Lord washed' 030r:9",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'Peter' (030r01, 032v03, 036v01); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 'he gave a sign to tell the Lord from James and John, [with] a kiss' 035r:9; 'was [with] the feet, the Lord washed' 030r:9",
   "gloss": "with",
   "n": 11,
   "tier": "C"
@@ -1230,7 +1230,7 @@
   "tier": "G"
  },
  "285": {
-  "evidence": "the decree of Augustus that all be counted 019v:9 = Luke 2:1; 'the Lord said to you: the [law].. an eye' four times at 073v:4,6,8,11 = Matthew 5:21-38 'ye have heard that it was said.. an eye for an eye'; the [law] of Moses 178r:9; the Decalogue page 209r:1-209v:5 (heaven and earth, in vain, three [laws], Moses); keep the [law] of God and from sin we are saved 084v:12, 085v:2; break the [law] 085r:4; this yoke upon Adam by commandment 003r:5",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'commandment' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. the decree of Augustus that all be counted 019v:9 = Luke 2:1; 'the Lord said to you: the [law].. an eye' four times at 073v:4,6,8,11 = Matthew 5:21-38 'ye have heard that it was said.. an eye for an eye'; the [law] of Moses 178r:9; the Decalogue page 209r:1-209v:5 (heaven and earth, in vain, three [laws], Moses); keep the [law] of God and from sin we are saved 084v:12, 085v:2; break the [law] 085r:4; this yoke upon Adam by commandment 003r:5",
   "gloss": "law",
   "n": 36,
   "tier": "A"
@@ -1452,7 +1452,7 @@
   "tier": "G"
  },
  "353": {
-  "evidence": "'we must die, [again] rise' 131v:2; '[again] the Lord shall rise, therefore the Lord asks you' 032r:9 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'up' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 'we must die, [again] rise' 131v:2; '[again] the Lord shall rise, therefore the Lord asks you' 032r:9 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "again",
   "n": 10,
   "tier": "D"
@@ -1836,7 +1836,7 @@
   "tier": "G"
  },
  "4a04a04a4": {
-  "evidence": "one glyph from 4a24a04a4, the 334-occurrence narrative connective, and it stands in the same clause-initial slot: 'one God, [and then] God, the angel, Elijah the prophet' 002v:6",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'and said' (061v04); the published pages print their reading (ktexpr.json). This reading is kept here as tested. one glyph from 4a24a04a4, the 334-occurrence narrative connective, and it stands in the same clause-initial slot: 'one God, [and then] God, the angel, Elijah the prophet' 002v:6",
   "gloss": "and then",
   "n": 7,
   "tier": "B"
@@ -1848,7 +1848,7 @@
   "tier": "G"
  },
  "4a24a04a4": {
-  "evidence": "clause-initial narrative connective, one glyph from K&T's 'and'; before a subject or a speech verb 334 times. Could equally be a quotative 'said'",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'and said' (006r11, 050v07); the published pages print their reading (ktexpr.json). This reading is kept here as tested. clause-initial narrative connective, one glyph from K&T's 'and'; before a subject or a speech verb 334 times. Could equally be a quotative 'said'",
   "gloss": "and then",
   "n": 334,
   "tier": "B"
@@ -1950,7 +1950,7 @@
   "tier": "G"
  },
  "4b0": {
-  "evidence": "a speech root: the Jews [answered] Jesus of Nazareth 035v:3; Caiaphas asked, the [answer] 039r:8; second [said].. third [said] 039v:12; Pilate [said] to the Lord 039v:9; whom will ye [that I] release, Barabbas or Jesus 047v:7. About 50 of 75 are speech; the rest unclear",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'Jews' (012v01, 035v03, 038v05, 041r07); the published pages print their reading (ktexpr.json). This reading is kept here as tested. a speech root: the Jews [answered] Jesus of Nazareth 035v:3; Caiaphas asked, the [answer] 039r:8; second [said].. third [said] 039v:12; Pilate [said] to the Lord 039v:9; whom will ye [that I] release, Barabbas or Jesus 047v:7. About 50 of 75 are speech; the rest unclear",
   "gloss": "say",
   "n": 75,
   "tier": "B"
@@ -2172,13 +2172,13 @@
   "tier": "A"
  },
  "520060131": {
-  "evidence": "a homograph, and K&T say so themselves. Their entry for the Baptist (060060131520060131) lists this spelling at 116v02-03, 08, 117r05, 117v01, 07 and 118r04, which are the six that stand directly after Saint John; their John entry cross-refers to it. Their entry for woman lists the same shapes and writes 'but cp. ->' at the Baptist entry where the two collide, because both words are reduplications of their 060131, which alone is woman. In 141v-147 and at 189v03, 04 (the widow of Nain) it is woman; after their three-fold baptize at 165r-182v it is the baptism formula. Corrected 2026-09-20 from a single gloss 'the Baptist'",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'baptize' (131v09); the published pages print their reading (ktexpr.json). This reading is kept here as tested. a homograph, and K&T say so themselves. Their entry for the Baptist (060060131520060131) lists this spelling at 116v02-03, 08, 117r05, 117v01, 07 and 118r04, which are the six that stand directly after Saint John; their John entry cross-refers to it. Their entry for woman lists the same shapes and writes 'but cp. ->' at the Baptist entry where the two collide, because both words are reduplications of their 060131, which alone is woman. In 141v-147 and at 189v03, 04 (the widow of Nain) it is woman; after their three-fold baptize at 165r-182v it is the baptism formula. Corrected 2026-09-20 from a single gloss 'the Baptist'",
   "gloss": "the_Baptist/woman",
   "n": 46,
   "tier": "B"
  },
  "520060131520": {
-  "evidence": "a homograph, and K&T number it as one. Their entry for woman (060131060131) lists this exact spelling at 138r02 and their dictionary carries a second entry '520060131520 (2) -> woman' with no gloss of its own, which is why the code reads as undefined here. 138r02 is the Ave Maria and takes woman: 'blessed art thou among women, and blessed is the fruit of thy womb'. The other seven occurrences are the Dives and Lazarus block, Luke 16:19-31, and take the poor man: 'when the rich man was, this poor man asked' 088v:13; 'alms, and the poor man alms' 089r:1; 'the poor man would be fed with the offal from the rich man's table' 089r:4, 05; 'father Abraham, send Lazarus' 089v:5. Corrected 2026-09-20: the earlier entry read the poor man everywhere and did not know K&T had already read 138r02. It shares its first four glyphs with the sign read as 'the Baptist' and that tension is still unresolved",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'woman' (138r01, 138r02); the published pages print their reading (ktexpr.json). This reading is kept here as tested. a homograph, and K&T number it as one. Their entry for woman (060131060131) lists this exact spelling at 138r02 and their dictionary carries a second entry '520060131520 (2) -> woman' with no gloss of its own, which is why the code reads as undefined here. 138r02 is the Ave Maria and takes woman: 'blessed art thou among women, and blessed is the fruit of thy womb'. The other seven occurrences are the Dives and Lazarus block, Luke 16:19-31, and take the poor man: 'when the rich man was, this poor man asked' 088v:13; 'alms, and the poor man alms' 089r:1; 'the poor man would be fed with the offal from the rich man's table' 089r:4, 05; 'father Abraham, send Lazarus' 089v:5. Corrected 2026-09-20: the earlier entry read the poor man everywhere and did not know K&T had already read 138r02. It shares its first four glyphs with the sign read as 'the Baptist' and that tension is still unresolved",
   "gloss": "the_poor_man/woman",
   "n": 8,
   "tier": "C"
@@ -2202,7 +2202,7 @@
   "tier": "G"
  },
  "5200601c4520060003": {
-  "evidence": "their noun evil entry (0605201c4) ends 'cp. 5200601c4520060003', pointing at their 5202c0 (4). The gloss is evil, but by a cross-reference rather than a citation",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'misunderstand' (031v09); the published pages print their reading (ktexpr.json). This reading is kept here as tested. their noun evil entry (0605201c4) ends 'cp. 5200601c4520060003', pointing at their 5202c0 (4). The gloss is evil, but by a cross-reference rather than a citation",
   "gloss": "evil",
   "n": 1,
   "tier": "B"
@@ -2250,7 +2250,7 @@
   "tier": "A"
  },
  "520060505": {
-  "evidence": "all six occurrences are on 131r, where they dispute the rising of the dead and Jesus answers them, which is Matthew 22:23. Nothing outside that page checks it",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'pagan' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. all six occurrences are on 131r, where they dispute the rising of the dead and Jesus answers them, which is Matthew 22:23. Nothing outside that page checks it",
   "gloss": "the Sadducees",
   "n": 6,
   "tier": "C"
@@ -2328,7 +2328,7 @@
   "tier": "G"
  },
  "5200606e3": {
-  "evidence": "only around Pilate and Herod judging: 'the Jews [condemned] the Lord; Pilate: the cross' 041r:6; 'Herod [condemned]' 041v:7, 041v:8, 043v:1",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'crucify' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. only around Pilate and Herod judging: 'the Jews [condemned] the Lord; Pilate: the cross' 041r:6; 'Herod [condemned]' 041v:7, 041v:8, 043v:1",
   "gloss": "condemned",
   "n": 15,
   "tier": "C"
@@ -2652,7 +2652,7 @@
   "tier": "G"
  },
  "520180": {
-  "evidence": "Bethlehem the city at 046v:8, 047r:4 and 111r:4, and twice on 108r:6 in a city that is set on an hill cannot be hid, Matthew 5:14, where the page names its own source as Matthew chapter five",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'town' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. Bethlehem the city at 046v:8, 047r:4 and 111r:4, and twice on 108r:6 in a city that is set on an hill cannot be hid, Matthew 5:14, where the page names its own source as Matthew chapter five",
   "gloss": "city",
   "n": 5,
   "tier": "A"
@@ -3156,7 +3156,7 @@
   "tier": "G"
  },
  "520327": {
-  "evidence": "always counted: 'five [sorrows], the Son of God, the first [sorrow]' 111r:1; 'the third [sorrow]' 111r:6; 'the fifth [sorrow]' 112v:3, with the Lord's eye deeply saddened two lines away at 111r:3 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'weep' (109v10); the published pages print their reading (ktexpr.json). This reading is kept here as tested. always counted: 'five [sorrows], the Son of God, the first [sorrow]' 111r:1; 'the third [sorrow]' 111r:6; 'the fifth [sorrow]' 112v:3, with the Lord's eye deeply saddened two lines away at 111r:3 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "sorrow",
   "n": 9,
   "tier": "D"
@@ -3270,7 +3270,7 @@
   "tier": "G"
  },
  "5203d4": {
-  "evidence": "Luke 23:46, Douay: 'Father, into thy hands I COMMEND my spirit. And saying this, he gave up the ghost.' All three occurrences stand in the death on the cross, and two of them come immediately before the codex's own 'give up the ghost': 052r:1 'and from, to the Lord Jesus, of the Lord [commend], gave up the ghost'; 052v:1 'and then the Lord Jesus, of the Lord, [commend], gave up the ghost, the cross, the earth'. The third, 051v:11, reads 'this Lord, this Father of the Lord, [commend], into the Father's hands', which is the other half of the same verse. spirit, soul and ghost are all already read by other signs and hands is read too, so commend is the one word of the verse with no sign. One scene, told across three consecutive folios, so nothing independent tests it: tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'soul' (052v01); the published pages print their reading (ktexpr.json). This reading is kept here as tested. Luke 23:46, Douay: 'Father, into thy hands I COMMEND my spirit. And saying this, he gave up the ghost.' All three occurrences stand in the death on the cross, and two of them come immediately before the codex's own 'give up the ghost': 052r:1 'and from, to the Lord Jesus, of the Lord [commend], gave up the ghost'; 052v:1 'and then the Lord Jesus, of the Lord, [commend], gave up the ghost, the cross, the earth'. The third, 051v:11, reads 'this Lord, this Father of the Lord, [commend], into the Father's hands', which is the other half of the same verse. spirit, soul and ghost are all already read by other signs and hands is read too, so commend is the one word of the verse with no sign. One scene, told across three consecutive folios, so nothing independent tests it: tier C. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "commend",
   "n": 3,
   "tier": "D"
@@ -3756,7 +3756,7 @@
   "tier": "G"
  },
  "520742520": {
-  "evidence": "Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 041r:11 'hour and then-exist Lord ?brought <<[x]>>'",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'Herod' (041r12); the published pages print their reading (ktexpr.json). This reading is kept here as tested. Found by ktnear.py: one glyph from a sign already read. One glyph from K&T's 520060520, 'that; to whom; what; which; whose', and each of these seven signs stands where a relative pronoun belongs. Read as the relative. The alternative neighbour is their 5201c0520 'there', which would also read on most of these lines; 520092520 'resurrect', the third neighbour, would not. A reviewer who prefers 'there' loses nothing but the word. Occurrence(s): 041r:11 'hour and then-exist Lord ?brought <<[x]>>'",
   "gloss": "that",
   "n": 1,
   "tier": "C"
@@ -4014,7 +4014,7 @@
   "tier": "G"
  },
  "520931520": {
-  "evidence": "their the phrase they gloss 'the whole wide world' entry lists this spelling at 221r04",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'all the world' (221r04); the published pages print their reading (ktexpr.json). This reading is kept here as tested. their the phrase they gloss 'the whole wide world' entry lists this spelling at 221r04",
   "gloss": "wide",
   "n": 1,
   "tier": "A"
@@ -4392,7 +4392,7 @@
   "tier": "B"
  },
  "520b52011": {
-  "evidence": "'town [from town to town], and his disciples taught and went' 175v:6, the same phrase as 520b52",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'until' (198r02); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 'town [from town to town], and his disciples taught and went' 175v:6, the same phrase as 520b52",
   "gloss": "from town to town",
   "n": 10,
   "tier": "C"
@@ -4446,7 +4446,7 @@
   "tier": "C"
  },
  "520b7e": {
-  "evidence": "K&T's clothes sense of 520b7a is cited by them at 115r05, 06, 07 and 08; this word is 520b7a with one glyph changed, at 115r:5, beside their own sign for 'the most beautiful', which they tie to the verse in Luke 15. Luke 15:22, 'bring forth the best robe, and put it on him'. The same page then names the robe of love, of mercy, of righteousness",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'believe' (089r09, 153v05); the published pages print their reading (ktexpr.json). This reading is kept here as tested. K&T's clothes sense of 520b7a is cited by them at 115r05, 06, 07 and 08; this word is 520b7a with one glyph changed, at 115r:5, beside their own sign for 'the most beautiful', which they tie to the verse in Luke 15. Luke 15:22, 'bring forth the best robe, and put it on him'. The same page then names the robe of love, of mercy, of righteousness",
   "gloss": "robe",
   "n": 2,
   "tier": "A"
@@ -4530,7 +4530,7 @@
   "tier": "D"
  },
  "531100": {
-  "evidence": "their entry for grab, take (520100) lists 531100 at 2015r07, 208v06, 209v01 and 013vc2:05, and glosses 208v06 'Thou shalt not take the name of God in vain' (Ex 20, 7)",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'not take' (208v06); the published pages print their reading (ktexpr.json). This reading is kept here as tested. their entry for grab, take (520100) lists 531100 at 2015r07, 208v06, 209v01 and 013vc2:05, and glosses 208v06 'Thou shalt not take the name of God in vain' (Ex 20, 7)",
   "gloss": "grab",
   "n": 3,
   "tier": "A"
@@ -4584,7 +4584,7 @@
   "tier": "G"
  },
  "534320": {
-  "evidence": "their be damned entry (520320) lists 534320 at 087r03",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'not damned' (005v09, 087r03); the published pages print their reading (ktexpr.json). This reading is kept here as tested. their be damned entry (520320) lists 534320 at 087r03",
   "gloss": "be_damned",
   "n": 1,
   "tier": "A"
@@ -5172,7 +5172,7 @@
   "tier": "G"
  },
  "54060b": {
-  "evidence": "object pronoun: Eve ate [it], Adam 003v:10; took [it], and took the fruit 001r:3; Adam saw [her] 001r:5. One glyph from K&T's 'will, want'",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'Eve' (001r05, 003v10, 007r08, 007r09, 007v05, 123v06); the published pages print their reading (ktexpr.json). This reading is kept here as tested. object pronoun: Eve ate [it], Adam 003v:10; took [it], and took the fruit 001r:3; Adam saw [her] 001r:5. One glyph from K&T's 'will, want'",
   "gloss": "it",
   "n": 29,
   "tier": "B"
@@ -5358,7 +5358,7 @@
   "tier": "G"
  },
  "540ae0a10ae01f6": {
-  "evidence": "'a blind soldier of Jerusalem, who [was named] — that soldier was Longinus' 052v:5-6; 'two merciful men of Jerusalem, who [was named] .. and the second Nicodemus' 053v:2. The third occurrence, 054r:5, does not fit and keeps this at C",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'name' (052v05); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 'a blind soldier of Jerusalem, who [was named] — that soldier was Longinus' 052v:5-6; 'two merciful men of Jerusalem, who [was named] .. and the second Nicodemus' 053v:2. The third occurrence, 054r:5, does not fit and keeps this at C",
   "gloss": "was named",
   "n": 3,
   "tier": "C"
@@ -5412,7 +5412,7 @@
   "tier": "A"
  },
  "547431a10": {
-  "evidence": "their speak entry (431a10) names this spelling; their worked example is 'and said the angel, It's true what you say'",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'excused' (094r07, 201r06); the published pages print their reading (ktexpr.json). This reading is kept here as tested. their speak entry (431a10) names this spelling; their worked example is 'and said the angel, It's true what you say'",
   "gloss": "speak",
   "n": 1,
   "tier": "A"
@@ -5604,7 +5604,7 @@
   "tier": "G"
  },
  "570670ae0": {
-  "evidence": "a homograph in K&T's own dictionary. Their entry a10570670ae0 (1) 'sheep' lists this spelling at 064 (5x) and 119-120 (3x), which are the Good Shepherd and the Lost Sheep: 064r:9, 10, 064v:4, 8, 119v:4, 120r:4. Their entry (2), for a woman, lists the same spelling at 145r03, 04, 145v05, 06, inside the miracle of the image of the Virgin. 146v:6 is in that block too and they do not cite it. Corrected 2026-09-20 from a single gloss sheep",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'sheep' (145r03, 145v05); the published pages print their reading (ktexpr.json). This reading is kept here as tested. a homograph in K&T's own dictionary. Their entry a10570670ae0 (1) 'sheep' lists this spelling at 064 (5x) and 119-120 (3x), which are the Good Shepherd and the Lost Sheep: 064r:9, 10, 064v:4, 8, 119v:4, 120r:4. Their entry (2), for a woman, lists the same spelling at 145r03, 04, 145v05, 06, inside the miracle of the image of the Virgin. 146v:6 is in that block too and they do not cite it. Corrected 2026-09-20 from a single gloss sheep",
   "gloss": "sheep/a_female_person",
   "n": 9,
   "tier": "B"
@@ -5616,7 +5616,7 @@
   "tier": "G"
  },
  "570a10ae0": {
-  "evidence": "K&T's entry a10570670ae0 (2), for a woman, which they place at 144v-147v, lists 570a10ae0 at 145r02 and 151v04",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'Lady' (145r02, 151v04); the published pages print their reading (ktexpr.json). This reading is kept here as tested. K&T's entry a10570670ae0 (2), for a woman, which they place at 144v-147v, lists 570a10ae0 at 145r02 and 151v04",
   "gloss": "a_female_person",
   "n": 2,
   "tier": "A"
@@ -5670,7 +5670,7 @@
   "tier": "A"
  },
  "574570670ae0": {
-  "evidence": "574 prefixed to the sign read as sheep. Three of its four occurrences are the three places the lost sheep belongs in Luke 15:4-5 -- 119r:8, 119r:9, 119r:10 -- and the fourth, 103v:2, stands beside the word soul. Read early in this work and recorded in prose, but never entered here, so it rendered nowhere until now",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'sheep' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 574 prefixed to the sign read as sheep. Three of its four occurrences are the three places the lost sheep belongs in Luke 15:4-5 -- 119r:8, 119r:9, 119r:10 -- and the fourth, 103v:2, stands beside the word soul. Read early in this work and recorded in prose, but never entered here, so it rendered nowhere until now",
   "gloss": "the lost sheep",
   "n": 4,
   "tier": "B"
@@ -5694,7 +5694,7 @@
   "tier": "G"
  },
  "574a10003a10877": {
-  "evidence": "Found by ktcover.py. It is K&T's 574 'cattle; life; live; living; living being' followed by a10003a10, which this project reads as 'whosoever'. 191v:2: 'to be, this joy, the Lord would, on the judgment year, judge, [x]'. Douay John 11:26: 'And every one that LIVETH and believeth in me, shall not die for ever.'",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'the living' (191v01); the published pages print their reading (ktexpr.json). This reading is kept here as tested. Found by ktcover.py. It is K&T's 574 'cattle; life; live; living; living being' followed by a10003a10, which this project reads as 'whosoever'. 191v:2: 'to be, this joy, the Lord would, on the judgment year, judge, [x]'. Douay John 11:26: 'And every one that LIVETH and believeth in me, shall not die for ever.'",
   "gloss": "whosoever_liveth",
   "n": 1,
   "tier": "C"
@@ -5706,7 +5706,7 @@
   "tier": "A"
  },
  "574ae09f3": {
-  "evidence": "always after an ordinal and usually beside K&T's throne/table code and a speech verb: 'the first [saying]' 122v:6 and 003r:8, 'the second [saying]' 001v:1 and 124r:4, 'the third [saying], the Lord Jesus said' 126r:4 and 007v:3. A numbered list of things said at table",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'hour' (001v01, 003r08, 007v03, 032r11, 122v06, 124r04, 126r04); the published pages print their reading (ktexpr.json). This reading is kept here as tested. always after an ordinal and usually beside K&T's throne/table code and a speech verb: 'the first [saying]' 122v:6 and 003r:8, 'the second [saying]' 001v:1 and 124r:4, 'the third [saying], the Lord Jesus said' 126r:4 and 007v:3. A numbered list of things said at table",
   "gloss": "saying",
   "n": 10,
   "tier": "B"
@@ -5826,7 +5826,7 @@
   "tier": "G"
  },
  "5b4": {
-  "evidence": "All three occurrences are on 090v and 091r, the rich man and Lazarus. 090v:3 ends 'and the body, from death, stood up, the poor man, said, father Abraham, in turn, who [x]'. Douay Luke 16:26: 'between us and you, there is fixed a great chaos: so that they who would pass from hence to you, CANNOT'. 090v:5 and 091r:6 both have 'believe' beside it, which is Luke 16:31, 'neither will they believe, if one rise again from the dead'. 'cannot' is free in both translations; 'can' and 'not' are each carried by other signs, so this is a judgment that the codex writes the negative modal as one word, which is what Hungarian does. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'not' (091r05); the published pages print their reading (ktexpr.json). This reading is kept here as tested. All three occurrences are on 090v and 091r, the rich man and Lazarus. 090v:3 ends 'and the body, from death, stood up, the poor man, said, father Abraham, in turn, who [x]'. Douay Luke 16:26: 'between us and you, there is fixed a great chaos: so that they who would pass from hence to you, CANNOT'. 090v:5 and 091r:6 both have 'believe' beside it, which is Luke 16:31, 'neither will they believe, if one rise again from the dead'. 'cannot' is free in both translations; 'can' and 'not' are each carried by other signs, so this is a judgment that the codex writes the negative modal as one word, which is what Hungarian does. DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "cannot",
   "n": 3,
   "tier": "D"
@@ -7002,7 +7002,7 @@
   "tier": "A"
  },
  "670ae0a10ae01f6": {
-  "evidence": "the same shape as 540ae0a10ae01f6 read as 'was named': 'two served a soldier, and [was named] the soldier' 022v:11",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'name' (072v01); the published pages print their reading (ktexpr.json). This reading is kept here as tested. the same shape as 540ae0a10ae01f6 read as 'was named': 'two served a soldier, and [was named] the soldier' 022v:11",
   "gloss": "was named",
   "n": 6,
   "tier": "C"
@@ -7062,7 +7062,7 @@
   "tier": "G"
  },
  "680ae0": {
-  "evidence": "K&T's entry for exist (670ae0) lists 680ae0 among its variant spellings and cites 072v06, 138v07, 139v06, 140r05, 163rp1:05, 182v04, 05, 188r09. Bare it stands six times; it also heads 680ae0877 (3x) and closes 810680ae0",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'not' (072v06, 091r05, 109r08, 138v07); the published pages print their reading (ktexpr.json). This reading is kept here as tested. K&T's entry for exist (670ae0) lists 680ae0 among its variant spellings and cites 072v06, 138v07, 139v06, 140r05, 163rp1:05, 182v04, 05, 188r09. Bare it stands six times; it also heads 680ae0877 (3x) and closes 810680ae0",
   "gloss": "exist",
   "n": 11,
   "tier": "A"
@@ -7092,13 +7092,13 @@
   "tier": "A"
  },
  "683063ae0": {
-  "evidence": "their exist entry (670ae0) lists 683063ae0 at 030v11 and 095v05",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'not' (030v11, 095v05); the published pages print their reading (ktexpr.json). This reading is kept here as tested. their exist entry (670ae0) lists 683063ae0 at 030v11 and 095v05",
   "gloss": "exist",
   "n": 2,
   "tier": "A"
  },
  "684ae0": {
-  "evidence": "their exist entry (670ae0) lists 684ae0 at 077r08, 077v05 and 077v08 among its variants, marked uncertain",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'not' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. their exist entry (670ae0) lists 684ae0 at 077r08, 077v05 and 077v08 among its variants, marked uncertain",
   "gloss": "exist",
   "n": 3,
   "tier": "B"
@@ -7248,7 +7248,7 @@
   "tier": "G"
  },
  "6a6": {
-  "evidence": "'love the Lord God with all thy [heart]' four times 068r:4, 105r:8, 118v:2, 166v:6 = Deuteronomy 6:5 / Mark 12:30; 'lift up all your [hearts], all your souls' 118r:5 = the Sursum corda. The creation-page uses 002v:11, 004v:2 are unexplained and keep this at B",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'create' (004v02, 105r08); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 'love the Lord God with all thy [heart]' four times 068r:4, 105r:8, 118v:2, 166v:6 = Deuteronomy 6:5 / Mark 12:30; 'lift up all your [hearts], all your souls' 118r:5 = the Sursum corda. The creation-page uses 002v:11, 004v:2 are unexplained and keep this at B",
   "gloss": "heart",
   "n": 30,
   "tier": "B"
@@ -7956,7 +7956,7 @@
   "tier": "G"
  },
  "7a0910": {
-  "evidence": "K&T's 'who' plus the subject marker. 'that [he who is] a good tree gives' 065v:5 = Matthew 7:17; 'we must keep [that which]' 109r:5,7,9 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'who' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. K&T's 'who' plus the subject marker. 'that [he who is] a good tree gives' 065v:5 = Matthew 7:17; 'we must keep [that which]' 109r:5,7,9 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "he who",
   "n": 18,
   "tier": "D"
@@ -8046,7 +8046,7 @@
   "tier": "A"
  },
  "7b3": {
-  "evidence": "opens Pauline passages: '[brethren], we shall be saved, Paul, first we ask' 068r:3; 070v:10 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'who' (010r09, 062r05); the published pages print their reading (ktexpr.json). This reading is kept here as tested. opens Pauline passages: '[brethren], we shall be saved, Paul, first we ask' 068r:3; 070v:10 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "brethren",
   "n": 15,
   "tier": "D"
@@ -8862,7 +8862,7 @@
   "tier": "C"
  },
  "926": {
-  "evidence": "counted: 'in one [way], in the Word, the book of Saint Luke' 165v:8; 'the thief, in two [ways]' 166r:2; 'in four [ways]' 166v:1 -- the medieval senses of scripture DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'way' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. counted: 'in one [way], in the Word, the book of Saint Luke' 165v:8; 'the thief, in two [ways]' 166r:2; 'in four [ways]' 166v:1 -- the medieval senses of scripture DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "ways",
   "n": 9,
   "tier": "D"
@@ -9048,7 +9048,7 @@
   "tier": "G"
  },
  "991910": {
-  "evidence": "the girl is not dead but sleepeth at 171v:8 (Mark 5:39) and they that are whole need no physician but they that are sick at 194v:5 (Mark 2:17). Same reading as 991ae0910 already read",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'than' (100v05, 215r07); the published pages print their reading (ktexpr.json). This reading is kept here as tested. the girl is not dead but sleepeth at 171v:8 (Mark 5:39) and they that are whole need no physician but they that are sick at 194v:5 (Mark 2:17). Same reading as 991ae0910 already read",
   "gloss": "but rather",
   "n": 9,
   "tier": "B"
@@ -9409,7 +9409,7 @@
   "tier": "A"
  },
  "a10003a10": {
-  "evidence": "stands where 'the man who' stands in the salvation formula: 'Gabriel, and [whosoever] believes in the Lord truly' 027v:3, against 019r:2 which has K&T's word there",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'somebody' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. stands where 'the man who' stands in the salvation formula: 'Gabriel, and [whosoever] believes in the Lord truly' 027v:3, against 019r:2 which has K&T's word there",
   "gloss": "whosoever",
   "n": 11,
   "tier": "C"
@@ -10195,7 +10195,7 @@
   "tier": "G"
  },
  "a79": {
-  "evidence": "'said Nicodemus, [he answered]: how can this be?' 091r:8 = John 3:9; 'and then Saint Thomas [answered]' 130v:1 = John 14:5; 'and then Saint Philip [answered]' 130v:3 = John 14:8",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'Master' (091r02, 130v01, 130v03); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 'said Nicodemus, [he answered]: how can this be?' 091r:8 = John 3:9; 'and then Saint Thomas [answered]' 130v:1 = John 14:5; 'and then Saint Philip [answered]' 130v:3 = John 14:8",
   "gloss": "answered",
   "n": 22,
   "tier": "B"
@@ -10303,13 +10303,13 @@
   "tier": "C"
  },
  "a97520100": {
-  "evidence": "their grab, take entry lists this spelling at 089v12",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'not take' (089v12); the published pages print their reading (ktexpr.json). This reading is kept here as tested. their grab, take entry lists this spelling at 089v12",
   "gloss": "take",
   "n": 1,
   "tier": "A"
  },
  "a99520100": {
-  "evidence": "their grab, take entry lists this spelling at 089r01 and 05",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'not take' (089r01); the published pages print their reading (ktexpr.json). This reading is kept here as tested. their grab, take entry lists this spelling at 089r01 and 05",
   "gloss": "take",
   "n": 2,
   "tier": "A"
@@ -10417,7 +10417,7 @@
   "tier": "A"
  },
  "ad2690": {
-  "evidence": "117r-118r gives John the Baptist four parallel answers, to the soldiers, the Pharisees and Jews, the farmers and the sinners, and each paragraph writes its group's name in the same four slots. This word fills those slots in the second paragraph, where 117r:1 names the group as the Pharisees and the Jews, and it also carries the vocative compounds 'have mercy, ye [Pharisees]' and 'be righteous, ye [Pharisees]' at 117v:3, matching 'have mercy, ye farmers' at 117v:9. Read from the structure of one passage; nothing outside it can check which of the two names it is DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'Pharisee' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 117r-118r gives John the Baptist four parallel answers, to the soldiers, the Pharisees and Jews, the farmers and the sinners, and each paragraph writes its group's name in the same four slots. This word fills those slots in the second paragraph, where 117r:1 names the group as the Pharisees and the Jews, and it also carries the vocative compounds 'have mercy, ye [Pharisees]' and 'be righteous, ye [Pharisees]' at 117v:3, matching 'have mercy, ye farmers' at 117v:9. Read from the structure of one passage; nothing outside it can check which of the two names it is DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "the Pharisees",
   "n": 3,
   "tier": "D"
@@ -10555,7 +10555,7 @@
   "tier": "A"
  },
  "b24": {
-  "evidence": "'in debt [a hundred] pence' 135r:10 = Matthew 18:28, the fellow-servant who owed an hundred pence DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'hundred' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 'in debt [a hundred] pence' 135r:10 = Matthew 18:28, the fellow-servant who owed an hundred pence DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "hundred",
   "n": 7,
   "tier": "D"
@@ -10603,7 +10603,7 @@
   "tier": "G"
  },
  "b33910": {
-  "evidence": "b33 plus the subject marker. '[he is] truly the Son of the living God, and King of all kings' 014r:8; 'in the Lord Jesus Christ, [he is] truly the Son of the living God' 118v:5 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'as' (061v01, 118v05, 196r06); the published pages print their reading (ktexpr.json). This reading is kept here as tested. b33 plus the subject marker. '[he is] truly the Son of the living God, and King of all kings' 014r:8; 'in the Lord Jesus Christ, [he is] truly the Son of the living God' 118v:5 DOWNGRADED FROM C TO D on 2026-09-21 by the declared consequence of gate 4b in ktrederive.py. That gate masked 10% of K&T's dictionary and had a reading committed for 25 masked signs before anything was revealed. The declared bands said that a recovery rate of 15-30% means the judgment step adds little and that passage-read tier C entries should become D. The full sample scored 48%, but the test was INVALID: twelve of the 25 signs were ones whose K&T entry had already been seen in the same working session, and those scored 75% against 23% for the thirteen that had not. A blind test that is not blind measures nothing, so the 48% is discarded and the 23% on the clean subset is the estimate the consequence is applied to. This reading is NOT withdrawn and its evidence is unchanged; what has changed is the confidence label, which now says what it should have said: one line, one passage, no second occurrence to refuse it.",
   "gloss": "he is",
   "n": 21,
   "tier": "D"
@@ -10699,7 +10699,7 @@
   "tier": "D"
  },
  "b90574": {
-  "evidence": "'and when [Noah] took of every creature two by two and went before the Lord God' 008r:8",
+  "evidence": "SUPERSEDED 2026-09-28: Király and Tokai read this spelling as 'Noah' (their entry); the published pages print their reading (ktexpr.json). This reading is kept here as tested. 'and when [Noah] took of every creature two by two and went before the Lord God' 008r:8",
   "gloss": "Noah",
   "n": 3,
   "tier": "C"
