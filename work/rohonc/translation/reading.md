@@ -67,7 +67,7 @@ The months passed until the blessed Virgin Mary was offered at the temple. From 
 
 The Lord suffered under the Jews and was crucified. Everyone who truly believes that the Lord is the Son of the living God is saved. No one who does not believe is saved. Whoever does not believe is damned. Here ends this holy gospel. At that time an angel of God appeared to the aged Joseph and said, “Go in to Mary.” Joseph was already very old. The angel spoke of the son pleasing to God who would be born from Mary. The son would be Jesus. He would go out among the people, preach the gospel, work many miracles, and suffer death. (019r)
 
-Everyone who truly believes that the Lord is the Son of the living God is saved. No one who does not believe is saved. Whoever does not believe is damned. Here ends this holy gospel. The blessed Virgin Mary was sixteen years old. Some twenty years before the coming of the Lord Jesus Christ, Emperor Augustus issued a decree that all people should be counted. His law sent everyone back to their own town. Mary and the aged Joseph set out together, taking an ox and a donkey. (019v)
+Everyone who truly believes that the Lord is the Son of the living God is saved. No one who does not believe is saved. Whoever does not believe is damned. Here ends this holy gospel. The blessed Virgin Mary was sixteen years old. Twenty-two years before the coming of the Lord Jesus Christ (the signs could also be read twenty-four), Emperor Augustus issued a decree that all people should be counted. His law sent everyone back to their own town. Mary and the aged Joseph set out together, taking an ox and a donkey. (019v)
 
 The aged Joseph led the ox, and Mary rode his donkey. Joseph carried her because she was about to bear the son. When Mary and Joseph reached Bethlehem, they found no lodging. They stayed in a barn where there was a manger. Joseph bought hay and laid it before the ox and the donkey. (020r)
 
@@ -640,7 +640,7 @@ Here ends this holy gospel spoken by Saint Luke. The apostles, the Jews, and eve
 
 This holy reading is attributed to the ninth chapter. When Jesus was thirty years old, he went to the temple in Jerusalem. The disciples of John the Baptist asked him, “We and the Pharisees fast. Why do your apostles not fast?” Jesus answered that his apostles should rejoice while he was with them. Then a ruler named Jairus came and said that his daughter had died. (170v)
 
-Jesus followed Jairus toward his house, accompanied by a large crowd. Among them was a woman who had suffered an issue of blood for twelve years. She believed that touching the hem of the Lord's garment would heal her. She touched Jesus in faith and was healed within that hour. Jesus turned toward the crowd. (171r)
+Jesus followed Jairus toward his house, accompanied by a large crowd. Among them was a woman who had suffered an issue of blood for twelve years (the text writes nine years and twelve years; the gospel says twelve). She believed that touching the hem of the Lord's garment would heal her. She touched Jesus in faith and was healed within that hour. Jesus turned toward the crowd. (171r)
 
 Jesus told the woman, “Your faith has healed you.” He continued with Jairus, the apostles, and the woman to the ruler's house, where he found great mourning. Jesus said, “The girl is not dead. She is sleeping.” The people laughed at him. (171v)
 
@@ -705,13 +705,13 @@ On a Sunday Lord God led the Jewish people from Pharaoh's Egypt through the Red 
 
 Pharaoh and his army followed into the middle of the Red Sea. The angel again told Moses to stretch out his rod. The sea closed over Pharaoh while Moses, Aaron, and the people continued safely. On a Sunday Lord God also sent heavenly manna to his people. This manna signifies our daily bread. (187v)
 
-The people ate the manna as their daily food. A measure of it was kept in a vessel with thanksgiving. The manna prefigured Christ. When Jesus was thirty-three, he took a baked loaf at the Last Supper and gave people the bread of that day to eat. (188r)
+The people ate the manna as their daily food. A measure of it was kept in a vessel with thanksgiving. The manna prefigured Christ. When Jesus was thirty-three and a half, he took a baked loaf at the Last Supper and gave people the bread of that day to eat. (188r)
 
 Whoever receives the holy host and drinks from the altar must believe and belong to the Lord. Whoever does not believe is damned. Amen. Christ came bodily into this world after nine months and two Sundays. On a Sunday an angel announced the Lord's coming to the blessed Virgin Mary and Saint Joseph. (188v)
 
 After the angel's announcement, the Lord came into the world. On a Sunday Jesus changed water into wine at a wedding. On a Sunday he raised a ruler's daughter in Jerusalem. On a Sunday he was baptized on Mount Carmel, where the Holy Spirit appeared in the form of a dove, and afterward he went into the wilderness. (189r)
 
-On Sundays Jesus raised the widow's son at Nain, gave sight to a blind man near Jericho, entered Jerusalem with his apostles, cast hell out of a man's mind, and fed five thousand people with five loaves. In his thirty-third year he also went from Galilee across the Red Sea to a mountain. During his final week he entered Jerusalem to suffer on Sunday, preached and performed miracles on Monday, and raised Lazarus on Tuesday. Judas sold him for thirty pieces of silver on Wednesday. He made the supper and was arrested on Thursday. He was crucified and bound the evil one on Friday, then destroyed hell on Saturday. (189v–190r)
+On Sundays Jesus raised the widow's son at Nain, gave sight to a blind man near Jericho, entered Jerusalem with his apostles, cast hell out of a man's mind, and fed five thousand people with five loaves. At thirty-three and a half he also went from Galilee across the Red Sea to a mountain. During his final week he entered Jerusalem to suffer on Sunday, preached and performed miracles on Monday, and raised Lazarus on Tuesday. Judas sold him for thirty pieces of silver on Wednesday. He made the supper and was arrested on Thursday. He was crucified and bound the evil one on Friday, then destroyed hell on Saturday. (189v–190r)
 
 On Sunday the Lord rose from death and appeared five times. First he appeared at Bethany to the Virgin Mary, second at the tomb to Mary Magdalene, and third on the road toward Jerusalem. Fourth he appeared to Luke and Cleopas as they traveled from Jerusalem to Emmaus, where he blessed wine and water. Fifth he appeared in Jerusalem to the ten apostles. (190v)
 
@@ -731,7 +731,7 @@ Matthew rose and followed Jesus, then received him at a meal in his house. Many 
 
 Jesus answered, “Those who are well do not need a physician, but the sick do. I did not come into this world to call the righteous, but sinners to salvation.” Here ends this holy gospel. Saint Paul says that the coming of Jesus Christ healed the sinners who had lived from Adam onward. (194v)
 
-Before Christ came, the prophets, forefathers, and holy fathers awaited him in the netherworld. Jesus was baptized on Mount Carmel when he was thirty. In his thirty-third year he was crucified and rose from death on the third day. He then led the holy prophets, forefathers, and fathers out of the netherworld. (195r)
+Before Christ came, the prophets, forefathers, and holy fathers awaited him in the netherworld. Jesus was baptized on Mount Carmel when he was thirty. At thirty-three and a half he was crucified and rose from death on the third day. He then led the holy prophets, forefathers, and fathers out of the netherworld. (195r)
 
 The Lord sits at the Father's right hand and will return to judge the living and the dead. Before ascending, he blessed the whole wide world. Here begins a holy gospel attributed to Saint Matthew, in a chapter the manuscript numbers four. The apostles asked Jesus who would be greatest in the eternal kingdom. Jesus placed a little child among them and said, “Whoever humbles himself like this child will be saved and become great in heaven.” (195v–196r)
 
@@ -745,7 +745,7 @@ Jesus told the apostles, “Go from town to town throughout the world and preach
 
 The prophets, including holy Elijah, and the apostles teach every person to pray, “Lord, I am your creature. Have mercy on my sin.” Whoever keeps God's commandment and bears its fruit is saved. The names of the faithful are written in the house of the eternal kingdom, where their souls go after death. Amen. (198v)
 
-Here begins a holy gospel attributed to the twenty-fifth chapter of Saint Matthew. When Jesus was thirty-three, he told his apostles and the Jewish people: “A rich man who owned a vineyard had two sons, one signifying the pagan and the other the Jew. (199r)
+Here begins a holy gospel attributed to the twenty-fifth chapter of Saint Matthew. When Jesus was thirty-three and a half, he told his apostles and the Jewish people: “A rich man who owned a vineyard had two sons, one signifying the pagan and the other the Jew. (199r)
 
 He told each son, ‘Go work today in my vineyard.’ One refused but later went, while the other agreed but did not go. Which one did his father's will?” The Jewish leaders answered, “The first.” Jesus then told a second parable. A rich lord leased his vineyard to tenant farmers. After many years he sent his servants—the prophets and angels—to collect its fruit, but the tenants killed them. (199v–200r)
 
@@ -755,7 +755,7 @@ The king told his servants, “Go into the highways and invite everyone you find
 
 When the king entered to see the guests, he noticed a man dressed in rags rather than a wedding garment. He asked, “Friend, how did you enter without wedding clothes?” The man had no answer. (202r)
 
-The king called the angel Gabriel and commanded, “Bind this man's hands and feet and cast him into the outer darkness, where there is weeping and grinding of teeth.” Here ends this holy gospel. Love Lord God with all your heart. Another gospel attributed to Saint Matthew begins when Jesus was thirty-three. (202v)
+The king called the angel Gabriel and commanded, “Bind this man's hands and feet and cast him into the outer darkness, where there is weeping and grinding of teeth.” Here ends this holy gospel. Love Lord God with all your heart. Another gospel attributed to Saint Matthew begins when Jesus was thirty-three and a half. (202v)
 
 While Jesus preached in Jerusalem, some Jews came and said, “Master, we know that you speak truly and teach God's way without favoring kings or emperors. Tell us: is it lawful to pay one drachma in tribute to the pagan emperor?” (203r)
 
@@ -779,7 +779,7 @@ Lord God later confirmed these three laws to Moses through an angel. From Adam t
 
 God. Second, do not take God's name in vain. Third, keep Sunday and the feast days, attend the temple, and hear the preaching. Whoever bears God's law is saved. Zacchaeus heard and loved the word and kept these three laws. Here ends this teaching. Love Lord God with all your heart. (209v)
 
-Here begins a holy gospel attributed to the fourteenth chapter of Saint Matthew. When Jesus was thirty-three and preaching in Jerusalem, a possessed man was brought to him [in the synagogue]. Jesus cast out the evil spirit. The Jews accused him of doing this with the help of the prince of devils, but Jesus answered that he acted by the power of Father God. (210r)
+Here begins a holy gospel attributed to the fourteenth chapter of Saint Matthew. When Jesus was thirty-three and a half and preaching in Jerusalem, a possessed man was brought to him [in the synagogue]. Jesus cast out the evil spirit. The Jews accused him of doing this with the help of the prince of devils, but Jesus answered that he acted by the power of Father God. (210r)
 
 Jesus said, “When an unclean spirit leaves a person, it walks through dry places seeking rest. Finding none, it decides to return to the house it left. It finds the house empty, swept, and prepared. (210v)
 
@@ -787,13 +787,13 @@ Then it brings seven spirits more evil than itself, and they enter and dwell the
 
 Jesus answered, “Blessed is the Virgin Mary who bore and nursed the Lord, but even more blessed are those who hear God's word and keep it.” Here ends this holy gospel. Love Lord God with all your heart. Another holy gospel, attributed to Saint John, begins. (211v)
 
-In the sixth chapter, Jesus was thirty-three when he crossed the sea, which the manuscript calls the Red Sea [of Galilee], and sat on a mountain. Looking up, he saw a great crowd approaching and asked the apostle Philip, “Where shall we buy bread for these people to eat?” Philip answered, (212r)
+In the sixth chapter, Jesus was thirty-three and a half when he crossed the sea, which the manuscript calls the Red Sea [of Galilee], and sat on a mountain. Looking up, he saw a great crowd approaching and asked the apostle Philip, “Where shall we buy bread for these people to eat?” Philip answered, (212r)
 
 “Two hundred denarii would not buy enough bread for them.” Saint Andrew said, “There is a boy here with five barley loaves and two fish.” The apostles brought the five loaves and two fish to Jesus. He took them (212v)
 
 and blessed them. Jesus told the apostles to seat the people on the grass, then gave them the bread and fish to distribute. Everyone ate. Afterward the apostles gathered the leftovers and filled twelve baskets. (213r)
 
-The crowd saw the miracle and gave thanks to the Most High God. They cried, “This is truly the prophet who was to come into the world.” Jesus then withdrew from them. Here ends this holy gospel. Love Lord God with all your heart. Another holy gospel begins, attributed to the eighth chapter of Saint John, when Jesus was thirty-three. (213v)
+The crowd saw the miracle and gave thanks to the Most High God. They cried, “This is truly the prophet who was to come into the world.” Jesus then withdrew from them. Here ends this holy gospel. Love Lord God with all your heart. Another holy gospel begins, attributed to the eighth chapter of Saint John, when Jesus was thirty-three and a half. (213v)
 
 While preaching in Jerusalem, Jesus rebuked the apostles and Jewish people for sin. He said, “Amen, amen, whoever is of God hears God's words. Whoever is not of God does not hear them.” The Jews answered that he was a blasphemer and possessed by Lucifer. (214r)
 
@@ -811,7 +811,7 @@ The Lord, king of heaven and earth, lived humbly and performed many miracles. He
 
 Here begins a holy gospel attributed to the twenty-first chapter of Saint Matthew. (014v)
 
-When Jesus was thirty-three, he traveled with the twelve apostles through Bethany and Bethphage toward Jerusalem and the Mount of Olives. He sent two disciples into the village, saying, “You will find a tied ass and its colt. Untie them and bring them to me.” (011r)
+When Jesus was thirty-three and a half, he traveled with the twelve apostles through Bethany and Bethphage toward Jerusalem and the Mount of Olives. He sent two disciples into the village, saying, “You will find a tied ass and its colt. Untie them and bring them to me.” (011r)
 
 The two disciples found the animals, untied them, and obeyed the command. They laid their garments upon the ass, and Jesus mounted it. With the mother and colt together, the Lord rode from the Mount of Olives toward Jerusalem. (011v)
 

@@ -502,3 +502,15 @@ of the Messiah. Melanchthon put that scheme at the head of Carion's Chronicle
 in 1532. The book's own 5,199 years to the Nativity would put six thousand in
 the year 801, so its count is the last two thousand of the three.
 source: 222r:2-4, 223v:1-2, 223v:13, 215r:4; proposals.json 060060990990990971ae1 tier A, 531ae0b14ae0 tier G; Sanhedrin 97a; Melanchthon, Chronicon Carionis (1532)
+
+## anchor: «thirty-three and a half» (188r)
+
+The age is written thirty, half, three, with the sign for year or day, at
+188r:6, 189v:9, 190r:2, 190r:4-5, 195r:6, 195v:8, 199r:6, 202v:10, 210r:6,
+212r:2, 213v:10-11 and 011r:1. Király and Tokai's entry for half reads it "33
+and a half", with 189v:9 and 195v:8 as their examples, and the ending sign's
+first sense in their entry is year. The Vorau copy of the Ezzolied, an
+eleventh-century German poem, has Christ live among us thirty-three years and
+half of the thirty-fourth. An earlier printing gave the age as thirty-three
+and dropped the half; that was wrong.
+source: 188r:6, 189v:9, 195v:8, 011r:1; K&T entry for half, "33 and a half" 189v09, 195v08; K&T entry for year/day (1. year, 2. day); Ezzolied, Vorau manuscript
