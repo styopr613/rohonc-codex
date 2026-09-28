@@ -5493,7 +5493,7 @@ words. There are 981 of them now.
 
 ## 188r — the manna and the bread of this day
 
-> the angel; and this living bread, the people, the Jews | forty years; and how? at table the Jews ate; on the Jews, from eating, left; and then this manna take a bucket; and the Jews [his purple] brought [a vessel] from the manna, glory and godfearing did, the Jews; in turn [came] Christ, stayed, daily [put into it] manna; and then the Lord Jesus within thirty [and a] half third year, the time the Lord Jesus said, at the last supper, he took within [his] hands one baked cake, and said the Lord Jesus: and the man [who does] not this bread eat; and the Lord
+> the angel; and this living bread, the people, the Jews | forty years; and how? at table the Jews ate; on the Jews, from eating, left; and then this manna take a bucket; and the Jews [his purple] brought [a vessel] from the manna, glory and godfearing did, the Jews; in turn [came] Christ, stayed, daily [put into it] manna; and then the Lord Jesus within thirty [and a] half three [years]; the time the Lord Jesus said, at the last supper, he took within [his] hands one baked cake, and said the Lord Jesus: and the man [who does] not this bread eat; and the Lord
 
   1  angel and this bread living people-Jews | forty
   2  year and how? table-Jews eat on-Jews from eat SUBJ leave
@@ -5549,7 +5549,7 @@ words. There are 981 of them now.
 
 ## 190r — the week of the Passion, day by day
 
-> the Lord, five baked bread, five thousand people; then the Lord within thirty [and a] half, three days, from Galilee through the Red Sea to one mount; on a Sunday the Lord was going, the Lord, to suffer within Jerusalem; then the Lord within thirty third year, on the Monday the Lord preached many a miracle; in turn on the Tuesday the Lord stood up and raised Lazarus from the tomb; in turn on the Wednesday the Lord, but was Judas, sold for thirty silver [pieces]; in turn Thursday, the dinner, the Lord did; and captured the Lord; in turn Friday the cross […]; and the evil one was bound; in turn on the Saturday, hell
+> the Lord, five baked bread, five thousand people; then the Lord within thirty-three and a half [years], from Galilee through the Red Sea to one mount; on a Sunday the Lord was going, the Lord, to suffer within Jerusalem; then the Lord within thirty [and a] half, three [years]; on the Monday the Lord preached many a miracle; in turn on the Tuesday the Lord stood up and raised Lazarus from the tomb; in turn on the Wednesday the Lord, but was Judas, sold for thirty silver [pieces]; in turn Thursday, the dinner, the Lord did; and captured the Lord; in turn Friday the cross […]; and the evil one was bound; in turn on the Saturday, hell
 
   1  Lord five baked bread five_thousand people
   2  then-Lord inside thirty half three from Galilee
@@ -5693,7 +5693,7 @@ words. There are 981 of them now.
 
 ## 195r — from Adam to the coming of Christ
 
-> truly, the man; and one prophet, and one forefather, and one holy father, holy living; and one | [prophet] the father […] in heaven; but rather, then, at the coming of Christ into this world, and then, in his thirtieth day, the time […] the Lord Jesus upon Carmel, the mount; and then out, thirty [and a] half, three days; at that time he was crucified, and on the third day stood up from the dead; and many holy prophets and holy forefathers and holy fathers, holy living, out of the netherworld | to the Lord went; and then, forty days; at that time to leave
+> truly, the man; and one prophet, and one forefather, and one holy father, holy living; and one | [prophet] the father […] in heaven; but rather, then, at the coming of Christ into this world, and then, in his thirtieth day, the time […] the Lord Jesus upon Carmel, the mount; and then out, thirty-three and a half [years]; at that time he was crucified, and on the third day stood up from the dead; and many holy prophets and holy forefathers and holy fathers, holy living, out of the netherworld | to the Lord went; and then, forty days; at that time to leave
 
   1  righteous somebody and one prophet and one forefather
   2  and one holy-father holy-living and one | [prophet]
@@ -5807,7 +5807,7 @@ words. There are 981 of them now.
 
 ## 199r — a man had a vineyard and two sons
 
-> This holy gospel begins, written by holy Matthew | in the twentieth, in the fifth chapter of the writing: the time, then the Lord Jesus within thirty [and a] half, three days, the time the Lord Jesus preached in Jerusalem; and the Lord Jesus said to the apostles of the Lord, and to the Jewish people: the kingdom of heaven left a man land. And then the Lord Jesus: there was [a vineyard] one rich man, a vineyard; and then he had
+> This holy gospel begins, written by holy Matthew | in the twentieth, in the fifth chapter of the writing: the time, then the Lord Jesus within thirty-three and a half [years], the time the Lord Jesus preached in Jerusalem; and the Lord Jesus said to the apostles of the Lord, and to the Jewish people: the kingdom of heaven left a man land. And then the Lord Jesus: there was [a vineyard] one rich man, a vineyard; and then he had
 
   1  here_begins this holy_gospel
   2  write holy-Matthew | one
@@ -5905,7 +5905,7 @@ words. There are 981 of them now.
 
 ## 202v — bind him hand and foot
 
-> said, within the Lord God's heaven house, found, the year; good, said this king, Gabriel, friend, brother by name, this most high, to, sat, the will; Gabriel spoke and said: bind the man's hands and feet, and cast the man out, the angel, outside, darkness there is seen the grinding of teeth, weeping, ever ever. Here ends this holy gospel. The Lord God, be loved. This holy gospel begins, written by holy Matthew, [twenty-two] chapter | of the writing: the time, then, | the Lord Jesus, thirty [and a] half, three days; at that time
+> said, within the Lord God's heaven house, found, the year; good, said this king, Gabriel, friend, brother by name, this most high, to, sat, the will; Gabriel spoke and said: bind the man's hands and feet, and cast the man out, the angel, outside, darkness there is seen the grinding of teeth, weeping, ever ever. Here ends this holy gospel. The Lord God, be loved. This holy gospel begins, written by holy Matthew, [twenty-two] chapter | of the writing: the time, then, | the Lord Jesus, thirty-three and a half [years]; at that time
 
   1  say inside of-Lord_God heaven house find-~year good say this king
   2  Gabriel friend brother-+name this-high to-°sat will
@@ -6113,7 +6113,7 @@ words. There are 981 of them now.
 
 ## 210r — a man possessed brought before the Lord
 
-> This holy gospel begins, written by holy Matthew, in the fourteen-and-one chapter | of the writing: the time, then the Lord Jesus within thirty [and a] half, three days; at that time preaching | the Lord Jesus preached in Jerusalem; and then they brought one man before the Lord Jesus, in [the synagogue]; the man was [with] a devil; And then the Jews: he [by] the prince of devils, the help
+> This holy gospel begins, written by holy Matthew, in the fourteen-and-one chapter | of the writing: the time, then the Lord Jesus within thirty-three and a half [years]; at that time preaching | the Lord Jesus preached in Jerusalem; and then they brought one man before the Lord Jesus, in [the synagogue]; the man was [with] a devil; And then the Jews: he [by] the prince of devils, the help
 
   1  here_begins this holy_gospel
   2  write holy-Matthew inside
@@ -6166,7 +6166,7 @@ words. There are 981 of them now.
 
 ## 212r — whence shall we buy bread?
 
-> within the sixth chapter of the writing: at that time, then, the Lord Jesus within thirty [and a] half, three days; at that time sat the Lord Jesus | on the Red Sea [of Galilee]; and the Lord went through, the Lord Jesus went through the Red Sea to one mount; and the Lord Jesus sat upon this mount, and lifted up the Lord's two eyes to heaven [high] and the Lord Jesus saw, on all four [sides], [a great multitude] people coming to the Lord; and went. And then the Lord Jesus: Philip, this people | take the Lord's apostle Philip, to eat. And then holy Philip: Master,
+> within the sixth chapter of the writing: at that time, then, the Lord Jesus within thirty-three and a half [years]; at that time sat the Lord Jesus | on the Red Sea [of Galilee]; and the Lord went through, the Lord Jesus went through the Red Sea to one mount; and the Lord Jesus sat upon this mount, and lifted up the Lord's two eyes to heaven [high] and the Lord Jesus saw, on all four [sides], [a great multitude] people coming to the Lord; and went. And then the Lord Jesus: Philip, this people | take the Lord's apostle Philip, to eat. And then holy Philip: Master,
 
   1  inside six chapter of-write time then Lord-Jesus
   2  inside thirty half-three time sit Lord-Jesus | on
@@ -6208,7 +6208,7 @@ words. There are 981 of them now.
 
 ## 213v — this is of a truth the prophet
 
-> among this people, many; and saw this many people the power of the Lord Jesus. and all the people gave the Lord thanks; and this word they cried out, thanks: there is God, most high, highest; and the Lord took somebody, by name, one, can, and a man could do this miracle; and he left, among this people, the Lord Jesus. Here ends this holy gospel. The Lord God, with all thy heart. This holy gospel begins, written by holy John, in the eighth chapter of the writing: the time, then, the Lord Jesus within thirty | [and a] half year, the time.
+> among this people, many; and saw this many people the power of the Lord Jesus. and all the people gave the Lord thanks; and this word they cried out, thanks: there is God, most high, highest; and the Lord took somebody, by name, one, can, and a man could do this miracle; and he left, among this people, the Lord Jesus. Here ends this holy gospel. The Lord God, with all thy heart. This holy gospel begins, written by holy John, in the eighth chapter of the writing: the time, then, the Lord Jesus within thirty | [and a] half three [years], the time.
 
   1  among this people many and see this many people power Lord-Jesus
   2  and Lord every people give_thanks = and this word who-shout-to
@@ -6300,7 +6300,7 @@ words. There are 981 of them now.
 
 ## 011r — go into the village, and you shall find an ass
 
-> was the Lord Jesus thirty [and a] half, three days; at that time went | the Lord Jesus went to Bethany, into Jerusalem, and the twelve apostles; and then | the Lord went to the lodging [Bethphage] there was [mount Olivet] prayer, until, because the trespassing way of the people, the lodging; and the trespassing, through the night, the lodging of the Lord Jesus; and then the Lord went, the Lord Jesus, two disciples down Bethany, because trespass, the Jews carried every [over against you] way, the people, one donkey. And then the Lord Jesus: if you [immediately] not, the Jews, take, the Jews, said the learners, two learners, take, the Jews, the learners, two learners, the donkey [tied]; the apostles [a colt] love
+> was the Lord Jesus thirty-three and a half [years]; at that time went | the Lord Jesus went to Bethany, into Jerusalem, and the twelve apostles; and then | the Lord went to the lodging [Bethphage] there was [mount Olivet] prayer, until, because the trespassing way of the people, the lodging; and the trespassing, through the night, the lodging of the Lord Jesus; and then the Lord went, the Lord Jesus, two disciples down Bethany, because trespass, the Jews carried every [over against you] way, the people, one donkey. And then the Lord Jesus: if you [immediately] not, the Jews, take, the Jews, said the learners, two learners, take, the Jews, the learners, two learners, the donkey [tied]; the apostles [a colt] love
 
   1  exist Lord-Jesus thirty half-three time go | Lord
   2  Jesus on-Bethany inside Jerusalem six-six disciple^ and then | go

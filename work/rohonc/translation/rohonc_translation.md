@@ -13313,8 +13313,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 **6**  [put into it] manna; and then the Lord Jesus within thirty [and a] half
 `[put_into_it] manna and then Lord-Jesus inside thirty half*`
 
-**7**  third year, the time the Lord Jesus said, at the last supper, he took
-`three_days time say Lord-Jézus on-last dinner-to grab`
+**7**  three [years]; the time the Lord Jesus said, at the last supper, he took
+`three time say Lord-Jézus on-last dinner-to grab`
 
 **8**  within [his] hands one baked cake, and
 `inside hands one baked cake and`
@@ -13427,8 +13427,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 **1**  the Lord, five baked bread, five thousand people;
 `Lord five baked bread five_thousand people`
 
-**2**  then the Lord within thirty [and a] half, three days, from Galilee
-`then-Lord inside thirty half three_days from Galilee`
+**2**  then the Lord within thirty-three and a half [years], from Galilee
+`then-Lord inside thirty half three from Galilee`
 
 **3**  through the Red Sea to one mount; on a Sunday
 `through the_Red_Sea to-one to-mount inside Sunday`
@@ -13436,8 +13436,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 **4**  the Lord was going, the Lord, to suffer within Jerusalem; then the Lord within thirty
 `the_Lord exist go-Lord on-suffer inside Jerusalem then-Lord inside thirty`
 
-**5**  third year, on the Monday the Lord preached many a miracle; in turn on the
-`half three_days inside Monday the_Lord many miracle preach-Lord in_turn`
+**5**  [and a] half, three [years]; on the Monday the Lord preached many a miracle; in turn on the
+`half three inside Monday the_Lord many miracle preach-Lord in_turn`
 
 **6**  Tuesday the Lord stood up and raised Lazarus from the tomb; in turn on the Wednesday
 `Tuesday the_Lord Lazarus on-burial_chamber stand_up resurrect-Lord in_turn Wednesday`
@@ -13790,8 +13790,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 **5**  thirtieth day, the time […] the Lord Jesus upon Carmel,
 `thirty day time from-[?]-[?] Lord-Jézus on-Carmel`
 
-**6**  the mount; and then out, thirty [and a] half, three days; at that time
-`mount and then out thirty half-+three_days time`
+**6**  the mount; and then out, thirty-three and a half [years]; at that time
+`mount and then out thirty half-three time`
 
 **7**  he was crucified, and on the third day stood up from the dead; and many holy prophets
 `crucified and on_the_third_day from die stand_up and many holy-prophet`
@@ -14058,8 +14058,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 **5**  then the Lord Jesus within
 `then Lord-Jesus inside`
 
-**6**  thirty [and a] half, three days,
-`thirty half-+three_days`
+**6**  thirty-three and a half [years],
+`thirty half-three`
 
 **7**  the time the Lord Jesus preached in Jerusalem; and the Lord Jesus said to the apostles
 `time preach Lord-Jézus inside Jerusalem and say Lord-Jézus apostle`
@@ -14310,8 +14310,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 **9**  the writing: the time, then, | the Lord
 `write time then-exist | Lord`
 
-**10**  Jesus, thirty [and a] half, three days; at that time
-`Jesus thirty half-+three_days time`
+**10**  Jesus, thirty-three and a half [years]; at that time
+`Jesus thirty half-three time`
 
 > Matthew 22:13, Douay: *Then the king said to the waiters: Bind his hands and
 > feet, and cast him into the exterior darkness: there shall be weeping and
@@ -14783,8 +14783,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 **5**  then the Lord Jesus
 `then Lord-Jesus`
 
-**6**  within thirty [and a] half, three days; at that time preaching | the Lord
-`inside thirty half-+three_days time preach | Lord`
+**6**  within thirty-three and a half [years]; at that time preaching | the Lord
+`inside thirty half-three time preach | Lord`
 
 **7**  Jesus preached in Jerusalem; and then they brought one man
 `Jézus inside Jerusalem and then-exist brought* one somebody`
@@ -14896,8 +14896,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 **1**  within the sixth chapter of the writing: at that time, then, the Lord Jesus
 `inside six chapter of-write time then Lord-Jesus`
 
-**2**  within thirty [and a] half, three days; at that time sat the Lord Jesus | on
-`inside thirty half-+three_days time sit Lord-Jesus | on`
+**2**  within thirty-three and a half [years]; at that time sat the Lord Jesus | on
+`inside thirty half-three time sit Lord-Jesus | on`
 
 **3**  the Red Sea [of Galilee]; and the Lord went through,
 `the_Red_Sea [?] and Lord through`
@@ -15027,8 +15027,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 **10**  the Lord Jesus within thirty | [and a] half
 `Lord-Jesus inside thirty | half`
 
-**11**  year, the time.
-`three_days time.`
+**11**  three [years], the time.
+`three time.`
 
 ## 214r — he that is of God heareth the words of God
 
@@ -15206,8 +15206,8 @@ in Király & Tokai's dictionary, so the person is not named here.
 
 ## 011r — go into the village, and you shall find an ass
 
-**1**  was the Lord Jesus thirty [and a] half, three days; at that time went | the Lord
-`exist Lord-Jesus thirty half-+three_days time go | Lord`
+**1**  was the Lord Jesus thirty-three and a half [years]; at that time went | the Lord
+`exist Lord-Jesus thirty half-three time go | Lord`
 
 **2**  Jesus went to Bethany, into Jerusalem, and the twelve apostles; and then | the Lord
 `Jézus on-Bethany inside Jerusalem six-six apostle and then-exist | go`

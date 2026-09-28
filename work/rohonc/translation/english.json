@@ -192,16 +192,17 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "011r": {
-  "english": "There was the Lord Jesus, thirty and a half, three days, at that time went the Lord Jesus on Bethany, in Jerusalem, [with the] twelve disciples; and then went the Lord on the lodging [at] [Bethphage], [which] is [the mount of Olivet], prayed until, because [they] passed over the way, people, lodging, and passed over through the night. [At the] lodging the Lord Jesus [was]; and then the Lord went; the Lord Jesus [sent] two disciples down [to] Bethany, because [they] passed over, the Jews carry every [thing] [over against you], the way, people, one donkey. And the Lord Jesus said: \"If you [go], [immediately] not the Jews take, [they] say, ... take, the Jews ..., a donkey [tied], the apostles, [a colt], love\" ",
+  "english": "There was the Lord Jesus, thirty-three and a half [years], at that time went the Lord Jesus on Bethany, in Jerusalem, [with the] twelve disciples; and then went the Lord on the lodging [at] [Bethphage], [which] is [the mount of Olivet], prayed until, because [they] passed over the way, people, lodging, and passed over through the night. [At the] lodging the Lord Jesus [was]; and then the Lord went; the Lord Jesus [sent] two disciples down [to] Bethany, because [they] passed over, the Jews carry every [thing] [over against you], the way, people, one donkey. And the Lord Jesus said: \"If you [go], [immediately] not the Jews take, [they] say, ... take, the Jews ..., a donkey [tied], the apostles, [a colt], love\" ",
   "leaks": [
    "pas",
    "sent",
    "tak",
    "thing",
    "twelv",
-   "went"
+   "went",
+   "year"
   ],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "011v": {
   "english": "\"[loose them], Master, on going, [bring them], the donkey, immediately; you [lead] the donkey to [me].\" The Jews [asked]; and then ... were ... One [laid their garments] [on] the colt, to the donkey; the rest, the donkey, donkey; and then tied up, the apostles, this donkey; and [they did] this commandment, but [set him], and sat down the Lord Jesus on ... the donkey. And the Lord loosed, the disciples, this from the donkey['s] mother this donkey, and sat, the Lord, on this, from the donkey; and went the Lord into Jerusalem; and then the Lord went, the Lord, on ... the mount highest [over] Jerusalem town.",
@@ -3293,13 +3294,13 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "188r": {
-  "english": "the angels'; and this bread, living, the Jewish people, forty years; and how the Jews [at] table ate on the Jews from ... eat, leave. And then this manna [they] took [in a] bucket; and the Jews ... brought [a vessel] from the manna, glory; and godfearing did the Jews, in turn [he came], Christ stays daily. [Put into it] manna. And then the Lord Jesus, at thirty and a half ..., three days, at that time the Lord Jesus said at the Last Supper, took in his hands one baked cake, and said the Lord Jesus: \"And the man [who does] not eat this bread, and the Lord",
+  "english": "the angels'; and this bread, living, the Jewish people, forty years; and how the Jews [at] table ate on the Jews from ... eat, leave. And then this manna [they] took [in a] bucket; and the Jews ... brought [a vessel] from the manna, glory; and godfearing did the Jews, in turn [he came], Christ stays daily. [Put into it] manna. And then the Lord Jesus, at thirty-three and a half [years] ..., at that time the Lord Jesus said at the Last Supper, took in his hands one baked cake, and said the Lord Jesus: \"And the man [who does] not eat this bread, and the Lord",
   "leaks": [
    "ate",
    "jewish",
    "took"
   ],
-  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "188v": {
   "english": "not believe, everybody [is] damned, cut off ...; and the man who believes in the Lord, and the man is from the altar, from the thirty, the holy host, eats and drinks, who believes not, ... the man is living for ever and ever, amen.\" To Sunday, from [the flesh of] Christ on this world born; and before the Lord Christ [was] born, nine months and two Sundays. On Sunday the Lord [was] announced by Gabriel the angel in ... not ... Sunday in the body of the blessed Virgin Mary, and [the holy Trinity], [holy] Joseph. On Sunday the Lord",
@@ -3322,25 +3323,27 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "189v": {
-  "english": "fasted, the Lord Jesus, forty days. On Sunday the Lord stood up, resurrected, the Lord Jesus Christ, in Nain town, the son of one widow ... woman; and before, that is, as ... the Lord this widow ... woman['s] son stood up, resurrected, the Lord. One blind, through light, on Sunday, the Lord Jesus Christ, by the wayside, [at] Jericho town. Then, and the Lord went into Jerusalem, and the Lord's apostles. On Sunday the Lord drove out, the Lord, in Jerusalem, on one somebody, hell, evil. Then the Lord, at thirty and a half, three, on Sunday the Lord ... broke",
+  "english": "fasted, the Lord Jesus, forty days. On Sunday the Lord stood up, resurrected, the Lord Jesus Christ, in Nain town, the son of one widow ... woman; and before, that is, as ... the Lord this widow ... woman['s] son stood up, resurrected, the Lord. One blind, through light, on Sunday, the Lord Jesus Christ, by the wayside, [at] Jericho town. Then, and the Lord went into Jerusalem, and the Lord's apostles. On Sunday the Lord drove out, the Lord, in Jerusalem, on one somebody, hell, evil. Then the Lord, at thirty-three and a half [years], on Sunday the Lord ... broke",
   "leaks": [
    "brok",
    "drov",
    "stoo",
    "went",
-   "widow"
+   "widow",
+   "year"
   ],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "190r": {
-  "english": "the Lord, five baked [loaves], bread, [for] five thousand people. Then the Lord, at thirty and a half, three days, from Galilee through the Red Sea to one mount. On Sunday the Lord went, the Lord, on suffering into Jerusalem. Then the Lord, at thirty and a half, three days: on Monday the Lord many miracles preached, the Lord; in turn on Tuesday the Lord Lazarus on the tomb stood up, resurrected, the Lord; in turn on Wednesday the Lord ... Judas sold for thirty silver; in turn on Thursday the dinner did the Lord, and [they] captured the Lord; in turn on Friday on the cross ..., and evil bound up; in turn on Saturday [in] hell",
+  "english": "the Lord, five baked [loaves], bread, [for] five thousand people. Then the Lord, at thirty-three and a half [years], from Galilee through the Red Sea to one mount. On Sunday the Lord went, the Lord, on suffering into Jerusalem. Then the Lord, at thirty-three and a half [years]: on Monday the Lord many miracles preached, the Lord; in turn on Tuesday the Lord Lazarus on the tomb stood up, resurrected, the Lord; in turn on Wednesday the Lord ... Judas sold for thirty silver; in turn on Thursday the dinner did the Lord, and [they] captured the Lord; in turn on Friday on the cross ..., and evil bound up; in turn on Saturday [in] hell",
   "leaks": [
    "loav",
    "sol",
    "stoo",
-   "went"
+   "went",
+   "year"
   ],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "190v": {
   "english": "... destroyed, the Lord. On Sunday the Lord rose from death, and the apostles ... the Lord appeared. First the Lord appeared in Bethany [to] the Virgin Mary; second, the Lord appeared at the tomb [to] Mary Magdalene; third, the Lord appeared on the way [to] ... people on Jerusalem; the second-two, the Lord appeared [to] two apostles: then the two apostles went on Sunday [from] Jerusalem into one town, and the town ... was Emmaus; in turn the apostles ... were Luke and Cleopas, and ... one apostle; bread and grapes and water blessed the Lord Jesus. On Sunday the Lord [the] fifth [time] appeared in Jerusalem [to] ten apostles, of",
@@ -3439,7 +3442,7 @@
   "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "195r": {
-  "english": "[was] a righteous man, and one prophet, and one forefather, and one holy father, holy living, and one [prophet], father ..., in heaven, but rather one; then [was] born Christ on this world; and then, at thirty [years and] days, at that time ... the Lord Jesus on the mount of Carmel; and then out thirty and a half, three days, at that time [he was] crucified, and on the third day from death stood up; and many holy prophets and holy forefathers and holy fathers, holy living, on the netherworld out, to [heaven] went, the Lord. And then forty days, at that time to leave",
+  "english": "[was] a righteous man, and one prophet, and one forefather, and one holy father, holy living, and one [prophet], father ..., in heaven, but rather one; then [was] born Christ on this world; and then, at thirty [years and] days, at that time ... the Lord Jesus on the mount of Carmel; and then out thirty-three and a half [years], at that time [he was] crucified, and on the third day from death stood up; and many holy prophets and holy forefathers and holy fathers, holy living, on the netherworld out, to [heaven] went, the Lord. And then forty days, at that time to leave",
   "leaks": [
    "death",
    "man",
@@ -3447,7 +3450,7 @@
    "went",
    "year"
   ],
-  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "196r": {
   "english": "the kingdom?\" Because [they] recognized, the disciples, as the Lord [was] crucified, and on the third day from death stood up; and the Lord to this disciple, judge, who is to the Lord ... holy in heaven. And called the Lord Jesus one little son, and the son ... put, the Lord Jesus, on [his] head the Lord's hands; and the Lord Jesus said: \"Who [is] not this humble, how ... this little son, not one [is] saved.\" At that time the Jews carried one ... before the Lord Jesus, from this emperor ... and [it] is pagan.",
@@ -3497,12 +3500,13 @@
   "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "199r": {
-  "english": "Here begins this holy gospel. Holy Matthew writes, one ... in the fifth chapter of the writing: at that time then the Lord Jesus, at thirty and a half, three days, at that time preached the Lord Jesus in Jerusalem, and said the Lord Jesus to the Lord's apostles and the Jewish people: \"Leave ... king, man, heaven's land.\" And the Lord Jesus said: \"There is [a vineyard]: the first rich man ... vineyard, and then had",
+  "english": "Here begins this holy gospel. Holy Matthew writes, one ... in the fifth chapter of the writing: at that time then the Lord Jesus, at thirty-three and a half [years], at that time preached the Lord Jesus in Jerusalem, and said the Lord Jesus to the Lord's apostles and the Jewish people: \"Leave ... king, man, heaven's land.\" And the Lord Jesus said: \"There is [a vineyard]: the first rich man ... vineyard, and then had",
   "leaks": [
    "fiv",
-   "jewish"
+   "jewish",
+   "year"
   ],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "199v": {
   "english": "two sons, pagan, Jew; and this rich man said, of the Lord, somebody, son, on the Jews: '[Go work today]'; brought ..., son, into the Lord's vineyard, the man, the vineyard, cultivate. [The son] said [to] this: '... go,' the Jews. And this rich man said ... the second son: '... into the Lord's vineyard, [as] vinedresser.'\" And [he] said [to] the priests: \"And ..., and say.\" The Lord Jesus [said to] the high priests and the Lord's apostles, judge, the Lord: \"I [ask] you, who ... good [did]?\" Said the high priests: \"Who ... good [did] ..., he who\" ",
@@ -3554,14 +3558,14 @@
   ]
  },
  "202v": {
-  "english": "[he] said: \"In the Lord God['s] heaven['s] house find ..., good.\" Said this king [to] Gabriel, friend, brother ..., this high ... will. Spoke Gabriel, said: \"Bind somebody [hand] and foot, and somebody cast out, angel, on out [into] darkness: there is seen grinding of teeth, weeping, ever, ever.\" Here ends this holy gospel. The Lord God be loved. Here begins this holy gospel. Holy Matthew writes [in the twenty-second] chapter of the writing: at that time then the Lord Jesus, at thirty and a half, three days,",
+  "english": "[he] said: \"In the Lord God['s] heaven['s] house find ..., good.\" Said this king [to] Gabriel, friend, brother ..., this high ... will. Spoke Gabriel, said: \"Bind somebody [hand] and foot, and somebody cast out, angel, on out [into] darkness: there is seen grinding of teeth, weeping, ever, ever.\" Here ends this holy gospel. The Lord God be loved. Here begins this holy gospel. Holy Matthew writes [in the twenty-second] chapter of the writing: at that time then the Lord Jesus, at thirty-three and a half [years],",
   "leaks": [
    "seen",
    "spok",
    "teeth",
    "two"
   ],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "203r": {
   "english": "at that time preached the Lord Jesus in Jerusalem, and to leave, the Jews, to the Lord Jesus; and the Jews said, \"Master,\" the Jews: \"[Master], [we know] [thou art a] true man, and righteous, the Lord['s] prophet, because truly God's way goes, the Lord, and [of] the divine one ... have, king and emperor, [thou teachest], go, name, the Lord, learn how ... want, the divine one, take from, would say, do ... The Jews take from everybody on one drachma; the emperor, heathen.\" And the Jews said: \"How ... want, the Lord, take from, would say, do?\" Said",
@@ -3676,11 +3680,12 @@
   "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "210r": {
-  "english": "Here begins this holy gospel. Holy Matthew writes in the fourteen-one ... chapter of the writing: at that time then the Lord Jesus, at thirty and a half, three days, at that time preached the Lord Jesus in Jerusalem; and then [they] brought one man before the Lord Jesus in [the synagogue]; the man had a devil. And the Jews said: \"He [casts out by the] prince of devils['] help\" ",
+  "english": "Here begins this holy gospel. Holy Matthew writes in the fourteen-one ... chapter of the writing: at that time then the Lord Jesus, at thirty-three and a half [years], at that time preached the Lord Jesus in Jerusalem; and then [they] brought one man before the Lord Jesus in [the synagogue]; the man had a devil. And the Jews said: \"He [casts out by the] prince of devils['] help\" ",
   "leaks": [
-   "cast"
+   "cast",
+   "year"
   ],
-  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "210v": {
   "english": "the evil in ... from generation ... [he] exorcises.\" And the Lord Jesus said: \"I [by the finger of God], the Lord['s] Father, and I of God the Father can miracle do, the Lord.\" And the Lord Jesus said: \"This not pious [one], who from evil ... expel.\" And the Lord Jesus said: \"Then [when] ... [is] exorcised in the man, one unclean spirit, and goes, the evil, [to a] dry place, and [walketh] to the Lord['s] place, that is, on ... from generation, and on word generation, and is therefore not ... the evil ..., lodging, and said this evil, this evil:",
@@ -3707,7 +3712,7 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "212r": {
-  "english": "in the sixth chapter of the writing: at that time then the Lord Jesus, at thirty and a half, three days, at that time sat the Lord Jesus on the Red Sea [of Galilee]; and the Lord through went, the Lord Jesus, through the Red Sea to one [place], to the mount; and sat the Lord Jesus to this mount; and lifted up the Lord's two eyes [to] heaven [high], and saw, the Lord Jesus, on every [side] four [a great multitude] [of] people to the Lord, and going. And the Lord Jesus said: \"Philip, this people take, apostles, the Lord['s], Philip, eat?\" And holy Philip said: \"Master,",
+  "english": "in the sixth chapter of the writing: at that time then the Lord Jesus, at thirty-three and a half [years], at that time sat the Lord Jesus on the Red Sea [of Galilee]; and the Lord through went, the Lord Jesus, through the Red Sea to one [place], to the mount; and sat the Lord Jesus to this mount; and lifted up the Lord's two eyes [to] heaven [high], and saw, the Lord Jesus, on every [side] four [a great multitude] [of] people to the Lord, and going. And the Lord Jesus said: \"Philip, this people take, apostles, the Lord['s], Philip, eat?\" And holy Philip said: \"Master,",
   "leaks": [
    "going",
    "plac",
@@ -3716,9 +3721,10 @@
    "sid",
    "six",
    "tak",
-   "went"
+   "went",
+   "year"
   ],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "212v": {
   "english": "then have two hundred denarii, who, the people, bread buy, not the people enough.\" And holy Andrew said: \"Master, ... this [two hundred pennyworth] ... One little boy, and has, the boy, five loaves [of] barley bread and two fish.\" And the disciples carried these five loaves [of] barley bread and these two fish before the Lord Jesus; and the Lord Jesus took this bread and these two fish, and this bread and",
@@ -3739,13 +3745,14 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "213v": {
-  "english": "among this people; and many saw, this many people, the power of the Lord Jesus; and the Lord ..., every people gave thanks; and this word who shouted to thanks: \"It is God most high, highest, and the Lord ..., somebody ... can [not], and [not] somebody can this miracle do.\" And [he] left among this people, the Lord Jesus. Here ends this holy gospel. The Lord God be loved. Here begins this holy gospel. Holy John writes in the six-two chapter of the writing: at that time then the Lord Jesus, at thirty and a half, three days, at that time",
+  "english": "among this people; and many saw, this many people, the power of the Lord Jesus; and the Lord ..., every people gave thanks; and this word who shouted to thanks: \"It is God most high, highest, and the Lord ..., somebody ... can [not], and [not] somebody can this miracle do.\" And [he] left among this people, the Lord Jesus. Here ends this holy gospel. The Lord God be loved. Here begins this holy gospel. Holy John writes in the six-two chapter of the writing: at that time then the Lord Jesus, at thirty-three and a half [years], at that time",
   "leaks": [
    "gav",
    "left",
-   "saw"
+   "saw",
+   "year"
   ],
-  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
  },
  "214r": {
   "english": "preached the Lord Jesus in Jerusalem, and said the Lord Jesus [to] the Lord's apostles and the Jewish people ... one up among you, apostles; and the Lord on sin admonished. And the Lord Jesus said: \"Verily, verily, I [to] you, apostles, speak, the Lord: and ... from God, this somebody ..., God['s] saying hears; in turn, and somebody ... not from God, this somebody ..., God['s] saying does not hear; and this ... from ... [hath a devil].\" And the Jews said: \"He [is] one blasphemer; he [has] Satan, the prince of devils; a devil has, the Lord, he [is] one heretic\" ",

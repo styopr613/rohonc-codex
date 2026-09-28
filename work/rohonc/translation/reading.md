@@ -448,23 +448,17 @@ Eve rejoiced more over the one drachma than over the other nine under the law. H
 
 For forty nights Lucifer remained among the angels of heaven before turning to evil. One angelic order then fell. The Lord came from Father God to establish a tenth order. The fallen order's place will remain empty until judgment day, when the Lord will fill it with the redeemed. Father God, the Son, Jesus, the Holy Spirit, Mary, Christ, the apostles, and the angels will judge the living and redeem the dead. (120v)
 
-The sheep represents the righteous people who believe in the Lord and Father God. Their neighbors and friends are the angels and apostles, forever and ever. Amen. Jesus then said that the woman is the Lord’s creature, Eve your mother, who lost one drachma. The lost coin represents one of the ten orders in the kingdom of heaven: the order that bowed down from Father God among the angels and fell into evil. Jesus then said: (121r)
-
-“The Holy Spirit proceeds from Father God to the Son.” The Father, Son, and Spirit resolved to form man in their image and likeness. They made man and every living creature, and gave Adam a soul, hearing, and sight. The Father, Son, and Holy Spirit are not many gods. They are one God. Father, Son, and Spirit then came forth from the kingdom of heaven into this world. (121v)
+The sheep represents the righteous people who believe in the Lord and Father God. Their neighbors and friends are the angels and apostles, forever and ever. Amen. Jesus then said that the woman is the Lord’s creature, Eve your mother, who lost one drachma. The lost coin represents one of the ten orders in the kingdom of heaven: the order that bowed down from Father God among the angels and fell into evil. Jesus then said: “The Holy Spirit proceeds from Father God to the Son.” The Father, Son, and Spirit resolved to form man in their image and likeness. They made man and every living creature, and gave Adam a soul, hearing, and sight. The Father, Son, and Holy Spirit are not many gods. They are one God. Father, Son, and Spirit then came forth from the kingdom of heaven into this world. (121r–121v)
 
 Lord God formed Adam from the clay of the earth and breathed a soul into him, making him alive. The Lord—the Father, Son, and Spirit—then took Adam into Paradise. Every creature before man was made by the Lord, the Father, the Son, and the Spirit. Jesus said that Adam had received every good thing from Father God in heaven. He knew neither hunger nor thirst. (122r)
 
-No living thing died there. Sin would bring Adam hunger, thirst, and death. The Lord placed one law upon him: “Do not eat from this tree, or through that evil sin you will die.” If Adam ate, he would die on the spot. The first teaching then tells how Adam slept in Paradise. The Holy Spirit entered the garden, and Lord God took a rib from Adam and made the woman. Then Adam (122v)
-
-laughed and said, “This is bone of my bones.” The two souls were called one. The Lord—Father God, the Son, and the Spirit—returned to the kingdom of heaven. Eve went through the Garden of Eden to the tree that stood in its midst, the tree forbidden by God's law, and saw a serpent. The serpent told her to eat its fruit. Eve answered that Adam had told her the commandment: “You shall not eat.” The serpent said, “Eve, eat, and give some to Adam.” (123r)
+No living thing died there. Sin would bring Adam hunger, thirst, and death. The Lord placed one law upon him: “Do not eat from this tree, or through that evil sin you will die.” If Adam ate, he would die on the spot. The first teaching then tells how Adam slept in Paradise. The Holy Spirit entered the garden, and Lord God took a rib from Adam and made the woman. Then Adam laughed and said, “This is bone of my bones.” The two souls were called one. The Lord—Father God, the Son, and the Spirit—returned to the kingdom of heaven. Eve went through the Garden of Eden to the tree that stood in its midst, the tree forbidden by God's law, and saw a serpent. The serpent told her to eat its fruit. Eve answered that Adam had told her the commandment: “You shall not eat.” The serpent said, “Eve, eat, and give some to Adam.” (122v–123r)
 
 Eve took the fruit and ate it, and Adam also ate. They came to know good and evil as Lord God knew them. The serpent had deceived Eve, who plucked the fruit and gave it to Adam. Their eyes were opened. Eve saw that Adam was naked, and Adam was ashamed. Their sin brought death, so they hid from the Lord—the Father, Son, and Spirit. Lucifer is named beside them. (123v)
 
 Lucifer had been put out of heaven by Father God, toward hell. The Lord—the Father, Son, and Spirit—now came from heaven into the Garden of Eden. The second teaching says that he entered Paradise and called through the Spirit, “Adam, where are you?” Lord God, the Father, Son, and Spirit, spoke these words to Adam. (124r)
 
-Adam answered the Lord—the Father, Son, and Spirit—saying, “The woman Eve gave me the fruit, and I ate.” The Lord then questioned Eve. She answered, “The serpent gave me the food and deceived me.” Jesus then spoke the judgment of Father God to Adam: (124v)
-
-“Adam, [you did not keep] the law and commandment laid upon you. You must till the ground and take your food from the earth.” Eve would pine and suffer pain in childbirth. The earth was cursed because of this evil, and the serpent would crawl upon it. All this happened because the serpent deceived the man and woman. (125r)
+Adam answered the Lord—the Father, Son, and Spirit—saying, “The woman Eve gave me the fruit, and I ate.” The Lord then questioned Eve. She answered, “The serpent gave me the food and deceived me.” Jesus then spoke the judgment of Father God to Adam: “Adam, [you did not keep] the law and commandment laid upon you. You must till the ground and take your food from the earth.” Eve would pine and suffer pain in childbirth. The earth was cursed because of this evil, and the serpent would crawl upon it. All this happened because the serpent deceived the man and woman. (124v–125r)
 
 Death entered among Adam and Eve. The Lord—the Father, Son, God, and Spirit—drove them out of the heavenly garden and onto the earth. Lord God stationed an angel there with a flaming sword. Adam and Eve were cast out of the Garden of Eden. (125v)
 
@@ -476,9 +470,7 @@ In a dream an angel of God said to the holy prophet Hezekiah, “Thus says the L
 
 Holy Hezekiah prepared himself, and at last his soul left him. An angel of God appeared and told the servants to lay Hezekiah in the tomb. The angel took his soul and departed, while Hezekiah's body remained in the tomb. The servants then speak of Saint Paul's apostolic letter to his brethren and how Paul prepared himself in his final year. (127v)
 
-The holy prophet Hezekiah had been warned and prepared himself. Paul likewise prepared himself, for he belonged to the Lord Jesus, the only Son of God. [That man went because he lost the sheep.] Here begins the holy gospel, attributed to the first chapter of Saint Luke. Three days after the Lord Christ was crucified, (128r)
-
-on another night he appeared to his apostles at the gate. They were startled and thought they were seeing a spirit. Even after they saw that it was the Lord, they could not believe for joy. The Lord remained with them for thirty-three days. (128v)
+The holy prophet Hezekiah had been warned and prepared himself. Paul likewise prepared himself, for he belonged to the Lord Jesus, the only Son of God. [That man went because he lost the sheep.] Here begins the holy gospel, attributed to the first chapter of Saint Luke. Three days after the Lord Christ was crucified, on another night he appeared to his apostles at the gate. They were startled and thought they were seeing a spirit. Even after they saw that it was the Lord, they could not believe for joy. The Lord remained with them for thirty-three days. (128r–128v)
 
 The apostles understood that he was the Lord Jesus Christ. As Saint John relates, Jesus breathed upon them, and all the apostles received the Holy Spirit. Jesus then said, “Go into the world as my apostles and preach the gospel. (129r)
 
@@ -486,9 +478,7 @@ Baptize them in the name of the Father, the Son, and the Holy Spirit. Everyone w
 
 After the Lord's death, the apostles went out to preach. They began at Jerusalem and carried the gospel throughout the whole world. Here ends this holy gospel, and Lord Jesus departed from among the apostles. Here begins another holy gospel, attributed to the second chapter of Saint John. At the Last Supper Jesus told his apostles that he was going to his Father. (130r)
 
-Saint Thomas asked, “Where is the Lord going?” Jesus answered, “Thomas, I am going to my Father.” Saint Philip then said, “Show us your Father.” Jesus replied, “Philip, you apostles have seen the miracles I have done. I do not perform these works alone; the Father who dwells in me does them by the Lord's finger.” He rebuked the apostles for their unbelief and added, “Whoever has seen me has seen my Father. Whoever believes in me (130v)
-
-also believes in my Father, for we are one God.” Jesus then said, “Go from land to land among the pagans. Preach to them how I rose from death. Tell them what you have heard from God's mouth and seen. Teach the pagans to believe that the dead will rise.” (131r)
+Saint Thomas asked, “Where is the Lord going?” Jesus answered, “Thomas, I am going to my Father.” Saint Philip then said, “Show us your Father.” Jesus replied, “Philip, you apostles have seen the miracles I have done. I do not perform these works alone; the Father who dwells in me does them by the Lord's finger.” He rebuked the apostles for their unbelief and added, “Whoever has seen me has seen my Father. Whoever believes in me also believes in my Father, for we are one God.” Jesus then said, “Go from land to land among the pagans. Preach to them how I rose from death. Tell them what you have heard from God's mouth and seen. Teach the pagans to believe that the dead will rise.” (130v–131r)
 
 The apostles were to say to the dead, “In the name of Jesus of Nazareth, stand up and rise,” and the dead would rise in his name. Jesus repeated: “Everyone who believes in the Lord is saved. No one who does not believe is saved. Whoever does not believe is damned. Whoever believes and is baptized in the name of the Father, the Son, and the Holy Spirit is saved.” (131v)
 
@@ -558,9 +548,7 @@ The Lady [was lost], and here ends the chapter. The blessed Virgin Mary forgave 
 
 The man fled across the field and fell into a pit. As he fell, he caught hold of a tree whose root projected from the wall. Two mice, one black and one white, began gnawing through the root. Looking below, the man saw an evil dragon waiting in the pit. If he fell back into the pit, he would be lost. (148v)
 
-The dragon would tear the man apart if he fell. Terrified, the man turned to the dying Lord Christ. A soldier had pierced the suffering Christ's side with a lance. The man seized that lance, which represents the Passion [and death] of Christ, and through it the soldier freed him from (149r)
-
-the pit. The Lord grasped the lance and pulled the man out through the Passion of Christ. The pit represents death and damnation: the person who falls into the power of evil dies and is damned, while the person who [is baptized] is saved. [The final words about seeing God are unclear.] (149v)
+The dragon would tear the man apart if he fell. Terrified, the man turned to the dying Lord Christ. A soldier had pierced the suffering Christ's side with a lance. The man seized that lance, which represents the Passion [and death] of Christ, and through it the soldier freed him from the pit. The Lord grasped the lance and pulled the man out through the Passion of Christ. The pit represents death and damnation: the person who falls into the power of evil dies and is damned, while the person who [is baptized] is saved. [The final words about seeing God are unclear.] (149r–149v)
 
 Church fathers, pagan writers, and Pharisees wrote of this. The gospel says that a certain man had two sons. The younger took what he had received from his father and went away after the property had been divided. [Several details in the middle of the passage are unclear.] (150r)
 
@@ -719,9 +707,7 @@ The Lord also appeared on a Sunday in Jerusalem to all twelve apostles, includin
 
 The angels said, “Why do you stand looking up to heaven? The Lord whom you saw ascend will return at judgment to judge the living and the dead.” Lord God be loved, and thanks be given. Here begins a holy gospel attributed to the second chapter of Saint Luke, concerning the Virgin Mary and the coming of Jesus. (191v)
 
-The Virgin Mary carried the infant Jesus in her arms to the temple. Guided by the Holy Spirit, Simeon entered and met her there. He took the child into his arms, knelt before Lord Jesus, and prayed, “Lord, now dismiss your servant in peace, (192r)
-
-for my eyes have seen your salvation.” Simeon blessed Lord Jesus, and the Lord had mercy on his sins. Lifting the child in the Jerusalem temple, Simeon proclaimed him the Lamb who had come into the world and would go to the Cross. Through him the whole wide world would be blessed. (192v)
+The Virgin Mary carried the infant Jesus in her arms to the temple. Guided by the Holy Spirit, Simeon entered and met her there. He took the child into his arms, knelt before Lord Jesus, and prayed, “Lord, now dismiss your servant in peace, for my eyes have seen your salvation.” Simeon blessed Lord Jesus, and the Lord had mercy on his sins. Lifting the child in the Jerusalem temple, Simeon proclaimed him the Lamb who had come into the world and would go to the Cross. Through him the whole wide world would be blessed. (192r–192v)
 
 Amen. Here ends this holy gospel. Three days before leaving this world, holy Simeon announced Christ to the holy fathers and prophets in the netherworld: “The Lord is coming, and you will be saved.” The gospel testifies that this Lord made wine of water, gave sight to the blind, cast evil out of people, raised the dead, healed lepers, and went to the Cross. (193r)
 
@@ -775,9 +761,7 @@ Lord God be loved. Zacchaeus represents every chief sinner, every tax collector,
 
 The Old Testament gives three commandments through Father Abraham. First, believe and be baptized: one God, not many gods, saves humanity and rules heaven and earth. Second, do not take God's name in vain. Third, keep Sunday and the holy feasts, attend the temple, and hear the preaching. (208v)
 
-Lord God later confirmed these three laws to Moses through an angel. From Adam to Abraham the manuscript gives one hundred and [an unreadable number] years; from Abraham to Moses it gives one thousand five hundred and fifty years. The angel told Moses to teach the people these three laws, beginning with belief in one (209r)
-
-God. Second, do not take God's name in vain. Third, keep Sunday and the feast days, attend the temple, and hear the preaching. Whoever bears God's law is saved. Zacchaeus heard and loved the word and kept these three laws. Here ends this teaching. Lord God be loved. (209v)
+Lord God later confirmed these three laws to Moses through an angel. From Adam to Abraham the manuscript gives one hundred and [an unreadable number] years; from Abraham to Moses it gives one thousand five hundred and fifty years. The angel told Moses to teach the people these three laws, beginning with belief in one God. Second, do not take God's name in vain. Third, keep Sunday and the feast days, attend the temple, and hear the preaching. Whoever bears God's law is saved. Zacchaeus heard and loved the word and kept these three laws. Here ends this teaching. Lord God be loved. (209r–209v)
 
 Here begins a holy gospel attributed to the fourteenth chapter of Saint Matthew. When Jesus was thirty-three and a half and preaching in Jerusalem, a possessed man was brought to him [in the synagogue]. Jesus cast out the evil spirit. The Jews accused him of doing this with the help of the prince of devils, but Jesus answered that he acted by the power of Father God. (210r)
 
@@ -787,11 +771,7 @@ Then it brings seven spirits more evil than itself, and they enter and dwell the
 
 Jesus answered, “Blessed is the Virgin Mary who bore and nursed the Lord, but even more blessed are those who hear God's word and keep it.” Here ends this holy gospel. Lord God be loved. Another holy gospel, attributed to Saint John, begins. (211v)
 
-In the sixth chapter, Jesus was thirty-three and a half when he crossed the sea, which the manuscript calls the Red Sea [of Galilee], and sat on a mountain. Looking up, he saw a great crowd approaching and asked the apostle Philip, “Where shall we buy bread for these people to eat?” Philip answered, (212r)
-
-“Two hundred denarii would not buy enough bread for them.” Saint Andrew said, “There is a boy here with five barley loaves and two fish.” The apostles brought the five loaves and two fish to Jesus. He took them (212v)
-
-and blessed them. Jesus told the apostles to seat the people on the grass, then gave them the bread and fish to distribute. Everyone ate. Afterward the apostles gathered the leftovers and filled twelve baskets. (213r)
+In the sixth chapter, Jesus was thirty-three and a half when he crossed the sea, which the manuscript calls the Red Sea [of Galilee], and sat on a mountain. Looking up, he saw a great crowd approaching and asked the apostle Philip, “Where shall we buy bread for these people to eat?” Philip answered, “Two hundred denarii would not buy enough bread for them.” Saint Andrew said, “There is a boy here with five barley loaves and two fish.” The apostles brought the five loaves and two fish to Jesus. He took them and blessed them. Jesus told the apostles to seat the people on the grass, then gave them the bread and fish to distribute. Everyone ate. Afterward the apostles gathered the leftovers and filled twelve baskets. (212r–213r)
 
 The crowd saw the miracle and gave thanks to the Most High God. They cried, “This is truly the prophet who was to come into the world.” Jesus then withdrew from them. Here ends this holy gospel. Lord God be loved. Another holy gospel begins, attributed to the eighth chapter of Saint John, when Jesus was thirty-three and a half. (213v)
 
@@ -833,17 +813,13 @@ The second servant was holy Stephen, Lord God's first martyr. After Christ's cru
 
 The Jewish leaders brought holy Stephen into the Jerusalem temple to suffer as a blasphemer. Saul was among them, not [consenting] (Acts 8:1 says he consented). They prepared to stone Stephen under the law of Moses. (217r)
 
-Stephen knelt, prayed, and gave thanks to Lord God. He lifted his eyes to heaven and offered his soul to the Lord. Heaven opened, and Stephen saw a crowned king seated at God's right hand with an army (217v)
-
-of angels. He cried, “I see heaven open and the crowned king sitting on a throne at God's right hand.” The Jews called this blasphemy. They laid their garments at the feet of a young man named Saul and prepared to stone Stephen, the first martyr. (216r)
+Stephen knelt, prayed, and gave thanks to Lord God. He lifted his eyes to heaven and offered his soul to the Lord. Heaven opened, and Stephen saw a crowned king seated at God's right hand with an army of angels. He cried, “I see heaven open and the crowned king sitting on a throne at God's right hand.” The Jews called this blasphemy. They laid their garments at the feet of a young man named Saul and prepared to stone Stephen, the first martyr. (217v, 216r)
 
 As they stoned him outside the town, Stephen prayed, “Lord, do not lay this sin to their charge.” He died giving thanks to Lord God and praying for his killers. Saul saw his suffering, and the Jews [raised a great persecution] against holy Stephen. (216v)
 
 Saul went to the Jewish leaders in Jerusalem and asked for authority to persecute the brethren of Lord Jesus Christ. They gave him letters and servants so that he could arrest and bind everyone who believed in Jesus. (219r)
 
-Saul set out with his company for Damascus, where many people believed in Lord Jesus Christ. As they traveled, a heavenly light suddenly shone around him. Saul fell to the ground, and Lord God called, “Saul, Saul, (219v)
-
-why do you persecute me?” Saul asked, “Who are you, Lord?” The voice answered, “I am Jesus of Nazareth, whom you persecute, the Lord executed on the Cross.” Saul asked what he should do. When he rose, [he was blind], and his companions [led him by the hand]. (220r)
+Saul set out with his company for Damascus, where many people believed in Lord Jesus Christ. As they traveled, a heavenly light suddenly shone around him. Saul fell to the ground, and Lord God called, “Saul, Saul, why do you persecute me?” Saul asked, “Who are you, Lord?” The voice answered, “I am Jesus of Nazareth, whom you persecute, the Lord executed on the Cross.” Saul asked what he should do. When he rose, [he was blind], and his companions [led him by the hand]. (219v–220r)
 
 Saul's companions brought him into Damascus and lodged him in the house of a man named Judas. Saul remained there [blind] for three days. The Lord then spoke to a disciple named Ananias and sent him to that house. (220v)
 
