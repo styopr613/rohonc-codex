@@ -40,6 +40,7 @@ BARS, declared before the run, not moved (Grok's, verbatim):
     python3 ktstrict.py --score REPLY.json
 """
 import json
+import os
 import random
 import re
 import sys
@@ -317,7 +318,17 @@ def write_prompt(path, gl, var, ktfirst, opairs):
 
 
 def score(path, opairs):
-    rows = sorted(opairs['A'] + opairs['B'], key=lambda r: (r[0], r[5]))
+    # The readers answered a numbered sheet of 38 items, written on 2026-09-21
+    # from the readings as they stood then. Their answers are matched to that
+    # sheet, frozen in reglosser_key.json, never to the pairs today's readings
+    # happen to produce: once a reading changed, numbering by the live pairs
+    # put every answer after it against the wrong sign (found 2026-09-28).
+    key = os.path.join(os.path.dirname(os.path.abspath(path)), "reglosser_key.json")
+    if os.path.exists(key):
+        rows = [(k["sign"], k["gloss"], None, None, None, k["ref"])
+                for k in sorted(json.load(open(key, encoding="utf-8")), key=lambda k: k["id"])]
+    else:
+        rows = sorted(opairs['A'] + opairs['B'], key=lambda r: (r[0], r[5]))
     raw = open(path, encoding="utf-8").read()
     m = re.search(r"\[.*\]", raw, re.S)
     ans = {a["id"]: a["word"] for a in json.loads(m.group(0))}

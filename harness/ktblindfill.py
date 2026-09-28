@@ -164,6 +164,16 @@ def main(argv):
     chosen, arms = sample(doc, refs, vd, gl, var)
     pages = {pg.page: pg for pg in doc}
     os.makedirs(OUT, exist_ok=True)
+    refresh = "--refresh" in argv
+    # The replies were written for the design in manifest.json. A replay reads
+    # that design back; drawing it again from today's readings moved 035v's
+    # rotated passage from 055v to 055r (2026-09-28) and would, as the readings
+    # move, score the saved replies against pages they were not written for.
+    man = os.path.join(OUT, "manifest.json")
+    if os.path.exists(man) and not refresh:
+        rec = json.load(open(man, encoding="utf-8"))
+        chosen = list(rec)
+        arms = {f: (v["arm"], v["passage_of"]) for f, v in rec.items()}
     p = json.load(open('proposals.json', encoding='utf-8'))
     un = lambda h: "".join(chr(0xE000 + int(h[i:i + 3], 16)) for i in range(0, len(h), 3))
     ours = {un(h): (v['tier'], v['gloss']) for h, v in p.items()
@@ -176,10 +186,9 @@ def main(argv):
         passage = "\n".join(f"{k[0]} {k[1]}:{k[2]} {txt}" for k, txt in L.passage(vd, refs[src])[:60])
         prompt = PROMPT.format(folio=f, page="\n".join(lines), passage=passage)
         jobs.append((f, arm, src, gaps, prompt))
-    json.dump({f: {"arm": a, "passage_of": s} for f, (a, s) in arms.items()},
-              open(os.path.join(OUT, "manifest.json"), "w"), indent=1)
-
-    refresh = "--refresh" in argv
+    if refresh or not os.path.exists(man):
+        json.dump({f: {"arm": a, "passage_of": s} for f, (a, s) in arms.items()},
+                  open(man, "w"), indent=1)
 
     def run(job):
         f, arm, src, gaps, prompt = job

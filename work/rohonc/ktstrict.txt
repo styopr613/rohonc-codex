@@ -3,26 +3,25 @@ TEST 12: TEST 5 RESCORED, STRICT LEMMA RULE, FIRST SENSE ONLY
   K&T's own headwords   strict  50.8%   loose  63.8%
 
   tier   signs  pairs  strict  shuffle    sd  sigma   loose
-  A+B       26     38   73.7%     6.7%  7.94    8.4   81.6%
-         strict misses: 285(law), 060060060ae1(three days), 060060060060060(five), 27d(give_up_the_ghost), 646(pierce), a10af9670(redeem), 060060060(three), 670ae0060788060270540(the Red Sea), 520b78(mount), 670ae0060788060270540(the Red Sea)
-  C+D        2      2  100.0%   100.0%  0.00    0.0  100.0%
-         strict misses: 
+  A+B       23     35   77.1%     5.0%  5.85   12.3   85.7%
+         strict misses: 060060060ae1(three days), 060060060060060(five), 27d(give_up_the_ghost), 646(pierce), a10af9670(redeem), 060060060(three), 670ae0060788060270540(the Red Sea), 670ae0060788060270540(the Red Sea)
+  C+D        0
   G          0
 
-  A+B strict 73.7%  (bar >= 40%)                      ok
-  A+B 8.4 sigma over the shuffle  (bar >= 3)          ok
-  A+B minus K&T's own headwords +22.9 points  (bar <= +10)   FAIL
+  A+B strict 77.1%  (bar >= 40%)                      ok
+  A+B 12.3 sigma over the shuffle  (bar >= 3)          ok
+  A+B minus K&T's own headwords +26.4 points  (bar <= +10)   FAIL
   BAR  ->  FAIL
 
   part 3a, K&T's headwords matched to ours by gloss length and sign frequency
     cell (words, freq band)      ours pairs K&T pairs  K&T strict
-    (1, 0)                               16        37       81.1%
-    (1, 1)                                9        78       56.4%
+    (1, 0)                               15        37       81.1%
+    (1, 1)                                7        78       56.4%
     (1, 2)                                4       209       44.5%
     (2, 0)                                7         1        0.0%
     (2, 1)                                2         4        0.0%
-    matched K&T strict rate 52.2%   ours 73.7%   difference +21.5 points   (reported; the bar above stands)
+    matched K&T strict rate 51.1%   ours 77.1%   difference +26.0 points   (reported; the bar above stands)
 
   part 3b, leakage check: the same signs on folios that are neither in their evidence
     nor the folio of a K&T sentence; gloss stem in the cited passage (Test 1's measure)
-    signs 13   occurrences 78   hit 15   19.2%   shuffle 14.5% (sd 4.22)   1.1 sigma   (reported)
+    signs 11   occurrences 62   hit 15   24.2%   shuffle 15.1% (sd 5.93)   1.5 sigma   (reported)

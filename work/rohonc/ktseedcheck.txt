@@ -1,8 +1,8 @@
 TEST 9: THE HIDDEN 70% VALIDATED AGAINST A RANDOM 30% SEED  (5 splits, 5 shuffles each)
   source    bracketed  unanchored     fit  shuffle    sd  sigma
-  K&T            1250        3600   20.2%     3.6%  1.12   14.9
-  A+B             619        1984   23.3%     5.2%  2.62    6.9
-  C+D             266         700   24.1%     4.6%  3.32    5.9
+  K&T            1270        3633   18.9%     3.3%  0.86   18.3
+  A+B             620        1943   23.5%     4.2%  2.17    8.9
+  C+D             275         700   21.8%     3.9%  2.97    6.0
 
-  ours A+B reach 115% of K&T's own fit rate
+  ours A+B reach 125% of K&T's own fit rate
   BAR A+B: >= 5 sigma and >= 70% of K&T  ->  PASS

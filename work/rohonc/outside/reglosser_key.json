@@ -1,0 +1,230 @@
+[
+ {
+  "id": 1,
+  "sign": "060060060",
+  "gloss": "three",
+  "ref": "013v01"
+ },
+ {
+  "id": 2,
+  "sign": "060060060",
+  "gloss": "three",
+  "ref": "084r07"
+ },
+ {
+  "id": 3,
+  "sign": "060060060",
+  "gloss": "three",
+  "ref": "084r07"
+ },
+ {
+  "id": 4,
+  "sign": "060060060",
+  "gloss": "three",
+  "ref": "189v09"
+ },
+ {
+  "id": 5,
+  "sign": "060060060060060",
+  "gloss": "five",
+  "ref": "076r03"
+ },
+ {
+  "id": 6,
+  "sign": "060060060ae1",
+  "gloss": "three days",
+  "ref": "076r03"
+ },
+ {
+  "id": 7,
+  "sign": "060060060ae1",
+  "gloss": "three days",
+  "ref": "112v02"
+ },
+ {
+  "id": 8,
+  "sign": "0604f04c94a4",
+  "gloss": "good fruit",
+  "ref": "065v05"
+ },
+ {
+  "id": 9,
+  "sign": "080670ae0a10ae01f6",
+  "gloss": "name",
+  "ref": "072v02"
+ },
+ {
+  "id": 10,
+  "sign": "080670ae0a10ae01f6",
+  "gloss": "name",
+  "ref": "072v03"
+ },
+ {
+  "id": 11,
+  "sign": "080670ae0a10ae01f6",
+  "gloss": "name",
+  "ref": "073r01"
+ },
+ {
+  "id": 12,
+  "sign": "080670ae0a10ae01f6",
+  "gloss": "name",
+  "ref": "074v02"
+ },
+ {
+  "id": 13,
+  "sign": "152281850520",
+  "gloss": "James",
+  "ref": "033r05"
+ },
+ {
+  "id": 14,
+  "sign": "223574ae0",
+  "gloss": "Moses",
+  "ref": "187r08"
+ },
+ {
+  "id": 15,
+  "sign": "27d",
+  "gloss": "give_up_the_ghost",
+  "ref": "052v01"
+ },
+ {
+  "id": 16,
+  "sign": "285",
+  "gloss": "law",
+  "ref": "019v09"
+ },
+ {
+  "id": 17,
+  "sign": "4f5520ae0",
+  "gloss": "crown",
+  "ref": "044v04"
+ },
+ {
+  "id": 18,
+  "sign": "4f5520ae0",
+  "gloss": "crown",
+  "ref": "044v04"
+ },
+ {
+  "id": 19,
+  "sign": "5201d8",
+  "gloss": "tree",
+  "ref": "026v01"
+ },
+ {
+  "id": 20,
+  "sign": "520793",
+  "gloss": "water",
+  "ref": "022v01"
+ },
+ {
+  "id": 21,
+  "sign": "520793",
+  "gloss": "water",
+  "ref": "022v01"
+ },
+ {
+  "id": 22,
+  "sign": "520ae00a20a2ae0",
+  "gloss": "bread",
+  "ref": "030v09"
+ },
+ {
+  "id": 23,
+  "sign": "520b78",
+  "gloss": "mount",
+  "ref": "033r08"
+ },
+ {
+  "id": 24,
+  "sign": "5400607b4060540",
+  "gloss": "face",
+  "ref": "154r03"
+ },
+ {
+  "id": 25,
+  "sign": "5400607b4060540",
+  "gloss": "face",
+  "ref": "197r03"
+ },
+ {
+  "id": 26,
+  "sign": "540ae0520250",
+  "gloss": "emperor",
+  "ref": "184v04"
+ },
+ {
+  "id": 27,
+  "sign": "630060060060ae0",
+  "gloss": "on the third day",
+  "ref": "059r01"
+ },
+ {
+  "id": 28,
+  "sign": "630060060060ae0",
+  "gloss": "on the third day",
+  "ref": "059r01"
+ },
+ {
+  "id": 29,
+  "sign": "630060060060ae1",
+  "gloss": "on the third day",
+  "ref": "029v04"
+ },
+ {
+  "id": 30,
+  "sign": "646",
+  "gloss": "pierce",
+  "ref": "161r09"
+ },
+ {
+  "id": 31,
+  "sign": "6701f0690",
+  "gloss": "toe",
+  "ref": "088v10"
+ },
+ {
+  "id": 32,
+  "sign": "670ae0060788060270540",
+  "gloss": "the Red Sea",
+  "ref": "187r07"
+ },
+ {
+  "id": 33,
+  "sign": "670ae0060788060270540",
+  "gloss": "the Red Sea",
+  "ref": "187r08"
+ },
+ {
+  "id": 34,
+  "sign": "670ae00e2",
+  "gloss": "Capharnaum",
+  "ref": "161r02"
+ },
+ {
+  "id": 35,
+  "sign": "6a6",
+  "gloss": "heart",
+  "ref": "105r08"
+ },
+ {
+  "id": 36,
+  "sign": "7807802c05201f1",
+  "gloss": "verily",
+  "ref": "065v02"
+ },
+ {
+  "id": 37,
+  "sign": "8c2540",
+  "gloss": "head",
+  "ref": "088v10"
+ },
+ {
+  "id": 38,
+  "sign": "a10af9670",
+  "gloss": "redeem",
+  "ref": "074v07"
+ }
+]

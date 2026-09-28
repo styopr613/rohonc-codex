@@ -103,11 +103,11 @@ the same tier, twenty times. Ceiling: K&T's own glosses measured the same
 way — true words that still miss, because a folio cites one passage and
 carries a dozen lines.
 
-    K&T's own words                          1704 / 6565     26.0%
+    K&T's own words                          1717 / 6602     26.0%
 
     tier   signs  held-out   rate   shuffle   sigma   vs K&T
-    A+B      310       633  25.8%     5.6%    16.4      99%    PASS
-    C+D       32       129  36.4%    12.2%     5.6     140%    PASS
+    A+B      311       637  25.9%     5.7%    15.4     100%    PASS
+    C+D       32       130  36.2%    13.5%     5.8     139%    PASS
 
 On folios that played no part in choosing them, the readings land in the
 cited passage at the same rate as the dictionary they extend, and four
@@ -121,25 +121,27 @@ K&T's dictionary quotes 172 example sentences from the codex with their own
 English and a folio cite. Those sentences contain signs they never glossed
 on their own, so their translation says what each such sign means there, in
 their words, before this project existed. Every reading whose evidence so
-much as mentions them is excluded as circular — 581 of them. Control:
+much as mentions them is excluded as circular — 610 of them. Control:
 glosses shuffled among the tested signs, twenty times. Ceiling: K&T's own
 headwords standing in the same sentences.
 
     K&T's own words echoed in their sentences    223 / 419    53.2%
 
     tier   signs  pairs   rate   shuffle   sigma   vs K&T
-    A+B       26     38  81.6%     7.9%     8.6    153%    PASS
-    C+D        2      2  100%        —       —       —     two pairs, no sigma
+    A+B       23     35  85.7%     7.9%    14.0    161%    PASS
+    C+D        0      0     —        —       —       —     none left to test
 
 The confirmed readings are echoed in their translations more often than
 their own headwords are: ours are content words, theirs include prefixes
-and particles a free translation swallows. The seven misses — law, five,
-three, mount, pierce, redeem, ghost — are numerals and words a paraphrase
-drops.
+and particles a free translation swallows. The five misses — five, three,
+pierce, redeem, ghost — are numerals and words a paraphrase drops. On the
+readings of 28 September there is no C+D pair left to score: the two that
+were scored, both hits with no sigma, are now read as Király and Tokai's own
+words or fall out as circular, and the C+D bar has nothing to rule on.
 
 Revised later the same day, after the outside review (Test 12 below). The
 margin over K&T's own headwords is not a comfort. Under a strict rule it is
-still 23 points, and two outside readers given only K&T's words and their
+still 26 points, and two outside readers given only K&T's words and their
 translations reach our gloss seven times in ten. This test shows the
 readings agree with K&T's translations. It cannot show they were not taken
 from them.
@@ -155,9 +157,9 @@ folio and its passage — K&T alone, K&T plus our A/B readings, and K&T plus
 the same glosses shuffled among the signs. A reading is used on a folio
 only if that folio is not named in its evidence.
 
-    cited folios 297      K&T-only match total 1345
+    cited folios 299      K&T-only match total 1356
 
-    A+B, held out    670 signs   gain +57    shuffled -35.9 (sd 11.3)   8.2 sigma   PASS
+    A+B, held out    670 signs   gain +58    shuffled -35.8 (sd 11.2)   8.3 sigma   PASS
 
 ## Test 2 and 2b — part of speech from context: the instrument is no good
 
@@ -250,15 +252,15 @@ matched word before the hidden sign and the nearest after. Then reveal
 their gloss. Control: our glosses shuffled among the signs. Ceiling: the
 same method with the whole dictionary as anchors.
 
-    616 K&T signs, 1392 occurrences, capped at three per sign
+    617 K&T signs, 1395 occurrences, capped at three per sign
 
     anchors        presence   top-1   no anchor
-    ours A+B          2.6%     0.4%      89.1%
-    ours A-D          3.6%     0.5%      84.6%
-    K&T + ours       10.9%     1.8%      39.7%
-    shuffled          0.7%     0.1%   (sd 0.28, 100 shuffles)
+    ours A+B          2.6%     0.4%      89.2%
+    ours A-D          3.8%     0.5%      84.5%
+    K&T + ours       10.8%     1.8%      39.7%
+    shuffled          0.7%     0.1%   (sd 0.29, 100 shuffles)
 
-    ours A-D vs shuffled   10.3 sigma   needed 5   PASS
+    ours A-D vs shuffled   10.9 sigma   needed 5   PASS
 
 The bar is met, and the history of this line has to be told, because the
 verdict on it changed. The first run, on the readings as they stood before
@@ -268,7 +270,8 @@ ten shuffles it gave 8.4. The presence figure had barely moved, 3.7% to
 3.6%; what moved was the standard deviation of ten shuffles, 0.67 to 0.36.
 Ten was too few to hold a control still, so the shuffle count was raised to
 a hundred, declared in the script before it ran, with the bar left at 5. The
-hundred-shuffle control gives 10.3 sigma. All three runs are kept
+hundred-shuffle control gave 10.3 sigma, and gives 10.9 on the readings of 28
+September. All three runs are kept
 (`ktrecover_v2_prevariantfix.txt`, `ktrecover_v3_tenshuffles.txt`,
 `ktrecover.txt`). What the table also says: with our readings alone, nine
 lines in ten have nothing that matches the passage, so there is nothing to
@@ -284,23 +287,23 @@ shuffle of themselves by ten sigma.
 A random 30% of every readable sign, K&T's and ours together, kept; the
 other 70% hidden. Two stages, both bars declared first.
 
-    readable signs 1574   seed 472   hidden 861 on cited folios
+    readable signs 1574   seed 472   hidden 862 on cited folios
     the seed covers 18.8% of the tokens on those folios
 
 Stage 1, which passage is this folio: render each cited folio with the seed
-words only and pick, from the 285 passages any folio note cites, the one
+words only and pick, from the 288 passages any folio note cites, the one
 that contains most of what is rendered.
 
-    seed words          6.1% of folios right
-    seed shuffled       0.4%  (chance 0.4%)      37.6 sigma     PASS
+    seed words          6.0% of folios right
+    seed shuffled       0.4%  (chance 0.3%)      37.6 sigma     PASS
 
 Stage 2, fill the holes: bracket each hidden sign's slot in the passage
 between the nearest seed word before and after it, fill the narrowest
 windows first with the rarest candidate, make the fills anchors, go round
 again.
 
-    true passages        filled 27.4%   recovered  1.0%
-    predicted passages   filled 48.9%   recovered  0.6%
+    true passages        filled 27.3%   recovered  1.0%
+    predicted passages   filled 51.5%   recovered  0.6%
     seed shuffled                       recovered  0.1%   15.3 sigma   PASS
 
 Both bars pass and the absolute numbers are small. The seed carries real
@@ -327,13 +330,13 @@ glosses shuffled among the hidden signs as control, five times per split.
 K&T's own hidden signs, scored against the same seed, are the ceiling.
 
     source    bracketed   fit    shuffle   sigma
-    K&T's         1250   20.2%     3.6%    14.9
-    ours A+B       619   23.3%     5.2%     6.9    PASS   115% of K&T's rate
-    ours C+D       266   24.1%     4.6%     5.9
+    K&T's         1270   18.9%     3.3%    18.3
+    ours A+B       620   23.5%     4.2%     8.9    PASS   125% of K&T's rate
+    ours C+D       275   21.8%     3.9%     6.0
 
 This is the two codes proving each other. A random third of the dictionary
 — theirs and ours mixed — places the other two thirds, theirs and ours
-alike, four to six times better than chance, and our readings fit the
+alike, five to six times better than chance, and our readings fit the
 slots the seed brackets at least as well as theirs do. Occurrences where the
 line held no seed word at all are set aside, not counted either way.
 
@@ -366,21 +369,21 @@ to the cited one, and a chunk of the Golden Legend of the same length.
 Control: K&T's glosses shuffled among their signs once.
 
     candidates                              1334 chapters
-    folios with a cited chapter              298
+    folios with a cited chapter              300
 
                                         K&T as published    shuffled
-    cited chapter is top-1 of 1334          37   12.4%        3    1.0%
-    cited chapter in the top 5%            211   70.8%       34   11.4%
-    median rank of the cited chapter        25               428
-    beats the frequency-matched decoy      241/298           166/298
-                                          p = 2e-28          p = 0.03
-    beats the other-genre decoy            281/298           191/298
+    cited chapter is top-1 of 1334          38   12.7%        4    1.3%
+    cited chapter in the top 5%            213   71.0%       35   11.7%
+    median rank of the cited chapter        25               415
+    beats the frequency-matched decoy      243/300           167/300
+                                          p = 8e-29          p = 0.03
+    beats the other-genre decoy            285/300           187/300
 
     BAR: median rank in the top 5% and p < 0.01 against the matched decoy   PASS
 
 The map stands without our readings: from K&T's words alone the cited
 chapter is the single best of 1334 one folio in eight and in the top 67 for
-seven folios in ten, against one in a hundred and one in nine from the
+seven folios in ten, against one in eighty and one in nine from the
 same words on the wrong signs. Tests 1, 6 and 9 have a target that does
 not depend on the readings they test.
 
@@ -402,18 +405,18 @@ keep a sign if some free stem is in the cited passage at every one of its
 occurrences. It was run at three scales.
 
     scale                          real kept   global   rotated   held-out sigma, real / nulls
-    10   the verse the note cites      7          1        6        8.1 / -1.2, 1.9      FAIL
-    10b  the whole cited chapter     215        343      293       -2.8 / -2.2, -1.6      FAIL
+    10   the verse the note cites      7          1        4        9.3 / -0.9, -0.6     FAIL
+    10b  the whole cited chapter     217        345      296       -2.1 / -2.3, -3.9      FAIL
     10c  the line and the verse
-         its K&T words point to        2          0        0        8.7 /  0.0, -0.3      PASS
+         its K&T words point to        2          0        0        8.7 /  0.0, -0.4      PASS
 
-At verse scale the rule keeps 7 signs of 316; at chapter scale it keeps
+At verse scale the rule keeps 7 signs of 317; at chapter scale it keeps
 everything on every book and never once picks the stem this project
-picked (0 of 72 shared signs); at line scale, the closest to what the loop
-actually did, it keeps 2. Seven against six and two against nought cannot
+picked (0 of 73 shared signs); at line scale, the closest to what the loop
+actually did, it keeps 2. Seven against four and two against nought cannot
 tell a search from a decipherment either way. What the held-out column does
 say is consistent: on the real book the rule's readings land where they
-were not derived from, 8 sigma over shuffle, and on the null books they do
+were not derived from, 8 to 9 sigma over shuffle, and on the null books they do
 not. The count criterion has no power at any scale, because "in the
 passage at every occurrence" is not the rule that produced the 670
 readings — a word is checked for sense at every occurrence, not for
@@ -435,18 +438,20 @@ same way, restricted like ours to first senses with a content word.
     K&T's own headwords, strict             167 / 329    50.8%
 
     tier   signs  pairs  strict   shuffle   sigma   loose (Test 5's rule)
-    A+B       26     38   73.7%     6.7%     8.4    81.6%
+    A+B       23     35   77.1%     5.0%    12.3    85.7%
 
     strict >= 40%                                  ok
     >= 3 sigma                                     ok
-    ours minus K&T's headwords  +22.9 points       FAIL   (bar: at most +10)
+    ours minus K&T's headwords  +26.4 points       FAIL   (bar: at most +10)
 
-    matched on gloss length and sign frequency: K&T 52.2%, ours +21.5 points
+    matched on gloss length and sign frequency: K&T 51.1%, ours +26.0 points
 
 Then the independent re-glosser. The 38 sentences were sent to two outside
 models with each sentence in K&T's words only, the sign in question
 blanked, and K&T's English — our glosses not in the file — and each was
-asked what the blank must mean.
+asked what the blank must mean. Their answers are scored against that sheet
+of 38, kept as `work/rohonc/outside/reglosser_key.json`, not against the
+pairs today's readings give (the strict table above now has 35).
 
     reader             agree with ours   undetermined   agree among the determined
     Gemini 2.5 Pro        26 / 38  68.4%      7             83.9%
@@ -457,7 +462,7 @@ asked what the blank must mean.
 Leakage check, same signs on cited folios that are neither in their
 evidence nor the folio of a K&T sentence, Test 1's measure:
 
-    13 signs   78 occurrences   19.2%   shuffle 14.5%   1.1 sigma   no verdict
+    11 signs   62 occurrences   24.2%   shuffle 15.1%   1.5 sigma   no verdict
 
 Read together: the glosses are the words K&T's translations imply, an
 outside reader recovers them from the sentence seven times in ten, and on
@@ -476,23 +481,23 @@ all of those chapters. A rival is one that is not a form of the chosen
 gloss. Fail if more than 40% of the signs have a rival that also satisfies
 the keep-rule.
 
-    A/B signs counted                     94
+    A/B signs counted                     95
     chosen gloss in every chapter          0     0.0%
-    a rival in every chapter              61    64.9%     FAIL   (bar: 40%)
+    a rival in every chapter              62    65.3%     FAIL   (bar: 40%)
     a matched-frequency random stem
       in every chapter                           0.3%
 
-    at the verse the note cites (reported): 70 signs, chosen survives 1, rivals 3
+    at the verse the note cites (reported): 71 signs, chosen survives 1, rivals 3
 
-The bar fails as declared. In plain terms: the 94 are this project's tier
+The bar fails as declared. In plain terms: the 95 are this project's tier
 A/B readings whose signs stand on folios citing three or more chapters; the
 rule asks whether some other word appears in every one of those chapters;
-for 61 of the 94 a common verb does. The 64.9% measures how often a common
+for 62 of the 95 a common verb does. The 65.3% measures how often a common
 verb turns up in three chapters, not how often a reading is arbitrary. The
-rivals exist; the method did not choose them -- not one of the 94 glosses is
+rivals exist; the method did not choose them -- not one of the 95 glosses is
 the product of that rule -- so the FAIL is a measure of the rival space and
 not of what the method did, and it stands as declared. What the count shows
-is that the rule being censused is not the rule that made the readings: not one of the 94 glosses
+is that the rule being censused is not the rule that made the readings: not one of the 95 glosses
 is present in every chapter its sign's folios cite, so the rivals — answer,
 tell, ruler, cast, enter, depart — are words that satisfy a rule the
 readings themselves do not. The rivals are the commonest free verbs of the
@@ -618,29 +623,68 @@ control that ROHONC.md reports (`ktsegment`, `ktname`, `ktalign_gate`,
 their day and are not rerun; they date from 20 September and the document
 says so where it quotes them.
 
+## Every run regenerated again — 2026-09-28
+
+The replay (`harness/reproduce_tests.py`) found 15 of the 20 saved runs no
+longer reproduced. The cause was the same as on 22 September, over a longer
+stretch: readings changed on 25 September (two readings corrected, commit
+8ca1a99) and again on 28 September, when every line Király and Tokai's
+dictionary cites was decided by hand and 50 of this project's readings were
+replaced by theirs, and the saved runs were not rewritten. `check_tests.py`
+did not notice, because it checks that each figure here stands in its saved
+run, not that the run still comes out of the program. The replay now runs as
+a gate on every build.
+
+All fifteen were rerun on the readings as they stand, with the same seeds
+and the same bars. The earlier files are kept in the session's backups, and
+the diff of every one was read before this was written. What moved:
+
+    test   figure                         before      after
+    1      A+B sigma / of K&T's rate      16.4 / 99%  15.4 / 100%
+    5      readings excluded as circular      581        610
+    5      A+B pairs / sigma               38 / 8.6   35 / 14.0
+    5      C+D pairs                            2          0
+    6      A+B sigma                          8.2        8.3
+    7      recovery sigma, hundred shuffles  10.3       10.9
+    9      A+B sigma / of K&T's rate    6.9 / 115%  8.9 / 125%
+    10     rotated null kept / held out    6 / 1.9    4 / -0.6
+    11     cited chapter top-1              12.4%      12.7%
+    12     strict A+B / sigma          73.7% / 8.4  77.1% / 12.3
+    12     over K&T's own headwords     +22.9 points +26.4 points
+    13     rival in every chapter      61/94 64.9%  62/95 65.3%
+
+No verdict changed. Test 5's C+D row no longer has a verdict to give,
+because nothing is left in it. Test 12b could not be rerun on today's
+readings at all: the outside readers answered a numbered sheet of 38 items,
+and the scorer numbered today's pairs instead, so after the first changed
+reading every answer was scored against the wrong sign. The sheet as sent is
+now kept (`reglosser_key.json`) and the answers are scored against it; the
+published 68.4% and 71.1% reproduce exactly. Tests 2, 3, 14, 15 and 16 did
+not move.
+
 ## Summary
 
     The transcription every other test reads, checked against an independent one:
     Test 16 | a second, independent transcription | 91.1% of glyphs agree where both can be compared, against a 12.9% control, 458.5 sigma; 83.8% of the words identical | PASS
 
     The readings:
-    Test 1  | source presence, held-out folios | A+B 16.4 sigma; 99% of K&T's own rate | PASS
-    Test 5  | K&T's own sentence translations | A+B 8.6 sigma; 153% of K&T | PASS
-    Test 6  | word order, held-out folios | A+B 8.2 sigma | PASS
+    Test 1  | source presence, held-out folios | A+B 15.4 sigma; 100% of K&T's own rate | PASS
+    Test 5  | K&T's own sentence translations | A+B 14.0 sigma; 161% of K&T | PASS
+    Test 6  | word order, held-out folios | A+B 8.3 sigma | PASS
     Test 2  | part of speech from context | the instrument fails on K&T's own words (68.3% against a needed 70%; 4.7 sigma against a needed 5); the readings were never scored | NO VERDICT
     Test 3  | the blindfold, run clean | 4 of 24 strict, 16.7%; the declared band for that result was 15-30%, and its declared consequence, tier C passage readings become tier D, was applied | IN BAND
-    Test 7  | K&T's words removed | reads 11.6% from this project's readings alone, by design: the readings extend the dictionary. Recovery of a hidden K&T word: 10.3 sigma against a declared 5, on a hundred-shuffle control; the ten-shuffle runs gave 4.4 before the variant fix and 8.4 after, and all three are kept | PASS
-    Test 8  | bootstrap from a random 30% | passage 37.6 sigma (6.1% absolute); recovery 15.3 sigma (1.0% absolute) | PASS
-    Test 9  | hidden 70% validated by the 30% | A+B 6.9 sigma; 115% of K&T's own rate | PASS
+    Test 7  | K&T's words removed | reads 11.6% from this project's readings alone, by design: the readings extend the dictionary. Recovery of a hidden K&T word: 10.9 sigma against a declared 5, on a hundred-shuffle control; the ten-shuffle runs gave 4.4 before the variant fix and 8.4 after, and all three are kept | PASS
+    Test 8  | bootstrap from a random 30% | passage 37.6 sigma (6.0% absolute); recovery 15.3 sigma (1.0% absolute) | PASS
+    Test 9  | hidden 70% validated by the 30% | A+B 8.9 sigma; 125% of K&T's own rate | PASS
 
     After the outside review by Gemini 2.5 Pro and Grok 4.7, same day:
-    Test 11 | passage map from K&T's words alone | median rank 25 of 1,334; top-1 12.4%; p 2e-28 | PASS
-    Test 10 | the search replayed on null books | 7 / 215 / 2 signs kept at three scales; the count rule has no power at any, so it cannot tell a search from a decipherment | NO VERDICT
+    Test 11 | passage map from K&T's words alone | median rank 25 of 1,334; top-1 12.7%; p 8e-29 | PASS
+    Test 10 | the search replayed on null books | 7 / 217 / 2 signs kept at three scales; the count rule has no power at any, so it cannot tell a search from a decipherment | NO VERDICT
     Test 10, held out | the same runs, scored where the readings were not derived | real book 8 sigma over shuffle; null books none | reported, not a verdict
-    Test 12 | Test 5 rescored under the strict rule | 73.7%, 8.4 sigma; but +22.9 points over K&T's own headwords trips the declared leakage clause | FAIL on that clause
+    Test 12 | Test 5 rescored under the strict rule | 77.1%, 12.3 sigma; but +26.4 points over K&T's own headwords trips the declared leakage clause | FAIL on that clause
     Test 12b | two independent re-glossers, Gemini 2.5 Pro and Grok 4.7 | given K&T's words only and the sign blanked, they recover this project's gloss 68.4% and 71.1% of the time | PASS
-    Test 13 | the underdetermination census | 61 of 94 A/B readings have a common verb present in every chapter their folios cite, against a bar of 40% | FAIL
-    Test 13, the same rule | applied to the chosen glosses | 0 of the 94 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did | reported, not a verdict
+    Test 13 | the underdetermination census | 62 of 95 A/B readings have a common verb present in every chapter their folios cite, against a bar of 40% | FAIL
+    Test 13, the same rule | applied to the chosen glosses | 0 of the 95 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did | reported, not a verdict
     Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS
     Test 15 | passage identification, outside reader | chapter level 9 of 20 against 0 of 20 shuffled; p 0.002 | PASS
 

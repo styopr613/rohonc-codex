@@ -38,6 +38,7 @@ THE TEST, declared before it was run.
     python ktvarcheck.py --show X   every reading in class X, in full
 """
 import json
+import os
 import sys
 from collections import defaultdict
 
@@ -79,7 +80,7 @@ def main(argv):
     prop_all = T.load_proposals(("A", "B", "C", "D", "G"))
     kt_hexes = {K.hx(c) for c in gl}
     mine_hexes = {K.hx(c) for c in prop_all}
-    ev = json.load(open("proposals.json"))
+    ev = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "proposals.json")))
     unhex = {K.hx(c): c for c in list(gl) + list(prop_all)}
 
     cache = {}

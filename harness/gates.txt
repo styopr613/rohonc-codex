@@ -8,3 +8,4 @@ ktretellcheck.py
 ktnotecheck.py
 check_tests.py
 ktatlascheck.py
+check_replay.py
