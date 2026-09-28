@@ -1319,7 +1319,7 @@ words. There are 981 of them now.
 
 ## 046r — Barabbas, and Behold the man
 
-> the Lord die […]; and ye took the Lord captured. And Pilate said to Jesus: this sayest thou, Lord, the Son of God? And one said [Behold], said the Lord Jesus to Pilate; and he let go Barabbas; to Jesus, and they beat the Lord's face. [from] town [outside], all the Lord's holy, nine […] name quaked; and Jesus said […] the soldier, Barabbas, truly the Lord spoke […] they beat him; the scribes spoke, it is written that; and [scourged] [again] they beat him. For ever and ever. And so they did to the Lord. Pilate went out of the house, and cried, Pilate: Behold Jesus, Nazareth the King of the Jews!
+> the Lord die […]; and ye took the Lord captured. And Pilate said to Jesus: this sayest thou, Lord, the Son of God? And one said [Behold], said the Lord Jesus to Pilate; and he let go Barabbas; to Jesus, and they beat the Lord's face. [from] town [outside], all the Lord's holy, nine […] name quaked; and Jesus said […] the soldier, Barabbas, truly the Lord spoke […] they beat him; the church father spoke, it is written that; and [scourged] [again] they beat him. For ever and ever. And so they did to the Lord. Pilate went out of the house, and cried, Pilate: Behold Jesus, Nazareth the King of the Jews!
 
   1  Lord die cross-die and you grab
   2  Lord capture and say Pilate to-Jesus this
@@ -3878,7 +3878,7 @@ words. There are 981 of them now.
   9  Jesus and SUBJ man^ Lord see-apostle this-apostle SUBJ and of-Lord
  10  the_Father see and man^ exist Lord believe this exist
 
-## 131r — the Sadducees and the resurrection
+## 131r — the pagans and the resurrection
 
 > and the Lord's Father believe, because this one God. And then the Lord Jesus: you go, apostles, within land [and] land, among the pagans; and the pagans; preach, apostles, how I from death stood up, up; how it is from the pagans, you apostles, believe, because God said, the mouth, year; hear; and the Lord see, pagans. And then the Lord Jesus said: the Lord | you yours; how you apostles are, the pagans | to believe: because the pagans are before you, the dead carry, the pagans, on standing up, resurrect; and this | is
 

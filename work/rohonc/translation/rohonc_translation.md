@@ -3198,7 +3198,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **7**  quaked; and Jesus said […] the soldier, Barabbas, truly
 `quake and say Jézus this soldier Barabbas this righteous(ly)`
 
-**8**  the Lord spoke […] they beat him; the scribes spoke,
+**8**  the Lord spoke […] they beat him; the church father spoke,
 `speak-Lord to-inside-Lord beat speak church_father`
 
 **9**  it is written that; and [scourged] [again] they beat him.
@@ -7615,7 +7615,9 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > Luke 10:30-32. *Half dead* and *half alive* are one unread glyph joined to
 > Király & Tokai's die and their living, each with their man; the pair reads
 > each other. The book writes the priest as "descendant of Abraham" and the
-> Levite as "descendant of the scripture", the law's man.
+> Levite as "descendant of Moses" (Király & Tokai's reading; an earlier
+> printing had "descendant of the scripture", a reading of ours, which was
+> wrong).
 
 ## 106v — the Samaritan binds his wounds and pays the host
 
@@ -9391,7 +9393,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 > and *rebuke* on line 8 is theirs, glossed with Mark 16:14, the unbelief of
 > the apostles. Their *finger* stands on line 7.
 
-## 131r — the Sadducees and the resurrection
+## 131r — the pagans and the resurrection
 
 **1**  and the Lord's Father believe, because this one
 `and of-Lord the_Father believe because this one`
@@ -9423,9 +9425,12 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **10**  the dead carry, the pagans, on standing up, resurrect; and this | is
 `die carry-pagan on-~stand_up resurrect and this | exist`
 
-> The Sadducees, who say there is no resurrection (Matthew 22:23), set
-> against Luke 24:43, where the risen Lord eats before the apostles, which
-> is line 5. Király & Tokai's rise sign stands on line 10, cited by them.
+> An earlier printing read the sign on lines 3–10 as "the Sadducees"
+> (Matthew 22:23), a reading of ours, and set line 5 against Luke 24:43,
+> where the risen Lord eats before the apostles. Both were wrong: Király &
+> Tokai read the sign "pagan", and line 5 has no eating. The page sends the
+> apostles to preach the rising of the dead among the pagans. Király &
+> Tokai's rise sign stands on line 10, cited by them.
 
 ## 131v — in my name, and he that believeth and is baptized
 
