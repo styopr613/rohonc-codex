@@ -21,8 +21,15 @@ The rules the decisions follow:
   4. Where they list the whole sign as a spelling of one word, that word
      prints alone (then, not then-exist). Where their own analysis splits it
      (to-go, their example of the prefix "to"), the split stays.
-  5. A sign inside one of their set phrases (ktexpr.json) is left to the
-     phrase.
+  5. A sign inside one of their set phrases of several signs (ktexpr.json)
+     is left to the phrase. A one-sign entry there does not beat a line
+     decided here (2026-09-28: the one-sign entries added that day had
+     silenced 21 rows, "the Baptist" at 116v-118r among them).
+
+Every row must stand on its line. Five rows were keyed to a spelling the
+transcription does not have there, and printed nothing without anyone
+knowing; ktreader.py now stops the build if any row was never used
+(unused()).
 """
 import json
 import os
@@ -31,10 +38,20 @@ FIX = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
                                   "glossfix.json"), encoding="utf-8"))
 
 
+USED = set()
+
+
 def word(page, line, raw_hex, base_hex):
     """The hand-decided English for this sign on this line, or None."""
     for h in (raw_hex, base_hex):
-        w = FIX.get(f"{page}{line:02d} {h}")
+        k = f"{page}{line:02d} {h}"
+        w = FIX.get(k)
         if w is not None:
+            USED.add(k)
             return w.replace(" ", "_")
     return None
+
+
+def unused():
+    """Rows no call to word() has asked for: keyed to nothing on the line."""
+    return sorted(set(FIX) - USED)

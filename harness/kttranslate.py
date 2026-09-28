@@ -308,12 +308,15 @@ def inner_phrases(pieces, gl, var, prop, full, own):
     return out
 
 
-def phrase_slots(run):
+def phrase_slots(run, lens=None):
     """{index: word} for the signs of one run that stand in a set phrase.
 
     Longest phrase first, left to right, never across a gap in the
     transcription (a run is the stretch between two gaps). '=' marks a sign
-    that belongs to the phrase printed just before it."""
+    that belongs to the phrase printed just before it. If `lens` is a dict,
+    it is filled {index: number of signs in that phrase}, so a writer can
+    let a line decision (ktglossfix) beat a one-sign entry but never split
+    a phrase of several signs."""
     ph = _phrases()
     longest = max(len(k) for k in ph)
     bases = [A.strip(t)[0] for t in run]
@@ -324,6 +327,8 @@ def phrase_slots(run):
             if slots:
                 for j, w in enumerate(slots):
                     out[i + j] = w.replace(" ", "_")
+                    if lens is not None:
+                        lens[i + j] = n
                 i += n
                 break
         else:

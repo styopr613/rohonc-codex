@@ -82,6 +82,7 @@ transcription splits in two.
 |---|---|
 | `word` | read |
 | `word*` | read from one passage, with nothing in the book able to refuse it |
+| `word?` | a reading marked uncertain, by Király and Tokai or here; after how, why, who and the like it is the question word |
 | `[word]` | **restored** -- a guess from the folio's source and its neighbours |
 | `[...]` | dark: no reading, and no honest guess |
 | `=` | this sign belongs to the phrase just before it: Király and Tokai read the signs together |
@@ -191,10 +192,17 @@ def main(argv):
             inphrase = []
             cited = []
             for run in ln:
-                ps = T.phrase_slots(run)
-                inphrase += [j in ps for j in range(len(run))]
+                plen = {}
+                ps = T.phrase_slots(run, plen)
                 for j, t in enumerate(run):
                     b = A.strip(t)[0]
+                    # a line decided by hand beats a one-sign entry of
+                    # ktexpr.json (2026-09-28: the one-sign entries added
+                    # that day had silenced line rows such as "the Baptist"
+                    # at 116v-118r); it never splits a phrase of several
+                    if j in ps and plen[j] == 1 and GF.word(p.page, i, K.hx(t), K.hx(b)):
+                        del ps[j]
+                    inphrase.append(j in ps)
                     if j in ps:
                         cited.append(False)
                         # their set phrase (ktexpr.json): a reading of theirs
@@ -265,6 +273,10 @@ def main(argv):
                     re.sub(r"\*\*\d+\*\*\s*", "", x) for x in para)[:1400] + "\n\n")
             for i, s in lines:
                 f.write(f"{i:>3}  {s}\n")
+    dead = GF.unused()
+    if dead:
+        raise SystemExit("ktreader: glossfix.json rows that stand on no line: "
+                         + ", ".join(dead))
     print(f"wrote {OUT}")
     print(f"  {len(pages)} folios, {w} words")
     print(f"  read {n['read']} ({n['read']/w*100:.1f}%), "
