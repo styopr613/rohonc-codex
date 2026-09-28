@@ -44,6 +44,7 @@ import ktcross as K
 import kttranslate as T
 import ktsensefit as SF
 import ktfolio as FO
+import ktlinecite as LC
 
 OUT = os.path.join(os.path.dirname(corpus.DATA), "work", "rohonc",
                    "translation", "rohonc_readers_edition.md")
@@ -188,18 +189,31 @@ def main(argv):
         for i, ln in enumerate(p.lines, 1):
             out = []
             inphrase = []
+            cited = []
             for run in ln:
                 ps = T.phrase_slots(run)
                 inphrase += [j in ps for j in range(len(run))]
                 for j, t in enumerate(run):
                     b = A.strip(t)[0]
                     if j in ps:
+                        cited.append(False)
                         # their set phrase (ktexpr.json): a reading of theirs
                         out.append(ps[j] + A.strip(t)[1])
                         n["read"] += 1
                         continue
+                    # their word where their dictionary names it for this
+                    # line, or for this spelling (ktlinecite.py, 2026-09-28)
                     k = T.kind(t, gl, seg, var, prop)
                     w = T.render_token(t, gl, seg, False, var, prop, own=True)
+                    pk = (p.page, K.hx(b))
+                    lc = LC.word_for(p.page, i, K.hx(t), K.hx(b),
+                                     PICK.get(pk, w) if pk in PICK else w,
+                                     lambda x: T.clean(x, own=True), k)
+                    cited.append(bool(lc))
+                    if lc:
+                        out.append(T.clean(lc, own=True) + A.strip(t)[1])
+                        n["read"] += 1
+                        continue
                     if k == "none":
                         fk = "%s|%s" % (p.page, K.hx(b))
                         if fk in FOLIO:
@@ -227,8 +241,8 @@ def main(argv):
                 out.pop()
             s = " ".join(out)
             lines.append((i, s))
-            ks = ["one" if ph else T.kind(t, gl, seg, var, prop) for t, ph in
-                  zip([x for r in ln for x in r], inphrase)]
+            ks = ["one" if ph or ci else T.kind(t, gl, seg, var, prop) for t, ph, ci in
+                  zip([x for r in ln for x in r], inphrase, cited)]
             n["lines"] += 1
             n["lread"] += all(k not in ("none", "guess") for k in ks)
             n["lall"] += all(k != "none" for k in ks)
