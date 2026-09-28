@@ -41,8 +41,8 @@ marked `*` is read from one passage with nothing in the book able to refuse it.
 A word in `[brackets]` is a restoration, a guess, and is counted as a reading
 nowhere. `[...]` is a word nobody can read.
 
-Of the manuscript's 29,997 words this edition has a reading for 94.1%. Of its
-4,372 lines, 81.5% have every word read; 98.9% are complete once the bracketed
+Of the manuscript's 29,997 words this edition has a reading for 95.1%. Of its
+4,372 lines, 81.7% have every word read; 99.2% are complete once the bracketed
 guesses are counted. The gap between those two numbers is how much is being
 guessed at, and it is meant to be visible.
 
