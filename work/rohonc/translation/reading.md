@@ -604,9 +604,9 @@ The herdsmen saw what happened, were terrified, and fled home to report what Jes
 
 Jesus returned to his own town and entered a house. Word spread that he was there, and people brought a paralytic to him. The town was called Capharnaum. Jesus took three apostles with him: Peter, Paul, and John. (160v)
 
-Lord Christ was about to perform a miracle, and every miracle of the Lord should be proclaimed. While he preached in Capharnaum, four friends carried a paralytic to him. They represented faith, love, hope, and mercy. Unable to pass through the crowd, they climbed onto the temple, broke through it, and prepared to lower the man through. (161r)
+Lord Christ was about to perform a miracle, and every miracle of the Lord should be proclaimed. While he preached in Capharnaum, four bearers carried a paralytic to him. Among them were faith, love, hope, and forgiveness. Unable to pass through the crowd, they climbed onto the temple, broke through it, and prepared to lower the man through. (161r)
 
-The four friends lowered the man by a rope before Lord Jesus Christ. Jesus saw their faith, love, hope, and mercy and had compassion on the man. He said, “Son, through faith, love, hope, and mercy you shall be healed. Your sins are forgiven. Rise and go.” (161v)
+The four bearers lowered the man by a rope before Lord Jesus Christ. Jesus saw their asking, love, hope, and forgiveness and had compassion on the man. He said, “Son, through asking, love, hope, and forgiveness you shall be healed. Your sins are forgiven. Rise and go.” (161v)
 
 The Jews questioned Jesus, but the Lord again spoke of faith, love, hope, and mercy. That day the healed man took his stretcher onto his shoulder and went home. The text says that through those virtues he was saved and gained a home in heaven. Here ends this holy gospel. (162r)
 
@@ -652,7 +652,7 @@ Many years later the rich lord returned and called the three servants to account
 
 Here begins a holy gospel attributed to the sixth chapter of Saint Luke. When Jesus was thirty years old, he and his apostles traveled among the people from town to town, temple to temple, and village to village. (175v)
 
-Jesus came wearily to a well and sat beside it while the apostles went into the village for bread. A woman of an alien nation came to draw water. Jesus was thirsty and asked her for a drink. She replied, “How can you, a Jew, ask water from a pagan woman?” (176r)
+Jesus came wearily to a well and sat beside it while the apostles went into the village for bread. A heathen woman came to draw water. Jesus was thirsty and asked her for a drink. She replied, “How can you, a Jew, ask water from a pagan woman?” (176r)
 
 Jesus spoke with the pagan woman and revealed that she had had [five husbands]. By this sign she recognized the Lord whose coming the prophets had foretold. When the apostles returned, they marveled that he was speaking with her. She believed in him and returned to her people. (176v)
 
@@ -666,7 +666,7 @@ As they went, all ten lepers were cleansed. They appeared before the Jewish prie
 
 The Jewish priests claimed that Moses and the Old Testament had healed them, though it was the Son of David who had done so. Nine believed the priests, but the tenth had faith and returned to Jesus. He bowed at the Lord's feet. (179r)
 
-The tenth man kissed the Lord's feet and gave thanks. Jesus asked his apostles, “Were not ten lepers cleansed? Where are the other nine?” The one who keeps the commandment is loved by the Lord. The grateful man was of an alien nation. Here ends this holy gospel. Three things must be believed in this world. First, believe in the Most High. (179v)
+The tenth man kissed the Lord's feet and gave thanks. Jesus asked his apostles, “Were not ten lepers cleansed? Where are the other nine?” The one who keeps the commandment is loved by the Lord. The grateful man was a heathen. Here ends this holy gospel. Three things must be believed in this world. First, believe in the Most High. (179v)
 
 Everyone who believes in Lord Jesus Christ is saved. No one who does not believe is saved. Whoever does not believe is damned. Second, believe in the Church, for there is one Church and one saving faith: faith in Jesus Christ, his coming, and his death when he gave up his spirit on the cross. Third, believe that Christ will come again and deliver his people. (180r)
 
@@ -761,7 +761,7 @@ While Jesus preached in Jerusalem, some Jews came and said, “Master, we know t
 
 They brought the tax coin to Jesus. He asked, “Whose image is this?” They answered, “The emperor's.” He asked, “Whose inscription is this?” They again answered, “The emperor's.” Jesus said, “Then give the emperor his image and inscription. (203v)
 
-Give God what belongs to God.” Each person must pay what he owes. Here ends this holy gospel. Jesus teaches humility through the inscription: render to Caesar what is Caesar's and to God what is God's. (204r)
+Give God what belongs to God.” Each person must pay what he owes. Here ends this holy gospel. Through the emperor's image Jesus teaches humility: you [render] what is owed. (204r)
 
 Through heavenly faith and baptism, a pagan is forgiven and brought into the Lord's people. A baptized believer owes humility to earthly emperors and kings. Second, each person owes service to the Church and must stand before the Father in spirit, walking in the Father's way. (204v)
 
