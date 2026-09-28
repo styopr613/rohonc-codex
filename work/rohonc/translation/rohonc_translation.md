@@ -4755,7 +4755,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **3**  who wants, somebody, Paul, to be saved first; | somebody asks
 `who want-somebody-Paul be_saved first | ask-somebody`
 
-**4**  Paul: love the Lord God highest [with] all [thy] heart, and everybody as the neighbour
+**4**  Paul: love the Lord God highest [above] all creation, and everybody as the neighbour
 `Paul love Lord_God highest all^ create and everybody = as neighbour`
 
 **5**  as the neighbour; and somebody is saved. The second has,
@@ -4981,7 +4981,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 
 ## 071r — the great commandment, repeated
 
-**1**  somebody, Paul: love the Lord God, from the literal, [with] every heart, and everybody | how?
+**1**  somebody, Paul: love the Lord God, from the literal, [above] every creature, and everybody | how?
 `somebody Paul love Lord_God from literal every create and everybody = | how?`
 
 **2**  the neighbour […] and the man shall be saved.
@@ -7523,7 +7523,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **7**  readest thou Moses? Rightly. And then this Jew, this reading:
 `read Moses righteous and_said this Jew this read`
 
-**8**  Moses writes: love the Lord God highest [with] every heart, all our
+**8**  Moses writes: love the Lord God highest [above] every creature, all our
 `Moses write love Lord_God highest ~every create all^ our`
 
 **9**  soul, all our might, all our heart; and | of
@@ -8545,7 +8545,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **1**  yours the kingdom of heaven. This teaching is [murmured] not love the Lord
 `you +heaven land this learn exist [?] [?] love Lord`
 
-**2**  the divine one highest [with] every heart; and the man is keeping the commandments of God, ours,
+**2**  the divine one highest [above] every creature; and the man is keeping the commandments of God, ours,
 `DIV highest every create and man^ and exist carry commandment God our`
 
 **3**  is the kingdom of heaven. And this is: this love, the commandment, take
@@ -11780,7 +11780,7 @@ in Király & Tokai's dictionary, so the person is not named here.
 **5**  holy Luke this example: not love the most high Lord God | from
 `holy-Luke this example* not love most_high Lord_God | from`
 
-**6**  the literal, every heart, than various hearts; love the son, and not who.
+**6**  the literal, every creature, than various creatures; love the son, and not who.
 `literal every create than various create love-son and not who`
 
 **7**  Then the dead son goes to the son, and leaves; not love,
@@ -11844,7 +11844,7 @@ in Király & Tokai's dictionary, so the person is not named here.
 **5**  ever. [with thy whole soul] not saved. Writes within
 `ever [with_thy_whole_soul] not be_saved write inside`
 
-**6**  Moses, truly: love the Lord God highest [with] all [thy] heart, all our
+**6**  Moses, truly: love the Lord God highest [above] all creation, all our
 `Moses true^ love Lord_God highest all^ create all^ our`
 
 **7**  soul, all our might, all our heart; and
@@ -15643,7 +15643,10 @@ in Király & Tokai's dictionary, so the person is not named here.
 
 > Acts 7:59-8:1, Douay: *And falling on his knees, he cried with a loud voice,
 > saying: Lord, lay not this sin to their charge... And Saul was consenting to
-> his death.* The praying for them and Saul's consent are both here.
+> his death.* The praying is here. Saul's consent is not: this page has no
+> sign for it, and at 217r:5 the sign before the restored [consenting] is
+> "not". An earlier printing of this note said the consent was here; that was
+> wrong.
 
 ## 219r — Saul takes letters to Damascus
 

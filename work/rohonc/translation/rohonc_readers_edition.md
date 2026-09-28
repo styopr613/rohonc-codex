@@ -1995,7 +1995,7 @@ words. There are 981 of them now.
 
 ## 068r — love the Lord, and thy neighbour as thyself
 
-> this word, Paul's brethren; Paul the man has, he asks in Jesus' name; three things Paul the man asks; in turn who wants, somebody, Paul, to be saved first; | somebody asks Paul: love the Lord God highest [with] all [thy] heart, and everybody as the neighbour as the neighbour; and somebody is saved. The second has, Paul the man asks, in Jesus' name go away believe; Paul the man asks of Lord Jesus, in his name. The third Paul the man has, he asks, in Jesus' name, saved by Lord Jesus, in his [believeth] name, and the man shall be saved. Here ends this apostle's holy gospel.
+> this word, Paul's brethren; Paul the man has, he asks in Jesus' name; three things Paul the man asks; in turn who wants, somebody, Paul, to be saved first; | somebody asks Paul: love the Lord God highest [above] all creation, and everybody as the neighbour as the neighbour; and somebody is saved. The second has, Paul the man asks, in Jesus' name go away believe; Paul the man asks of Lord Jesus, in his name. The third Paul the man has, he asks, in Jesus' name, saved by Lord Jesus, in his [believeth] name, and the man shall be saved. Here ends this apostle's holy gospel.
 
   1  this word brother of-Paul have somebody-Paul ask
   2  inside Jesus name three ask-somebody-Paul | in_turn
@@ -2090,7 +2090,7 @@ words. There are 981 of them now.
 
 ## 071r — the great commandment, repeated
 
-> somebody, Paul: love the Lord God, from the literal, [with] every heart, and everybody | how? the neighbour […] and the man shall be saved. The second has somebody, Paul, asks within the Lord's | and name: leave, believe; asks somebody, Paul: of Lord Jesus, in the Lord's name. The third he has, Paul the man asks in the Lord's name, saved by Lord Jesus, in the Lord's name; and the man shall be saved. Here ends this apostle's holy gospel [amen] Here begins this holy gospel, written by holy Luke, in [fourteen] of his writing. Lord Jesus said to his apostles at the last supper: you shall be driven out
+> somebody, Paul: love the Lord God, from the literal, [above] every creature, and everybody | how? the neighbour […] and the man shall be saved. The second has somebody, Paul, asks within the Lord's | and name: leave, believe; asks somebody, Paul: of Lord Jesus, in the Lord's name. The third he has, Paul the man asks in the Lord's name, saved by Lord Jesus, in the Lord's name; and the man shall be saved. Here ends this apostle's holy gospel [amen] Here begins this holy gospel, written by holy Luke, in [fourteen] of his writing. Lord Jesus said to his apostles at the last supper: you shall be driven out
 
   1  somebody Paul love Lord_God from literal every create and everybody = | how?
   2  to neighbour [?]-from-°creature and exist somebody be_saved
@@ -3111,7 +3111,7 @@ words. There are 981 of them now.
 
 ## 105r — the lawyer's question, and the great commandment
 
-> tempted the Lord Jesus. And then this Jew: Master, learning […] who, the Jews' church father, must do; how? this […] gain life for ever and ever. Said the Lord Jesus, this […]: [answered] to the Jews: pray, Jews, Moses writes, says this Jew, this church father: pray, church father, Moses writes within the sixth chapter. Said the Lord Jesus, [with] joy, I, this Jew: how readest thou Moses? Rightly. And then this Jew, this reading: Moses writes: love the Lord God highest [with] every heart, all our soul, all our might, all our heart; and | of somebody, brother, as somebody [his] neighbour, ours the heavenly land. And then the Lord Jesus, rightly, spoke.
+> tempted the Lord Jesus. And then this Jew: Master, learning […] who, the Jews' church father, must do; how? this […] gain life for ever and ever. Said the Lord Jesus, this […]: [answered] to the Jews: pray, Jews, Moses writes, says this Jew, this church father: pray, church father, Moses writes within the sixth chapter. Said the Lord Jesus, [with] joy, I, this Jew: how readest thou Moses? Rightly. And then this Jew, this reading: Moses writes: love the Lord God highest [above] every creature, all our soul, all our might, all our heart; and | of somebody, brother, as somebody [his] neighbour, ours the heavenly land. And then the Lord Jesus, rightly, spoke.
 
   1  tempt Lord-Jesus and_said this Jew Master learn-[?]
   2  who Jews-church_father must do how? this-[?] gain
@@ -3522,7 +3522,7 @@ words. There are 981 of them now.
 
 ## 118v — the commandment summed up, and a new reading from Luke
 
-> yours the kingdom of heaven. This teaching is [murmured] not love the Lord the divine one highest [with] every heart; and the man is keeping the commandments of God, ours, is the kingdom of heaven. And this is: this love, the commandment, take from […] to be saved; and the man who believeth in the Lord Jesus Christ, as the true Son of the living God, everybody shall be saved; and one is not damned but: every man shall be saved. Begins this holy gospel, written by holy Luke, in the seventh chapter of his writing. At that time the Lord Jesus [was] within [his] thirty-first year; then went the Lord Jesus into the Pharisees' town; and there went to the Lord various sinners, to the Lord Jesus; and
+> yours the kingdom of heaven. This teaching is [murmured] not love the Lord the divine one highest [above] every creature; and the man is keeping the commandments of God, ours, is the kingdom of heaven. And this is: this love, the commandment, take from […] to be saved; and the man who believeth in the Lord Jesus Christ, as the true Son of the living God, everybody shall be saved; and one is not damned but: every man shall be saved. Begins this holy gospel, written by holy Luke, in the seventh chapter of his writing. At that time the Lord Jesus [was] within [his] thirty-first year; then went the Lord Jesus into the Pharisees' town; and there went to the Lord various sinners, to the Lord Jesus; and
 
   1  you heaven land this learn exist [murmured] not* love | divine_one^
   2  DIV highest every create and man^ and exist carry commandment God our
@@ -4864,7 +4864,7 @@ words. There are 981 of them now.
 
 ## 165v — the first of the four ways
 
-> the Lord God; and this not repentance [confession] took this son, this widow woman; and the son was carried out, into belief. baptize, baptize: that is, cast out, the son remitted, saved, the damned son, for ever and ever. Within the gospel writes holy Luke this example: not love the most high Lord God | from the literal, every heart, than various hearts; love the son, and not who. Then the dead son goes to the son, and leaves; not love, on the first way. Within the gospel writes holy Luke: this example: there were many thieves, but by name the son
+> the Lord God; and this not repentance [confession] took this son, this widow woman; and the son was carried out, into belief. baptize, baptize: that is, cast out, the son remitted, saved, the damned son, for ever and ever. Within the gospel writes holy Luke this example: not love the most high Lord God | from the literal, every creature, than various creatures; love the son, and not who. Then the dead son goes to the son, and leaves; not love, on the first way. Within the gospel writes holy Luke: this example: there were many thieves, but by name the son
 
   1  Lord_God and this not repentance [confession] grab this son this
   2  widow and son carry out on-believe.
@@ -4892,7 +4892,7 @@ words. There are 981 of them now.
 
 ## 166v — the whole law in two commandments
 
-> on the fourth way; and [between] four men and the son they took, the four men, and carried the son out the town gate town, on belief; baptize, baptize; on damnation, then the son is carried into hell, damned, is ever ever. [with thy whole soul] not saved. Writes within Moses, truly: love the Lord God highest [with] all [thy] heart, all our soul, all our might, all our heart; and our father's son, as somebody [his] neighbour | of the man; heaven and earth. Here ends this holy gospel.
+> on the fourth way; and [between] four men and the son they took, the four men, and carried the son out the town gate town, on belief; baptize, baptize; on damnation, then the son is carried into hell, damned, is ever ever. [with thy whole soul] not saved. Writes within Moses, truly: love the Lord God highest [above] all creation, all our soul, all our might, all our heart; and our father's son, as somebody [his] neighbour | of the man; heaven and earth. Here ends this holy gospel.
 
   1  on-two-two way and [between] two-two man and son
   2  grab two-two man and son carry out the_town_gate*
@@ -5501,7 +5501,7 @@ words. There are 981 of them now.
   4  Jews [his_purple] brought* [a_vessel] from manna glory^
   5  and godfearing^ do-Jews in_turn [came] Christ stay daily
   6  [put_into_it] manna and then Lord-Jesus inside thirty half*
-  7  three_days time say Lord-Jesus at_the_Last_Supper = grab
+  7  three time say Lord-Jesus at_the_Last_Supper = grab
   8  inside hands one baked cake and
   9  say Lord-Jesus and man^ not this bread eat and Lord
 
@@ -5552,10 +5552,10 @@ words. There are 981 of them now.
 > the Lord, five baked bread, five thousand people; then the Lord within thirty [and a] half, three days, from Galilee through the Red Sea to one mount; on a Sunday the Lord was going, the Lord, to suffer within Jerusalem; then the Lord within thirty third year, on the Monday the Lord preached many a miracle; in turn on the Tuesday the Lord stood up and raised Lazarus from the tomb; in turn on the Wednesday the Lord, but was Judas, sold for thirty silver [pieces]; in turn Thursday, the dinner, the Lord did; and captured the Lord; in turn Friday the cross […]; and the evil one was bound; in turn on the Saturday, hell
 
   1  Lord five baked bread five_thousand people
-  2  then-Lord inside thirty half three_days from Galilee
+  2  then-Lord inside thirty half three from Galilee
   3  through the_Red_Sea to-one to-mount inside Sunday
   4  the_Lord exist go-Lord on-suffer inside Jerusalem then-Lord inside thirty
-  5  half three_days inside Monday the_Lord many miracle preach-Lord in_turn
+  5  half three inside Monday the_Lord many miracle preach-Lord in_turn
   6  Tuesday the_Lord Lazarus on-tomb stand_up resurrect-Lord in_turn Wednesday
   7  Lord-~but-+SUBJ exist Judas sell to-thirty silver
   8  in_turn Thursday dinner-to do-Lord and capture-Lord in_turn
@@ -5700,7 +5700,7 @@ words. There are 981 of them now.
   3  father-[?]-[?]-[?] inside heaven =
   4  °but_rather-+one then ~be_born Christ on-this world and then inside
   5  thirty day time from-[?]-[?] Lord-Jesus on-Carmel
-  6  mount and then out thirty half-+three_days time
+  6  mount and then out thirty half-three time
   7  crucified and on_the_third_day from die stand_up and many holy-prophet
   8  and holy-forefather and holy-father holy-living on-netherworld out | to
   9  go-Lord and then forty_days time to-leave
@@ -5814,7 +5814,7 @@ words. There are 981 of them now.
   3  ten-+one-ten inside five chapter
   4  of-write time
   5  then Lord-Jesus inside
-  6  thirty half-+three_days
+  6  thirty half-three
   7  time preach Lord-Jesus inside Jerusalem and say Lord-Jesus apostle
   8  of-Lord and Jew people leave king man^ heaven
   9  land and_said Lord-Jesus exist [a_vineyard]
@@ -5916,7 +5916,7 @@ words. There are 981 of them now.
   7  here_begins this holy_gospel write.
   8  holy-Matthew [twenty_two] chapter | of.
   9  write time then | Lord
- 10  Jesus thirty half-+three_days time
+ 10  Jesus thirty half-three time
 
 ## 203r — is it lawful to give tribute to Caesar?
 
@@ -6120,7 +6120,7 @@ words. There are 981 of them now.
   3  fourteen-+one end_of_numeral* chapter | of
   4  write time
   5  then Lord-Jesus
-  6  inside thirty half-+three_days time preach | Lord
+  6  inside thirty half-three time preach | Lord
   7  Jesus inside Jerusalem and then brought* one man^
   8  before Lord-Jesus inside [the_synagogue] man^ exist devil =
   9  and_said Jew he prince_of_devils help
@@ -6169,7 +6169,7 @@ words. There are 981 of them now.
 > within the sixth chapter of the writing: at that time, then, the Lord Jesus within thirty [and a] half, three days; at that time sat the Lord Jesus | on the Red Sea [of Galilee]; and the Lord went through, the Lord Jesus went through the Red Sea to one mount; and the Lord Jesus sat upon this mount, and lifted up the Lord's two eyes to heaven [high] and the Lord Jesus saw, on all four [sides], [a great multitude] people coming to the Lord; and went. And then the Lord Jesus: Philip, this people | take the Lord's apostle Philip, to eat. And then holy Philip: Master,
 
   1  inside six chapter of-write time then Lord-Jesus
-  2  inside thirty half-+three_days time sit Lord-Jesus | on
+  2  inside thirty half-three time sit Lord-Jesus | on
   3  the_Red_Sea [of_Galilee] and Lord through
   4  go-Lord Lord-Jesus through the_Red_Sea to-one
   5  to_the_mount and sit Lord-Jesus to-this to-mount
@@ -6220,7 +6220,7 @@ words. There are 981 of them now.
   8  six-two chapter of-write
   9  time then
  10  Lord-Jesus inside thirty | half
- 11  three_days time.
+ 11  three time.
 
 ## 214r — he that is of God heareth the words of God
 
@@ -6302,7 +6302,7 @@ words. There are 981 of them now.
 
 > was the Lord Jesus thirty [and a] half, three days; at that time went | the Lord Jesus went to Bethany, into Jerusalem, and the twelve apostles; and then | the Lord went to the lodging [Bethphage] there was [mount Olivet] prayer, until, because the trespassing way of the people, the lodging; and the trespassing, through the night, the lodging of the Lord Jesus; and then the Lord went, the Lord Jesus, two disciples down Bethany, because trespass, the Jews carried every [over against you] way, the people, one donkey. And then the Lord Jesus: if you [immediately] not, the Jews, take, the Jews, said the learners, two learners, take, the Jews, the learners, two learners, the donkey [tied]; the apostles [a colt] love
 
-  1  exist Lord-Jesus thirty half-+three_days time go | Lord
+  1  exist Lord-Jesus thirty half-three time go | Lord
   2  Jesus on-Bethany inside Jerusalem six-six disciple^ and then | go
   3  Lord on-+lodging [Bethphage] exist [mount_Olivet] pray ~until because
   4  trespass way people lodging and trespass through night
