@@ -12,3 +12,4 @@ ktnotecheck.py
 check_tests.py
 ktatlascheck.py
 ktrecount.py
+check_skeptic.py
