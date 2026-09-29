@@ -53,6 +53,6 @@ TEST 13: UNDERDETERMINATION CENSUS OF TIER A/B
     a rival stem also survives                     3     4.2%
     chance: matched-frequency stem survives       0.0%
 
-  companion: A/B signs that are the only K&T-unread sign on some line of an evidence folio   50 of 670   7.5%   (reported, no bar)
+  companion: A/B signs that are the only K&T-unread sign on some line of an evidence folio   82 of 670   12.2%   (reported, no bar)
 
   BAR: rivals in <= 40% of counted signs  ->  FAIL

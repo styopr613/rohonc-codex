@@ -37,6 +37,7 @@ import sys
 
 import corpus
 import ktbook
+import ktrefs
 
 # THE FILE THE BOOK PRINTS. This read retelling.md, which stopped being Book
 # One when Codex rewrote it: ktbook.build() takes reading.md and falls back to
@@ -80,7 +81,7 @@ ARITHMETIC = {
 }
 
 WORD = re.compile(r"[a-z]+")
-FOL = re.compile(r"\b(\d{3}[rv])\b")
+FOL = ktrefs.FOLIO_REF
 CF = re.compile(r"cf\.\s*(\d{3}[rv])")
 NUM = re.compile(r"(?<![\w.])(\d{1,5})(?![\w%])")
 

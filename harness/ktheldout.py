@@ -1,16 +1,19 @@
-"""TEST 1 OF WHETHER OUR ADDITIONS ARE TRUE: do they track their source on
-folios that played no part in making them?
+"""TEST 1: do the additions track their source on evidence-excluded folios?
 
 Every reading entered here names, in its evidence, the folio or folios it was
-read from. Those folios are its training data. The sign usually stands on
-other folios too, and many of those cite a chapter and verse. A TRUE reading
-should keep landing in the passage its folio cites even where nobody looked;
-a reading invented to fit one line has no reason to.
+read from. The sign usually stands on other folios too, and many of those cite
+a chapter and verse. This diagnostic excludes only the folios named in the
+evidence note.
 
-  hit    the sign stands on a HELD-OUT folio (not named in its evidence),
+IMPORTANT: it is not an independent held-out test. METHOD.md requires a fill
+to be checked at every other occurrence before it is admitted, and tiers A/B
+are selected for surviving those checks. The remaining folios therefore
+influenced selection even when the evidence prose did not name them.
+
+  hit    the sign stands on an EVIDENCE-EXCLUDED folio,
          that folio cites a passage, and a content stem of the gloss is in
          that passage (Douay and King James, every cited verse)
-  rate   hits / held-out cited occurrences, per tier
+  rate   hits / evidence-excluded cited occurrences, per tier
 
 CONTROL, matched: the same signs on the same folios, but each reading's
 gloss replaced by the gloss of a randomly chosen OTHER reading of the same
@@ -31,14 +34,14 @@ BARS, declared before the run, not moved:
   G     reported. >= 3 sigma means the guesses carry information beyond
         the line they were read from; < 2 sigma means they do not.
 
-What this cannot test: 742 of the 848 guesses occur once. They have no
-held-out folio. Nothing here reaches them.
+The shuffle is a comparison diagnostic, not a null for the selection process.
+Its sigma and the old numerical bars are reported for continuity, not as an
+independent verdict.
 
     python3 ktheldout.py    [--shuf N]
 """
 import json
 import random
-import re
 import sys
 from collections import defaultdict
 
@@ -46,14 +49,15 @@ import ktaffix as A
 import ktcross as K
 import ktleft as L
 import ktrederive as R
+import ktrefs
 
 NSHUF = 20
-FOLIO = re.compile(r"\b(\d{3}[rv])\b")
 
 
 def main(argv):
     nshuf = int(argv[argv.index('--shuf') + 1]) if '--shuf' in argv else NSHUF
     gl, doc, seg, var, prop, inv = K.build()
+    valid_folios = {x.page for x in doc}
     p = json.load(open('proposals.json', encoding='utf-8'))
     vv, vd = L.verses(), L.verses_dr()
     pool = {}
@@ -75,7 +79,7 @@ def main(argv):
     def hx(s):
         return "".join(f"{ord(c) - 0xE000:03x}" for c in s)
 
-    # ---- our readings: (hex, stems, held-out cited folios)
+    # ---- our readings: (hex, stems, evidence-excluded cited folios)
     ours = defaultdict(list)
     for h, v in p.items():
         if h.startswith('_') or not isinstance(v, dict):
@@ -86,7 +90,7 @@ def main(argv):
         st = R.stems(v.get('gloss', ''))
         if not st:
             continue
-        seen = set(FOLIO.findall(v.get('evidence', '')))
+        seen = ktrefs.evidence_folios(v.get('evidence', ''), valid_folios)
         held = [f for f in folios.get(h, ()) if f not in seen and f in pool]
         if held:
             ours[tier].append((h, st, held))
@@ -118,11 +122,12 @@ def main(argv):
 
     khit, ktot = rate(kt)
     ceiling = khit / ktot if ktot else 0
-    print("TEST 1: SOURCE TRACKING ON HELD-OUT FOLIOS")
+    print("TEST 1: SOURCE TRACKING ON EVIDENCE-EXCLUDED FOLIOS")
+    print("  selection-conditioned diagnostic; not an independent held-out test")
     print(f"  K&T ceiling   {khit}/{ktot} cited occurrences   "
           f"{ceiling*100:.1f}%   ({len(kt)} signs)")
     print()
-    print(f"  {'tier':6s}{'signs':>6s}{'held-out':>10s}{'hit':>7s}"
+    print(f"  {'tier':6s}{'signs':>6s}{'excluded':>10s}{'hit':>7s}"
           f"{'rate':>8s}{'shuffle':>9s}{'sd':>6s}{'sigma':>7s}"
           f"{'vs ceiling':>12s}")
     results = {}
@@ -149,20 +154,21 @@ def main(argv):
     if 'A+B' in results:
         obs, sig, n, tot = results['A+B']
         a = sig >= 5 and obs >= 0.7 * ceiling
-        print(f"  BAR A+B: >= 5 sigma and >= 70% of ceiling  ->  "
-              f"{'PASS' if a else 'FAIL'}")
+        print(f"  OLD BAR A+B: >= 5 sigma and >= 70% of ceiling  ->  "
+              f"{'PASS' if a else 'FAIL'} (reported; not a verdict)")
         ok &= a
     if 'C+D' in results:
         c = results['C+D'][1] >= 3
-        print(f"  BAR C+D: >= 3 sigma  ->  {'PASS' if c else 'FAIL'}")
+        print(f"  OLD BAR C+D: >= 3 sigma  ->  {'PASS' if c else 'FAIL'} "
+              "(reported; not a verdict)")
         ok &= c
     if 'G' in results:
         s = results['G'][1]
         verdict = ('carry information' if s >= 3 else
                    'do not carry information' if s < 2 else 'unclear')
-        print(f"  G: {s:.1f} sigma -> the guesses with a held-out folio "
+        print(f"  G: {s:.1f} sigma -> guesses with an evidence-excluded folio "
               f"{verdict}")
-    print(f"  not reachable: guesses with no held-out cited folio "
+    print(f"  not reachable: guesses with no evidence-excluded cited folio "
           f"{sum(1 for h,v in p.items() if isinstance(v,dict) and v.get('tier')=='G') - len(ours['G'])}")
     return 0 if ok else 1
 

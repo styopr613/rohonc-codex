@@ -67,6 +67,7 @@ import ktextend as E
 import ktsegment as S
 import kttranslate as T
 import ktverse as V
+import ktrefs
 
 BAR_A_RATIO, BAR_A_SIGMA = 1.5, 5.0
 BAR_B_RATIO, BAR_B_SIGMA = 1.3, 3.0
@@ -82,7 +83,7 @@ def cited_folios():
     for h, v in raw.items():
         if h.startswith("_"):
             continue
-        f |= set(re.findall(r"\b(\d{3}[rv])\b", v.get("evidence", "")))
+        f |= ktrefs.evidence_folios(v.get("evidence", ""))
     return f
 
 

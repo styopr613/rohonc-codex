@@ -1,0 +1,242 @@
+[
+ {
+  "item": 1,
+  "code": "690890",
+  "train": "010v",
+  "test": "011r"
+ },
+ {
+  "item": 2,
+  "code": "550152540270",
+  "train": "081r",
+  "test": "082r"
+ },
+ {
+  "item": 3,
+  "code": "a10003a102c8",
+  "train": "139v",
+  "test": "140r"
+ },
+ {
+  "item": 4,
+  "code": "1f6670ae05203c5",
+  "train": "164r",
+  "test": "220r"
+ },
+ {
+  "item": 5,
+  "code": "520ae00a20a2ae0",
+  "train": "096v",
+  "test": "095r"
+ },
+ {
+  "item": 6,
+  "code": "4b0",
+  "train": "111v",
+  "test": "012v"
+ },
+ {
+  "item": 7,
+  "code": "574570a10ae0",
+  "train": "113r",
+  "test": "116r"
+ },
+ {
+  "item": 8,
+  "code": "5203f0255",
+  "train": "010v",
+  "test": "074v"
+ },
+ {
+  "item": 9,
+  "code": "540",
+  "train": "005r",
+  "test": "069v"
+ },
+ {
+  "item": 10,
+  "code": "7807802c05401f1",
+  "train": "066v",
+  "test": "065v"
+ },
+ {
+  "item": 11,
+  "code": "060060060ae1",
+  "train": "188r",
+  "test": "127r"
+ },
+ {
+  "item": 12,
+  "code": "540060990",
+  "train": "091r",
+  "test": "129v"
+ },
+ {
+  "item": 13,
+  "code": "060",
+  "train": "092r",
+  "test": "076r"
+ },
+ {
+  "item": 14,
+  "code": "520170",
+  "train": "060v",
+  "test": "089r"
+ },
+ {
+  "item": 15,
+  "code": "a79",
+  "train": "076r",
+  "test": "081r"
+ },
+ {
+  "item": 16,
+  "code": "ab0",
+  "train": "216r",
+  "test": "101r"
+ },
+ {
+  "item": 17,
+  "code": "569910",
+  "train": "203v",
+  "test": "096r"
+ },
+ {
+  "item": 18,
+  "code": "520890",
+  "train": "125r",
+  "test": "007r"
+ },
+ {
+  "item": 19,
+  "code": "520b52",
+  "train": "110v",
+  "test": "102r"
+ },
+ {
+  "item": 20,
+  "code": "520afc",
+  "train": "211r",
+  "test": "067r"
+ },
+ {
+  "item": 21,
+  "code": "9107c1",
+  "train": "098v",
+  "test": "158v"
+ },
+ {
+  "item": 22,
+  "code": "520b14",
+  "train": "121r",
+  "test": "222r"
+ },
+ {
+  "item": 23,
+  "code": "6706703b7",
+  "train": "036r",
+  "test": "131v"
+ },
+ {
+  "item": 24,
+  "code": "086",
+  "train": "018r",
+  "test": "038v"
+ },
+ {
+  "item": 25,
+  "code": "7807802c05201f1",
+  "train": "091r",
+  "test": "065v"
+ },
+ {
+  "item": 26,
+  "code": "67098a",
+  "train": "112v",
+  "test": "111v"
+ },
+ {
+  "item": 27,
+  "code": "6d2964",
+  "train": "136v",
+  "test": "135v"
+ },
+ {
+  "item": 28,
+  "code": "060060060ae0",
+  "train": "128v",
+  "test": "042r"
+ },
+ {
+  "item": 29,
+  "code": "390a10",
+  "train": "181v",
+  "test": "018v"
+ },
+ {
+  "item": 30,
+  "code": "5400607a2",
+  "train": "137r",
+  "test": "110v"
+ },
+ {
+  "item": 31,
+  "code": "a31",
+  "train": "069v",
+  "test": "070r"
+ },
+ {
+  "item": 32,
+  "code": "7b2670ae0520",
+  "train": "064r",
+  "test": "064v"
+ },
+ {
+  "item": 33,
+  "code": "6e6",
+  "train": "201v",
+  "test": "094r"
+ },
+ {
+  "item": 34,
+  "code": "4f5520ae0",
+  "train": "044v",
+  "test": "181r"
+ },
+ {
+  "item": 35,
+  "code": "6154b0",
+  "train": "035v",
+  "test": "036r"
+ },
+ {
+  "item": 36,
+  "code": "520180",
+  "train": "108v",
+  "test": "047r"
+ },
+ {
+  "item": 37,
+  "code": "5400607b4270540",
+  "train": "085v",
+  "test": "143r"
+ },
+ {
+  "item": 38,
+  "code": "a73ae0",
+  "train": "150v",
+  "test": "143r"
+ },
+ {
+  "item": 39,
+  "code": "a10001005270001a10060",
+  "train": "070r",
+  "test": "069v"
+ },
+ {
+  "item": 40,
+  "code": "6a6",
+  "train": "066r",
+  "test": "068r"
+ }
+]

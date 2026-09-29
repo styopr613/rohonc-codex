@@ -1,16 +1,6 @@
-# For the skeptic
+# Are Király and Tokai's results valid?
 
-Written 2026-09-29, from a reply to a forum thread that asked the right
-question: did the machine "solve" the Rohonc Codex, or is it a Rorschach
-test? Every figure below is checked against the saved run it names, by
-`harness/check_skeptic.py`, and every run is on the [tests page](/rohonc/tests.html) with its bar.
-The programs, the saved runs and the full write-up of every test are in the
-[repository](https://github.com/styopr613/rohonc-codex). The sources are other people's and are not in it;
-with them fetched, `python3 harness/reproduce_tests.py` replays every run.
-
-## The real question
-
-The real debate is whether Király and Tokai's findings are valid. A text like
+A text like
 the Rohonc Codex, with no outside referents, can never be conclusively solved
 without any doubt. So there are two questions. First, is it real language and
 not a fraud? Second, if it is, which reading works best, without bias, since
@@ -83,15 +73,23 @@ made the wrong passages fit too.
       0 say it matches
       0.0 fills a page
 
-**The readings hold where nobody looked.** Each reading comes from one page.
-On every other page where the same sign appears, the reading lands in the
-cited passage about as often as Király and Tokai's own dictionary words do,
-and about four times as often as shuffled words.
+**The readings agree beyond the folios named in their evidence, but this is
+not held out.** On other pages where the same sign appears, the reading lands
+in the cited passage about as often as Király and Tokai's own dictionary
+words do, and more often than shuffled words. These pages were nevertheless
+checked while deciding which readings to keep, so this is a
+selection-conditioned diagnostic, not evidence from somewhere nobody looked.
 
     Test 1   (ktheldout.txt)
     K&T's own words     26.0%
-    project readings    25.5%
-    shuffled             5.5%
+    project readings    24.8%
+    shuffled             7.6%
+
+An earlier run said 25.5% against 5.5%. Its evidence parser recognized
+`033v` but missed the usual compact form `033v05`, so named evidence folios
+were incorrectly counted as excluded. The corrected run also reduces the
+word-order diagnostic from 8.3 to 5.7 sigma. Neither diagnostic now carries
+an independent PASS verdict.
 
 **Király and Tokai's own work checks out.** When their dictionary cites a page
 for a word, the word is on that page 89% of the time, against about 2% by
@@ -115,6 +113,28 @@ set in advance. All of it is on the [tests page](/rohonc/tests.html), beside the
 the samples are small: the scrambled test and the memory check use 20
 pages, the wrong-passage test 38. The odds against chance are still
 long, but more pages would make them longer.
+
+There is no untouched occurrence-level holdout for the added readings: the
+method required proposed fills to be checked at every occurrence before they
+were admitted. A future generalisation claim therefore needs material hidden
+during selection or a prospective evaluation on newly available evidence.
+
+That prospective check was then run with a fresh, stateless reader. It saw
+one occurrence of each sampled sign and a different occurrence was concealed.
+Its new glosses reached concealed source passages more often than shuffled
+glosses, but almost never agreed with this project's glosses; the stronger
+word-order measure did not separate significantly.
+
+    Test 18   (ktprospective.txt)
+    concealed passage hits      8/26  30.8%
+    shuffled                           12.4%
+    difference                          3.2 sigma
+    agreement with project       2/26   7.7%
+    word order                           2.0 sigma
+
+Thus a blind reader extracts recurring passage-level signal; this run does
+not independently recover the project's dictionary. It is reported without
+a verdict because no outcome bar was declared before the run.
 
 Whether human readers, performing the same tests, would be more or less
 biased is an open question as well, but it would be a welcome test.

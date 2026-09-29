@@ -24,4 +24,4 @@ TEST 12: TEST 5 RESCORED, STRICT LEMMA RULE, FIRST SENSE ONLY
 
   part 3b, leakage check: the same signs on folios that are neither in their evidence
     nor the folio of a K&T sentence; gloss stem in the cited passage (Test 1's measure)
-    signs 10   occurrences 56   hit 11   19.6%   shuffle 14.5% (sd 7.07)   0.7 sigma   (reported)
+    signs 7   occurrences 52   hit 9   17.3%   shuffle 14.0% (sd 6.18)   0.5 sigma   (reported)

@@ -91,27 +91,36 @@ gets you when the pairing means nothing.
 Within what can be compared, the text this edition reads is not one person's
 reading of the page.
 
-## Test 1 — do the readings track their source where nobody looked?
+## Test 1 — source agreement after excluding named evidence folios
 
 `harness/ktheldout.py` · `work/rohonc/ktheldout.txt`
 
-Every reading names the folio it was read from. That folio is excluded. On
-every other folio where the sign stands and a chapter and verse is cited,
-the test asks whether a word of the gloss is in that passage. Control: the
-same signs on the same folios with the glosses shuffled among readings of
-the same tier, twenty times. Ceiling: K&T's own glosses measured the same
-way — true words that still miss, because a folio cites one passage and
-carries a dozen lines.
+Every reading has a free-form evidence note. Folios named in that note are
+excluded. On every other folio where the sign stands and a chapter and verse
+is cited, the diagnostic asks whether a word of the gloss is in that passage.
+Control: the same signs on the same folios with the glosses shuffled among
+readings of the same tier, twenty times. Ceiling: K&T's own glosses measured
+the same way — true words that still miss, because a folio cites one passage
+and carries a dozen lines.
+
+This was originally called held out. It is not. The method required every
+proposed fill to be checked at every occurrence before admission, and tiers
+A/B were selected for surviving those checks. Folios not named in the prose
+therefore still influenced selection. The shuffle does not replay that
+selection process, so its sigma is a descriptive comparison, not an
+independent generalisation test.
 
     K&T's own words                          1717 / 6602     26.0%
 
-    tier   signs  held-out   rate   shuffle   sigma   vs K&T
-    A+B      311       632  25.5%     5.5%    15.4      98%    PASS
-    C+D       32       130  36.2%    13.5%     5.8     139%    PASS
+    tier   signs  excluded   rate   shuffle   sigma   vs K&T
+    A+B      100       367  24.8%     7.6%     9.4      95%    reported
+    C+D       29       124  34.7%    12.1%     6.4     133%    reported
 
-On folios that played no part in choosing them, the readings land in the
-cited passage at the same rate as the dictionary they extend, and four
-times the rate of a shuffled gloss.
+The figures also correct a parser that recognized `033v` but not compact
+references such as `033v05`, and therefore treated many named evidence folios
+as if they were excluded. With the citations parsed correctly, the A/B rate
+remains close to K&T's, but neither the old nor corrected result says what
+happens where nobody looked.
 
 ## Test 5 — external truth: sentences K&T translated whole
 
@@ -146,7 +155,7 @@ translations reach our gloss seven times in ten. This test shows the
 readings agree with K&T's translations. It cannot show they were not taken
 from them.
 
-## Test 6 — word order on held-out folios
+## Test 6 — word order after excluding named evidence folios
 
 `harness/ktorder.py` · `work/rohonc/ktorder.txt`
 
@@ -154,12 +163,14 @@ Test 1 asks whether a word is in the passage; a right word on the wrong
 sign passes that. This asks whether it lands in the right place: the
 longest common subsequence of content words, in order, between each cited
 folio and its passage — K&T alone, K&T plus our A/B readings, and K&T plus
-the same glosses shuffled among the signs. A reading is used on a folio
-only if that folio is not named in its evidence.
+the same glosses shuffled among the signs. A reading is used on a folio only
+if that folio is not named in its evidence. As in Test 1, these folios were
+checked while choosing readings, so this is selection-conditioned and is
+reported as a diagnostic rather than an independent test.
 
     cited folios 299      K&T-only match total 1356
 
-    A+B, held out    670 signs   gain +56    shuffled -36.0 (sd 11.0)   8.3 sigma   PASS
+    A+B, evidence-excluded   670 signs   gain +25    shuffled -34.3 (sd 10.4)   5.7 sigma   reported
 
 ## Test 2 and 2b — part of speech from context: the instrument is no good
 
@@ -462,7 +473,7 @@ pairs today's readings give (the strict table above now has 33).
 Leakage check, same signs on cited folios that are neither in their
 evidence nor the folio of a K&T sentence, Test 1's measure:
 
-    10 signs   56 occurrences   19.6%   shuffle 14.5%   0.7 sigma   no verdict
+    7 signs   52 occurrences   17.3%   shuffle 14.0%   0.5 sigma   no verdict
 
 Read together: the glosses are the words K&T's translations imply, an
 outside reader recovers them from the sentence seven times in ten, and on
@@ -505,8 +516,10 @@ corpus; a random stem as rare as the chosen gloss survives every chapter
 three times in a thousand. The census does not reach the question of
 whether a second word fits each reading's own lines. That needs a
 line-level count, which is the Mad-Libs companion Grok also asked for:
-50 of the 670 A/B signs are the only K&T-unread sign on some line of their
-evidence folio, 7.5%; the rest were read in company.
+82 of the 670 A/B signs are the only K&T-unread sign on some line of their
+evidence folio, 12.2%; the rest were read in company. The earlier 50 (7.5%)
+was another consequence of the compact-reference parser bug corrected in
+Tests 1 and 6.
 
 ## Test 14 — the blind rotated run, with an outside reader
 
@@ -615,6 +628,43 @@ it could fail to recall by number and still recognise a page's wording.
 Recall by label is the cheap and likely route, and it is closed. Cost
 $0.0013.
 
+## Test 18 — a genuinely prospective occurrence holdout
+
+`harness/ktprospective.py` · `work/rohonc/ktprospective.txt` ·
+`work/rohonc/outside/prospective_occurrence/` (manifest, exact prompt and raw reply)
+
+Added after the compact-folio correction showed that Tests 1 and 6 were not
+held out. Forty A/B signs were sampled by a fixed seed from signs that K&T do
+not read and that occur on at least two cited folios. For each sign, one
+folio was shown to a fresh, stateless outside reader and a different folio
+was concealed. The training packet contained K&T's words and the cited
+Douay passage, but none of this project's glosses, evidence notes,
+translations, sign codes or concealed-folio labels. The reader had to freeze
+one short gloss or decline before the concealed folios were scored. It cost
+$0.0032.
+
+    sampled signs                    40
+    answered / scorable              27 / 26
+    concealed-folio passage hits      8 / 26   30.8%
+    shuffled glosses                            12.4%
+    difference                       3.2 sigma   permutation p 0.0060
+    agreement with project A/B gloss  2 / 26    7.7%
+
+The primary score is Test 1's weak rule: at least one content stem of the
+answer occurs somewhere in the concealed folio's cited passage. Two
+sensitivities were added only after the raw reply was frozen. Requiring every
+answer stem gives 6/26 against 4.3% shuffled (5.0 sigma, p 0.0010). The
+stronger word-order measure does not separate: gain -1 against -3.53
+shuffled, 2.0 sigma, p 0.0693.
+
+This answers two different questions in opposite directions. A fresh reader
+can extract passage-linked phrases that recur on concealed folios more often
+than shuffled phrases. It does not recover this project's sign dictionary:
+only *good shepherd* / *shepherd* and *crown of thorns* / *crown* agree under
+the frozen strict rule. No outcome bar was declared before the run, so this
+is reported without a PASS or FAIL verdict. It does not restore the old
+verdicts for Tests 1 or 6.
+
 ## Every run regenerated — 2026-09-22
 
 Before publication every deterministic test was rerun from scratch and
@@ -719,15 +769,37 @@ No verdict changed. Test 12 still fails its leakage clause, by more. From
 this date the replay runs before every release rather than on every commit
 (see above).
 
+## Folio-reference correction — 2026-09-29
+
+The evidence parser in Tests 1, 6 and 13 required a word boundary after the
+folio side. It therefore missed the corpus's usual compact citations, such as
+`033v05`, and subdivision citations such as `013vc1:03`. The parser is now
+shared, tested against every form in the evidence, and optionally checked
+against the manuscript's folio set. The same correction was applied to Test
+12's leakage diagnostic and the historical `ktproof` program.
+
+    test   figure                              before          after
+    1      A+B signs / occurrences          311 / 632       100 / 367
+    1      A+B rate / shuffle / sigma   25.5 / 5.5 / 15.4  24.8 / 7.6 / 9.4
+    6      A+B gain / sigma                    +56 / 8.3       +25 / 5.7
+    12     leakage signs / occurrences / sigma 10 / 56 / 0.7    7 / 52 / 0.5
+    13     Mad-Libs companion                  50 / 7.5%       82 / 12.2%
+
+The old numerical bars would still be crossed, but Tests 1 and 6 are no
+longer given PASS verdicts. Checking every occurrence was part of the
+admission rule, so excluding only the folios written in an evidence note did
+not create an independent holdout. Their corrected figures remain as
+selection-conditioned diagnostics.
+
 ## Summary
 
     The transcription every other test reads, checked against an independent one:
     Test 16 | a second, independent transcription | 91.1% of glyphs agree where both can be compared, against a 12.9% control, 458.5 sigma; 83.8% of the words identical | PASS
 
     The readings:
-    Test 1  | source presence, held-out folios | A+B 15.4 sigma; 98% of K&T's own rate | PASS
+    Test 1  | source presence, evidence-excluded folios | A+B 9.4 sigma; 95% of K&T's own rate, after correcting compact folio references; selection-conditioned | reported, not a verdict
     Test 5  | K&T's own sentence translations | A+B 13.9 sigma; 159% of K&T | PASS
-    Test 6  | word order, held-out folios | A+B 8.3 sigma | PASS
+    Test 6  | word order, evidence-excluded folios | A+B 5.7 sigma after correcting compact folio references; selection-conditioned | reported, not a verdict
     Test 2  | part of speech from context | the instrument fails on K&T's own words (68.3% against a needed 70%; 4.7 sigma against a needed 5); the readings were never scored | NO VERDICT
     Test 3  | the blindfold, run clean | 4 of 24 strict, 16.7%; the declared band for that result was 15-30%, and its declared consequence, tier C passage readings become tier D, was applied | IN BAND
     Test 7  | K&T's words removed | reads 11.6% from this project's readings alone, by design: the readings extend the dictionary. Recovery of a hidden K&T word: 10.8 sigma against a declared 5, on a hundred-shuffle control; the ten-shuffle runs gave 4.4 before the variant fix and 8.4 after, and all three are kept | PASS
@@ -745,6 +817,7 @@ this date the replay runs before every release rather than on every commit
     Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS
     Test 15 | passage identification, outside reader | chapter level 9 of 20 against 0 of 20 shuffled; p 0.002 | PASS
     Test 17 | memory check on Test 15's reader | asked by folio number with no page shown, it names 0 of 20 cited chapters and declines 19; Test 15's nine were not recalled by label | NO MEMORY SHOWN
+    Test 18 | prospective occurrence holdout, fresh outside reader | frozen glosses hit 8 of 26 concealed passages against 12.4% shuffled, 3.2 sigma; only 2 of 26 agree with the project's A/B glosses; word order 2.0 sigma | reported, not a verdict
 
     PASS and FAIL are verdicts on the readings against a bar declared before the run.
     NO VERDICT means the instrument failed its own check on Király and Tokai's words,
@@ -754,16 +827,16 @@ this date the replay runs before every release rather than on every commit
     band it was predicted to, and the consequence declared for that band was applied.
 
 Where that leaves the 670 tier A/B readings. The passage map survives
-without them (Test 11), so Tests 1, 6 and 9 keep their target and their
-passes stand. Test 5 is no longer counted as independent confirmation: the
-readings match K&T's translations, and the match is what a reader with
-the sentence in hand would produce. The two instruments Grok specified for
-the search itself, the null replay and the census, do not model the search
-as it was run and gave no verdict either way. The honest version of the
-first, the loop run blind on rotated pages, was then done with an outside
-reader (Test 14): handed the wrong passage it produced nothing. Tier C/D
-passes Test 1 and is too thin for the rest. The guesses are measured by
-Test 3: one in six strict, one in three lenient.
+without them (Test 11), so the tests still have a target. Test 9 retains its
+PASS, while Tests 1 and 6 are selection-conditioned diagnostics rather than
+independent confirmation. Test 5 likewise measures agreement with K&T's
+translations, which were available while the readings were made. The loop
+run blind on rotated pages (Test 14) produced nothing when handed the wrong
+passage. The new prospective split (Test 18) shows that fresh proposed words
+carry passage-level signal to concealed folios, but almost never reproduce
+the project's existing glosses and do not pass the stronger word-order
+sensitivity. The guesses are measured by Test 3: one in six strict, one in
+three lenient.
 
 Also on record, from earlier the same day: K&T's own citations land on the
 folio they name 89.2% of the time and the exact line 97.5% of those, against

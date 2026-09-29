@@ -357,6 +357,13 @@ New standing tools, all of which run on demand and decide nothing:
 
 ## Tests of whether the additions are true, 2026-09-21
 
+> **Correction, 2026-09-29.** The Test 1 and Test 6 figures in this historical
+> working record were produced by a parser that missed compact evidence cites
+> such as `033v05`. More importantly, the folios called held out here had been
+> checked while deciding which readings to admit. The corrected current runs
+> and verdicts are in `TESTS.md`: Test 1 is 9.4 sigma and Test 6 is 5.7 sigma,
+> both reported as selection-conditioned diagnostics rather than PASSes.
+
 Everything before this section was run by the process that made the
 readings. These are the checks designed to break that.
 

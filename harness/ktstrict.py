@@ -50,6 +50,7 @@ import ktcross as K
 import kttranslate as T
 import ktsentence as S
 import kttestlib as TL
+import ktrefs
 
 NSHUF = 20
 SEED = 20260921
@@ -253,7 +254,7 @@ def part3(gl, ours, kpairs, opairs):
         sent_folios[c].add(ref[:4])
     tests = []
     for c in sorted({r[0] for r in rows}):
-        ev = set(re.findall(r"\b(\d{3}[rv])\b", p[c].get('evidence', '')))
+        ev = ktrefs.evidence_folios(p[c].get('evidence', ''), pool)
         st = TL.content(p[c]['gloss'].replace('_', ' '))
         held = sorted(f for f in where.get(un(c), ()) if f in pool
                       and f not in ev and f not in sent_folios[c])

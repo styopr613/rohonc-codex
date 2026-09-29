@@ -34,7 +34,6 @@ BAR, declared before the run, not moved (Grok's, verbatim):
 """
 import json
 import random
-import re
 import sys
 from collections import Counter, defaultdict
 
@@ -43,14 +42,15 @@ import ktcross as K
 import ktleft as L
 import ktrederive as R
 import kttestlib as TL
+import ktrefs
 
 SEED = 20260921
 NDRAW = 20
-FOLIO = re.compile(r"\b(\d{3}[rv])\b")
 
 
 def main(argv):
     gl, doc, seg, var, prop, inv = K.build()
+    valid_folios = {x.page for x in doc}
     p = json.load(open('proposals.json', encoding='utf-8'))
     vv, vd = L.verses(), L.verses_dr()
     refs = TL.cited(doc)
@@ -135,7 +135,7 @@ def main(argv):
         if not isinstance(v, dict) or v.get('tier') not in 'AB':
             continue
         tot += 1
-        ev = set(FOLIO.findall(v.get('evidence', '')))
+        ev = ktrefs.evidence_folios(v.get('evidence', ''), valid_folios)
         if any(un(h) in unread_line.get(f, ()) for f in ev):
             madlib += 1
     print(f"  companion: A/B signs that are the only K&T-unread sign on some line of an "

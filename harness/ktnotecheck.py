@@ -51,6 +51,7 @@ import re
 import sys
 
 import corpus
+import ktrefs
 
 # The note's ADDRESS used to be a phrase quoted out of retelling.md, and this
 # checked that the phrase stood there exactly once. retelling.md stopped being
@@ -162,7 +163,7 @@ def main(argv):
         # 1. the note has somewhere to land: a folio on its source line that
         #    the printed Book One actually credits.
         m = SRC_FOLIO.search(body)
-        fol = set(re.findall(r"\b\d{3}[rv]\b", m.group(1))) if m else set()
+        fol = ktrefs.evidence_folios(m.group(1)) if m else set()
         if not fol:
             why.append("source line names no folio, so the note cannot be placed")
         elif not (fol & CITED):

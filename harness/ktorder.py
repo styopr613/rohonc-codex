@@ -1,5 +1,4 @@
-"""TEST 6: do our readings put words in the RIGHT PLACE on folios that played
-no part in choosing them?
+"""TEST 6: do readings put words in the right place on evidence-excluded folios?
 
 Test 1 asks whether a gloss is present in the cited passage. That is weak
 against one failure: a reading drawn from the right passage but put on the
@@ -12,17 +11,17 @@ verse in order. A gloss on the right sign lengthens the match; the same
 gloss on the wrong sign does not, even though it is the same word from the
 same passage.
 
-HELD OUT: a reading is applied to a folio only if that folio is not named in
-the reading's evidence. What is measured is positional fit where nobody
-looked.
+EVIDENCE-EXCLUDED: a reading is applied only if the folio is not named in its
+evidence. This is not independently held out: the method checked proposed
+fills at every occurrence before admitting them, so those folios influenced
+selection even when the evidence prose did not name them.
 
   gain     LCS(K&T + ours) - LCS(K&T only), summed over cited folios
   control  LCS(K&T + shuffled ours) - LCS(K&T only), 20 shuffles
 
-BAR, declared before the run: held-out gain beats the control mean by >= 5
-sigma. The guesses are reported the same way but are NOT held out -- a guess
-was made looking at its line and its passage -- so their figure is
-descriptive, not a test.
+The old declared bar is printed for continuity, but the shuffle does not
+reproduce that selection step. The result is descriptive, not an independent
+test.
 
     python3 ktorder.py
 """
@@ -37,9 +36,9 @@ import ktcross as K
 import ktleft as L
 import ktrederive as R
 import kttranslate as T
+import ktrefs
 
 NSHUF = 20
-FOLIO = re.compile(r"\b(\d{3}[rv])\b")
 
 
 def ordered_stems(text):
@@ -69,6 +68,7 @@ def lcs(seq_sets, seq):
 
 def main(argv):
     gl, doc, seg, var, prop, inv = K.build()
+    valid_folios = {x.page for x in doc}
     p = json.load(open('proposals.json', encoding='utf-8'))
     vd = L.verses_dr()
     passages = {}
@@ -89,7 +89,8 @@ def main(argv):
         if h.startswith('_') or not isinstance(v, dict):
             continue
         if v.get('tier') in ('A', 'B', 'G') and v.get('gloss'):
-            ours[h] = (v['tier'], v['gloss'], set(FOLIO.findall(v.get('evidence', ''))))
+            ours[h] = (v['tier'], v['gloss'],
+                       ktrefs.evidence_folios(v.get('evidence', ''), valid_folios))
 
     toks_of = {}
     for pg in doc:
@@ -102,7 +103,8 @@ def main(argv):
                 for t in toks_of[pgn]]
 
     base = {pgn: lcs(render(pgn, None), passages[pgn]) for pgn in toks_of}
-    print("TEST 6: ORDER OF WORDS ON HELD-OUT FOLIOS")
+    print("TEST 6: ORDER OF WORDS ON EVIDENCE-EXCLUDED FOLIOS")
+    print("  selection-conditioned diagnostic; not an independent held-out test")
     print(f"  cited folios {len(base)}   K&T-only LCS total {sum(base.values())}")
 
     def gain(tiers, held, glosses=None):
@@ -117,8 +119,8 @@ def main(argv):
         return tot
 
     rng = random.Random(R.SEED)
-    for label, tiers, held in (("A+B, held out", "AB", True),
-                               ("G, not held out", "G", False)):
+    for label, tiers, held in (("A+B, ev-excluded", "AB", True),
+                               ("G, all folios", "G", False)):
         keys = [h for h in ours if ours[h][0] in tiers]
         obs = gain(tiers, held)
         nulls = []
@@ -132,7 +134,8 @@ def main(argv):
         print(f"  {label:18s} signs {len(keys):4d}   gain {obs:+5d}   "
               f"shuffled {mu:+7.1f} (sd {sd:.1f})   {sig:.1f} sigma")
         if held:
-            print(f"  BAR: >= 5 sigma  ->  {'PASS' if sig >= 5 else 'FAIL'}")
+            print(f"  OLD BAR: >= 5 sigma  ->  {'PASS' if sig >= 5 else 'FAIL'} "
+                  "(reported; not a verdict)")
             ok = sig >= 5
     return 0 if ok else 1
 

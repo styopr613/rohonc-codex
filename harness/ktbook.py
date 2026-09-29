@@ -43,6 +43,8 @@ import datetime
 import json
 import os
 import re
+
+import ktrefs
 import subprocess
 import sys
 
@@ -274,11 +276,11 @@ def annotate(body, part="p"):
             hits.append((m.end(), anchor, note))
             continue
         _, src = N.split_note(note)
-        f = re.search(r"\b(\d{3}[rv])\b", src or "")
-        if not f:
+        cited = ktrefs.evidence_folios(src)
+        if not cited:
             continue
         for end, covered in paras:
-            if f.group(1) in covered:
+            if cited & covered:
                 hits.append((end, anchor, note))
                 break
     hits.sort()

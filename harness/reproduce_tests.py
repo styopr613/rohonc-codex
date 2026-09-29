@@ -54,6 +54,7 @@ CASES = [
     ("Test 15", ["harness/ktpassid2.py"], "work/rohonc/ktpassid2.txt"),
     ("Test 16", ["harness/ktopen.py"], "work/rohonc/ktopen.txt"),
     ("Test 17", ["harness/ktmemory.py"], "work/rohonc/ktmemory.txt"),
+    ("Test 18", ["harness/ktprospective.py"], "work/rohonc/ktprospective.txt"),
 ]
 
 INPUTS = {

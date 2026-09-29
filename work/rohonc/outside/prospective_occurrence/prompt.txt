@@ -1,0 +1,598 @@
+You are the blind reader in a prospective test of an unknown
+sixteenth-century script. Each numbered item concerns one sign. You see ONE
+training occurrence (or several occurrences on the same training folio),
+rendered using only an independently published dictionary. [TARGET] is the
+sign to read; [?] marks other signs that dictionary does not read. The cited
+Douay-Rheims passage follows the manuscript context.
+
+For each item, propose a concise English gloss of at most three words only if
+the passage and context determine it. Otherwise answer "none". Do not guess.
+The same gloss must be capable of travelling to occurrences you have not
+seen. Items are unrelated; do not transfer an answer between them.
+
+Answer ONLY with one JSON object whose keys are the item numbers and whose
+values are the gloss or "none". Do not add commentary.
+
+
+ITEM 1
+MANUSCRIPT CONTEXT
+line 8: [?] head grab and [?] [?]
+line 9: [TARGET] find [?] [?] and earth Lord each,_every Lord
+CITED PASSAGE
+Matthew 21:15 And the chief priests and scribes, seeing the wonderful things that he did and the children crying in the temple and saying: Hosanna to the son of David, were moved with indignation,
+Matthew 21:16 And said to him: Hearest thou what these say? And Jesus said to them: Yea, have you never read: Out of the mouth of infants and of sucklings thou hast perfected praise?
+Luke 19:40 To whom he said: I say to you that if these shall hold their peace, the stones will cry out.
+
+
+ITEM 2
+MANUSCRIPT CONTEXT
+line 1: [?] wife [?] [?] speak understand apostle [?]
+line 2: from [TARGET] go [?] [?] Peter [?] this
+line 3: exist [?] [?] [?] [?] from [TARGET]
+line 4: go [?] father Abraham and Abraham
+line 6: and [?] [?] go [?] say say [?] [?] [?]
+line 7: [?] from [TARGET] go [?] [?] [?]
+line 8: and [?] mother [?] [?] how? shape,_form want go
+CITED PASSAGE
+Acts 2:1 And when the days of the Pentecost were accomplished, they were all together in one place:
+Acts 2:2 And suddenly there came a sound from heaven, as of a mighty wind coming: and it filled the whole house where they were sitting.
+Acts 2:3 And there appeared to them parted tongues, as it were of fire: and it sat upon every one of them.
+Acts 2:4 And they were all filled with the Holy Ghost: and they began to speak with divers tongues, according as the Holy Ghost gave them to speak.
+Acts 2:5 Now there were dwelling at Jerusalem, Jews, devout men, out of every nation under heaven.
+Acts 2:6 And when this was noised abroad, the multitude came together, and were confounded in mind, because that every man heard them speak in his own tongue.
+Acts 2:7 And they were all amazed, and wondered, saying: Behold, are not all these that speak Galilean?
+Acts 2:8 And how have we heard, every man our own tongue wherein we were born?
+Acts 2:9 Parthians and Medes and Elamites and inhabitants of Mesopotamia, Judea, and Cappadocia, Pontus and Asia,
+Acts 2:10 Phrygia and Pamphylia, Egypt and the parts of Libya about Cyrene, and strangers of Rome,
+Acts 2:11 Jews also, and proselytes, Cretes, and Arabians: we have heard them speak in our own tongues the wonderful works of God.
+Acts 2:12 And they were all astonished, and wondered, saying one to another: What meaneth this?
+Acts 2:13 But others mocking, said: These men are full of new wine.
+Acts 2:14 But Peter standing up with the eleven, lifted up his voice, and spoke to them: Ye men of Judea, and all you that dwell in Jerusalem, be this known to you and with your ears receive my words.
+Acts 2:15 For these are not drunk, as you suppose, seeing it is but the third hour of the day:
+Acts 2:16 But this is that which was spoken of by the prophet Joel:
+Acts 2:17 And it shall come to pass, in the last days, (saith the Lord), I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy: and your young men shall see visions, and your old men shall dream dreams.
+Acts 2:18 And upon my servants indeed and upon my handmaids will I pour out in those days of my spirit: and they shall prophesy.
+Acts 2:19 And I will shew wonders in the heaven above, and signs on the earth beneath: blood and fire, and vapour of smoke.
+Acts 2:20 The sun shall be turned into darkness and the moon into blood, before the great and manifest day of the Lord to come.
+Acts 2:21 And it shalt come to pass, that whosoever shall call upon the name of the Lord shall be saved.
+Acts 2:22 Ye men of Israel, hear these words: Jesus of Nazareth, a man approved of God among you by miracles and wonders and signs, which God did by him, in the midst of you, as you also know:
+Acts 2:23 This same being delivered up, by the determinate counsel and foreknowledge of God, you by the hands of wicked men have crucified and slain.
+Acts 2:24 Whom God hath raised up, having loosed the sorrows of hell, as it was impossible that he should be holden by it.
+Acts 2:25 For David saith concerning him: I foresaw the Lord before my face: because he is at my right hand, that I may not be moved.
+Acts 2:26 For this my heart hath been glad, and my tongue hath rejoiced: moreover my flesh also shall rest in hope.
+Acts 2:27 Because thou wilt not leave my soul in hell: nor suffer thy Holy One to see corruption.
+Acts 2:28 Thou hast made known to me the ways of life: thou shalt make me full of joy with thy countenance.
+Acts 2:29 Ye men, brethren, let me freely speak to you of the patriarch David: that he died and was buried; and his sepulchre is with us to this present say.
+Acts 2:30 Whereas therefore he was a prophet and knew that God hath sworn to him with an oath, that of the fruit of his loins one should sit upon his throne.
+Acts 2:31 Foreseeing this, he spoke of the resurrection of Christ. For neither was he left in hell: neither did his flesh see corruption.
+Acts 2:32 This Jesus hath God raised again, whereof all we are witnesses.
+Acts 2:33 Being exalted therefore by the right hand of God and having received of the Father the promise of the Holy Ghost, he hath poured forth this which you see and hear.
+Acts 2:34 For David ascended not into heaven; but he himself said: The Lord said to my Lord: Sit thou on my right hand,
+Acts 2:35 Until I make thy enemies thy footstool.
+Acts 2:36 Therefore let all the house of Israel know most certainly that God hath made both Lord and Christ, this same Jesus, whom you have crucified.
+Acts 2:37 Now when they had heard these things, they had compunction in their heart and said to Peter and to the rest of the apostles: What shall we do, men and brethren?
+Acts 2:38 But Peter said to them: Do penance: and be baptized every one of you in the name of Jesus Christ, for the remission of your sins. And you shall receive the gift of the Holy Ghost.
+Acts 2:39 For the promise is to you and to your children and to all that are far off, whomsoever the Lord our God shall call.
+Acts 2:40 And with very many other words did he testify and exhort them, saying: Save yourselves from this perverse generation.
+
+
+ITEM 3
+MANUSCRIPT CONTEXT
+line 4: [?] [?] God blind and to [?]
+line 5: [?] son [?] somebody [TARGET] [?]
+line 6: exist heaven land in_turn and somebody exist
+CITED PASSAGE
+Deuteronomy 28:1 Now if thou wilt hear the voice of all his commandments, which I command thee this day, the Lord thy God will make thee higher than all the nations that are on the earth.
+Deuteronomy 28:2 And all these blessings shall come upon thee and overtake thee: yet so if thou hear his precepts.
+Deuteronomy 28:3 Blessed shalt thou be in the city, and blessed in the field.
+Deuteronomy 28:4 Blessed shall be the fruit of thy womb, and the fruit of thy ground, and the fruit of thy cattle, the droves of thy herds, and the folds of thy sheep.
+Deuteronomy 28:5 Blessed shall be thy barns and blessed thy stores.
+Deuteronomy 28:6 Blessed shalt thou be coming in and going out.
+Deuteronomy 28:7 The Lord shall cause thy enemies, that rise up against thee, to fall down before thy face: one way shall they come out against thee, and seven ways shall they flee before thee.
+Deuteronomy 28:8 The Lord will send forth a blessing upon thy storehouses, and upon all the works of thy hands: and will bless thee in the land that thou shalt receive.
+Deuteronomy 28:9 The Lord will raise thee up to be a holy people to himself, as he swore to thee: if thou keep the commandments of the Lord thy God, and walk in his ways.
+Deuteronomy 28:10 And all the people of the earth shall see that the name of the Lord is invocated upon thee, and they shall fear thee.
+Deuteronomy 28:11 The Lord will make thee abound with all goods, with the fruit of thy womb, and the fruit of thy cattle, with the fruit of thy land, which the Lord swore to thy fathers that he would give thee.
+Deuteronomy 28:12 The Lord will open his excellent treasure, the heaven, that it may give rain in due season: and he will bless all the works of thy hands. And thou shalt lend to many nations, and shalt not borrow of any one.
+Deuteronomy 28:13 And the Lord shall make thee the head and not the tail: and thou shalt be always above, and not beneath: yet so if thou wilt hear the commandments of the Lord thy God which I command thee this day, and keep and do them,
+Deuteronomy 28:14 And turn not away from them neither to the right hand, nor to the left, nor follow strange gods, nor worship them.
+Deuteronomy 28:15 But if thou wilt not hear the voice of the Lord thy God, to keep and to do all his commandments and ceremonies, which I command thee this day, all these curses shall come upon thee, and overtake thee.
+Deuteronomy 28:16 Cursed shalt thou be in the city, cursed in the field.
+Deuteronomy 28:17 Cursed shall be thy barn, and cursed thy stores.
+Deuteronomy 28:18 Cursed shall be the fruit of thy womb, and the fruit of thy ground, the herds of thy oxen, and the flocks of thy sheep.
+Deuteronomy 28:19 Cursed shalt thou be coming in, and cursed going out.
+Deuteronomy 28:20 The Lord shall send upon thee famine and hunger, and a rebuke upon all the works which thou shalt do: until he consume and destroy thee quickly, for thy most wicked inventions, by which thou hast forsaken me.
+Deuteronomy 28:21 May the Lord set the pestilence upon thee, until he consume thee out of the land, which thou shalt go in to possess.
+Deuteronomy 28:22 May the Lord afflict thee with miserable want, with the fever and with cold, with burning and with heat, and with corrupted air and with blasting, and pursue thee till thou perish.
+Deuteronomy 28:23 Be the heaven, that is over thee, of brass: and the ground thou treadest on, of iron.
+Deuteronomy 28:24 The Lord give thee dust for rain upon thy land, and let ashes come down from heaven upon thee, till thou be consumed.
+Deuteronomy 28:25 The Lord make thee to fall down before thy enemies, one way mayst thou go out against them, and flee seven ways, and be scattered throughout all the kingdoms of the earth.
+Deuteronomy 28:26 And be thy carcass meat for all the fowls of the air, and the beasts of the earth, and be there none to drive them away.
+Deuteronomy 28:27 The Lord strike thee with the ulcer of Egypt, and the part of thy body, by which the dung is cast out, with the scab and with the itch: so that thou canst not be healed.
+Deuteronomy 28:28 The Lord strike thee with madness and blindness and fury of mind.
+Deuteronomy 28:29 And mayst thou grope at midday as the blind is wont to grope in the dark, and not make straight thy ways. And mayst thou at all times suffer wrong, and be oppressed with violence, and mayst thou have no one to deliver thee.
+Deuteronomy 28:30 Mayst thou take a wife, and another sleep with her. Mayst thou build a house, and not dwell therein. Mayest thou plant a vineyard and not gather the vintage thereof.
+Deuteronomy 28:31 May thy ox be slain before thee, and thou not eat thereof. May thy ass be taken away in thy sight, and not restored to thee. May thy sheep be given to thy enemies, and may there be none to help thee.
+Deuteronomy 28:32 May thy sons and thy daughters be given to another people, thy eyes looking on, and languishing at the sight of them all the day, and may there be no strength in thy hand.
+Deuteronomy 28:33 May a people which thou knowest not, eat the fruits of thy land, and all thy labours: and mayst thou always suffer oppression, and be crushed at all times.
+Deuteronomy 28:34 And be astonished at the terror of those things which thy eyes shall see:
+Deuteronomy 28:35 May the Lord strike thee with a very sore ulcer in the knees and in the legs, and be thou incurable from the sole of the foot to the top of the head.
+Deuteronomy 28:36 The Lord shall bring thee, and thy king, whom thou shalt have appointed over thee, into a nation which thou and thy fathers know not: and there thou shalt serve strange gods, wood and stone.
+Deuteronomy 28:37 And thou shalt be lost, as a proverb and a byword to all people, among whom the Lord shall bring thee in.
+Deuteronomy 28:38 Thou shalt cast much seed into the ground, and gather little: because the locusts shall consume all.
+Deuteronomy 28:39 Thou shalt plant a vineyard, and dig it, and shalt not drink the wine, nor gather any thing thereof: because it shall be wasted with worms.
+Deuteronomy 28:40 Thou shalt have olive trees in all thy borders, and shalt not be anointed with the oil: for the olives shall fall off and perish.
+
+
+ITEM 4
+MANUSCRIPT CONTEXT
+line 3: touch [?] <preposition_of_genitive> [?] from coffin which inside coffin
+line 4: [TARGET] die son this [?] [?] Lord
+line 5: Jézus [?] this son [?] son [?] and [?]
+CITED PASSAGE
+Luke 7:14 And he came near and touched the bier. And they that carried it stood still. And he said: Young man, I say to thee, arise.
+Luke 7:15 And he that was dead sat up and begun to speak. And he gave him to his mother.
+Luke 7:16 And there came a fear upon them all: and they glorified God saying: A great prophet is risen up among us: and, God hath visited his people.
+
+
+ITEM 5
+MANUSCRIPT CONTEXT
+line 1: you father eat inside field because that_is [TARGET]
+line 2: living [?] [?] bread in_turn leave [?] town
+line 3: [?] [?] [?] and somebody exist this [TARGET] eat
+line 4: from somebody exist living [?] [?] amen
+CITED PASSAGE
+John 6:49 Your fathers did eat manna in the desert: and are dead.
+John 6:50 This is the bread which cometh down from heaven: that if any man eat of it, he may not die.
+John 6:51 I am the living bread which came down from heaven.
+
+
+ITEM 6
+MANUSCRIPT CONTEXT
+line 1: [TARGET] people go each,_every [?] and [?] [?] Lord
+line 2: Christ [?] and [?] time grab [?]
+line 7: [?] many misery [?] [?]
+line 8: because one [TARGET] hunger die [?] [TARGET] [?]
+line 9: hunger [?] a) [?] son eat [?] [TARGET]
+line 10: [TARGET] [?] out(ward) [?] and [?] head
+CITED PASSAGE
+Matthew 24:2 And he answering, said to them: Do you see all these things? Amen I say to you, there shall not be left here a stone upon a stone that shall not be destroyed.
+
+
+ITEM 7
+MANUSCRIPT CONTEXT
+line 1: die [?] [?] divide firstborn [TARGET] remit
+line 2: in_turn this younger [TARGET] remit this and somebody divide
+line 3: [?] one gate [?] [?] grab inside
+CITED PASSAGE
+Luke 15:11 And he said: A certain man had two sons.
+
+
+ITEM 8
+MANUSCRIPT CONTEXT
+line 8: [?] head grab and [?] [?]
+line 9: [?] find [?] [TARGET] and earth Lord each,_every Lord
+CITED PASSAGE
+Matthew 21:15 And the chief priests and scribes, seeing the wonderful things that he did and the children crying in the temple and saying: Hosanna to the son of David, were moved with indignation,
+Matthew 21:16 And said to him: Hearest thou what these say? And Jesus said to them: Yea, have you never read: Out of the mouth of infants and of sucklings thou hast perfected praise?
+Luke 19:40 To whom he said: I say to you that if these shall hold their peace, the stones will cry out.
+
+
+ITEM 9
+MANUSCRIPT CONTEXT
+line 5: exist [?] [?] who exist [?] Isaac [?]
+line 6: [TARGET] Abraham sacrifice and take_out [?]
+line 7: [?] [?] [?] Isaac want slay
+CITED PASSAGE
+Genesis 22:13 Abraham lifted up his eyes, and saw behind his back a ram, amongst the briers, sticking fast by the horns, which he took and offered for a holocaust instead of his son.
+
+
+ITEM 10
+MANUSCRIPT CONTEXT
+line 5: apostle [?] [?] dinner
+line 6: [TARGET] [TARGET] [?] you speak love
+line 7: whatever you exist ask_(for) from [?] [?]
+CITED PASSAGE
+John 14:13 Because I go to the Father: and whatsoever you shall ask the Father in my name, that will I do: that the Father may be glorified in the Son.
+John 14:14 If you shall ask me any thing in my name, that I will do.
+
+
+ITEM 11
+MANUSCRIPT CONTEXT
+line 6: [?] manna and [?] [?] inside thirty half
+line 7: [TARGET] time say [?] [?] [?] grab
+line 8: inside [?] one baked „cake” and
+CITED PASSAGE
+Exodus 16:1 And they set forward from Elim, and all the multitude of the children of Israel came into the desert of Sin, which is between Elim and Sinai: the fifteenth day of the second month, after they came out of the land of Egypt.
+Exodus 16:2 And all the congregation of the children of Israel murmured against Moses and Aaron in the wilderness.
+Exodus 16:3 And the children of Israel said to them: Would to God we had died by the hand of the Lord in the land of Egypt, when we sat over the fleshpots, and ate bread to the full: Why have you brought us into this desert, that you might destroy all the multitude with famine?
+Exodus 16:4 And the Lord said to Moses: Behold I will rain bread from heaven for you; let the people go forth, and gather what is sufficient for every day: that I may prove them whether they will walk in my law, or not.
+Exodus 16:5 But the sixth day let them provide for to bring in: and let it be double to that they were wont to gather every day.
+Exodus 16:6 And Moses and Aaron said to the children of Israel In the evening you shall know that the Lord hath brought you forth out of the land of Egypt:
+Exodus 16:7 And in the morning you shall see the glory of the Lord: for he hath heard your murmuring against the Lord: but as for us, what are we, that you mutter against us?
+Exodus 16:8 And Moses said: In the evening the Lord will give you flesh to eat, and in the morning bread to the full: for he hath heard your murmurings, with which you have murmured against him, for what are we? your murmuring is not against us, but against the Lord.
+Exodus 16:9 Moses also said to Aaron: Say to the whole congregation of the children of Israel: Come before the Lord; for he hath heard your murmuring.
+Exodus 16:10 And when Aaron spoke to all the assembly of the children of Israel, they looked towards the wilderness; and behold the glory of the Lord appeared in a cloud.
+Exodus 16:11 And the Lord spoke to Moses, saying:
+Exodus 16:12 I have heard the murmuring of the children of Israel, say to them: In the evening you shall eat flesh, and in the morning you shall have your fill of bread; and you shall know that I am the Lord your God.
+Exodus 16:13 So it came to pass in the evening, that quails coming up, covered the camp: and in the morning a dew lay round about the camp.
+Exodus 16:14 And when it had covered the face of the earth, it appeared in the wilderness small, and as it were beaten with a pestle, like unto the hoar frost on the ground.
+Exodus 16:15 And when the children of Israel saw it, they said one to another: Manhu! which signifieth: What is this! for they knew not what it was. And Moses said to them: This is the bread which the Lord hath given you to eat.
+Exodus 16:16 This is the word that the Lord hath commanded: Let every one gather of it as much as is enough to eat; a gomor for every man, according to the number of your souls that dwell in a tent, so shall you take of it.
+Exodus 16:17 And the children of Israel did so: and they gathered, one more, another less.
+Exodus 16:19 And Moses said to them: Let no man leave thereof till the morning.
+Exodus 16:20 And they hearkened not to him, but some of them left until the morning, and it began to be full of worms, and it putrified, and Moses was angry with them.
+Exodus 16:21 Now every one of them gathered in the morning, as much as might suffice to eat: and after the sun grew hot, it melted.
+Exodus 16:22 But on the sixth day they gathered twice as much, that is, two gomors every man: and all the rulers of the multitude came, and told Moses.
+Exodus 16:23 And he said to them: This is what the Lord hath spoken: To morrow is the rest of the sabbath sanctified to the Lord. Whatsoever work is to be done, do it; and the meats that are to be dressed, dress them; and whatsoever shall remain, lay it up until the morning.
+Exodus 16:24 And they did so as Moses had commanded, and it did not putrify, neither was there worm found in it.
+Exodus 16:25 And Moses said: Eat it to day, because it is the sabbath of the Lord: to day it shall not be found in the field.
+Exodus 16:26 Gather it six days; but on the seventh day is the sabbath of the Lord, therefore it shall not be found.
+Exodus 16:27 And the seventh day came; and some of the people going forth to gather, found none.
+Exodus 16:28 And the Lord said to Moses: How long will you refuse to keep my commandments, and my law?
+Exodus 16:29 See that the Lord hath given you the sabbath, and for this reason on the sixth day he giveth you a double provision: let each man stay at home, and let none go forth out of his place the seventh day.
+Exodus 16:30 And the people kept the sabbath on the seventh day.
+Exodus 16:31 And the house of Israel called the name thereof Manna: and it was like coriander seed, white, and the taste thereof like to flour with honey.
+Exodus 16:32 And Moses said: This is the word which the Lord hath commanded: Fill a gomor of it, and let it be kept unto generations to come hereafter; that they may know the bread, wherewith I fed you in the wilderness when you were brought forth out of the land of Egypt.
+Exodus 16:33 And Moses said to Aaron: Take a vessel, and put manna into it, as much as a gomor can hold; and lay it up before the Lord, to keep unto your generations,
+Exodus 16:34 As the Lord commanded Moses. And Aaron put it in the tabernacle to be kept.
+Exodus 16:35 And the children of Israel ate manna forty years, till they came to a habitable land: with this meat were they fed, until they reached the borders of the land of Chanaan.
+Exodus 16:36 Now a gomor is the tenth part of an ephi.
+
+
+ITEM 12
+MANUSCRIPT CONTEXT
+line 2: [?] [?] [?] [?] [?]
+line 3: [TARGET] [?] righteous(ly) son living God because [?] go [?]
+line 4: land [?] [?] righteous(ly) son living God [?]
+CITED PASSAGE
+John 3:3 Jesus answered and said to him: Amen, amen, I say to thee, unless a man be born again, he cannot see the kingdom of God.
+John 3:4 Nicodemus saith to him: How can a man be born when he is old? Can he enter a second time into his mother's womb and be born again?
+
+
+ITEM 13
+MANUSCRIPT CONTEXT
+line 6: believe this [?] exist and [?] [?]
+line 7: believe [?] this [TARGET] one God say [?] [?]
+line 8: one [?] among you [?] from
+CITED PASSAGE
+John 3:16 For God so loved the world, as to give his only begotten Son: that whosoever believeth in him may not perish, but may have life everlasting.
+John 3:17 For God sent not his Son into the world, to judge the world: but that the world may be saved by him.
+John 3:18 He that believeth in him is not judged. But he that doth not believe is already judged: because he believeth not in the name of the only begotten Son of God.
+
+
+ITEM 14
+MANUSCRIPT CONTEXT
+line 1: [?] blind [?] through light die [?] [?] [?]
+line 2: [TARGET] body and evil obsessed_by_the_evil [?]
+line 3: and Lord [?] exist from [?] up
+CITED PASSAGE
+Luke 24:21 But we hoped that it was he that should have redeemed Israel. And now besides all this, to-day is the third day since these things were done.
+Luke 24:22 Yea and certain women also of our company affrighted us who, before it was light, were at the sepulchre,
+Luke 24:23 And not finding his body, came, saying that they had all seen a vision of angels, who say that he is alive.
+Luke 24:24 And some of our people went to the sepulchre and found it so as the women had said: but him they found not.
+
+
+ITEM 15
+MANUSCRIPT CONTEXT
+line 4: time [?] apostle to [?] [?] [?]
+line 5: [TARGET] [?] [?] have_mercy [?] exist Peter
+line 6: [?] [?] [?] Peter Peter in_turn
+CITED PASSAGE
+Matthew 18:21 Then came Peter unto him and said: Lord, how often shall my brother offend against me, and I forgive him? till seven times?
+
+
+ITEM 16
+MANUSCRIPT CONTEXT
+line 1: angel and [?] [?] [?] [?] [?]
+line 2: [TARGET] heaven land and [?] one
+line 3: king [?] inside throne sit and [?]
+CITED PASSAGE
+Acts 7:56 And they, crying out with a loud voice, stopped their ears and with one accord ran violently upon him.
+Acts 7:57 And casting him forth without the city, they stoned him. And the witnesses laid down their garments at the feet of a young man, whose name was Saul.
+Acts 7:58 And they stoned Stephen, invoking and saying: Lord Jesus, receive my spirit.
+
+
+ITEM 17
+MANUSCRIPT CONTEXT
+line 2: before [?] [?] [?] [?] this
+line 3: shape,_form say Jew(ish) [TARGET] emperor shape,_form
+line 4: [?] [?] [?] this write say
+line 5: Jew(ish) [TARGET] emperor write [?] Lord
+line 6: Jézus [TARGET] emperor shape,_form and emperor
+line 7: write this emperor [?] leave [?] Lord
+CITED PASSAGE
+Matthew 22:20 And Jesus saith to them: Whose image and inscription is this?
+Matthew 22:21 They say to him: Caesar's. Then he saith to them: Render therefore to Caesar the things that are Caesar's; and to God, the things that are God's.
+
+
+ITEM 18
+MANUSCRIPT CONTEXT
+line 7: exist [?] earth slide and
+line 8: [TARGET] evil this somebody create each,_every this serpent
+CITED PASSAGE
+Genesis 3:17 And to Adam he said: Because thou hast hearkened to the voice of thy wife, and hast eaten of the tree, whereof I commanded thee, that thou shouldst not eat, cursed is the earth in thy work: with labour and toil shalt thou eat thereof all the days of thy life.
+Genesis 3:18 Thorns and thistles shall it bring forth to thee, and thou shalt eat the herbs of the earth.
+Genesis 3:19 In the sweat of thy face shalt thou eat bread till thou return to the earth out of which thou wast taken: for dust thou art, and into dust thou shalt return.
+Genesis 3:23 And the Lord God sent him out of the paradise of pleasure, to till the earth from which he was taken.
+
+
+ITEM 19
+MANUSCRIPT CONTEXT
+line 10: one thief house and [?] [?] from
+line 11: [TARGET] [?] [TARGET] many [?] end this holy
+line 12: gospel
+CITED PASSAGE
+Luke 19:45 And entering into the temple, he began to cast out them that sold therein and them that bought.
+Luke 19:46 Saying to them: It is written: My house is the house of prayer. But you have made it a den of thieves.
+John 2:15 And when he had made, as it were, a scourge of little cords, he drove them all out of the temple, the sheep also and the oxen: and the money of the changers he poured out, and the tables he overthrew.
+Matthew 24:2 And he answering, said to them: Do you see all these things? Amen I say to you, there shall not be left here a stone upon a stone that shall not be destroyed.
+
+
+ITEM 20
+MANUSCRIPT CONTEXT
+line 2: and exist grab [?] [?] evil from evil
+line 3: trespass [TARGET] and exist [?] [?] evil and go
+line 4: evil each,_every [?] [?] [?] how? [?] this somebody
+CITED PASSAGE
+Matthew 12:45 Then he goeth, and taketh with him seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is made worse than the first. So shall it be also to this wicked generation.
+Luke 11:27 And it came to pass, as he spoke these things, a certain woman from the crowd, lifting up her voice, said to him: Blessed is the womb that bore thee and the paps that gave thee suck.
+
+
+ITEM 21
+MANUSCRIPT CONTEXT
+line 5: light lamp hundred exist light [?] [?]
+line 6: end this [?] [?] [TARGET] [?] [?] have_mercy and righteous(ly)
+line 7: speak [?] God
+CITED PASSAGE
+Luke 11:33 No man lighteth a candle and putteth it in a hidden place, nor under a bushel: but upon a candlestick, that they that come in may see the light.
+
+
+ITEM 22
+MANUSCRIPT CONTEXT
+line 2: righteous(ly) people and believe inside Lord and inside [?] [?] many
+line 3: [TARGET] and [?] and friend angel and apostle [?] [?]
+line 4: amen [?] [?] this [?] [?] [?]
+CITED PASSAGE
+Luke 15:8 Or what woman having ten groats, if she lose one groat, doth not light a candle and sweep the house and seek diligently until she find it?
+
+
+ITEM 23
+MANUSCRIPT CONTEXT
+line 7: and shout Jew(ish) [?] [?]
+line 8: Jézus [TARGET] and shout [?] from [?]
+line 9: if Lord search Jew(ish) [?] shout [?]
+CITED PASSAGE
+John 18:1 When Jesus had said these things, he went forth with his disciples over the brook Cedron, where there was a garden, into which he entered with his disciples.
+John 18:2 And Judas also, who betrayed him, knew the place: because Jesus had often resorted thither together with his disciples.
+John 18:3 Judas therefore having received a band of soldiers and servants from the chief priests and the Pharisees, cometh thither with lanterns and torches and weapons.
+John 18:4 Jesus therefore, knowing all things that should come upon him, went forth and said to them: Whom seek ye?
+John 18:5 They answered him: Jesus of Nazareth. Jesus saith to them: I am he. And Judas also, who betrayed him, stood with them.
+John 18:6 As soon therefore as he had said to them: I am he; they went backward and fell to the ground.
+John 18:7 Again therefore he asked them: Whom seek ye? And they said: Jesus of Nazareth.
+John 18:8 Jesus answered: I have told you that I am he. If therefore you seek me, let these go their way,
+John 18:9 That the word might be fulfilled which he said: Of them whom thou hast given me, I have not lost any one.
+John 18:10 Then Simon Peter, having a sword, drew it and struck the servant of the high priest and cut off his right ear. And the name of thee servant was Malchus.
+John 18:11 Jesus therefore said to Peter: Put up thy sword into the scabbard. The chalice which my father hath given me, shall I not drink it?
+John 18:12 Then the band and the tribune and the servants of the Jews took Jesus and bound him.
+John 18:13 And they led him away to Annas first, for he was father-in-law to Caiphas, who was the high priest of that year.
+John 18:14 Now Caiphas was he who had given the counsel to the Jews: That it was expedient that one man should die for the people.
+John 18:15 And Simon Peter followed Jesus: and so did another disciple. And that disciple was known to the high priest and went in with Jesus into the court of the high priest.
+John 18:16 But Peter stood at the door without. The other disciple therefore, who was known to the high priest, went out and spoke to the portress and brought in Peter.
+John 18:17 The maid therefore that was portress saith to Peter: Art not thou also one of this man's disciple? He saith I am not.
+John 18:18 Now the servants and ministers stood at a fire of coals, because it was cold, and warmed themselves. And with them was Peter also, standing and warming himself.
+John 18:19 The high priest therefore asked Jesus of his disciples and of his doctrine.
+John 18:20 Jesus answered him: I have spoken openly to the world. I have always taught in the synagogue and in the temple, whither all the Jews resort: and in secret I have spoken nothing.
+John 18:21 Why askest thou me? Ask them who have heard what I have spoken unto them. Behold they know what things I have said.
+John 18:22 And when he had said these things, one of the servants standing by gave Jesus a blow, saying: Answerest thou the high priest so?
+John 18:23 Jesus answered him: If I have spoken evil, give testimony of the evil; but if well, why strikest thou me?
+John 18:24 And Annas sent him bound to Caiphas the high priest.
+John 18:25 And Simon Peter was standing and warming himself. They said therefore to him: Art not thou also one of his disciples? He denied it and said: I am not.
+John 18:26 One of the servants of the high priest (a kinsman to him whose ear Peter cut off) saith to him: Did not I see thee in the garden with him?
+John 18:27 Again therefore Peter denied: and immediately the cock crew.
+John 18:28 Then they led Jesus from Caiphas to the governor's hall. And it was morning: and they went not into the hall, that they might not be defiled, but that they might eat the pasch.
+John 18:29 Pilate therefore went out to them, and said: What accusation bring you against this man?
+John 18:30 They answered and said to him: If he were not a malefactor, we would not have delivered him up to thee.
+John 18:31 Pilate therefore said to them: Take him you, and judge him according to your law. The Jews therefore said to him: It is not lawful for us to put any man to death.
+John 18:32 That the word of Jesus might be fulfilled, which he said, signifying what death he should die.
+John 18:33 Pilate therefore went into the hall again and called Jesus and said to him: Art thou the king of the Jews?
+John 18:34 Jesus answered: Sayest thou this thing of thyself, or have others told it thee of me?
+John 18:35 Pilate answered: Am I a Jew? Thy own nation and the chief priests have delivered thee up to me. What hast thou done?
+John 18:36 Jesus answered: My kingdom is not of this world. If my kingdom were of this world, my servants would certainly strive that I should not be delivered to the Jews: but now my kingdom is not from hence.
+John 18:37 Pilate therefore said to him: Art thou a king then? Jesus answered: Thou sayest that I am a king. For this was I born, and for this came I into the world; that I should give testimony to the truth. Every one that is of the truth heareth my voice.
+John 18:38 Pilate saith to him: What is truth? And when he said this, he went out again to the Jews and saith to them: I find no cause in him.
+John 18:39 But you have a custom that I should release one unto you at the Pasch. Will you, therefore, that I release unto you the king of the Jews?
+John 18:40 Then cried they all again, saying: Not this man, but Barabbas. Now Barabbas was a robber.
+
+
+ITEM 24
+MANUSCRIPT CONTEXT
+line 5: exist [?] [?] and [?] and time [?]
+line 6: [?] heaven because see hide_oneself each,_every [TARGET] darkness [?]
+line 7: and time [?] [?] heaven and go.
+CITED PASSAGE
+Luke 1:28 And the angel being come in, said unto her: Hail, full of grace, the Lord is with thee: blessed art thou among women.
+Luke 1:34 And Mary said to the angel: How shall this be done, because I know not man?
+
+
+ITEM 25
+MANUSCRIPT CONTEXT
+line 4: land [?] [?] righteous(ly) son living God [?]
+line 5: [?] Nicodemus [?] [TARGET] [?] you.
+line 6: speak and somebody [?] exist [?] believe [?] two.
+CITED PASSAGE
+John 3:3 Jesus answered and said to him: Amen, amen, I say to thee, unless a man be born again, he cannot see the kingdom of God.
+John 3:4 Nicodemus saith to him: How can a man be born when he is old? Can he enter a second time into his mother's womb and be born again?
+
+
+ITEM 26
+MANUSCRIPT CONTEXT
+line 6: sad(ly) to people [?] [?] [?] believe because foresee Lord
+line 7: Jézus [?] [?] people go each,_every [TARGET] [?]
+line 8: [?] [?] heaven Jerusalem end this learn [?]
+CITED PASSAGE
+John 11:35 And Jesus wept.
+
+
+ITEM 27
+MANUSCRIPT CONTEXT
+line 1: [?] this heavenly servant [TARGET]
+line 2: remit indebted and God somebody [?]
+CITED PASSAGE
+Matthew 18:30 And he would not: but went and cast him into prison, till he paid the debt.
+Matthew 18:31 Now his fellow servants seeing what was done, were very much grieved, and they came, and told their lord all that was done.
+Matthew 18:32 Then his lord called him: and said to him: Thou wicked servant, I forgave thee all the debt, because thou besoughtest me:
+Matthew 18:33 Shouldst not thou then have had compassion also on thy fellow servant, even as I had compassion on thee?
+Matthew 18:34 And his lord being angry, delivered him to the torturers until he paid all the debt.
+
+
+ITEM 28
+MANUSCRIPT CONTEXT
+line 8: [?] Lord [?] [?] [?]
+line 9: through stay thirty year and [TARGET] and literal
+CITED PASSAGE
+Luke 24:36 Now, whilst they were speaking these things, Jesus stood in the midst of them and saith to them: Peace be to you. It is I: Fear not.
+Luke 24:37 But they being troubled and frightened, supposed that they saw a spirit.
+Luke 24:38 And he said to them: Why are you troubled, and why do thoughts arise in your hearts?
+Luke 24:39 See my hands and feet, that it is I myself. Handle, and see: for a spirit hath not flesh and bones, as you see me to have.
+Luke 24:40 And when he had said this, he shewed them his hands and feet.
+Luke 24:41 But while they yet believed not and wondered for joy, he said: Have you here any thing to eat?
+
+
+ITEM 29
+MANUSCRIPT CONTEXT
+line 7: [?] [?] wound and say [?] Thomas [?]
+line 8: from and somebody see [?] believe to and [TARGET]
+line 9: [?] and food see [?] believe end this [?]
+CITED PASSAGE
+John 20:26 And after eight days, again his disciples were within, and Thomas with them. Jesus cometh, the doors being shut, and stood in the midst and said: Peace be to you.
+John 20:27 Then he said to Thomas: Put in thy finger hither and see my hands. And bring hither the hand and put it into my side. And be not faithless, but believing.
+John 20:28 Thomas answered and said to him: My Lord and my God.
+John 20:29 Jesus saith to him: Because thou hast seen me, Thomas, thou hast believed: blessed are they that have not seen and have believed.
+
+
+ITEM 30
+MANUSCRIPT CONTEXT
+line 4: evil exorcise hell evil [?] this king
+line 5: Lord Christ each,_every [?] this [TARGET] somebody suffering
+line 6: [?] [?] [?] if king indebted sin
+CITED PASSAGE
+Matthew 18:32 Then his lord called him: and said to him: Thou wicked servant, I forgave thee all the debt, because thou besoughtest me:
+Matthew 18:33 Shouldst not thou then have had compassion also on thy fellow servant, even as I had compassion on thee?
+Matthew 18:34 And his lord being angry, delivered him to the torturers until he paid all the debt.
+Matthew 18:35 So also shall my heavenly Father do to you, if you forgive not every one his brother from your hearts.
+
+
+ITEM 31
+MANUSCRIPT CONTEXT
+line 4: [?] grab this cut_off and [?] out(ward)
+line 5: way [TARGET] [?] [?] and somebody exist
+line 6: inside [?] stay and [?] exist
+CITED PASSAGE
+John 15:1 I am the true vine: and my Father is the husbandman.
+John 15:2 Every branch in me that beareth not fruit, he will take away: and every one that beareth fruit, he will purge it, that it may bring forth more fruit.
+John 15:3 Now you are clean, by reason of the word which I have spoken to you.
+John 15:4 Abide in me: and I in you. As the branch cannot bear fruit of itself, unless it abide in the vine, so neither can you, unless you abide in me.
+John 15:5 I am the vine: you the branches. He that abideth in me, and I in him, the same beareth much fruit: for without me you can do nothing.
+
+
+ITEM 32
+MANUSCRIPT CONTEXT
+line 2: [?] know [?] sheep [?] [?] then
+line 3: exist one king and [?] have two [TARGET]
+line 4: one who home good [TARGET] [?] farm_hand
+line 5: [TARGET] and [?] from two [TARGET] [?] from one
+line 6: herd sheep this king and [?] go wolf
+line 7: this sheep and want this sheep [?]
+line 8: and this farm_hand [TARGET] from [TARGET] [?]
+line 9: this sheep [?] good [TARGET] home from [TARGET]
+line 10: redeem this sheep and sheep prepare inside herd
+CITED PASSAGE
+John 10:11 I am the good shepherd. The good shepherd giveth his life for his sheep.
+John 10:12 But the hireling and he that is not the shepherd, whose own the sheep are not, seeth the wolf coming and leaveth the sheep and flieth: and the wolf casteth and scattereth the sheep,
+John 10:13 And the hireling flieth, because he is a hireling: and he hath no care for the sheep.
+
+
+ITEM 33
+MANUSCRIPT CONTEXT
+line 5: God blind [?] blind and [?] and
+line 6: be_hungry and [TARGET] and [?] God blind and
+line 7: [?] [?] find servant each,_every [?]
+CITED PASSAGE
+Matthew 22:9 Go ye therefore into the highways; and as many as you shall find, call to the marriage.
+Matthew 22:10 And his servants going forth into the ways, gathered together all that they found, both bad and good: and the marriage was filled with guests.
+Luke 14:21 And the servant returning, told these things to his lord. Then the master of the house, being angry, said to his servant: Go out quickly into the streets and lanes of the city; and bring in hither the poor and the feeble and the blind and the lame.
+
+
+ITEM 34
+MANUSCRIPT CONTEXT
+line 3: [?] [?] purple_robe and Lord
+line 4: thorn [TARGET] [?] [?]
+line 5: and Lord sit [?] chair and
+CITED PASSAGE
+John 19:2 And the soldiers platting a crown of thorns, put it upon his head: and they put on him a purple garment.
+John 19:3 And they came to him and said: Hail, king of the Jews. And they gave him blows.
+
+
+ITEM 35
+MANUSCRIPT CONTEXT
+line 2: Jézus who(m)? search people [?] Jew(ish) and shout
+line 3: Jew(ish) [?] [TARGET] Jézus [?] and shout
+line 4: [?] from [?] if Lord search Jew(ish) and each,_every
+line 10: people [?] Jew(ish) and shout Jew(ish).
+line 11: [?] [TARGET] Jézus [?] and shout
+line 12: [?] from [?] if Lord search Jew(ish) and
+CITED PASSAGE
+John 18:4 Jesus therefore, knowing all things that should come upon him, went forth and said to them: Whom seek ye?
+John 18:5 They answered him: Jesus of Nazareth. Jesus saith to them: I am he. And Judas also, who betrayed him, stood with them.
+John 18:6 As soon therefore as he had said to them: I am he; they went backward and fell to the ground.
+John 18:7 Again therefore he asked them: Whom seek ye? And they said: Jesus of Nazareth.
+John 18:8 Jesus answered: I have told you that I am he. If therefore you seek me, let these go their way,
+
+
+ITEM 36
+MANUSCRIPT CONTEXT
+line 5: [?] amen in_turn [?] out(ward) [?] [?] somebody
+line 6: exist [TARGET] [?] [?] [?] [?] somebody
+line 7: [?] light somebody to this [?] light [?] lamp
+CITED PASSAGE
+Matthew 5:15 Neither do men light a candle and put it under a bushel, but upon a candlestick, that it may shine to all that are in the house.
+Matthew 5:16 So let your light shine before men, that they may see your good works, and glorify your Father who is in heaven.
+John 14:2 In my Father's house there are many mansions. If not, I would have told you: because I go to prepare a place for you.
+
+
+ITEM 37
+MANUSCRIPT CONTEXT
+line 5: God [?] [?] God can inside [?]
+line 6: [?] [TARGET] [?] [?] grab somebody
+line 7: inside [?] mouth speak [?] prophet write.
+CITED PASSAGE
+1Kings 18:36 And when it was now time to offer the holocaust, Elias, the prophet, came near and said: O Lord God of Abraham, and Isaac, and Israel, shew this day that thou art the God of Israel, and I thy servant, and that according to thy commandment I have done all these things.
+1Kings 18:37 Dear me, O Lord, hear me: that this people may learn that thou art the Lord God, and that thou hast turned their heart again.
+1Kings 18:38 Then the fire of the Lord fell, and consumed the holocaust, and the wood, and the stones, and the dust, and licked up the water that was in the trench.
+
+
+ITEM 38
+MANUSCRIPT CONTEXT
+line 1: son [TARGET] [?] [?] [?] son father [?]
+line 2: last year and [?] son father [?] and cursed
+CITED PASSAGE
+Luke 15:20 And rising up, he came to his father. And when he was yet a great way off, his father saw him and was moved with compassion and running to him fell upon his neck and kissed him.
+
+
+ITEM 39
+MANUSCRIPT CONTEXT
+line 1: [?] inside [TARGET] say [?] who do,
+line 2: [?] [?] this [?] [?] exist good
+CITED PASSAGE
+John 15:6 If any one abide not in me, he shall be cast forth as a branch and shall wither: and they shall gather him up and cast him into the fire: and he burneth.
+John 15:9 As the Father hath loved me, I also have loved you. Abide in my love.
+
+
+ITEM 40
+MANUSCRIPT CONTEXT
+line 1: and [?] somebody [?] go [?] Lord [TARGET] <preposition_of_genitive>
+line 2: somebody and [?] Lord each,_every Adam gain this somebody
+CITED PASSAGE
+Matthew 8:12 But the children of the kingdom shall be cast out into the exterior darkness: there shall be weeping and gnashing of teeth.
+John 14:2 In my Father's house there are many mansions. If not, I would have told you: because I go to prepare a place for you.

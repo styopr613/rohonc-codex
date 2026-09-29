@@ -1,10 +1,11 @@
-TEST 1: SOURCE TRACKING ON HELD-OUT FOLIOS
+TEST 1: SOURCE TRACKING ON EVIDENCE-EXCLUDED FOLIOS
+  selection-conditioned diagnostic; not an independent held-out test
   K&T ceiling   1717/6602 cited occurrences   26.0%   (617 signs)
 
-  tier   signs  held-out    hit    rate  shuffle    sd  sigma  vs ceiling
-  A+B      311       632    161   25.5%     5.5%  1.30   15.4         98%
-  C+D       32       130     47   36.2%    13.5%  3.92    5.8        139%
+  tier   signs  excluded    hit    rate  shuffle    sd  sigma  vs ceiling
+  A+B      100       367     91   24.8%     7.6%  1.83    9.4         95%
+  C+D       29       124     43   34.7%    12.1%  3.52    6.4        133%
 
-  BAR A+B: >= 5 sigma and >= 70% of ceiling  ->  PASS
-  BAR C+D: >= 3 sigma  ->  PASS
-  not reachable: guesses with no held-out cited folio 847
+  OLD BAR A+B: >= 5 sigma and >= 70% of ceiling  ->  PASS (reported; not a verdict)
+  OLD BAR C+D: >= 3 sigma  ->  PASS (reported; not a verdict)
+  not reachable: guesses with no evidence-excluded cited folio 847
