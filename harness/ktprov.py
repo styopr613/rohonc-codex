@@ -61,9 +61,16 @@ import ktvarcheck as V
 
 
 def classify(h, kt_hexes, mine_hexes):
-    """(class, why) for one proposed sign."""
+    """(class, why) for one proposed sign.
+
+    The pools are sets, and a sign can match more than one entry in a pool.
+    Until 2026-09-29 the first match was taken in set order, which Python
+    changes from run to run: the class never moved, but the entry named in
+    `why` did, and the testability block checks the frame against that entry,
+    so 'verified' came out 322, 323 or 329 on the same readings. The pools
+    are walked in sorted order now, so every run names the same entry."""
     g = N.glyphs(h)
-    for pool, name in ((kt_hexes, "KT-anchored"), (mine_hexes, "KT-chained")):
+    for pool, name in ((sorted(kt_hexes), "KT-anchored"), (sorted(mine_hexes), "KT-chained")):
         for hb in pool:
             if hb != h and len(h) >= 6 and h in hb:
                 return name, f"inside {hb}"
