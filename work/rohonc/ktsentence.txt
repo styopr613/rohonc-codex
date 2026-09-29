@@ -1,10 +1,10 @@
 TEST 5: OUR READINGS IN SENTENCES K&T TRANSLATED WHOLE
   sentences with a translation and a cite   172
-  our readings excluded as circular          610
+  our readings excluded as circular          611
   K&T ceiling   223/419 pairs   53.2%
 
   tier   signs  pairs  hit    rate  shuffle    sd  sigma  vs ceiling
-  A+B       23     35   30   85.7%     7.9%  5.55   14.0        161%
+  A+B       22     33   28   84.8%     5.9%  5.69   13.9        159%
          misses: 060060060060060(fiv), 27d(ghost/giv), 646(pierc), a10af9670(redeem), 060060060(thr)
   C+D        0
   G          0

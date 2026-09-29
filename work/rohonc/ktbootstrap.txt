@@ -9,6 +9,6 @@ TEST 8: BOOTSTRAP FROM A RANDOM 30% OF THE WORDS  (seed 20260921)
 
   STAGE 2  the hidden 862 signs filled from the slot the seed brackets
     true passages       filled  27.3%   recovered   1.0%
-    predicted passages  filled  51.5%   recovered   0.6%
+    predicted passages  filled  51.2%   recovered   0.6%
     seed shuffled       recovered   0.1%  (sd 0.06)   15.3 sigma
     BAR: >= 5 sigma  ->  PASS

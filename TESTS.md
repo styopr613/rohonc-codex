@@ -106,7 +106,7 @@ carries a dozen lines.
     K&T's own words                          1717 / 6602     26.0%
 
     tier   signs  held-out   rate   shuffle   sigma   vs K&T
-    A+B      311       637  25.9%     5.7%    15.4     100%    PASS
+    A+B      311       632  25.5%     5.5%    15.4      98%    PASS
     C+D       32       130  36.2%    13.5%     5.8     139%    PASS
 
 On folios that played no part in choosing them, the readings land in the
@@ -121,14 +121,14 @@ K&T's dictionary quotes 172 example sentences from the codex with their own
 English and a folio cite. Those sentences contain signs they never glossed
 on their own, so their translation says what each such sign means there, in
 their words, before this project existed. Every reading whose evidence so
-much as mentions them is excluded as circular — 610 of them. Control:
+much as mentions them is excluded as circular — 611 of them. Control:
 glosses shuffled among the tested signs, twenty times. Ceiling: K&T's own
 headwords standing in the same sentences.
 
     K&T's own words echoed in their sentences    223 / 419    53.2%
 
     tier   signs  pairs   rate   shuffle   sigma   vs K&T
-    A+B       23     35  85.7%     7.9%    14.0    161%    PASS
+    A+B       22     33  84.8%     5.9%    13.9    159%    PASS
     C+D        0      0     —        —       —       —     none left to test
 
 The confirmed readings are echoed in their translations more often than
@@ -159,7 +159,7 @@ only if that folio is not named in its evidence.
 
     cited folios 299      K&T-only match total 1356
 
-    A+B, held out    670 signs   gain +58    shuffled -35.8 (sd 11.2)   8.3 sigma   PASS
+    A+B, held out    670 signs   gain +56    shuffled -36.0 (sd 11.0)   8.3 sigma   PASS
 
 ## Test 2 and 2b — part of speech from context: the instrument is no good
 
@@ -260,7 +260,7 @@ same method with the whole dictionary as anchors.
     K&T + ours       10.8%     1.8%      39.7%
     shuffled          0.7%     0.1%   (sd 0.29, 100 shuffles)
 
-    ours A-D vs shuffled   10.9 sigma   needed 5   PASS
+    ours A-D vs shuffled   10.8 sigma   needed 5   PASS
 
 The bar is met, and the history of this line has to be told, because the
 verdict on it changed. The first run, on the readings as they stood before
@@ -270,8 +270,8 @@ ten shuffles it gave 8.4. The presence figure had barely moved, 3.7% to
 3.6%; what moved was the standard deviation of ten shuffles, 0.67 to 0.36.
 Ten was too few to hold a control still, so the shuffle count was raised to
 a hundred, declared in the script before it ran, with the bar left at 5. The
-hundred-shuffle control gave 10.3 sigma, and gives 10.9 on the readings of 28
-September. All three runs are kept
+hundred-shuffle control gave 10.3 sigma, 10.9 on the readings of 28
+September, and 10.8 on those of 29 September. All three runs are kept
 (`ktrecover_v2_prevariantfix.txt`, `ktrecover_v3_tenshuffles.txt`,
 `ktrecover.txt`). What the table also says: with our readings alone, nine
 lines in ten have nothing that matches the passage, so there is nothing to
@@ -303,7 +303,7 @@ windows first with the rarest candidate, make the fills anchors, go round
 again.
 
     true passages        filled 27.3%   recovered  1.0%
-    predicted passages   filled 51.5%   recovered  0.6%
+    predicted passages   filled 51.2%   recovered  0.6%
     seed shuffled                       recovered  0.1%   15.3 sigma   PASS
 
 Both bars pass and the absolute numbers are small. The seed carries real
@@ -438,20 +438,20 @@ same way, restricted like ours to first senses with a content word.
     K&T's own headwords, strict             167 / 329    50.8%
 
     tier   signs  pairs  strict   shuffle   sigma   loose (Test 5's rule)
-    A+B       23     35   77.1%     5.0%    12.3    85.7%
+    A+B       22     33   78.8%     4.8%    13.4    84.8%
 
     strict >= 40%                                  ok
     >= 3 sigma                                     ok
-    ours minus K&T's headwords  +26.4 points       FAIL   (bar: at most +10)
+    ours minus K&T's headwords  +28.0 points       FAIL   (bar: at most +10)
 
-    matched on gloss length and sign frequency: K&T 51.1%, ours +26.0 points
+    matched on gloss length and sign frequency: K&T 54.2%, ours +24.6 points
 
 Then the independent re-glosser. The 38 sentences were sent to two outside
 models with each sentence in K&T's words only, the sign in question
 blanked, and K&T's English — our glosses not in the file — and each was
 asked what the blank must mean. Their answers are scored against that sheet
 of 38, kept as `work/rohonc/outside/reglosser_key.json`, not against the
-pairs today's readings give (the strict table above now has 35).
+pairs today's readings give (the strict table above now has 33).
 
     reader             agree with ours   undetermined   agree among the determined
     Gemini 2.5 Pro        26 / 38  68.4%      7             83.9%
@@ -462,7 +462,7 @@ pairs today's readings give (the strict table above now has 35).
 Leakage check, same signs on cited folios that are neither in their
 evidence nor the folio of a K&T sentence, Test 1's measure:
 
-    11 signs   62 occurrences   24.2%   shuffle 15.1%   1.5 sigma   no verdict
+    10 signs   56 occurrences   19.6%   shuffle 14.5%   0.7 sigma   no verdict
 
 Read together: the glosses are the words K&T's translations imply, an
 outside reader recovers them from the sentence seven times in ten, and on
@@ -665,18 +665,41 @@ now kept (`reglosser_key.json`) and the answers are scored against it; the
 published 68.4% and 71.1% reproduce exactly. Tests 2, 3, 14, 15 and 16 did
 not move.
 
+## Six runs rerun — 2026-09-29
+
+The numeral three with the year-or-day sign had printed "three days" on all
+eighteen of its lines; it now prints "three", with "days" kept by hand on the
+seven lines that mean days. That moved six saved runs a little. Each was
+rerun on the readings as they stand, with the same seeds and the same bars,
+and the diff of every one was read before this was written. What moved:
+
+    test   figure                         before        after
+    1      A+B held-out rate / of K&T's    25.9% / 100%  25.5% / 98%
+    5      readings excluded as circular      610           611
+    5      A+B pairs / sigma / of K&T     35 / 14.0 / 161%  33 / 13.9 / 159%
+    6      A+B gain over the shuffle          +58           +56
+    7      recovery sigma, hundred shuffles  10.9          10.8
+    8      predicted passages filled         51.5%         51.2%
+    12     strict A+B / sigma             77.1% / 12.3  78.8% / 13.4
+    12     over K&T's own headwords       +26.4 points  +28.0 points
+    12     leakage check                  1.5 sigma     0.7 sigma
+
+No verdict changed. Test 12 still fails its leakage clause, by more. From
+this date the replay runs before every release rather than on every commit
+(see above).
+
 ## Summary
 
     The transcription every other test reads, checked against an independent one:
     Test 16 | a second, independent transcription | 91.1% of glyphs agree where both can be compared, against a 12.9% control, 458.5 sigma; 83.8% of the words identical | PASS
 
     The readings:
-    Test 1  | source presence, held-out folios | A+B 15.4 sigma; 100% of K&T's own rate | PASS
-    Test 5  | K&T's own sentence translations | A+B 14.0 sigma; 161% of K&T | PASS
+    Test 1  | source presence, held-out folios | A+B 15.4 sigma; 98% of K&T's own rate | PASS
+    Test 5  | K&T's own sentence translations | A+B 13.9 sigma; 159% of K&T | PASS
     Test 6  | word order, held-out folios | A+B 8.3 sigma | PASS
     Test 2  | part of speech from context | the instrument fails on K&T's own words (68.3% against a needed 70%; 4.7 sigma against a needed 5); the readings were never scored | NO VERDICT
     Test 3  | the blindfold, run clean | 4 of 24 strict, 16.7%; the declared band for that result was 15-30%, and its declared consequence, tier C passage readings become tier D, was applied | IN BAND
-    Test 7  | K&T's words removed | reads 11.6% from this project's readings alone, by design: the readings extend the dictionary. Recovery of a hidden K&T word: 10.9 sigma against a declared 5, on a hundred-shuffle control; the ten-shuffle runs gave 4.4 before the variant fix and 8.4 after, and all three are kept | PASS
+    Test 7  | K&T's words removed | reads 11.6% from this project's readings alone, by design: the readings extend the dictionary. Recovery of a hidden K&T word: 10.8 sigma against a declared 5, on a hundred-shuffle control; the ten-shuffle runs gave 4.4 before the variant fix and 8.4 after, and all three are kept | PASS
     Test 8  | bootstrap from a random 30% | passage 37.6 sigma (6.0% absolute); recovery 15.3 sigma (1.0% absolute) | PASS
     Test 9  | hidden 70% validated by the 30% | A+B 8.9 sigma; 125% of K&T's own rate | PASS
 
@@ -684,7 +707,7 @@ not move.
     Test 11 | passage map from K&T's words alone | median rank 25 of 1,334; top-1 12.7%; p 8e-29 | PASS
     Test 10 | the search replayed on null books | 7 / 217 / 2 signs kept at three scales; the count rule has no power at any, so it cannot tell a search from a decipherment | NO VERDICT
     Test 10, held out | the same runs, scored where the readings were not derived | real book 8 sigma over shuffle; null books none | reported, not a verdict
-    Test 12 | Test 5 rescored under the strict rule | 77.1%, 12.3 sigma; but +26.4 points over K&T's own headwords trips the declared leakage clause | FAIL on that clause
+    Test 12 | Test 5 rescored under the strict rule | 78.8%, 13.4 sigma; but +28.0 points over K&T's own headwords trips the declared leakage clause | FAIL on that clause
     Test 12b | two independent re-glossers, Gemini 2.5 Pro and Grok 4.7 | given K&T's words only and the sign blanked, they recover this project's gloss 68.4% and 71.1% of the time | PASS
     Test 13 | the underdetermination census | 62 of 95 A/B readings have a common verb present in every chapter their folios cite, against a bar of 40% | FAIL
     Test 13, the same rule | applied to the chosen glosses | 0 of the 95 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did | reported, not a verdict

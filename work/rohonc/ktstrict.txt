@@ -3,14 +3,14 @@ TEST 12: TEST 5 RESCORED, STRICT LEMMA RULE, FIRST SENSE ONLY
   K&T's own headwords   strict  50.8%   loose  63.8%
 
   tier   signs  pairs  strict  shuffle    sd  sigma   loose
-  A+B       23     35   77.1%     5.0%  5.85   12.3   85.7%
-         strict misses: 060060060ae1(three days), 060060060060060(five), 27d(give_up_the_ghost), 646(pierce), a10af9670(redeem), 060060060(three), 670ae0060788060270540(the Red Sea), 670ae0060788060270540(the Red Sea)
+  A+B       22     33   78.8%     4.8%  5.51   13.4   84.8%
+         strict misses: 060060060060060(five), 27d(give_up_the_ghost), 646(pierce), a10af9670(redeem), 060060060(three), 670ae0060788060270540(the Red Sea), 670ae0060788060270540(the Red Sea)
   C+D        0
   G          0
 
-  A+B strict 77.1%  (bar >= 40%)                      ok
-  A+B 12.3 sigma over the shuffle  (bar >= 3)          ok
-  A+B minus K&T's own headwords +26.4 points  (bar <= +10)   FAIL
+  A+B strict 78.8%  (bar >= 40%)                      ok
+  A+B 13.4 sigma over the shuffle  (bar >= 3)          ok
+  A+B minus K&T's own headwords +28.0 points  (bar <= +10)   FAIL
   BAR  ->  FAIL
 
   part 3a, K&T's headwords matched to ours by gloss length and sign frequency
@@ -19,9 +19,9 @@ TEST 12: TEST 5 RESCORED, STRICT LEMMA RULE, FIRST SENSE ONLY
     (1, 1)                                7        78       56.4%
     (1, 2)                                4       209       44.5%
     (2, 0)                                7         1        0.0%
-    (2, 1)                                2         4        0.0%
-    matched K&T strict rate 51.1%   ours 77.1%   difference +26.0 points   (reported; the bar above stands)
+    (2, 1)                                0         4        0.0%
+    matched K&T strict rate 54.2%   ours 78.8%   difference +24.6 points   (reported; the bar above stands)
 
   part 3b, leakage check: the same signs on folios that are neither in their evidence
     nor the folio of a K&T sentence; gloss stem in the cited passage (Test 1's measure)
-    signs 11   occurrences 62   hit 15   24.2%   shuffle 15.1% (sd 5.93)   1.5 sigma   (reported)
+    signs 10   occurrences 56   hit 11   19.6%   shuffle 14.5% (sd 7.07)   0.7 sigma   (reported)

@@ -13,6 +13,6 @@ TEST 7: WITHOUT K&T'S WORDS
     K&T + ours       10.8%    1.8%      39.7%    20.0
     shuffled          0.7%    0.1%   (sd 0.29, 100 shuffles)
 
-    ours A-D presence 3.8% vs shuffled 0.7%   10.9 sigma
+    ours A-D presence 3.8% vs shuffled 0.7%   10.8 sigma
     ours A-D reaches 35% of what the whole dictionary reaches (10.8%)
     BAR: >= 5 sigma  ->  PASS
