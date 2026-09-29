@@ -111,8 +111,7 @@ both can be compared.
 All of this was done with machine readers, and a skeptic can fairly discount
 some, but not all, of that. Some of the tests couldn't separate a true reading
 from one copied off Király and Tokai's translations, and two tests failed bars
-set in advance. One of them arguably measured the wrong thing; it stays
-a failure anyway, because a bar is not moved after the result. All of it is on the [tests page](/rohonc/tests.html), beside the passes. And
+set in advance. All of it is on the [tests page](/rohonc/tests.html), beside the passes. And
 the samples are small: the scrambled test and the memory check use 20
 pages, the wrong-passage test 38. The odds against chance are still
 long, but more pages would make them longer.
