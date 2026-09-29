@@ -584,6 +584,37 @@ same words on the wrong signs, never the chapter. Of the misses, four
 name the parallel telling of the same event, John 18 for Matthew 27,
 Mark 5 for Matthew 9, Acts 7 for Acts 6, and are counted as misses.
 
+## Test 17 — does Test 15's reader already know the answer?
+
+`harness/ktmemory.py` · `work/rohonc/ktmemory.txt` ·
+`work/rohonc/outside/memory/` (every prompt and reply, raw)
+
+Added 2026-09-29. Test 15's shuffle rules out a reader who finds the Bible
+in anything. It does not rule out memory. Király and Tokai published which
+passage many folios retell, and a model trained on that could recognise a
+page and recall the chapter; a remembered page is recognised only in its
+real order, so memory would also beat the shuffle. This asks the same
+model, same settings, the same twenty folios by number only, no page shown,
+which chapter each retells. Control: each answer scored against the other
+folios' cited chapters over 10,000 derangements.
+
+    answered (not null)          1 / 20
+    recall chapter hits          0 / 20
+    of Test 15's 9 hits, recalled by number  0
+
+    BAR: hits >= 3 and p < 0.01              NO MEMORY SHOWN
+
+    Test 15 rescored on the 20 folios not recalled:
+    real 9/20 45.0%   shuffled 0/20   Test 15's bar   PASS
+
+The model declined nineteen folios and gave 1 Corinthians 13 for the
+twentieth, which is wrong. It does not know which chapter goes with which
+folio, so Test 15's nine were not recalled by label, and Test 15 stands
+unchanged. What this cannot show is that the model knows nothing of K&T:
+it could fail to recall by number and still recognise a page's wording.
+Recall by label is the cheap and likely route, and it is closed. Cost
+$0.0013.
+
 ## Every run regenerated — 2026-09-22
 
 Before publication every deterministic test was rerun from scratch and
@@ -713,6 +744,7 @@ this date the replay runs before every release rather than on every commit
     Test 13, the same rule | applied to the chosen glosses | 0 of the 95 pass it. The rivals exist; the method did not choose them. The FAIL measures the rival space, not what the method did | reported, not a verdict
     Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS
     Test 15 | passage identification, outside reader | chapter level 9 of 20 against 0 of 20 shuffled; p 0.002 | PASS
+    Test 17 | memory check on Test 15's reader | asked by folio number with no page shown, it names 0 of 20 cited chapters and declines 19; Test 15's nine were not recalled by label | NO MEMORY SHOWN
 
     PASS and FAIL are verdicts on the readings against a bar declared before the run.
     NO VERDICT means the instrument failed its own check on Király and Tokai's words,

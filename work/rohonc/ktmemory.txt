@@ -1,0 +1,33 @@
+TEST 17: RECALL BY FOLIO NUMBER, TEST 15'S READER, NO PAGE SHOWN
+  reader deepseek/deepseek-v3.2; 20 folios; seed 20260929
+
+    200v  cited Matthew 21   recall null                         Test 15 -
+    081r  cited Acts 2    recall null                         Test 15 -
+    023r  cited John 4    recall null                         Test 15 -
+    069v  cited John 15   recall null                         Test 15 HIT
+    036r  cited John 18   recall null                         Test 15 -
+    190v  cited Luke 24   recall null                         Test 15 HIT
+    025r  cited Matthew 17   recall null                         Test 15 -
+    221r  cited Acts 9    recall null                         Test 15 HIT
+    171r  cited Mark 5    recall null                         Test 15 HIT
+    064v  cited John 10   recall null                         Test 15 HIT
+    105r  cited Deuteronomy 6    recall null                         Test 15 -
+    101r  cited 1Kings 18   recall null                         Test 15 -
+    217r  cited Acts 6    recall null                         Test 15 -
+    171v  cited Matthew 9    recall null                         Test 15 -
+    096v  cited John 6    recall null                         Test 15 HIT
+    095v  cited John 6    recall null                         Test 15 HIT
+    216r  cited Acts 7    recall null                         Test 15 -
+    101v  cited Luke 2    recall 1Corinthians 13              Test 15 HIT
+    092r  cited John 3    recall null                         Test 15 HIT
+    170r  cited Luke 8    recall null                         Test 15 -
+
+  answered (not null)          1 / 20
+  recall chapter hits          0 / 20
+  derangement control mean     0.00   p = 1.0000
+  of Test 15's 9 hits, recalled by number  0
+  BAR: hits >= 3 and p < 0.01  ->  NO MEMORY SHOWN
+
+  Test 15 rescored on the 20 folios not recalled:
+    real 9/20 45.0%   shuffled 0/20   sign test p = 1.95e-03   Test 15's bar -> PASS
+  cost $0.0013

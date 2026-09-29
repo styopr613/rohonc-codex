@@ -1,0 +1,28 @@
+{
+ "folio": "221r",
+ "reply": "```json\n{\"book\": \"null\", \"chapter\": null, \"confidence\": 0.0}\n```",
+ "usage": {
+  "prompt_tokens": 134,
+  "completion_tokens": 23,
+  "total_tokens": 157,
+  "cost": 7.52115e-05,
+  "is_byok": false,
+  "prompt_tokens_details": {
+   "cached_tokens": 0,
+   "cache_write_tokens": 0,
+   "audio_tokens": 0,
+   "video_tokens": 0
+  },
+  "cost_details": {
+   "upstream_inference_cost": 7.52115e-05,
+   "upstream_inference_prompt_cost": 4.9647e-05,
+   "upstream_inference_completions_cost": 2.55645e-05
+  },
+  "completion_tokens_details": {
+   "reasoning_tokens": 0,
+   "image_tokens": 0,
+   "audio_tokens": 0
+  }
+ },
+ "prompt": "The Rohonc Codex is a manuscript of 448 pages in an undeciphered script, kept in Budapest. Király and Tokai (Cryptologia, 2018) and later work identified many of its pages as retelling particular passages of the Bible.\n\nWhich passage of the Bible does folio 221r of the Rohonc Codex (page 441 of 448) retell? Answer from what you know about this manuscript. If you do not know, give null for the book.\n\nAnswer ONLY with JSON: {\"book\": \"...\", \"chapter\": n, \"confidence\": 0.0 to 1.0}\n"
+}
