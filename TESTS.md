@@ -632,8 +632,11 @@ stretch: readings changed on 25 September (two readings corrected, commit
 dictionary cites was decided by hand and 50 of this project's readings were
 replaced by theirs, and the saved runs were not rewritten. `check_tests.py`
 did not notice, because it checks that each figure here stands in its saved
-run, not that the run still comes out of the program. The replay now runs as
-a gate on every build.
+run, not that the run still comes out of the program. The replay was made a
+gate on every build that day. On 29 September it was moved to release time:
+it runs before every release, and a failing run is rerun and carried here
+before the tag. Between releases a saved run can lag the readings; in a
+published version it cannot.
 
 All fifteen were rerun on the readings as they stand, with the same seeds
 and the same bars. The earlier files are kept in the session's backups, and

@@ -4,8 +4,15 @@ check_tests.py checks that each figure TESTS.md prints stands in its saved
 run. It cannot see a saved run that no longer reproduces, and from 25 to 28
 September fifteen of twenty did not: the readings changed and the runs were
 not rewritten (TESTS.md, "Every run regenerated again"). This runs the replay
-on every commit and every push, under one hash seed; the full two-seed replay
-is `python3 harness/reproduce_tests.py`.
+under one hash seed; the full two-seed replay is
+`python3 harness/reproduce_tests.py`.
+
+When it runs. From 2026-09-28 it ran on every commit and push (gates.txt).
+On 2026-09-29 the owner moved it to release time: a reading fix that moves a
+test's figures slightly may be committed, and the /release skill runs this
+before any tag, reruns every failing run on its declared seeds and bars, and
+carries each moved figure into TESTS.md. A release is where the runs must
+match the book, because that is what people download.
 
 The bar is ZERO saved runs that fail to reproduce, declared here before this
 gate first ran.

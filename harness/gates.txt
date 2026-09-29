@@ -1,6 +1,9 @@
 # The gates, in one place, read by ktcommit.sh and ktpush.sh.
 # Two scripts with two hand-kept lists is the drift this project keeps paying
 # for. One list. Add a gate here and both run it.
+# check_replay.py is NOT here (owner's decision, 2026-09-29): it runs at release
+# time, from the /release skill. A reading fix may commit while saved test runs
+# lag; no release goes out until every run reproduces and TESTS.md is carried.
 gate.py
 check_results.py
 check_rohonc.py
@@ -8,4 +11,4 @@ ktretellcheck.py
 ktnotecheck.py
 check_tests.py
 ktatlascheck.py
-check_replay.py
+ktrecount.py

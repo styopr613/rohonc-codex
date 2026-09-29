@@ -457,13 +457,13 @@ words. There are 981 of them now.
 
 ## 018r — Gabriel: Hail, full of grace
 
-> Five months, until the offering in the temple, the blessed Virgin Mary. And then Mary was in [the temple] three days; from the beginning she went and hid in the temple. […] and said […] that Mary would keep her virginity | Of Mary, created. For ever and ever, amen. And then Mary was twelve, the feast, and … three days; and at that time opened the Father of heaven, because he saw hidden every world, darkness, the sky. And at that time the Father of heaven opened, and went. the Lord's angel Gabriel, in the temple, to the blessed Virgin Mary. Saint Luke writes chapter in his writing: at that time the angel said, Gabriel: Hail, this Virgin Mary, full of grace! Out, the Lord God, Mary. And said this Virgin Mary: How can this be, this maiden knowing not … this maiden? … this maiden wants, the Virgin Mary, to keep … of the maiden, created … For ever and ever, amen. And the angel Gabriel said [to] Mary:
+> [Five] months, until the offering in the temple, the blessed Virgin Mary. And then Mary was [at] three [years] in the temple; from the beginning she went and hid in the temple. […] and said […] that Mary would keep her virginity | Of Mary, created. For ever and ever, amen. And then Mary was twelve, the feast, and … three days; and at that time opened the Father of heaven, because he saw hidden every world, darkness, the sky. And at that time the Father of heaven opened, and went. the Lord's angel Gabriel, in the temple, to the blessed Virgin Mary. Saint Luke writes chapter in his writing: at that time the angel said, Gabriel: Hail, this Virgin Mary, full of grace! Out, the Lord God, Mary. And said this Virgin Mary: How can this be, this maiden knowing not … this maiden? … this maiden wants, the Virgin Mary, to keep … of the maiden, created … For ever and ever, amen. And the angel Gabriel said [to] Mary:
 
   1  half-ten moon until offering inside temple blessed^ Virgin_Mary
-  2  and then Mary exist inside three_days from begin go-hide-this inside temple
+  2  and then Mary exist inside three from begin go-hide-this inside temple
   3  [?]-+one and say [?]-+one this-Mary want virgin-carry | of
   4  Mary create for_ever_and_ever = amen and then Mary
-  5  exist six-six feast and [?]-+three_days and time open
+  5  exist six-six feast and [?]-+three and time open
   6  the_Father heaven because see hide every world darkness sky.
   7  and time open the_Father heaven and go.
   8  of-Lord angel Gabriel inside temple blessed the_Virgin_Mary*
@@ -575,9 +575,9 @@ words. There are 981 of them now.
 
 ## 021v — the flight into Egypt, and the eighth day
 
-> At that time then, a fast, on the birth of the Lord Jesus Christ, three days, at that time the angel Gabriel said to the aged Joseph: Rise up, and take this son and his mother, this son […] and flee into Egypt, and go, all this, begin [by night]; out of Egypt [into] this; the angel [appeared] said day [Herod] Here ends this holy gospel. At that time rose up the aged | Joseph [arise] and took the Lord Jesus Christ and his mother, and five days passed; then | [the Son, and the aged Joseph, and the holy mother Mary] year, Joseph, chapter; [they] went into Jerusalem town, that is, when was born the Lord Jesus Christ; on the eighth year, at that time, the son was circumcised, and the son was named Jesus. And this Lord Jesus first man, the Lord's blood shed; and then the Lord. circumcised the Lord Jesus in the Jerusalem temple; and fled Mary his mother the Holy Spirit and Joseph
+> At that time then, a fast, on the birth of the Lord Jesus Christ, three, at that time the angel Gabriel said to the aged Joseph: Rise up, and take this son and his mother, this son […] and flee into Egypt, and go, all this, begin [by night]; out of Egypt [into] this; the angel [appeared] said day [Herod] Here ends this holy gospel. At that time rose up the aged | Joseph [arise] and took the Lord Jesus Christ and his mother, and five days passed; then | [the Son, and the aged Joseph, and the holy mother Mary] year, Joseph, chapter; [they] went into Jerusalem town, that is, when was born the Lord Jesus Christ; on the eighth year, at that time, the son was circumcised, and the son was named Jesus. And this Lord Jesus first man, the Lord's blood shed; and then the Lord. circumcised the Lord Jesus in the Jerusalem temple; and fled Mary his mother the Holy Spirit and Joseph
 
-  1  time then fast on-be_born Lord-Jesus-Christ three_days
+  1  time then fast on-be_born Lord-Jesus-Christ three
   2  time say angel Gabriel aged Joseph
   3  stand_up up and take^ this son and of this son mother.
   4  and escape inside Egypt and go every this begin [by_night]
@@ -594,7 +594,7 @@ words. There are 981 of them now.
 
 ## 022r — Egypt, and the twelve
 
-> into the land of Egypt; and [dwelt]; and the Lord went Joseph in the land of Egypt, into every city [idols] […] evil fell, bowed down; and | … mother … Joseph. [arise]; die … from Joseph; they remained in Egypt twelve years. at that time the angel Gabriel said Joseph Flee into the land of Egypt, into Nazareth city. And … mother … Joseph … left for Nazareth. [in that] town twelve years; and five; and this [returned] table twenty, two, nine years. Here ends this holy gospel. One day; he called twelve apostles; and three days preached; and | who, this and this miracle did: the blind eye the Lord, through light; the dead the Lord resurrects; the evil among the people the Lord drives out.
+> into the land of Egypt; and [dwelt]; and the Lord went Joseph in the land of Egypt, into every city [idols] […] evil fell, bowed down; and | … mother … Joseph. [arise]; die … from Joseph; they remained in Egypt twelve years. at that time the angel Gabriel said Joseph Flee into the land of Egypt, into Nazareth city. And … mother … Joseph … left for Nazareth. [in that] town twelve years; and five; and this [returned] table twenty, two, nine years. Here ends this holy gospel. One day; he called twelve apostles; and three years preached; and | who, this and this miracle did: the blind eye the Lord, through light; the dead the Lord resurrects; the evil among the people the Lord drives out.
 
   1  inside Egypt earth and [dwelt] and go Lord Joseph
   2  on-Egypt earth inside every town [idols] hell.
@@ -605,7 +605,7 @@ words. There are 981 of them now.
   7  and [?]-mother-+Joseph-chapter leave Nazareth.
   8  town six-six-year and five and this [returned] table
   9  ten-ten-two-nine-year here_ends this holy_gospel one
- 10  day call six-six apostle and three_days preach and | who-this
+ 10  day call six-six apostle and three_years preach and | who-this
  11  and-this miracle ~do eye blind SUBJ Lord through
  12  light die SUBJ Lord resurrect evil inside people exorcise-Lord
 
@@ -1900,14 +1900,14 @@ words. There are 981 of them now.
 
 ## 065r — beware of false prophets
 
-> Here ends this holy gospel. Written by holy Matthew in the last of his writing. time | then of the day of Lord Jesus Christ, thirty, three days. At that time Lord Jesus said to the Lord's apostles: [they] go to you in sheep's clothing false prophets, pagan, evil [clothing] they are pagan evil, the Lord's trespass [ravening wolves] mouth the apostles, men, and pagan, evil clothes, because they are false | of
+> Here ends this holy gospel. Written by holy Matthew in the last of his writing. time | then of the day of Lord Jesus Christ, thirty-three [years]. At that time Lord Jesus said to the Lord's apostles: [they] go to you in sheep's clothing false prophets, pagan, evil [clothing] they are pagan evil, the Lord's trespass [ravening wolves] mouth the apostles, men, and pagan, evil clothes, because they are false | of
 
   1  here_ends this holy_gospel
   2  write holy-Matthew
   3  inside seven of-write
   4  time | then
   5  day Lord-Jesus-Christ
-  6  thirty three_days
+  6  thirty three
   7  time say Lord-Jesus
   8  apostle of-Lord go to-you in_sheep's clothing
   9  false prophet pagan evil [clothing] exist pagan
@@ -2248,11 +2248,11 @@ words. There are 981 of them now.
 
 ## 076r — how oft shall my brother sin against me
 
-> [afterward] to the apostles many said say written [holy Paul] apostolic letter in the first chapter of his writing. At that time, then, the Lord Jesus Christ in the thirtieth year, and three days, and five months, and three days, at time, the apostles left, under the Lord Jesus; and then holy Peter: Master, the high will this Peter forgive [how often]? is Peter [then]. And then the Lord Jesus Christ: Peter, Peter, | in turn who one […] dry, one year, commits sin, somebody against this Peter; forgive, the man, if the man goes to mercy, asks mercy, the man receives sun goes […] the man of mercy; and cried to Lord Jesus Christ
+> [afterward] to the apostles many said say written [holy Paul] apostolic letter in the first chapter of his writing. At that time, then, the Lord Jesus Christ at thirty years and three, and five months, and three [days], at time, the apostles left, under the Lord Jesus; and then holy Peter: Master, the high will this Peter forgive [how often]? is Peter [then]. And then the Lord Jesus Christ: Peter, Peter, | in turn who one […] dry, one year, commits sin, somebody against this Peter; forgive, the man, if the man goes to mercy, asks mercy, the man receives sun goes […] the man of mercy; and cried to Lord Jesus Christ
 
   1  [afterward] to-apostle many say say write [holy_Paul] apostolic_letter
   2  inside one chapter of-write time then Lord-Jesus-Christ
-  3  inside thirty year and three_days and five moon and three_days inside
+  3  inside thirty year and three and five moon and three inside
   4  time leave apostle under Lord-Jesus and_said holy-Peter
   5  Master want-high this-Peter forgive^ [how_often] exist Peter
   6  [then] and_said Lord-Jesus-Christ Peter Peter | in_turn
@@ -5549,7 +5549,7 @@ words. There are 981 of them now.
 
 ## 190r — the week of the Passion, day by day
 
-> the Lord, five baked bread, five thousand people; then the Lord within thirty-three and a half [years], from Galilee through the Red Sea to one mount; on a Sunday the Lord was going, the Lord, to suffer within Jerusalem; then the Lord within thirty [and a] half, three [years]; on the Monday the Lord preached many a miracle; in turn on the Tuesday the Lord stood up and raised Lazarus from the tomb; in turn on the Wednesday the Lord, but was Judas, sold for thirty silver [pieces]; in turn Thursday, the dinner, the Lord did; and captured the Lord; in turn Friday the cross […]; and the evil one was bound; in turn on the Saturday, hell
+> the Lord, five baked bread, five thousand people; then the Lord within thirty-three and a half [years], from Galilee through the Red Sea to one mount; on a Sunday the Lord was going, the Lord, to suffer within Jerusalem; then the Lord within thirty- three and a half [years]; on the Monday the Lord preached many a miracle; in turn on the Tuesday the Lord stood up and raised Lazarus from the tomb; in turn on the Wednesday the Lord, but was Judas, sold for thirty silver [pieces]; in turn Thursday, the dinner, the Lord did; and captured the Lord; in turn Friday the cross […]; and the evil one was bound; in turn on the Saturday, hell
 
   1  Lord five baked bread five_thousand people
   2  then-Lord inside thirty half three from Galilee
@@ -5635,11 +5635,11 @@ words. There are 981 of them now.
 
 ## 193r — Simeon carries the news to the fathers in hell
 
-> ever, amen. Here ends this holy gospel. The Lord God love this. out [of] Moses, truly, within one chapter, who is written, written: holy Simeon, three days on this world, Simeon went away, said: Christ, the apostles of the Lord announce; Simeon within the netherworld, the holy fathers, | on the coming of the Lord: and see, you are saved, and many judge are within the netherworld, from the forefathers and the holy prophets. Written; and from the holy gospel, that is, […] down, the Lord; I, the holy gospel: I [the] grape on the water created; I [gave] the blind light through; I cast the evil out of the people; I [raised] the dead, rise, resurrect; various lepers the Lord healed; I, the cross, the holy gospel.
+> ever, amen. Here ends this holy gospel. The Lord God love this. out [of] Moses, truly, within one chapter, who is written, written: holy Simeon, three on this world, Simeon went away, said: Christ, the apostles of the Lord announce; Simeon within the netherworld, the holy fathers, | on the coming of the Lord: and see, you are saved, and many judge are within the netherworld, from the forefathers and the holy prophets. Written; and from the holy gospel, that is, […] down, the Lord; I, the holy gospel: I [the] grape on the water created; I [gave] the blind light through; I cast the evil out of the people; I [raised] the dead, rise, resurrect; various lepers the Lord healed; I, the cross, the holy gospel.
 
   1  ever amen here_ends this holy_gospel Lord_God SUBJ love this EOL
   2  out Moses righteous inside one chapter who exist write write EOL
-  3  holy-Simeon three_days on-this world go_away-Simeon say Christ apostle EOL
+  3  holy-Simeon three on-this world go_away-Simeon say Christ apostle EOL
   4  of-Lord announce SUBJ Simeon inside netherworld holy-the_father | on-+EOL
   5  ~be_born of-Lord and see be_saved you and many EOL
   6  judge-+SUBJ exist inside netherworld from forefather and prophet-holy. EOL
@@ -5707,7 +5707,7 @@ words. There are 981 of them now.
 
 ## 195v — he shall come to judge the quick and the dead
 
-> to the Lord's Father, on the heavenly kingdom; | sat down the Lord, the Father, on the right; from there has the Lord [to] go, the Lord, to judge the living and the dead; and before the ascension he blessed all the whole world. This holy gospel begins, written by holy Matthew | [sixteen] the fourth chapter of the writing: the time, then, | the Lord Jesus, thirty [and a] half, three; at that time said the disciples [to] the Lord Jesus: Master, who is to the Lord, he, on Holy, within heaven's
+> to the Lord's Father, on the heavenly kingdom; | sat down the Lord, the Father, on the right; from there has the Lord [to] go, the Lord, to judge the living and the dead; and before the ascension he blessed all the whole world. This holy gospel begins, written by holy Matthew | [sixteen] the fourth chapter of the writing: the time, then, | the Lord Jesus, thirty-three and a half [years]; at that time said the disciples [to] the Lord Jesus: Master, who is to the Lord, he, on Holy, within heaven's
 
   1  to-of-Lord the_Father on-heaven kingdom^ | sit_down
   2  Lord the_Father on-right from_there have-Lord go-Lord judge
@@ -6089,7 +6089,7 @@ words. There are 981 of them now.
 
 ## 209r — from Adam to Abraham to Moses
 
-> heaven land; and these three commandments the Lord God confirmed [to] Moses by the Lord's angel; the time, then, from Adam, trespass. until Abraham, one hundred years and […] years; from Abraham out until Moses, fifteen hundred and fifty; from Abraham until Moses, the time the Lord God first confirmed to Moses by the Lord's angel; and God's angel said: Moses, because of this, teach, Moses, this people the three commandments of the Lord; because this, the people believe one
+> heaven land; and these three commandments the Lord God confirmed [to] Moses by the Lord's angel; the time, then, from Adam, trespass. until Abraham, one hundred years and […] years; from Abraham out until Moses, [fifteen hundred] and fifty; from Abraham until Moses, the time the Lord God first confirmed to Moses by the Lord's angel; and God's angel said: Moses, because of this, teach, Moses, this people the three commandments of the Lord; because this, the people believe one
 
   1  heaven land and this three commandment confirm Lord_God Moses
   2  on-angel of-Lord time then from ~Adam ~trespass.
@@ -6574,10 +6574,10 @@ words. There are 981 of them now.
 
 ## 223r — more of the same table
 
-> the day the earth quaked, out, the first Spirit, Friday; and the years and three days of God, from the Spirit, four years [a wind] from the Spirit [shall come] the earth quaked, and the moon in turn on; and the year half the father, our [heaven] from [render] somebody; and [within] in truth believing, the Lord bears the man [shall be saved] believeth not; and this, every one, therefore have mercy, man [shall perish] and the man would, Christ, against, leave; the man, God, learn, the throne [shall be fulfilled] wants somebody [shall sit], the Lord's throne [shall be saved], righteous of the Lord.
+> the day the earth quaked, out, the first Spirit, Friday; and the years and three of God, from the Spirit, four years [a wind] from the Spirit [shall come] the earth quaked, and the moon in turn on; and the year half the father, our [heaven] from [render] somebody; and [within] in truth believing, the Lord bears the man [shall be saved] believeth not; and this, every one, therefore have mercy, man [shall perish] and the man would, Christ, against, leave; the man, God, learn, the throne [shall be fulfilled] wants somebody [shall sit], the Lord's throne [shall be saved], righteous of the Lord.
 
   1  day SUBJ earth quake out first
-  2  spirit Friday and years* and three_days God from spirit two-two-year
+  2  spirit Friday and years* and three God from spirit two-two-year
   3  [a_wind] from spirit [shall_come] earth quake and moon
   4  in_turn on and year SUBJ half
   5  the_father our [heaven] from [render] somebody and

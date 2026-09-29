@@ -42,17 +42,59 @@ def live():
     words = int(re.search(r"^words\s+(\d+)", kt, re.M).group(1))
     guessed = int(re.findall(r"GUESSED here \(tier G\)\s+(\d+)", kt)[-1])
     noread = int(re.findall(r"no reading\s+(\d+)", kt)[-1])
-    return dict(folios=folios, signs=sum(tiers.values()), a=tiers["A"],
+    return dict(folios=folios, signs=sum(tiers.values()), a=tiers["A"], tiers=tiers,
                 ptok=int(prop[0]), ppct=float(prop[1]),
                 flines=int(full[0]), fpct=float(full[1]),
                 cpct=float(comp[1]),
                 rpct=round(100.0 * (words - guessed - noread) / words, 1))
 
 
-def sub(text, pattern, repl, name, changes):
+def prov():
+    """Run ktprov.py, save it as work/rohonc/ktprov.txt, return its figures.
+
+    Added 2026-09-29. CONCLUSION's two provenance blocks (the rendering word
+    by word, and the non-guess readings by where they came from) were typed
+    by hand from a ktprov run and never regenerated: they said 5 words with
+    no reading where the run said 51, and 514 anchored where it said 508.
+    """
+    import subprocess
+    out = subprocess.run([sys.executable, os.path.join(HERE, "ktprov.py")],
+                         cwd=HERE, text=True, capture_output=True).stdout
+    open(os.path.join(WORK, "ktprov.txt"), "w", encoding="utf-8").write(out)
+    def row(label):
+        m = re.search(r"^\s*" + re.escape(label) + r"\s+(\d+)\s+([\d.]+)%", out, re.M)
+        return int(m.group(1)), float(m.group(2))
+    def signs(label):
+        m = re.search(r"^\s*" + re.escape(label) + r"\s+(\d+) signs", out, re.M)
+        return int(m.group(1))
+    of = re.search(r"of the KT-anchored: holds (\d+), one-glyph (\d+), inside (\d+)", out)
+    judged = int(re.search(r"judgments flagged in the evidence: (\d+)", out).group(1))
+    return dict(direct=row("KT-direct"), comp=row("by composition of read signs"),
+                anch=row("KT-anchored"), chain=row("KT-chained"), pas=row("passage"),
+                guess=row("guess"), none=row("no reading"),
+                s_anch=signs("KT-anchored"), s_chain=signs("KT-chained"), s_pas=signs("passage"),
+                holds=int(of.group(1)), glyph=int(of.group(2)), inside=int(of.group(3)),
+                judged=judged)
+
+
+def cell(line, n, pct=None):
+    """Rewrite the numeric tail of a table line, keeping its column widths."""
+    m = re.search(r"(\d[\d,]*)(\s+)([\d.]+%)\s*$", line) if pct is not None else re.search(r"(\d[\d,]*) signs(\s+)([\d.]+%)\s*$", line)
+    if not m:
+        return line
+    head = line[:m.start(1)]
+    num = f"{n:,}"
+    head = head[:max(len(head) - (len(num) - len(m.group(1))), 0)] if len(num) > len(m.group(1)) else head + " " * (len(m.group(1)) - len(num))
+    if pct is None:
+        return head + num + " signs" + m.group(2) + line[m.start(3):]
+    p = f"{pct:.1f}%"
+    return head + num + m.group(2) + " " * max(len(m.group(3)) - len(p), 0) + p
+
+
+def sub(text, pattern, repl, name, changes, fn=None):
     # A function replacement: re.sub would otherwise turn the '\\n' inside a
     # replacement into a real newline, which broke check_rohonc.py once.
-    new, n = re.subn(pattern, lambda m: repl, text)
+    new, n = re.subn(pattern, fn if fn else (lambda m: repl), text)
     if n == 0:
         print(f"  MISSING anchor for {name}: {pattern}")
     elif new != text:
@@ -96,6 +138,41 @@ def main(argv):
     s = sub(s, r"\*\*[\d.]+%\nread, [\d.]+% complete including guesses\*\* -- and the gap between them, [\d.]+",
             f"**{L['fpct']:.1f}%\nread, {L['cpct']:.1f}% complete including guesses** -- and the gap between them, {gap}".replace("\\n", "\n"),
             "CONCLUSION two figures", changes)
+    # The tier table. It was hand-typed on 2026-09-2x and by 2026-09-29 said
+    # 1,786 entries with 82 at D and 839 at G while proposals.json held 52 and
+    # 847: nothing generated it and nothing checked it. Generated here now,
+    # from the same Counter as the ROHONC figures, and pinned in check_rohonc.
+    live_entries = sum(L["tiers"][k] for k in "ABCDG")
+    s = sub(s, r"THIS PROJECT'S [\d,]+ ENTRIES, BY TIER", f"THIS PROJECT'S {live_entries:,} ENTRIES, BY TIER", "CONCLUSION entries", changes)
+    for tier, label in (("A", r"formula, a numeral, or K&T's own citation"),
+                        ("B", r"B  survives most occurrences"),
+                        ("C", r"C  one passage, or source-checked"),
+                        ("D", r"D  a single occurrence, read from one line"),
+                        ("G", r"G  a guess, never counted as read")):
+        s = sub(s, label + r"( +)\d+", None, f"CONCLUSION tier {tier}", changes, fn=lambda m, tier=tier, label=label: m.group(0)[:m.start(1) - m.start(0)] + m.group(1) + str(L["tiers"][tier]))
+    P = prov()
+    for label, key in (("K&T's dictionary, unchanged", "direct"),
+                       ("by composition of signs they read", "comp"),
+                       ("this project, anchored on a K&T entry", "anch"),
+                       ("of its own", "chain"),
+                       ("this project, read from a passage", "pas"),
+                       ("a tagged guess, bracketed, never counted", "guess"),
+                       ("no reading at all", "none")):
+        s = sub(s, r"(?m)^( {6,8}" + re.escape(label) + r" +\d[\d,]* +[\d.]+%)[ \t]*$", None, f"CONCLUSION rendering {key}", changes,
+                fn=lambda m, key=key: cell(m.group(1), P[key][0], P[key][1]))
+    notg = sum(L["tiers"][k] for k in "ABCD")
+    for label, key in (("anchored on a K&T entry", "s_anch"),
+                       ("anchored on a reading of ours", "s_chain"),
+                       ("read from a passage", "s_pas")):
+        s = sub(s, r"(?m)^( {6}" + re.escape(label) + r" +)\d+ signs +[\d.]+%[ \t]*$", None, f"CONCLUSION origin {key}", changes,
+                fn=lambda m, key=key: m.group(1) + f"{P[key]} signs  {100.0 * P[key] / notg:.1f}%")
+    s = sub(s, r"of which: holds one of theirs whole \d+,\n\s+one glyph from one \d+, sits inside one \d+",
+            f"of which: holds one of theirs whole {P['holds']},\n        one glyph from one {P['glyph']}, sits inside one {P['inside']}".replace("\\n", "\n"),
+            "CONCLUSION origin of-which", changes)
+    s = sub(s, r"judgments flagged as such in the evidence: \d+", f"judgments flagged as such in the evidence: {P['judged']}", "CONCLUSION judged", changes)
+    s = sub(s, r"THE [\d,]+ READINGS THAT ARE NOT GUESSES", f"THE {notg:,} READINGS THAT ARE NOT GUESSES", "CONCLUSION not guesses", changes)
+    s = sub(s, r"The [\d,]+ tier G entries are not readings", f"The {L['tiers']['G']:,} tier G entries are not readings", "CONCLUSION tier G prose", changes)
+    s = sub(s, r"The [\d,]+ read from a passage are the", f"The {P['s_pas']:,} read from a passage are the", "CONCLUSION passage prose", changes)
     if not dry:
         open(p, "w", encoding="utf-8").write(s)
 

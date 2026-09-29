@@ -189,38 +189,38 @@ itself against Király and Tokai's dictionary, so a reviewer can rerun it.
     THE WHOLE RENDERING, WORD BY WORD          29,997 words
 
       K&T's dictionary, unchanged              17,673   58.9%
-      by composition of signs they read         7,662   25.5%
-      this project, anchored on a K&T entry     1,886    6.3%
+      by composition of signs they read         7,808   26.0%
+      this project, anchored on a K&T entry     1,828    6.1%
       this project, anchored on a reading
-        of its own                                421    1.4%
-      this project, read from a passage         1,375    4.6%
-      a tagged guess, bracketed, never counted    975    3.3%
-      no reading at all                             5    0.0%
+        of its own                                316    1.1%
+      this project, read from a passage         1,343    4.5%
+      a tagged guess, bracketed, never counted    978    3.3%
+      no reading at all                            51    0.2%
 
-    THIS PROJECT'S 1,786 ENTRIES, BY TIER
+    THIS PROJECT'S 1,766 ENTRIES, BY TIER
 
       A  survives every occurrence, or proved by an identical
-         formula, a numeral, or K&T's own citation          476
-      B  survives most occurrences                          178
-      C  one passage, or source-checked                     211
-      D  a single occurrence, read from one line             82
-      G  a guess, never counted as read                     839
+         formula, a numeral, or K&T's own citation          490
+      B  survives most occurrences                          180
+      C  one passage, or source-checked                     197
+      D  a single occurrence, read from one line             52
+      G  a guess, never counted as read                     847
 
-    THE 947 READINGS THAT ARE NOT GUESSES, BY WHERE THEY CAME FROM
+    THE 919 READINGS THAT ARE NOT GUESSES, BY WHERE THEY CAME FROM
 
-      anchored on a K&T entry        514 signs  54.3%
-        of which: holds one of theirs whole 266,
-        one glyph from one 172, sits inside one 76
-      anchored on a reading of ours  108 signs  11.4%
-      read from a passage            325 signs  34.3%
+      anchored on a K&T entry        508 signs  55.3%
+        of which: holds one of theirs whole 261,
+        one glyph from one 172, sits inside one 75
+      anchored on a reading of ours  98 signs  10.7%
+      read from a passage            313 signs  34.1%
       judgments flagged as such in the evidence: 4
 
 **Two thirds of this project's non-guess readings are co-signed by the
 published work** -- they were got from Király and Tokai's own entries by
 decomposition, by containment or by a single-glyph match, so the word is
-theirs and only the placement is ours. The 325 read from a passage are the
+theirs and only the placement is ours. The 313 read from a passage are the
 ones that stand or fall on this project's evidence alone, and they are the
-ones a reviewer should go at first. The 839 tier G entries are not readings
+ones a reviewer should go at first. The 847 tier G entries are not readings
 at all and are excluded from every figure above except their own line.
 
 **Two documents, because they have different jobs.** The deposit is strict:

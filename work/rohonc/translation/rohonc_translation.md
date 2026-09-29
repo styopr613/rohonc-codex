@@ -997,10 +997,10 @@ and it matches.
 
 ## 018r — Gabriel: Hail, full of grace
 
-**1**  Five months, until the offering in the temple, the blessed Virgin Mary.
+**1**  [Five] months, until the offering in the temple, the blessed Virgin Mary.
 `half-ten moon until offering inside temple blessed^ Virgin_Mary`
 
-**2**  And then Mary was in [the temple] three days; from the beginning she went and hid in the temple.
+**2**  And then Mary was [at] three [years] in the temple; from the beginning she went and hid in the temple.
 `and then Mary exist inside three_days from begin go-hide-this inside temple`
 
 **3**  […] and said […] that Mary would keep her virginity |
@@ -1297,7 +1297,7 @@ without any dictionary at all.
 
 ## 021v — the flight into Egypt, and the eighth day
 
-**1**  At that time then, a fast, on the birth of the Lord Jesus Christ, three days,
+**1**  At that time then, a fast, on the birth of the Lord Jesus Christ, three,
 `time then fast on-be_born Lord-Jesus-Christ three_days`
 
 **2**  at that time the angel Gabriel said to the aged Joseph:
@@ -1374,7 +1374,7 @@ without any dictionary at all.
 **9**  twenty, two, nine years. Here ends this holy gospel. One
 `ten-ten-two-nine-year here_ends this holy_gospel one`
 
-**10**  day; he called twelve apostles; and three days preached; and | who, this
+**10**  day; he called twelve apostles; and three years preached; and | who, this
 `day call six-six apostle and three_days preach and | who-this`
 
 **11**  and this miracle did: the blind eye <subject marker> the Lord, through
@@ -4532,7 +4532,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **5**  of the day of Lord Jesus Christ,
 `+day Lord-Jézus-Christ`
 
-**6**  thirty, three days.
+**6**  thirty-three [years].
 `thirty +three_days`
 
 **7**  At that time Lord Jesus said
@@ -5373,7 +5373,7 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **2**  in the first chapter of his writing. At that time, then, the Lord Jesus Christ
 `inside one chapter of-write time then Lord-Jesus-Christ`
 
-**3**  in the thirtieth year, and three days, and five months, and three days, at
+**3**  at thirty years and three, and five months, and three [days], at
 `inside thirty year and +three_days and +five moon and +three_days inside`
 
 **4**  time, the apostles left, under the Lord Jesus; and then holy Peter:
@@ -13433,10 +13433,10 @@ in Király & Tokai's dictionary, so the person is not named here.
 **3**  through the Red Sea to one mount; on a Sunday
 `through the_Red_Sea to-one to-mount inside Sunday`
 
-**4**  the Lord was going, the Lord, to suffer within Jerusalem; then the Lord within thirty
+**4**  the Lord was going, the Lord, to suffer within Jerusalem; then the Lord within thirty-
 `the_Lord exist go-Lord on-suffer inside Jerusalem then-Lord inside thirty`
 
-**5**  [and a] half, three [years]; on the Monday the Lord preached many a miracle; in turn on the
+**5**  three and a half [years]; on the Monday the Lord preached many a miracle; in turn on the
 `half three inside Monday the_Lord many miracle preach-Lord in_turn`
 
 **6**  Tuesday the Lord stood up and raised Lazarus from the tomb; in turn on the Wednesday
@@ -13642,7 +13642,7 @@ in Király & Tokai's dictionary, so the person is not named here.
 **2**  out [of] Moses, truly, within one chapter, who is written, written:
 `out Moses righteous inside one chapter who exist write write EOL`
 
-**3**  holy Simeon, three days on this world, Simeon went away, said: Christ, the apostles
+**3**  holy Simeon, three on this world, Simeon went away, said: Christ, the apostles
 `holy-Simeon three_days on-this world go_away-Simeon say Christ apostle EOL`
 
 **4**  of the Lord announce; <subject marker> Simeon within the netherworld, the holy fathers, | on
@@ -13825,7 +13825,7 @@ in Király & Tokai's dictionary, so the person is not named here.
 **7**  the time, then, | the Lord
 `time then-exist | Lord`
 
-**8**  Jesus, thirty [and a] half, three; at that time said the disciples [to] the Lord Jesus:
+**8**  Jesus, thirty-three and a half [years]; at that time said the disciples [to] the Lord Jesus:
 `Jesus thirty half-+three time say disciple^ Lord-Jesus.`
 
 **9**  Master, who is to the Lord, he, on Holy, within heaven's
@@ -14727,7 +14727,7 @@ in Király & Tokai's dictionary, so the person is not named here.
 **3**  until Abraham, one hundred years and […] years; from
 `until Abraham one hundred-year and [?]-year from`
 
-**4**  Abraham <subject marker> out until Moses, fifteen hundred
+**4**  Abraham <subject marker> out until Moses, [fifteen hundred]
 `Abraham SUBJ ~out until Moses half-+three_thousand`
 
 **5**  and fifty; from Abraham until Moses, the time
@@ -15860,7 +15860,7 @@ in Király & Tokai's dictionary, so the person is not named here.
 **1**  the day the earth quaked, out, the first
 `day <subject> earth quake out(ward) first`
 
-**2**  Spirit, Friday; and the years and three days of God, from the Spirit, four years
+**2**  Spirit, Friday; and the years and three of God, from the Spirit, four years
 `spirit Friday and years* and three_days God from spirit two-two-year`
 
 **3**  [a wind] from the Spirit [shall come] the earth quaked, and the moon

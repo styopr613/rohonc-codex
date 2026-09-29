@@ -239,6 +239,11 @@
   ],
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
+ "013v": {
+  "english": "Three tablets Moses gives, and the Lord God writes them by the Lord's angel.",
+  "leaks": [],
+  "corrected": "2026-09-29: written by hand from the folio's gloss lines and nothing else; the model's English for this folio had been refused by the leak gate, and the site showed no English. Leak check run on the hand text and recorded here."
+ },
  "014r": {
   "english": "the Lord God, because went the Lord humble, the Lord, in turn King [who] is [of] heaven and earth; and great miracles were done, the Lord; and you, the Lord, on the cross died, and on the third day from death stood up, and appeared [to a] great nation, and was, the Lord, to you, through stay, forty years; and then this forty years [the King of kings] see ... the Jews ... on every nation see, leave in heaven['s] land; and on leaving, the Jews that believe as [he is] the righteous Son of the living God, and King of every king, and Lord of every Lord, head, Lord of heaven and earth.",
   "leaks": [
@@ -314,7 +319,7 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "018r": {
-  "english": "Five months until the offering in the temple, the blessed Virgin Mary. And then Mary is in the temple three days, from the beginning she went and hid in the temple. ... and said ... this Mary wants to keep her virginity. Of Mary, created, for ever and ever, amen. And then Mary is twelve, the feast, and ... three days; and at that time the Father of heaven opened, because he saw hidden every world, darkness, the sky; and at that time the Father of heaven opened, and went. The Lord's angel Gabriel, in the temple, to the blessed Virgin Mary — holy Luke writes, the chapter of the writing — at that time the angel Gabriel said: \"Hail, this Virgin Mary, full of grace; out, the Lord God, Mary.\" And this Virgin Mary said: \"How can this be, this girl knowing not ... this girl?\" ... this girl wants, the Virgin Mary, to keep ... of the girl, created ..., for ever and ever, amen. And the angel Gabriel said to Mary:",
+  "english": "[Five] months until the offering in the temple, the blessed Virgin Mary. And then Mary is [at] three [years] in the temple, from the beginning she went and hid in the temple. ... and said ... this Mary wants to keep her virginity. Of Mary, created, for ever and ever, amen. And then Mary is twelve, the feast, and ... three days; and at that time the Father of heaven opened, because he saw hidden every world, darkness, the sky; and at that time the Father of heaven opened, and went. The Lord's angel Gabriel, in the temple, to the blessed Virgin Mary — holy Luke writes, the chapter of the writing — at that time the angel Gabriel said: \"Hail, this Virgin Mary, full of grace; out, the Lord God, Mary.\" And this Virgin Mary said: \"How can this be, this girl knowing not ... this girl?\" ... this girl wants, the Virgin Mary, to keep ... of the girl, created ..., for ever and ever, amen. And the angel Gabriel said to Mary:",
   "leaks": [
    "hail",
    "hidden",
@@ -324,7 +329,7 @@
    "twelv",
    "went"
   ],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. | 2026-09-29: numeral terminator corrected by hand (Kiraly & Tokai's ae1 is year first, day second; the age formula and Mary at three had printed as days); the earlier English said days. | 2026-09-29: [Five] months bracketed: half-of-ten is this edition's judgment, not their sense."
  },
  "018v": {
   "english": "\"Have ... the girl this: the Holy Spirit goes, to every one mercy, [full of grace]. This girl conceives a son, and the son's body is Jesus.\" And the Virgin Mary said, blessed, to the one: \"This, say it, and blessed be the will from the Lord God.\" This [power] of the Lord this overshadows. And then the girl [answered]; the Virgin Mary, the word of command to the Lord: Mary hid, this overshadowed, who, the girl. The angel said, on this he said: God the Father pours out on the Virgin Mary the Holy Spirit; in turn to the Lord [came upon] one; goes the Lord Jesus Christ, conceived, the Lord Christ. And then [he departed from] the Virgin Mary. And the angel Gabriel said: \"Mary, lo, out six months the girl's relative, holy ... Elizabeth, who conceived, Mary, a son, holy John, [barren] in the chapter; goes the chapter of the Lord God, of mercy to this, from John is the way made for the Lord Jesus Christ, that is the Lord, [according to thy word].\" This Mary gives birth, and from the Lord goes the Lord into the world; the Word is preached.",
@@ -377,7 +382,7 @@
   "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "021v": {
-  "english": "At that time then, a fast, on the birth of the Lord Jesus Christ, three days. At that time the angel Gabriel said to aged Joseph: \"Stand up, and take this son and this son's mother, and escape into Egypt, and go, all this, begin [by night], out, out, Egypt [into].\" This angel [appeared], said: \"The day of [Herod] is ended.\" This holy gospel: at that time the aged Joseph stood up, [arose], and took the Lord Jesus Christ and the mother; and five days passed; then [the son and the aged Joseph and the holy mother Mary] ... went into Jerusalem town; that is, on the birth of the Lord Jesus Christ, in the six-two year, at that time the son was circumcised, and the son's name was Jesus; and this Lord Jesus, the first man, the Lord's blood shed; and then the Lord was circumcised in the Jerusalem temple, and escaped: Mary his mother, the Holy Spirit, and Joseph.",
+  "english": "At that time then, a fast, on the birth of the Lord Jesus Christ, three. At that time the angel Gabriel said to aged Joseph: \"Stand up, and take this son and this son's mother, and escape into Egypt, and go, all this, begin [by night], out, out, Egypt [into].\" This angel [appeared], said: \"The day of [Herod] is ended.\" This holy gospel: at that time the aged Joseph stood up, [arose], and took the Lord Jesus Christ and the mother; and five days passed; then [the son and the aged Joseph and the holy mother Mary] ... went into Jerusalem town; that is, on the birth of the Lord Jesus Christ, in the six-two year, at that time the son was circumcised, and the son's name was Jesus; and this Lord Jesus, the first man, the Lord's blood shed; and then the Lord was circumcised in the Jerusalem temple, and escaped: Mary his mother, the Holy Spirit, and Joseph.",
   "leaks": [
    "aros",
    "birth",
@@ -386,10 +391,10 @@
    "took",
    "went"
   ],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. | 2026-09-29: the numeral 'three' with the year-or-day terminator was printed as 'three days' on every line; here the line does not say which, and it now prints 'three'."
  },
  "022r": {
-  "english": "In the land of Egypt [they dwelt], and the Lord and Joseph went into the land of Egypt; in every town [idols], hell. Evil fell, bowed down, and ... mother ... Joseph. [Arise]; die ... from Joseph, leaving, in Egypt twelve years. At that time the angel Gabriel said to Joseph: \"Escape from the land of Egypt into Nazareth town.\" And ... mother ... Joseph ... left for Nazareth town; twelve years and five, and this [returned], the table: ten-ten-two-nine years. Here ends this holy gospel. One day he called the twelve apostles and preached three days, and ... and this miracle done: the blind eye, the Lord, through light; the dead, the Lord resurrects; evil in the people, the Lord exorcises.",
+  "english": "In the land of Egypt [they dwelt], and the Lord and Joseph went into the land of Egypt; in every town [idols], hell. Evil fell, bowed down, and ... mother ... Joseph. [Arise]; die ... from Joseph, leaving, in Egypt twelve years. At that time the angel Gabriel said to Joseph: \"Escape from the land of Egypt into Nazareth town.\" And ... mother ... Joseph ... left for Nazareth town; twelve years and five, and this [returned], the table: ten-ten-two-nine years. Here ends this holy gospel. One day he called the twelve apostles and preached three years, and ... and this miracle done: the blind eye, the Lord, through light; the dead, the Lord resurrects; evil in the people, the Lord exorcises.",
   "leaks": [
    "dea",
    "exorcy",
@@ -399,7 +404,7 @@
    "twelv",
    "went"
   ],
-  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. | 2026-09-29: numeral terminator corrected by hand (Kiraly & Tokai's ae1 is year first, day second; the age formula and Mary at three had printed as days); the earlier English said days."
  },
  "022v": {
   "english": "Before, that is, the Lord made wine of water; after these, the Lord broke five loaves of bread for five thousand people. The second-two: the Lord Jesus can show, then, in Nain before the town, raised from the widow woman the son. The fifth the Lord Jesus can show, then: raised the girl, lost. Within Jerusalem, in turn six, the Lord Jesus can show: within the first town, then, the Jews carried the first sick man before the Lord Jesus; the sick man, and sick man, and sick man, and paralytic, and sick man, sick man, sick man, paralytic, the Lord Jesus healed. In turn seven, the Lord Jesus can show within Capharnaum, because he raised from the dead two servants of the first soldier, and the soldier is named: the centurion. In turn six-two, the Lord Jesus can show within Tyre town: the girl, the first woman, the head.",
@@ -987,6 +992,11 @@
   ],
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
+ "054v": {
+  "english": "Here begins this holy gospel, written by holy Mark.",
+  "leaks": [],
+  "corrected": "2026-09-29: written by hand from the folio's gloss lines and nothing else; the model's English for this folio had been refused by the leak gate, and the site showed no English. Leak check run on the hand text and recorded here."
+ },
  "055r": {
   "english": "In the seventh chapter of the writing: at that time then the three Marys went, [bought], [to] the tomb of Christ, because they prepared [spices] another ... [to anoint] Jesus: Mary Salome and Mary, James' mother, and Mary Magdalene. And then these two Marys [and] these two Marys among [Salome], among Mary ... lift up the stone on the tomb. And then the three went on to the tomb of Christ, and saw, the three Marys, [the sabbath], the tomb from [rolled away]; and then the three Marys into this, the three Marys, and entered, the three Marys, and remained, saw ... Jesus; but saw first",
   "leaks": [
@@ -1017,6 +1027,11 @@
    "wiv"
   ],
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+ },
+ "056v": {
+  "english": "And then Mary will go with this woman, and Mary would say ...",
+  "leaks": [],
+  "corrected": "2026-09-29: written by hand from the folio's gloss lines and nothing else; the model's English for this folio had been refused by the leak gate, and the site showed no English. Leak check run on the hand text and recorded here."
  },
  "057r": {
   "english": "Magdalene saw [that] Magdalene's Master [was] in the image of a gardener. At that time the Lord Jesus Christ left, in the middle, living, among the three Marys, the Lord, among these sisters of Jerusalem. And the Lord Jesus said: \"The commandment of God among you: the Lord's mercy [to] somebody, and believe in the Lord and in the Lord's, from God the Father, for ever and ever, amen.\" And the Lord Jesus said ... the three Marys saw, Mary, in the tomb, brother ..., from Jesus crucified; and Mary Magdalene said that the Lord, Mary saw, Mary, rose from death, and the Lord Jesus Christ left among the three Marys. This apostle, the holy gospel.",
@@ -1059,6 +1074,13 @@
    "went"
   ],
   "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+ },
+ "059r": {
+  "english": "And on the third day the Lord Jesus Christ stands up from dying.",
+  "leaks": [
+   "dying"
+  ],
+  "corrected": "2026-09-29: written by hand from the folio's gloss lines and nothing else; the model's English for this folio had been refused by the leak gate, and the site showed no English. Leak check run on the hand text and recorded here."
  },
  "059v": {
   "english": "Here begins this holy gospel. Holy Luke writes in the first of the writing: at that time then two apostles went [from] Jerusalem into one town, and ... named Emmaus. And then the two apostles found ... from the living Lord Jesus; and then the two talked, how the Lord, he, was a righteous man, the righteous Lord preached, various wonders did; [they spoke of] the two apostles [how] the heads of the Jews crucified. At that time [he] appeared to the two apostles, the Lord Jesus, in the form of a traveller; and then",
@@ -1135,6 +1157,14 @@
   ],
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
+ "063v": {
+  "english": "Here begins this holy gospel, written by holy John within the twentieth chapter of his writing. At that time the disciples meet within Jerusalem in one house, six, in the Lord's house, where the Lord Jesus [is] after the dinner. And then holy Thomas Didymus goes, one Saturday evening, to the apostles, and the apostles say: \"Thomas, apostle, we see the Lord.\" And holy Thomas says: \"I do not believe this, every [one] of this; if Thomas believes this, if not ... see, Thomas, the Lord's side, and Thomas does not put his finger within ...\"",
+  "leaks": [
+   "goe",
+   "twenty"
+  ],
+  "corrected": "2026-09-29: written by hand from the folio's gloss lines and nothing else; the model's English for this folio had been refused by the leak gate, and the site showed no English. Leak check run on the hand text and recorded here."
+ },
  "064r": {
   "english": "\"the Lord's sheep, and the Lord knows the Lord's sheep, and I know the Lord's sheep.\" And the Lord Jesus said: \"Then there was one king, and then he had two shepherds: one, who ... at home, the good shepherd; the second, a labourer shepherd. And then from the two shepherds ... from one, a herd of sheep, this king's. And then a wolf went to these sheep, and wanted these sheep to carry off; and this labourer shepherd, from shepherd, left these sheep. In turn this good shepherd at home, from shepherd, redeemed these sheep, and the sheep followed into the herd; and ... good before, gave, and one carried away; and",
   "leaks": [
@@ -1154,13 +1184,13 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "065r": {
-  "english": "Here ends this holy gospel. Holy Matthew writes in the seventh of the writing: at that time then, the day, the Lord Jesus Christ, thirty [years], three days, at that time the Lord Jesus said: \"Apostles of the Lord, [they] go to you in sheep's clothing, false prophets, pagans, evil in [clothing], are pagans, evil, trespass, the Lord, [ravening wolves], the mouth, apostles, men; and pagans, evil in clothes, because they are false\" ",
+  "english": "Here ends this holy gospel. Holy Matthew writes in the seventh of the writing: at that time then, the day, the Lord Jesus Christ, thirty-three [years], at that time the Lord Jesus said: \"Apostles of the Lord, [they] go to you in sheep's clothing, false prophets, pagans, evil in [clothing], are pagans, evil, trespass, the Lord, [ravening wolves], the mouth, apostles, men; and pagans, evil in clothes, because they are false\" ",
   "leaks": [
    "men",
    "seven",
    "year"
   ],
-  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. | 2026-09-29: numeral terminator corrected by hand (Kiraly & Tokai's ae1 is year first, day second; the age formula and Mary at three had printed as days); the earlier English said days."
  },
  "065v": {
   "english": "the Lord's name confess.\" And the Lord Jesus said: \"Apostles of the Lord, verily, verily, I speak to you.\" And the Lord Jesus said: \"Do not pick a fig on a thistle, but on a fig; and do not pick food, grapes, on a thornbush, but on a grapevine; because who [is] a good tree, this [gives] good fruit; in turn, if a bad tree, this [gives] bad fruit; because a good tree cannot give bad fruit, but every [one] gives good fruit; if a bad tree, it cannot give good fruit, but every [one] bad fruit.\" And the Lord Jesus said: \"Many people will shout on the year of judgement, 'Lord, Lord,' this man ... trespass; this Lord preached.\" And the Lord Jesus said:",
@@ -1344,8 +1374,9 @@
   "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "076r": {
-  "english": "[Afterward] to the apostles many [things] said; holy Paul writes [in] the apostolic letter, in one chapter of the writing: at that time then the Lord Jesus Christ, at thirty years and three days and five months and three days, at that time left the apostles under the Lord Jesus; and holy Peter said: \"Master, [I] want highly, this Peter, to forgive; [how often] is Peter [to forgive]?\" [Then] the Lord Jesus Christ said: \"Peter, Peter, in turn, who ... one year commits sin, somebody, against this Peter, forgive somebody, if [he] goes, somebody merciful, asks mercy, somebody ..., take, the sun goes down, ... say somebody merciful.\" And [Peter] shouted to the Lord Jesus Christ:",
+  "english": "[Afterward] to the apostles many [things] said; holy Paul writes [in] the apostolic letter, in one chapter of the writing: at that time then the Lord Jesus Christ, at thirty years and three, and five months and three [days], at that time left the apostles under the Lord Jesus; and holy Peter said: \"Master, [I] want highly, this Peter, to forgive; [how often] is Peter [to forgive]?\" [Then] the Lord Jesus Christ said: \"Peter, Peter, in turn, who ... one year commits sin, somebody, against this Peter, forgive somebody, if [he] goes, somebody merciful, asks mercy, somebody ..., take, the sun goes down, ... say somebody merciful.\" And [Peter] shouted to the Lord Jesus Christ:",
   "leaks": [
+   "day",
    "goe",
    "left",
    "merciful",
@@ -1353,7 +1384,7 @@
    "tak",
    "thing"
   ],
-  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. | 2026-09-29: numeral terminator corrected by hand (Kiraly & Tokai's ae1 is year first, day second; the age formula and Mary at three had printed as days); the earlier English said days."
  },
  "076v": {
   "english": "\"Stop! on water, heaven [high].\" \"Peter, Peter, if, but rather, [there is] somebody among [you], apostles, [who has] sin, witness from heathen, somebody, apostle, sin, witness, publican, somebody of somebody's sin, leave [it]. But if many somebody's sins, in turn thief, in turn robber, in turn blood murderer, that is, killer of people; somebody in turn [adulterer], somebody in turn from [thief], somebody in turn proud, somebody in turn drunkard, somebody in turn many [proud], somebody in turn many yokes ..., somebody, this, on Peter.\" Said the Lord Jesus Christ: \"Because there is in Peter [pride], in turn, in the humble, somebody this is damned; how then somebody dies, in turn",
@@ -1495,6 +1526,14 @@
   ],
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
+ "086r": {
+  "english": "Forty and six years; at that time holy Elijah kneels and prays, thanks to the Lord; and God opens fire, the angel of heaven, and from ... fire, one [torch] [became]. The angel of God says: \"Elijah, this symbolizes the Lord, the Lord of angels.\" And then holy Elijah grabs a torch, and the torch gives light; in turn this [figure], a flame, goes to Elijah from ... four, four peoples, and to every one of the people the torch gives light. In turn holy Elijah [a chariot], little, and in Elijah, until ... stay. And then holy Elijah says, then ... two, two, two, two, ten years. This is written by holy Moses in the Old Testament word.",
+  "leaks": [
+   "giv",
+   "goe"
+  ],
+  "corrected": "2026-09-29: written by hand from the folio's gloss lines and nothing else; the model's English for this folio had been refused by the leak gate, and the site showed no English. Leak check run on the hand text and recorded here."
+ },
  "086v": {
   "english": "symbolize: the [figure], the gospel, is the angel, the Father, in the body of the blessed Virgin Mary; the son, one Lord God, the [figure] symbolizes. Somebody, the body, the gospel, is taken on the Lord Jesus Christ; the torch symbolizes the body of the blessed Virgin Mary; then Mary conceived the Lord God, and Jesus saved all the world; and Christ, our woman, and the Lord, the head ... son; heaven and earth [together] symbolize the body of the Lord Jesus Christ; [unconsumed] symbolizes the fire, the Lord God; and can every [one], Father God, the Lord Jesus Christ, angel, Holy Spirit, Mary, apostle, one [God]. God [made], and this [unconsumed] stays on the crucifixion of the Lord Jesus Christ, on the thirty, in the host, on all the world.",
   "leaks": [
@@ -1514,6 +1553,14 @@
   "english": "Before, the gospel, holy Matthew writes [in the eighteenth] of the writing: \"Who not, somebody, apostle, this, from this little son, to ... do in Jesus' ... and the body, one somebody [is] saved, one man in heaven; in turn ... but everybody is damned, judges somebody, Christ.\" Holy Matthew speaks [thus]: \"This somebody says this little son, this little somebody trespasses [against] the poor man of God, and the poor man of God, somebody, and has [riches] somebody in turn, this\" ",
   "leaks": [],
   "corrected": "2026-09-26: 'blind God' is Kiraly & Tokai's set phrase 'poor man of God' (they cite 087v11); the earlier English read the two signs one by one. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+ },
+ "088r": {
+  "english": "Somebody is rich; he has wealth; he sees; blind, he goes ... or sits; and the blind asks alms of this somebody, in Jesus and the body [alms]; the blind does not take. Somebody is damned; somebody is, ever, ever, in riches; but somebody is judged, damned; somebody on the blind; in turn damned, somebody is damned; somebody is, ever, ever, [remember], saved; somebody is damned; somebody is conceived; somebody is buried within hell; [there] it writes; somebody is within hell until our dying, and the body; in turn ... on",
+  "leaks": [
+   "dying",
+   "goe"
+  ],
+  "corrected": "2026-09-29: written by hand from the folio's gloss lines and nothing else; the model's English for this folio had been refused by the leak gate, and the site showed no English. Leak check run on the hand text and recorded here."
  },
  "088v": {
   "english": "Here begins this holy gospel. Holy Luke writes in the sixth chapter of the writing: at that time the Lord Jesus said to the Lord's apostles and the Jewish people: there was a rich one, one rich man; and the rich man, every [day] in [linen] and purple went, the rich man, and rich from day to day caroused; and then thus went one Lazarus to this rich man's house, and Lazarus was, all from head to toe, covered with wounds, Lazarus. At that time this rich man sat at table, the rich man, the husband, [fared sumptuously], a king, the Lord, [in purple], various husbands. And then [while] the rich man was [so], this poor man asked",
@@ -2234,7 +2281,9 @@
  },
  "128v": {
   "english": "another night; at that time appeared [to] the Lord's apostles, the gate; and the Lord Jesus said, the commandment ... [so] is. And through startle the apostles, because believed, the apostles, as how, a ghost. And the Lord Jesus said: \"Have, apostles, the Lord; he, see, apostles, in ... is ... somebody [a spirit], angel, body. In turn one ghost can [not], apostles, the Lord, because the Lord ... I [am] to you\" through staying thirty days and three, and literal",
-  "leaks": [],
+  "leaks": [
+   "day"
+  ],
   "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "129r": {
@@ -3401,13 +3450,13 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "193r": {
-  "english": "ever, amen.\" Here ends this holy gospel. The Lord God is love. This ... out, Moses righteous, in one chapter, who writes, writes: holy Simeon, three days on this world, went away, Simeon, said, Christ['s] apostle, the Lord's announce ..., Simeon in the netherworld [to the] holy fathers ...: \"Born [is] the Lord, and see, saved [are] you, and many.\" The judge is in the netherworld from forefather and holy prophet. Writes, and from the holy gospel, that is ... the Lord: \"I [am] the holy gospel. I [made] grapes on water, created; I the blind through light; I the evil on people exorcise; I the dead rise, resurrect; various lepers heal, the Lord; I [take] the cross.\" Holy gospel.",
+  "english": "ever, amen.\" Here ends this holy gospel. The Lord God is love. This ... out, Moses righteous, in one chapter, who writes, writes: holy Simeon, three on this world, went away, Simeon, said, Christ['s] apostle, the Lord's announce ..., Simeon in the netherworld [to the] holy fathers ...: \"Born [is] the Lord, and see, saved [are] you, and many.\" The judge is in the netherworld from forefather and holy prophet. Writes, and from the holy gospel, that is ... the Lord: \"I [am] the holy gospel. I [made] grapes on water, created; I the blind through light; I the evil on people exorcise; I the dead rise, resurrect; various lepers heal, the Lord; I [take] the cross.\" Holy gospel.",
   "leaks": [
    "mad",
    "tak",
    "went"
   ],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. | 2026-09-29: the numeral 'three' with the year-or-day terminator was printed as 'three days' on every line; here the line does not say which, and it now prints 'three'."
  },
  "193v": {
   "english": "Here begins this holy gospel. Holy Matthew writes in the ... chapter of the writing: at that time then the Lord Jesus, at thirty years, at that time preached in ... afterward ... And then the Lord Jesus taught in Capharnaum, and left, down, on preaching; and followed to the Lord many people; and then went the Lord on the town, and saw the Lord Jesus on the publican['s] [seat] sit holy Matthew, and the Lord Jesus said:",
@@ -3451,6 +3500,14 @@
    "year"
   ],
   "corrected": "2026-09-26: Kiraly & Tokai's set phrases (harness/ktexpr.json) applied by hand; the earlier English rendered their phrases sign by sign. | 2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. 2026-09-28: thirty, half-three is thirty-three and a half (Kiraly and Tokai's reading); it was printed three days."
+ },
+ "195v": {
+  "english": "To the Lord's Father, on the heavenly kingdom, the Lord sits down, the Father on the right; from there the Lord has to go, the Lord, to judge the living and the dead; and before the ascension he blesses all the whole world. Here begins this holy gospel, written by holy Matthew, [sixteen], the fourth chapter of the writing. At that time then the Lord Jesus, thirty-three and a half; at that time the disciples say to the Lord Jesus: \"Master, who is to the Lord, he, on Holy, within heaven's ...\"",
+  "leaks": [
+   "four",
+   "whol"
+  ],
+  "corrected": "2026-09-29: written by hand from the folio's gloss lines and nothing else; the model's English for this folio had been refused by the leak gate, and the site showed no English. Leak check run on the hand text and recorded here."
  },
  "196r": {
   "english": "the kingdom?\" Because [they] recognized, the disciples, as the Lord [was] crucified, and on the third day from death stood up; and the Lord to this disciple, judge, who is to the Lord ... holy in heaven. And called the Lord Jesus one little son, and the son ... put, the Lord Jesus, on [his] head the Lord's hands; and the Lord Jesus said: \"Who [is] not this humble, how ... this little son, not one [is] saved.\" At that time the Jews carried one ... before the Lord Jesus, from this emperor ... and [it] is pagan.",
@@ -3667,9 +3724,9 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "209r": {
-  "english": "heaven['s] land. And this three commandments confirmed the Lord God [to] Moses from the angel of the Lord. At that time then, from Adam's trespass until Abraham, one hundred years and ... years; from Abraham ... out until Moses, one thousand five hundred and fifty; from Abraham until Moses. At that time first confirmed the Lord God [to] Moses from the angel of the Lord; and God's angel said: \"Moses, because of this on learning this, Moses, this people, three commandments of the Lord, because this people believe one\" ",
+  "english": "heaven['s] land. And this three commandments confirmed the Lord God [to] Moses from the angel of the Lord. At that time then, from Adam's trespass until Abraham, one hundred years and ... years; from Abraham ... out until Moses, [fifteen hundred] and fifty; from Abraham until Moses. At that time first confirmed the Lord God [to] Moses from the angel of the Lord; and God's angel said: \"Moses, because of this on learning this, Moses, this people, three commandments of the Lord, because this people believe one\" ",
   "leaks": [],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. | 2026-09-29: a half-numeral read as half-of-N is the edition's own judgment (Kiraly & Tokai's half is additive: 33 and a half); bracketed as one."
  },
  "209v": {
   "english": "God: [the] second, God['s] name in vain not take; [the] third, God['s] commandment [to keep] the holy Sunday, and the feast, holy, this, somebody, from ... the mother temple, preach, hear, somebody. This God['s] commandment, and [the] commandment, somebody [who] carries, everybody is saved. And this Zacchaeus [heard the] word, love, and carried these three commandments [of] the Lord God. End of this apostle's holy gospel. The Lord God be loved.",
@@ -3897,9 +3954,9 @@
   "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
  },
  "223r": {
-  "english": "[The] day ... [an] earthquake, out, [the] first spirit, Friday, and years, and three days, God, from [the] spirit, four years: [a wind] from [the] spirit [shall come], [an] earthquake, and [the] moon, in turn on, and [the] year ... half. Our Father [of] [heaven], from [render] somebody, and [within] in righteous believe, carry the Lord, somebody [shall be saved]; not believe, and this every [one], therefore, mercy, somebody [shall perish]. And somebody [who] wants Christ against, leave, somebody, God, learn. [The] throne [shall be fulfilled]; want somebody [shall sit] [on] the Lord['s] throne, [shall be saved], righteous. The Lord's",
+  "english": "[The] day ... [an] earthquake, out, [the] first spirit, Friday, and years, and three, God, from [the] spirit, four years: [a wind] from [the] spirit [shall come], [an] earthquake, and [the] moon, in turn on, and [the] year ... half. Our Father [of] [heaven], from [render] somebody, and [within] in righteous believe, carry the Lord, somebody [shall be saved]; not believe, and this every [one], therefore, mercy, somebody [shall perish]. And somebody [who] wants Christ against, leave, somebody, God, learn. [The] throne [shall be fulfilled]; want somebody [shall sit] [on] the Lord['s] throne, [shall be saved], righteous. The Lord's",
   "leaks": [],
-  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was."
+  "corrected": "2026-09-28: rewritten by hand against the corrected gloss (every dictionary-cited line decided by hand, our own readings read against the dictionary and in context, Jesus for Jézus); the earlier English followed the old gloss and was wrong wherever that was. | 2026-09-29: the numeral 'three' with the year-or-day terminator was printed as 'three days' on every line; here the line does not say which, and it now prints 'three'."
  },
  "223v": {
   "english": "from the ascension [of] the Lord Jesus Christ [to] the Father of the Lord out, a thousand years, five hundred and sixty years, and from ... years, this is the beginning [of the] year, written ... four ... son, from [the beginning], then [there] was forty days, in turn see [and then] ... son, Moses ... from ... year, first year, seven, in turn of from see, two years, [a numeral]. From [the] earth until [the] birth [of] the Lord Jesus Christ on this world, out, five thousand and [one] hundred years, and ninety years and nine years; and this symbolizes nine hours from [the] beginning [of] this world until [the] birth [of] the Lord Jesus Christ on this world, in turn, and [the] hour out, from [the] ascension [of] the Lord Jesus to the Father of the Lord [in] heaven, in turn [his] brother. At that time said the apostles [to] the Lord Jesus: \"Master, when is doomsday to pass?\" [He] said:",
