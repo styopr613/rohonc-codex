@@ -107,16 +107,11 @@ both can be compared.
 
 All of this was done with machine readers, and a skeptic can fairly discount
 some, but not all, of that. Some of the tests couldn't separate a true reading
-from one copied off Király and Tokai's translations, and one test failed a bar
-set in advance. Both are on the [tests page](/rohonc/tests.html) beside the passes.
+from one copied off Király and Tokai's translations, and two tests failed bars
+set in advance. Both are on the [tests page](/rohonc/tests.html) beside the passes. And
+the samples are small: the scrambled test and the memory check use 20
+pages, the wrong-passage test 38. The odds against chance are still
+long, but more pages would make them longer.
 
 Whether human readers, performing the same tests, would be more or less
 biased is an open question as well, but it would be a welcome test.
-
-## The larger mystery
-
-Why haven't Király and Tokai published their full translation? No one knows;
-I have emailed them. And why does the Hungarian Academy of Sciences withhold
-the high-resolution photographs? No one knows their motives either. But to
-make a guess about motive into evidence is to invite the same Rorschach test
-we tried to avoid. Some mysteries remain.
