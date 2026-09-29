@@ -4,6 +4,9 @@ Written 2026-09-29, from a reply to a forum thread that asked the right
 question: did the machine "solve" the Rohonc Codex, or is it a Rorschach
 test? Every figure below is checked against the saved run it names, by
 `harness/check_skeptic.py`, and every run is on the [tests page](/rohonc/tests.html) with its bar.
+The programs, the saved runs and the full write-up of every test are in the
+[repository](https://github.com/styopr613/rohonc-codex). The sources are other people's and are not in it;
+with them fetched, `python3 harness/reproduce_tests.py` replays every run.
 
 ## The real question
 
