@@ -628,6 +628,39 @@ it could fail to recall by number and still recognise a page's wording.
 Recall by label is the cheap and likely route, and it is closed. Cost
 $0.0013.
 
+## Test 18 — two blind models: read from some folios, judged on another chapter
+
+`harness/kttwomodel.py` · `work/rohonc/kttwomodel.txt` ·
+`work/rohonc/outside/twomodel/` (design, every prompt and reply, raw)
+
+Every reading was checked at every place its sign stands before it was
+kept, so no line is held out for the project's own readings. This asks what
+can be asked instead. A reader model sees a sign on up to three folios, in
+K&T's words only, and gives one gloss. A second model, from another
+company, sees one line of a folio the reader never saw, citing a chapter
+none of the reader's folios cite, and picks which of three glosses fills the
+blank: the reader's gloss for that sign or the reader's glosses for two
+other signs. Neither model sees this project's glosses or knows where a
+candidate came from. K&T's own words go through the same steps as known
+answers, matched to ours on how many folios they stand on. Design and bars
+declared in the program before any call.
+
+    reader DeepSeek V3.2, judge Gemini 2.5 Flash, both thinking off
+
+    arm              judged   picked   chance      p     agree with the arm's word
+    K&T known words      71    46.5%    33.3%  0.015           14.1%
+    project A/B          63    36.5%    33.3%   0.34           12.7%
+
+    CALIBRATION  K&T's words must transfer at p < 0.01     FAILED
+    TRANSFER     ours, the same rule                       NO VERDICT
+    AGREEMENT    ours at least half of K&T's rate          NO VERDICT
+
+K&T's known words lean toward transferring and miss the declared bar, so
+the instrument is not shown to have the power to judge ours, and by the
+rule declared first nothing is concluded about them. Reported as it stands:
+reading blind from a few folios, the reader lands on the project's word
+about as often as on K&T's, 12.7% against 14.1%. Cost $0.04.
+
 ## Every run regenerated — 2026-09-22
 
 Before publication every deterministic test was rerun from scratch and
@@ -780,6 +813,7 @@ selection-conditioned diagnostics.
     Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS
     Test 15 | passage identification, outside reader | chapter level 9 of 20 against 0 of 20 shuffled; p 0.002 | PASS
     Test 17 | memory check on Test 15's reader | asked by folio number with no page shown, it names 0 of 20 cited chapters and declines 19; Test 15's nine were not recalled by label | NO MEMORY SHOWN
+    Test 18 | two blind models, reader and judge | K&T's known words transfer to another chapter 46.5% against 33.3% chance, p 0.015, short of the declared 0.01; the reader lands on the project's word 12.7% of the time and on K&T's 14.1% | NO VERDICT
 
     PASS and FAIL are verdicts on the readings against a bar declared before the run.
     NO VERDICT means the instrument failed its own check on Király and Tokai's words,

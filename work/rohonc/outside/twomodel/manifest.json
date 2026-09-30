@@ -1,0 +1,2057 @@
+[
+ {
+  "arm": "kt",
+  "code": "1f6520ae05203c5",
+  "gloss": "lie",
+  "hidden": "089r",
+  "train": [
+   "133r",
+   "133v"
+  ],
+  "line": 1,
+  "item": 1
+ },
+ {
+  "arm": "kt",
+  "code": "5201a5520",
+  "gloss": "back",
+  "hidden": "035v",
+  "train": [
+   "055v",
+   "179r"
+  ],
+  "line": 4,
+  "item": 2
+ },
+ {
+  "arm": "ours",
+  "code": "ab0",
+  "gloss": "gate/open",
+  "hidden": "216r",
+  "train": [
+   "101r"
+  ],
+  "line": 1,
+  "item": 3
+ },
+ {
+  "arm": "ours",
+  "code": "670ae0877",
+  "gloss": "be saved",
+  "hidden": "197v",
+  "train": [
+   "067v",
+   "070v",
+   "131v"
+  ],
+  "line": 6,
+  "item": 4
+ },
+ {
+  "arm": "kt",
+  "code": "3b1",
+  "gloss": "Jerusalem",
+  "hidden": "082r",
+  "train": [
+   "182r",
+   "214r",
+   "217r"
+  ],
+  "line": 6,
+  "item": 5
+ },
+ {
+  "arm": "kt",
+  "code": "540237a10670",
+  "gloss": "dog",
+  "hidden": "150v",
+  "train": [
+   "089r",
+   "092r"
+  ],
+  "line": 2,
+  "item": 6
+ },
+ {
+  "arm": "ours",
+  "code": "520001152520ae0",
+  "gloss": "sky",
+  "hidden": "172r",
+  "train": [
+   "172v"
+  ],
+  "line": 3,
+  "item": 7
+ },
+ {
+  "arm": "ours",
+  "code": "7e4",
+  "gloss": "appear",
+  "hidden": "029v",
+  "train": [
+   "178r",
+   "181r",
+   "182r"
+  ],
+  "line": 4,
+  "item": 8
+ },
+ {
+  "arm": "ours",
+  "code": "5e4670a82",
+  "gloss": "finger",
+  "hidden": "130v",
+  "train": [
+   "089v"
+  ],
+  "line": 6,
+  "item": 9
+ },
+ {
+  "arm": "ours",
+  "code": "520842",
+  "gloss": "laugh",
+  "hidden": "127r",
+  "train": [
+   "123r"
+  ],
+  "line": 6,
+  "item": 10
+ },
+ {
+  "arm": "ours",
+  "code": "0368f2",
+  "gloss": "collapse",
+  "hidden": "044v",
+  "train": [
+   "049v"
+  ],
+  "line": 0,
+  "item": 11
+ },
+ {
+  "arm": "kt",
+  "code": "7a07a0850520",
+  "gloss": "shout",
+  "hidden": "036r",
+  "train": [
+   "041v",
+   "065v",
+   "089v"
+  ],
+  "line": 8,
+  "item": 12
+ },
+ {
+  "arm": "kt",
+  "code": "1522818c0520",
+  "gloss": "James",
+  "hidden": "055r",
+  "train": [
+   "035r"
+  ],
+  "line": 3,
+  "item": 13
+ },
+ {
+  "arm": "ours",
+  "code": "080670ae0a10ae01f6",
+  "gloss": "name",
+  "hidden": "067v",
+  "train": [
+   "070v",
+   "071v",
+   "074v"
+  ],
+  "line": 10,
+  "item": 14
+ },
+ {
+  "arm": "kt",
+  "code": "3f57b44aa",
+  "gloss": "language",
+  "hidden": "073r",
+  "train": [
+   "069r"
+  ],
+  "line": 10,
+  "item": 15
+ },
+ {
+  "arm": "kt",
+  "code": "520ae00a20a2270ae0",
+  "gloss": "bread",
+  "hidden": "212v",
+  "train": [
+   "114r",
+   "159r"
+  ],
+  "line": 6,
+  "item": 16
+ },
+ {
+  "arm": "kt",
+  "code": "a107815202d1",
+  "gloss": "Philip",
+  "hidden": "130v",
+  "train": [
+   "212r"
+  ],
+  "line": 3,
+  "item": 17
+ },
+ {
+  "arm": "kt",
+  "code": "6705d1360",
+  "gloss": "Elijah",
+  "hidden": "023r",
+  "train": [
+   "002v",
+   "023v"
+  ],
+  "line": 12,
+  "item": 18
+ },
+ {
+  "arm": "kt",
+  "code": "4a84b1",
+  "gloss": "John",
+  "hidden": "117r",
+  "train": [
+   "033r",
+   "035r",
+   "039r"
+  ],
+  "line": 9,
+  "item": 19
+ },
+ {
+  "arm": "ours",
+  "code": "5206e3",
+  "gloss": "pine",
+  "hidden": "051v",
+  "train": [
+   "007r",
+   "125r"
+  ],
+  "line": 4,
+  "item": 20
+ },
+ {
+  "arm": "kt",
+  "code": "6704e2540",
+  "gloss": "chase",
+  "hidden": "089r",
+  "train": [
+   "071v"
+  ],
+  "line": 1,
+  "item": 21
+ },
+ {
+  "arm": "kt",
+  "code": "b74",
+  "gloss": "mount",
+  "hidden": "133v",
+  "train": [
+   "159r"
+  ],
+  "line": 1,
+  "item": 22
+ },
+ {
+  "arm": "kt",
+  "code": "b25",
+  "gloss": "hundred",
+  "hidden": "098v",
+  "train": [
+   "119r"
+  ],
+  "line": 4,
+  "item": 23
+ },
+ {
+  "arm": "kt",
+  "code": "0603946a8",
+  "gloss": "peace",
+  "hidden": "192r",
+  "train": [
+   "005r"
+  ],
+  "line": 8,
+  "item": 24
+ },
+ {
+  "arm": "ours",
+  "code": "285",
+  "gloss": "law",
+  "hidden": "122v",
+  "train": [
+   "085v",
+   "125r",
+   "135v"
+  ],
+  "line": 2,
+  "item": 25
+ },
+ {
+  "arm": "ours",
+  "code": "574570a10ae0",
+  "gloss": "rejoiced",
+  "hidden": "113r",
+  "train": [
+   "112v"
+  ],
+  "line": 0,
+  "item": 26
+ },
+ {
+  "arm": "kt",
+  "code": "691",
+  "gloss": "only one",
+  "hidden": "128r",
+  "train": [
+   "135v",
+   "136r",
+   "136v"
+  ],
+  "line": 2,
+  "item": 27
+ },
+ {
+  "arm": "ours",
+  "code": "1f6670ae05203c5",
+  "gloss": "lie",
+  "hidden": "220r",
+  "train": [
+   "164r"
+  ],
+  "line": 1,
+  "item": 28
+ },
+ {
+  "arm": "kt",
+  "code": "520060470990",
+  "gloss": "thorn",
+  "hidden": "181r",
+  "train": [
+   "044v"
+  ],
+  "line": 0,
+  "item": 29
+ },
+ {
+  "arm": "kt",
+  "code": "5207a0ae0",
+  "gloss": "hand",
+  "hidden": "035r",
+  "train": [
+   "073r"
+  ],
+  "line": 11,
+  "item": 30
+ },
+ {
+  "arm": "ours",
+  "code": "060060060060460ae1",
+  "gloss": "forty",
+  "hidden": "133v",
+  "train": [
+   "100v"
+  ],
+  "line": 5,
+  "item": 31
+ },
+ {
+  "arm": "ours",
+  "code": "574ae09f3",
+  "gloss": "saying",
+  "hidden": "126r",
+  "train": [
+   "122v"
+  ],
+  "line": 3,
+  "item": 32
+ },
+ {
+  "arm": "kt",
+  "code": "77c",
+  "gloss": "soldier",
+  "hidden": "022v",
+  "train": [
+   "046r",
+   "047v",
+   "116v"
+  ],
+  "line": 10,
+  "item": 33
+ },
+ {
+  "arm": "kt",
+  "code": "812670ae0",
+  "gloss": "town",
+  "hidden": "096v",
+  "train": [
+   "100v",
+   "163r",
+   "175v"
+  ],
+  "line": 1,
+  "item": 34
+ },
+ {
+  "arm": "ours",
+  "code": "5d13b7a101314a0",
+  "gloss": "sword",
+  "hidden": "101r",
+  "train": [
+   "005r",
+   "133v"
+  ],
+  "line": 5,
+  "item": 35
+ },
+ {
+  "arm": "kt",
+  "code": "060520ae0",
+  "gloss": "donkey",
+  "hidden": "011r",
+  "train": [
+   "020v"
+  ],
+  "line": 6,
+  "item": 36
+ },
+ {
+  "arm": "ours",
+  "code": "6e3520",
+  "gloss": "drink",
+  "hidden": "034v",
+  "train": [
+   "221r"
+  ],
+  "line": 1,
+  "item": 37
+ },
+ {
+  "arm": "ours",
+  "code": "7b17a0783a10360812",
+  "gloss": "return",
+  "hidden": "160v",
+  "train": [
+   "179r"
+  ],
+  "line": 5,
+  "item": 38
+ },
+ {
+  "arm": "ours",
+  "code": "520170",
+  "gloss": "lame",
+  "hidden": "060v",
+  "train": [
+   "089r"
+  ],
+  "line": 1,
+  "item": 39
+ },
+ {
+  "arm": "ours",
+  "code": "0600605202dd520",
+  "gloss": "Isaac",
+  "hidden": "062r",
+  "train": [
+   "062v"
+  ],
+  "line": 7,
+  "item": 40
+ },
+ {
+  "arm": "ours",
+  "code": "540",
+  "gloss": "name",
+  "hidden": "069v",
+  "train": [
+   "005r"
+  ],
+  "line": 3,
+  "item": 41
+ },
+ {
+  "arm": "ours",
+  "code": "7e1acd",
+  "gloss": "apostolic_letter",
+  "hidden": "077r",
+  "train": [
+   "127v"
+  ],
+  "line": 2,
+  "item": 42
+ },
+ {
+  "arm": "ours",
+  "code": "520afc",
+  "gloss": "mourn",
+  "hidden": "067r",
+  "train": [
+   "211r"
+  ],
+  "line": 10,
+  "item": 43
+ },
+ {
+  "arm": "ours",
+  "code": "060",
+  "gloss": "one",
+  "hidden": "059v",
+  "train": [
+   "003v",
+   "018v",
+   "199r"
+  ],
+  "line": 1,
+  "item": 44
+ },
+ {
+  "arm": "ours",
+  "code": "630461796",
+  "gloss": "crucified",
+  "hidden": "019v",
+  "train": [
+   "026r",
+   "112v",
+   "153r"
+  ],
+  "line": 0,
+  "item": 45
+ },
+ {
+  "arm": "kt",
+  "code": "520383",
+  "gloss": "prepare",
+  "hidden": "127v",
+  "train": [
+   "128r"
+  ],
+  "line": 8,
+  "item": 46
+ },
+ {
+  "arm": "kt",
+  "code": "520843333",
+  "gloss": "Barabbas",
+  "hidden": "047v",
+  "train": [
+   "046r"
+  ],
+  "line": 6,
+  "item": 47
+ },
+ {
+  "arm": "kt",
+  "code": "484",
+  "gloss": "Jairus",
+  "hidden": "075r",
+  "train": [
+   "170v"
+  ],
+  "line": 9,
+  "item": 48
+ },
+ {
+  "arm": "kt",
+  "code": "861",
+  "gloss": "beat",
+  "hidden": "046r",
+  "train": [
+   "143r"
+  ],
+  "line": 4,
+  "item": 49
+ },
+ {
+  "arm": "ours",
+  "code": "060060060060060",
+  "gloss": "five",
+  "hidden": "173r",
+  "train": [
+   "022v",
+   "093v",
+   "108r"
+  ],
+  "line": 3,
+  "item": 50
+ },
+ {
+  "arm": "ours",
+  "code": "432670",
+  "gloss": "chapter",
+  "hidden": "092v",
+  "train": [
+   "088v"
+  ],
+  "line": 6,
+  "item": 51
+ },
+ {
+  "arm": "ours",
+  "code": "5201d3",
+  "gloss": "new",
+  "hidden": "039r",
+  "train": [
+   "069r",
+   "073r",
+   "080v"
+  ],
+  "line": 9,
+  "item": 52
+ },
+ {
+  "arm": "kt",
+  "code": "5205201c5330",
+  "gloss": "Cedron",
+  "hidden": "033r",
+  "train": [
+   "049v"
+  ],
+  "line": 6,
+  "item": 53
+ },
+ {
+  "arm": "kt",
+  "code": "520060760506",
+  "gloss": "tax collector",
+  "hidden": "194r",
+  "train": [
+   "206r"
+  ],
+  "line": 5,
+  "item": 54
+ },
+ {
+  "arm": "kt",
+  "code": "650",
+  "gloss": "nine",
+  "hidden": "119r",
+  "train": [
+   "050v",
+   "179r",
+   "205v"
+  ],
+  "line": 6,
+  "item": 55
+ },
+ {
+  "arm": "kt",
+  "code": "4e1012142",
+  "gloss": "divide",
+  "hidden": "113r",
+  "train": [
+   "112v"
+  ],
+  "line": 0,
+  "item": 56
+ },
+ {
+  "arm": "ours",
+  "code": "a10456",
+  "gloss": "servant",
+  "hidden": "175r",
+  "train": [
+   "136v"
+  ],
+  "line": 8,
+  "item": 57
+ },
+ {
+  "arm": "kt",
+  "code": "7d0270700",
+  "gloss": "hope",
+  "hidden": "152r",
+  "train": [
+   "161r"
+  ],
+  "line": 5,
+  "item": 58
+ },
+ {
+  "arm": "ours",
+  "code": "6a6",
+  "gloss": "heart",
+  "hidden": "118v",
+  "train": [
+   "068r",
+   "105r",
+   "122v"
+  ],
+  "line": 1,
+  "item": 59
+ },
+ {
+  "arm": "kt",
+  "code": "152670ae0",
+  "gloss": "Peter",
+  "hidden": "160v",
+  "train": [
+   "039r",
+   "074r",
+   "076r"
+  ],
+  "line": 8,
+  "item": 60
+ },
+ {
+  "arm": "ours",
+  "code": "520060443520",
+  "gloss": "heaven",
+  "hidden": "119v",
+  "train": [
+   "117r",
+   "117v",
+   "217v"
+  ],
+  "line": 8,
+  "item": 61
+ },
+ {
+  "arm": "ours",
+  "code": "991910",
+  "gloss": "but rather",
+  "hidden": "215r",
+  "train": [
+   "171v",
+   "194v",
+   "200r"
+  ],
+  "line": 6,
+  "item": 62
+ },
+ {
+  "arm": "ours",
+  "code": "670ae0060788060270540",
+  "gloss": "the Red Sea",
+  "hidden": "187r",
+  "train": [
+   "212r"
+  ],
+  "line": 1,
+  "item": 63
+ },
+ {
+  "arm": "kt",
+  "code": "52052084f",
+  "gloss": "obsessed by the evil",
+  "hidden": "102v",
+  "train": [
+   "060v",
+   "100r"
+  ],
+  "line": 0,
+  "item": 64
+ },
+ {
+  "arm": "ours",
+  "code": "812060060060060060",
+  "gloss": "fifth",
+  "hidden": "112v",
+  "train": [
+   "022v",
+   "023v"
+  ],
+  "line": 2,
+  "item": 65
+ },
+ {
+  "arm": "kt",
+  "code": "5202c0010010",
+  "gloss": "touch",
+  "hidden": "171r",
+  "train": [
+   "164r"
+  ],
+  "line": 7,
+  "item": 66
+ },
+ {
+  "arm": "kt",
+  "code": "815",
+  "gloss": "last",
+  "hidden": "069r",
+  "train": [
+   "127v",
+   "150v",
+   "153v"
+  ],
+  "line": 10,
+  "item": 67
+ },
+ {
+  "arm": "kt",
+  "code": "520270ae0",
+  "gloss": "sun",
+  "hidden": "023v",
+  "train": [
+   "222r"
+  ],
+  "line": 3,
+  "item": 68
+ },
+ {
+  "arm": "ours",
+  "code": "0600601a6",
+  "gloss": "pagan",
+  "hidden": "100v",
+  "train": [
+   "100r"
+  ],
+  "line": 2,
+  "item": 69
+ },
+ {
+  "arm": "kt",
+  "code": "520b81",
+  "gloss": "show",
+  "hidden": "023r",
+  "train": [
+   "022v"
+  ],
+  "line": 1,
+  "item": 70
+ },
+ {
+  "arm": "kt",
+  "code": "722",
+  "gloss": "light",
+  "hidden": "098v",
+  "train": [
+   "108v",
+   "119v"
+  ],
+  "line": 3,
+  "item": 71
+ },
+ {
+  "arm": "kt",
+  "code": "7a0233ae0",
+  "gloss": "garden",
+  "hidden": "033r",
+  "train": [
+   "033v"
+  ],
+  "line": 7,
+  "item": 72
+ },
+ {
+  "arm": "ours",
+  "code": "871446916b26",
+  "gloss": "Saint Augustine the church father",
+  "hidden": "100v",
+  "train": [
+   "150v"
+  ],
+  "line": 3,
+  "item": 73
+ },
+ {
+  "arm": "kt",
+  "code": "ac7",
+  "gloss": "descendant",
+  "hidden": "176v",
+  "train": [
+   "172r"
+  ],
+  "line": 4,
+  "item": 74
+ },
+ {
+  "arm": "kt",
+  "code": "5204e7",
+  "gloss": "yoke",
+  "hidden": "093v",
+  "train": [
+   "043r",
+   "122v"
+  ],
+  "line": 3,
+  "item": 75
+ },
+ {
+  "arm": "kt",
+  "code": "060060ae0",
+  "gloss": "fast",
+  "hidden": "152r",
+  "train": [
+   "170v"
+  ],
+  "line": 7,
+  "item": 76
+ },
+ {
+  "arm": "ours",
+  "code": "520b52",
+  "gloss": "until",
+  "hidden": "133r",
+  "train": [
+   "102r",
+   "109r",
+   "127r"
+  ],
+  "line": 0,
+  "item": 77
+ },
+ {
+  "arm": "ours",
+  "code": "5400607b4270540",
+  "gloss": "face",
+  "hidden": "085r",
+  "train": [
+   "085v",
+   "143r"
+  ],
+  "line": 8,
+  "item": 78
+ },
+ {
+  "arm": "kt",
+  "code": "6e0",
+  "gloss": "body",
+  "hidden": "094r",
+  "train": [
+   "060v",
+   "090v",
+   "100r"
+  ],
+  "line": 10,
+  "item": 79
+ },
+ {
+  "arm": "kt",
+  "code": "7e8",
+  "gloss": "say",
+  "hidden": "135v",
+  "train": [
+   "031r",
+   "038v",
+   "039r"
+  ],
+  "line": 9,
+  "item": 80
+ },
+ {
+  "arm": "ours",
+  "code": "9107c1",
+  "gloss": "be_loved",
+  "hidden": "172v",
+  "train": [
+   "182r",
+   "191v",
+   "202v"
+  ],
+  "line": 2,
+  "item": 81
+ },
+ {
+  "arm": "ours",
+  "code": "060060060ae1",
+  "gloss": "three",
+  "hidden": "128r",
+  "train": [
+   "029v",
+   "076r",
+   "188r"
+  ],
+  "line": 9,
+  "item": 82
+ },
+ {
+  "arm": "kt",
+  "code": "60d",
+  "gloss": "slide",
+  "hidden": "126v",
+  "train": [
+   "125r",
+   "125v"
+  ],
+  "line": 1,
+  "item": 83
+ },
+ {
+  "arm": "ours",
+  "code": "521774",
+  "gloss": "at_table",
+  "hidden": "191r",
+  "train": [
+   "072r"
+  ],
+  "line": 3,
+  "item": 84
+ },
+ {
+  "arm": "kt",
+  "code": "520520520ae0",
+  "gloss": "blood",
+  "hidden": "085r",
+  "train": [
+   "021v",
+   "171r"
+  ],
+  "line": 9,
+  "item": 85
+ },
+ {
+  "arm": "kt",
+  "code": "574690a10890ae0",
+  "gloss": "alms",
+  "hidden": "089r",
+  "train": [
+   "173r"
+  ],
+  "line": 0,
+  "item": 86
+ },
+ {
+  "arm": "ours",
+  "code": "5ee060",
+  "gloss": "seven",
+  "hidden": "100v",
+  "train": [
+   "055r",
+   "069r",
+   "082v"
+  ],
+  "line": 6,
+  "item": 87
+ },
+ {
+  "arm": "ours",
+  "code": "520b14",
+  "gloss": "judge",
+  "hidden": "121r",
+  "train": [
+   "043r",
+   "222r"
+  ],
+  "line": 2,
+  "item": 88
+ },
+ {
+  "arm": "ours",
+  "code": "080670ae0670ae01f6",
+  "gloss": "name",
+  "hidden": "163r",
+  "train": [
+   "129r",
+   "129v",
+   "205v"
+  ],
+  "line": 6,
+  "item": 89
+ },
+ {
+  "arm": "ours",
+  "code": "5203f02c1520850",
+  "gloss": "offer",
+  "hidden": "217v",
+  "train": [
+   "051v"
+  ],
+  "line": 5,
+  "item": 90
+ },
+ {
+  "arm": "ours",
+  "code": "152240574",
+  "gloss": "Moses",
+  "hidden": "023r",
+  "train": [
+   "023v"
+  ],
+  "line": 12,
+  "item": 91
+ },
+ {
+  "arm": "kt",
+  "code": "5201c1",
+  "gloss": "shine",
+  "hidden": "041v",
+  "train": [
+   "075r"
+  ],
+  "line": 7,
+  "item": 92
+ },
+ {
+  "arm": "ours",
+  "code": "520444a10",
+  "gloss": "kiss",
+  "hidden": "143r",
+  "train": [
+   "150v"
+  ],
+  "line": 0,
+  "item": 93
+ },
+ {
+  "arm": "ours",
+  "code": "4b0",
+  "gloss": "say",
+  "hidden": "045v",
+  "train": [
+   "051v",
+   "071v",
+   "197v"
+  ],
+  "line": 0,
+  "item": 94
+ },
+ {
+  "arm": "kt",
+  "code": "9e0",
+  "gloss": "look up",
+  "hidden": "038v",
+  "train": [
+   "005r"
+  ],
+  "line": 11,
+  "item": 95
+ },
+ {
+  "arm": "kt",
+  "code": "520360ae0",
+  "gloss": "Bethany",
+  "hidden": "190v",
+  "train": [
+   "011r"
+  ],
+  "line": 1,
+  "item": 96
+ },
+ {
+  "arm": "ours",
+  "code": "7807802c05401f1",
+  "gloss": "verily",
+  "hidden": "066v",
+  "train": [
+   "065v",
+   "091r"
+  ],
+  "line": 5,
+  "item": 97
+ },
+ {
+  "arm": "kt",
+  "code": "520ae0520250",
+  "gloss": "emperor",
+  "hidden": "047r",
+  "train": [
+   "019v",
+   "041v",
+   "104v"
+  ],
+  "line": 6,
+  "item": 98
+ },
+ {
+  "arm": "ours",
+  "code": "086",
+  "gloss": "world",
+  "hidden": "038v",
+  "train": [
+   "018r",
+   "090r"
+  ],
+  "line": 10,
+  "item": 99
+ },
+ {
+  "arm": "kt",
+  "code": "520060990",
+  "gloss": "rather",
+  "hidden": "010v",
+  "train": [
+   "038v"
+  ],
+  "line": 6,
+  "item": 100
+ },
+ {
+  "arm": "ours",
+  "code": "520ae00a20a2ae0",
+  "gloss": "bread",
+  "hidden": "096r",
+  "train": [
+   "022v",
+   "031v"
+  ],
+  "line": 9,
+  "item": 101
+ },
+ {
+  "arm": "ours",
+  "code": "5203f0255",
+  "gloss": "heaven",
+  "hidden": "010v",
+  "train": [
+   "014r",
+   "074v"
+  ],
+  "line": 8,
+  "item": 102
+ },
+ {
+  "arm": "ours",
+  "code": "7807802c05201f1",
+  "gloss": "verily",
+  "hidden": "065v",
+  "train": [
+   "091r"
+  ],
+  "line": 1,
+  "item": 103
+ },
+ {
+  "arm": "kt",
+  "code": "5200600a2352a109ab",
+  "gloss": "Bethlehem",
+  "hidden": "025r",
+  "train": [
+   "020r",
+   "020v"
+  ],
+  "line": 12,
+  "item": 104
+ },
+ {
+  "arm": "ours",
+  "code": "630461",
+  "gloss": "on_the_cross",
+  "hidden": "047v",
+  "train": [
+   "047r",
+   "153r",
+   "180r"
+  ],
+  "line": 8,
+  "item": 105
+ },
+ {
+  "arm": "kt",
+  "code": "542",
+  "gloss": "grinding",
+  "hidden": "202v",
+  "train": [
+   "066r",
+   "070r"
+  ],
+  "line": 4,
+  "item": 106
+ },
+ {
+  "arm": "ours",
+  "code": "5201a3520",
+  "gloss": "sky",
+  "hidden": "020v",
+  "train": [
+   "074r"
+  ],
+  "line": 3,
+  "item": 107
+ },
+ {
+  "arm": "ours",
+  "code": "a10444520",
+  "gloss": "another",
+  "hidden": "205v",
+  "train": [
+   "020v",
+   "055r",
+   "104v"
+  ],
+  "line": 8,
+  "item": 108
+ },
+ {
+  "arm": "ours",
+  "code": "7e6",
+  "gloss": "say",
+  "hidden": "177r",
+  "train": [
+   "076r",
+   "082r",
+   "194v"
+  ],
+  "line": 0,
+  "item": 109
+ },
+ {
+  "arm": "ours",
+  "code": "b70",
+  "gloss": "mount",
+  "hidden": "011v",
+  "train": [
+   "109v"
+  ],
+  "line": 8,
+  "item": 110
+ },
+ {
+  "arm": "kt",
+  "code": "8126a76a7ae0",
+  "gloss": "Aaron",
+  "hidden": "187v",
+  "train": [
+   "139v"
+  ],
+  "line": 5,
+  "item": 111
+ },
+ {
+  "arm": "kt",
+  "code": "5d14a7520670",
+  "gloss": "escape",
+  "hidden": "036v",
+  "train": [
+   "021v",
+   "160r",
+   "180r"
+  ],
+  "line": 8,
+  "item": 112
+ },
+ {
+  "arm": "ours",
+  "code": "670ae0650",
+  "gloss": "grape",
+  "hidden": "140r",
+  "train": [
+   "051v",
+   "190v"
+  ],
+  "line": 2,
+  "item": 113
+ },
+ {
+  "arm": "ours",
+  "code": "6e6",
+  "gloss": "thirst",
+  "hidden": "201v",
+  "train": [
+   "051v"
+  ],
+  "line": 5,
+  "item": 114
+ },
+ {
+  "arm": "ours",
+  "code": "270910",
+  "gloss": "the Lord",
+  "hidden": "192v",
+  "train": [
+   "060r",
+   "061r",
+   "075v"
+  ],
+  "line": 6,
+  "item": 115
+ },
+ {
+  "arm": "ours",
+  "code": "4f5520ae0",
+  "gloss": "crown",
+  "hidden": "044v",
+  "train": [
+   "181r"
+  ],
+  "line": 3,
+  "item": 116
+ },
+ {
+  "arm": "ours",
+  "code": "6706703b7",
+  "gloss": "Nazareth",
+  "hidden": "036r",
+  "train": [
+   "131v",
+   "220r"
+  ],
+  "line": 7,
+  "item": 117
+ },
+ {
+  "arm": "kt",
+  "code": "5209679a29c1",
+  "gloss": "denarius",
+  "hidden": "106v",
+  "train": [
+   "207r"
+  ],
+  "line": 7,
+  "item": 118
+ },
+ {
+  "arm": "ours",
+  "code": "520b78",
+  "gloss": "to_the_mount",
+  "hidden": "033v",
+  "train": [
+   "033r",
+   "108r",
+   "212r"
+  ],
+  "line": 10,
+  "item": 119
+ },
+ {
+  "arm": "kt",
+  "code": "520b90574",
+  "gloss": "Noah",
+  "hidden": "133v",
+  "train": [
+   "101r"
+  ],
+  "line": 9,
+  "item": 120
+ },
+ {
+  "arm": "ours",
+  "code": "670ae0701",
+  "gloss": "bless",
+  "hidden": "190v",
+  "train": [
+   "192v"
+  ],
+  "line": 8,
+  "item": 121
+ },
+ {
+  "arm": "kt",
+  "code": "755670b26",
+  "gloss": "Saul",
+  "hidden": "220r",
+  "train": [
+   "216r",
+   "217r",
+   "218r"
+  ],
+  "line": 8,
+  "item": 122
+ },
+ {
+  "arm": "ours",
+  "code": "060060060",
+  "gloss": "three",
+  "hidden": "075r",
+  "train": [
+   "036r",
+   "162v",
+   "200v"
+  ],
+  "line": 0,
+  "item": 123
+ },
+ {
+  "arm": "ours",
+  "code": "5201c2270540",
+  "gloss": "sun",
+  "hidden": "082v",
+  "train": [
+   "074r"
+  ],
+  "line": 9,
+  "item": 124
+ },
+ {
+  "arm": "ours",
+  "code": "a10003a10411",
+  "gloss": "neighbour",
+  "hidden": "166v",
+  "train": [
+   "068r",
+   "105v"
+  ],
+  "line": 7,
+  "item": 125
+ },
+ {
+  "arm": "kt",
+  "code": "ad5",
+  "gloss": "dinner",
+  "hidden": "009v",
+  "train": [
+   "066v",
+   "068v",
+   "095r"
+  ],
+  "line": 9,
+  "item": 126
+ },
+ {
+  "arm": "kt",
+  "code": "2b0",
+  "gloss": "mountain peak",
+  "hidden": "033v",
+  "train": [
+   "094v"
+  ],
+  "line": 10,
+  "item": 127
+ },
+ {
+  "arm": "ours",
+  "code": "520180",
+  "gloss": "city",
+  "hidden": "047r",
+  "train": [
+   "108r",
+   "108v"
+  ],
+  "line": 3,
+  "item": 128
+ },
+ {
+  "arm": "kt",
+  "code": "520460670090a10",
+  "gloss": "lamb",
+  "hidden": "005r",
+  "train": [
+   "029v"
+  ],
+  "line": 1,
+  "item": 129
+ },
+ {
+  "arm": "kt",
+  "code": "5e1",
+  "gloss": "soul",
+  "hidden": "180r",
+  "train": [
+   "085r",
+   "115r",
+   "123r"
+  ],
+  "line": 7,
+  "item": 130
+ },
+ {
+  "arm": "kt",
+  "code": "144",
+  "gloss": "Abraham",
+  "hidden": "061v",
+  "train": [
+   "085r",
+   "089v",
+   "207v"
+  ],
+  "line": 8,
+  "item": 131
+ },
+ {
+  "arm": "kt",
+  "code": "5201515201c2270540",
+  "gloss": "sun",
+  "hidden": "100v",
+  "train": [
+   "082v",
+   "102v"
+  ],
+  "line": 4,
+  "item": 132
+ },
+ {
+  "arm": "kt",
+  "code": "b41",
+  "gloss": "tablet",
+  "hidden": "013v",
+  "train": [
+   "050v",
+   "218r"
+  ],
+  "line": 0,
+  "item": 133
+ },
+ {
+  "arm": "ours",
+  "code": "670ae00a20a2ae0",
+  "gloss": "bread",
+  "hidden": "095r",
+  "train": [
+   "172r"
+  ],
+  "line": 11,
+  "item": 134
+ },
+ {
+  "arm": "ours",
+  "code": "5203f0224",
+  "gloss": "heaven",
+  "hidden": "099r",
+  "train": [
+   "101v"
+  ],
+  "line": 2,
+  "item": 135
+ },
+ {
+  "arm": "ours",
+  "code": "5402d1ae1",
+  "gloss": "loaves",
+  "hidden": "212v",
+  "train": [
+   "022v"
+  ],
+  "line": 4,
+  "item": 136
+ },
+ {
+  "arm": "kt",
+  "code": "060131060131",
+  "gloss": "woman",
+  "hidden": "056r",
+  "train": [
+   "119v",
+   "163v",
+   "164v"
+  ],
+  "line": 2,
+  "item": 137
+ },
+ {
+  "arm": "ours",
+  "code": "670690360",
+  "gloss": "Elijah",
+  "hidden": "198v",
+  "train": [
+   "100v",
+   "133r",
+   "133v"
+  ],
+  "line": 2,
+  "item": 138
+ },
+ {
+  "arm": "ours",
+  "code": "670ae00e2",
+  "gloss": "Capharnaum",
+  "hidden": "160v",
+  "train": [
+   "025r",
+   "161r"
+  ],
+  "line": 7,
+  "item": 139
+ },
+ {
+  "arm": "kt",
+  "code": "892670830",
+  "gloss": "get raptured",
+  "hidden": "133v",
+  "train": [
+   "101r"
+  ],
+  "line": 7,
+  "item": 140
+ },
+ {
+  "arm": "kt",
+  "code": "520060050040",
+  "gloss": "water",
+  "hidden": "047v",
+  "train": [
+   "089v",
+   "091v",
+   "133v"
+  ],
+  "line": 0,
+  "item": 141
+ },
+ {
+  "arm": "kt",
+  "code": "7e5",
+  "gloss": "appear",
+  "hidden": "075r",
+  "train": [
+   "014r",
+   "056r",
+   "128v"
+  ],
+  "line": 7,
+  "item": 142
+ },
+ {
+  "arm": "kt",
+  "code": "ad1690",
+  "gloss": "Pharisee",
+  "hidden": "117r",
+  "train": [
+   "118v"
+  ],
+  "line": 0,
+  "item": 143
+ },
+ {
+  "arm": "kt",
+  "code": "060ae0a10ae0",
+  "gloss": "begins",
+  "hidden": "068v",
+  "train": [
+   "054v",
+   "175v",
+   "205v"
+  ],
+  "line": 0,
+  "item": 144
+ },
+ {
+  "arm": "ours",
+  "code": "a10003a10a20",
+  "gloss": "neighbour",
+  "hidden": "100r",
+  "train": [
+   "099r"
+  ],
+  "line": 0,
+  "item": 145
+ },
+ {
+  "arm": "ours",
+  "code": "520060060443540",
+  "gloss": "heaven",
+  "hidden": "120r",
+  "train": [
+   "107r"
+  ],
+  "line": 4,
+  "item": 146
+ },
+ {
+  "arm": "ours",
+  "code": "060060060ae0",
+  "gloss": "three",
+  "hidden": "042r",
+  "train": [
+   "128v",
+   "220v"
+  ],
+  "line": 3,
+  "item": 147
+ },
+ {
+  "arm": "kt",
+  "code": "2b4",
+  "gloss": "kneel",
+  "hidden": "009r",
+  "train": [
+   "020v",
+   "135v",
+   "217v"
+  ],
+  "line": 7,
+  "item": 148
+ },
+ {
+  "arm": "ours",
+  "code": "4f1353",
+  "gloss": "rise",
+  "hidden": "034r",
+  "train": [
+   "104v",
+   "181r",
+   "194r"
+  ],
+  "line": 5,
+  "item": 149
+ },
+ {
+  "arm": "kt",
+  "code": "520ae0a10670",
+  "gloss": "Judas",
+  "hidden": "035r",
+  "train": [
+   "031v"
+  ],
+  "line": 10,
+  "item": 150
+ },
+ {
+  "arm": "kt",
+  "code": "060060507",
+  "gloss": "of an alien nation",
+  "hidden": "009v",
+  "train": [
+   "176v",
+   "177r",
+   "179v"
+  ],
+  "line": 3,
+  "item": 151
+ },
+ {
+  "arm": "kt",
+  "code": "2c5a101a0ae0540",
+  "gloss": "night",
+  "hidden": "128v",
+  "train": [
+   "034v",
+   "090v",
+   "091r"
+  ],
+  "line": 0,
+  "item": 152
+ },
+ {
+  "arm": "ours",
+  "code": "520890",
+  "gloss": "room",
+  "hidden": "007r",
+  "train": [
+   "020r"
+  ],
+  "line": 5,
+  "item": 153
+ },
+ {
+  "arm": "kt",
+  "code": "5d8",
+  "gloss": "mourn",
+  "hidden": "055v",
+  "train": [
+   "056r",
+   "102v"
+  ],
+  "line": 4,
+  "item": 154
+ },
+ {
+  "arm": "ours",
+  "code": "67098a",
+  "gloss": "scattered",
+  "hidden": "112v",
+  "train": [
+   "111v"
+  ],
+  "line": 6,
+  "item": 155
+ },
+ {
+  "arm": "kt",
+  "code": "201ae0",
+  "gloss": "washdish",
+  "hidden": "029v",
+  "train": [
+   "047v"
+  ],
+  "line": 11,
+  "item": 156
+ },
+ {
+  "arm": "kt",
+  "code": "520b76",
+  "gloss": "ask",
+  "hidden": "113r",
+  "train": [
+   "067v",
+   "093r",
+   "136r"
+  ],
+  "line": 11,
+  "item": 157
+ },
+ {
+  "arm": "ours",
+  "code": "390a10",
+  "gloss": "blessed",
+  "hidden": "018v",
+  "train": [
+   "181v"
+  ],
+  "line": 2,
+  "item": 158
+ },
+ {
+  "arm": "kt",
+  "code": "9f3540152",
+  "gloss": "tooth",
+  "hidden": "066r",
+  "train": [
+   "070r"
+  ],
+  "line": 5,
+  "item": 159
+ },
+ {
+  "arm": "ours",
+  "code": "630060060060ae1",
+  "gloss": "on the third day",
+  "hidden": "067v",
+  "train": [
+   "014r"
+  ],
+  "line": 0,
+  "item": 160
+ },
+ {
+  "arm": "ours",
+  "code": "a79",
+  "gloss": "answered",
+  "hidden": "011v",
+  "train": [
+   "194r",
+   "195v",
+   "212r"
+  ],
+  "line": 0,
+  "item": 161
+ },
+ {
+  "arm": "kt",
+  "code": "540850540ae0",
+  "gloss": "gain",
+  "hidden": "061v",
+  "train": [
+   "025r",
+   "066r"
+  ],
+  "line": 2,
+  "item": 162
+ },
+ {
+  "arm": "kt",
+  "code": "5202d1",
+  "gloss": "Stephen",
+  "hidden": "217v",
+  "train": [
+   "217r"
+  ],
+  "line": 5,
+  "item": 163
+ },
+ {
+  "arm": "ours",
+  "code": "4257b44aa",
+  "gloss": "language",
+  "hidden": "082r",
+  "train": [
+   "080v"
+  ],
+  "line": 5,
+  "item": 164
+ },
+ {
+  "arm": "ours",
+  "code": "060060505",
+  "gloss": "pagan",
+  "hidden": "023r",
+  "train": [
+   "196r"
+  ],
+  "line": 0,
+  "item": 165
+ },
+ {
+  "arm": "kt",
+  "code": "540060540060",
+  "gloss": "face",
+  "hidden": "106v",
+  "train": [
+   "051v"
+  ],
+  "line": 1,
+  "item": 166
+ },
+ {
+  "arm": "ours",
+  "code": "060060060060060060060460",
+  "gloss": "seventy",
+  "hidden": "163r",
+  "train": [
+   "085r"
+  ],
+  "line": 8,
+  "item": 167
+ },
+ {
+  "arm": "kt",
+  "code": "286a106026701f2",
+  "gloss": "Joseph",
+  "hidden": "019v",
+  "train": [
+   "188v"
+  ],
+  "line": 10,
+  "item": 168
+ },
+ {
+  "arm": "kt",
+  "code": "950",
+  "gloss": "hide oneself",
+  "hidden": "018v",
+  "train": [
+   "001v",
+   "035v",
+   "036r"
+  ],
+  "line": 4,
+  "item": 169
+ },
+ {
+  "arm": "ours",
+  "code": "520060060060131",
+  "gloss": "woman",
+  "hidden": "143r",
+  "train": [
+   "159v"
+  ],
+  "line": 7,
+  "item": 170
+ },
+ {
+  "arm": "kt",
+  "code": "540233540520",
+  "gloss": "darkness",
+  "hidden": "018r",
+  "train": [
+   "092v",
+   "098r",
+   "152r"
+  ],
+  "line": 5,
+  "item": 171
+ },
+ {
+  "arm": "ours",
+  "code": "812060060060",
+  "gloss": "third",
+  "hidden": "033r",
+  "train": [
+   "068v",
+   "080r",
+   "111v"
+  ],
+  "line": 4,
+  "item": 172
+ },
+ {
+  "arm": "kt",
+  "code": "2c0850812a82",
+  "gloss": "David",
+  "hidden": "178r",
+  "train": [
+   "012v"
+  ],
+  "line": 4,
+  "item": 173
+ },
+ {
+  "arm": "kt",
+  "code": "4a04a04ac",
+  "gloss": "thirty",
+  "hidden": "178r",
+  "train": [
+   "118v",
+   "189r",
+   "193v"
+  ],
+  "line": 0,
+  "item": 174
+ }
+]

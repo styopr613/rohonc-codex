@@ -1,0 +1,150 @@
+TEST 18: TWO BLIND MODELS -- READ FROM SOME FOLIOS, JUDGED ON ANOTHER CHAPTER
+  reader deepseek/deepseek-v3.2; judge google/gemini-2.5-flash; seed 20260930; cost $0.0423
+
+  K&T known words: 87 signs, 71 read
+  item train             hidden gloss              reader             agree  judge
+     1 133r,133v         089r   lie                bread              -      picked
+     2 055v,179r         035v   back               fall down          -      picked
+     5 182r,214r,217r    082r   Jerusalem          holy place         -      rival
+     6 089r,092r         150v   dog                rich man           -      rival
+    12 041v,065v,089v    036r   shout              in torments        -      picked
+    13 035r              055r   James              betray             -      rival
+    15 069r              073r   language           Holy Spirit        -      rival
+    16 114r,159r         212v   bread              side               -      picked
+    17 212r              130v   Philip             to eat             -      rival
+    18 002v,023v         023r   Elijah             living             -      picked
+    19 033r,035r,039r    117r   John               disciple           -      rival
+    21 071v              089r   chase              the hour           -      rival
+    22 159r              133v   mount              possessed with dev -      rival
+    23 119r              098v   hundred            hundred            yes    rival
+    24 005r              192r   peace              a ram              -      rival
+    27 135v,136r,136v    128r   only one           fellow servant     -      rival
+    29 044v              181r   thorn              crown of thorns    yes    rival
+    34 100v,163r,175v    096v   town               city               -      rival
+    46 128r              127v   prepare            risen              -      rival
+    47 046r              047v   Barabbas           the Son            -      picked
+    48 170v              075r   Jairus             bridegroom         -      rival
+    49 143r              046r   beat               at the mill        -      rival
+    53 049v              033r   Cedron             cross              -      rival
+    54 206r              194r   tax collector      chief tax collecto yes    picked
+    55 050v,179r,205v    119r   nine               title              -      rival
+    56 112v              113r   divide             wept               -      rival
+    58 161r              152r   hope               to heal            -      picked
+    64 060v,100r         102v   obsessed by the ev desires            -      rival
+    66 164r              171r   touch              touch              yes    picked
+    67 127v,150v,153v    069r   last               good               -      picked
+    70 022v              023r   show               heal               -      picked
+    71 108v,119v         098v   light              light a candle     yes    rival
+    72 033v              033r   garden             pray               -      rival
+    74 172r              176v   descendant         command            -      picked
+    76 170v              152r   fast               disciple           -      picked
+    79 060v,090v,100r    094r   body               evil               -      picked
+    80 031r,038v,039r    135v   say                high priest        -      picked
+    83 125r,125v         126v   slide              till the earth     -      rival
+    85 021v,171r         085r   blood              blood              yes    picked
+    95 005r              038v   look up            a ram              -      rival
+    96 011r              190v   Bethany            take               -      rival
+    98 019v,041v,104v    047r   emperor            desired            -      picked
+   100 038v              010v   rather             die for            -      rival
+   104 020r,020v         025r   Bethlehem          to, toward         -      rival
+   106 066r,070r         202v   grinding           gnashing of        -      picked
+   112 021v,160r,180r    036v   escape             flee               -      rival
+   120 101r              133v   Noah               fire               -      picked
+   122 216r,217r,218r    220r   Saul               witness            -      rival
+   126 066v,068v,095r    009v   dinner             in my name         -      rival
+   127 094v              033v   mountain peak      blessed            -      rival
+   131 085r,089v,207v    061v   Abraham            Abraham            yes    picked
+   132 082v,102v         100v   sun                day                -      picked
+   133 050v,218r         013v   tablet             said               -      picked
+   137 119v,163v,164v    056r   woman              one                -      rival
+   140 101r              133v   get raptured       the Lord           -      picked
+   141 089v,091v,133v    047v   water              of water           yes    picked
+   142 014r,056r,128v    075r   appear             appear             yes    picked
+   144 054v,175v,205v    068v   begins             this book          -      picked
+   148 020v,135v,217v    009r   kneel              behold, lo         -      picked
+   150 031v              035r   Judas              quickly            -      rival
+   151 176v,177r,179v    009v   of an alien nation husband            -      picked
+   152 034v,090v,091r    128v   night              born again         -      rival
+   156 047v              029v   washdish           hand               -      picked
+   157 067v,093r,136r    113r   ask                pay back           -      rival
+   159 070r              066r   tooth              weeping            -      picked
+   162 025r,066r         061v   gain               son                -      picked
+   163 217r              217v   Stephen            blaspheme          -      rival
+   166 051v              106v   face               full of            -      picked
+   168 188v              019v   Joseph             eat                -      rival
+   171 092v,098r,152r    018r   darkness           love darkness      yes    picked
+   173 012v              178r   David              Hosanna            -      rival
+
+  project A/B: 87 signs, 63 read
+  item train             hidden gloss              reader             agree  judge
+     3 101r              216r   gate/open          the Lord           -      picked
+     4 067v,070v,131v    197v   be saved           be baptized        -      rival
+     7 172v              172r   sky                each, every        -      rival
+     8 178r,181r,182r    029v   appear             show               -      picked
+     9 089v              130v   finger             tip of finger      yes    rival
+    11 049v              044v   collapse           cross              -      rival
+    14 070v,071v,074v    067v   name               name               yes    picked
+    20 007r,125r         051v   pine               the earth          -      rival
+    25 085v,125r,135v    122v   law                forgive            -      rival
+    26 112v              113r   rejoiced           wept               -      rival
+    28 164r              220r   lie                young man          -      picked
+    31 100v              133v   forty              temple             -      rival
+    32 122v              126r   saying             rib                -      rival
+    35 005r,133v         101r   sword              see                -      picked
+    38 179r              160v   return             one of them        -      picked
+    39 089r              060v   lame               rich man           -      rival
+    41 005r              069v   name               ram                -      rival
+    42 127v              077r   apostolic_letter   faith              -      rival
+    45 026r,112v,153r    019v   crucified          in the middle      -      rival
+    50 022v,093v,108r    173r   five               oxen               -      rival
+    51 088v              092v   chapter            feet               -      rival
+    57 136v              175r   servant            servant            yes    picked
+    59 068r,105r,122v    118v   heart              mind               -      rival
+    69 100r              100v   pagan              write              -      picked
+    73 150v              100v   Saint Augustine th is moved           -      rival
+    78 085v,143r         085r   face               turn back          -      rival
+    81 182r,191v,202v    172v   be_loved           the Lord           -      rival
+    82 029v,076r,188r    128r   three              forty years        -      rival
+    88 043r,222r         121r   judge              sign               -      picked
+    89 129r,129v,205v    163r   name               Holy Ghost         -      picked
+    90 051v              217v   offer              spirit             -      rival
+    91 023v              023r   Moses              Moses              yes    picked
+    93 150v              143r   kiss               kissed             -      rival
+    97 065v,091r         066v   verily             said               -      picked
+   101 022v,031v         096r   bread              devil              -      picked
+   102 014r,074v         010v   heaven             heaven             yes    picked
+   103 091r              065v   verily             truly              -      picked
+   105 047r,153r,180r    047v   on_the_cross       Jesus              -      rival
+   107 074r              020v   sky                into heaven        -      picked
+   108 020v,055r,104v    205v   another            to see             -      picked
+   109 076r,082r,194v    177r   say                forgive            -      picked
+   110 109v              011v   mount              to Jerusalem       -      picked
+   113 051v,190v         140r   grape              vinegar            -      rival
+   114 051v              201v   thirst             vinegar            -      rival
+   116 181r              044v   crown              nail               -      rival
+   117 131v,220r         036r   Nazareth           of Nazareth        yes    rival
+   119 033r,108r,212r    033v   to_the_mount       mountain           -      rival
+   121 192v              190v   bless              Lamb of God        -      rival
+   123 036r,162v,200v    075r   three              they said          -      picked
+   124 074r              082v   sun                Jesus              -      picked
+   128 108r,108v         047r   city               let shine          -      rival
+   134 172r              095r   bread              to eat             -      rival
+   135 101v              099r   heaven             see                -      rival
+   139 025r,161r         160v   Capharnaum         to heal            -      rival
+   145 099r              100r   neighbour          love               -      rival
+   149 104v,181r,194r    034r   rise               see                -      rival
+   153 020r              007r   room               no room            yes    rival
+   155 111v              112v   scattered          stone              -      picked
+   158 181v              018v   blessed            blessed            yes    rival
+   160 014r              067v   on the third day   rise from death    -      rival
+   165 196r              023r   pagan              little child       -      rival
+   167 085r              163r   seventy            guard              -      picked
+   172 068v,080r,111v    033r   third              of justice         -      rival
+
+  arm              judged       picked  chance         p         agree
+  K&T known words      71   33  46.5%   33.3%     0.015  10/71   14.1%
+  project A/B          63   23  36.5%   33.3%      0.34   8/63   12.7%
+
+  CALIBRATION  K&T's words transfer, p < 0.01, n >= 30   FAILED
+  TRANSFER     ours transfer, p < 0.01, n >= 30          NO VERDICT
+  AGREEMENT    ours at least half of K&T's rate          NO VERDICT   (12.7% against 14.1%)
