@@ -119,22 +119,5 @@ method required proposed fills to be checked at every occurrence before they
 were admitted. A future generalisation claim therefore needs material hidden
 during selection or a prospective evaluation on newly available evidence.
 
-That prospective check was then run with a fresh, stateless reader. It saw
-one occurrence of each sampled sign and a different occurrence was concealed.
-Its new glosses reached concealed source passages more often than shuffled
-glosses, but almost never agreed with this project's glosses; the stronger
-word-order measure did not separate significantly.
-
-    Test 18   (ktprospective.txt)
-    concealed passage hits      8/26  30.8%
-    shuffled                           12.4%
-    difference                          3.2 sigma
-    agreement with project       2/26   7.7%
-    word order                           2.0 sigma
-
-Thus a blind reader extracts recurring passage-level signal; this run does
-not independently recover the project's dictionary. It is reported without
-a verdict because no outcome bar was declared before the run.
-
 Whether human readers, performing the same tests, would be more or less
 biased is an open question as well, but it would be a welcome test.

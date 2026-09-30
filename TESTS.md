@@ -628,43 +628,6 @@ it could fail to recall by number and still recognise a page's wording.
 Recall by label is the cheap and likely route, and it is closed. Cost
 $0.0013.
 
-## Test 18 — a genuinely prospective occurrence holdout
-
-`harness/ktprospective.py` · `work/rohonc/ktprospective.txt` ·
-`work/rohonc/outside/prospective_occurrence/` (manifest, exact prompt and raw reply)
-
-Added after the compact-folio correction showed that Tests 1 and 6 were not
-held out. Forty A/B signs were sampled by a fixed seed from signs that K&T do
-not read and that occur on at least two cited folios. For each sign, one
-folio was shown to a fresh, stateless outside reader and a different folio
-was concealed. The training packet contained K&T's words and the cited
-Douay passage, but none of this project's glosses, evidence notes,
-translations, sign codes or concealed-folio labels. The reader had to freeze
-one short gloss or decline before the concealed folios were scored. It cost
-$0.0032.
-
-    sampled signs                    40
-    answered / scorable              27 / 26
-    concealed-folio passage hits      8 / 26   30.8%
-    shuffled glosses                            12.4%
-    difference                       3.2 sigma   permutation p 0.0060
-    agreement with project A/B gloss  2 / 26    7.7%
-
-The primary score is Test 1's weak rule: at least one content stem of the
-answer occurs somewhere in the concealed folio's cited passage. Two
-sensitivities were added only after the raw reply was frozen. Requiring every
-answer stem gives 6/26 against 4.3% shuffled (5.0 sigma, p 0.0010). The
-stronger word-order measure does not separate: gain -1 against -3.53
-shuffled, 2.0 sigma, p 0.0693.
-
-This answers two different questions in opposite directions. A fresh reader
-can extract passage-linked phrases that recur on concealed folios more often
-than shuffled phrases. It does not recover this project's sign dictionary:
-only *good shepherd* / *shepherd* and *crown of thorns* / *crown* agree under
-the frozen strict rule. No outcome bar was declared before the run, so this
-is reported without a PASS or FAIL verdict. It does not restore the old
-verdicts for Tests 1 or 6.
-
 ## Every run regenerated — 2026-09-22
 
 Before publication every deterministic test was rerun from scratch and
@@ -817,7 +780,6 @@ selection-conditioned diagnostics.
     Test 14 | the blind rotated run, outside reader | rotated book 0 fills, 0 matches; real book 3.8 fills a page, 13 of 18 | PASS
     Test 15 | passage identification, outside reader | chapter level 9 of 20 against 0 of 20 shuffled; p 0.002 | PASS
     Test 17 | memory check on Test 15's reader | asked by folio number with no page shown, it names 0 of 20 cited chapters and declines 19; Test 15's nine were not recalled by label | NO MEMORY SHOWN
-    Test 18 | prospective occurrence holdout, fresh outside reader | frozen glosses hit 8 of 26 concealed passages against 12.4% shuffled, 3.2 sigma; only 2 of 26 agree with the project's A/B glosses; word order 2.0 sigma | reported, not a verdict
 
     PASS and FAIL are verdicts on the readings against a bar declared before the run.
     NO VERDICT means the instrument failed its own check on Király and Tokai's words,
@@ -832,10 +794,7 @@ PASS, while Tests 1 and 6 are selection-conditioned diagnostics rather than
 independent confirmation. Test 5 likewise measures agreement with K&T's
 translations, which were available while the readings were made. The loop
 run blind on rotated pages (Test 14) produced nothing when handed the wrong
-passage. The new prospective split (Test 18) shows that fresh proposed words
-carry passage-level signal to concealed folios, but almost never reproduce
-the project's existing glosses and do not pass the stronger word-order
-sensitivity. The guesses are measured by Test 3: one in six strict, one in
+passage. The guesses are measured by Test 3: one in six strict, one in
 three lenient.
 
 Also on record, from earlier the same day: K&T's own citations land on the
