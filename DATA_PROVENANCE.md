@@ -184,9 +184,11 @@ supplied:
   481-483, `https://archive.org/details/lifeofrichardwag04glas`, public
   domain; first read in the reprint at
   `https://www.jasoncolavito.com/the-holy-grail-as-lucifers-crown-jewel.html`.
-- **Carmelite tradition on John and Carmel.** *Catholic Encyclopedia* (1908),
+- **John the Baptist and the Sons of the Prophets.** *Catholic Encyclopedia* (1908),
   "The Carmelite Order", `https://www.newadvent.org/cathen/03354a.htm`, public
-  domain; and the Order's own page on Saint Joseph, which records the medieval
+  domain, which says only that "some authors think" John revived the
+  institute of the Sons of the Prophets; the note on 024r had called this a
+  Carmelite tradition, corrected 2026-10-03; and the Order's own page on Saint Joseph, which records the medieval
   legend that the Holy Family visited the hermits at Elijah's well,
   `https://www.ocarm.org/en/item/6050-st-joseph-and-the-carmelite-order`. An
   earlier version of this entry pointed at the Order's page on Mary, which
@@ -284,6 +286,27 @@ check:
   `https://www.newadvent.org/fathers/0847.htm` and
   `https://www.newadvent.org/fathers/0848.htm`. The note on 016v had put the
   Golden Gate in the Protevangelium; corrected.
+- **Council of Trent, session 22, chapter 7 (1562).** "It has been enjoined
+  by the Church on priests, to mix water with the wine", read at
+  `https://www.papalencyclicals.net/councils/trent/twenty-second-session.htm`.
+  The note on 030v had Trent make the rule; corrected 2026-10-03.
+- **Origen, *Against Celsus* 2.62 and 2.68.** Names the Emmaus pair "Simon and
+  Cleopas", read at `https://www.newadvent.org/fathers/04162.htm`, public
+  domain. The note on 061r had called the codex's Luke "a western
+  tradition", with no source; withdrawn 2026-10-03.
+- **The *Golden Legend*, Caxton's English (1483), as edited by F. S. Ellis
+  (1900).** "Saint James the Less" (vol. 3): the mother who roasts her child,
+  Vespasian made emperor and leaving Titus at the siege, thirty Jews sold for
+  a penny; "The Exaltation of the Holy Cross" (vol. 5): "the year of our Lord
+  six hundred and fifteen", Cosdroe carries off the Cross and Heraclius brings
+  it back. Read at
+  `https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume3.asp`
+  and `...Volume5.asp`. Replaces, 2026-10-03, an uncited Hegesippus (111v),
+  "Vespasian and his son Titus took Jerusalem" (110v, corrected), and
+  uncited dates 614 and 630 (183r).
+- **Douay-Rheims Mark 14:1, 14:10**, read at
+  `http://www.drbo.org/chapter/48014.htm`. Replaces, 2026-10-03, the 032r
+  note's "Spy Wednesday in the Latin calendar", which had no source.
 - **Stephan Borgehammar, "Heraclius Learns Humility: Two Early Latin
   Accounts Composed for the Celebration of Exaltatio Crucis", *Millennium* 6
   (2009) 145-201.** Edits the *Reversio sanctae crucis* and a sermon telling
