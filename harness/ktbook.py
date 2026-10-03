@@ -418,6 +418,11 @@ words on either side of the hole. Counted as read nowhere.
 
 **[…]** — dark: no reading and no honest guess.
 
+The notes give this project's own readings a tier. Tiers A and B print as
+read: A survives every place the sign stands, B survives most, with the rest
+unclear rather than against. Tiers C and D print as *word\\** — one passage.
+Tier G prints in brackets — a guess, counted as read nowhere.
+
 **=** — this sign belongs to the phrase printed just before it. Király and
 Tokai read some runs of signs together, as one meaning: *be_healed =* is two
 signs that they read as "be healed".

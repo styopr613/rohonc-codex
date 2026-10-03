@@ -87,6 +87,11 @@ transcription splits in two.
 | `[...]` | dark: no reading, and no honest guess |
 | `=` | this sign belongs to the phrase just before it: Király and Tokai read the signs together |
 
+The notes give this project's own readings a tier. Tiers A and B print as
+read: A survives every place the sign stands, B survives most, with the rest
+unclear rather than against. Tiers C and D print as `word*`. Tier G prints
+in brackets: a guess, counted as read nowhere.
+
 A hyphen inside a word (`cup-to`) is one sign of the manuscript
 read as the smaller signs it is built from -- this script writes phrases
 without spaces, which is the central fact Király and Tokai established about

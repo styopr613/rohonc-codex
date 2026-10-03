@@ -6,8 +6,9 @@ Facts, with a place to check each one. The rules these are refused by are in
 A note marked **this edition** rests on a reading made by this project and not
 on Király and Tokai's dictionary; the tier is given so that a reader can weigh
 it. Tier A survives every place the sign stands. Tier B survives most, with
-the rest unclear rather than against. Tier C is read from one passage with
-nothing inside the book able to refuse it. A word in [brackets] anywhere in
+the rest unclear rather than against. Tiers C and D are read from one
+passage with nothing inside the book able to refuse them. Tier G is a guess,
+printed in brackets and counted as read nowhere. A word in [brackets] anywhere in
 this edition is a restoration and is counted as read nowhere.
 
 ## anchor: «God's angel to Elijah the prophet» (008v)
@@ -28,11 +29,8 @@ angels and throws them down with lightning at the Father's word, Michael runs
 to the Father for help, and in one village Lucifer forms Elijah and Enoch but
 cannot give them souls, so God does and takes them up to heaven. Those tellings are three hundred years younger than the book and are the
 earliest written record of them found here; whether the book is an earlier
-witness to the same belief is not known. The same book puts
-the baptism on Carmel, Elijah's mountain, at 024r, 189r and 195r, against
-Matthew 3:13 and Mark 1:9, and has John preach there at 116v; Carmelite
-tradition makes John the heir of Elijah's hermits on Carmel.
-source: 004v:1, 008v:6, 132v, 133v, 024r, 116v:8, 189r:6, 195r; 2 Enoch 22-23; Apocalypse of Elijah 1:1, 4:7-19; Kalmany, Vilagunk alakulasai (Szeged 1893) 11, 28-29; Balint, Nepi kozmogonia, MFME 1978/79-2, 430-432; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18; Catholic Encyclopedia, "The Carmelite Order"
+witness to the same belief is not known.
+source: 004v:1, 008v:6, 132v, 133v; 2 Enoch 22-23; Apocalypse of Elijah 1:1, 4:7-19; Kalmany, Vilagunk alakulasai (Szeged 1893) 11, 28-29; Balint, Nepi kozmogonia, MFME 1978/79-2, 430-432
 
 ## anchor: the angels bow before Adam is made
 
@@ -52,11 +50,11 @@ source: 003v:1; Douay-Rheims Genesis 2:23
 
 ## anchor: «[refused] to go» (002r)
 
-Király and Tokai read the sign this edition renders *hide oneself* as
-"hide oneself", and the name of the fallen angel is written as that sign
-joined to the sign for *angel*. The same sign is used of Adam hiding in
-Genesis 3:8 at 001v:3.
-source: K&T entry for the sign glossed "hide oneself"; 002r:10, 001v:3
+The fallen angel's name at 002r:10 is written as two signs joined: the one
+Király and Tokai gloss "hide oneself" and the sign for angel. The same first
+sign stands at 001v:3, where Adam hides from God as in Genesis 3:8. The word
+*refused* on this line is this edition's, tier G.
+source: 002r:10, 001v:3; K&T entry for the sign glossed "hide oneself"; Douay-Rheims Genesis 3:8; proposals.json, tier G
 
 ## anchor: 5,199. That is precisely the figure of the Roman
 
@@ -77,28 +75,33 @@ source: 223v:1–2, 222r:2–4; Király and Tokai, *Cryptologia* 42:4 (2018)
 
 ## anchor: «six hundred» and «six ten» and «six»
 
-The same number stands in three places, each time beside words for hell or
-evil: 028v, 159r and 159r's neighbour in the Gadarene reading. Király and
-Tokai count it six thousand six hundred and sixty-six, reading the second
-sign at 159r:6 as thousand; Book One follows them. Read sign by sign it is
-six hundred, sixty and six, the number Apocalypse 13:18 gives the beast.
-source: 028v, 159r:5–6; Király and Tokai, dictionary, entry for six (6666
+The same number stands twice, each time before the word *devil*: at 028v:2
+and at 159r:5–6. Király and Tokai count it six thousand six hundred and
+sixty-six, reading the second sign at 159r:6 as thousand; Book One follows
+them. Read sign by sign it is six hundred, sixty and six, the number
+Apocalypse 13:18 gives the beast. An earlier printing of this note said the
+number stands in three places; it stands in two.
+source: 028v:2, 159r:5–6; Király and Tokai, dictionary, entry for six (6666
 devils, 159r05–06) and for thousand (159r06); Douay-Rheims Apocalypse 13:18
 
 ## anchor: «water inside cup pour»
 
-Mixing water into the wine at the offertory is Latin-rite practice and is not
-described by Matthew or John, the two evangelists this folio's own heading
-names. The Council of Trent made it a rule of the Roman Mass in 1562, thirty
-years before the date the manuscript gives itself.
-source: 030v:7; Council of Trent, session 22, chapter 7 and canon 9 (1562)
+Mixing water into the wine at the offertory is not described by Matthew or
+John, the two evangelists this folio's own heading names. The Council of
+Trent, in 1562, speaks of it as already "enjoined by the Church on priests,"
+because Christ is believed to have done it and because blood and water came
+from his side. An earlier printing of this note said Trent made it a rule;
+that was wrong.
+source: 030v:7; Council of Trent, session 22, chapter 7 and canon 9 (1562); Douay-Rheims John 19:34
 
 ## anchor: «Lord exist inside Wednesday»
 
 Matthew 26:14–16 places the bargain with Judas after the anointing at Bethany
-without naming a day. The Wednesday of Holy Week is called Spy Wednesday in
-the Latin calendar for that bargain.
-source: 032r:2; Douay-Rheims Matthew 26:14–16
+without naming a day. Mark 14:1 sets the plot against Jesus when the pasch
+"was after two days," and puts Judas's visit to the chief priests at 14:10.
+An earlier printing of this note said the Latin calendar calls the day Spy
+Wednesday; it gave no source, and the claim is withdrawn.
+source: 032r:2; Douay-Rheims Matthew 26:14–16, Mark 14:1, 14:10
 
 ## anchor: «each, every Jew(ish) back bow down»
 
@@ -131,10 +134,12 @@ Douay-Rheims John 19:34
 
 ## anchor: «grab virgin Mary inside bosom»
 
-Király and Tokai gloss the sign here as a lap or bosom. Their gloss is
-Hungarian and the word reaches this edition untranslated at 089r and 089v as
-*öl*.
-source: 054r:7, 089r:11, 089v:4; K&T entry glossed "öl"
+Király and Tokai gloss the sign here *öl*, Hungarian for lap or bosom. The
+same sign stands at 089r:11 and 089v:4, where Lazarus is carried into the
+bosom of Abraham, as in Luke 16:22; this edition renders it *bosom* in all
+three places. An earlier printing of this note said the word stood
+untranslated at 089r and 089v; it no longer does.
+source: 054r:7, 089r:11, 089v:4; K&T entry glossed "öl"; Douay-Rheims Luke 16:22
 
 ## anchor: «angel sit on left (side) direction»
 
@@ -158,9 +163,10 @@ source: 058v:5–7; *Gospel of Nicodemus* (*Acta Pilati*) 18–24
 ## anchor: «and then Cleopas, Luke, this Lord to two [foolish]»
 
 Luke names one of the two on the Emmaus road Cleophas and leaves the other
-unnamed. Naming the second as Luke himself is a western tradition and is here
-written on the page, twice.
-source: 061r:6, 190v:8; Douay-Rheims Luke 24:18
+unnamed. Origen calls the pair Simon and Cleopas. The codex names the second
+as Luke, twice. An earlier printing of this note called that a western
+tradition; it gave no source, and the claim is withdrawn.
+source: 061r:6, 190v:8; Douay-Rheims Luke 24:18; Origen, *Against Celsus* 2.62, 2.68
 
 ## anchor: «[under a juniper]»
 
@@ -228,15 +234,18 @@ source: 088r:10; Council of Florence, *Laetentur caeli* (1439), "penis purgatori
 ## anchor: «one say hunger die», and another asks «how shall we» and eats «of son»
 
 Josephus reports a woman named Mary killing and eating her own child during
-the siege of Jerusalem in AD 70. The passage was widely retold in medieval
-Latin through Hegesippus.
-source: 111v:8–9; Josephus, *Jewish War* 6.201–213
+the siege of Jerusalem in AD 70. The *Golden Legend* retells it in its
+chapter on Saint James the Less.
+source: 111v:8–9; Josephus, *Jewish War* 6.201–213; *Golden Legend*, "Saint James the Less"
 
 ## anchor: «the Roman on head», «Vespasi-» «-anus», «son Titus»
 
-Vespasian and his son Titus took Jerusalem in AD 70. The *Golden Legend* joins
-their campaign to the Passion and to the selling of captives, as these folios
-do.
+Titus, son of the emperor Vespasian, took Jerusalem in AD 70. The *Golden
+Legend*, in its chapter on Saint James the Less, has Vespasian made emperor
+and leave Titus at the siege, and joins the fall of the city to the Passion:
+as the Jews bought the Lord for thirty pence, Titus sold thirty Jews for a
+penny. These folios join them too. An earlier printing of this note had
+Vespasian and Titus take the city together; that was wrong.
 source: 110v:1–2, 111v:3–5; Josephus, *Jewish War* 6; *Golden Legend*, "Saint
 James the Less"
 
@@ -251,8 +260,9 @@ source: 148v:4–8, 149r:4–9; *Barlaam and Josaphat*, chapter 12
 ## anchor: «eye, say, hear, love, have mercy, believe, righteously»
 
 Luke 15:13 says the younger son wasted his substance and does not say what the
-substance was. Reading it as the five senses is the manuscript's own, written
-as a single compound sign twice.
+substance was. The codex lists seven things, sight, speech, hearing, love,
+mercy, belief and righteousness, and calls them the five senses, at
+113v:8–9 and again at 116r:6–7.
 source: 113v:8–9, 116r:6–7; Douay-Rheims Luke 15:13
 
 ## anchor: «this holy spirit [proceedeth] on father … go out spirit,
@@ -309,40 +319,46 @@ source: 185v:7–9, 186r:1–5; *Golden Legend*, "The Exaltation of the Holy Cro
 
 ## anchor: «name exist Khosrow»
 
-Király and Tokai's dictionary carries entries for Chosroes and for Ctesiphon.
-Jerusalem fell to the Sasanians in 614 and the relic of the Cross was taken to
-Ctesiphon; Heraclius recovered it and it was returned to Jerusalem in 630.
-source: 183r:3, 183r:6; K&T entries for Chosroes and Ctesiphon
+Király and Tokai's dictionary carries entries for Chosroes and for
+Ctesiphon. The *Golden Legend*, in its chapter on the Exaltation of the
+Cross, sets the year at 615: Cosdroe, king of the Persians, carries off the
+part of the Cross that Helena had left in Jerusalem, and the emperor
+Heraclius defeats his son and brings the Cross back into the city.
+source: 183r:3, 183r:6; K&T entries for Chosroes and Ctesiphon; *Golden Legend*, "The Exaltation of the Holy Cross"
 
 ## anchor: setting first: «sit apostle at table inside Jerusalem»
 
 Király and Tokai's entry for this sign, glossed as a table, cites the
 folios 072r, 182r and 191r among others; on those folios it stands at
-072r:8, 072r:11, 182r:4 and 191r:4. The Douay-Rheims has the eleven "at table"; the
-King James has them "at meat". **This edition** follows the Douay because the
-manuscript is a Catholic compilation and its author had the Vulgate.
+072r:8, 072r:11, 182r:4 and 191r:4. The Douay-Rheims has the eleven "at
+table"; the King James has them "at meat". **This edition** follows the
+Douay-Rheims, which is translated from the Vulgate.
 source: 072r:8, 072r:11, 182r:4, 191r:4; K&T entry glossed "table"; Douay-Rheims Mark
 16:14
 
 ## anchor: «two ten ten five hour» and then «thirty … six hour»
 
-The two hour-counts on this folio do not agree with each other. Nothing has
-been changed to make them agree.
+The hours are counted twice on this folio: «two ten ten five hour» at line 10
+and «thirty [?] six hour» at line 11, where one sign is unread. Neither count
+has been changed to match the other.
 source: 058v:10–11
 
 ## anchor: «son Moses»
 
-Line 6 of this folio reads as the son of Moses where the sense of the
-surrounding count wants something else. Nothing has been changed.
-source: 223v:6
+The sign read as Moses at 223v:6 is this edition's reading, tier B, and the
+sign after it is unread. The line stands in a count of years that begins
+"from the beginning" at line 5, itself a tier G guess. Nothing has been
+changed.
+source: 223v:5–7; proposals.json, tiers B and G
 
 ## anchor: «second chapter» (090v)
 
 The rubric names John's second chapter and the reading that follows is John's
-third, the night visit of Nicodemus. Of the ten citations checked in this
-edition, nine name the right chapter of the right evangelist and this is the
-one that does not.
-source: 090v:8–9; Douay-Rheims John 3:1–21
+third, the night visit of Nicodemus. Sixteen of the codex's chapter citations
+have been checked against the passage that follows them; ten name the right
+chapter of the right evangelist, and this is one of the six that do not. An
+earlier printing of this note gave nine of ten, from the first ten checked.
+source: 090v:8–9; Douay-Rheims John 3:1–21; ROHONC.md, the citation check (sixteen folios)
 
 ## anchor: The sign Király and Tokai gloss as *the name of the author* stands ten
 
@@ -353,10 +369,11 @@ source: 137v, 138r, 222v; K&T entry glossed "the name of the author"
 
 ## anchor: «[on the holy day] Monday inside wound … [I went] to house»
 
-Six of the lines on this folio carry the sign glossed as the name of the
-author with a weekday and a verb. Every word in square brackets in these six
-lines is a restoration and is counted as read nowhere.
-source: 222v:1–9; proposals.json
+On this folio the sign glossed as the name of the author stands beside the
+weekdays Monday, Friday and Sunday and the verbs go, carry and
+grab. Most of the words around it, *on the holy day*, *I went*, *to the
+Lord's house*, *I fasted*, *wrote*, are this edition's guesses, tier G.
+source: 222v:1–9; proposals.json, tier G
 
 ## anchor: after the flood Noah is «drunken» (008r)
 
@@ -413,8 +430,13 @@ source: 022r:10; K&T grammar, the numeral system
 
 Matthew 3:13 and Mark 1:9 place the baptism at the Jordan. Carmel is Elijah's
 mountain in 3 Kings 18. The codex puts the baptism on Carmel here and again at
-189r and 195r, and has John preach there at 116v.
-source: 024r, 116v:8, 189r:6, 195r; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18
+189r and 195r, and has John preach there at 116v. The Catholic Encyclopedia's
+article on the Carmelite Order records that some authors made John the
+Baptist the reviver of the Sons of the Prophets, the company of Elijah and
+Elisha. An earlier printing of the Elijah note said Carmelite tradition makes
+John the heir of Elijah's hermits; the article says only that some authors
+think so.
+source: 024r, 116v:8, 189r:6, 195r; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18; Catholic Encyclopedia, "The Carmelite Order"
 
 ## anchor: «from the Lord God, from the mother, and from the Lord» (004r)
 
