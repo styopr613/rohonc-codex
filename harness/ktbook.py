@@ -842,8 +842,11 @@ that rested on guesses.
 creation to Christ's birth, and 1,560 years since the Ascension. With
 Christ's thirty-three years, that gives 1593.
 
-The leaf says two thousand years. Counted from the Ascension, as the book
-does two lines earlier, that is 2033.
+The leaf says two thousand years (222r). Counted from the Ascension, as the
+book does two lines earlier, that is 2033.
+
+The idea of the world's last two thousand years is old: Melanchthon printed
+it in 1532.
 
 Finds after this printing are added to the same page on the book's site,
 [oona13.com/rohonc/finds.html](https://oona13.com/rohonc/finds.html), where
