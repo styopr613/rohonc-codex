@@ -22,8 +22,7 @@ a bracketed guess puts holy Enoch beside Elijah at 008v:6. The Apocalypse of
 Elijah opens "The word of the Lord came to me" and has Enoch and Elijah killed
 by the Antichrist and raised after three days and a half; at 133v the codex
 keeps Elijah and a companion, whom it calls Noah, alive to return and bear the
-sword against the evil one, and says nothing of their death. An earlier
-printing of this note said 133v tells the killing; that was wrong. In Hungarian folk tellings
+sword against the evil one, and says nothing of their death. In Hungarian folk tellings
 gathered near Szeged in the 1890s, Elijah is present at the fall of the
 angels and throws them down with lightning at the Father's word, Michael runs
 to the Father for help, and in one village Lucifer forms Elijah and Enoch but
@@ -37,8 +36,7 @@ source: 004v:1, 008v:6, 132v, 133v; 2 Enoch 22-23; Apocalypse of Elijah 1:1, 4:7
 In the Latin *Life of Adam and Eve*, chapters 12 to 16, the angels are told to
 worship Adam after he is made, and Satan refuses. Here the angels bow on 002r
 and Adam is made on 002v, after it, and the signs have Lucifer bow; that he
-refused is supplied. An earlier printing of this note said the book told the
-*Vita*'s episode, which was wrong.
+refused is supplied.
 source: *Vita Adae et Evae* 12–16; the folios are 002r, 004v
 
 ## anchor: «bone bone, in turn two soul one»
@@ -79,8 +77,7 @@ The same number stands twice, each time before the word *devil*: at 028v:2
 and at 159r:5–6. Király and Tokai count it six thousand six hundred and
 sixty-six, reading the second sign at 159r:6 as thousand; Book One follows
 them. Read sign by sign it is six hundred, sixty and six, the number
-Apocalypse 13:18 gives the beast. An earlier printing of this note said the
-number stands in three places; it stands in two.
+Apocalypse 13:18 gives the beast.
 source: 028v:2, 159r:5–6; Király and Tokai, dictionary, entry for six (6666
 devils, 159r05–06) and for thousand (159r06); Douay-Rheims Apocalypse 13:18
 
@@ -90,8 +87,7 @@ Mixing water into the wine at the offertory is not described by Matthew or
 John, the two evangelists this folio's own heading names. The Council of
 Trent, in 1562, speaks of it as already "enjoined by the Church on priests,"
 because Christ is believed to have done it and because blood and water came
-from his side. An earlier printing of this note said Trent made it a rule;
-that was wrong.
+from his side.
 source: 030v:7; Council of Trent, session 22, chapter 7 and canon 9 (1562); Douay-Rheims John 19:34
 
 ## anchor: «Lord exist inside Wednesday»
@@ -99,8 +95,6 @@ source: 030v:7; Council of Trent, session 22, chapter 7 and canon 9 (1562); Doua
 Matthew 26:14–16 places the bargain with Judas after the anointing at Bethany
 without naming a day. Mark 14:1 sets the plot against Jesus when the pasch
 "was after two days," and puts Judas's visit to the chief priests at 14:10.
-An earlier printing of this note said the Latin calendar calls the day Spy
-Wednesday; it gave no source, and the claim is withdrawn.
 source: 032r:2; Douay-Rheims Matthew 26:14–16, Mark 14:1, 14:10
 
 ## anchor: «each, every Jew(ish) back bow down»
@@ -137,8 +131,7 @@ Douay-Rheims John 19:34
 Király and Tokai gloss the sign here *öl*, Hungarian for lap or bosom. The
 same sign stands at 089r:11 and 089v:4, where Lazarus is carried into the
 bosom of Abraham, as in Luke 16:22; this edition renders it *bosom* in all
-three places. An earlier printing of this note said the word stood
-untranslated at 089r and 089v; it no longer does.
+three places.
 source: 054r:7, 089r:11, 089v:4; K&T entry glossed "öl"; Douay-Rheims Luke 16:22
 
 ## anchor: «angel sit on left (side) direction»
@@ -164,8 +157,7 @@ source: 058v:5–7; *Gospel of Nicodemus* (*Acta Pilati*) 18–24
 
 Luke names one of the two on the Emmaus road Cleophas and leaves the other
 unnamed. Origen calls the pair Simon and Cleopas. The codex names the second
-as Luke, twice. An earlier printing of this note called that a western
-tradition; it gave no source, and the claim is withdrawn.
+as Luke, twice.
 source: 061r:6, 190v:8; Douay-Rheims Luke 24:18; Origen, *Against Celsus* 2.62, 2.68
 
 ## anchor: «[under a juniper]»
@@ -200,9 +192,7 @@ the sign Király and Tokai read as Adam, and Augustine is cited by name on 107v
 for the second penny signifying the birth and death of Christ; that the two
 are the two Testaments is a bracketed restoration. Augustine's own reading of
 the two pence, in his Questions on the Gospels 2.19, is the two commandments
-of love, or the promise of this life and the next. An earlier printing of this
-note put the two Testaments on his authority, and on the folio's; that was
-wrong.
+of love, or the promise of this life and the next.
 source: 105v:7–11, 106r, 107v:2–3; Augustine, *Quaestiones Evangeliorum* 2.19
 
 ## anchor: «carry» «the most beautiful robe»
@@ -227,8 +217,7 @@ Council of Florence in 1439 and again at Trent in 1563. Florence speaks of
 purgatorial punishments and does not name fire; the Greek delegates there
 disputed the fire, and the fire on this line is the preachers' image, not the
 councils' word. The Greek churches did not receive Florence, and the
-Protestant confessions reject purgatory. An earlier printing of this note
-had the councils define a fire; that was wrong.
+Protestant confessions reject purgatory.
 source: 088r:10; Council of Florence, *Laetentur caeli* (1439), "penis purgatoriis"; Council of Trent, session 25 (1563)
 
 ## anchor: «one say hunger die», and another asks «how shall we» and eats «of son»
@@ -244,8 +233,7 @@ Titus, son of the emperor Vespasian, took Jerusalem in AD 70. The *Golden
 Legend*, in its chapter on Saint James the Less, has Vespasian made emperor
 and leave Titus at the siege, and joins the fall of the city to the Passion:
 as the Jews bought the Lord for thirty pence, Titus sold thirty Jews for a
-penny. These folios join them too. An earlier printing of this note had
-Vespasian and Titus take the city together; that was wrong.
+penny. These folios join them too.
 source: 110v:1–2, 111v:3–5; Josephus, *Jewish War* 6; *Golden Legend*, "Saint
 James the Less"
 
@@ -269,9 +257,7 @@ source: 113v:8–9, 116r:6–7; Douay-Rheims Luke 15:13
 
 The sun, its ray and the tip of the ray as a figure of the three Persons is
 Tertullian's, in his book against Praxeas, chapter 8. The manuscript puts
-light for the Son and warmth for the Spirit. An earlier printing of this note
-gave the figure to Augustine's book on the Trinity, which does not use it;
-that was wrong.
+light for the Son and warmth for the Spirit.
 source: 083v:1–5; Tertullian, *Adversus Praxean* 8
 
 ## anchor: «[One day at] evening», he finds «one little son» «on shore»
@@ -356,8 +342,7 @@ source: 223v:5–7; proposals.json, tiers B and G
 The rubric names John's second chapter and the reading that follows is John's
 third, the night visit of Nicodemus. Sixteen of the codex's chapter citations
 have been checked against the passage that follows them; ten name the right
-chapter of the right evangelist, and this is one of the six that do not. An
-earlier printing of this note gave nine of ten, from the first ten checked.
+chapter of the right evangelist, and this is one of the six that do not.
 source: 090v:8–9; Douay-Rheims John 3:1–21; ROHONC.md, the citation check (sixteen folios)
 
 ## anchor: The sign Király and Tokai gloss as *the name of the author* stands ten
@@ -433,9 +418,7 @@ mountain in 3 Kings 18. The codex puts the baptism on Carmel here and again at
 189r and 195r, and has John preach there at 116v. The Catholic Encyclopedia's
 article on the Carmelite Order records that some authors made John the
 Baptist the reviver of the Sons of the Prophets, the company of Elijah and
-Elisha. An earlier printing of the Elijah note said Carmelite tradition makes
-John the heir of Elijah's hermits; the article says only that some authors
-think so.
+Elisha.
 source: 024r, 116v:8, 189r:6, 195r; Douay-Rheims Matthew 3:13, Mark 1:9, 3 Kings 18; Catholic Encyclopedia, "The Carmelite Order"
 
 ## anchor: «from the Lord God, from the mother, and from the Lord» (004r)
@@ -463,8 +446,7 @@ throne of his own and steals the robe, the wreath and the sceptre made for
 God; God sends Gabriel, who is afraid and will not go, and then Michael, who
 goes down and wins them back. In both tellings the wrong done is theft from
 heaven, and both come from the lands south and east of Hungary. On this folio
-the angel returns to the Father at lines 4 and 10. An earlier printing of this note had Michael sent twice; that
-was wrong. The Grail cut from a stone of Lucifer's crown is not medieval:
+the angel returns to the Father at lines 4 and 10. The Grail cut from a stone of Lucifer's crown is not medieval:
 the Wartburgkrieg, about 1250, has only the stone, and the cup was added by
 Albert Schulz in 1832. The word in brackets, steal, is this edition's, tier G,
 read from this folio alone.
@@ -477,9 +459,7 @@ The same three signs stand at 004r:11, and Király and Tokai's entries for
 14, has the angels ordered to worship Adam as the image of God, and Lucifer
 refuse. Many theologians held that the Incarnation was shown to the angels before
 their fall and was the test Lucifer failed; Suarez set it out in his book on
-the angels, printed in 1620, three years after his death. An earlier printing
-of this note put the book in the 1590s and the teaching under Duns Scotus;
-both were wrong. The story form, in which God
+the angels, printed in 1620, three years after his death. The story form, in which God
 shows the angels Mary and Lucifer refuses to serve her, is Mary of Agreda's,
 1670, later than the book. Lucifer's throne set beside God's is Isaias 14:13
 and the Life of Adam and Eve, chapter 15.
@@ -491,17 +471,13 @@ Király and Tokai's entry for the sign Seth carries reads, whole, "branch or
 seedling or seed (maybe fruit or oil)"; this edition prints the first of
 those. Their apparatus takes 006r:2 as "make the blind's eye see" and 006r:3
 as "heal, be healed", and lists the signs at 006r:1-2 and 9-10 as a variant
-of their expression "immediately", four times on the folio. An earlier
-printing of this edition rendered those signs "the anointing light"; that was
-wrong and is corrected here. No source has Adam healed by the branch. The
+of their expression "immediately", four times on the folio. No source has Adam healed by the branch. The
 Golden Legend, in the Invention of the Holy Cross, has the angel give Seth a
 branch of the tree Adam ate from and say that when it bears fruit Adam "should
 be guerished and all whole"; Seth comes home to find Adam dead and plants it
 on his grave. The Erdy codex (1526-27) follows that; the Teleki codex
 (1525-31) is the one telling in which Adam is still alive when Seth comes
-back, and asks him to plant the branch at his head when he dies. An earlier
-printing of this note had the Teleki codex the other way round; that was
-wrong. The Life of Adam and Eve, chapters 40-42,
+back, and asks him to plant the branch at his head when he dies. The Life of Adam and Eve, chapters 40-42,
 sends Seth for the oil of mercy and has Michael refuse it until the end of
 time. Of the tellings named here, the Teleki codex alone has Adam alive when
 Seth comes back, and this book alone has him healed.
@@ -533,6 +509,5 @@ The age is written thirty, half, three, with the sign for year or day, at
 and a half", with 189v:9 and 195v:8 as their examples, and the ending sign's
 first sense in their entry is year. The Vorau copy of the Ezzolied, an
 eleventh-century German poem, has Christ live among us thirty-three years and
-half of the thirty-fourth. An earlier printing gave the age as thirty-three
-and dropped the half; that was wrong.
+half of the thirty-fourth.
 source: 188r:6, 189v:9, 195v:8, 011r:1; K&T entry for half, "33 and a half" 189v09, 195v08; K&T entry for year/day (1. year, 2. day); Ezzolied, Vorau manuscript

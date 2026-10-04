@@ -826,8 +826,7 @@ No source has the healing. It is the book's own.
 (004v to 008v). The book keeps Elijah and a companion alive to come back and
 bear the sword (101r, 133v).
 
-The companion is Noah, where tradition has Enoch. An earlier printing said
-the two are killed; the leaf does not say so.
+The companion is Noah, where tradition has Enoch.
 
 In the 1890s, villages near Szeged told of Elijah throwing down the fallen
 angels with lightning. Whether the book is an early witness to that belief,
@@ -840,8 +839,7 @@ At 084r he tells of Augustine and the child emptying the sea into a hole, a
 story first printed in 1483.
 
 Both are what a preacher picks up from sermon books and church pictures. That
-fits a man writing from memory. An earlier printing gave two more examples
-that rested on guesses.
+fits a man writing from memory.
 
 **The end of the world.** The book dates itself: 5,199 years from the
 creation to Christ's birth, and 1,560 years since the Ascension. With
