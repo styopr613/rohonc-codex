@@ -293,6 +293,16 @@ check:
   Caxton's *Golden Legend*, "The Nativity of Our Lady", "in the fourteenth
   year of her age", read at
   `https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume5.asp`.
+- **The infancy story against its sources (016v–022r), read 2026-10-04.**
+  Protevangelium 1 (Rubim, no office), 5 ("in the ninth month Anna brought
+  forth"), 17–18 (the ass; "he found a cave there"); Pseudo-Matthew 1–2
+  ("twenty years", "the priest, Ruben by name"), 3 (the Golden Gate), 13
+  (the cave), 23 (the idols fall); Caxton's *Golden Legend*, "The Nativity of
+  Our Lady" ("divided all their substance in three parts", "twenty years",
+  "the priest", "the golden gate") and "The Nativity of Our Lord" ("a stable
+  for an ass that he brought with him, and for an ox"), volumes 5 and 1 at
+  Fordham. Neither Latin text gives Mary's age at the birth (searched for
+  fifteen and sixteen). The finding is in the Finds chapter.
 - **Council of Trent, session 22, chapter 7 (1562).** "It has been enjoined
   by the Church on priests, to mix water with the wine", read at
   `https://www.papalencyclicals.net/councils/trent/twenty-second-session.htm`.

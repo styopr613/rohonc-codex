@@ -400,6 +400,14 @@ Luke 1:28 in the Douay-Rheims reads "Hail, full of grace." The codex writes
 its own greeting, and this edition has not changed it to Luke's.
 source: 018r; Douay-Rheims Luke 1:28
 
+## anchor: The blessed Virgin Mary was sixteen years old
+
+At 019v:5 the signs read ten-six-year, sixteen, as Mary and Joseph set out
+for Bethlehem. The *Protevangelium of James*, chapter 12, says she "was
+sixteen years old when these mysteries happened"; the *Gospel of
+Pseudo-Matthew* and the *Golden Legend* give no age at the birth.
+source: 019v:5; *Protevangelium of James* 12; *Gospel of Pseudo-Matthew* 8; *Golden Legend*, "The Nativity of Our Lady"
+
 ## anchor: «the very old Joseph» (019r)
 
 Joseph as an old man is not in Matthew or Luke; it comes from the

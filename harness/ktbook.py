@@ -841,6 +841,20 @@ story first printed in 1483.
 Both are what a preacher picks up from sermon books and church pictures. That
 fits a man writing from memory.
 
+**The infancy story follows the Latin books.** The infancy story runs from folio 016v to 022r.
+It was compared with the Protevangelium of James, the Greek text behind
+all later tellings, and with the two Latin books that carried it west:
+the Gospel of Pseudo-Matthew and the Golden Legend. Where they differ,
+the codex agrees with the Latin books in six details. Joachim and Anne
+divide their goods in three parts. A priest turns Joachim away. The angel
+names the Golden Gate. An ox goes to Bethlehem with the ass. Christ is
+born in a barn with a manger, not in a cave. The idols fall in Egypt. It
+agrees with the Greek text in two details of Mary's age: twelve when
+Gabriel comes (018r) and sixteen on the road to Bethlehem (019v). The
+Latin books say fourteen and give no age at the birth. The story is the
+one told in the Latin sermon books. Where the two ages came from is not
+known.
+
 **The end of the world.** The book dates itself: 5,199 years from the
 creation to Christ's birth, and 1,560 years since the Ascension. With
 Christ's thirty-three years, that gives 1593.
