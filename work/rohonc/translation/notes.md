@@ -383,6 +383,17 @@ Nativity of the Virgin, which is how it reached the Latin west. None of it is
 in the gospels.
 source: 016v, 017r:5–6, 017v:3; *Protevangelium of James* 1–4; *Gospel of Pseudo-Matthew* 3; *Golden Legend*, "The Birth of the Blessed Virgin Mary"
 
+## anchor: When Mary was twelve years old
+
+The number at 018r:5 is two six signs, the codex's spelling of twelve
+wherever it counts apostles, legions or years; the word for year is not on
+the line, and the next line sends Gabriel. The *Protevangelium of James*,
+chapter 8, has the priests take counsel when Mary "reached the age of twelve
+years in the temple", and chapter 12 has her sixteen "when these mysteries
+happened". The *Gospel of Pseudo-Matthew*, chapter 8, and the *Golden Legend*'s
+chapter on her nativity make it fourteen.
+source: 018r:5; *Protevangelium of James* 8, 12; *Gospel of Pseudo-Matthew* 8; *Golden Legend*, "The Nativity of Our Lady"
+
 ## anchor: «have mercy, girl»
 
 Luke 1:28 in the Douay-Rheims reads "Hail, full of grace." The codex writes

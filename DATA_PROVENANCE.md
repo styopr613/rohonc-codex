@@ -286,6 +286,13 @@ check:
   `https://www.newadvent.org/fathers/0847.htm` and
   `https://www.newadvent.org/fathers/0848.htm`. The note on 016v had put the
   Golden Gate in the Protevangelium; corrected.
+- **Mary's age at the Annunciation (018r:5), read 2026-10-04.** Protevangelium
+  of James 8, "reached the age of twelve years in the temple", and 12, "she
+  was sixteen years old when these mysteries happened"; Pseudo-Matthew 8,
+  "when she was fourteen years old"; both at the newadvent addresses above.
+  Caxton's *Golden Legend*, "The Nativity of Our Lady", "in the fourteenth
+  year of her age", read at
+  `https://sourcebooks.fordham.edu/basis/goldenlegend/GoldenLegend-Volume5.asp`.
 - **Council of Trent, session 22, chapter 7 (1562).** "It has been enjoined
   by the Church on priests, to mix water with the wine", read at
   `https://www.papalencyclicals.net/councils/trent/twenty-second-session.htm`.
