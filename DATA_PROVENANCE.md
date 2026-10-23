@@ -215,7 +215,7 @@ supplied:
   not, fetched 2026-09-26 at one request per 1.5 seconds from
   `http://oldhungariancorpus.nytud.hu/en-codices.html`
   (`documents/kodexek/<id>/norm/<id>_4.txt`, else `3a/<id>_3a.txt`) into
-  `data/ref/hu_codices/`, which is gitignored and is not redistributed. Searched
+  `data/ref/hu_codices/`, which is kept local and is not redistributed. Searched
   for Lucifer, Satan or the devil near a word for cup, chalice or stealing.
   Quoted in the book's appendix: the Virginia codex (1515) on the throne
   Lucifer lost through pride; the Kazinczy codex (1526-41, fols. 31v-33v) and
