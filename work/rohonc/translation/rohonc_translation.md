@@ -3250,11 +3250,6 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **11**  truly crucify! And Pilate said to the soldiers: go, Lord.
 `righteous crucify and say Pilate to soldier go Lord`
 
-> The crucify and Caesar lines are the Jews' cry, not Pilate's. No "say"
-> stands before them; Pilate's name is the crowd addressing him. The only
-> "say Pilate" on the page is the order to the soldiers. John 19:6-7 and
-> 19:12: the crowd cries crucify and "thou art not Caesar's friend".
-
 ## 047r — the third time, and Caesar
 
 **1**  into the house. And a third time the Lord did [so], went into the house,
