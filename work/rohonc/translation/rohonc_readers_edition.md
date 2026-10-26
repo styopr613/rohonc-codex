@@ -1341,7 +1341,7 @@ words. There are 981 of them now.
 
 ## 046v — crucify him, the second time
 
-> [Caesar]; in turn, the angel, Bethlehem town. And the Jews cried: the cross for the Lord! Pilate: the Lord is accursed, this Pilate: if the Jews want the Lord, enemy of the emperor. truly crucify! And Pilate said to the soldiers: go, Lord. into the house. And a second time the Lord did [so], went into the house, and Pilate cried: Behold Jesus Nazareth the King of the Jews! [Caesar] and the angel | Bethlehem town; and they shouted. the Jews: the cross for the Lord! Pilate: the Lord is accursed, this Pilate: if the Jews want the Lord, enemy of the emperor. truly crucify! And Pilate said to the soldiers: go, Lord.
+> [Caesar]; in turn, the angel, Bethlehem town. And the Jews cried: the cross for the Lord, Pilate! the Lord is accursed, this Pilate, if the Jews want the Lord, enemy of the emperor; truly crucify! And Pilate said to the soldiers: go, Lord. into the house. And a second time the Lord did [so], went into the house, and Pilate cried: Behold Jesus Nazareth the King of the Jews! [Caesar] and the angel | Bethlehem town; and they shouted. the Jews: the cross for the Lord, Pilate! the Lord is accursed, this Pilate, if the Jews want the Lord, enemy of the emperor; truly crucify! And Pilate said to the soldiers: go, Lord.
 
   1  [Caesar] in_turn angel Bethlehem town.
   2  and shout Jew on_the_cross Lord Pilate cursed Lord
@@ -1357,7 +1357,7 @@ words. There are 981 of them now.
 
 ## 047r — the third time, and Caesar
 
-> into the house. And a third time the Lord did [so], went into the house, and Pilate cried: Behold Jesus Nazareth the King of the Jews! [Caesar] and the angel to Bethlehem town; and they shouted. the Jews: the cross for the Lord! Pilate: the Lord is accursed […] Pilate: if the Jews want the Lord, enemy | of the emperor, truly crucify! And then the Jews [Behold], he, the king of the Jews, he. half [said]: one, the Lord; [half]: heretic, one. the Lord blasphemeth. And Pilate cried, Pilate, and how [cried] in the Lord [out] Pilate: he
+> into the house. And a third time the Lord did [so], went into the house, and Pilate cried: Behold Jesus Nazareth the King of the Jews! [Caesar] and the angel to Bethlehem town; and they shouted. the Jews: the cross for the Lord, Pilate! the Lord is accursed […] Pilate, if the Jews want the Lord, enemy | of the emperor, truly crucify! And then the Jews [Behold], he, the king of the Jews, he. half [said]: one, the Lord; [half]: heretic, one. the Lord blasphemeth. And Pilate cried, Pilate, and how [cried] in the Lord [out] Pilate: he
 
   1  inside-house and three Lord ~do go on-house
   2  and shout Pilate lo Jesus Nazareth

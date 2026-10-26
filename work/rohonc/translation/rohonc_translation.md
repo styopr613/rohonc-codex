@@ -3220,10 +3220,10 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **1**  [Caesar]; in turn, the angel, Bethlehem town.
 `[Caesar] in_turn angel Bethlehem town.`
 
-**2**  And the Jews cried: the cross for the Lord! Pilate: the Lord is accursed,
+**2**  And the Jews cried: the cross for the Lord, Pilate! the Lord is accursed,
 `and shout Jew(ish) +cross Lord Pilate cursed Lord`
 
-**3**  this Pilate: if the Jews want the Lord, enemy of the emperor.
+**3**  this Pilate, if the Jews want the Lord, enemy of the emperor;
 `this-~Pilate if want Lord Jews enemy of-~emperor`
 
 **4**  truly crucify! And Pilate said to the soldiers: go, Lord.
@@ -3241,14 +3241,19 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **8**  Bethlehem town; and they shouted.
 `Bethlehem town and shout.`
 
-**9**  the Jews: the cross for the Lord! Pilate: the Lord is accursed, this
+**9**  the Jews: the cross for the Lord, Pilate! the Lord is accursed, this
 `Jew(ish) +cross Lord Pilate cursed Lord this`
 
-**10**  Pilate: if the Jews want the Lord, enemy of the emperor.
+**10**  Pilate, if the Jews want the Lord, enemy of the emperor;
 `Pilate if want Lord Jews enemy of-~emperor`
 
 **11**  truly crucify! And Pilate said to the soldiers: go, Lord.
 `righteous crucify and say Pilate to soldier go Lord`
+
+> The crucify and Caesar lines are the Jews' cry, not Pilate's. No "say"
+> stands before them; Pilate's name is the crowd addressing him. The only
+> "say Pilate" on the page is the order to the soldiers. John 19:6-7 and
+> 19:12: the crowd cries crucify and "thou art not Caesar's friend".
 
 ## 047r — the third time, and Caesar
 
@@ -3264,10 +3269,10 @@ readings from `harness/proposals.json`, not Király and Tokai's.*
 **4**  to Bethlehem town; and they shouted.
 `to-Bethlehem town and shout`
 
-**5**  the Jews: the cross for the Lord! Pilate: the Lord is accursed […]
+**5**  the Jews: the cross for the Lord, Pilate! the Lord is accursed […]
 `Jew(ish) +cross Lord Pilate cursed Lord [?]`
 
-**6**  Pilate: if the Jews want the Lord, enemy | of
+**6**  Pilate, if the Jews want the Lord, enemy | of
 `Pilate if want Lord Jews enemy | of.`
 
 **7**  the emperor, truly crucify! And then the Jews
