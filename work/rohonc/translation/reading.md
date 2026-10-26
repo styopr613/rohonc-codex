@@ -148,7 +148,7 @@ Saint Peter stood outside the gate. A servant girl at the gate saw him and asked
 
 They went out, and Jesus was taken to Pilate. There they brought three charges against him and told Pilate that he was a heretic. Jesus stood before Pilate with all the people against him; they [spat] on him and [struck] his holy face. No one showed him mercy. The Jews brought their charges before Pilate. One said that he and his apostles fed all the people with bread, another said that he claimed to be the Son of God, and a third said that he claimed to be king. (039v–040r)
 
-One of the Jews then asked Peter, “Are you an apostle of this Jesus?” Peter said that he did not know him. This was his third denial of Jesus, and at that moment the cock crowed. Peter went out in sorrow and wept. (040r)
+One of the Jews then asked Peter, “Are you an apostle of this Jesus?” Peter said that he did not know him. This was his third denial of Jesus, and at that moment the cock crowed. Peter went out in sorrow. (040r)
 
 Pilate asked Jesus, “Do you say that you are the Son of God? What do you preach?” Jesus answered Pilate and told him to hear his teaching. As Pilate judged him, Jesus declared with his own mouth that he is truly the Son of the living God. (040r–040v)
 
@@ -292,7 +292,7 @@ The angels said that Jesus, who had departed into eternity, would return at the 
 
 The first chapter of an apostolic letter says that [at thirty-three years, five months and three days], Jesus left the apostles. Saint Peter asked the Most High how often he must show mercy when a brother sinned against him. Jesus answered, “Peter, Peter, have mercy on your brother. If a sinner comes to you and asks for mercy, give it to him.” The merciful man then cried out to Jesus Christ. (076r)
 
-[He departed across the water of heaven, and Peter walked.] Jesus said, “Peter, if another apostle sins against you and admits his sin, forgive it. A person may commit many sins: he may be a thief, a robber, a shedder of blood and killer of men, an adulterer, a proud man, or a drunkard. He may be burdened under many yokes.” Peter spoke to Jesus about pride and humility, and about how a person is damned when he dies. (076v)
+[He departed across the water of heaven, and Peter walked.] Jesus said, “Peter, if another apostle sins against you and admits his sin, forgive it. A person may commit many sins: he may be a thief, a robber, a shedder of blood and killer of men, an adulterer, a proud man, or a drunkard. He may be burdened under many yokes.” Jesus spoke to Peter about pride and humility, and about how a person is damned when he dies. (076v)
 
 Like Adam, a person who truly repents may receive mercy and be freed even from the sins of wealth and judgment spoken of by Saint Paul. Jesus said, “Forgive. A person who repents of one sin is saved. Even someone who has hidden seventy times seven sins may repent before Jesus Christ and be saved. But whoever remains in sin is damned. Peter, if your brother will not listen to you, take the matter to the church. First speak to him alone, then take two or three brothers as witnesses.” (077r)
 
@@ -332,13 +332,13 @@ Whoever eats [the body of] the Son of God is saved, and no one [who eats it] is 
 
 Saint Matthew the apostle writes that a little one received in Jesus’ name is saved and belongs to heaven. Whoever rejects such a child will be judged by Christ and damned. Anyone who sins against a little one sins against a poor man of God, and the next lesson sets that poor man of God beside a man who has [riches]. (087v)
 
-A rich man sees a blind beggar sitting beside the road and asking for alms in Jesus’ name. If the rich man refuses him, his wealth condemns him forever. It is written that the damned are buried in evil. At death, the soul remains in purification until the day of judgment. After judgment, the condemned soul remains in evil forever. (088r)
+A rich man sees a blind beggar sitting beside the road and asking for alms in Jesus’ name. If the rich man refuses him, his wealth condemns him forever. It is written that the damned are buried in hell. At death, the soul remains in purification until the day of judgment. After judgment, the condemned soul and body remain in hell forever. (088r)
 
 Here begins the holy gospel written by Saint Luke in the sixth chapter of his book. Jesus told his apostles and the Jewish people about a rich man who dressed in purple and feasted every day. A poor man named Lazarus came to his house. Lazarus was covered with sores from head to foot and begged while the rich man dined richly at his table. (088v)
 
 Lazarus asked the rich man for alms, but the man drove him away. Covered with sores, Lazarus lay alone outside the gate and longed for the crumbs that fell from the rich man’s table. The rich man’s dogs came and licked his sores. The dogs showed Lazarus more mercy than their master did. Lazarus died, and angels carried him into the glory of heaven and placed him in the bosom of the forefather Abraham. (089r)
 
-The rich man also died and was buried in evil. Suffering in hell, he looked up and saw Lazarus in Abraham’s bosom. He cried, “Father Abraham, send Lazarus to dip the tip of his finger in water and cool my tongue, for this flame torments my soul.” Abraham answered, “Son, remember that you received good things in your lifetime, while Lazarus received evil. Now he is comforted, and you are tormented. He once received only the crumbs that fell from your table and the mercy of your dogs.” (089v)
+The rich man also died and was buried in hell. Suffering in hell, he looked up and saw Lazarus in Abraham’s bosom. He cried, “Father Abraham, send Lazarus to dip the tip of his finger in water and cool my tongue, for this flame torments my soul.” Abraham answered, “Son, remember that you received good things in your lifetime, while Lazarus received evil. Now he is comforted, and you are tormented. He once received only the crumbs that fell from your table and the mercy of your dogs.” (089v)
 
 Abraham said, “A great chasm is fixed between us and you. No one can cross from the netherworld to Abraham’s bosom.” The rich man cried a second time, “Father Abraham, send Lazarus back into the world. I have four brothers (the gospel says five). Warn them so that their sins do not bring them into this torment.” Abraham answered, “Your brothers have the prophets, who preach against evil. Let them listen.” The rich man cried out a third time. (090r)
 
@@ -410,7 +410,7 @@ Jesus wept over Jerusalem because he foresaw its misery. He said, “An army wil
 
 The Romans later destroyed Jerusalem under Vespasian and his son Titus, leaving no stone upon another. Jesus entered the Jerusalem temple and found merchants and sellers of doves inside. He made a whip from small cords and drove them all out. He said, “This is my Father’s house of prayer, but you have made it a den of thieves.” [From there the account continues until Palm Sunday.] Here ends this holy gospel. (110v)
 
-All the writings speak of five sorrows of the Son of God. The first sorrow was when the Lord God destroyed five towns. The second concerns his coming to Bethlehem, for Jesus foresaw the great suffering that his coming would bring. The third occurred on Palm Sunday, when he sat looking at Jerusalem. Jesus did not grieve for its houses or buildings. He wept for the people he had created, because he foresaw what would happen to them. (111r)
+All the writings speak of five sorrows of the Son of God. The first sorrow was when the Lord God destroyed five towns. The second concerns his coming to Bethlehem, for Jesus foresaw the great suffering that his coming would bring. The third occurred on Palm Sunday, when he sat looking at Jerusalem. Jesus wept not only for its houses and buildings, but for the people he had created, because he foresaw what would happen to them. (111r)
 
 The people would be scattered. Twenty-four years after the execution of Christ, the Romans came under Vespasian and his son Titus. Father and son destroyed all Jerusalem to the ground, leaving no stone upon another. They brought such misery that the people died of hunger. A mother even ate her own son. (111v)
 
@@ -418,7 +418,7 @@ Those taken captive were crucified or sold. Thirty people were sold for one dena
 
 Jesus was deeply grieved because Lazarus had lain in the tomb for three days. The fifth sorrow occurred on Good Friday, when Christ was crucified. Jesus grieved not only at his own death, but for the believers whom he foresaw would be scattered. Their hope is the heavenly Jerusalem. Here ends this teaching from the holy gospel. On judgment day an angel will divide the people into two groups. (112v)
 
-At judgment one group will be sent through the gate to evil, while the other will be taken into the kingdom of heaven, where there is great joy. Here begins the holy gospel, attributed to the first chapter of Saint Matthew. Jesus told his apostles and the Jewish people that the Lord God had two sons: the angel and the soul. The younger, the son of the soul, asked the Father for his share. (113r)
+At judgment one group will be sent through the gate to hell, while the other will be taken into the kingdom of heaven, where there is great joy. Here begins the holy gospel, attributed to the first chapter of Saint Matthew. Jesus told his apostles and the Jewish people that the Lord God had two sons: the angel and the soul. The younger, the son of the soul, asked the Father for his share. (113r)
 
 The younger son took his portion of the Father's wealth and went to a distant city. He lived wastefully in that land for many years until nothing remained, and then he became hungry. His endowment had been sight, speech, hearing, love, mercy, faith, and righteousness, which the text calls the five senses of the Father. Having squandered them, the son of the soul hired himself to a swineherd. (113v)
 
@@ -468,7 +468,7 @@ The Lord—the Father, Son, and Spirit—went to recover what Adam and Eve had l
 
 In a dream an angel of God said to the holy prophet Hezekiah, “Thus says the Lord God: within three days you shall die.” Hezekiah's laughter turned to sadness, and he cried out as he prepared himself. The angel came to him a second time and said, “Hezekiah, thus says the Lord God: I have had mercy on you, and I will lengthen your life.” The number of years is not clear in the manuscript; the biblical account says fifteen. (127r)
 
-Holy Hezekiah prepared himself, and at last his soul left him. An angel of God appeared and told the servants to lay Hezekiah in the tomb. The angel took his soul and departed, while Hezekiah's body remained in the tomb. The servants then speak of Saint Paul's apostolic letter to his brethren and how Paul prepared himself in his final year. (127v)
+Holy Hezekiah prepared himself, and at last his soul left him. An angel of God appeared and told the servants to lay Hezekiah in the tomb. The angel took his soul and departed, while Hezekiah's body remained in the tomb. The servants then speak of Saint Paul's apostolic letter to his brethren and how Paul prepared himself for his last day. (127v)
 
 The holy prophet Hezekiah had been warned and prepared himself. Paul likewise prepared himself, for he belonged to the Lord Jesus, the only Son of God. [That man went because he lost the sheep.] Here begins the holy gospel, attributed to the first chapter of Saint Luke. Three days after the Lord Christ was crucified, on another night he appeared to his apostles at the gate. They were startled and thought they were seeing a spirit. Even after they saw that it was the Lord, they could not believe for joy. The Lord remained with them for thirty-three days. (128r–128v)
 
@@ -510,9 +510,9 @@ Hail, Virgin Mary, holy mother of God and gate of Paradise. Queen and Lady, you 
 
 Amen. This prayer grants [threefold] mercy. The holy church father says that whoever believes in the blessed Virgin Mary believes in her Son, Lord Jesus Christ. Saint Augustine prescribed three prayers to the blessed Virgin in thanksgiving and for her pleasure. Through these three prayers, many of a person's sins are taken away. [The remaining words about the lost man and the cloud are unclear.] (138v)
 
-Whoever prays to the blessed Virgin Mary does not enter the fire of hell. Mary shows her Son the breast that nursed Lord God and pleads for the lost and damned person: “Christ, have mercy.” Whoever kneels and prays daily to the mother of Christ is saved. No faithful servant is damned. (139r)
+Whoever prays to the blessed Virgin Mary does not enter the fire of hell. Mary shows her Son the breast that nursed Lord God and pleads for the lost and damned person: “Christ, have mercy.” Every day she kneels before her Son. Whoever prays to the mother of Christ is saved. No faithful servant is damned. (139r)
 
-Moses said this to Aaron: the person who turns from every good thing is cursed. The person who is merciful and righteous toward his brother as toward himself is saved, and so is the person who is merciful toward the poor of God. Lord God desires such mercy and righteousness. The wicked person's goods, possessions, and riches are cursed with him. (139v)
+Moses said this to Aaron: the person who turns from every good thing is cursed. The person who is merciful and righteous toward his brother as toward himself is saved, and so is the person who is merciful toward the poor of God. Lord God curses the person who shows no such mercy and righteousness. The wicked person's goods, possessions, and riches are cursed with him. (139v)
 
 The cursed person's herd, field, harvest, grapes, house, [barn], and stores are cursed by the Lord. The damned person falls into hell. By contrast, the person who is merciful and righteous toward his brother as toward himself is blessed. The Lord blesses his herd, field, and harvest. (140r)
 
@@ -584,7 +584,7 @@ The believing daughter escaped and was led before God the Father. From this poin
 
 At last the righteous son took the believing daughter of Lord Jesus Christ as his wife, and they lived [happily]. Here ends the story. Amen. Here begins a gospel attributed to the fourth chapter of Saint Luke. Jesus was thirty-two years old when he went to the shore of the sea. (158v)
 
-Near a mountain by the shore, Jesus met two men possessed by spirits. The devils within them numbered six thousand six hundred and sixty-six. The two men came toward the Lord. (159r)
+Near a mountain by the shore, Jesus met two men possessed by spirits. The devils within them numbered [six thousand six hundred and sixty-six]. The two men came toward the Lord. (159r)
 
 The two possessed men cried out to Lord Jesus. He took pity on their torment. The devils begged to enter the animals feeding on leftover food—the swine—and Jesus drove them into the herd. Lord God thus redeemed the spirits of the two men. (159v)
 
@@ -608,21 +608,21 @@ Jesus touched the coffin in which the widow's son lay dead, and the bearers stop
 
 Faith, love, hope, and mercy rested upon the son. Jesus returned him to his mother, and they went to the temple. The son was saved, and their sorrow became great joy. Mother and son saw Lord Jesus Christ and gave him thanks. Here ends this holy gospel. In its allegory, the woman signifies a mother, the temple, faith, and the three baptisms. (164v)
 
-The widow represents [the saving Lord], and her son represents every human soul. Nain represents the whole wide world into which Lord Jesus Christ came. Everyone who believes and receives the three baptisms is saved. The four men who carried the dead son represent the ways by which the soul is carried. Therefore love Lord God and be humble. (165r)
+The widow represents [the saving Lord], and her son represents every human soul. Nain represents the whole wide world into which Lord Jesus Christ came. Everyone who believes and receives the three baptisms is saved. The four men who carried the dead son represent the ways by which the soul is carried to death: the person who does not love Lord God, the thief, the person who is not humble, and the person who does not have Lord God. (165r)
 
-Repentance brought the widow's son from death into belief. Through the three baptisms the condemned son was forgiven and saved. Saint Luke's example is then arranged into four ways. The first is to love the Most High Lord God and one's brother. The second is to repent and leave thievery. The third is to be humble before Lord God. The fourth is [to keep the soul from the sin that brings death]. These four ways, like the four bearers, carry the soul either toward belief or, if rejected, toward damnation. Moses therefore commands: love the Most High Lord God above all creation, with all your soul, all your strength, and all your heart, and love your brother as your neighbor. Here ends this holy gospel. (165v–166v)
+Repentance brought the widow's son from death into belief. Through the three baptisms the condemned son was forgiven and saved. Saint Luke's example is then arranged into four ways. The first is not to love the Most High Lord God and one's brother. The second is thievery without repentance. The third is not to be humble before Lord God. The fourth is [the sin that brings death]. These four ways, like the four bearers, carry the soul out of the town gate toward damnation. Moses therefore commands: love the Most High Lord God above all creation, with all your soul, all your strength, and all your heart, and love your brother as your neighbor. Here ends this holy gospel. (165v–166v)
 
-Here begins a holy gospel attributed to the sixth chapter of Saint Luke. Jesus told his apostles and the Jewish people: “A rich man appointed a steward over all his goods.” These goods signify sight, speech, life, hearing, soul, mind, reason, and sense. The steward was charged with managing them all. (167r)
+Here begins a holy gospel attributed to the sixth chapter of Saint Luke. Jesus told his apostles and the Jewish people: “A rich man appointed a steward over all his goods.” These goods signify sight, speech, life, hearing, soul, body, reason, and sense. The steward was charged with managing them all. (167r)
 
-Someone accused the steward of wasting his lord's goods. The rich lord, who signifies Lord God, summoned him to give an account. The steward had squandered the soul, mind, reason, and sense entrusted to him. When he heard that he would lose his position, he became sorrowful. (167v)
+Someone accused the steward of wasting his lord's goods. The rich lord, who signifies Lord God, summoned him to give an account. The steward had squandered the soul, body, reason, and sense entrusted to him. When he heard that he would lose his position, he became sorrowful. (167v)
 
 The steward wept, saying, “I cannot dig, and I am ashamed to beg.” He devised a plan involving two of his lord's debtors. He asked the first, “How much do you owe my lord?” The man answered, “One hundred measures of oil.” The steward, here called a man of mercy, told him to sit down. (168r)
 
 He had the first debtor write fifty on his bill. The other debtor owed the rich lord one hundred measures of wheat. The steward, now called a man of alms, asked him what he owed and told him to sit down and change the bill. (168v)
 
-The second debtor wrote [eighty] on his bill. The rich Lord God then called the unjust steward to account for what he had done. Jesus explained to the apostles that the steward stands accused because the rich Lord God entrusted many riches to every person. (169r)
+The second debtor wrote [eighty] on his bill. The rich Lord God then took up the matter of the [unjust steward], because the steward had found friends. Jesus told the apostles that they are righteous stewards who find friends, because the rich Lord God has given them great riches. (169r)
 
-The Lord gave you sight, speech, life, hearing, soul, mind, reason, and sense. All these riches belong to Lord God. The apostles, the Jews, and every person are only their stewards in this world. The rich man found those stewards accused of wasting his gifts. (169v)
+The Lord gave you sight, speech, life, hearing, soul, body, reason, and sense. All these riches belong to Lord God. The apostles, the Jews, and every person are only their stewards in this world. In this world the rich Lord has found friends in them. (169v)
 
 Here ends this holy gospel spoken by Saint Luke. The apostles, the Jews, and every person are stewards of what the Father has given. Each will be called to account, even at death. Lord God be loved. Lord God, have mercy. (170r)
 
@@ -803,7 +803,7 @@ They cried, “He is the king of the Jews! Hosanna to the Son of David!” Earth
 
 The children cried, “Hosanna! This Lord is our king.” Jesus answered that if they were silenced, the earth and stones themselves would cry out, “Son of David, you are king.” Here ends this holy gospel. Lord God be loved. [A broken transition follows concerning Jewish law and finding lodging for the Lord of heaven and earth.] (010v)
 
-The holy prophets foretold that the King of kings and Lord of lords would find lodging among his people. Jesus went to Bethany and remained there with those who loved him. He gave thanks, then returned the next morning hungry and sorrowful. The text turns from his hunger to the good fruit a person should bear in the Lord's name. (013r)
+The holy prophets foretold that the King of kings and Lord of lords would find no lodging. Jesus went to Bethany and remained there with those who loved him. He gave thanks, then returned the next morning hungry and sorrowful. The text turns from his hunger to the good fruit a person should bear in the Lord's name. (013r)
 
 Moses received three stone tablets, on which Lord God wrote through his angel. (013v)
 
