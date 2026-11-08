@@ -416,7 +416,7 @@ The people would be scattered. Twenty-four years after the execution of Christ, 
 
 Those taken captive were crucified or sold. Thirty people were sold for one denarius, and nine hundred for thirty denarii, because Judas had sold Christ for thirty denarii. The fourth sorrow occurred on Holy Tuesday, when the Lord stood at the tomb of Lazarus. (112r)
 
-Jesus was deeply grieved because Lazarus had lain in the tomb for three days. The fifth sorrow occurred on Good Friday, when Christ was crucified. Jesus grieved not only at his own death, but for the believers whom he foresaw would be scattered. Their hope is the heavenly Jerusalem. Here ends this teaching from the holy gospel. On judgment day an angel will divide the people into two groups. (112v)
+Jesus was deeply grieved because Lazarus had lain in the tomb for three days. The fifth sorrow occurred on Good Friday, when Christ was crucified. Jesus grieved not only at his own death, but for the believers who he foresaw would be scattered. Their hope is the heavenly Jerusalem. Here ends this teaching from the holy gospel. On judgment day an angel will divide the people into two groups. (112v)
 
 At judgment one group will be sent through the gate to hell, while the other will be taken into the kingdom of heaven, where there is great joy. Here begins the holy gospel, attributed to the first chapter of Saint Matthew. Jesus told his apostles and the Jewish people that the Lord God had two sons: the angel and the soul. The younger, the son of the soul, asked the Father for his share. (113r)
 
@@ -472,9 +472,9 @@ Holy Hezekiah prepared himself, and at last his soul left him. An angel of God a
 
 The holy prophet Hezekiah had been warned and prepared himself. Paul likewise prepared himself, for he belonged to the Lord Jesus, the only Son of God. [That man went because he lost the sheep.] Here begins the holy gospel, attributed to the first chapter of Saint Luke. Three days after the Lord Christ was crucified, on another night he appeared to his apostles at the gate. They were startled and thought they were seeing a spirit. Even after they saw that it was the Lord, they could not believe for joy. The Lord remained with them for thirty-three days. (128r–128v)
 
-The apostles understood that he was the Lord Jesus Christ. As Saint John relates, Jesus breathed upon them, and all the apostles received the Holy Spirit. Jesus then said, “Go into the world as my apostles and preach the gospel. (129r)
+The apostles understood that he was the Lord Jesus Christ. As Saint John relates, Jesus breathed upon them, and all the apostles received the Holy Spirit. Jesus then said, “Go into the world as my apostles and preach the gospel.” (129r)
 
-Baptize them in the name of the Father, the Son, and the Holy Spirit. Everyone who believes is saved. No one who does not believe is saved. Whoever does not believe is damned.” Jesus also told them, “You will be brought before kings and emperors, but the Lord will be with you and teach you what to say. It will not be you who speak. Even if you must die, remain apostles of Lord God, and the Lord will keep your souls forever.” (129v)
+“Baptize them in the name of the Father, the Son, and the Holy Spirit. Everyone who believes is saved. No one who does not believe is saved. Whoever does not believe is damned.” Jesus also told them, “You will be brought before kings and emperors, but the Lord will be with you and teach you what to say. It will not be you who speak. Even if you must die, remain apostles of Lord God, and the Lord will keep your souls forever.” (129v)
 
 After the Lord's death, the apostles went out to preach. They began at Jerusalem and carried the gospel throughout the whole world. Here ends this holy gospel, and Lord Jesus departed from among the apostles. Here begins another holy gospel, attributed to the second chapter of Saint John. At the Last Supper Jesus told his apostles that he was going to his Father. (130r)
 
@@ -664,9 +664,9 @@ They placed a crown of thorns upon his head and put him to death. Lord Christ ro
 
 Thomas said that he must put his finger into the Lord's wounds. Jesus later came among the apostles while the doors were shut and said, “Peace be with you.” He called Thomas and told him to put his finger into the wound. Then he said, “Thomas, you believe because you have seen. Blessed are those who have not seen and yet believe.” Here ends this holy gospel. (181v)
 
-Lord God be loved. After Christ's execution, the apostles sat at table in the Jerusalem house where Jesus had made the supper. Jesus appeared among them and rebuked their hardness of heart and unbelief. He said, “Go into the world and baptize in the Lord's name. (182r)
+Lord God be loved. After Christ's execution, the apostles sat at table in the Jerusalem house where Jesus had made the supper. Jesus appeared among them and rebuked their hardness of heart and unbelief. He said, “Go into the world and baptize in the Lord's name.” (182r)
 
-Let each person be baptized in the name of the Father, the Son, and the Holy Spirit, believe, and belong to the Lord. Everyone who believes is saved. No one who does not believe is saved. Whoever does not believe is damned and shall perish.” Here ends this holy gospel. Another reading is attributed to the second chapter of Saint Luke. (182v)
+“Let each person be baptized in the name of the Father, the Son, and the Holy Spirit, believe, and belong to the Lord. Everyone who believes is saved. No one who does not believe is saved. Whoever does not believe is damned and shall perish.” Here ends this holy gospel. Another reading is attributed to the second chapter of Saint Luke. (182v)
 
 ## VIII. The Finding and the Exaltation of the Cross
 
@@ -731,11 +731,11 @@ Jesus told the apostles that the Jews would not all believe what he had preached
 
 The prophets, including holy Elijah, and the apostles teach every person to pray, “Lord, I am your creature. Have mercy on my sin.” Whoever keeps God's commandment and bears its fruit is saved. The names of the faithful are written in the house of the eternal kingdom, where their souls go after death. Amen. (198v)
 
-Here begins a holy gospel attributed to the twenty-fifth chapter of Saint Matthew. When Jesus was thirty-three and a half, he told his apostles and the Jewish people: “A rich man who owned a vineyard had two sons, one signifying the pagan and the other the Jew. (199r)
+Here begins a holy gospel attributed to the twenty-fifth chapter of Saint Matthew. When Jesus was thirty-three and a half, he told his apostles and the Jewish people: “A rich man who owned a vineyard had two sons, one signifying the pagan and the other the Jew.” (199r)
 
-He told each son, ‘Go work today in my vineyard.’ One refused but later went, while the other agreed but did not go. Which one did his father's will?” The Jewish leaders answered, “The first.” Jesus then told a second parable. A rich lord leased his vineyard to tenant farmers. After many years he sent his servants—the prophets and angels—to collect its fruit, but the tenants killed them. (199v–200r)
+“He told each son, ‘Go work today in my vineyard.’ One refused but later went, while the other agreed but did not go. Which one did his father's will?” The Jewish leaders answered, “The first.” Jesus then told a second parable. A rich lord leased his vineyard to tenant farmers. After many years he sent his servants—the prophets and angels—to collect its fruit, but the tenants killed them. (199v–200r)
 
-Last of all the lord sent his son, thinking, ‘They will respect my son.’ When the tenants saw him, they said, ‘This is the heir. Let us kill him and take the vineyard.’ They cast him out and killed him. Jesus then told a third parable. A king prepared a wedding for his son, but none of those invited would come. In anger he destroyed their city with fire and water, then invited people from the whole world to the supper. (200v–201r)
+Last of all the lord sent his son, thinking, “They will respect my son.” When the tenants saw him, they said, “This is the heir. Let us kill him and take the vineyard.” They cast him out and killed him. Jesus then told a third parable. A king prepared a wedding for his son, but none of those invited would come. In anger he destroyed their city with fire and water, then invited people from the whole world to the supper. (200v–201r)
 
 The king told his servants, “Go into the highways and invite everyone you find.” They brought in the poor of God, the blind, the hungry, the thirsty, the weak, and all the people they found along the roads and in the town. Thus they filled the king's house for the wedding. (201v)
 
@@ -745,9 +745,9 @@ The king called the angel Gabriel and commanded, “Bind this man's hands and fe
 
 While Jesus preached in Jerusalem, some Jews came and said, “Master, we know that you speak truly and teach God's way without favoring kings or emperors. Tell us: is it lawful to pay one drachma in tribute to the pagan emperor?” (203r)
 
-They brought the tax coin to Jesus. He asked, “Whose image is this?” They answered, “The emperor's.” He asked, “Whose inscription is this?” They again answered, “The emperor's.” Jesus said, “Then give the emperor his image and inscription. (203v)
+They brought the tax coin to Jesus. He asked, “Whose image is this?” They answered, “The emperor's.” He asked, “Whose inscription is this?” They again answered, “The emperor's.” Jesus said, “Then give the emperor his image and inscription.” (203v)
 
-Give God what belongs to God.” Each person must pay what he owes. Here ends this holy gospel. Through the emperor's image Jesus teaches humility: you [render] what is owed. (204r)
+“Give God what belongs to God.” Each person must pay what he owes. Here ends this holy gospel. Through the emperor's image Jesus teaches humility: you [render] what is owed. (204r)
 
 Through heavenly faith and baptism, a pagan is forgiven and brought into the Lord's people. A baptized believer owes humility to earthly emperors and kings. Second, each person owes service to the Church and must stand before the Father in spirit, walking in the Father's way. (204v)
 
@@ -765,9 +765,9 @@ Lord God later confirmed these three laws to Moses through an angel. From Adam t
 
 Here begins a holy gospel attributed to the fourteenth chapter of Saint Matthew. When Jesus was thirty-three and a half and preaching in Jerusalem, a possessed man was brought to him [in the synagogue]. Jesus cast out the evil spirit. The Jews accused him of doing this with the help of the prince of devils, but Jesus answered that he acted by the power of Father God. (210r)
 
-Jesus said, “When an unclean spirit leaves a person, it walks through dry places seeking rest. Finding none, it decides to return to the house it left. It finds the house empty, swept, and prepared. (210v)
+Jesus said, “When an unclean spirit leaves a person, it walks through dry places seeking rest. Finding none, it decides to return to the house it left. It finds the house empty, swept, and prepared.” (210v)
 
-Then it brings seven spirits more evil than itself, and they enter and dwell there. The person's final state is worse than the first.” A woman in the crowd cried, “Blessed is the womb that bore you and the breasts that nursed you.” (211r)
+“Then it brings seven spirits more evil than itself, and they enter and dwell there. The person's final state is worse than the first.” A woman in the crowd cried, “Blessed is the womb that bore you and the breasts that nursed you.” (211r)
 
 Jesus answered, “Blessed is the Virgin Mary who bore and nursed the Lord, but even more blessed are those who hear God's word and keep it.” Here ends this holy gospel. Lord God be loved. Another holy gospel, attributed to Saint John, begins. (211v)
 
@@ -787,7 +787,7 @@ They said, “Abraham heard God's word, yet he died. Are you greater than Abraha
 
 The Jews said, “This confirms that he is a blasphemer.” They took up stones to kill Jesus, but he passed through them and left the temple with his apostles. Here ends this holy gospel. Lord God be loved. The law of Moses commanded stoning for blasphemy, which is why they seized the stones. [The closing reference to Elijah and Moses is incomplete.] (215v)
 
-The Lord, king of heaven and earth, lived humbly and performed many miracles. He died upon the Cross, rose from death on the third day, and appeared to many people. After remaining among them for forty years (the gospel says forty days), he ascended into heaven. Those who believe confess that he is the true Son of the living God, King of kings, Lord of lords, and ruler of heaven and earth. (014r)
+The Lord, king of heaven and earth, lived humbly and performed many miracles. He died upon the Cross, rose from death on the third day, and appeared to many people. After remaining among them for forty years (Acts says forty days), he ascended into heaven. Those who believe confess that he is the true Son of the living God, King of kings, Lord of lords, and ruler of heaven and earth. (014r)
 
 Here begins a holy gospel attributed to the twenty-first chapter of Saint Matthew. (014v)
 

@@ -31,6 +31,13 @@ def _links(text):
     return out
 
 
+def _sentence(body):
+    """A body is printed after "Name." as a sentence of its own, so it loses the
+    comma that joined it to the name in the record and starts with a capital."""
+    body = re.sub(r"^[,;:]\s*", "", body.strip())
+    return body[:1].upper() + body[1:]
+
+
 def entries():
     txt = open(PROV, encoding="utf-8").read()
     out = []
@@ -42,7 +49,7 @@ def entries():
             if not m:
                 continue
             name = re.sub(r"\*", "", m.group(1)).strip()
-            body = m.group(2).strip()
+            body = _sentence(m.group(2))
             out.append({"name": name, "text": body, "links": _links(one),
                         "anchor": re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")})
     sec = re.search(r"^## 5\. Two sources added.*?(?=^## )", txt, re.M | re.S)
@@ -63,10 +70,10 @@ def entries():
             # head from body at the em dash and reads correctly; these two were the only
             # ones that did not. The cut keeps its own separator, so "tr. William
             # Whiston" does not come out as "William Whiston". (2026-09-22)
-            cut = re.search(r",\s*(?:from|tr\.)|\s*\(", body)
+            cut = re.search(r",\s*(?:from|tr\.)", body)
             head = body[:cut.start()] if cut else body
             name = re.sub(r"\*", "", head).strip().rstrip(",")
-            rest = re.sub(r"^,\s*", "", body[cut.start():].strip()) if cut else ""
+            rest = _sentence(body[cut.start():]) if cut else ""
             out.append({"name": name, "text": rest, "links": _links(one),
                         "anchor": re.sub(r"[^a-z0-9]+", "-", name.lower()).strip("-")[:60]})
     return out
@@ -88,7 +95,7 @@ def note_sources():
             if not m:
                 continue
             out.append({"name": re.sub(r"\*", "", m.group(1)).strip().rstrip("."),
-                        "text": m.group(2).strip()})
+                        "text": _sentence(m.group(2))})
     return out
 
 

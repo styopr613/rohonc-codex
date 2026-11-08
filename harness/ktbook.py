@@ -222,6 +222,16 @@ def figures():
     return g
 
 
+def _pct(*figs):
+    """The prose round of one or more of figures()' percentages, summed."""
+    return str(round(sum(float(f[1]) for f in figs)))
+
+
+def _per_thousand(part, whole):
+    n = round(int(part[0].replace(",", "")) * 1000 / int(whole[0].replace(",", "")))
+    return {1: "about one", 2: "about two", 3: "about three"}.get(n, f"about {n}")
+
+
 def _n(s, w=0):
     """A count with its thousands separator.
 
@@ -454,10 +464,10 @@ mark the scribe sets at the end of a line. A word that begins with a hyphen
 <p>lines complete once brackets are counted — """ + g["lall"][2] + """%</p>
 </div>
 
-About 94% of the text is read directly from the dictionary, leaving about 6%
+About """ + _pct(g["read"]) + """% of the text is read directly from the dictionary, leaving about """ + _pct(g["soft"], g["rest"]) + """%
 that is an educated guess, reconstructed from the context and from the source
 passage the page is retelling, and every guessed word is marked on the page. A
-few dozen words, two in a thousand, cannot be guessed reliably at all, based on
+few dozen words, """ + _per_thousand(g["dark"], g["words"]) + """ in a thousand, cannot be guessed reliably at all, based on
 everything that was done so far.
 
 ## How it was checked
@@ -514,7 +524,7 @@ ever moved afterwards. One attempt scored five times its control at 4.7
 standard deviations against a bar of 5. It is filed as a failure. A near miss
 is a miss.
 
-Two things worked, and both were the same discovery. **Many signs are not
+Three things worked, and the first two were the same discovery. **Many signs are not
 words but short phrases written without a space**, and both halves were often
 in the dictionary already. Cutting them apart recovered 43.9% of a test set
 against 6.3% for a matched control — 12.4 standard deviations — and a second
